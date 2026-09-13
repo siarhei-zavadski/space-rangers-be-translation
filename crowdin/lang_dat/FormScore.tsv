@@ -1,64 +1,64 @@
-identifier	source_phrase	context	labels	be
-/FormScore/BlazerChangeSide	<Blazer> в рядах Коалиции.	Lang.dat: FormScore.BlazerChangeSide. Preserve every <tag> exactly. English reference: <Blazer> is in the Coalition ranks.	FormScore	<Blazer> у шэрагах Кааліцыі.
-/FormScore/BlazerChangeSideAlt	<Blazer> сотрудничает с пиратами.	Lang.dat: FormScore.BlazerChangeSideAlt. Preserve every <tag> exactly. English reference: <Blazer> is allied with pirates.	FormScore	<Blazer> супрацоўнічае зь піратамі.
-/FormScore/BlazerDead	<Blazer> повержен в бою.	Lang.dat: FormScore.BlazerDead. Preserve every <tag> exactly. English reference: <Blazer> was damaged in action.	FormScore	<Blazer> пераможаны ў баі.
-/FormScore/BlazerLeave	<Blazer> жив и ведет войну.	Lang.dat: FormScore.BlazerLeave. Preserve every <tag> exactly. English reference: <Blazer> is alive and fighting.	FormScore	<Blazer> жывы і вядзе вайну.
-/FormScore/BlazerSuicide	<Blazer> самоуничтожился.	Lang.dat: FormScore.BlazerSuicide. Preserve every <tag> exactly. English reference: <Blazer> self-destructed.	FormScore	<Blazer> самазьнішчыўся.
-/FormScore/Clear	Удалить	Lang.dat: FormScore.Clear. Preserve every <tag> exactly. English reference: Delete	FormScore	Выдаліць
-/FormScore/DateWin	Дата:<br><Date>	Lang.dat: FormScore.DateWin. Preserve every <tag> exactly. English reference: Date:<br><Date>	FormScore	Дата:<br><Date>
-/FormScore/Exp	Опыт: <Exp>	Lang.dat: FormScore.Exp. Preserve every <tag> exactly. English reference: Experience: <Exp>	FormScore	Досьвед: <Exp>
-/FormScore/HelpClear	Удалить текущий рекорд	Lang.dat: FormScore.HelpClear. Preserve every <tag> exactly. English reference: Delete current record	FormScore	Выдаліць бягучы рэкорд
-/FormScore/HelpExit	Выход	Lang.dat: FormScore.HelpExit. Preserve every <tag> exactly. English reference: Exit	FormScore	Выхад
-/FormScore/HelpToServer	Сохранить рекорд	Lang.dat: FormScore.HelpToServer. Preserve every <tag> exactly. English reference: Save record	FormScore	Захаваць рэкорд
-/FormScore/KellerDead	<Keller> успешно нейтрализован.	Lang.dat: FormScore.KellerDead. Preserve every <tag> exactly. English reference: <Keller> was neutralized.	FormScore	<Keller> пасьпяхова нэўтралізаваны.
-/FormScore/KellerFly	<Keller> улетел к клисанам.	Lang.dat: FormScore.KellerFly. Preserve every <tag> exactly. English reference: <Keller> flew away to the klissan.	FormScore	<Keller> адляцеў да клісанаў.
-/FormScore/KellerLeave	<Keller> изучает галактику.	Lang.dat: FormScore.KellerLeave. Preserve every <tag> exactly. English reference: <Keller> is surveying the Galaxy.	FormScore	<Keller> вывучае галяктыку.
-/FormScore/KellerNewResearch	<Keller> изучает социум.	Lang.dat: FormScore.KellerNewResearch. Preserve every <tag> exactly. English reference: <Keller> is analyzing society.	FormScore	<Keller> вывучае грамадзтва.
-/FormScore/Kill	Убил:	Lang.dat: FormScore.Kill. Preserve every <tag> exactly. English reference: Kills:	FormScore	Забіў:
-/FormScore/KillDominator	Доминаторы	Lang.dat: FormScore.KillDominator. Preserve every <tag> exactly. English reference: Dominators	FormScore	Дамінатары
-/FormScore/KillHyper	В гипере	Lang.dat: FormScore.KillHyper. Preserve every <tag> exactly. English reference: In hyperspace	FormScore	У гіпэры
-/FormScore/KillNormal	Другие	Lang.dat: FormScore.KillNormal. Preserve every <tag> exactly. English reference: Other	FormScore	Іншыя
-/FormScore/KillPirate	Пираты	Lang.dat: FormScore.KillPirate. Preserve every <tag> exactly. English reference: Pirates	FormScore	Піраты
-/FormScore/LLevel	Сложность	Lang.dat: FormScore.LLevel. Preserve every <tag> exactly. English reference: Difficulty	FormScore	Складанасьць
-/FormScore/LName	Имя	Lang.dat: FormScore.LName. Preserve every <tag> exactly. English reference: Name	FormScore	Імя
-/FormScore/LPlace	Место	Lang.dat: FormScore.LPlace. Preserve every <tag> exactly. English reference: Location	FormScore	Месца
-/FormScore/LRace	Раса	Lang.dat: FormScore.LRace. Preserve every <tag> exactly. English reference: Race	FormScore	Раса
-/FormScore/LScore	Очки	Lang.dat: FormScore.LScore. Preserve every <tag> exactly. English reference: Points	FormScore	Ачкі
-/FormScore/LiberationSystem	Освободил систем: <LiberationSystem>	Lang.dat: FormScore.LiberationSystem. Preserve every <tag> exactly. English reference: Systems liberated: <LiberationSystem>	FormScore	Вызваліў сыстэмаў: <LiberationSystem>
-/FormScore/Note	Примечание:<br>Очки=(Опыт)*Сложность/100/<br>         max(7,Время игры/365)^1.3	Lang.dat: FormScore.Note. Preserve every <tag> exactly. English reference: Note:<br>Points=(Experience)*Difficulty/100/<br>         max(7,Game time/365)^1.3	FormScore	Заўвага:<br>Ачкі=(Досьвед)*Складанасьць/100/<br>         max(7,Час гульні/365)^1.3
-/FormScore/PirateWin0	Пираты воюют с Коалицией.	Lang.dat: FormScore.PirateWin0. Preserve every <tag> exactly. English reference: Pirates are fighting with the Coalition.	FormScore	Піраты ваююць з Кааліцыяй.
-/FormScore/PirateWin1	Пираты проникли во власть.	Lang.dat: FormScore.PirateWin1. Preserve every <tag> exactly. English reference: Pirates have infiltrated government.	FormScore	Піраты праніклі ва ўладу.
-/FormScore/PirateWin2	Пираты вернулись к истокам.	Lang.dat: FormScore.PirateWin2. Preserve every <tag> exactly. English reference: Pirates have returned to their roots.	FormScore	Піраты вярнуліся да вытокаў.
-/FormScore/PirateWin3	Коалиция спасена от пиратов.	Lang.dat: FormScore.PirateWin3. Preserve every <tag> exactly. English reference: The Coalition has been saved from pirates.	FormScore	Кааліцыя выратаваная ад піратаў.
-/FormScore/PirateWin4	Пиратов преследуют неудачи.	Lang.dat: FormScore.PirateWin4. Preserve every <tag> exactly. English reference: Pirates are plagued by misfortunes.	FormScore	Піратаў перасьледуюць няўдачы.
-/FormScore/PirateWin5	Пираты поработили Коалицию.	Lang.dat: FormScore.PirateWin5. Preserve every <tag> exactly. English reference: Pirates have enslaved the Coalition.	FormScore	Піраты заняволілі Кааліцыю.
-/FormScore/PlanetBattles	Выиграл планетарных сражений: <PlanetBattles>	Lang.dat: FormScore.PlanetBattles. Preserve every <tag> exactly. English reference: Planetary battles won: <PlanetBattles>	FormScore	Выйграў плянэтарных бітваў: <PlanetBattles>
-/FormScore/QueryClear	Желаете удалить собственные рекорды?	Lang.dat: FormScore.QueryClear. Preserve every <tag> exactly. English reference: Do you want to delete your own records?	FormScore	Жадаеце выдаліць уласныя рэкорды?
-/FormScore/QueryDelete	Хотите удалить рекорд <Name> на <Score> очков?	Lang.dat: FormScore.QueryDelete. Preserve every <tag> exactly. English reference: Do you want to delete <Name>'s record of <Score> points?	FormScore	Хочаце выдаліць рэкорд <Name> на <Score> ачкоў?
-/FormScore/Quests	Выполнил заданий: <Quests>	Lang.dat: FormScore.Quests. Preserve every <tag> exactly. English reference: Missions completed: <Quests>	FormScore	Выканаў заданьняў: <Quests>
-/FormScore/Quests1	Выполнено <N> заданий по доставке грузов	Lang.dat: FormScore.Quests1. Preserve every <tag> exactly. English reference: Completed <N> cargo delivery missions	FormScore	Выканана <N> заданьняў па дастаўцы грузаў
-/FormScore/Quests2	Выполнено <N> заданий по уничтожению кораблей	Lang.dat: FormScore.Quests2. Preserve every <tag> exactly. English reference: Completed <N> ship termination missions	FormScore	Выканана <N> заданьняў па зьнішчэньні караблёў
-/FormScore/Quests3	Выполнено <N> планетарных квестов	Lang.dat: FormScore.Quests3. Preserve every <tag> exactly. English reference: Completed <N> planetary quests	FormScore	Выканана <N> плянэтарных заданьняў
-/FormScore/Quests4	Выполнено <N> заданий по охране систем	Lang.dat: FormScore.Quests4. Preserve every <tag> exactly. English reference: Completed <N> system protection missions	FormScore	Выканана <N> заданьняў па ахове сыстэмаў
-/FormScore/Quests5	Выполнено <N> заданий по защите кораблей	Lang.dat: FormScore.Quests5. Preserve every <tag> exactly. English reference: Completed <N> ship protection missions	FormScore	Выканана <N> заданьняў па абароне караблёў
-/FormScore/Rank	Звание: <Rank>	Lang.dat: FormScore.Rank. Preserve every <tag> exactly. English reference: Rank: <Rank>	FormScore	Званьне: <Rank>
-/FormScore/Rewards	Получил наград: <Rewards>	Lang.dat: FormScore.Rewards. Preserve every <tag> exactly. English reference: Awards received: <Rewards>	FormScore	Атрымаў узнагародаў: <Rewards>
-/FormScore/TerronBattle	<Terron> убит в наземной битве.	Lang.dat: FormScore.TerronBattle. Preserve every <tag> exactly. English reference: <Terron> was killed in a land battle.	FormScore	<Terron> забіты ў наземнай бітве.
-/FormScore/TerronDead	<Terron> полностью уничтожен.	Lang.dat: FormScore.TerronDead. Preserve every <tag> exactly. English reference: <Terron> was completely destroyed.	FormScore	<Terron> цалкам зьнішчаны.
-/FormScore/TerronLeave	<Terron> пока размножается.	Lang.dat: FormScore.TerronLeave. Preserve every <tag> exactly. English reference: <Terron> is still reproducing.	FormScore	<Terron> пакуль размножваецца.
-/FormScore/TerronStar	<Terron> преобразовывает звезду.	Lang.dat: FormScore.TerronStar. Preserve every <tag> exactly. English reference: <Terron> is transforming a star.	FormScore	<Terron> пераўтварае зорку.
-/FormScore/ToServer	Ваша игра, <Player>, успешно сохранена в файле <File><br> <br>Теперь Вам надлежит принять участие в Галактическом Рейтинге Рейнджеров.<br>Все дальнейшие инструкции на официальном сайте игры <clr>ru.spacerangershd.com<clrEnd><br> <br><WinGameDate><br>Комиссия по приемке рекордов.	Lang.dat: FormScore.ToServer. Preserve every <tag> exactly. English reference: <Player>, your game was saved to <File><br> <br>Now you have to take part in the Galactic Ranger Rating.<br>For additional instructions please visit the official site of the game: <clr>www.RANGERS.ru<clrEnd><br> <br><WinGameDate><br>Record Acceptance Committee.	FormScore	Вашая гульня, <Player>, пасьпяхова захаваная ў файле <File><br> <br>Цяпер Вам належыць узяць удзел у Галяктычным рэйтынгу рэйнджэраў.<br>Усе далейшыя інструкцыі на афіцыйным сайце гульні <clr>ru.spacerangershd.com<clrEnd><br> <br><WinGameDate><br>Камісія па прыёмцы рэкордаў.
-/FormScore/TotalLoss	НЕ ДОЖИЛ ДО ПОБЕДЫ	Lang.dat: FormScore.TotalLoss. Preserve every <tag> exactly. English reference: DID NOT LIVE TO SEE VICTORY	FormScore	НЕ ДАЖЫЎ ДА ПЕРАМОГІ
-/FormScore/TotalWin	Итого очков: <Total>	Lang.dat: FormScore.TotalWin. Preserve every <tag> exactly. English reference: Total score: <Total>	FormScore	Разам ачкоў: <Total>
-/FormScore/TurnWin	Время игры:<br><Date> дней	Lang.dat: FormScore.TurnWin. Preserve every <tag> exactly. English reference: Game time:<br><Date> days	FormScore	Час гульні:<br><Date> дзён
-/FormScore/Winners/0/Name	Мудрец гаала	Lang.dat: FormScore.Winners.0.Name. Preserve every <tag> exactly. English reference: Gaal Sage	FormScore	Мудрэц гаала
-/FormScore/Winners/1/Name	Интеллектуал	Lang.dat: FormScore.Winners.1.Name. Preserve every <tag> exactly. English reference: Intellectual	FormScore	Інтэлектуал
-/FormScore/Winners/10/Name	Хвастун	Lang.dat: FormScore.Winners.10.Name. Preserve every <tag> exactly. English reference: Braggart	FormScore	Хвалька
-/FormScore/Winners/2/Name	Гвардеец Михалыч	Lang.dat: FormScore.Winners.2.Name. Preserve every <tag> exactly. English reference: Mickey the Guard	FormScore	Гвардзеец Міхалыч
-/FormScore/Winners/3/Name	Камикадзе	Lang.dat: FormScore.Winners.3.Name. Preserve every <tag> exactly. English reference: Kamikaze	FormScore	Камікадзэ
-/FormScore/Winners/4/Name	Толстомордый	Lang.dat: FormScore.Winners.4.Name. Preserve every <tag> exactly. English reference: Fatface	FormScore	Таўстаморды
-/FormScore/Winners/5/Name	Неуловимый хакер	Lang.dat: FormScore.Winners.5.Name. Preserve every <tag> exactly. English reference: Elusive Hacker	FormScore	Неўлоўны хакер
-/FormScore/Winners/6/Name	Грузчик	Lang.dat: FormScore.Winners.6.Name. Preserve every <tag> exactly. English reference: Mover	FormScore	Грузчык
-/FormScore/Winners/7/Name	Очиститель душ	Lang.dat: FormScore.Winners.7.Name. Preserve every <tag> exactly. English reference: Soul Purifier	FormScore	Ачышчальнік душаў
-/FormScore/Winners/8/Name	Зверожабер	Lang.dat: FormScore.Winners.8.Name. Preserve every <tag> exactly. English reference: Bullfrogasaurus	FormScore	Зьверажабер
-/FormScore/Winners/9/Name	Мисс вселенная	Lang.dat: FormScore.Winners.9.Name. Preserve every <tag> exactly. English reference: Miss Universe	FormScore	Міс Сусьвет
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/FormScore/BlazerChangeSide"	"<Blazer> в рядах Коалиции."	"Lang.dat: FormScore.BlazerChangeSide. Preserve every <tag> exactly. English reference: <Blazer> is in the Coalition ranks."	"FormScore"	"<Blazer> у шэрагах Кааліцыі."
+"/FormScore/BlazerChangeSideAlt"	"<Blazer> сотрудничает с пиратами."	"Lang.dat: FormScore.BlazerChangeSideAlt. Preserve every <tag> exactly. English reference: <Blazer> is allied with pirates."	"FormScore"	"<Blazer> супрацоўнічае зь піратамі."
+"/FormScore/BlazerDead"	"<Blazer> повержен в бою."	"Lang.dat: FormScore.BlazerDead. Preserve every <tag> exactly. English reference: <Blazer> was damaged in action."	"FormScore"	"<Blazer> пераможаны ў баі."
+"/FormScore/BlazerLeave"	"<Blazer> жив и ведет войну."	"Lang.dat: FormScore.BlazerLeave. Preserve every <tag> exactly. English reference: <Blazer> is alive and fighting."	"FormScore"	"<Blazer> жывы і вядзе вайну."
+"/FormScore/BlazerSuicide"	"<Blazer> самоуничтожился."	"Lang.dat: FormScore.BlazerSuicide. Preserve every <tag> exactly. English reference: <Blazer> self-destructed."	"FormScore"	"<Blazer> самазьнішчыўся."
+"/FormScore/Clear"	"Удалить"	"Lang.dat: FormScore.Clear. Preserve every <tag> exactly. English reference: Delete"	"FormScore"	"Выдаліць"
+"/FormScore/DateWin"	"Дата:<br><Date>"	"Lang.dat: FormScore.DateWin. Preserve every <tag> exactly. English reference: Date:<br><Date>"	"FormScore"	"Дата:<br><Date>"
+"/FormScore/Exp"	"Опыт: <Exp>"	"Lang.dat: FormScore.Exp. Preserve every <tag> exactly. English reference: Experience: <Exp>"	"FormScore"	"Досьвед: <Exp>"
+"/FormScore/HelpClear"	"Удалить текущий рекорд"	"Lang.dat: FormScore.HelpClear. Preserve every <tag> exactly. English reference: Delete current record"	"FormScore"	"Выдаліць бягучы рэкорд"
+"/FormScore/HelpExit"	"Выход"	"Lang.dat: FormScore.HelpExit. Preserve every <tag> exactly. English reference: Exit"	"FormScore"	"Выхад"
+"/FormScore/HelpToServer"	"Сохранить рекорд"	"Lang.dat: FormScore.HelpToServer. Preserve every <tag> exactly. English reference: Save record"	"FormScore"	"Захаваць рэкорд"
+"/FormScore/KellerDead"	"<Keller> успешно нейтрализован."	"Lang.dat: FormScore.KellerDead. Preserve every <tag> exactly. English reference: <Keller> was neutralized."	"FormScore"	"<Keller> пасьпяхова нэўтралізаваны."
+"/FormScore/KellerFly"	"<Keller> улетел к клисанам."	"Lang.dat: FormScore.KellerFly. Preserve every <tag> exactly. English reference: <Keller> flew away to the klissan."	"FormScore"	"<Keller> адляцеў да клісанаў."
+"/FormScore/KellerLeave"	"<Keller> изучает галактику."	"Lang.dat: FormScore.KellerLeave. Preserve every <tag> exactly. English reference: <Keller> is surveying the Galaxy."	"FormScore"	"<Keller> вывучае галяктыку."
+"/FormScore/KellerNewResearch"	"<Keller> изучает социум."	"Lang.dat: FormScore.KellerNewResearch. Preserve every <tag> exactly. English reference: <Keller> is analyzing society."	"FormScore"	"<Keller> вывучае грамадзтва."
+"/FormScore/Kill"	"Убил:"	"Lang.dat: FormScore.Kill. Preserve every <tag> exactly. English reference: Kills:"	"FormScore"	"Забіў:"
+"/FormScore/KillDominator"	"Доминаторы"	"Lang.dat: FormScore.KillDominator. Preserve every <tag> exactly. English reference: Dominators"	"FormScore"	"Дамінатары"
+"/FormScore/KillHyper"	"В гипере"	"Lang.dat: FormScore.KillHyper. Preserve every <tag> exactly. English reference: In hyperspace"	"FormScore"	"У гіпэры"
+"/FormScore/KillNormal"	"Другие"	"Lang.dat: FormScore.KillNormal. Preserve every <tag> exactly. English reference: Other"	"FormScore"	"Іншыя"
+"/FormScore/KillPirate"	"Пираты"	"Lang.dat: FormScore.KillPirate. Preserve every <tag> exactly. English reference: Pirates"	"FormScore"	"Піраты"
+"/FormScore/LLevel"	"Сложность"	"Lang.dat: FormScore.LLevel. Preserve every <tag> exactly. English reference: Difficulty"	"FormScore"	"Складанасьць"
+"/FormScore/LName"	"Имя"	"Lang.dat: FormScore.LName. Preserve every <tag> exactly. English reference: Name"	"FormScore"	"Імя"
+"/FormScore/LPlace"	"Место"	"Lang.dat: FormScore.LPlace. Preserve every <tag> exactly. English reference: Location"	"FormScore"	"Месца"
+"/FormScore/LRace"	"Раса"	"Lang.dat: FormScore.LRace. Preserve every <tag> exactly. English reference: Race"	"FormScore"	"Раса"
+"/FormScore/LScore"	"Очки"	"Lang.dat: FormScore.LScore. Preserve every <tag> exactly. English reference: Points"	"FormScore"	"Ачкі"
+"/FormScore/LiberationSystem"	"Освободил систем: <LiberationSystem>"	"Lang.dat: FormScore.LiberationSystem. Preserve every <tag> exactly. English reference: Systems liberated: <LiberationSystem>"	"FormScore"	"Вызваліў сыстэмаў: <LiberationSystem>"
+"/FormScore/Note"	"Примечание:<br>Очки=(Опыт)*Сложность/100/<br>         max(7,Время игры/365)^1.3"	"Lang.dat: FormScore.Note. Preserve every <tag> exactly. English reference: Note:<br>Points=(Experience)*Difficulty/100/<br>         max(7,Game time/365)^1.3"	"FormScore"	"Заўвага:<br>Ачкі=(Досьвед)*Складанасьць/100/<br>         max(7,Час гульні/365)^1.3"
+"/FormScore/PirateWin0"	"Пираты воюют с Коалицией."	"Lang.dat: FormScore.PirateWin0. Preserve every <tag> exactly. English reference: Pirates are fighting with the Coalition."	"FormScore"	"Піраты ваююць з Кааліцыяй."
+"/FormScore/PirateWin1"	"Пираты проникли во власть."	"Lang.dat: FormScore.PirateWin1. Preserve every <tag> exactly. English reference: Pirates have infiltrated government."	"FormScore"	"Піраты праніклі ва ўладу."
+"/FormScore/PirateWin2"	"Пираты вернулись к истокам."	"Lang.dat: FormScore.PirateWin2. Preserve every <tag> exactly. English reference: Pirates have returned to their roots."	"FormScore"	"Піраты вярнуліся да вытокаў."
+"/FormScore/PirateWin3"	"Коалиция спасена от пиратов."	"Lang.dat: FormScore.PirateWin3. Preserve every <tag> exactly. English reference: The Coalition has been saved from pirates."	"FormScore"	"Кааліцыя выратаваная ад піратаў."
+"/FormScore/PirateWin4"	"Пиратов преследуют неудачи."	"Lang.dat: FormScore.PirateWin4. Preserve every <tag> exactly. English reference: Pirates are plagued by misfortunes."	"FormScore"	"Піратаў перасьледуюць няўдачы."
+"/FormScore/PirateWin5"	"Пираты поработили Коалицию."	"Lang.dat: FormScore.PirateWin5. Preserve every <tag> exactly. English reference: Pirates have enslaved the Coalition."	"FormScore"	"Піраты заняволілі Кааліцыю."
+"/FormScore/PlanetBattles"	"Выиграл планетарных сражений: <PlanetBattles>"	"Lang.dat: FormScore.PlanetBattles. Preserve every <tag> exactly. English reference: Planetary battles won: <PlanetBattles>"	"FormScore"	"Выйграў плянэтарных бітваў: <PlanetBattles>"
+"/FormScore/QueryClear"	"Желаете удалить собственные рекорды?"	"Lang.dat: FormScore.QueryClear. Preserve every <tag> exactly. English reference: Do you want to delete your own records?"	"FormScore"	"Жадаеце выдаліць уласныя рэкорды?"
+"/FormScore/QueryDelete"	"Хотите удалить рекорд <Name> на <Score> очков?"	"Lang.dat: FormScore.QueryDelete. Preserve every <tag> exactly. English reference: Do you want to delete <Name>'s record of <Score> points?"	"FormScore"	"Хочаце выдаліць рэкорд <Name> на <Score> ачкоў?"
+"/FormScore/Quests"	"Выполнил заданий: <Quests>"	"Lang.dat: FormScore.Quests. Preserve every <tag> exactly. English reference: Missions completed: <Quests>"	"FormScore"	"Выканаў заданьняў: <Quests>"
+"/FormScore/Quests1"	"Выполнено <N> заданий по доставке грузов"	"Lang.dat: FormScore.Quests1. Preserve every <tag> exactly. English reference: Completed <N> cargo delivery missions"	"FormScore"	"Выканана <N> заданьняў па дастаўцы грузаў"
+"/FormScore/Quests2"	"Выполнено <N> заданий по уничтожению кораблей"	"Lang.dat: FormScore.Quests2. Preserve every <tag> exactly. English reference: Completed <N> ship termination missions"	"FormScore"	"Выканана <N> заданьняў па зьнішчэньні караблёў"
+"/FormScore/Quests3"	"Выполнено <N> планетарных квестов"	"Lang.dat: FormScore.Quests3. Preserve every <tag> exactly. English reference: Completed <N> planetary quests"	"FormScore"	"Выканана <N> плянэтарных заданьняў"
+"/FormScore/Quests4"	"Выполнено <N> заданий по охране систем"	"Lang.dat: FormScore.Quests4. Preserve every <tag> exactly. English reference: Completed <N> system protection missions"	"FormScore"	"Выканана <N> заданьняў па ахове сыстэмаў"
+"/FormScore/Quests5"	"Выполнено <N> заданий по защите кораблей"	"Lang.dat: FormScore.Quests5. Preserve every <tag> exactly. English reference: Completed <N> ship protection missions"	"FormScore"	"Выканана <N> заданьняў па абароне караблёў"
+"/FormScore/Rank"	"Звание: <Rank>"	"Lang.dat: FormScore.Rank. Preserve every <tag> exactly. English reference: Rank: <Rank>"	"FormScore"	"Званьне: <Rank>"
+"/FormScore/Rewards"	"Получил наград: <Rewards>"	"Lang.dat: FormScore.Rewards. Preserve every <tag> exactly. English reference: Awards received: <Rewards>"	"FormScore"	"Атрымаў узнагародаў: <Rewards>"
+"/FormScore/TerronBattle"	"<Terron> убит в наземной битве."	"Lang.dat: FormScore.TerronBattle. Preserve every <tag> exactly. English reference: <Terron> was killed in a land battle."	"FormScore"	"<Terron> забіты ў наземнай бітве."
+"/FormScore/TerronDead"	"<Terron> полностью уничтожен."	"Lang.dat: FormScore.TerronDead. Preserve every <tag> exactly. English reference: <Terron> was completely destroyed."	"FormScore"	"<Terron> цалкам зьнішчаны."
+"/FormScore/TerronLeave"	"<Terron> пока размножается."	"Lang.dat: FormScore.TerronLeave. Preserve every <tag> exactly. English reference: <Terron> is still reproducing."	"FormScore"	"<Terron> пакуль размножваецца."
+"/FormScore/TerronStar"	"<Terron> преобразовывает звезду."	"Lang.dat: FormScore.TerronStar. Preserve every <tag> exactly. English reference: <Terron> is transforming a star."	"FormScore"	"<Terron> пераўтварае зорку."
+"/FormScore/ToServer"	"Ваша игра, <Player>, успешно сохранена в файле <File><br> <br>Теперь Вам надлежит принять участие в Галактическом Рейтинге Рейнджеров.<br>Все дальнейшие инструкции на официальном сайте игры <clr>ru.spacerangershd.com<clrEnd><br> <br><WinGameDate><br>Комиссия по приемке рекордов."	"Lang.dat: FormScore.ToServer. Preserve every <tag> exactly. English reference: <Player>, your game was saved to <File><br> <br>Now you have to take part in the Galactic Ranger Rating.<br>For additional instructions please visit the official site of the game: <clr>www.RANGERS.ru<clrEnd><br> <br><WinGameDate><br>Record Acceptance Committee."	"FormScore"	"Вашая гульня, <Player>, пасьпяхова захаваная ў файле <File><br> <br>Цяпер Вам належыць узяць удзел у Галяктычным рэйтынгу рэйнджэраў.<br>Усе далейшыя інструкцыі на афіцыйным сайце гульні <clr>ru.spacerangershd.com<clrEnd><br> <br><WinGameDate><br>Камісія па прыёмцы рэкордаў."
+"/FormScore/TotalLoss"	"НЕ ДОЖИЛ ДО ПОБЕДЫ"	"Lang.dat: FormScore.TotalLoss. Preserve every <tag> exactly. English reference: DID NOT LIVE TO SEE VICTORY"	"FormScore"	"НЕ ДАЖЫЎ ДА ПЕРАМОГІ"
+"/FormScore/TotalWin"	"Итого очков: <Total>"	"Lang.dat: FormScore.TotalWin. Preserve every <tag> exactly. English reference: Total score: <Total>"	"FormScore"	"Разам ачкоў: <Total>"
+"/FormScore/TurnWin"	"Время игры:<br><Date> дней"	"Lang.dat: FormScore.TurnWin. Preserve every <tag> exactly. English reference: Game time:<br><Date> days"	"FormScore"	"Час гульні:<br><Date> дзён"
+"/FormScore/Winners/0/Name"	"Мудрец гаала"	"Lang.dat: FormScore.Winners.0.Name. Preserve every <tag> exactly. English reference: Gaal Sage"	"FormScore"	"Мудрэц гаала"
+"/FormScore/Winners/1/Name"	"Интеллектуал"	"Lang.dat: FormScore.Winners.1.Name. Preserve every <tag> exactly. English reference: Intellectual"	"FormScore"	"Інтэлектуал"
+"/FormScore/Winners/10/Name"	"Хвастун"	"Lang.dat: FormScore.Winners.10.Name. Preserve every <tag> exactly. English reference: Braggart"	"FormScore"	"Хвалька"
+"/FormScore/Winners/2/Name"	"Гвардеец Михалыч"	"Lang.dat: FormScore.Winners.2.Name. Preserve every <tag> exactly. English reference: Mickey the Guard"	"FormScore"	"Гвардзеец Міхалыч"
+"/FormScore/Winners/3/Name"	"Камикадзе"	"Lang.dat: FormScore.Winners.3.Name. Preserve every <tag> exactly. English reference: Kamikaze"	"FormScore"	"Камікадзэ"
+"/FormScore/Winners/4/Name"	"Толстомордый"	"Lang.dat: FormScore.Winners.4.Name. Preserve every <tag> exactly. English reference: Fatface"	"FormScore"	"Таўстаморды"
+"/FormScore/Winners/5/Name"	"Неуловимый хакер"	"Lang.dat: FormScore.Winners.5.Name. Preserve every <tag> exactly. English reference: Elusive Hacker"	"FormScore"	"Неўлоўны хакер"
+"/FormScore/Winners/6/Name"	"Грузчик"	"Lang.dat: FormScore.Winners.6.Name. Preserve every <tag> exactly. English reference: Mover"	"FormScore"	"Грузчык"
+"/FormScore/Winners/7/Name"	"Очиститель душ"	"Lang.dat: FormScore.Winners.7.Name. Preserve every <tag> exactly. English reference: Soul Purifier"	"FormScore"	"Ачышчальнік душаў"
+"/FormScore/Winners/8/Name"	"Зверожабер"	"Lang.dat: FormScore.Winners.8.Name. Preserve every <tag> exactly. English reference: Bullfrogasaurus"	"FormScore"	"Зьверажабер"
+"/FormScore/Winners/9/Name"	"Мисс вселенная"	"Lang.dat: FormScore.Winners.9.Name. Preserve every <tag> exactly. English reference: Miss Universe"	"FormScore"	"Міс Сусьвет"

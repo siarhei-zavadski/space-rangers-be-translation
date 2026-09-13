@@ -1,30 +1,30 @@
-identifier	source_phrase	context	labels	be
-/FormGalaxy/Boss1	Блазер	Lang.dat: FormGalaxy.Boss1. Preserve every <tag> exactly. English reference: Blazer	FormGalaxy	Блазер
-/FormGalaxy/Boss2	Келлер	Lang.dat: FormGalaxy.Boss2. Preserve every <tag> exactly. English reference: Keller	FormGalaxy	Келлер
-/FormGalaxy/Boss3	Террон	Lang.dat: FormGalaxy.Boss3. Preserve every <tag> exactly. English reference: Terron	FormGalaxy	Террон
-/FormGalaxy/DomikShip1	Э	Lang.dat: FormGalaxy.DomikShip1. Preserve every <tag> exactly. English reference: Eq	FormGalaxy	Э
-/FormGalaxy/DomikShip2	У	Lang.dat: FormGalaxy.DomikShip2. Preserve every <tag> exactly. English reference: Ur	FormGalaxy	У
-/FormGalaxy/DomikShip3	С	Lang.dat: FormGalaxy.DomikShip3. Preserve every <tag> exactly. English reference: Sm	FormGalaxy	С
-/FormGalaxy/DomikShip4	М	Lang.dat: FormGalaxy.DomikShip4. Preserve every <tag> exactly. English reference: Me	FormGalaxy	М
-/FormGalaxy/DomikShip5	Ш	Lang.dat: FormGalaxy.DomikShip5. Preserve every <tag> exactly. English reference: Sh	FormGalaxy	Ш
-/FormGalaxy/DomikShip6	Б	Lang.dat: FormGalaxy.DomikShip6. Preserve every <tag> exactly. English reference: Be	FormGalaxy	Б
-/FormGalaxy/DomikShip7	К	Lang.dat: FormGalaxy.DomikShip7. Preserve every <tag> exactly. English reference: Kl	FormGalaxy	К
-/FormGalaxy/FriendShip1	Р	Lang.dat: FormGalaxy.FriendShip1. Preserve every <tag> exactly. English reference: Ra	FormGalaxy	Р
-/FormGalaxy/FriendShip2	В	Lang.dat: FormGalaxy.FriendShip2. Preserve every <tag> exactly. English reference: Mi	FormGalaxy	В
-/FormGalaxy/FriendShip3	Ф	Lang.dat: FormGalaxy.FriendShip3. Preserve every <tag> exactly. English reference: Fl	FormGalaxy	Ф
-/FormGalaxy/FriendShip4	П	Lang.dat: FormGalaxy.FriendShip4. Preserve every <tag> exactly. English reference: Pi	FormGalaxy	П
-/FormGalaxy/FriendShip5	Т	Lang.dat: FormGalaxy.FriendShip5. Preserve every <tag> exactly. English reference: Tr	FormGalaxy	Т
-/FormGalaxy/FriendShip6	Л	Lang.dat: FormGalaxy.FriendShip6. Preserve every <tag> exactly. English reference: Li	FormGalaxy	Л
-/FormGalaxy/FriendShip7	Д	Lang.dat: FormGalaxy.FriendShip7. Preserve every <tag> exactly. English reference: Di	FormGalaxy	Д
-/FormGalaxy/HelpButCreate	Проложить маршрут (с зажатым <color=255,245,80>Alt</color>)	Lang.dat: FormGalaxy.HelpButCreate. Preserve every <tag> exactly. English reference: Lay route (hold down <color=255,245,80>Alt</color>)	FormGalaxy	Пракласьці маршрут (з заціснутым <color=255,245,80>Alt</color>)
-/FormGalaxy/HelpButDel	Очистить маршрут	Lang.dat: FormGalaxy.HelpButDel. Preserve every <tag> exactly. English reference: Clear route	FormGalaxy	Ачысьціць маршрут
-/FormGalaxy/HelpButUndo	Удалить последнюю точку маршрута	Lang.dat: FormGalaxy.HelpButUndo. Preserve every <tag> exactly. English reference: Remove last route point	FormGalaxy	Выдаліць апошні пункт маршруту
-/FormGalaxy/JumpTo	Прыжок в<br><Name>	Lang.dat: FormGalaxy.JumpTo. Preserve every <tag> exactly. English reference: Jump to <br><Name>	FormGalaxy	Скок у<br><Name>
-/FormGalaxy/NeedFuelOrEngine/0	Совершить прыжок в систему <Star> невозможно	Lang.dat: FormGalaxy.NeedFuelOrEngine.0. Preserve every <tag> exactly. English reference: Cannot jump to the <Star> system	FormGalaxy	Скокнуць у сыстэму <Star> немагчыма
-/FormGalaxy/NeedFuelOrEngine/2	Вероятные причины отказа:	Lang.dat: FormGalaxy.NeedFuelOrEngine.2. Preserve every <tag> exactly. English reference: Possible reasons:	FormGalaxy	Верагодныя прычыны адмовы:
-/FormGalaxy/NeedFuelOrEngine/3	- Не хватает топлива	Lang.dat: FormGalaxy.NeedFuelOrEngine.3. Preserve every <tag> exactly. English reference: - Low fuel	FormGalaxy	- Не хапае паліва
-/FormGalaxy/NeedFuelOrEngine/4	- Маломощный двигатель	Lang.dat: FormGalaxy.NeedFuelOrEngine.4. Preserve every <tag> exactly. English reference: - Low engine capacity	FormGalaxy	- Маламагутны рухавік
-/FormGalaxy/PirateClanShip1	Р	Lang.dat: FormGalaxy.PirateClanShip1. Preserve every <tag> exactly. English reference: Ra	FormGalaxy	Р
-/FormGalaxy/PirateClanShip2	В	Lang.dat: FormGalaxy.PirateClanShip2. Preserve every <tag> exactly. English reference: Mi	FormGalaxy	В
-/FormGalaxy/PirateClanShip3	П	Lang.dat: FormGalaxy.PirateClanShip3. Preserve every <tag> exactly. English reference: Pi	FormGalaxy	П
-/FormGalaxy/UnknowShip	Нераспознано	Lang.dat: FormGalaxy.UnknowShip. Preserve every <tag> exactly. English reference: Undetected	FormGalaxy	Нераспазнана
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/FormGalaxy/Boss1"	"Блазер"	"Lang.dat: FormGalaxy.Boss1. Preserve every <tag> exactly. English reference: Blazer"	"FormGalaxy"	"Блазер"
+"/FormGalaxy/Boss2"	"Келлер"	"Lang.dat: FormGalaxy.Boss2. Preserve every <tag> exactly. English reference: Keller"	"FormGalaxy"	"Келлер"
+"/FormGalaxy/Boss3"	"Террон"	"Lang.dat: FormGalaxy.Boss3. Preserve every <tag> exactly. English reference: Terron"	"FormGalaxy"	"Террон"
+"/FormGalaxy/DomikShip1"	"Э"	"Lang.dat: FormGalaxy.DomikShip1. Preserve every <tag> exactly. English reference: Eq"	"FormGalaxy"	"Э"
+"/FormGalaxy/DomikShip2"	"У"	"Lang.dat: FormGalaxy.DomikShip2. Preserve every <tag> exactly. English reference: Ur"	"FormGalaxy"	"У"
+"/FormGalaxy/DomikShip3"	"С"	"Lang.dat: FormGalaxy.DomikShip3. Preserve every <tag> exactly. English reference: Sm"	"FormGalaxy"	"С"
+"/FormGalaxy/DomikShip4"	"М"	"Lang.dat: FormGalaxy.DomikShip4. Preserve every <tag> exactly. English reference: Me"	"FormGalaxy"	"М"
+"/FormGalaxy/DomikShip5"	"Ш"	"Lang.dat: FormGalaxy.DomikShip5. Preserve every <tag> exactly. English reference: Sh"	"FormGalaxy"	"Ш"
+"/FormGalaxy/DomikShip6"	"Б"	"Lang.dat: FormGalaxy.DomikShip6. Preserve every <tag> exactly. English reference: Be"	"FormGalaxy"	"Б"
+"/FormGalaxy/DomikShip7"	"К"	"Lang.dat: FormGalaxy.DomikShip7. Preserve every <tag> exactly. English reference: Kl"	"FormGalaxy"	"К"
+"/FormGalaxy/FriendShip1"	"Р"	"Lang.dat: FormGalaxy.FriendShip1. Preserve every <tag> exactly. English reference: Ra"	"FormGalaxy"	"Р"
+"/FormGalaxy/FriendShip2"	"В"	"Lang.dat: FormGalaxy.FriendShip2. Preserve every <tag> exactly. English reference: Mi"	"FormGalaxy"	"В"
+"/FormGalaxy/FriendShip3"	"Ф"	"Lang.dat: FormGalaxy.FriendShip3. Preserve every <tag> exactly. English reference: Fl"	"FormGalaxy"	"Ф"
+"/FormGalaxy/FriendShip4"	"П"	"Lang.dat: FormGalaxy.FriendShip4. Preserve every <tag> exactly. English reference: Pi"	"FormGalaxy"	"П"
+"/FormGalaxy/FriendShip5"	"Т"	"Lang.dat: FormGalaxy.FriendShip5. Preserve every <tag> exactly. English reference: Tr"	"FormGalaxy"	"Т"
+"/FormGalaxy/FriendShip6"	"Л"	"Lang.dat: FormGalaxy.FriendShip6. Preserve every <tag> exactly. English reference: Li"	"FormGalaxy"	"Л"
+"/FormGalaxy/FriendShip7"	"Д"	"Lang.dat: FormGalaxy.FriendShip7. Preserve every <tag> exactly. English reference: Di"	"FormGalaxy"	"Д"
+"/FormGalaxy/HelpButCreate"	"Проложить маршрут (с зажатым <color=255,245,80>Alt</color>)"	"Lang.dat: FormGalaxy.HelpButCreate. Preserve every <tag> exactly. English reference: Lay route (hold down <color=255,245,80>Alt</color>)"	"FormGalaxy"	"Пракласьці маршрут (з заціснутым <color=255,245,80>Alt</color>)"
+"/FormGalaxy/HelpButDel"	"Очистить маршрут"	"Lang.dat: FormGalaxy.HelpButDel. Preserve every <tag> exactly. English reference: Clear route"	"FormGalaxy"	"Ачысьціць маршрут"
+"/FormGalaxy/HelpButUndo"	"Удалить последнюю точку маршрута"	"Lang.dat: FormGalaxy.HelpButUndo. Preserve every <tag> exactly. English reference: Remove last route point"	"FormGalaxy"	"Выдаліць апошні пункт маршруту"
+"/FormGalaxy/JumpTo"	"Прыжок в<br><Name>"	"Lang.dat: FormGalaxy.JumpTo. Preserve every <tag> exactly. English reference: Jump to <br><Name>"	"FormGalaxy"	"Скок у<br><Name>"
+"/FormGalaxy/NeedFuelOrEngine/0"	"Совершить прыжок в систему <Star> невозможно"	"Lang.dat: FormGalaxy.NeedFuelOrEngine.0. Preserve every <tag> exactly. English reference: Cannot jump to the <Star> system"	"FormGalaxy"	"Скокнуць у сыстэму <Star> немагчыма"
+"/FormGalaxy/NeedFuelOrEngine/2"	"Вероятные причины отказа:"	"Lang.dat: FormGalaxy.NeedFuelOrEngine.2. Preserve every <tag> exactly. English reference: Possible reasons:"	"FormGalaxy"	"Верагодныя прычыны адмовы:"
+"/FormGalaxy/NeedFuelOrEngine/3"	"- Не хватает топлива"	"Lang.dat: FormGalaxy.NeedFuelOrEngine.3. Preserve every <tag> exactly. English reference: - Low fuel"	"FormGalaxy"	"- Не хапае паліва"
+"/FormGalaxy/NeedFuelOrEngine/4"	"- Маломощный двигатель"	"Lang.dat: FormGalaxy.NeedFuelOrEngine.4. Preserve every <tag> exactly. English reference: - Low engine capacity"	"FormGalaxy"	"- Маламагутны рухавік"
+"/FormGalaxy/PirateClanShip1"	"Р"	"Lang.dat: FormGalaxy.PirateClanShip1. Preserve every <tag> exactly. English reference: Ra"	"FormGalaxy"	"Р"
+"/FormGalaxy/PirateClanShip2"	"В"	"Lang.dat: FormGalaxy.PirateClanShip2. Preserve every <tag> exactly. English reference: Mi"	"FormGalaxy"	"В"
+"/FormGalaxy/PirateClanShip3"	"П"	"Lang.dat: FormGalaxy.PirateClanShip3. Preserve every <tag> exactly. English reference: Pi"	"FormGalaxy"	"П"
+"/FormGalaxy/UnknowShip"	"Нераспознано"	"Lang.dat: FormGalaxy.UnknowShip. Preserve every <tag> exactly. English reference: Undetected"	"FormGalaxy"	"Нераспазнана"
