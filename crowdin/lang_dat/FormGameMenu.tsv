@@ -1,7 +1,7 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
 "/FormGameMenu/Exit"	"Выход (E)"	"Lang.dat: FormGameMenu.Exit. Preserve every <tag> exactly. English reference: Exit (E)"	"FormGameMenu"	"Выхад (E)"
 "/FormGameMenu/Help"	"Справка (H)"	"Lang.dat: FormGameMenu.Help. Preserve every <tag> exactly. English reference: Help (H)"	"FormGameMenu"	"Даведка (H)"
-"/FormGameMenu/HelpFile"	"ManualRus.exe"	"Lang.dat: FormGameMenu.HelpFile. Preserve every <tag> exactly. English reference: ManualEng.exe"	"FormGameMenu"	""
+"/FormGameMenu/HelpFile"	"ManualRus.exe"	"Lang.dat: FormGameMenu.HelpFile. Preserve every <tag> exactly. English reference: ManualEng.exe"	"FormGameMenu"	"ManualRus.exe"
 "/FormGameMenu/Load"	"Загрузить (F3)"	"Lang.dat: FormGameMenu.Load. Preserve every <tag> exactly. English reference: Load (F3)"	"FormGameMenu"	"Загрузіць (F3)"
 "/FormGameMenu/QExit"	"Хотите завершить игру?"	"Lang.dat: FormGameMenu.QExit. Preserve every <tag> exactly. English reference: Do you want to quit the game?"	"FormGameMenu"	"Хочаце завяршыць гульню?"
 "/FormGameMenu/Resume"	"Продолжить (Esc)"	"Lang.dat: FormGameMenu.Resume. Preserve every <tag> exactly. English reference: Continue (Esc)"	"FormGameMenu"	"Працягнуць (Esc)"

@@ -1,3 +1,3 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/Asteroid/Name"	"Астероид -<Number>-"	"Lang.dat: Asteroid.Name. Preserve every <tag> exactly. English reference: Asteroid -<Number>-"	"Asteroid"	""
-"/Asteroid/Text"	"Содержание полезных руд достигает <Count> единиц, скорость астероида <Speed>."	"Lang.dat: Asteroid.Text. Preserve every <tag> exactly. English reference: Ore deposits amount to <Count> units, asteroid speed equals <Speed>."	"Asteroid"	""
+"/Asteroid/Name"	"Астероид -<Number>-"	"Lang.dat: Asteroid.Name. Preserve every <tag> exactly. English reference: Asteroid -<Number>-"	"Asteroid"	"Астэроід -<Number>-"
+"/Asteroid/Text"	"Содержание полезных руд достигает <Count> единиц, скорость астероида <Speed>."	"Lang.dat: Asteroid.Text. Preserve every <tag> exactly. English reference: Ore deposits amount to <Count> units, asteroid speed equals <Speed>."	"Asteroid"	"Зьмест карысных рудаў дасягае <Count> адзінак, хуткасьць астэроіда <Speed>."
