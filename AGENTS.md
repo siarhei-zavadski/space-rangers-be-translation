@@ -122,17 +122,20 @@ Changing only `Lang.dat` will not change those visible buttons. A language packa
 
 ### PKG and manifests
 
-The package must contain paths rooted at `Data/`, for example:
+The button package must contain paths rooted at `Data/` only (never a sibling `DATA/`):
 
 ```text
 Data/FormMain2/2ButNewN.gi
 ```
 
-Both install manifests must mount it:
+Patched AFT fonts go in a second package rooted at vanilla `DATA/FONT`. One archive cannot hold both `Data/` and `DATA/` — the engine keys folders by the uppercase name and the main-menu buttons vanish.
+
+Both install manifests must mount them. Fonts PKG uses same-size AFT files (unused Latin slots retargeted to `і`/`ў`/`’`; `ў` gets a painted breve); do not append glyphs.
 
 ```text
 Packages {
     Package=Mods\Tweaks\BelTranslate\data\belarusian.pkg
+    Package=Mods\Tweaks\BelTranslate\data\belarusian_fonts.pkg
 }
 ```
 
@@ -143,7 +146,8 @@ Packages {
 - Internal orthography: Belarusian classical spelling (`be-tarask`, 2005 normalization).
 - User-facing mod name: **Belarusian**.
 - Translate meaning from Russian, cross-check English, and avoid Russian calques where a clear Belarusian term exists.
-- Add every accepted term to `TERMBASE.tsv`.
+- Before locking a lemma: Skarnik for the **UI sense**, Starnik for endings, Google if the sense is still unclear, then `hunspell -d be_BY@tarask`. Spelling clashes: hunspell wins; meaning clashes: Starnik wins. See `STYLE.md`.
+- Add every accepted term to `TERMBASE.tsv` with sense, endings, rejected calque, and source URL.
 - Check prose with:
 
 ```bash
@@ -161,7 +165,7 @@ Menu images use `tools/fonts/RussoOne-Regular.ttf`:
 - licensed under SIL OFL 1.1;
 - rasterized into GI images, not embedded in the package.
 
-Runtime text uses the game’s AFT fonts. The working test already renders `і` in `Загрузіць`; expand glyph testing before translating text rich in `ў` or `ґ`.
+Runtime `Lang.dat` is UTF-16. Vanilla AFT has `'`, `i`, `у`, but not `і`/`ў`/`’`. The DAT writer folds typographic apostrophes to `'`. A mod PKG of `DATA/FONT` is ignored (AFont/ResEditor workflow edits `forms.pkg`). The build writes a same-size remap into `DATA/forms.pkg` from `forms.pkg.vanilla`: `і`←`i`, `ў` = `у` plus a painted breve. Do not append glyphs or bump sizes. Steam verify restores vanilla.
 
 ## Before claiming completion
 
@@ -171,4 +175,4 @@ Runtime text uses the game’s AFT fonts. The working test already renders `і` 
 4. Decode every generated GI; verify `316×45`.
 5. Run tarask Hunspell on new translations.
 6. Enable the mod and verify the relevant screen in-game.
-7. Record accepted translations in `TERMBASE.tsv`.
+7. Record accepted translations in `TERMBASE.tsv` (sense + endings + rejected + source).

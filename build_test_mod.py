@@ -10,6 +10,7 @@ from rangers.dat import DAT
 from rangers.graphics.gi import GI
 from rangers.pkg import PKG
 
+from aft_font import glyph_codes, patch_game_forms, write_patched_fonts
 from crowdin_sync import (
     ASSETS,
     asset_translations,
@@ -55,11 +56,15 @@ def render_label(image: Image.Image, state: str, text: str) -> Image.Image:
     return image
 
 
+# Vanilla AFT already has ASCII apostrophe. Typographic ’/‘/ʼ would miss.
+APOSTROPHE_FOLD = str.maketrans({"\u2019": "'", "\u2018": "'", "\u02bc": "'"})
+
+
 def patch_dat(source: Path, destination: Path) -> None:
     dat = DAT.from_dat(source)
     values = dat.to_dict()
     for path, translation in crowdin_translations().items():
-        set_value(values, path, translation)
+        set_value(values, path, translation.translate(APOSTROPHE_FOLD))
     DAT.from_dict(values).to_dat(destination, fmt="HDMain", sign=True)
 
 
@@ -99,10 +104,25 @@ def main() -> None:
                 output = GI.from_image(image, fmt=2, opt=16)
                 output.to_gi(out_dir / f"2But{button}{state}.gi")
 
+    # Fonts stay in their own package. Vanilla forms.pkg uses DATA/FONT;
+    # buttons use Data/ from russian.pkg. One archive cannot hold both
+    # DATA and Data — the engine keys folders by the uppercase name.
+    forms_pkg = GAME / "DATA/forms.pkg"
+    vanilla_forms = forms_pkg.with_name(forms_pkg.name + ".vanilla")
+    # Overlay of DATA/FONT is ignored. Community tools edit forms.pkg.
+    # Same-size CE-slot remap only — do not append glyphs or bump sizes.
+    font_src = vanilla_forms if vanilla_forms.exists() else forms_pkg
+    font_count = write_patched_fonts(font_src, work / "fonts")
+    game_font_count = patch_game_forms(forms_pkg)
+    assert game_font_count == font_count
+
+    (MOD / "DATA").mkdir(parents=True, exist_ok=True)
     package = PKG.from_folder(work / "pkg")
     package.compress(9)
-    (MOD / "DATA").mkdir(parents=True, exist_ok=True)
     package.to_file(MOD / "DATA/belarusian.pkg")
+    font_package = PKG.from_folder(work / "fonts")
+    font_package.compress(9)
+    font_package.to_file(MOD / "DATA/belarusian_fonts.pkg")
 
     quest_count = write_translated_quests(work / "quests")
     quest_package = MOD / "DATA/belarusian_quests.pkg"
@@ -122,7 +142,10 @@ def main() -> None:
         assert parsed["FormMain"]["Options"] == "Налады"
     robot_count = write_translated_robots(MOD / "CFG/robots.dat")
 
-    packages = ["    Package=Mods\\Tweaks\\BelTranslate\\data\\belarusian.pkg"]
+    packages = [
+        "    Package=Mods\\Tweaks\\BelTranslate\\data\\belarusian.pkg",
+        "    Package=Mods\\Tweaks\\BelTranslate\\data\\belarusian_fonts.pkg",
+    ]
     if quest_count:
         packages.append("    Package=Mods\\Tweaks\\BelTranslate\\data\\belarusian_quests.pkg")
     manifest = "Packages {\n" + "\n".join(packages) + "\n}"
@@ -152,11 +175,22 @@ FullDescriptionEng=Belarusian translation for Space Rangers HD.
             for state in "NAD":
                 gi = GI.from_gi(extracted / f"Data/{folder}/2But{button}{state}.gi")
                 assert gi.to_image().size == (316, 45)
+        assert not (extracted / "DATA").exists()
+        fonts_extracted = Path(temporary) / "fonts"
+        fonts_extracted.mkdir()
+        PKG.from_file(MOD / "DATA/belarusian_fonts.pkg").to_folder(fonts_extracted)
+        fonts = list((fonts_extracted / "DATA/FONT").glob("*.aft"))
+        assert len(fonts) == font_count
+        patched = fonts[0].read_bytes()
+        codes = set(glyph_codes(patched))
+        assert 0x0456 in codes and 0x045E in codes
+        assert 0x2019 in codes and 0x0027 in codes
 
     n_dat = len(crowdin_translations())
     print(f"Built {MOD}")
     print(f"Preview: {preview}")
     print(f"Menu buttons: {len(buttons)}")
+    print(f"Patched AFT fonts: {font_count}")
     print(f"Translated DAT rows: {n_dat}")
     print(f"Translated quest files: {quest_count}")
     print(f"Translated robots.dat rows: {robot_count}")

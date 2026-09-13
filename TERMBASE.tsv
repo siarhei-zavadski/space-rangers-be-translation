@@ -127,3 +127,42 @@ lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
 lemma.asteroid	астероид	asteroid	астэроід		classical астэ-	—
 lemma.bubble	пузырь	bubble	бурбалка		Klissan-war tech «бурбалка» скрыўленай прасторы	—
 lemma.experience	опыт	experience	досьвед		already in FormShip; пунктаў досьведу	—
+lemma.hangar	ангар	hangar	ангар		loan; у ангары, родны ангара	—
+lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок		matches FormGalaxy скок / скокнуць	—
+lemma.pursuit	преследование	pursuit	перасьлед		Starnik перасьледваць; звычайны/баявы перасьлед	—
+lemma.talk	разговор	talk	размова		already FormCfgSettings	—
+lemma.endturn	Конец хода	End Turn	Канец ходу		ход already: хады, хадоў	—
+lemma.trade_center	торговый центр	trade center	гандлёвы цэнтр		цэнтр not цэнтар	—
+lemma.appear	появиться	appear	з'явіцца		user lock: apostrophe, not зьявіцца	—
+lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
+lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
+lemma.blazer	Блазер	Blazer	Блазер		proper name lock; series блазероід	—
+lemma.keller	Келлер	Keller	Келлер		proper name lock; G Келлера; series келероід	—
+lemma.terron	Террон	Terron	Террон		proper name lock; series тераноід	—
+lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
+lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
+lemma.relations	отношение	attitude/relations	адносіны		Starnik: pluralia tantum; diplomatic/race standing. дачыненне = 'bearing on', not this UI. Types: Варожыя/Дрэнныя/Нармальныя/Добрыя/Выдатныя	Starnik
+lemma.node	нод	node	нод		game term; pl ноды, G нодаў; нод-рахунак	—
+lemma.micromodule	микромодуль	micromodule	мікрамодуль		pl мікрамодулі; built from nodes	—
+lemma.rank	звание	rank	званьне		G званьня; да званьня; воінскае званьне, not чин	classical -ньне
+lemma.afterburner	форсаж	afterburner	фарсаж		sense: фарсаж рухавіка (Starnik: паскарэнне працэсу); G фарсажу	https://starnik.by/pravapis/79635
+lemma.camouflage	камуфляж	camouflage	камуфляж		Starnik 1=paint-mask; 2=figurative cover. Game chameleon=holographic cloak, keep loan. G камуфляжу	https://starnik.by/pravapis/32771
+lemma.credit	кредит	loan	крэдыт		loan of money (not bookkeeping credit/debit). G крэдыту, L крэдыце	https://starnik.by/pravapis/37436
+lemma.deposit	депозит	deposit	дэпазыт	дэпазіт	bank deposit; G дэпазыту; adj дэпазытны. Official Starnik дэпазіт; tarask hunspell дэпазыт	hunspell-be-tarask
+lemma.fighter	истребитель	fighter	зьнішчальнік	істрэбіцель	1 person who destroys; 2 fighter aircraft; 3 fighter pilot. Rank Leader uses 1+3. G зьнішчальніка	https://starnik.by/pravapis/29600
+lemma.cadet	кадет	cadet	кадэт		military-school pupil, not political ка-дэ. G кадэта, L кадэце	https://starnik.by/pravapis/31744
+lemma.commodore	командор	commander	камандор	камандзір	yacht/squadron title, not камандзір. G камандора	https://starnik.by/pravapis/32384
+lemma.opponent	противник	opponent	праціўнік	супернік	combat/military enemy (Starnik 2–3). супернік/сапернік=contest rival only. Older Tips/Skills/FormGov still have супернік — migrate when touched	https://starnik.by/pravapis/59618
+lemma.under_cmd	под началом	under the command of	пад кіраўніцтвам	пад пачаткам	Skarnik: быть под началом → пад кіраўніцтвам / у падначаленні. пачатак=beginning	https://www.skarnik.by/rusbel/45371
+lemma.alone	в одиночку	single-handed	у адзіночку	у адзінку	адзінка=unit/one item, not 'alone'	—
+lemma.offend	обидеть	offend	пакрыўдзіць		perfective for 'могут и обидеть'; imperfective крыўдзіць=ongoing	—
+lemma.aviator	летчик	aviator	лётчык		aircraft driver (Starnik). пілот=player/generic lock; use лётчык when RU says летчик	https://starnik.by/pravapis/39333
+lemma.military_adj	военный	military	вайсковы	ваенны	вайсковая база (Svaboda + tarask lexicon). ваенны=official/narkama	—
+lemma.score_point	очко	point	ачко		score unit (Starnik 2); G ачка, pl ачкі, Gpl ачкоў. ачкі воіна	https://starnik.by/pravapis/8051
+lemma.skipper	шкипер	skipper	шкіпэр		shipmaster. Official Starnik шкіпер; tarask hunspell шкіпэр. G шкіпэра	hunspell-be-tarask; https://starnik.by/pravapis/85073
+lemma.policy	полис	insurance policy	поліс	паліс	insurance document (not Greek polis). G поліса, L полісе	https://starnik.by/pravapis/57778
+lemma.robbery	грабеж	robbery	рабунак	грабеж	native lemma; G рабунку. FormGov idiom 'это грабеж'→рабаваньне stays	https://starnik.by/pravapis/62348
+lemma.cutthroat	головорез	cutthroat	галаварэз		pirate rank	—
+lemma.raider	рейдер	raider	рэйдэр		pirate rank; not corporate raider	—
+lemma.ataman	атаман	capo	атаман		pirate/cossack chief	—
+lemma.constellations	созвездия	constellations	(transliterate)		proper names: keep RU shape; Кайо→Каё, Перец→Перэц, Денвер→Дэнвэр, Фаави→Фааві	—
