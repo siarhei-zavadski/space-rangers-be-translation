@@ -1,0 +1,8 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/FormShop/AfterBuyHull"	"Отлично! Новый корпус будет доставлен на склад, где вы сможете самостоятельно произвести замену."	"Lang.dat: FormShop.AfterBuyHull. Preserve every <tag> exactly. English reference: Excellent! The new hull will be delivered to storage, where you can replace it personally."	"FormShop"	""
+"/FormShop/Buy"	"Вы желаете приобрести <Item> за <Money> cr?"	"Lang.dat: FormShop.Buy. Preserve every <tag> exactly. English reference: Would you like to buy <Item> for <Money> cr?"	"FormShop"	""
+"/FormShop/BuyHelp"	"Купить: <Item>"	"Lang.dat: FormShop.BuyHelp. Preserve every <tag> exactly. English reference: Buy: <Item>"	"FormShop"	""
+"/FormShop/BuyHull"	"Вы желаете купить новый корпус корабля за <Money> cr?"	"Lang.dat: FormShop.BuyHull. Preserve every <tag> exactly. English reference: Would you like to buy a new ship hull for <Money> cr?"	"FormShop"	""
+"/FormShop/NoMoney"	"Не хватает <Money> cr"	"Lang.dat: FormShop.NoMoney. Preserve every <tag> exactly. English reference: Insufficient <Money> cr"	"FormShop"	""
+"/FormShop/NoSize"	"Не хватает свободного места"	"Lang.dat: FormShop.NoSize. Preserve every <tag> exactly. English reference: No space available"	"FormShop"	""
+"/FormShop/UpgradeHull"	"У вас не хватает денег на покупку, но хватает на замену. Вы желаете заменить корпус своего корабля за <Money> cr?"	"Lang.dat: FormShop.UpgradeHull. Preserve every <tag> exactly. English reference: You don't have the funds to buy, but you do have enough to replace it. Would you like to replace the hull of your ship for <Money> cr?"	"FormShop"	""

@@ -1,0 +1,398 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Foncers.qmm/parameters/0/name"	"Заголовок"	"Quest Foncers.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Title"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/0/lines/0/content"	"== Ваш Фонсер =="	"Quest Foncers.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: == Your foncer =="	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Foncers.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/name"	"Двигатель"	"Quest Foncers.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/0/content"	"Самый дешевый двигатель"	"Quest Foncers.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: The cheapest engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/1/content"	"Очень плохой двигатель"	"Quest Foncers.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: The worst engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/2/content"	"Плохой двигатель"	"Quest Foncers.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Bad engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/3/content"	"Средний двигатель"	"Quest Foncers.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly. English reference: Average engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/4/content"	"Хороший двигатель"	"Quest Foncers.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly. English reference: Good engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/5/content"	"Отличный двигатель"	"Quest Foncers.qmm: parameters.1.lines.5.content. Preserve every <tag> exactly. English reference: Excellent engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/lines/6/content"	"Супер двигатель!!!"	"Quest Foncers.qmm: parameters.1.lines.6.content. Preserve every <tag> exactly. English reference: Super engine!!!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Foncers.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/2/name"	"Защита"	"Quest Foncers.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Protection"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/2/lines/0/content"	"Защита: <>"	"Quest Foncers.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Protection: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/2/crit_text"	"Стрелка на индикаторе генератора защитного поля стремительно приблизилась к нолю и перешла на красное поле. ""Это же означает смерть!"" - успели подумать вы, отчаянно пытаясь затормозить, но фонсер все равно влетел в следующее препятствие, и небольшой взрыв прогремел на трассе. Жизнь великого рейнджера закончилась."	"Quest Foncers.qmm: parameters.2.crit_text. Preserve every <tag> exactly. English reference: The cursor of the forcefield generator indicator almost pointed to zero and entered the red area. ""But it means death"" - you thought desperately, trying to back off, but it was too late and the foncer crashed against the next obstacle. There was a small explosion on the track and the great ranger's life came to a close."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/name"	"Маневровые"	"Quest Foncers.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Manoeuvrability details"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/0/content"	"Ужасная маневренность"	"Quest Foncers.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Minimal manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/1/content"	"Очень плохая маневренность"	"Quest Foncers.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly. English reference: Very bad manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/2/content"	"Плохая маневренность"	"Quest Foncers.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly. English reference: Bad manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/3/content"	"Нормальная маневренность"	"Quest Foncers.qmm: parameters.3.lines.3.content. Preserve every <tag> exactly. English reference: Normal manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/4/content"	"Хорошая маневренность"	"Quest Foncers.qmm: parameters.3.lines.4.content. Preserve every <tag> exactly. English reference: Average manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/lines/5/content"	"Отличная маневренность"	"Quest Foncers.qmm: parameters.3.lines.5.content. Preserve every <tag> exactly. English reference: Excellent manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Foncers.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/4/name"	"Заголовок"	"Quest Foncers.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Title"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/4/lines/0/content"	"== Время гонщиков =="	"Quest Foncers.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: == Racers' time =="	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Foncers.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/5/name"	"ТЫ"	"Quest Foncers.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: YOU"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/5/lines/0/content"	"Ваше время: {[p6] div 600} мин {([p6] mod 600)div10},{([p6] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Your time: {[p6] div 600} min {([p6] mod 600)div10},{([p6] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Foncers.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/6/name"	"гонщик 1"	"Quest Foncers.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Racer 1"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Foncers.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/7/name"	"первый соперник"	"Quest Foncers.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: The first competitor"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/7/lines/0/content"	"Время Расгуша: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Rasgush's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/7/lines/1/content"	"Время Гозара: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: Gonzar's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/7/lines/2/content"	"Время Миатры: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Miatra's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Foncers.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/8/name"	"второй соперник"	"Quest Foncers.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: The second competitor"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/8/lines/0/content"	"Время Корченицы: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: Korchenitza's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/8/lines/1/content"	"Время Шульмана: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек"	"Quest Foncers.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly. English reference: Shulman's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Foncers.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/9/name"	"Разница времени"	"Quest Foncers.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: Time difference"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/9/lines/0/content"	"Вы лидируете!"	"Quest Foncers.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly. English reference: You're in the lead!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/9/lines/1/content"	"Паритет"	"Quest Foncers.qmm: parameters.9.lines.1.content. Preserve every <tag> exactly. English reference: Head to head"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/9/lines/2/content"	"Вы отстаете..."	"Quest Foncers.qmm: parameters.9.lines.2.content. Preserve every <tag> exactly. English reference: You're behind..."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Foncers.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/10/name"	"Базовая защита"	"Quest Foncers.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: Basic protection"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/10/lines/0/content"	"Осталось потоков: {10-[p16]}"	"Quest Foncers.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly. English reference: Flows left: {10-[p16]}"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Foncers.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/11/name"	"Двигатель противника"	"Quest Foncers.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: Competitor's engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/11/lines/0/content"	"Двигатель противника: <>"	"Quest Foncers.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly. English reference: Competitor's engine: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Foncers.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/12/name"	"Щит противника"	"Quest Foncers.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Competitor's shield"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/12/lines/0/content"	"Щит противника: <>"	"Quest Foncers.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: Competitor's shield: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Foncers.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/13/name"	"Маневренность противника"	"Quest Foncers.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Competitor's manoeuvrability"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/13/lines/0/content"	"Маневренность противника: <>"	"Quest Foncers.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: Competitor's manoeuvrability: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Foncers.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/14/name"	"Заголовок"	"Quest Foncers.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Title"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/14/lines/0/content"	"== Информация по трассе =="	"Quest Foncers.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: == Track information =="	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Foncers.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/15/name"	"счетчик"	"Quest Foncers.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: Meter"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/15/lines/0/content"	"Пройдено этапов: <>"	"Quest Foncers.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Stages over: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Foncers.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/16/name"	"обратный счетчик"	"Quest Foncers.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Reverse meter"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/16/lines/0/content"	"Осталось этапов: <>"	"Quest Foncers.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: Stages left: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Foncers.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/17/name"	"Длина участка"	"Quest Foncers.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: Section length"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/17/lines/0/content"	"== Информация об участке =="	"Quest Foncers.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly. English reference: == Section information =="	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Foncers.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/18/name"	"Время прохождения"	"Quest Foncers.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Passing time"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/18/lines/0/content"	"Короткий"	"Quest Foncers.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly. English reference: Short"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/18/lines/1/content"	"Средний"	"Quest Foncers.qmm: parameters.18.lines.1.content. Preserve every <tag> exactly. English reference: Middle"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/18/lines/2/content"	"Длинный"	"Quest Foncers.qmm: parameters.18.lines.2.content. Preserve every <tag> exactly. English reference: Long"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Foncers.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/name"	"Повреждения участка"	"Quest Foncers.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Section damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/lines/0/content"	"Минимальные повреждения"	"Quest Foncers.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Minimal damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/lines/1/content"	"Малые повреждения"	"Quest Foncers.qmm: parameters.19.lines.1.content. Preserve every <tag> exactly. English reference: Small damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/lines/2/content"	"Средние повреждения"	"Quest Foncers.qmm: parameters.19.lines.2.content. Preserve every <tag> exactly. English reference: Middle damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/lines/3/content"	"Большие повреждения"	"Quest Foncers.qmm: parameters.19.lines.3.content. Preserve every <tag> exactly. English reference: Big damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/lines/4/content"	"Громадные повреждения"	"Quest Foncers.qmm: parameters.19.lines.4.content. Preserve every <tag> exactly. English reference: Huge damages"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Foncers.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/name"	"Сложность"	"Quest Foncers.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: Difficulty"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/lines/0/content"	"Возможность маневра: Минимум"	"Quest Foncers.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Manoeuvrability: Minimal"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/lines/1/content"	"Возможность маневра: Низкая"	"Quest Foncers.qmm: parameters.20.lines.1.content. Preserve every <tag> exactly. English reference: Manoeuvrability: Low"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/lines/2/content"	"Возможность маневра: Средняя"	"Quest Foncers.qmm: parameters.20.lines.2.content. Preserve every <tag> exactly. English reference: Manoeuvrability: Average"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/lines/3/content"	"Возможность маневра: Высокая"	"Quest Foncers.qmm: parameters.20.lines.3.content. Preserve every <tag> exactly. English reference: Manoeuvrability: High"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/lines/4/content"	"Возможность маневра: Огромная"	"Quest Foncers.qmm: parameters.20.lines.4.content. Preserve every <tag> exactly. English reference: Manoeuvrability: Huge"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Foncers.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/name"	"время"	"Quest Foncers.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: Time"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/0/content"	"День первый: {[p22] div 60} ч {[p22] mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: The first day: {[p22] div 60} h {[p22] mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/1/content"	"День второй: {([p22]-1440) div 60} ч {([p22]-1440) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.1.content. Preserve every <tag> exactly. English reference: The second day: {([p22]-1440) div 60} h {([p22]-1440) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/2/content"	"День третий: {([p22]-2880) div 60} ч {([p22]-2880) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.2.content. Preserve every <tag> exactly. English reference: The third day: {([p22]-2880) div 60} h {([p22]-2880) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/3/content"	"День четвертый: {([p22]-4320) div 60} ч {([p22]-4320) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.3.content. Preserve every <tag> exactly. English reference: The forth day: {([p22]-4320) div 60} h {([p22]-4320) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/4/content"	"День пятый: {([p22]-5760) div 60} ч {([p22]-5760) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.4.content. Preserve every <tag> exactly. English reference: The fifth day: {([p22]-5760) div 60} h {([p22]-5760) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/5/content"	"День шестой: {([p22]-7200) div 60} ч {([p22]-7200) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.5.content. Preserve every <tag> exactly. English reference: The sixth day: {([p22]-7200) div 60} h {([p22]-7200) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/6/content"	"День седьмой: {([p22]-8640) div 60} ч {([p22]-8640) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.6.content. Preserve every <tag> exactly. English reference: The seventh day: {([p22]-8640) div 60} h {([p22]-8640) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/7/content"	"День восьмой: {([p22]-10080) div 60} ч {([p22]-10080) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.7.content. Preserve every <tag> exactly. English reference: The eighth day: {([p22]-10080) div 60} h {([p22]-10080) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/8/content"	"День девятый: {([p22]-11520) div 60} ч {([p22]-11520) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.8.content. Preserve every <tag> exactly. English reference: The ninth day: {([p22]-11520) div 60} h {([p22]-11520) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/lines/9/content"	"День десятый: {([p22]-12960) div 60} ч {([p22]-12960) mod 60} мин"	"Quest Foncers.qmm: parameters.21.lines.9.content. Preserve every <tag> exactly. English reference: The tenth day: {([p22]-12960) div 60} h {([p22]-12960) mod 60} min"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Foncers.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/22/name"	"Счетчик побед"	"Quest Foncers.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: Victory meter"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/22/lines/0/content"	"Параметр номер 17: <>"	"Quest Foncers.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Number 17 parameters: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Foncers.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/name"	"Усталость"	"Quest Foncers.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: Weariness"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/lines/0/content"	"Вы смертельно устали"	"Quest Foncers.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly. English reference: You're deadly tired"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/lines/1/content"	"Вы сильно устали"	"Quest Foncers.qmm: parameters.23.lines.1.content. Preserve every <tag> exactly. English reference: You're tired very much"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/lines/2/content"	"Вы устали"	"Quest Foncers.qmm: parameters.23.lines.2.content. Preserve every <tag> exactly. English reference: You're tired"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/lines/3/content"	"Вы в порядке"	"Quest Foncers.qmm: parameters.23.lines.3.content. Preserve every <tag> exactly. English reference: You're alright"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/23/crit_text"	"Усталость взяла свое - вы погибли!"	"Quest Foncers.qmm: parameters.23.crit_text. Preserve every <tag> exactly. English reference: You were not able to overcome your weariness and met your doom!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/24/name"	"Время гандикапа"	"Quest Foncers.qmm: parameters.24.name. Preserve every <tag> exactly. English reference: Handicap's time"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/24/lines/0/content"	"Время участка: <>"	"Quest Foncers.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly. English reference: Section time: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Foncers.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/25/name"	"Опыт"	"Quest Foncers.qmm: parameters.25.name. Preserve every <tag> exactly. English reference: Experience"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/25/lines/0/content"	"Опыт: <>"	"Quest Foncers.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly. English reference: Experience: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Foncers.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/26/name"	"Тип местности"	"Quest Foncers.qmm: parameters.26.name. Preserve every <tag> exactly. English reference: Area type"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/26/lines/0/content"	"Тип местности: <>"	"Quest Foncers.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly. English reference: Area type: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Foncers.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/27/name"	"Деньги игрока"	"Quest Foncers.qmm: parameters.27.name. Preserve every <tag> exactly. English reference: Player's money"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/27/lines/0/content"	"Ваша наличность: <>"	"Quest Foncers.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly. English reference: Your cash: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Foncers.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/28/name"	"Маневр"	"Quest Foncers.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: Maneuver"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/28/lines/0/content"	"Маневр: <>"	"Quest Foncers.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly. English reference: Maneuver: <>"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Foncers.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/29/name"	"Сошел"	"Quest Foncers.qmm: parameters.29.name. Preserve every <tag> exactly. English reference: Off from the distance"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Foncers.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/tostar"	"Автобан"	"Quest Foncers.qmm: tostar. Preserve every <tag> exactly. English reference: Highway"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/toplanet"	"Шоссе"	"Quest Foncers.qmm: toplanet. Preserve every <tag> exactly. English reference: Road"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/fromplanet"	"Улитка"	"Quest Foncers.qmm: fromplanet. Preserve every <tag> exactly. English reference: Snail"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/fromstar"	"Неспешка"	"Quest Foncers.qmm: fromstar. Preserve every <tag> exactly. English reference: Slowy"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/ranger"	"Спиди гонщик"	"Quest Foncers.qmm: ranger. Preserve every <tag> exactly. English reference: Speedy racer"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/success_text"	"От лица планеты <FromPlanet> я выражаю глубочайшую признательность за вашу помощь и вручаю премию в размере <Money> cr! Ваша блистательная победа на гонках фонсеров - доказательство того, что космический рейнджер может все. Доминаторам не устоять!!!"	"Quest Foncers.qmm: success_text. Preserve every <tag> exactly. English reference: On behalf of <FromPlanet> I express our deepest gratitude to you for your help and hand you the award in the amount of <Money> cr! Your triumphant victory in the foncer races proved that a space ranger is capable of everything. Dominators won't succumb!!!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/task_text"	"Уважаемый рейнджер <Ranger>, правительство планеты <FromPlanet> уполномочило меня обратиться к вам с предложением. Скоро на планете <ToPlanet> звездной системы <ToStar> состоится ежегодный открытый чемпионат по гонкам на сверхскоростных фонсерах. Наша планета заслужила право участвовать в финальной стадии соревнований, но, к сожалению, космический корабль, на котором наш гонщик отправился на соревнования, подвергся нападению пиратов, и пока у нас нет никаких сведений о его дальнейшей судьбе. Вы наша последняя надежда! Всем известно, что вы один из лучших пилотов, поэтому нам кажется, что управление фонсером вам тоже окажется по зубам. Необходимо успеть прибыть на <ToPlanet> до <Date>, иначе нас объявят проигравшими. За победу в турнире вы получите существенное материальное вознаграждение в размере <Money> cr. На планете <ToPlanet> вас уже будет ждать наш постоянный представитель. Он введет вас в курс дела. Вы поможете нам?"	"Quest Foncers.qmm: task_text. Preserve every <tag> exactly. English reference: Dear ranger <Ranger>, the government of <FromPlanet> has authorised me to make you an offer. An annual, open, super-high-speed foncer race championship will soon be held on a planet in the <ToStar> star system. Our planet won the honour of taking part in the final race, but, unfortunately, pirates shot down the spaceship that was taking our racer to <ToPlanet> and so far we have no information about him. You are our last hope! We all know that you are one of our best pilots, so you will be able to manage a foncer too. You must arrive on <ToPlanet> by <Date>, or they will declare us losers. If you win the race, you will get a substantial material award in the amount of <Money> cr. Our resident representative will be waiting for you on planet <ToPlanet>. He will provide you with the details. Will you help us?"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/0/texts/0/text"	"В боксах уже ждут механики. Один из них - похоже, главный - приветствует вас и произносит скороговоркой явно заученную речь:
+
+- Вашему вниманию предлагаются четыре базовых модели фонсеров.
+
+<clr>""Ураган""<clrEnd> - самый быстрый фонсер, с прекрасной маневренностью. Защитное поле минимальное. 
+<clr>""Торнадо""<clrEnd> - самый маневренный фонсер, обладающий замечательными скоростными качествами. Защита минимальна.
+<clr>""Вихрь""<clrEnd> - самый защищенный фонсер, но скорость и маневренность оставляют желать лучшего. 
+<clr>""Бриз""<clrEnd> - самая распространенная модель фонсера. Все показатели на среднем уровне. 
+
+Также есть возможность сконфигурировать <clr>собственную модель<clrEnd>."	"Quest Foncers.qmm: locations.0.texts.0.text. Preserve every <tag> exactly. English reference: There are mechanics waiting in the boxes already. One of them must be the chief, he welcomes you and then recites a speech he obviously has memorized:
+
+- We have four basic foncer models to offer you.
+
+<clr>""Hurricane""<clrEnd> is the fastest foncer with excellent manoeuvrability. Its protection is minimal. 
+<clr>""Tornado""<clrEnd> is the foncer with the highest manoeuvrability and possesses wonderful speed qualities. Its protection is minimal.
+<clr>""Vortex""<clrEnd> is the best protected foncer but its manoeuvrability and speed leave much to be desired. 
+<clr>""Breeze""<clrEnd> is the most prevailing foncer model. All its parameters are average.
+
+Also you have the possibility to configure your <clr>personal model <clrEnd>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/0/texts/1/text"	"Главный механик поздравляет вас и спрашивает:
+- На чем будете проходить Полуфинал?
+
+<clr>""Ураган""<clrEnd> - самый быстрый фонсер, с прекрасной маневренностью. Защитное поле минимальное. Фонсер для настоящего аса.
+<clr>""Торнадо""<clrEnd> - самый маневренный фонсер, обладающий замечательными скоростными качествами. Защита минимальна. Лишь асы могут на нем ездить.
+<clr>""Вихрь""<clrEnd> - самый защищенный фонсер, но скорость и маневренность оставляют желать лучшего. Фонсер для опытного гонщика.
+<clr>""Бриз""<clrEnd> - самая распространенная модель фонсера. Все показатели на среднем уровне. Фонсер для новичка.
+
+Или будете конфигурировать <clr>собственную модель<clrEnd>?"	"Quest Foncers.qmm: locations.0.texts.1.text. Preserve every <tag> exactly. English reference: The chief mechanic congratulates you asking:
+- What will you drive in the semi-final race?
+
+<clr>"" Hurricane ""<clrEnd> is the fastest foncer with excellent manoeuvrability. Its protection is minimal. This foncer is for a real ace.
+<clr>"" Tornado ""<clrEnd> is the foncer with the highest manoeuvrability and possesses wonderful speed qualities. Its protection is minimal. Only aces can manage it.
+<clr>"" Vortex ""<clrEnd> is the best protected foncer but its manoeuvrability and speed leave much to be desired. This foncer is for an experienced racer.
+<clr>"" Breeze ""<clrEnd> is the most prevailing foncer model. All its parameters are average. This foncer is for a novice.
+
+Or do you prefer to configure your <clr>personal model<clrEnd>?"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/0/texts/2/text"	"Главный механик от всей души поздравляет вас и спрашивает:
+- На чем будете гнать в ""Финале""?
+
+<clr>""Ураган""<clrEnd> - самый быстрый фонсер, с прекрасной маневренностью. Защитное поле минимальное. Фонсер для настоящего аса.
+<clr>""Торнадо""<clrEnd> - самый маневренный фонсер, обладающий замечательными скоростными качествами. Защита минимальна. Лишь асы могут на нем ездить.
+<clr>""Вихрь""<clrEnd> - самый защищенный фонсер, но скорость и маневренность оставляют желать лучшего. Фонсер для опытного гонщика.
+<clr>""Бриз""<clrEnd> - самая распространенная модель фонсера. Все показатели на среднем уровне. Фонсер для новичка.
+
+Или будете конфигурировать <clr>собственную модель<clrEnd>?"	"Quest Foncers.qmm: locations.0.texts.2.text. Preserve every <tag> exactly. English reference: The chief mechanic congratulates you asking::
+- What will you drive in the final race?
+
+<clr>"" Hurricane ""<clrEnd> is the fastest foncer with excellent manoeuvrability. Its protection is minimal. This foncer is for a real ace.
+<clr>"" Tornado ""<clrEnd> is the foncer with the highest manoeuvrability and possesses wonderful speed qualities. Its protection is minimal. Only aces can manage it.
+<clr>"" Vortex ""<clrEnd> is the best protected foncer but its manoeuvrability and speed leave much to be desired. This foncer is for an experienced racer.
+<clr>"" Breeze ""<clrEnd> is the most prevailing foncer model. All its parameters are average. This foncer is for a novice..
+
+Or do you prefer to configure your <clr>personal model<clrEnd>?"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/1/texts/0/text"	"Вы видите впереди только небольшой прямой участок трассы. Затем начинается первый этап, но его скрывает легкая дымка.
+
+Металлический голос отсчитывает:
+- ТРИ... ДВА... ОДИН... СТАРТ!!!"	"Quest Foncers.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You see only a small straight track section in front of you. After it there is stage 1 but it can't be seen because of the light mist.
+
+A metallic voice starts counting:
+- THREE... TWO... ONE... GO!!!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/2/texts/0/text"	"<clr>Равнинный участок трассы.<clrEnd> Гонщики летят над травой словно по зеленому морю. Искусственные препятствия встречаются относительно редко. В основном это ворота и столбы."	"Quest Foncers.qmm: locations.2.texts.0.text. Preserve every <tag> exactly. English reference: <clr>Horizontal section of the track.<clrEnd> The racers are almost flying over the grass like over a green sea. Artificial obstacles are comparatively rare. Usually they are gates and poles."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/2/texts/1/text"	"<clr>Каньон.<clrEnd> Серый коридор из каменных стен. Отвесные склоны мелькают по обеим сторонам от гонщиков с умопомрачительной скоростью."	"Quest Foncers.qmm: locations.2.texts.1.text. Preserve every <tag> exactly. English reference: <clr>Canyon.<clrEnd> This is a grey corridor with stone walls. Precipitous cliffs on both sides are flitting with horrible speed."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/2/texts/2/text"	"<clr>Каменное плато.<clrEnd> Красные оттенки валунов навевают мысли о крови. Острые края скал, кажется, сами вырастают прямо на пути гонщиков. Каждое столкновение смертельно опасно."	"Quest Foncers.qmm: locations.2.texts.2.text. Preserve every <tag> exactly. English reference: <clr>Stone plateau<clrEnd> Red tints of boulders remind you of blood. Sharp edged rocks seem to grow up right on the racers' way. Any collision will be mortal."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/3/texts/0/text"	"Финиш!!!
+Ваше время: {[p6] div 600} мин {([p6] mod 600)div10},{([p6] mod 600)mod10} сек
+Время вашего противника: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек
+
+Вы <clr>победили<clrEnd> в этой гонке!!!"	"Quest Foncers.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: Finish!!!
+Your time: {[p6] div 600} min {([p6] mod 600)div10},{([p6] mod 600)mod10} sec
+Your competitor's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec
+
+You <clr>won<clrEnd> the race!!!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/3/texts/1/text"	"Финиш!!!
+Ваше время: {[p6] div 600} мин {([p6] mod 600)div10},{([p6] mod 600)mod10} сек
+Время вашего противника: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек
+
+Черт! Кажется, соперник был быстрее... Вы <clr>проиграли<clrEnd> в этой гонке."	"Quest Foncers.qmm: locations.3.texts.1.text. Preserve every <tag> exactly. English reference: Finish!!!
+Your time: {[p6] div 600} min {([p6] mod 600)div10},{([p6] mod 600)mod10} sec
+Your competitor's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec
+
+Damn it! Your competitor seems to have been faster... You <clr>lost<clrEnd> the race."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/3/texts/2/text"	"Финиш!!!
+Ваше время: {[p6] div 600} мин {([p6] mod 600)div10},{([p6] mod 600)mod10} сек
+Время вашего противника: {[p7] div 600} мин {([p7] mod 600)div10},{([p7] mod 600)mod10} сек
+
+Ух ты! Время-то одинаковое. Ничья, что ли?"	"Quest Foncers.qmm: locations.3.texts.2.text. Preserve every <tag> exactly. English reference: Finish!!!
+Your time: {[p6] div 600} min {([p6] mod 600)div10},{([p6] mod 600)mod10} sec
+Your competitor's time: {[p7] div 600} min {([p7] mod 600)div10},{([p7] mod 600)mod10} sec
+
+Garn! Same timing. Is it really a draw?"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/3/texts/3/text"	"Финиш!!!
+Ваше время: {[p6] div 600} мин {([p6] mod 600)div10},{([p6] mod 600)mod10} сек
+<clr>Противник сошел с дистанции.<clrEnd>
+
+Вы <clr>победили<clrEnd> в этой гонке!!!"	"Quest Foncers.qmm: locations.3.texts.3.text. Preserve every <tag> exactly. English reference: Finish!!!
+Your time: {[p6] div 600} min {([p6] mod 600)div10},{([p6] mod 600)mod10} sec
+<clr>Your competitor couldn't keep up.<clrEnd>
+
+You <clr>won<clrEnd> the race!!!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/4/texts/0/text"	"Последний участок трассы пройден, впереди только финишная прямая."	"Quest Foncers.qmm: locations.4.texts.0.text. Preserve every <tag> exactly. English reference: The last segment of the track is finished and there is only the final straight lying in front of you."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/8/texts/0/text"	"Вы проиграли бездарно! Не смогли даже преодолеть <clr>Квалификацию<clrEnd>.
+
+Остается только одно - сесть на корабль и с позором улететь с планеты <ToPlanet>."	"Quest Foncers.qmm: locations.8.texts.0.text. Preserve every <tag> exactly. English reference: You showed no talent in the race and lost! You couldn't even pass  <clr>the qualifying round<clrEnd>.
+
+All you can do now is go back to your spaceship and leave <ToPlanet>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/8/texts/1/text"	"Вы проиграли бесславно! Не смогли даже преодолеть <clr>Полуфинал<clrEnd>.
+
+Остается только одно - сесть на корабль и с позором улететь с планеты <ToPlanet>."	"Quest Foncers.qmm: locations.8.texts.1.text. Preserve every <tag> exactly. English reference: You didn't win glory and lost! You couldn't even win <clr>the semi-final race<clrEnd>.
+
+All you can do now is get back to your spaceship and fly away from <ToPlanet>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/8/texts/2/text"	"Вы проиграли достойно! Не смогли преодолеть лишь <clr>Финал<clrEnd>!
+
+Остается только одно - сесть на корабль и улететь с планеты <ToPlanet>. Не всем становиться чемпионами."	"Quest Foncers.qmm: locations.8.texts.2.text. Preserve every <tag> exactly. English reference: You did your best to win but failed! You lost only <clr>the final race<clrEnd>!
+
+All you can do now is get back to your spaceship and fly away from <ToPlanet>. Not all people are equally talented to become champions."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/9/texts/0/text"	"Проныра даже не пытается сдерживать ликование. Вы победили, <clr>вы ЧЕМПИОН<clrEnd>!!!
+
+Вас быстро окружила толпа болельщиков и начала с восторгом скандировать ваше имя. Затем было награждение и праздничный банкет. После того, как все закончилось, вас отвезли в номер люкс лучшей гостиницы планеты. Ночь прошла без происшествий, и утром вы были уже в космопорте."	"Quest Foncers.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: Slyboots doesn't even try to hide his exultation. You won, <clr>you are the CHAMPION <clrEnd>!!!
+
+The crowd of fans quickly surrounded you, cheering your name. Then, the awards ceremony was held, followed by a banquet, and you were offered the luxury of a night in the best hotel on the planet. The night passed without incident, and you returned to the spaceport the next morning."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/10/texts/0/text"	"Проныра подошел к вашему фонсеру.
+- Очень плохо, ничья на Квалификации! На что вы рассчитываете против более опытных гонщиков?
+Хотя могло быть и хуже. Ничья - это не проигрыш. Соберитесь, <Ranger>! Мы на вас надеемся. Будет назначен повторный старт. Идите в боксы."	"Quest Foncers.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: Slyboots approached your foncer.
+- Very bad, tied in the qualification test! What do you expect competing with more experienced racers?
+Though it could have been worse. No side is losing yet. Recollect your strength, <Ranger>! We trust in you. They will announce restart. Go to the boxes."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/10/texts/1/text"	"Проныра подошел к вашему фонсеру.
+- Плохо, ничья в Полуфинале! На что вы рассчитываете против чемпиона? Ладно, еще есть шанс, ничья - это не проигрыш. Соберитесь, <Ranger>! Мы на вас надеемся. Будет назначен повторный старт. Идите в боксы."	"Quest Foncers.qmm: locations.10.texts.1.text. Preserve every <tag> exactly. English reference: Slyboots approached your foncer.
+- Bad, tied in the semi-final race! What do you expect competing with a champion? Alright, we still have a chance, a tie is not a loss. Recollect your strength, <Ranger>! We trust in you. They will announce restart. Go to the boxes."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/10/texts/2/text"	"Проныра подошел к вашему фонсеру.
+- Хорошо, ничья в Финале! Хотя могло быть и лучше. Ничья - это не выигрыш. Соберитесь, <Ranger>! Мы на вас надеемся. Будет назначен повторный старт. Идите в боксы."	"Quest Foncers.qmm: locations.10.texts.2.text. Preserve every <tag> exactly. English reference: Slyboots approached your foncer.
+- Not bad, tied in the final race! Though it could have been better. No side is winning yet. Recollect your strength, <Ranger>! We trust in you. They will announce restart. Go to the boxes."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/11/texts/0/text"	"Вы совершили мягкую посадку и неспеша вышли из своего корабля. Неподалеку вы увидели громадный голографический экран, на котором кадры гонок маленьких аппаратиков сменяли приветственные надписи на всех языках галактики, адресованные участникам чемпионата. 
+
+Не успев вдоволь налюбоваться красивыми картинами, среди которых, кстати, встречались и настораживающие (к примеру, небольшие взрывы с летящими во все стороны осколками), вы заметили встречающего. Он подошел к вам и сказал:
+
+- Здравствуйте, <Ranger>! Я представитель планеты <FromPlanet>. Рад, что вы прилетели вовремя, гонка скоро начнется, и нам стоит отправиться сначала на жеребьевку, а затем в боксы - выбирать фонсер. Хотя, если у вас есть вопросы, я с радостью отвечу на них. Меня зовут Проныра. Как вы понимаете, это не имя, а прозвище, но я к нему привык и прошу называть меня именно так."	"Quest Foncers.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: You landed softly and left your spaceship quickly. Nearby you saw a huge holographic screen with changing shots of small machine races and welcoming words to all championship participants in all languages of the Galaxy. 
+
+You had hardly admired the nice pictures, some of which were rather alarming, by the way (small explosions with fragments flying in different directions, for example), when you noticed the Welcomer. He approached you and said:
+
+- Hello, <Ranger>! I'm the <FromPlanet>'s representative. I'm happy that you've come just in time, the race will start soon, and we should participate in the draw and then go the boxes to choose a foncer for you. Though, if you have any questions, I'll be glad to answer them. I'm Slyboots. I guess you realise that this is not my name, but a nickname. However, I'm used to it, so please call me by my nickname."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/11/texts/1/text"	"- Трасса разделена на <clr>11 участков<clrEnd> различной сложности и протяженности. Каждый участок трассы можно проходить, используя различную тактику. Советую обращать внимание на длину участка, от этого будет зависеть время его прохождения различными способами. То есть на коротком участке можно выиграть или проиграть значительно быстрее, чем на длинном. Каждый гонщик едет по своей полосе трассы, поэтому столкновения с соперником исключены, вам нужно думать только об огибании препятствий. Во избежание споров обе полосы абсолютно идентичны."	"Quest Foncers.qmm: locations.11.texts.1.text. Preserve every <tag> exactly. English reference: - The track is divided into <clr>11 segments<clrEnd> of different complexity and length. You can pass each section using different tactics. Pay special attention to the segment length, your elapsed race time and other factors that can affect it. Your race time will change more on a longer segment than a shorter one. Each racer will be driving along their own track line, so there's no chance of any collisions with one another. Concentrating on avoiding obstacles is all that is necessary. To prevent disputes between racers, both lines are completely identical to each other."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/11/texts/2/text"	"- Фонсер - это, по существу, сиденье с мощным двигателем. Кроме двигателя есть генератор защитного поля, слабенькая антигравитационная турбина и маневровые движки. Мощности антигравитационной турбины достаточно, чтобы набирать высоту до 3-5 метров, так что гонка это не езда, а полет. Скорости на трассе достигают 1000 км/ч. Так как реакции живого существа недостаточно, чтобы вести фонсер не задевая препятствий, его оснащают <clr>генератором защитного поля<clrEnd> - любое столкновение вызывает повреждения этого поля. Полностью избежать столкновений не удается даже на самых простых участках трассы. Когда значение защиты достигнет нуля, фонсер просто разлетится на мелкие кусочки, и гонщик вместе с ним. Поэтому, если вы не уверены, что преодолеете очередной участок, лучше сойти с трассы."	"Quest Foncers.qmm: locations.11.texts.2.text. Preserve every <tag> exactly. English reference: - Actually, a foncer is a small mountable vehicle with a powerful engine. Apart from the engine itself, it also has a forcefield generator, a feeble anti-gravity turbine and manoeuvring controls. The anti-gravity turbine gives enough power for the pilot to hover 3-5 meters above ground, so actually the pilots are competing in air-racing, not just motor-racing. Due to a lack of friction, the speed during the race can become as high as 1000 km/h. In the event that the pilot's reflexes aren't quick enough to evade all the obstacles while driving the foncer, <clr>the forcefield generator <clrEnd> is used. Any collision causes damage to the field. It is impossible to completely avoid collisions, even on the simplest track segments. If the cursor of the protection meter falls to zero, the foncer will simply destruct, along with the racer. So, if you are not sure of yourself, you ought to fall back."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/11/texts/3/text"	"- Финальная часть турнира состоит из трех этапов. И для вас гонки будут выглядеть примерно так:
+
+<clr>Первый этап<clrEnd> - Квалификация. На этом этапе вам может достаться не очень сильный противник.
+<clr>Второй этап<clrEnd> - Полуфинал. Здесь уже слабых соперников нет. Победитель выходит в финал.
+<clr>Третий этап<clrEnd> - Финал. Кто выигрывает гонку, тот и становится чемпионом на следующие четыре года. Ваш соперник наверняка будет очень силен, может, это будет даже сам чемпион.
+Кстати, сейчас им является Михаэль Шульман.
+
+Для победы вам необходимо <clr>прийти первым на всех трех этапах<clrEnd>."	"Quest Foncers.qmm: locations.11.texts.3.text. Preserve every <tag> exactly. English reference: - The final part of the tournament consists of three stages. Namely: 
+
+<clr>First stage<clrEnd> - Qualification race. At this stage you may compete with an inexperienced racer.
+<clr>Second stage<clrEnd> - Semi-final race. No more inexperienced competitors here. The winner will take part in the final race.
+<clr>Third stage<clrEnd> - The final race. Its winner becomes the champion for the next four years. Your competitor will be very strong, and may be the champion himself.
+By the way, now it is Mikhael Shulman.
+
+To win you must <clr>be the first to finish all three races<clrEnd>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/15/texts/0/text"	"Вы находитесь в мастерской, главный механик ждет указаний по распределению энергии, попутно объясняя:
+
+- Энергию главного генератора можно разделить на <clr>9<clrEnd> потоков, соответственно, каждый поток можно направить на <clr>двигатель<clrEnd>, <clr>генератор защитного поля<clrEnd> или <clr>маневровые движки<clrEnd>. На каждый агрегат направляется не более <clr>5<clrEnd> потоков."	"Quest Foncers.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: You are in the machine shop; the chief mechanic needs the directions on power distribution and is giving necessary explanations:
+
+- The main generator's power can be divided into <clr>9<clrEnd> flows, and each flow can supply <clr>the engine<clrEnd>, <clr>the forcefield generator <clrEnd> or <clr>the manoeuvring controls<clrEnd>. No more than <clr>5<clrEnd> flows can supply each item."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/24/texts/0/text"	"Проныра подошел к вашему фонсеру:
+
+- Великолепно! Мы не зря на вас надеялись. Если вы хотите оставить текущую модель фонсера, то механики быстро приведут ее в порядок. Или вы предпочитаете сменить модель? Следующая гонка начнется через час."	"Quest Foncers.qmm: locations.24.texts.0.text. Preserve every <tag> exactly. English reference: Slyboots approached your foncer:
+
+- Excellent! We were right trusting in you. If you want to stay in the current foncer model, it won't take long for our mechanics to get it ready for the next race. Or do you prefer to change the model? Then next race will start in an hour."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/25/texts/0/text"	"Зал, в котором должна была состояться жеребьевка, впечатлял своим оформлением. По периметру вокруг сидячих мест была расположена громадная экспозиция. Здесь наравне с устаревшими моделями фонсеров и голопортретами прошлых чемпионов выставлены обломки и голограммы в траурном обрамлении. Это снова навело вас на мысли об опасностях выбранного вида спорта.
+
+Все места в зале заполнены гонщиками, их представителями и почетными гостями. Сначала была красочная церемония открытия чемпионата, затем звучали речи, которые мало вас интересовали, и лишь после этого устроители приступили к жеребьевке.
+
+Из всего услышанного вы смогли выделить следующую важную информацию. Всего в финальную часть чемпионата попали <clr>6<clrEnd> лучших спортсменов. Четверо менее титулованных из них, включая вас, в первой стадии соревнований, по традиции называемой Квалификация, выявят в двух гонках двух победителей, которые примут участие в Полуфинале. Полуфинал - второй этап финальной стадии гонок, в котором соревнуются ранее выявленные лидеры с победителями Квалификации. Победители в Полуфинале выходят в Финал, где определяется чемпион.
+
+Главный судья соревнований, вызывает вас на сцену, так же как и остальных троих участников Квалификации. Это пеленг по имени Расгуш, малок Гозар, и фэянин Миатра."	"Quest Foncers.qmm: locations.25.texts.0.text. Preserve every <tag> exactly. English reference: The decor of the hall where the draw was to be held was imposing. A huge exposition was placed along the perimeter and around the seats. Old-fashioned models of foncers and past champions' hologram portraits were exhibited there along with wreckages and holograms in penitential framing. They reminded you how dangerous the sport was.
+
+All the seats in the hall were occupied by the racers, their representatives and guests of honour. At first the colourful opening ceremony was held, after which they made speeches quite uninteresting for you, and then finally, the sponsors started the draw.
+
+You managed to pick out the following important information from what you heard. All together there are <clr>6<clrEnd> best sportsmen who have reached this final part of the tournament. Four of them are to race in the first stage, known traditionally as the Qualifiers. Two winners will then compete with the previously defined leaders in the Semi-final race, which is the second stage. Consequently, the Semi-final winners will take part in the Final race, which will define the champion.
+
+The arbiter calls you out to the stage together with the other three racers who will participate in the Qualifiers. They are Peleng Rasgush, Maloq Gonzar, and Faeyan Miatra."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/25/texts/1/text"	"Пеленг Расгуш отвечает вам взаимным приветствием, в зрительном зале многие аплодируют подобному проявлению спортивного уважения. 
+Судя по всему, этот гонщик, как и все пеленги, ценит <clr>скорость и маневренность<clrEnd>, а также любит <clr>рисковать<clrEnd>.
+
+Вы вместе с тремя другими гонщиками стоите на сцене, перед вами корзина с шарами для жеребьевки."	"Quest Foncers.qmm: locations.25.texts.1.text. Preserve every <tag> exactly. English reference: Peleng Rasgush answers your greeting and those sitting in the hall are applauding to this display of his respect.
+In all appearances, this racer prefers <clr>speed and manoeuvrability <clrEnd> and loves <clr>taking risks<clrEnd> like all Pelengs.
+
+You are standing on the stage together with the other three racers, and there is a basket with the pin palling lots in it."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/25/texts/2/text"	"Малок Гозар лишь рычит в ответ что-то неразборчивое, и из зала долетает легкий ропот. Дело в том, что спортсмены высоко чтят дух соревнований. По легендам, на некоторых планетах существовала традиция прекращать даже войны на время спортивных праздников. Поэтому публика недовольна поведением Гозара. 
+""Вряд ли малок уделил большое внимание скорости или маневренности своего фонсера, - подумали вы. - Но зато <clr>защита<clrEnd> у него наверняка максимальная!""
+
+Вы вместе с тремя другими гонщиками стоите на сцене, перед вами корзина с шарами для жеребьевки."	"Quest Foncers.qmm: locations.25.texts.2.text. Preserve every <tag> exactly. English reference: Maloq Gonsar is roaring some dark things and a slight murmur runs through the ranks. The thing is that all the sportsmen respect competitions and their atmosphere. Legends say that some planets used to have the traditions of intermitting wars during sports festivals. So now they don't approve of Gonzar's behaviour.
+""This Maloq hardly pays much attention to his forcer's speed or manoeuvrability"", - you thought. - But he surely has the maximum <clr>protection<clrEnd>!""
+
+You are standing on the stage together with the other three racers, and there is a basket with the pin palling lots in it."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/25/texts/3/text"	"Фэянин Миатра ответил вам изысканной любезностью, но настолько высокопарно, что немногие в зале были способны оценить всю красоту слога, а некоторые могли воспринять слова Миатры как завуалированную насмешку. Так или иначе, в зале ненадолго повисает тишина. 
+Пожалуй, этот хитрый фэянин основной упор в гонке будет делать на <clr>маневренность<clrEnd>.
+
+Вы вместе с тремя другими гонщиками стоите на сцене, перед вами корзина с шарами для жеребьевки."	"Quest Foncers.qmm: locations.25.texts.3.text. Preserve every <tag> exactly. English reference: Faeyan Miatra answered your greetings with delicate kindness but his words were so grandiloquent, that there were only a few individuals in the hall who were able to enjoy all the style. Moreover, some attendants could hear veiled irony in his answer. Either way, an awkward silence settled in the hall for a short period of time.
+Perhaps, this cunning Faeyan will consider <clr>manoeuvrability<clrEnd> to be the keystone of his victory in the race.
+
+You are standing on the stage together with the other three racers, and there is a basket with the pin palling lots in it."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/30/texts/0/text"	"Вы достаете шар из корзины, вслед за вами это делают и остальные гонщики. В результате вам в соперники выпадает <clr>пеленг по имени Расгуш<clrEnd>.
+
+С первым соперником вы определились, теперь по регламенту соревнований следует сразу выбрать возможного оппонента для второго этапа. Это будет один из двух землян: <clr>Владимир Корченица<clrEnd>, одинаково быстрый и маневренный, или действующий чемпион <clr>Михаэль Шульман<clrEnd>, славящийся своей необыкновенной <clr>скоростью<clrEnd>."	"Quest Foncers.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: You take a lot out of the basket, so do the other racers. In the issue, you are going to compete with <clr>Peleng Rasgush <clrEnd>.
+
+Now you know your first competitor and according to the competition order, right now you need to choose your possible competitor for the second stage. It will be one of two Earthen: either: <clr>Vladimir Korchenitza <clrEnd>, who is equally fast and manoeuvrable, or the current champion, <clr>Mikhael Shulman <clrEnd>, famous for his unusual <clr>speed<clrEnd>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/30/texts/1/text"	"Вы достаете шар из корзины, вслед за вами это делают и остальные гонщики. В результате вам в соперники выпадает <clr>малок - Гозар<clrEnd>.
+
+С первым соперником вы определились, теперь по регламенту соревнований следует сразу выбрать возможного оппонента для второго этапа. Это будет один из двух землян: <clr>Владимир Корченица<clrEnd>, одинаково быстрый и маневренный, или действующий чемпион <clr>Михаэль Шульман<clrEnd>, славящийся своей необыкновенной <clr>скоростью<clrEnd>."	"Quest Foncers.qmm: locations.30.texts.1.text. Preserve every <tag> exactly. English reference: You take a lot out of the basket, so do the other racers. In the issue, you are going to compete with <clr>the Maloq - Gonzar <clrEnd>.
+
+Now you know your first competitor and according to the competition order, right now you need to choose your possible competitor for the second stage. It will be one of two Earthen: either: <clr>Vladimir Korchenitza <clrEnd>, who is equally fast and manoeuvrable, or the current champion, <clr>Mikhael Shulman <clrEnd>, famous for his unusual <clr>speed<clrEnd>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/locations/30/texts/2/text"	"Вы достаете шар из корзины, вслед за вами это делают и остальные гонщики. В результате вам в соперники выпадает <clr>фэянин Миатра<clrEnd>.
+
+С первым соперником вы определились, теперь по регламенту соревнований следует сразу выбрать возможного оппонента для второго этапа. Это будет один из двух землян: <clr>Владимир Корченица<clrEnd>, одинаково быстрый и маневренный, или действующий чемпион <clr>Михаэль Шульман<clrEnd>, славящийся своей необыкновенной <clr>скоростью<clrEnd>."	"Quest Foncers.qmm: locations.30.texts.2.text. Preserve every <tag> exactly. English reference: You take a lot out of the basket, so do the other racers. In the issue, you are going to compete with <clr>Faeyan Miatra <clrEnd>.
+
+Now you know your first competitor and according to the competition order, right now you need to choose your possible competitor for the second stage. It will be one of two Earthen: either: <clr>Vladimir Korchenitza <clrEnd>, who is equally fast and manoeuvrable, or the current champion, <clr>Mikhael Shulman <clrEnd>, famous for his unusual <clr>speed<clrEnd>."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/0/text"	"Выбрать ""Ураган"""	"Quest Foncers.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Choose ""Hurricane"""	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/1/text"	"Выбрать ""Торнадо"""	"Quest Foncers.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Choose ""Tornado"""	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/2/text"	"Выбрать ""Бриз"""	"Quest Foncers.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Choose ""Breeze"""	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/3/text"	"Выбрать ""Вихрь"""	"Quest Foncers.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: Choose ""Vortex"""	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/4/text"	"Выжать ручку газа до упора"	"Quest Foncers.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: Give full throttle"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/5/text"	"Выжать ручку газа до упора, жертвуя защитой ради скорости"	"Quest Foncers.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: Give full throttle, sacrificing protection for speed"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/6/text"	"Спокойно пройти опасный участок трассы, заботясь о защите"	"Quest Foncers.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: Move easily through the dangerous part of the track segment minding protection"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/7/text"	"Слегка притормаживать на самых опасных местах, но не забывать о скорости"	"Quest Foncers.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Brake slightly in the most dangerous places but mind the speed"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/8/text"	"Разогнаться по финишной прямой до максимума"	"Quest Foncers.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Pick up the maximum speed on the final straight"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/15/text"	"Сойти с дистанции"	"Quest Foncers.qmm: jumps.15.text. Preserve every <tag> exactly. English reference: Fall back"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/22/text"	"Забыть о скорости, максимально экономить защитное поле"	"Quest Foncers.qmm: jumps.22.text. Preserve every <tag> exactly. English reference: Spend the power feeding your forcefield very carefully"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/23/description"	"Ваш противник сошел с дистанции. Теперь надо только доехать до финиша!"	"Quest Foncers.qmm: jumps.23.description. Preserve every <tag> exactly. English reference: Your competitor left the distance. Now you just need to finish!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/24/description"	"Ваш противник сошел с дистанции. Теперь надо только доехать до финиша!"	"Quest Foncers.qmm: jumps.24.description. Preserve every <tag> exactly. English reference: Your competitor left the distance. Now you just need to finish!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/25/description"	"Ваш противник сошел с дистанции. Теперь надо только доехать до финиша!"	"Quest Foncers.qmm: jumps.25.description. Preserve every <tag> exactly. English reference: Your competitor left the distance. Now you just need to finish!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/30/text"	"Отправиться на жеребьевку"	"Quest Foncers.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Go to draw lots"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/31/text"	"Попросить рассказать про соревнования"	"Quest Foncers.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Ask to tell you about the race"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/32/text"	"Попросить рассказать про фонсеры"	"Quest Foncers.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Ask to tell you about foncers"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/35/text"	"Попросить рассказать про трассу"	"Quest Foncers.qmm: jumps.35.text. Preserve every <tag> exactly. English reference: Ask to tell you about the tournament"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/37/text"	"Конфигурировать собственную модель"	"Quest Foncers.qmm: jumps.37.text. Preserve every <tag> exactly. English reference: Configure your personal model"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/38/text"	"Направить энергию на двигатель"	"Quest Foncers.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Feed power to the engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/39/text"	"Направить энергию на генератор защитного поля"	"Quest Foncers.qmm: jumps.39.text. Preserve every <tag> exactly. English reference: Feed power to the forcefield generator"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/40/text"	"Направить энергию на маневровые движки"	"Quest Foncers.qmm: jumps.40.text. Preserve every <tag> exactly. English reference: Feed power to the manoeuvring sliders"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/41/text"	"Снять энергию с двигателя"	"Quest Foncers.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Drop power from the engine"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/42/text"	"Снять энергию с генератора защитного поля"	"Quest Foncers.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Drop power from the forcefield generator"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/43/text"	"Снять энергию с маневровых движков"	"Quest Foncers.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Drop power from the manoeuvring sliders"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/44/text"	"Закончить конфигурацию фонсера"	"Quest Foncers.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Stop configuring the foncer"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/51/description"	"Выбор сделан. Вы надеваете костюм гонщика. Фонсер устанавливают на стартовой черте. Вы садитесь на него и включаете двигатель. Генератор мягко урчит, через считанные секунды начнется ваша первая гонка!"	"Quest Foncers.qmm: jumps.51.description. Preserve every <tag> exactly. English reference: You've made your choice. You don the racer's outfit. The foncer is driven to the starting-post. You mount it and start the engine. The generator purrs and your first race will start within a few seconds!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/52/description"	"Выбор сделан. Фонсер снова устанавливают на стартовой черте. Вы привычно садитесь на него и уже чисто машинально включаете двигатель. Генератор мягко урчит, через считанные секунды начнется <clr>Финал<clrEnd>. Вы предельно сконцентрированы."	"Quest Foncers.qmm: jumps.52.description. Preserve every <tag> exactly. English reference: You've made your choice. The foncer is driven to the starting-post again. Habitually, you mount it and start the engine without hesitation. The generator purrs, and <clr>the Final race<clrEnd> will start within a few seconds. Your concentration is maximum."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/53/description"	"Выбор сделан. Фонсер снова устанавливают на стартовой черте. Вы привычно садитесь на него и включаете двигатель. Генератор мягко урчит, через считанные секунды начнется <clr>Полуфинал<clrEnd>."	"Quest Foncers.qmm: jumps.53.description. Preserve every <tag> exactly. English reference: You've made your choice. The foncer is driven to the starting-post again. You mount it habitually and start the engine. The generator is purrs, and <clr>the Semi-final race<clrEnd> will start within a few seconds."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/55/text"	"Сменить модель фонсера"	"Quest Foncers.qmm: jumps.55.text. Preserve every <tag> exactly. English reference: Change the foncer model"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/56/text"	"Провести следующую гонку на этой же модели фонсера"	"Quest Foncers.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Drive the same foncer model during the next race"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/57/text"	"Поприветствовать пеленга"	"Quest Foncers.qmm: jumps.57.text. Preserve every <tag> exactly. English reference: Greet the Peleng"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/58/text"	"Поприветствовать малока"	"Quest Foncers.qmm: jumps.58.text. Preserve every <tag> exactly. English reference: Greet the Maloq"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/59/text"	"Поприветствовать фэянина"	"Quest Foncers.qmm: jumps.59.text. Preserve every <tag> exactly. English reference: Greet the Faeyan"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/60/text"	"Вытащить шар для жеребьевки из корзины"	"Quest Foncers.qmm: jumps.60.text. Preserve every <tag> exactly. English reference: Take out a lot from the basket"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/67/text"	"Снова тянуть шар"	"Quest Foncers.qmm: jumps.67.text. Preserve every <tag> exactly. English reference: Take one more lot"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/67/description"	"Вы снова достаете шар из корзины. Теперь, если вы победите в Квалификации, вашим соперником в Полуфинале будет <clr>землянин по имени Владимир Корченица<clrEnd>."	"Quest Foncers.qmm: jumps.67.description. Preserve every <tag> exactly. English reference: You take one more lot from the basket. Now, if you win the Qualification, you will compete with <clr>the Earthman named Vladimir Korchenitza <clrEnd> in the Semi-final race."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/68/text"	"Снова тянуть шар"	"Quest Foncers.qmm: jumps.68.text. Preserve every <tag> exactly. English reference: Take one more lot"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/68/description"	"Вы снова достаете шар из корзины. Теперь, если вы победите в Квалификации, вашим соперником в Полуфинале будет <clr>землянин по имени Михаэль Шульман<clrEnd>. Действующий чемпион, между прочим..."	"Quest Foncers.qmm: jumps.68.description. Preserve every <tag> exactly. English reference: You take one more lot from the basket. Now, if you win the Qualification, you will compete with <clr>the Earthman named Mikhael Shulman <clrEnd> in the Semi-final race. The current champion, by the way..."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/69/text"	"Жеребьевка окончена, остается только отправиться в боксы для выбора фонсера"	"Quest Foncers.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: The draw is over, all you need to do now is go the boxes and choose the foncer"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/70/description"	"Выбор сделан. Вы надеваете костюм гонщика. Фонсер устанавливают на стартовой черте. Вы садитесь на него и включаете двигатель. Генератор мягко урчит, через считанные секунды начнется ваша первая гонка!"	"Quest Foncers.qmm: jumps.70.description. Preserve every <tag> exactly. English reference: You've made your choice. You don the racer's outfit. The foncer is driven to the starting-post. You mount it and start the engine. The generator purrs and your first race will start within a few seconds!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/71/description"	"Выбор сделан. Вы надеваете костюм гонщика. Фонсер устанавливают на стартовой черте. Вы садитесь на него и включаете двигатель. Генератор мягко урчит, через считанные секунды начнется ваша первая гонка!"	"Quest Foncers.qmm: jumps.71.description. Preserve every <tag> exactly. English reference: You've made your choice. You don the racer's outfit. The foncer is driven to the starting-post. You mount it and start the engine. The generator purrs and your first race will start within a few seconds!"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/72/text"	"Слегка притормаживать на самых опасных местах, но не забывать о скорости"	"Quest Foncers.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Brake slightly in the most dangerous places but mind the speed"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/73/text"	"Забыть о скорости, максимально экономить защитное поле"	"Quest Foncers.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: Spend the power feeding your forcefield very carefully"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/74/text"	"Спокойно пройти опасный участок трассы, заботясь о защите"	"Quest Foncers.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: Move easily through the dangerous part of the track segment minding protection"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/75/text"	"Выжать ручку газа до упора, жертвуя защитой ради скорости"	"Quest Foncers.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: Give full throttle, sacrificing protection for speed"	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/77/description"	"Выбор сделан. Вы надеваете костюм гонщика. Фонсер снова устанавливают на стартовой черте. Вы привычно садитесь на него и включаете двигатель. Генератор мягко урчит, через считанные секунды начнется <clr>Финал<clrEnd>."	"Quest Foncers.qmm: jumps.77.description. Preserve every <tag> exactly. English reference: You've made your choice. You put the racer's outfit. The foncer is driven to the starting-post again. You sit down habitually onto it and run the engine. The generator is purring, <clr>the Final race<clrEnd> will start within few seconds."	"Quest,Foncers"	""
+"/quests/Foncers.qmm/jumps/78/description"	"Выбор сделан. Вы надеваете костюм гонщика. Фонсер снова устанавливают на стартовой черте. Вы привычно садитесь на него и уже механически включаете двигатель. Генератор мягко урчит, через считанные секунды начнется <clr>Полуфинал<clrEnd>. Вы предельно сконцентрированы."	"Quest Foncers.qmm: jumps.78.description. Preserve every <tag> exactly. English reference: You've made your choice. You put the racer's outfit. The foncer is driven to the starting-post again. You sit down habitually onto it and automatically run the engine. The generator is purring, <clr>the Semi-final race<clrEnd> will start within few seconds. Your concentration is maximal."	"Quest,Foncers"	""

@@ -1,0 +1,86 @@
+name: Crowdin sync
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "crowdin/**/*.tsv"
+      - "crowdin.yml"
+      - "crowdin_upload.py"
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      direction:
+        description: Sync direction
+        type: choice
+        options: [both, upload, download]
+        default: both
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: crowdin-sync
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    if: >-
+      github.event_name == 'push' ||
+      github.event_name == 'workflow_dispatch' &&
+      (inputs.direction == 'both' || inputs.direction == 'upload')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate corpus
+        run: python validate_corpus.py
+
+      - name: Upload configured TSV sources
+        run: python crowdin_upload.py
+        env:
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+      - name: Import checked-in Belarusian targets
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          upload_translations: true
+          upload_translations_args: "--language be --import-eq-suggestions"
+          download_translations: false
+        env:
+          CROWDIN_PROJECT_ID: "930019"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+
+  download:
+    if: >-
+      github.event_name == 'schedule' ||
+      github.event_name == 'workflow_dispatch' &&
+      (inputs.direction == 'both' || inputs.direction == 'download')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download translations and open a PR
+        uses: crowdin/github-action@v2
+        with:
+          upload_sources: false
+          upload_translations: false
+          download_translations: true
+          download_translations_args: "--language be"
+          localization_branch_name: crowdin/translations
+          create_pull_request: true
+          pull_request_base_branch_name: main
+          pull_request_title: "Update Belarusian translations from Crowdin"
+          pull_request_body: "Automated Crowdin export. CI validates identifiers and control syntax."
+          commit_message: "Update translations from Crowdin"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CROWDIN_PROJECT_ID: "930019"
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}

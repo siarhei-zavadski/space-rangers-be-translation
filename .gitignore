@@ -1,0 +1,34 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Generated mod output and proprietary game backups
+build/
+work/
+backup/
+*.dat
+*.gi
+*.pkg
+*.qmm
+*.aft
+
+# Local-only tool downloads and generated exports
+tools/Lang.*.export.txt
+tools/*.deb
+tools/*.oxt
+tools/BlockParEditor/
+tools/SRResEditor/
+tools/TGE/
+tools/ranger-tools/
+tools/ranger-tools/*.egg-info/
+
+# Secrets and editor/OS state
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store

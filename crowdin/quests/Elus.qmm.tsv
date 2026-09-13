@@ -1,0 +1,936 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Elus.qmm/parameters/0/name"	"ТУР"	"Quest Elus.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: ROUND"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/0/lines/0/content"	"ТУР: <>"	"Quest Elus.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: ROUND: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Elus.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/1/name"	"ОШИБКИ"	"Quest Elus.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: ERRORS"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/1/lines/0/content"	"ОШИБКИ: <>"	"Quest Elus.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: ERRORS: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/2/name"	"Текущий_номер"	"Quest Elus.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Current number"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/2/lines/0/content"	"Осталось фигур: {11-[p3]}"	"Quest Elus.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Figures left: {11-[p3]}"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Elus.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/3/name"	"ПРАВИЛО"	"Quest Elus.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: RULE"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/3/lines/0/content"	"ПОСЛЕДОВАТЕЛЬНОСТЬ ФИГУР:"	"Quest Elus.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: ORDER OF FIGURES:"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Elus.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/name"	"Первый"	"Quest Elus.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: The first"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.4.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.4.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.4.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.4.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.4.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.4.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Elus.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/name"	"Второй"	"Quest Elus.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: The second"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.5.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.5.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.5.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.5.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.5.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.5.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.5.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Elus.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/name"	"Третий"	"Quest Elus.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: The third"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.6.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.6.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.6.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.6.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.6.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.6.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.6.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Elus.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/name"	"Четвертый"	"Quest Elus.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: The forth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.7.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.7.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.7.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.7.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.7.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.7.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Elus.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/name"	"Пятый"	"Quest Elus.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: The fifth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.8.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.8.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.8.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.8.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.8.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.8.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Elus.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/name"	"Шестой"	"Quest Elus.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: The sixth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.9.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.9.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.9.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.9.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.9.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.9.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.9.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.9.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Elus.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/name"	"Седьмой"	"Quest Elus.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: The seventh"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.10.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.10.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.10.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.10.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Elus.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/name"	"Восьмой"	"Quest Elus.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: The eighth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.11.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.11.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.11.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.11.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.11.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.11.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.11.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.11.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Elus.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/name"	"Девятый"	"Quest Elus.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: The ninth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.12.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.12.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.12.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.12.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.12.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.12.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.12.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.12.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Elus.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/name"	"Десятый"	"Quest Elus.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: The tenth"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/1/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.13.lines.1.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/2/content"	"<fix><format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.13.lines.2.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/3/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.13.lines.3.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/4/content"	"<fix><format=left,8>Большой</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.13.lines.4.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Big</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/5/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.13.lines.5.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/6/content"	"<fix><format=left,8>Малый</format><format=left,7>Синий</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.13.lines.6.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Blue</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/7/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Круг</format></fix>"	"Quest Elus.qmm: parameters.13.lines.7.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Circle</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/lines/8/content"	"<fix><format=left,8>Малый</format><format=left,7>Желтый</format><format=left,5>Ромб</format></fix>"	"Quest Elus.qmm: parameters.13.lines.8.content. Preserve every <tag> exactly. English reference: <fix><format=left,8>Small</format><format=left,7>Yellow</format><format=left,5>Lozenge</format></fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Elus.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/14/name"	"Таблица_истинности"	"Quest Elus.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Truth table"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/14/lines/0/content"	"Параметр номер 15: <>"	"Quest Elus.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 15: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Elus.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/15/name"	"Первый_неправильный"	"Quest Elus.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: The_first_incorrect"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/15/lines/0/content"	"Параметр номер 16: <>"	"Quest Elus.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 16: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Elus.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/16/name"	"Второй_неправильный"	"Quest Elus.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: The_second_incorrect"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/16/lines/0/content"	"Параметр номер 17: <>"	"Quest Elus.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 17: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Elus.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/17/name"	"Правильный_вариант"	"Quest Elus.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: Correct variant"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest Elus.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 18: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Elus.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/18/name"	"Ошибочный_вариант_один"	"Quest Elus.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Incorrect_variant_one"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest Elus.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 19: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Elus.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/19/name"	"Ошибочный_вариант_два"	"Quest Elus.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Incorrect_variant_two"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Elus.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 20: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Elus.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/20/name"	"Вариант"	"Quest Elus.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: Variant"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Elus.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 21: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Elus.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/21/name"	"Степень"	"Quest Elus.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: Degree"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Elus.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: Parameter No 22: <>"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Elus.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/22/name"	"Место игрока"	"Quest Elus.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: Player's place"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Elus.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/23/name"	"Деньги"	"Quest Elus.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: Money"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Elus.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/24/name"	"Онайк"	"Quest Elus.qmm: parameters.24.name. Preserve every <tag> exactly. English reference: O'Nyke"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Elus.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/25/name"	"Эо"	"Quest Elus.qmm: parameters.25.name. Preserve every <tag> exactly. English reference: Eo"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Elus.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/26/name"	"Лун"	"Quest Elus.qmm: parameters.26.name. Preserve every <tag> exactly. English reference: Loon"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Elus.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/27/name"	"Эллинар"	"Quest Elus.qmm: parameters.27.name. Preserve every <tag> exactly. English reference: Ellinar"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Elus.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/28/name"	"Крокус"	"Quest Elus.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: Crocus"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Elus.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/29/name"	"Мокус"	"Quest Elus.qmm: parameters.29.name. Preserve every <tag> exactly. English reference: Mocus"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Elus.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/30/name"	"Фокус"	"Quest Elus.qmm: parameters.30.name. Preserve every <tag> exactly. English reference: Phocus"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Elus.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/31/name"	"Блюк"	"Quest Elus.qmm: parameters.31.name. Preserve every <tag> exactly. English reference: Bliuk"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Elus.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/32/name"	"Глюк"	"Quest Elus.qmm: parameters.32.name. Preserve every <tag> exactly. English reference: Gliuk"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Elus.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/33/name"	"Груздь"	"Quest Elus.qmm: parameters.33.name. Preserve every <tag> exactly. English reference: Agaric"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Elus.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/34/name"	"Тупой"	"Quest Elus.qmm: parameters.34.name. Preserve every <tag> exactly. English reference: Clod"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Elus.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/35/name"	"Игрок"	"Quest Elus.qmm: parameters.35.name. Preserve every <tag> exactly. English reference: Player"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Elus.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/36/name"	"Онайк+"	"Quest Elus.qmm: parameters.36.name. Preserve every <tag> exactly. English reference: O'Nyke+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Elus.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/37/name"	"Эо+"	"Quest Elus.qmm: parameters.37.name. Preserve every <tag> exactly. English reference: Eo+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Elus.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/38/name"	"Лун+"	"Quest Elus.qmm: parameters.38.name. Preserve every <tag> exactly. English reference: Loon+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Elus.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/39/name"	"Эллинар+"	"Quest Elus.qmm: parameters.39.name. Preserve every <tag> exactly. English reference: Ellinar+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Elus.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/40/name"	"Крокус+"	"Quest Elus.qmm: parameters.40.name. Preserve every <tag> exactly. English reference: Crocus+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Elus.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/41/name"	"Мокус+"	"Quest Elus.qmm: parameters.41.name. Preserve every <tag> exactly. English reference: Mocus+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Elus.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/42/name"	"Фокус+"	"Quest Elus.qmm: parameters.42.name. Preserve every <tag> exactly. English reference: Phocus+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Elus.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/43/name"	"Блюк+"	"Quest Elus.qmm: parameters.43.name. Preserve every <tag> exactly. English reference: Bliuk+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Elus.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/44/name"	"Глюк+"	"Quest Elus.qmm: parameters.44.name. Preserve every <tag> exactly. English reference: Gliuk+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Elus.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/45/name"	"Груздь+"	"Quest Elus.qmm: parameters.45.name. Preserve every <tag> exactly. English reference: Agaric+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Elus.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/46/name"	"Тупой+"	"Quest Elus.qmm: parameters.46.name. Preserve every <tag> exactly. English reference: Clod+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Elus.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/47/name"	"Игрок+"	"Quest Elus.qmm: parameters.47.name. Preserve every <tag> exactly. English reference: Player+"	"Quest,Elus"	""
+"/quests/Elus.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Elus.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Elus"	""
+"/quests/Elus.qmm/success_text"	"Поздравляем вас, элуни <Ranger>! Мы рады, что не ошиблись в вашем интеллекте. Примите ваш гонорар - <Money> cr."	"Quest Elus.qmm: success_text. Preserve every <tag> exactly. English reference: Our congratulations, elunie <Ranger>! We are happy that we made a good shot and weren't mistaken about your intellect. Here is your fee - <Money> cr."	"Quest,Elus"	""
+"/quests/Elus.qmm/task_text"	"Рейнджер <Ranger>, скоро на планете <ToPlanet> системы <ToStar> состоится чемпионат по игре Элус. Победители в этой игре пользуются у нас, фэян, большим почетом и получают пожизненное звание элуни. К сожалению, представитель нашей планеты не сможет принять участие в чемпионате из-за внезапной болезни. Вы кажетесь нам достаточно умным, и поэтому мы предлагаем вам выступить в чемпионате за нашу планету. Если вы сумеете стать элуни, то по возвращении получите вознаграждение в размере <Money> cr. Но помните, вы должны прибыть на планету <ToPlanet> до <Date>.
+Желаем удачи!"	"Quest Elus.qmm: task_text. Preserve every <tag> exactly. English reference: Ranger <Ranger>, Elus game tournament will soon take place on planet <ToPlanet> in the <ToStar> system. Winners in this game are highly esteemed among us, the Faeyans, and get the honorary lifelong elunie title. Unfortunately, our planet's representative won't be able to take part in the tournament because of his sudden illness. We consider you intelligent enough to participate in the tournament as our representative. If you manage to become elunie, you will get a fee in the amount of <Money> cr on return. But note, that you should be on <ToPlanet> by <Date>.
+Good luck!"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/0/texts/0/text"	"Ажиотаж вокруг чемпионата был огромен, несмотря на то, что игра <clr>Элус<clrEnd> не пользовалась большой популярностью у других рас, кроме фэян. Вы зарегистрировались как участник чемпионата и отправились в гостиницу. Приняв душ, вы стали думать, чем заняться дальше."	"Quest Elus.qmm: locations.0.texts.0.text. Preserve every <tag> exactly. English reference: The tournament aroused a great boom in spite of the fact that <clr>Elus<clrEnd> was not so very popular among other races except for the Faeyans. You checked in as a participant in the tournament and went to the hotel. After shower you decided to think over your next steps."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/1/texts/0/text"	"Из дальнейшей беседы с Максом вы выяснили следующее:
+- Для игры в Элус используется 8 фигур. Они различаются по <clr>цвету<clrEnd> (синие и желтые), <clr>размеру<clrEnd> (малые и большие) и <clr>типу<clrEnd> (ромбы и круги).
+- Перед началом каждого тура игры задумывается некое <clr>правило<clrEnd>, согласно которому требуется выставлять фигуры в ряд в этом туре. Но игроку оно не известно.
+- В начале компьютер расставляет 3 фигуры в ряд. Первая выбирается случайно, остальные ставятся так, чтобы выполнялось задуманное правило.
+- Ход игрока заключается в том, что он выбирает одну из предложенных ему фигур. Если она удовлетворяет задуманному правилу, то ставится в конец ряда. Иначе, игрок получает <clr>штрафное очко<clrEnd>.
+- Из предложенных игроку фигур <clr>только одна<clrEnd> удовлетворяет правилу.
+- Тур заканчивается, когда выставлен ряд из <clr>8<clrEnd> фигур.
+- Если игрок допускает <clr>4<clrEnd> ошибки за один тур, он дисквалифицируется.
+- Чемпионат проходит в <clr>3<clrEnd> тура.
+- Звание <clr>элуни<clrEnd> присуждается всем игрокам, которые наберут наименьшее суммарное число штрафных очков по итогам трех туров."	"Quest Elus.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: From the further conversation with Max you found out the following information:
+- 8 figures are used in Elus game. They differ in <clr>colour<clrEnd> (blue and yellow), <clr> size <clrEnd> (small and big), and <clr>type<clrEnd> (lozenges and circles).
+- Before the beginning of each round they set some <clr>rule<clrEnd>, according to which the players will choose figures during the round to dispose them in line. But the players don't know this rule.
+- In the beginning computer disposes 3 figures in line. The first one is chosen occasionally, and the remaining two - to satisfy the set rule.
+- To move, the player chooses one of the offered figures. If this figure satisfies the rule, then it is disposed in the end of the line. If not, the player gets <clr>a penalty <clrEnd>.
+- <clr>only one <clrEnd> of all offered figures satisfies the rule.
+- The round is over when there is a line of <clr>8<clrEnd> figures.
+- If the player makes <clr>4<clrEnd> errors per one round, he is disqualified.
+- The tournament consists of <clr>3<clrEnd> rounds.
+- The players with the minimum aggregate number of penalties after the total of three rounds become <clr>elunies<clrEnd>."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/2/texts/0/text"	"Утром вы пришли на место проведения чемпионата, прошли недолгую процедуру проверки на наличие у вас какой-либо электроники, способной вмешаться в работу компьютера, и сели за столик со своим именем. Компьютер, стоящий на столе, произнес:
+- Приветствую вас, <Ranger>. Подождите немного.
+Минут через десять остальные столики тоже были заняты. Вы осмотрели своих соперников. В основном это были фэяне, но вы заметили и пару человеческих лиц.
+
+Чемпионат начался. К вам подошел один из судей, распечатал конверт с надписью ""Набор правил первого тура"", вытащил из него диск и вставил в компьютер.
+- Приступайте, - сказал он."	"Quest Elus.qmm: locations.2.texts.0.text. Preserve every <tag> exactly. English reference: In the morning you came to the championship place and went quickly through the checking procedure the aim of which was to detect electronic devices that could interfere with the computer work. Then you sat at the table with your name on it. The computer that was sitting on the table said:
+- Welcome, <Ranger>. Wait a moment.
+In about ten minutes the rest of the tables were occupied as well. You ran an eye over your opponents. Most of them were Faeyan but you also noticed a couple of Human faces.
+
+The tournament began. One of the referees came to you, opened up an envelope with the superscription ""The set of rules for the first round "", took out a disk and inserted it into the computer.
+- Begin, - he said."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/8/texts/0/text"	"На экране появилась таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |     |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |     |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |     |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |     |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |     |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |     |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |     |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |     |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |     |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |     |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |     |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |     |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- Вы вышли во второй тур, - сообщил компьютер.
+
+""Это было не так уж сложно"", - размышляли вы, сидя в баре и дожидаясь второго тура."	"Quest Elus.qmm: locations.8.texts.0.text. Preserve every <tag> exactly. English reference: The score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |     |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |     |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |     |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |     |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |     |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |     |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |     |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |     |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |     |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |     |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |     |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |     |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- You got through to the second round, - the computer announced.
+
+""It wasn't that difficult"", - you thought sitting in the bar and waiting for the second round."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/8/texts/1/text"	"На экране появилась таблица результатов:
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- Вы вышли в третий тур, - сообщил компьютер.
+
+""Это было сложнее, чем в первом туре, - размышляли вы, сидя в баре и дожидаясь начала финала. - Ну ничего. Две трети пути пройдено. Надеюсь, удача меня не оставит!"""	"Quest Elus.qmm: locations.8.texts.1.text. Preserve every <tag> exactly. English reference: The score table appeared on the screen:
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- You got through to the third round, - the computer announced.
+
+""This time it was more difficult than in the first round, - you thought sitting in the bar and waiting for the final round. - That's all right. Two thirds of the way are behind. I hope my luck won't turn!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/8/texts/2/text"	"На экране появилась таблица результатов:
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+- Вы вышли в третий тур, - сообщил компьютер.
+
+""Это было сложнее, чем в первом туре, - размышляли вы, сидя в баре и дожидаясь начала финала. - Ну ничего. Две трети пути пройдено. Надеюсь, удача меня не оставит!"""	"Quest Elus.qmm: locations.8.texts.2.text. Preserve every <tag> exactly. English reference: The score table appeared on the screen:
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |     ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+- You got through to the third round, - the computer announced.
+
+""This time it was more difficult than in the first round, - you thought sitting in the bar and waiting for the final round, - That's all right. Two thirds of the way are behind. I hope my luck won't turn!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/8/texts/3/text"	"На экране появилась таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- Вы вышли в третий тур, - сообщил компьютер.
+
+""Это было сложнее, чем в первом туре, - размышляли вы, сидя в баре и дожидаясь начала финала. - Ну ничего. Две трети пути пройдено. Надеюсь, удача меня не оставит!"""	"Quest Elus.qmm: locations.8.texts.3.text. Preserve every <tag> exactly. English reference: The score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |     ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- You got through to the third round, - the computer announced.
+
+""This time it was more difficult than in the first round, - you thought sitting in the bar and waiting for the final round, - That's all right. Two thirds of the way are behind. I hope my luck won't turn!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/8/texts/4/text"	"На экране появилась таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- Вы вышли в третий тур, - сообщил компьютер.
+
+""Это было сложнее, чем в первом туре, - размышляли вы, сидя в баре и дожидаясь начала финала. - Ну ничего. Две трети пути пройдено. Надеюсь, удача меня не оставит!"""	"Quest Elus.qmm: locations.8.texts.4.text. Preserve every <tag> exactly. English reference: The score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |     ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |     ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |     ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |     ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |     ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |     ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |     ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |     ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |     ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |     ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>
+
+- You got through to the third round, - the computer announced.
+
+""This time it was more difficult than in the first round, - you thought sitting in the bar and waiting for the final round, - That's all right. Two thirds of the way are behind. I hope my luck won't turn!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/9/texts/0/text"	"Вернувшись на корабль, вы сделали запись в дневнике: 
+""Сегодня не мой день. Мне не повезло, но это еще не повод, чтобы огорчаться! Я дошел до финала, а это может не каждый. Жаль, конечно, что не получу <Money> cr, но не в деньгах счастье. Пожалуй, полечу стрелять доминаторов. Это поднимет мне настроение!"""	"Quest Elus.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: When you returned to your ship, you wrote in your diary: 
+""It's just not my day today. My luck was out but this is not the reason to get upset! I got through to the final round and not everybody can do it. It's a pity, of course, that I won't get <Money> cr, but money makes nobody happy. I'd rather go and shoot dominators. It will liven me up!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/10/texts/0/text"	"Вы подошли к Онайку и сказали:
+
+- Примите мои поздравления, элуни Онайк! Вы были на высоте. Я рад за вас.
+
+С этими словами вы так крепко сжали его руку, что ваш соперник закричал от боли и, вырвав из вашей руки свою, стал ею махать. Тут из его рукава выпал какой-то металлический предмет. Вы, опередив Онайка, схватили его. Предмет оказался набольшим лаптопом, судя по всему, пеленгской сборки. Удивительно, как Онайк сумел его пронести? Ведь каждый игрок, перед тем как сесть за столик, подвергался специальной проверке на наличие устройств подобного рода.
+
+-Так-так, - сказал подошедший судья, - будем разбираться.
+
+В ходе разбирательства выяснилось, что на лаптопе была специальная программа-взломшик, которая анализировала ситуацию на поле и ставила небольшую точку над фигурой, которой следовало пойти. Точка была настолько маленькой, что если бы кто-то посмотрел из-за спины Онайка на экран, то не заметил бы ее, или просто не обратил бы на нее внимания. Программа-анализатор была настолько хороша, что почти не ошибалась. Сам лаптоп был спрятан в потайном кармане возле кисти руки. Карман же был сделан из особого материала, делающего лаптоп недоступным для обнаружения.
+После совещания судьи сообщили свое решение:
+
+- Поскольку Онайк нарушил правила игры, его результаты признаны недействительными! Сам Онайк лишается звания элуни и права участвовать в последующих чемпионатах по Элусу. Его имя навсегда вписывается в Книгу Позора! По правилам соревнований звание элуни присуждается всем, кто занял второе место вслед за Онайком!
+
+Таким образом, вы все-таки получили почетное звание <clr>элуни<clrEnd>! Вспоминается изречение кого-то из великих: ""В игре умей радоваться не только своей, но и чужой победе"". Как он был прав!
+
+После церемонии награждения и пресс-конференции вы возвращались на корабль в отличном настроении. Уже в космосе вы сделали запись в дневнике: ""Сегодня я выиграл в очень сложную игру, и впереди меня ждет награда в <Money> cr на планете <FromPlanet>. Жизнь прекрасна!"""	"Quest Elus.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: You approached O'Nyke and said:
+
+- My congratulations, elunie O'Nyke!  You were at your best. Good for you.
+
+Saying this you gripped his hand so hard that your opponent screamed with pain and wrestled his hand from yours waving it. And suddenly some metallic thing fell out of his sleeve. You were faster than O'Nyke and grabbed it. The thing turned out to be a small laptop of, in all appearances, Peleng assembly. You were surprised. How did he manage to get through the checking procedure with it? Before sitting to the table, each player went through the special detector, which checked him for such devices.
+
+-Well well, - the approached referee said, - we'll look into the matter.
+
+During the investigation it turned out that a special hacking program was installed on the laptop, which analysed the situation before each move and put a small dot over the necessary figure. If anybody had looked from behind O'Nyke's back at the screen, he wouldn't have noticed that dot or would have paid no attention to it - so small it was. That analyser was extremely good, almost infallible. The laptop itself was hidden in the secret pocket near the wrist. And the pocket was of a special material that made the laptop undetectable.
+After a council, the referees announced their verdict:
+
+- As long as O'Nyke broke the game rules, his scores are nullified! O'Nyke himself is deprived of the elunie title and the right to take part in all future Elus tournaments. His name will be put in the Disgrace Book forever. According to the tournament rules, the elunie title is adjudged to all players who came in a close second!
+
+So, you still managed to get the honorary <clr>Elunie<clrEnd> title! You couldn't but remembered the famous quote: ""Be able to feel happy for others too"". He was so damn right!
+
+After the awarding ceremony and the press conference you returned to the ship high-spirited. On your way through the space you wrote in your diary: ""I won a very challenging game today and there are <Money> cr waiting for me on <FromPlanet>. Life is a poem!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/10/texts/1/text"	"Вы разделили первое место с другими участниками! По старой фэянской традиции, если соревнующиеся показали равный уровень знаний, то и награды им присуждаются равные. Так что вы получили заветное звание <clr>элуни<clrEnd>!
+
+После церемонии награждения и пресс-конференции вы возвращались на корабль в приподнятом настроении. Уже в космосе вы сделали запись в дневнике: ""Сегодня я выиграл в очень сложную игру, и впереди меня ждет награда в <Money> cr на планете <FromPlanet>. Жизнь прекрасна!"""	"Quest Elus.qmm: locations.10.texts.1.text. Preserve every <tag> exactly. English reference: You shared the first place with the other participants! According to the old Faeyan tradition, the sportsmen were equally rewarded if they demonstrated the same level of intellect. So you got the dear <clr>elunie<clrEnd> title!
+
+After the awarding ceremony and the press conference you returned to the ship high-spirited. On your way through the space you wrote in your diary: ""I won a very challenging game today and there are <Money> cr waiting for me on <FromPlanet>. Life is a poem!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/10/texts/2/text"	"Вы не просто заняли первое место, но и сделали меньше ошибок, чем любой другой участник! Такого в истории игры Элус не случалось уже очень давно. Посовещавшись, судьи не только присудили вам заветное звание <clr>элуни<clrEnd>, но и дали премию в <clr>1000<clrEnd> cr! Теперь ваш счет составляет [p24] cr.
+
+После церемонии награждения и пресс-конференции вы возвращались на корабль в отличном настроении. Уже в космосе вы сделали запись в дневнике: ""Сегодня я выиграл в очень сложную игру, и впереди меня ждет <Money> cr на планете <FromPlanet>. Жизнь прекрасна!"""	"Quest Elus.qmm: locations.10.texts.2.text. Preserve every <tag> exactly. English reference: You not only took the premier place but also made fewer errors than any other participant!
+It hadn't happened in the history of Elus game for a long time already. After a council, the referees not only adjudged the dear <clr>Elunie<clrEnd> title to you but also gave you a <clr>1000<clrEnd> cr bonus! Now you have [p24] cr on your account.
+
+After the awarding ceremony and the press conference you returned to the ship high-spirited. On your way through the space you wrote in your diary: ""I won a very challenging game today and there are <Money> cr waiting for me on <FromPlanet>. Life is a poem!"""	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/11/texts/0/text"	"Перед вами ряд фигур. В нижней части экрана расположены те, из которых вы должны сделать выбор.
+Какую фигуру выберете?"	"Quest Elus.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: There is a line of figures in front of you. There is a number of figures in the lower part of the screen including those you need to choose. Which figure will you choose?"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/14/texts/0/text"	"- ВЫ ДОПУСТИЛИ <clr>ПЕРВУЮ<clrEnd> ОШИБКУ В ЭТОМ ТУРЕ! - сообщил компьютер."	"Quest Elus.qmm: locations.14.texts.0.text. Preserve every <tag> exactly. English reference: - THIS IS YOUR <clr>FIRST<clrEnd> ERROR IN THIS ROUND! - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/14/texts/1/text"	"- ВЫ ДОПУСТИЛИ <clr>ВТОРУЮ<clrEnd> ОШИБКУ В ЭТОМ ТУРЕ! - сообщил компьютер."	"Quest Elus.qmm: locations.14.texts.1.text. Preserve every <tag> exactly. English reference: - THIS IS YOUR <clr>SECOND <clrEnd> ERROR IN THIS ROUND! - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/14/texts/2/text"	"- ВЫ ДОПУСТИЛИ <clr>ТРЕТЬЮ<clrEnd> ОШИБКУ В ЭТОМ ТУРЕ! - сообщил компьютер. - ЕСЛИ ВЫ ОШИБЁТЕСЬ ЕЩЁ РАЗ, ТО БУДЕТЕ ДИСКВАЛИФИЦИРОВАНЫ."	"Quest Elus.qmm: locations.14.texts.2.text. Preserve every <tag> exactly. English reference: - THIS IS YOUR <clr>THIRD<clrEnd> ERROR IN THIS ROUND! - the computer announced. - ANY MORE ERRORS AND YOU WILL BE DISQUALIFIED."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/14/texts/3/text"	"- ВЫ ДОПУСТИЛИ <clr>ЧЕТВЁРТУЮ<clrEnd> ОШИБКУ! - сообщил компьютер. 
+
+К вам подошел судья и сказал:
+- Вы допустили четвертую ошибку в туре! По правилам чемпионата вы выбываете! Как вы вообще попали в число участников?"	"Quest Elus.qmm: locations.14.texts.3.text. Preserve every <tag> exactly. English reference: - THIS IS YOUR <clr>FORTH<clrEnd> ERROR! - the computer announced. 
+
+The referee approached you and said:
+- This is your forth error in the round! According to the tournament rules you are disqualified! How did it come that you got into the list of participants at all?"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/15/texts/0/text"	"Вы сделали правильный выбор, так как фигура добавилась в конец ряда.
+
+""Любопытно, что будет дальше?"" - подумали вы."	"Quest Elus.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: You made the right choice and the figure moved to the end of the line. 
+
+""What is next, I wonder?"" - you thought."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/16/texts/0/text"	"По дороге к кораблю у вас было только две мысли. Первая - о том, что надо было в школе больше внимания уделить развитию интеллекта. Вторая - о тех деньгах, что вы не получите на планете <FromPlanet>. 
+
+И лишь садясь в кресло пилота, вы сказали себе:
+- Ничего, <Ranger>. Сегодня просто не твой день. Тебе не повезло, но это не повод, чтобы огорчаться. Возможно, повезет в другой раз. 
+
+На душе стало легче, и вы спокойно завели двигатель."	"Quest Elus.qmm: locations.16.texts.0.text. Preserve every <tag> exactly. English reference: On the way to the ship, all your thoughts were concentrated on two things. The first thing was that you should have paid more attention to your intellectual development at school. The second one was money that you'll never get on <FromPlanet>. 
+
+And only after settling yourself in the pilot's seat, you said to yourself:
+- It's all right, <Ranger>. It's just not your day today. Your luck is out but this is not the reason to get upset. Probably, you'll have better luck next time.
+
+Your heart was higher and you started the motor."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/0/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.0.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/1/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.1.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/2/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.2.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/3/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.3.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|  {[p34] div 100}  |  {[p34] div 10 mod 10}  |  {[p34] mod 10}  ||  [p46]  |   {1+([p46]>[p47])+([p46]>[p41])+([p46]>[p45])+([p46]>[p44])+([p46]>[p43])+([p46]>[p42])+([p46]>[p40])+([p46]>[p39])+([p48]<[p46])+([p46]>[p38])+([p46]>[p37])}</format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/4/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.4.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/5/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.5.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|  {[p33] div 100}  |  {[p33] div 10 mod 10}  |  {[p33] mod 10}  ||  [p45]  |   {1+([p45]>[p47])+([p45]>[p46])+([p45]>[p41])+([p45]>[p44])+([p45]>[p43])+([p45]>[p42])+([p45]>[p40])+([p45]>[p39])+([p48]<[p45])+([p45]>[p38])+([p45]>[p37])}</format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/6/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.6.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|  {[p35] div 100}  |  {[p35] div 10 mod 10}  |  {[p35] mod 10}  ||  [p47]  |   {1+([p41]<[p47])+([p47]>[p46])+([p47]>[p45])+([p47]>[p44])+([p47]>[p43])+([p47]>[p42])+([p47]>[p40])+([p47]>[p39])+([p48]<[p47])+([p47]>[p38])+([p47]>[p37])}</format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/19/texts/7/text"	"На экране появилась финальная таблица результатов:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>УЧАСТНИКИ</format>  |          ОШИБКИ        | МЕСТО |
+<format=left,19></format>|1 тур|2 тур|3 тур||Всего|
+-----------------------------------------------------
+<format=left,17>Элуни Онайк</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Элуни Эо Лантид</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Элуни Лун Ган</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Элуни Эллинар </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Элуни Крокус</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Далани Мокус</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Далани Фокус</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Од-далани Блюк</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Ассистент Глюк</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Профессор Груздь</format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Доцент Тупой </format>  <format=left,32>|        <clr>ДИСКВАЛИФИЦИРОВАН<clrEnd>    </format> |
+<format=left,17>Рейнджер <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest Elus.qmm: locations.19.texts.7.text. Preserve every <tag> exactly. English reference: The final score table appeared on the screen:
+
+<fix>
+-----------------------------------------------------
+<format=left,17>PARTICIPANTS</format>  |          ERRORS        | POSITION |
+<format=left,19></format>|1 round|2 round|3 round||Total|
+-----------------------------------------------------
+<format=left,17>Elunie O'Nyke</format>  <format=left,32>|  {[p25] div 100}  |  {[p25] div 10 mod 10}  |  {[p25] mod 10}  ||  [p37]  |   {1+([p37]>[p47])+([p37]>[p46])+([p37]>[p45])+([p37]>[p44])+([p37]>[p43])+([p37]>[p42])+([p37]>[p41])+([p37]>[p40])+([p37]>[p39])+([p37]>[p38])+([p48]<[p37])}</format> |
+<format=left,17>Elunie Eo Lantid</format>  <format=left,32>|  {[p26] div 100}  |  {[p26] div 10 mod 10}  |  {[p26] mod 10}  ||  [p38]  |   {1+([p38]>[p47])+([p38]>[p46])+([p38]>[p45])+([p38]>[p44])+([p38]>[p43])+([p38]>[p42])+([p38]>[p41])+([p38]>[p40])+([p38]>[p39])+([p48]<[p38])+([p38]>[p37])}</format> |
+<format=left,17>Elunie Loon Gun</format>  <format=left,32>|  {[p27] div 100}  |  {[p27] div 10 mod 10}  |  {[p27] mod 10}  ||  [p39]  |   {1+([p39]>[p47])+([p39]>[p46])+([p39]>[p45])+([p39]>[p44])+([p39]>[p43])+([p39]>[p42])+([p39]>[p41])+([p39]>[p40])+([p48]<[p39])+([p39]>[p38])+([p39]>[p37])}</format> |
+<format=left,17>Elunie Ellinar </format>  <format=left,32>|  {[p28] div 100}  |  {[p28] div 10 mod 10}  |  {[p28] mod 10}  ||  [p40]  |   {1+([p40]>[p47])+([p40]>[p46])+([p40]>[p45])+([p40]>[p44])+([p40]>[p43])+([p40]>[p42])+([p40]>[p41])+([p40]>[p39])+([p48]<[p40])+([p40]>[p38])+([p40]>[p37])}</format> |
+<format=left,17>Elunie Crocus</format>  <format=left,32>|  {[p29] div 100}  |  {[p29] div 10 mod 10}  |  {[p29] mod 10}  ||  [p41]  |   {1+([p41]>[p47])+([p41]>[p46])+([p41]>[p45])+([p41]>[p44])+([p41]>[p43])+([p41]>[p42])+([p41]>[p40])+([p41]>[p39])+([p48]<[p41])+([p41]>[p38])+([p41]>[p37])}</format> |
+<format=left,17>Dalany Mocus</format>  <format=left,32>|  {[p30] div 100}  |  {[p30] div 10 mod 10}  |  {[p30] mod 10}  ||  [p42]  |   {1+([p42]>[p47])+([p42]>[p46])+([p42]>[p45])+([p42]>[p44])+([p42]>[p43])+([p42]>[p41])+([p42]>[p40])+([p42]>[p39])+([p48]<[p42])+([p42]>[p38])+([p42]>[p37])}</format> |
+<format=left,17>Dalany Phocus</format>  <format=left,32>|  {[p31] div 100}  |  {[p31] div 10 mod 10}  |  {[p31] mod 10}  ||  [p43]  |   {1+([p43]>[p47])+([p43]>[p46])+([p43]>[p45])+([p43]>[p44])+([p43]>[p41])+([p43]>[p42])+([p43]>[p40])+([p43]>[p39])+([p48]<[p43])+([p43]>[p38])+([p43]>[p37])}</format> |
+<format=left,17>Od-dalany Bliuk</format>  <format=left,32>|  {[p32] div 100}  |  {[p32] div 10 mod 10}  |  {[p32] mod 10}  ||  [p44]  |   {1+([p44]>[p47])+([p44]>[p46])+([p44]>[p45])+([p44]>[p41])+([p44]>[p43])+([p44]>[p42])+([p44]>[p40])+([p44]>[p39])+([p48]<[p44])+([p44]>[p38])+([p44]>[p37])}</format> |
+<format=left,17>Assistant Gliuk</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Associate professor Agaric</format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Assistant professor Clod </format>  <format=left,32>|        <clr>DISQUALIFIED<clrEnd>    </format> |
+<format=left,17>Ranger <Ranger></format>  <format=left,32>|  {[p36] div 100}  |  {[p36] div 10 mod 10}  |  {[p36] mod 10}  ||  [p48]  |   [p23]</format> |
+-----------------------------------------------------
+</fix>"	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/20/texts/0/text"	"- Ряд заполнен, - сообщил компьютер."	"Quest Elus.qmm: locations.20.texts.0.text. Preserve every <tag> exactly. English reference: - No more place in the line, - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/locations/21/texts/0/text"	"- Пожалуйста, - сказал Макс. - ""Пойти фигурой того же цвета, что и последняя в ряду"", ""Пойти фигурой другого цвета"", ""Если последняя фигура в ряду желтая, то пойти большой фигурой, иначе - малой"", ""Если последняя фигура большая, то пойти ромбом, иначе - синей фигурой"", ""Если последняя фигура ромб, то пойти синей фигурой, иначе - фигурой того же размера""...
+- Ага, - перебили вы, - то есть выбор дальнейшей фигуры зависит только <clr>от последней в ряду<clrEnd>?
+- Совершенно верно, - сказал ваш собеседник.
+- Значит, чтобы выиграть, я должен <clr>угадать правило<clrEnd>?
+- Ты что, участник чемпионата? - спросил Макс.
+- Да, - ответили вы.
+- Вот уж не ожидал! - удивился он. - А в школе, помнится, ты постоянно путал делимое и делитель... Только, знаешь, тебе ведь придется угадать несколько раз. В чемпионате три тура, и правило с каждым туром становится все сложнее!"	"Quest Elus.qmm: locations.21.texts.0.text. Preserve every <tag> exactly. English reference: - No problem, - Max said. - ""Choose a figure of the same colour as the last one in the line"", ""Choose a figure of a different colour "", ""If the last figure is yellow, choose a big figure, if not, choose a small one "", ""If the last figure is big, choose a lozenge, if not, choose a blue figure "", ""If the last figure is a lozenge, choose a blue figure, if not, choose a figure of the same size ""...
+- Aha, - you interrupted, - so my choice of the next figure depends <clr>on the last figure in the line <clrEnd> only, doesn't it?
+- That's right, - your interlocutor said.
+- So...to win, I must <clr>nick the rule <clrEnd>?
+- Are you a participant in the tournament? - Max asked.
+- Yes, - you answered.
+- Strike me pink! I would never have thought! - he was astonished. - As far as I remember, you constantly confounded the dividend with the divisor at school... But you know, you'll have to nick the rule several times. There are 3 rounds in the tournament, and every each rule becomes trickier!"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/0/text"	"Пойти в бар"	"Quest Elus.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Go to the bar"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/0/description"	"Вы спустились в бар и стали размышлять над тем, что бы заказать. Но тут вас окликнули. Оглянувшись, вы увидели перед собой человека среднего роста, с темными волосами, в очках. С удивлением вы узнали в нем Макса - своего однокашника.
+После обмена приветствиями вы спросили:
+- Макс, какими судьбами ты здесь?
+- Я пишу докторскую на тему ""Элус и его влияние на культуру Фэй"", - ответил он. - Завтрашний чемпионат - это просто гора бесценного материала для меня!
+- Это интересно, - сказали вы. - Расскажи подробнее.
+- С удовольствием! Знаешь, правила игры на протяжении веков менялись, хотя основа оставалась та же..."	"Quest Elus.qmm: jumps.0.description. Preserve every <tag> exactly. English reference: You came down to the bar and were deciding what to order when somebody called you by name. You turned around and saw a man of average height with dark hair and glasses standing in front of you. You were surprised to recognise Max, your former classmate, in him.
+After shaking hands, you asked:
+- Max, by what chance are you here?
+- You know, I'm working on the doctorate thesis  ""Elus and its influence on Fai culture "", - he answered. - Tomorrow's tournament is just a huge pile of invaluable material for me!
+- This is interesting, - you said. - Tell me about it.
+- With pleasure! You know, the rules of the game have been changing through the ages but the basis remained the same..."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/1/text"	"Просто отдохнуть"	"Quest Elus.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Just have a rest"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/2/text"	"Попросить привести примеры правил"	"Quest Elus.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Ask to give you examples of the rules"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/3/text"	"Начать игру"	"Quest Elus.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: Start the game"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/7/text"	"Большой синий круг"	"Quest Elus.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Big blue circle"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/8/text"	"Большой синий ромб"	"Quest Elus.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Big blue lozenge"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/9/text"	"Малый синий круг"	"Quest Elus.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Small blue circle"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/10/text"	"Большой желтый круг"	"Quest Elus.qmm: jumps.10.text. Preserve every <tag> exactly. English reference: Big yellow circle"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/11/text"	"Большой желтый ромб"	"Quest Elus.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Big yellow lozenge"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/12/text"	"Малый синий ромб"	"Quest Elus.qmm: jumps.12.text. Preserve every <tag> exactly. English reference: Small blue lozenge"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/13/text"	"Малый желтый круг"	"Quest Elus.qmm: jumps.13.text. Preserve every <tag> exactly. English reference: Small yellow circle"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/14/text"	"Малый желтый ромб"	"Quest Elus.qmm: jumps.14.text. Preserve every <tag> exactly. English reference: Small yellow lozenge"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/25/text"	"Продолжить игру"	"Quest Elus.qmm: jumps.25.text. Preserve every <tag> exactly. English reference: Resume the game"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/26/text"	"Пойти на следующий тур"	"Quest Elus.qmm: jumps.26.text. Preserve every <tag> exactly. English reference: Go to play in the next round"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/26/description"	"Вновь пройдя процедуру проверки на наличие электроники, вы сели за свой столик. Подождали, когда к вам подойдет судья и вставит новый диск в компьютер.
+
+- Приступим, - сказали вы себе."	"Quest Elus.qmm: jumps.26.description. Preserve every <tag> exactly. English reference: After you went through the electronic devices checking procedure again, you sat at your table and waited till the referee came and inserted the new disk into the computer.
+
+- Let's do it, - you said to yourself."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/27/text"	"Вы проиграли! Вернуться в космопорт"	"Quest Elus.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: You lost! Return to the spaceport"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/28/text"	"Элуни Онайк одержал единоличную победу!!! Поздравить победителя"	"Quest Elus.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Elunie O'Nyke is a sole winner!!! Congratulate him"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/29/text"	"Отлично! А какое было правило?"	"Quest Elus.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Excellent! And what was the rule?"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/32/text"	"Продолжить игру"	"Quest Elus.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Resume the game"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/33/description"	"- Правило гласило: ""<clr>Пойти фигурой другого размера<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.33.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the other size <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/36/description"	"- Правило гласило: ""<clr>Пойти фигурой другого цвета<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.36.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the other colour <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/38/description"	"- Правило гласило: ""<clr>Пойти фигурой другого типа<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.38.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the other type <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/40/description"	"- Правило гласило: ""<clr>Пойти фигурой того же размера<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.40.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the same size <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/42/description"	"- Правило гласило: ""<clr>Пойти фигурой того же цвета<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.42.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the same colour <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/44/description"	"- Правило гласило: ""<clr>Пойти фигурой того же типа<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.44.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>Choose a figure of the same type <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/46/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти синим знаком, иначе - желтым<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.46.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a blue one; if not, choose a yellow one <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/48/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти кругом, иначе - знаком того же цвета<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.48.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a circle, if not, choose a figure of the same colour <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/50/description"	"- Правило гласило: ""<clr>Если последний знак синий, то пойти кругом, иначе - ромбом<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.50.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is blue, choose a circle; if not, choose a lozenge<clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/52/description"	"- Правило гласило: ""<clr>Если последний знак круг, то пойти малым знаком, иначе - большим<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.52.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is a circle, choose a small figure; if not, choose a big one <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/54/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти желтым знаком, иначе - синим<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.54.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a yellow figure; if not, choose a blue one <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/56/description"	"- Правило гласило: ""<clr>Если последний знак желтый, то пойти кругом, иначе - ромбом<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.56.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is yellow, choose a circle; if not, choose a lozenge <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/59/description"	"- Правило гласило: ""<clr>Если последний знак круг, то пойти синим знаком, иначе - желтым<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.59.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is a circle, choose a blue figure; if not, choose a yellow one <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/60/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти кругом, иначе - ромбом<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.60.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a circle; if not, choose a lozenge<clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/64/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти синим знаком, иначе - знаком того же типа<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.64.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a blue figure; if not, choose a figure of the same type <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/65/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти синим знаком, иначе - знаком другого цвета<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.65.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a blue figure; if not, choose a figure of different colour <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/66/description"	"- Правило гласило: ""<clr>Если последний знак синий, то пойти большим знаком, иначе - знаком другого типа<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.66.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is blue, choose a big figure; if not, choose a figure of different type <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/70/description"	"- Правило гласило: ""<clr>Если последний знак большой, то пойти желтым знаком, иначе - ромбом<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.70.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is big, choose a yellow figure; if not, choose a lozenge<clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/71/description"	"- Правило гласило: ""<clr>Если последний знак синий, то пойти большим знаком, иначе - кругом<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.71.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is blue, choose a big figure; if not, choose a circle <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/72/description"	"- Правило гласило: ""<clr>Если последний знак круг, то пойти желтым знаком, иначе - малым<clrEnd>"", - сообщил компьютер."	"Quest Elus.qmm: jumps.72.description. Preserve every <tag> exactly. English reference: - The rule said: ""<clr>If the last figure is circle, choose a yellow figure; if not, choose a small one <clrEnd>"", - the computer announced."	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/75/text"	"Вы выиграли!!!"	"Quest Elus.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: You won!!!"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/76/text"	"Попрощаться с Максом и пойти отдыхать"	"Quest Elus.qmm: jumps.76.text. Preserve every <tag> exactly. English reference: Say good-bye to Max and have a rest"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/77/text"	"Попрощаться с Максом и пойти отдыхать"	"Quest Elus.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: Say good-bye to Max and have a rest"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/81/text"	"Вы выиграли!!!"	"Quest Elus.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: You won!!!"	"Quest,Elus"	""
+"/quests/Elus.qmm/jumps/82/text"	"Скажите, хотя бы, какое было правило"	"Quest Elus.qmm: jumps.82.text. Preserve every <tag> exactly. English reference: At least tell me what the rule was"	"Quest,Elus"	""

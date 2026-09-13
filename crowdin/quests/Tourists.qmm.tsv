@@ -1,0 +1,943 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Tourists.qmm/parameters/0/name"	"Пройденные мосты (белый)"	"Quest Tourists.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/0/lines/0/content"	"Пройденные мосты:"	"Quest Tourists.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/0/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли отсюда, ребята!""
+Вы не смогли провести туристов. Хреновый из вас гид..."	"Quest Tourists.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/1/name"	"коричневый мост"	"Quest Tourists.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/1/lines/0/content"	"коричневый"	"Quest Tourists.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/1/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/2/name"	"оранжевый мост"	"Quest Tourists.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/2/lines/0/content"	"оранжевый"	"Quest Tourists.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/2/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/3/name"	"желтый мост"	"Quest Tourists.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/3/lines/0/content"	"желтый"	"Quest Tourists.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/3/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/4/name"	"салатовый мост"	"Quest Tourists.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/4/lines/0/content"	"салатовый"	"Quest Tourists.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/4/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/5/name"	"зеленый мост"	"Quest Tourists.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/5/lines/0/content"	"зеленый"	"Quest Tourists.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/5/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/6/name"	"голубой мост"	"Quest Tourists.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/6/lines/0/content"	"голубой"	"Quest Tourists.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/6/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/7/name"	"синий мост"	"Quest Tourists.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/7/lines/0/content"	"синий"	"Quest Tourists.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/7/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/8/name"	"фиолетовый мост"	"Quest Tourists.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/8/lines/0/content"	"фиолетовый"	"Quest Tourists.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/8/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/9/name"	"аквамариновый мост"	"Quest Tourists.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/9/lines/0/content"	"аквамариновый"	"Quest Tourists.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/9/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/10/name"	"красный мост"	"Quest Tourists.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/10/lines/0/content"	"красный"	"Quest Tourists.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/10/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/11/name"	"розовый мост"	"Quest Tourists.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/11/lines/0/content"	"розовый"	"Quest Tourists.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/11/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/12/name"	"Мост A"	"Quest Tourists.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/12/lines/0/content"	"Мост A"	"Quest Tourists.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/12/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/13/name"	"Мост Б"	"Quest Tourists.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/13/lines/0/content"	"Мост Б"	"Quest Tourists.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/13/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/14/name"	"Мост В"	"Quest Tourists.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/14/lines/0/content"	"Мост В"	"Quest Tourists.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/14/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/15/name"	"Мост Г"	"Quest Tourists.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/15/lines/0/content"	"Мост Г"	"Quest Tourists.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/15/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/16/name"	"Мост Д"	"Quest Tourists.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/16/lines/0/content"	"Мост Д"	"Quest Tourists.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/16/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/17/name"	"Мост Е"	"Quest Tourists.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/17/lines/0/content"	"Мост Е"	"Quest Tourists.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/17/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/18/name"	"Мост Ж"	"Quest Tourists.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/18/lines/0/content"	"Мост Ж"	"Quest Tourists.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/18/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/19/name"	"Мост З"	"Quest Tourists.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/19/lines/0/content"	"Мост З"	"Quest Tourists.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/19/crit_text"	"- Не, друг, так не пойдет... Мы ж тут уже побывали! - сказал мэр. - Мне такой ""гид"" не нужен. Лети-ка ты домой, друг."	"Quest Tourists.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/20/name"	"белый мост"	"Quest Tourists.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/20/lines/0/content"	"белый"	"Quest Tourists.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/20/crit_text"	"""Мы здесь уже были!"" - заголосил кто-то из противных туристов. ""Да! Что это за гид такой? Водит по одному и тому же месту?! - возмутились остальные. - Пошли обратно на наш лайнер, ребята!""
+Вы не смогли провести туристов. Плохой из вас гид..."	"Quest Tourists.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/21/name"	"Пройдено коридоров:"	"Quest Tourists.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/21/lines/0/content"	"Пройдено коридоров: <>"	"Quest Tourists.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/21/crit_text"	"Вы слишком долго водили туристов по лабиринту. Это вызвало гнев Минотавра. Механический монстр съел вас на глазах у туристов: оказывается, они ни кредита не платили за риск умереть из-за глупого гида. А вот посмотреть, как его скушает монстр - да, за это заплатить стоило!"	"Quest Tourists.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/22/name"	"Контрточка1"	"Quest Tourists.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Tourists.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/23/name"	"Контрточка2"	"Quest Tourists.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/23/lines/0/content"	"Контрточка2"	"Quest Tourists.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Tourists.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/24/name"	"1 - Дорога Джунглей"	"Quest Tourists.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/24/lines/0/content"	"1 - Дорога Джунглей"	"Quest Tourists.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/24/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/25/name"	"2 - Дорога Большой Реки"	"Quest Tourists.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/25/lines/0/content"	"2 - Дорога Большой Реки"	"Quest Tourists.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/25/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/26/name"	"3 - Медовая дорога"	"Quest Tourists.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/26/lines/0/content"	"3 - Медовая дорога"	"Quest Tourists.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/26/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/27/name"	"4 - Каньонная дорога"	"Quest Tourists.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/27/lines/0/content"	"4 - Каньонная дорога"	"Quest Tourists.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/27/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/28/name"	"5 - Пустынная Дорога"	"Quest Tourists.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/28/lines/0/content"	"5 - Пустынная Дорога"	"Quest Tourists.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/28/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/29/name"	"6 - Дорога Голубых Гор"	"Quest Tourists.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/29/lines/0/content"	"6 - Дорога Голубых Гор"	"Quest Tourists.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/29/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/30/name"	"7 - Саванная дорога"	"Quest Tourists.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/30/lines/0/content"	"7 - Саванная дорога"	"Quest Tourists.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/30/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/31/name"	"8 - Древняя дорога"	"Quest Tourists.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/31/lines/0/content"	"8 - Древняя дорога"	"Quest Tourists.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/31/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/32/name"	"9 - Подводная дорога"	"Quest Tourists.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/32/lines/0/content"	"9 - Подводная дорога"	"Quest Tourists.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/32/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/33/name"	"10 - Угольная дорога"	"Quest Tourists.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/33/lines/0/content"	"10 - Угольная дорога"	"Quest Tourists.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/33/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/34/name"	"11 - Дорога гейзеров"	"Quest Tourists.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/34/lines/0/content"	"11 - Дорога гейзеров"	"Quest Tourists.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/34/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/35/name"	"12 - Солевая дорога"	"Quest Tourists.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/35/lines/0/content"	"12 - Солевая дорога"	"Quest Tourists.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/35/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/36/name"	"13 - Заснеженная дорога"	"Quest Tourists.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/36/lines/0/content"	"13 - Заснеженная дорога"	"Quest Tourists.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/36/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/37/name"	"14 - Болотистая дорога"	"Quest Tourists.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/37/lines/0/content"	"14 - Болотистая дорога"	"Quest Tourists.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/37/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/38/name"	"15 - Туманная дорога"	"Quest Tourists.qmm: parameters.38.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/38/lines/0/content"	"15 - Туманная дорога"	"Quest Tourists.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/38/crit_text"	"- Эй, водила, куда ты нас везешь?! - отчаянно завопили туристы. - Мы тут уже были! Что за гид такой?! Не хотим дальше ехать! Прочь с этой дурацкой планеты, раз тут даже гиды-экскурсоводы такие дурни!
+Вас бесцеремонно выпихнули из автобуса. Только к вечеру вы, изголодавшись и разозлившись, добрели до города. Ваша миссия с треском провалена."	"Quest Tourists.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/39/name"	"Деньги"	"Quest Tourists.qmm: parameters.39.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/39/lines/0/content"	"Ваши деньги: <> cr"	"Quest Tourists.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Tourists.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/40/name"	"Цифры"	"Quest Tourists.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Tourists.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/41/name"	"РЫЧАГ ОПИСАНИЙ"	"Quest Tourists.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Tourists.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/42/name"	"Контрточка3"	"Quest Tourists.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Tourists.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/43/name"	"Контрточка4"	"Quest Tourists.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Tourists.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/44/name"	"Контрточка5"	"Quest Tourists.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Tourists.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/45/name"	"Контрточка6"	"Quest Tourists.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Tourists.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/46/name"	"Контрточка7"	"Quest Tourists.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Tourists.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/47/name"	"Контрточка8"	"Quest Tourists.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Tourists.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/tostar"	"Солнце"	"Quest Tourists.qmm: tostar. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/toplanet"	"Земля"	"Quest Tourists.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/fromplanet"	"Бурум"	"Quest Tourists.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/fromstar"	"Альфа"	"Quest Tourists.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/ranger"	"Путеводитель"	"Quest Tourists.qmm: ranger. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/success_text"	"Здравствуйте, <Ranger>! С планеты <ToPlanet> нам передали, что вы замечательно справились, и они надеются на дальнейшее сотрудничество! Теперь туристы валят на их планету косяками, как рыбы на нерест. Нужно ли говорить, что и прибыль с этого получается огромная! И наше правительство, посовещавшись, решило открыть такую же систему, а вас попросить быть гидом-проводником на ней! Что? Эй, рейнджер, подождите, куда вы?! Я же забыл сказать, что <Money> cr уже перечислены на ваш счет!"	"Quest Tourists.qmm: success_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/task_text"	"У нас есть подходящее для вас задание, уважаемый <Ranger>. Вам надоело воевать или торговать, и вы хотите временно сменить вид деятельности?
+Планете <ToPlanet>, которая находится в звездной системе <ToStar>, понадобился опытный гид-проводник, чтобы провести туристов по мостам, раскинутым над столицей и планетой. Мэр говорит, что задание сверхсложное, но я не вижу в нем никакой сложности, абсолютно никакой. Думаю, вы отлично справитесь! А мы от лица планеты <ToPlanet> выплатим вам сумму в <Money> cr, которая и покроет все ваши расходы. Только успеть надо за <Day> дней, иначе вы опоздаете к приезду туристов."	"Quest Tourists.qmm: task_text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/0/texts/0/text"	"Вы прибыли на планету <ToPlanet>. Космопорт огромен - сразу видно, что столичный. Несмотря на это, забит он под завязку. На посадочных площадках корабли стоят, плотно прижавшись друг к другу. У выхода, как обычно, полно встречающих, некоторые держат в руках таблички с надписями. 
+Прочитав свое имя на одной из табличек, вы подошли к державшему табличку человеку в пиджаке. Он осмотрел вас и осторожно спросил: 
+- Рейнджер <Ranger>?
+- Да! - с гордостью ответили вы.
+- Следуйте за мной, пожалуйста, - попросил он и скрылся в дверях космопорта.
+Вы последовали за человеком. Он привез вас на остановку гравитакси, заплатил за обоих. Ваши попытки заговорить с ним не увенчались успехом. Он лишь загадочно улыбался, только однажды произнес фразу:
+- Не беспокойтесь, рейнджер. Вы скоро все узнаете из первых уст.
+Спустя десяток минут вы вышли у роскошного особняка. Провожатый отвел вас к мэру по роскошным залам этого особняка, где в коридорах стояли античные статуи из чистого самосветящегося кевропластика, а пол был выстлан красными плазиковрами. Потом провожатый незаметно удалился.
+Мэр, толстый мужчина, сидел в кресле и курил сигару. На стенах его кабинета висели галапортреты разных ученых и мыслителей, на красивом столе покоилась толстая золоченая ручка. Видимо, к ней давно не притрагивались, да и к столу вообще: толстый слой пыли молча сказал обо всем."	"Quest Tourists.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/1/texts/0/text"	"- О, рейнджер <Ranger>! Как же я рад вас видеть! - он поднялся вам навстречу.
+- Здравствуйте, - степенно ответили вы. - Простите, но у меня нет времени на пустые разговоры. Какое у вас для меня задание?
+- Прекрасное и легкое задание! - воскликнул он. - Правда, кое-кому оно может показаться и необычайно легким, так что мы решили перестраховаться, заявив высокую сложность задания, дабы нам не прислали неумелые кадры. Дело в том, что мы построили сеть мостов через весь город. Мосты идут к восьми площадкам. Каждый мост включает в себя бегущую дорожку и лежит над несколькими красивыми или необычными кварталами. Туристы будут просто счастливы посмотреть на город с мостов! Если справитесь с городской пешеходной сетью - мы дадим вам планетарную. Эта система раскинулась по всему здешнему миру, там мосты предназначены уже для транспорта. Но сеть очень сложная...
+- В чем заключается сложность этих сетей? - не выдержали вы.
+- В том, что наши туристы - страшные привереды, и не хотят видеть одно и то же даже два раза. Это означает, что вы должны будете провести их <clr>по всем мостам<clrEnd>, но <clr>не более одного раза<clrEnd> по каждому! Ну, это не считая того, что сами системы мостов довольно сложны в плане архитектуры и технологии..."	"Quest Tourists.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/2/texts/0/text"	"- Это хорошо, что вы согласны, - улыбнулся толстяк. - Но чтобы я мог как следует убедиться в вашем умении, сперва вы проведете МЕНЯ! По нашему старинному городку. Там всего восемь мостов. Вы пройдете по каждому единожды, затем я дам вам туристов. Хоть один раз ошибетесь - не получите ни денег, ни туристов. Следуйте за мной.
+Спустя минут двадцать вы были в старинном городке. Сильный ветер старался столкнуть в воду, ворваться под одежду...
+- Вот карта! - прокричал мэр сквозь вой ветра. - Тут небольшая система мостов! Всего пять островков! Начнем на первом островке, закончим на втором! <clr>Схематично напоминает ""раскрытый конверт"". 
+1. Мост А соединяет первый и второй островки
+2. Мост Б соединяет первый и третий островки
+3. Мост В соединяет первый и четвертый островки
+4. Мост Г соединяет второй и третий островки
+5. Мост Д соединяет второй и четвертый островки
+6. Мост Е соединяет третий и четвертый островки
+7. Мост Ж соединяет третий и пятый островки
+8. Мост З соединяет четвертый и пятый островки <clrEnd>
+Фух, чтобы потом не рассказывать, я вам карту дам. На ней мосты для удобства пометил буквами, а островки - цифрами. На самом деле в городке у них другие названия. Приступим? По какому мосту вы меня поведете?"	"Quest Tourists.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/2/texts/1/text"	"Вы находитесь на первом острове. Отсюда идут мосты:
+<clr>А на второй, Б на третий, В на четвертый<clrEnd>. 
+Мэр ждет, когда же вы выберете путь.
+- А знаете, на нашей планете есть памятник Махпелле. Мы очень любим и уважаем клисан. В конце концов, мотивы ведь у Махпеллы были самые благородные, и война произошла по чистому недоразумению."	"Quest Tourists.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/3/texts/0/text"	"Вы на втором островке. Он же и будет последним. Отсюда идут мосты <clr>A на первый остров, Г на третий и Д на четвертый<clrEnd>. Ветер жутко воет среди небольших старых зданий, на горизонте высятся ряды безликих заводов, коптящих небо планеты <ToPlanet>. И где, спрашивается, экологи?!"	"Quest Tourists.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/4/texts/0/text"	"Вы на третьем острове. Ветер уныло воет, гонит рябь (и не только, как будто урн здесь нет) по водам реки, на которой стоит этот древний город. Мэр потирает руки, уж он-то уверен, что вы справитесь! Мосты: <clr>Б на первый, Г на второй островок, Е к четвертому, Ж на пятый<clrEnd>."	"Quest Tourists.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/5/texts/0/text"	"- Прекрасно, прекрасно, - довольно подбодрил вас мэр. - Я уверен, что вы справитесь с заданием! И не бойтесь за погоду - завтра синоптики создадут теплую и солнечную. Правда, если она будет и так солнечная, мы сэкономим пару миллионов кредитов.
+По какому мосту поведем мэра? <clr>По Д на второй остров, по В на первый, по Е на третий или по З к пятому?<clrEnd>"	"Quest Tourists.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/6/texts/0/text"	"- Здорово, мы на краю городка! - широко улыбнулся мэр. - Посмотрите, как широка эта река! Кстати, у меня есть остров в личном владении, там моя резиденция. Остров называется ""имени Махпеллы""!
+Отсюда идут два моста: <clr>Ж на третий островок и З на четвертый<clrEnd>."	"Quest Tourists.qmm: locations.6.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/7/texts/0/text"	"- Надо же, рейнджер <Ranger>, вы сумели выполнить это задание с первого раза, - покачал головой мэр. - Вы гораздо сообразительнее, чем я о вас думал. В таком случае, не хотите ли отправиться ко мне в кабинет, чтобы выпить немного коньячку?"	"Quest Tourists.qmm: locations.7.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/8/texts/0/text"	"- Ну, не хотите, как хотите, мне-то что. Найдем другого, ему заплатим, - пожал плечами толстяк. А вы, злой как собака, направились в космопорт..."	"Quest Tourists.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/23/texts/0/text"	"...А на следующее утро с сильной головной болью вы приехали к первой площадке. Она находится на высоте нескольких сотен метров! Вам вручили ""электронный гид"" и карту. Также провожатый подробно рассказал о сети мостов города:
+<clr>- Вы начнете на первой площадке, должны будете закончить на ней же, предварительно обойдя с туристами все двенадцать мостов и шесть площадок. Все мосты помечены цветными лампами у входов. Сейчас расскажу, какие площадки соединяет каждый мост:
+1. Красный мост - 1 и 2
+2. Розовый мост - 2 и 3
+3. Аквамариновый мост - 3 и 4
+4. Желтый мост - 4 и 5
+5. Оранжевый мост - 5 и 6
+6. Фиолетовый мост - 6 и 7
+7. Голубой мост - 7 и 8
+8. Синий мост - 8 и 1
+9. Белый мост - 2 и 8
+10. Салатовый мост - 2 и 4
+11. Коричневый мост - 4 и 6
+12. Зеленый мост - 6 и 8
+<clrEnd> Фу, кажется, ничего не забыл... А теперь идите! Но не забывайте, что дважды проходить по одному и тому же мосту нельзя. 
+Вы поднялись на лифте вверх, попутно рассматривая ""электронный гид"". Вас встретила шумящая толпа туристов - десяток малоков, пяток фэян, дюжина гаальцев и три пеленга. Вы вежливо обратились к туристам с просьбой построиться и следовать за вами, но в рядах бездельников был такой шум, что они просто вас проигнорировали или вообще не услышали.
+- Мааалчаааать!!! - завопили вы на них. - За мной - шагом марш!"	"Quest Tourists.qmm: locations.23.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/24/texts/0/text"	"Когда вы с туристами спустились на огромном лифте вниз, к вам сразу подскочил мэр.
+- Ну как, уважаемые гости нашего города, вам понравилось? - подобострастно спросил он у туристов. Те радостно закивали.
+- Тогда прошу вас ехать в гостиницу, и там отсыпаться. А завтра вы продолжите путешествие, уже по нашей планете!
+Когда туристы уехали шумной толпой в плазмобусе, мэр подошел к вам.
+- Вы прекрасно справились! Я поражен и восхищен! Если хотите, я прокачу вас по городу!"	"Quest Tourists.qmm: locations.24.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/25/texts/0/text"	"Вы сели в роскошный лимузин. 
+- Как было на экскурсии? - спросил мэр.
+- О, было здорово. И туристы рады. Ваш город просто чудесен, особенно тот... Голубой мост!
+- Да, там наши заводы по производству отравляющих веществ для военной индустрии. Иногда часть улетучивается, вы не чувствовали недомогания, когда проходили там?
+- Да вроде нет, - подумав, сказали вы.
+- Куда поедем? - спросил мэр. - Предлагаю несколько мест:
+1. В лучший ресторан города - покушать и отдохнуть.
+2. В суперэлитное казино: там можно здорово провести время, если вы при деньгах.
+3. Могу вас отвести в гостиницу, если вы устали."	"Quest Tourists.qmm: locations.25.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/26/texts/0/text"	"- Хорошо, - пожал плечами мэр. - Эй, водила! В крутейшую гостиницу!
+Спустя несколько часов вы перекусили в своем номере и легли спать."	"Quest Tourists.qmm: locations.26.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/27/texts/0/text"	"...Вы с наслаждением потянулись. В окно светит солнце, яркое и прекрасное... Конечно, не такое прекрасное, под лучами которого вы родились, но все же... В дверь позвонили. Вы, шлепая босыми ногами, подошли к ней и открыли. На пороге стоял мэр, собственной персоной.
+- Добрый день, - приветствовал он. - Как спалось?
+- Спасибо, неплохо.
+- Вы готовы ехать к туристам?
+- Ох... Подождите минут десять в коридоре, ладно? Мне надо одеться...
+Погода была прекрасной. Мэр довез вас на своем лимузине до плазмобусной станции. Там вас уже ждали туристы.
+- Вы плазмобус водить умеете? - спросил мэр.
+- Конечно! - самоуверенно ответили вы.
+- Ну, тогда в путь-дорогу! Карта на вашем терминале. На всякий случай опишу вам карту на словах. Прежде всего, <clr>начнете вы на острове Желтых песков, закончите на Скале Деревянной. Вот описание, какие острова соединяет каждый мост-дорога:
+Первый - Остров Песков и Остров Джунглей,
+Второй - Остров Песков и Скалу Деревянную,
+Третий - Скалу Деревянную и Аэропорт-на-Скале,
+Четвертый - Аэропорт-на-Скале и Остров Джунглей,
+Пятый - Остров Песков и Площадку №7-МХ,
+Шестой и Седьмой - Скалу Деревянную и Площадку №7-МХ,
+Восьмой - Скалу Деревянную и Золотое побережье,
+Девятый и Десятый - Аэропорт-на-Скале и Золотое побережье,
+Одиннадцатый и Двенадцатый - Аэропорт-на-Скале и Площадку №7-МХ,
+Тринадцатый - Площадку №7-МХ и Золотое побережье,
+Четырнадцатый и Пятнадцатый - Площадку №7-МХ и Остров Джунглей.<clrEnd>
+Все. Удачи! Но не забывайте, что дважды проезжать по одному и тому же мосту нельзя."	"Quest Tourists.qmm: locations.27.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/28/texts/0/text"	"Когда вы приехали в казино, вас едва пустили, да и то только по приказу мэра. Видать, лицо у вас не подходит для фэйс-контроля...
+В красиво оформленном помещении стоял густой сигаретный дым. Несколько игральных столов были заполнены игроками всех рас.
+- Ох, тут для вас не найдется места, - хмуро произнес мэр. - Идите лучше к во-о-оон тому игральному аппарату, там я часто выигрывал неплохие суммы. 
+Он подтолкнул вас к указанному устройству. А что, может, и правда попытать счастья?"	"Quest Tourists.qmm: locations.28.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/31/texts/0/text"	"Вы подошли к мэру, играющему в карты, и сказали:
+- Мне надоело тут, можно ехать в гостиницу?
+- Конечно, можно! - радушно ответил мэр. Доиграв партию, он отвез вас на лимузине до вашей гостиницы. Вы попрощались с ним, пришли в свой номер, упали на кровать и заснули мертвым сном."	"Quest Tourists.qmm: locations.31.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/32/texts/0/text"	"Вы с мэром поехали в ресторан. Он и правда оказался роскошным. Там, за тарелочкой суперэлитного салата и куском отбивной с бокалом вина вы поговорили с мэром немного о погоде, о политике, космических приключениях, подвигах и женщинах. Мэр, кстати, неплохой мужик оказался, и вы разуверились в том, что он - бюрократический тугодум.
+В конце концов он и вы встали, мэр кинул на стол пачку денег и направился к выходу. Вдруг вы увидели пеленга за дальним столиком, он отчаянно вам показывал какие-то странные знаки."	"Quest Tourists.qmm: locations.32.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/48/texts/0/text"	"Вы с туристами в первой комнате - на стене маленький квадратик с цифрой. У двери в каждый коридор - латинская буковка, и циферка комнаты, в которую вы попадете. На стенах висит старинное холодное оружие - ножи, акинаки, сабли, топоры, всякие там сюрикены и прочая чушь. Куда этой ерунде до ионного лучемета!
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.48.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/49/texts/0/text"	"Седьмая комната. Четыре дверных проема в одной стене и тьма - в другой. Из темноты смотрят два жутковатых красных глаза. Доносится тихое рычание... Кто же там сидит? Лучше и не знать.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.49.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/50/texts/0/text"	"Вы во второй комнате. Туристам страшновато, да и вам как-то не по себе: на стене на цепях висит человеческий скелет, почерневший от старости. Два факела в оправе освещают комнату скудным светом. Кстати, скелет-то пластиковый, кости так не блестят! Вдруг вам показалось, что скелет подмигнул и сказал ""Скоро увидимся!"". Вы потрясли головой, и наваждение спало.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.50.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/51/texts/0/text"	"Вы в третьей комнате. На полу валяются - фу, какая гадость! - отрубленные пеленгские ноги, хвост и еще что-то. Некоторые туристы взвизгивают от страха. 
+- Я вас проведу по здешним коридорам! - вы попытались их успокоить. - Я их как свои пальцы знаю!
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.51.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/52/texts/0/text"	"Четвертая комната. Страх повсюду. Тут очень темно, слабенький свет пробивается сквозь дыру в стене. С потолка свисает чья-то рука, сжимающая меч. Когда какой-то малок попытался ее потрогать, рука наотмашь шлепнула его по кумполу лезвием. Малок вздрогнул и отскочил.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.52.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/53/texts/0/text"	"Вы привели туристов в пятую комнату. Светло, ярко, повсюду персидские ковры, дорогие шелка. Все бы красиво и прекрасно, если бы не широкая лужа чего-то красного на полу.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.53.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/54/texts/0/text"	"Вы и туристы вошли в пределы шестой, весьма крупной комнаты. Повсюду разбитые тарелки, чашки, кувшины, обломки столов. В углу сидит скелет с поварским колпаком на голове.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.54.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/55/texts/0/text"	"Восьмая комната встретила вас приветливо. Накрытые столы, яркие факелы по стенам, скатерти, лавки, блюда, прочая ерунда... Туристы с радостными криками расселись за столами, потом с воплями разбежались. Оказывается, вместо блюд там человечьи головы, белые черви, вареные волосы и прочая неаппетитная дрянь. Конечно, ""электронный гид"" сообщил вам об этом заранее, но посмотреть на реакцию туристов было любопытно.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.55.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/56/texts/0/text"	"Вы в девятой комнате, самой крупной: восемь коридоров расходятся во все стороны. Комната напоминает пещеру, с потолка свешиваются причудливые сталактиты, навстречу им тянутся сталагмиты... Но есть во всем этом что-то жутковатое, есть.
+
+Диктофонная запись рассказа мэра:
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>"	"Quest Tourists.qmm: locations.56.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/57/texts/0/text"	"...А на следующее утро с сильной головной болью вы приехали к первой площадке. Она находится на высоте нескольких сотен метров! Вам вручили ""электронный гид"" и карту. Также провожатый подробно рассказал о сети мостов города:
+<clr>- Вы начнете на первой площадке, должны будете закончить на ней же, предварительно обойдя с туристами все одиннадцать мостов и семь площадок. Все мосты помечены цветными лампами у входов. Сейчас расскажу, какие площадки соединяет каждый мост:
+1. Синий мост - 1 и 2
+2. Голубой мост - 2 и 3
+3. Красный мост - 1 и 3
+4. Коричневый мост - 2 и 4
+5. Зеленый мост - 2 и 4
+6. Оранжевый мост - 3 и 4 
+7. Желтый мост - 4 и 5
+8. Фиолетовый мост - 3 и 5
+9. Розовый мост - 5 и 7
+10. Салатовый мост - 5 и 6
+11. Аквамариновый мост - 6 и 7
+У вас будет хорошая карта, по которой вы сможете определить, куда идти дальше.<clrEnd> А теперь идите! Но не забывайте, что дважды проходить по одному и тому же мосту нельзя. 
+Вы поднялись на лифте вверх, попутно рассматривая ""электронный гид"". Вас встретила шумящая толпа туристов - десяток малоков, пяток фэян, дюжина гаальцев и три пеленга. Вы вежливо обратились к туристам с просьбой построиться и следовать за вами, но в рядах бездельников был такой шум, что они просто вас проигнорировали или вообще не услышали.
+- Мааалчаааать!!! - завопили вы на них. - За мной - шагом марш!"	"Quest Tourists.qmm: locations.57.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/58/texts/0/text"	"...Вы с наслаждением потянулись. В окно светит солнце, яркое и прекрасное... Конечно, не такое прекрасное, под лучами которого вы родились, но все же... В дверь позвонили. Вы, шлепая босыми ногами, прошли к ней и открыли. На пороге стоял мэр, собственной персоной.
+- Добрый день, - приветствовал он. - Как спалось?
+- Спасибо, неплохо.
+- Вы готовы ехать к туристам?
+- Ох... Подождите минут десять в коридоре, ладно? Мне надо одеться...
+Погода была прекрасной. Мэр довез вас на своем лимузине до плазмобусной станции. Там вас уже ждали туристы.
+- Вы плазмобус водить умеете? - спросил мэр.
+- Конечно! - самоуверенно ответили вы.
+- Ну, тогда в путь-дорогу! Карта на вашем терминале. На всякий случай опишу вам карту на словах. Прежде всего, <clr>начнете вы на острове Джунглей, и на нем же и закончите. Вот описание, какие острова соединяет каждый мост-дорога:
+Первый - Остров Песков и Остров Джунглей,
+Второй и Третий - Остров Песков и Аэропорт-на-Скале,
+Четвертый - Скалу Деревянную и Аэропорт-на-Скале,
+Пятый и Шестой - Скалу Деревянную и Остров имени Махпеллы,
+Седьмой - Скалу Деревянную и Кораллер,
+Восьмой - Остров Джунглей и Кораллер,
+Девятый - Остров Джунглей и Золотое побережье,
+Десятый - Остров Песков и Площадку №7-МХ,
+Одиннадцатый - Площадку №7-МХ и Остров Джунглей,
+Двенадцатый - Площадку №7-МХ и Золотое Побережье,
+Тринадцатый - Золотое Побережье и Аэропорт-на-Скале,
+Четырнадцатый - Площадку №7-МХ и Скалу Деревянную,
+Пятнадцатый - Скалу Деревянную и Золотое Побережье.<clrEnd>
+Все. Удачи! Но не забывайте, что дважды проходить по одному и тому же мосту нельзя."	"Quest Tourists.qmm: locations.58.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/59/texts/0/text"	"После приезда в город туристы долго благодарили вас, а потом вы распивали коньячок у мэра. Он тоже благодарил вас.
+- Спасибо большое, <Ranger>! Вы оказали неоценимую услугу! Теперь туристы валом повалят на наши мосты! И отдадут все свои денежки в нашу казну! Вы молодчина, и задание вы прекрасно выполнили! Теперь можете возвращаться на планету <ToPlanet> за заслуженной наградой! Хотя... Рейнджер! Мы делаем вам предложение. Если вы проведете нескольких туристов по новейшему аттракциону острых ощущений, так называемому ""Лабиринту Минотавра"", то получите {6000} cr! Задание точно такое же: провести туристов по всем коридорам, желательно только один раз по каждому. Но вынужден предупредить, что лабиринт смертельно опасен, вы там легко можете погибнуть, если будете ходить слишком долго. Зато в случае успеха - получите уйму денег. Должен сказать, что в этот раз <clr>карты нет<clrEnd>, потому и награда столь велика. Могу дать устное описание, если желаете. Согласны рискнуть?"	"Quest Tourists.qmm: locations.59.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/60/texts/0/text"	"- Привет, рейнджер, - поприветствовал вас пеленг. Тебя гидом наняли эти уроды из мэрии? Знаю. Я сам был таким же гидом. Я не сумел провести туристов по третьей системе мостов, поэтому меня и выгнали. Но я знаю, что после третьей системы тебе предложат пройти ""Лабиринт Минотавра"". Смертельно опасная штука, куча коридоров, лестниц... И карты тебе <clr>не дадут!<clrEnd> В Лабиринте живет механический монстр-минотавр. Если не успеешь за определенное время пробежать повсюду, то монстр убьет тебя.
+- А туристы? - спросили вы. - Неужто они так рискуют?
+- Нет, Минотавр съедает только гида. Правда, иногда случаются сбои в программе, и поэтому... Гм... Да, чуть не забыл, награда за этот лабиринт - {6000} cr! Но ты их не получишь, так как без карты не пройдешь лабиринт.
+- И что? - глупо спросили вы.
+- А то, что у меня есть эта карта! - торжественным шепотом сказал пеленг. - За {1000} cr я тебе ее покажу! Нет, с собой не дам, она будет стоить в десятки раз дороже - я ее смогу другим гидам за деньги показывать. Ну как, хочешь смотреть на карту? 1000 против 6000!"	"Quest Tourists.qmm: locations.60.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/61/texts/0/text"	"- Вот! - пеленг выудил из кармана комбинезона пластибумагу с нарисованной картой. <clr>Вы пожалели, что не взяли с собой ничего такого, на что можно было бы перерисовать карту.<clrEnd>
+- Видишь, какие сложности ждут тебя там? Это же ад! Смерть - 90%!
+- Ничего, я ее запомнил, у меня память хорошая! - соврали вы."	"Quest Tourists.qmm: locations.61.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/62/texts/0/text"	"Когда вы вышли из лабиринта, на вас изумленно уставились несколько человек и фэян в белых халатах. Фэяне держали крупные пластиковые ящики, в которых вы без труда узнали гробы новейшей конструкции. На гробах были надписи: <clr>Лякуша Бачеквак<clrEnd>, <clr>бамбай Ургаррар<clrEnd>, <clr>рейнджер<clrEnd> <Ranger>, <clr>Лякуша Шасапус<clrEnd>... 
+- Как... вы выбрались? - пролепетал мэр. - Мы... были уверены, что вы умре... не сможете выбраться! Это еще никому не удавалось!
+- Что?! - вырвалось у вас. Вам захотелось разорвать мэра за его слова...
+- Давай деньги! - грозно сказали вы, сдувая с лица прядь пыльной паутины. - {6000} cr, как и договаривались!
+- Я, конечно, переведу ваши деньги... - мэр подал знак одному из своих подчиненных, тот мигом достал КПК и что-то пощелкал на нем.
+- Господин мэр, - вдруг сказал один из пеленгов, достал из-под пиджака бластер и направил его на мэра. То же сделали два других пеленга. - Вы арестованы за попытку уничтожить верховных командующих Дзухаллага: меня и лякушу Шасапуса, а также бамбая Ургаррара, кандидата в Галактический Совет. И, конечно же, вам в вину поставят предательство интересов разумной жизни, за покушение на одного из прославленных рейнджеров!
+- Убить их! - крикнул мэр. Его подчиненные достали бластеры, пеленги и люди начали стрелять..."	"Quest Tourists.qmm: locations.62.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/63/texts/0/text"	"- Не хотите - не надо, - сказал мэр. - Действительно, задание не из легких. Но вы же рейнджер, надо держать марку! Хотя, конечно, вы совсем не обязаны были его выполнять, но я так на вас надеялся... Ну ладно, я провожу вас в гостиницу.
+Утром вы прямо из гостиницы отправились в космопорт. Ваши дела здесь закончены."	"Quest Tourists.qmm: locations.63.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/64/texts/0/text"	"- Вот и отлично! - обрадовался мэр. - Осталась небольшая формальность - подпишите вот этот документ, согласно которому вы добровольно идете на риск, понимаете, что это может закончиться для вас летальным исходом, и согласны с тем, что правительству планеты <ToPlanet> не может быть предъявлено никаких претензий в случае вашей смерти. 
+Вы неохотно расписались на поданном вам электронном планшете.
+- Замечательно! Слушайте и запоминайте описание лабиринта.
+В нем 9 комнат и 20 коридоров. Если вы каким-то образом пройдете больше 21 коридора (то бишь где-то по второму разу), то появится механическое чудовище - Минотавр - и убьет вас. Туристы знают это, и рады рискнуть вашей жизнью. Собственно, о коридорах, вот что я помню: (вы незаметно включили диктофон)
+<clr>Коридор a соединяет 1 и 8 комнаты, 
+b - 6 и 8, 
+c - 8 и 7, 
+d - 6 и то ли 9, то ли 8, 
+e - 6 и 7, 
+f - 1 и то ли 9, то ли 8, 
+g - 5 и 6, 
+h - 1 и 5, 
+i - 4 и то ли 1, то ли 5, 
+j - 9 и то ли 5, то ли 3, 
+k - 3 и 4, 
+l - 3 и 9, 
+m - 2 и то ли 3, то ли 5, 
+n - 2 и 3, 
+o - 7 и 2, 
+p - 2 и 9, 
+q - 7 и то ли 8, то ли 9, 
+r - 9 и 4, 
+s - 8 и 9, 
+t - 4 и еще какой-то, не помню. <clrEnd>
+Надеюсь, вам поможет мой рассказ. Архитекторы говорили, что зная латинский алфавит и применив как-то математику, можно легко пройти лабиринт... Но я не проверял. Ладно, удачи, идите."	"Quest Tourists.qmm: locations.64.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/65/texts/0/text"	"Несколько вспышек света, и люди мэра стали падать один за другим. Вы из именного рейнджерского бластера расстреляли фэян ""докторов Менгеле"" - явно пришли, чтобы собирать ваше тело по кускам... Мэр попытался бежать, но вы выстрелили ему в голову. Незадачливый покуситель на чужие жизни беззвучно упал лицом вниз, с прожженной дырой в затылке. ""Туристы"" доставали оружие и вставали у дверей в это помещение - светлое, оформленное по последнему писку моды, с использованием новейших технологий. Два малока позапихивали фэян в их собственные гробы - надписи, правда, менять не стали. Трупы людей стащили в одну кучу у стены. К вам подошел пеленг, который ""арестовал"" мэра.
+- Меня зовут лякуша Бачеквак. Этот мерзавец получил по заслугам, был казнен, так сказать, без суда и следствия. Мы рады поблагодарить вас за поддержку в этом смертельно опасном деле.
+- Так что тут такое творится?! - спросили вы, стараясь не слишком громко кричать.
+- Этот негодяй люто ненавидел Дзухаллаг, гораздо сильнее, чем кто-либо другой, даже Галактический Совет. Возможно, за то, что наша организация уличила его сына в нелегальном сбыте крупных партий наркотиков на Рахише. (Он делал это в обход налоговой службы.) Сын мэра получил срок, а через некоторое время наши агенты начали пропадать на этой планете. Некоторые просто исчезли, некоторые ""трагически погибли в результате несчастного случая"" (причем большая часть происшествий была связана с этой сетью мостов и дорог). Дзухаллаг не прощает подобных вещей, и мы сразу начали поиски неизвестного врага, устраняющего наших парней. Сначала мы думали, что здесь замешана какая-то из конкурирующих спецслужб - те же гаальцы могут быть очень жесткими ребятами, даром что альтруисты и философы. Однако очень скоро подозрение пало на мэра города, хотя полной уверенности у нас не было. Между тем, наказывать кого-то постороннего, оставляя настоящих виновников гулять на свободе, в данном случае было никак нельзя. Поэтому мы разработали сложный план для проверки своих предположений... Через неофициальные каналы мы аккуратно подбросили мэру информацию, что к нему на планету <ToPlanet> туристами летят лидеры Дзухаллага. И мэр заглотил наживку! Даже гида особого нанял ради такого случая (я имею в виду вас, рейнджер <Ranger>). Пожалуй, только рейнджер мог с ходу согласиться на предложение быть гидом в смертельно опасном аттракционе ""Лабиринт Минотавра"". Мэр, вероятно, намеревался устранить нас всех при помощи механического монстра, списав все на неисправность логических цепей. Мы, в свою очередь, рассчитывали взять его с поличным. Результат вы видите сами. Мы не ошиблись! Все наши надежды и расчеты оказались верны, и мерзавец получил по заслугам!
+- А я чуть не получил инсульт, - пробормотали вы.
+- Зато ваши страдания окупились! Вы получаете не только те {6000} cr, но и {1000} cr от Дзухаллага. Благодаря вашим стараниям, нам удалось еще и выкрасть секретную информацию из Гексагона! Медалью я вас наградить не могу, но деньги вам будут полезней, не так ли? Прошу вас никому не рассказывать об увиденном здесь! Мои помощники обеспечат вам охрану до космопорта. Прощайте, спасибо за помощь!
+- Скажите, - спросили вдруг вы, - а почему вы мне все это рассказываете? Вы же сверхсекретная организация!
+- Скажем так, - подумав, ответил пеленг, - мы работаем и воюем против общего врага - доминаторов, существование которых не выгодно ни нам, ни вам. 
+Два могучих малока помогли вам без происшествий добраться до космопорта. Вы подумали, что теперь будете бояться любых мостов и коридоров. Хм, а вдруг мэр успел заминировать ваш корабль? Или вас собьют, когда будете взлетать? А вдруг в звездолете вас ждет киллер? Или кто-то повредил систему взлета-посадки, и вы погибнете в катастрофе? Покрепче сжав бластер в руке и стиснув зубы, вы направились к кораблю."	"Quest Tourists.qmm: locations.65.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/66/texts/0/text"	"Прикрыв голову руками, вы храбро побежали по коридору, спасая жизнь. Вы выбежали из здания и не сбавляя скорости понеслись к космопорту. Деньги получили, жизнь спасли, и ладно. Как бы теперь мостофобия или коридорофобия не развилась..."	"Quest Tourists.qmm: locations.66.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/67/texts/0/text"	"Вы подняли бластер и расстреляли пеленгов - вероятно, они не ожидали такого поворота событий. Мэр радостно взревел, его люди безостановочно стреляли в дверной проем, откуда вы вышли. Сзади послышались крики туристов: ""Он убил Шасапуса и Бачеквака!!!"" - вы резко развернулись и увидели несколько ослепительно ярких вспышек...
+Вы очнулись в больнице несколько часов спустя. Рядом с вами сидел мэр.
+- Я так рад, что вы очнулись! - с улыбкой сказал он. - Вы помогли нашей планете избавиться от опасных преступников. Только вот придется нам с вас <clr>тысячу кредитов<clrEnd> снять: вы застрелили одного из моих телохранителей в суматохе.
+- Но я же вашу жизнь защищал! - возразили вы.
+- Я знаю. Поэтому с вас снял только 1000 cr, а не 10000 cr.
+
+Еще через несколько часов врачи заживили ваши лучевые ранения, и вас отпустили в космопорт. Мэр не пришел вас провожать. И еще вы вспомнили, что в глазах мэра при последней встрече был какой-то нездоровый блеск, а пальцы мелко дрожали. Или вам это все показалось?"	"Quest Tourists.qmm: locations.67.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/locations/68/texts/0/text"	"На выходе вас встретил мэр.
+- Очень жаль, рейнджер, что вы не выполнили этого задания. Очень жаль. Однако вы выполнили условия предыдущего договора, так что основное задание вы не провалили. Можете возвращаться на корабль, однако {6000} cr вы не получите."	"Quest Tourists.qmm: locations.68.texts.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/0/text"	"Подойти к мэру"	"Quest Tourists.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/1/text"	"По мосту Б на 3-ий островок"	"Quest Tourists.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/2/text"	"По мосту А на 2-ой островок"	"Quest Tourists.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/3/text"	"По мосту Д на 4-ый островок"	"Quest Tourists.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/4/text"	"По мосту З на 5-ый островок"	"Quest Tourists.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/5/text"	"По мосту Ж на 3-ий островок"	"Quest Tourists.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/6/text"	"По мосту А на 1-ый островок"	"Quest Tourists.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/7/text"	"По мосту Д на 2-ой островок"	"Quest Tourists.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/8/text"	"По мосту Е на 3-ий островок"	"Quest Tourists.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/9/text"	"По мосту Е на 4-ый островок"	"Quest Tourists.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/10/text"	"По мосту З на 4-ый островок"	"Quest Tourists.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/11/text"	"По мосту Ж на 5-ый островок"	"Quest Tourists.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/12/text"	"По мосту Б на 1-ый островок"	"Quest Tourists.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/13/text"	"Завершить задание!"	"Quest Tourists.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/14/text"	"Я не буду гидом! Тем более на таких условиях!"	"Quest Tourists.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/15/text"	"По коричневому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/15/description"	"О... Мост пролегал между исполинских небоскребов, вонзающихся в небо. Они сверкали в лучах солнца, отражались друг у друга в зеркальных покрытиях. И поражали разнообразием не только цвета, но и формы: пирамидальные, конусообразные, цилиндрические, шестиугольные, призменные... Вы перестали задирать голову только тогда, когда ступили на четвертую площадку."	"Quest Tourists.qmm: jumps.15.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/16/text"	"По салатовому мосту на вторую площадку"	"Quest Tourists.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/16/description"	"Мост пролегал над сетью транспортных точек города: гравикарные стоянки, аэропорты, станции метро. Туристы дивились разнообразию транспорта в городе. Вы тоже отвлеклись на красоты, и не сразу заметили, что ступили на вторую площадку."	"Quest Tourists.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/17/text"	"По белому мосту к восьмой площадке"	"Quest Tourists.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/17/description"	"Вы пошли над городом по мосту, помеченному белой лампой. Боже! Это просто чудо! Мост проходит через небоскребище! Огромный и толстый небоскребище! Вы шли по стеклянному тоннелю и видели, как работали и бездельничали офисные сотрудники, как дядька в пиджаке гонялся по кабинету за полуголой тетенькой... Все было так интересно, что вы и не заметили приближения восьмой площадки."	"Quest Tourists.qmm: jumps.17.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/18/text"	"По зеленому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/18/description"	"Под мостом проплыла громада Гексагона - главного правительственного сооружения на планете. Шестиугольное здание весьма впечатлило туристов, они громко кричали и тыкали пальцами в зелень дорогих муниципальных парков и лужаек, куда мэр планеты частенько водил выгуливать свою собачку. Вы читали из ""электронного гида"" туристам всякие глупости про Гексагон, но они явно не слушали, пока не пришли на шестую площадку, и вы не закончили читать."	"Quest Tourists.qmm: jumps.18.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/19/text"	"По зеленому мосту на восьмую площадку"	"Quest Tourists.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/19/description"	"Под мостом проплыла громада Гексагона - главного правительственного сооружения на планете. Шестиугольное здание весьма впечатлило туристов, они громко кричали и тыкали пальцами в зелень дорогих муниципальных парков и лужаек, куда мэр планеты частенько водил выгуливать свою собачку. Вы читали из ""электронного гида"" туристам всякие глупости про Гексагон, но они явно не слушали, пока не пришли на восьмую площадку, и вы не закончили читать."	"Quest Tourists.qmm: jumps.19.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/20/text"	"По белому мосту ко второй площадке"	"Quest Tourists.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/20/description"	"Вы пошли над городом по мосту, помеченному белой лампой. Боже! Это просто чудо! Мост проходит через небоскребище! Огромный и толстый небоскребище! Вы шли по стеклянному тоннелю и видели, как работали и бездельничали офисные сотрудники, как дядька в пиджаке гонялся по кабинету за полуголой тетенькой... Все было так интересно, что вы и не заметили приближения второй площадки."	"Quest Tourists.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/21/text"	"По салатовому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/21/description"	"Мост пролегал над сетью транспортных точек города: гравикарные стоянки, аэропорты, станции метро. Туристы дивились разнообразию транспорта в городе. Вы тоже отвлеклись на красоты, и не сразу заметили, что ступили на четвертую площадку."	"Quest Tourists.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/22/text"	"По коричневому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/22/description"	"О... Мост пролегал между исполинских небоскребов, вонзающихся в небо. Они сверкали в лучах солнца, отражались друг у друга в зеркальных покрытиях. И поражали разнообразием не только цвета, но и формы: пирамидальные, конусообразные, цилиндрические, шестиугольные, призменные... Вы перестали задирать голову только тогда, когда ступили на шестую площадку."	"Quest Tourists.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/23/text"	"По голубому мосту на седьмую площадку"	"Quest Tourists.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/23/description"	"Мост вышел за пределы города и потянулся над серыми рядами складов и заводов. Вверх поднимались столбы дыма, один из них проходил сквозь мост! К счастью, вас надежно защищал огромный прозрачный туннель, однако где-то все же была небольшая трещина, отчего в воздухе ощущались ядовитые испарения, и вы с туристами, вволю начихавшись и накашлявшись, побежали к выходу на следующую площадку."	"Quest Tourists.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/24/text"	"По фиолетовому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/24/description"	"Под мостом крупные небоскребы сменились красивыми и аккуратными спальными домиками всего по несколько десятков этажей. Между ними лежали парки, лужайки, бассейны, дороги и трубы метро... Гаалочки и малокские девушки ахали и прижимали кулачки и кулачищи к сердцам. А потом бежали к возлюбленным и умоляли купить хотя бы квартирку в этом районе. Впереди замаячила шестая площадка..."	"Quest Tourists.qmm: jumps.24.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/25/text"	"По фиолетовому мосту на седьмую площадку"	"Quest Tourists.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/25/description"	"Под мостом крупные небоскребы сменились красивыми и аккуратными спальными домиками всего по несколько десятков этажей. Между ними лежали парки, лужайки, бассейны, дороги и трубы метро... Гаалочки и малокские девушки ахали и прижимали кулачки и кулачищи к сердцам. А потом бежали к возлюбленным и умоляли купить хотя бы квартирку в этом районе. Впереди замаячила седьмая площадка..."	"Quest Tourists.qmm: jumps.25.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/26/text"	"По голубому мосту на восьмую площадку"	"Quest Tourists.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/26/description"	"Мост вышел за пределы города и потянулся над серыми рядами складов и заводов. Вверх поднимались столбы дыма, один из них проходил сквозь мост! К счастью, вас надежно защищал огромный прозрачный туннель, однако где-то все же была небольшая трещина, отчего в воздухе ощущались ядовитые испарения, и вы с туристами, вволю начихавшись и накашлявшись, побежали к выходу на следующую площадку."	"Quest Tourists.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/27/text"	"По оранжевому мосту на пятую площадку"	"Quest Tourists.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/27/description"	"Ваш путь к пятой площадке пролегал над красивейшим искусственным озером. По берегам его были расположены пляжи, рыболовные клубы, увеселительные заведения и тому подобное. Туристы охали и подолгу всматривались в почти прозрачные воды озера. Один из малоков даже плюнул туда, от полноты чувств."	"Quest Tourists.qmm: jumps.27.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/28/text"	"По оранжевому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/28/description"	"Ваш путь к шестой площадке пролегал над красивейшим искусственным озером. По берегам его были расположены пляжи, рыболовные клубы, увеселительные заведения и тому подобное. Туристы охали и подолгу всматривались в почти прозрачные воды озера. Один из малоков даже плюнул туда, от полноты чувств."	"Quest Tourists.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/29/text"	"По желтому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/29/description"	"Под мостом проплывала пышная растительность парков. Этот зеленый район города всегда считался местом отдыха многих горожан. Туристам парки понравились. Вскоре вы ступили на четвертую площадку, а туристы все обсуждали увиденное."	"Quest Tourists.qmm: jumps.29.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/30/text"	"По желтому мосту на пятую площадку"	"Quest Tourists.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/30/description"	"Под мостом проплывала пышная растительность парков. Этот зеленый район города всегда считался местом отдыха многих горожан. Туристам парки понравились. Вскоре вы ступили на пятую площадку, а туристы все обсуждали увиденное."	"Quest Tourists.qmm: jumps.30.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/31/text"	"По аквамариновому мосту на третью площадку"	"Quest Tourists.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/31/description"	"Слева под мостом небоскребы сменились домиками пониже, но и те скоро закончились. Здесь лежал бескрайний ковер леса, уходящего за горизонт. Туристы ошеломленно рассматривали прекрасную панораму, даже болтать перестали. Пока лес не сменился домиками, и впереди не показалась третья площадка."	"Quest Tourists.qmm: jumps.31.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/32/text"	"По аквамариновому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/32/description"	"Слева под мостом небоскребы сменились домиками пониже, но и те скоро закончились. Здесь лежал бескрайний ковер леса, уходящего за горизонт. Туристы ошеломленно рассматривали прекрасную панораму, даже болтать перестали. Пока лес не сменился домиками, и впереди не показалась четвертая площадка."	"Quest Tourists.qmm: jumps.32.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/33/text"	"По розовому мосту к третьей площадке"	"Quest Tourists.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/33/description"	"Вы с туристами прошли по розовому мосту. Внизу красиво желтели пляжи. Все прямо ахнули, и стали пристально смотреть вниз, когда вы проходили над нудистскими пляжами. Все немножко покраснели, кроме бесстыжих фэян. А вот и третья площадка, вы так загляделись на нудистов, что едва не прозевали."	"Quest Tourists.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/34/text"	"По розовому мосту ко второй площадке"	"Quest Tourists.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/34/description"	"Вы с туристами прошли по розовому мосту. Внизу красиво желтели пляжи. Все прямо ахнули, и стали пристально смотреть вниз, когда вы проходили над нудистскими пляжами. Все немножко покраснели, кроме бесстыжих фэян. А вот и вторая площадка, вы так загляделись на нудистов, что едва не прозевали."	"Quest Tourists.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/35/text"	"По красному мосту на вторую площадку"	"Quest Tourists.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/35/description"	"Справа город кончался, а слева начинались крутые скалы, усеянные классными коттеджами местных богачей. Вы из справочника читали туристам, что здесь живет элита планеты, ее чистейшая кровь и тому подобное. На богачей туристам было наплевать, а вот скалы, усыпанные красивыми домиками, туристам понравились. Скалы тянулись вплоть до самой площадки номер два."	"Quest Tourists.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/36/text"	"По синему мосту на восьмую площадку"	"Quest Tourists.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/36/description"	"Вы повели туристов по мосту. Те глазели по сторонам, жевали попкорн и плевали сверху вниз. Внизу проплывал величественный и огромный, сверкающий бликами пластиковый купол космопорта. Где-то в недрах этого громадного сооружения стоит и ваш кораблик. Туристы заинтересованно начали тыкать пальцами туда, о чем-то разговаривая. Пеленги снимали все на стереокамеры. ""Неужто шпионы"", - подумали вы. Через несколько минут космопорт остался позади, и впереди стала видна восьмая площадка..."	"Quest Tourists.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/37/text"	"По синему мосту на первую площадку"	"Quest Tourists.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/37/description"	"Вы повели туристов по мосту. Те глазели по сторонам, жевали попкорн и плевали сверху вниз. Внизу проплывал величественный и огромный, сверкающий бликами пластиковый купол космопорта. Где-то в недрах этого громадного сооружения стоит и ваш кораблик. Туристы заинтересованно начали тыкать пальцами туда, о чем-то разговаривая. Пеленги снимали все на стереокамеры. ""Неужто шпионы"", - подумали вы. Через несколько минут космопорт остался позади, и впереди стала видна первая площадка..."	"Quest Tourists.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/38/text"	"По красному мосту на первую площадку"	"Quest Tourists.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/38/description"	"Справа город кончался, а слева начинались крутые скалы, усеянные классными коттеджами местных богачей. Вы из справочника читали туристам, что здесь живет элита планеты, ее чистейшая кровь и тому подобное. На богачей туристам было наплевать, а вот скалы, усыпанные красивыми домиками, туристам понравились. Скалы тянулись вплоть до самой площадки номер один."	"Quest Tourists.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/39/text"	"2 - Дорога Большой реки на Скалу Деревянную"	"Quest Tourists.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/39/description"	"Вы взяли нужный курс и поехали по Дороге Большой реки. А река, пролегающая под мостом, и впрямь гигантская! Туристы дивились этой реке, берега показались очень не скоро."	"Quest Tourists.qmm: jumps.39.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/40/text"	"2 - Дорога Большой реки к Острову Желтых песков"	"Quest Tourists.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/40/description"	"Вы взяли нужный курс и поехали по Дороге Большой реки. А река, пролегающая под мостом, и впрямь гигантская! Туристы дивились этой реке, берега показались очень не скоро."	"Quest Tourists.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/41/text"	"3 - Медовая Дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/41/description"	"Эта дорога была поистине необычайной! Внизу пролегло Великое Медовое Ущелье, до краев наполненное медом, и сам мост был покрыт медом, который лип к колесам. Туристы в изумлении смотрели на это чудо. Вдруг снизу поднялись гигантские рои ос, и набросились на ваш плазмобус! Туристы в ужасе завизжали, вы успели поднять крышу и перегородить выход в салон. Вы-то в безопасности, а вот судя по крикам из салона... Вам стало жаль туристов, вы включили кондиционер, и он выдул всех ос."	"Quest Tourists.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/42/text"	"3 - Медовая Дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/42/description"	"Эта дорога была поистине необычайной! Внизу пролегло Великое Медовое Ущелье, до краев наполненное медом, и сам мост был покрыт медом, который лип к колесам. Туристы в изумлении смотрели на это чудо. Вдруг снизу поднялись гигантские рои ос, и набросились на ваш плазмобус! Туристы в ужасе завизжали, вы успели поднять крышу и перегородить выход в салон. Вы-то в безопасности, а вот судя по крикам из салона... Вам стало жаль туристов, вы включили кондиционер, и он выдул всех ос."	"Quest Tourists.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/43/text"	"4 - Каньонная дорога к острову Джунглей"	"Quest Tourists.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/43/description"	"Этот мост лежал в каньоне, Большом каньоне планеты <ToPlanet>. С боков нависали желтые скалы, внизу росли мелкие деревца. Туристы ошалело разглядывали стены каньона, дивясь такому красивому естественному образованию."	"Quest Tourists.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/44/text"	"4 - Каньонная дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/44/description"	"Этот мост лежал в каньоне, Большом каньоне планеты <ToPlanet>. С боков нависали желтые скалы, внизу росли мелкие деревца. Туристы ошалело разглядывали стены каньона, дивясь такому красивому естественному образованию."	"Quest Tourists.qmm: jumps.44.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/45/text"	"1 - Дорога Джунглей к Острову Желтых Песков"	"Quest Tourists.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/45/description"	"Вы поехали по длинному мосту. Его конструкция вся густо оплетена лианами и ползучими растениями. Да и внизу тоже сплошные, непроходимые джунгли... Туристы прильнули к стеклам, громко восхищаясь. Очень не скоро они утихомирились, еще долго обсуждая увиденное."	"Quest Tourists.qmm: jumps.45.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/46/text"	"1 - Дорога Джунглей к Острову Джунглей"	"Quest Tourists.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/46/description"	"Вы поехали по длинному мосту. Его конструкция вся густо оплетена лианами и ползучими растениями. Да и внизу тоже сплошные, непроходимые джунгли... Туристы прильнули к стеклам, громко восхищаясь. Очень не скоро они утихомирились, еще долго обсуждая увиденное."	"Quest Tourists.qmm: jumps.46.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/47/text"	"14 - Болотистая дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/47/description"	"Этот мост-дорога лежал над крупным болотом. Огромным, до самого горизонта. По болоту прыгали лягушки размером со львов, ползали змеи по несколько десятков метров длиной... Туристы восхищенно кричали. Пеленги не переставали снимать все, но при этом молчали."	"Quest Tourists.qmm: jumps.47.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/48/text"	"15 - Туманная дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/48/description"	"Весь мост лежал в тумане, вы с туристами почти ничего не рассмотрели. В тумане глухо и страшно кричали какие-то животные."	"Quest Tourists.qmm: jumps.48.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/49/text"	"14 - Болотистая дорога к острову Джунглей"	"Quest Tourists.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/49/description"	"Этот мост-дорога лежал над крупным болотом. Огромным, до самого горизонта. По болоту прыгали лягушки размером со львов, ползали змеи по несколько десятков метров длиной... Туристы восхищенно кричали. Пеленги не переставали снимать все, но при этом молчали."	"Quest Tourists.qmm: jumps.49.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/50/text"	"15 - Туманная дорога к острову Джунглей"	"Quest Tourists.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/50/description"	"Весь мост лежал в тумане, вы с туристами почти ничего не рассмотрели. В тумане глухо и страшно кричали какие-то животные."	"Quest Tourists.qmm: jumps.50.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/51/text"	"13 - Заснеженная дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/51/description"	"Да, название у этого моста просто замечательное! Внизу - снежная пустыня, а по мосту гуляют ветры, несущие частички льда и снега. Верх у плазмобуса открытый, в салоне сразу стало холодно, туристы зябко ежились, но все же с интересом рассматривали снежную пустыню. Вы ускорили плазмобус, дабы скорее выехать из этой местности."	"Quest Tourists.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/52/text"	"13 - Заснеженная дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/52/description"	"Да, название у этого моста просто замечательное! Внизу - снежная пустыня, а по мосту гуляют ветры, несущие частички льда и снега. Верх у плазмобуса открытый, в салоне сразу стало холодно, туристы зябко ежились, но все же с интересом рассматривали снежную пустыню. Вы ускорили плазмобус, дабы скорее выехать из этой местности."	"Quest Tourists.qmm: jumps.52.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/53/text"	"5 - Пустынная Дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/53/description"	"Вы повели плазмобус по Пустынной дороге. Внизу пролегала мертвая Пустыня Страданий - так она называлась в ""электронном гиде"". Давным-давно в этой пустыне погибло много народу... благодаря стараниям первого диктатора планеты <ToPlanet> - Абу Линкольна Хуссейна. Где он сейчас - никто не знает. Туристы с состраданием разглядывали песчаные барханы. А кондиционер трудился вовсю."	"Quest Tourists.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/54/text"	"5 - Пустынная Дорога к Острову Желтых Песков"	"Quest Tourists.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/54/description"	"Вы повели плазмобус по Пустынной дороге. Внизу пролегала мертвая Пустыня Страданий - так она называлась в ""электронном гиде"". Давным-давно в этой пустыне погибло много народу... благодаря стараниям первого диктатора планеты <ToPlanet> - Абу Линкольна Хуссейна. Где он сейчас - никто не знает. Туристы с состраданием разглядывали песчаные барханы. А кондиционер трудился вовсю."	"Quest Tourists.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/55/text"	"10 - Угольная дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/55/description"	"Этот мост был замощен плитами, высеченными из цельных кусков угля и покрытыми фиксирующим составом. Мост был черный и блестящий. Внизу находились базы по добыче угля - необходимого компонента местных удобрений. Эта местность туристам очень понравилась."	"Quest Tourists.qmm: jumps.55.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/56/text"	"9 - Подводная дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/56/description"	"Этот мост вскоре спустился к поверхности озера в широкую прозрачную трубу. Туристы громко кричали, видя вблизи жутких подводных тварей. Но в целом, это дорога им очень понравилась, да и вы были довольны."	"Quest Tourists.qmm: jumps.56.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/57/text"	"10 - Угольная дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/57/description"	"Этот мост был замощен плитами, высеченными из цельных кусков угля и покрытыми фиксирующим составом. Мост был черный и блестящий. Внизу находились базы по добыче угля - необходимого компонента местных удобрений. Эта местность туристам очень понравилась."	"Quest Tourists.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/58/text"	"9 - Подводная дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/58/description"	"Этот мост вскоре спустился к поверхности озера в широкую прозрачную трубу. Туристы громко кричали, видя вблизи жутких подводных тварей. Но в целом, это дорога им очень понравилась, да и вы были довольны."	"Quest Tourists.qmm: jumps.58.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/59/text"	"12 - Солевая Дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/59/description"	"Эта дорога-мост, казалось, была покрыта снегом, хотя на самом деле под колесами скрипела чистейшая соль. Тысячи роботов трудились на белых блестящих пластах внизу. Здесь проводилась добыча соли на химические нужды планеты. 
+Туристы громко восторгались увиденным. Похоже, им эта поездка понравилась!"	"Quest Tourists.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/60/text"	"11 - Дорога Гейзеров к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/60/description"	"Этот мост лежал над Долиной гейзеров. Покрытая трещинами земля внизу регулярно выплевывала раскаленные воды и грязь, реже - магму. Туристы дивились такой красоте - тысячам горочек, брызгающих грязным кипятком."	"Quest Tourists.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/61/text"	"12 - Солевая Дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/61/description"	"Эта дорога-мост, казалось, была покрыта снегом, хотя на самом деле под колесами скрипела чистейшая соль. Тысячи роботов трудились на белых блестящих пластах внизу. Здесь проводилась добыча соли на химические нужды планеты. 
+Туристы громко восторгались увиденным. Похоже, им эта поездка понравилась!"	"Quest Tourists.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/62/text"	"11 - Дорога Гейзеров к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/62/description"	"Этот мост лежал над Долиной гейзеров. Покрытая трещинами земля внизу регулярно выплевывала раскаленные воды и грязь, реже - магму. Туристы дивились такой красоте - тысячам горочек, брызгающих грязным кипятком."	"Quest Tourists.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/63/text"	"8 - Древняя дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/63/description"	"Вы поехали по Древней дороге. Этот мост шел совсем низко над землей, и вскоре совсем врезался в зеленую равнину. Вы повели автобус по ней, широкая дорога из плит была хорошо видна. Неожиданно послышался рев, к плазмобусу сбоку подбежали два жутких динозавра. Метров по двадцать в длину, мощные пасти усеяны острыми зубами. К счастью, вы вовремя нажали на ускорение, так что эти твари успели только вырвать кусок металла из борта плазмобуса."	"Quest Tourists.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/64/text"	"8 - Древняя дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/64/description"	"Вы поехали по Древней дороге. Этот мост шел совсем низко над землей, и вскоре совсем врезался в зеленую равнину. Вы повели автобус по ней, широкая дорога из плит была хорошо видна. Неожиданно послышался рев, к плазмобусу сбоку подбежали два жутких динозавра. Метров по двадцать в длину, мощные пасти усеяны острыми зубами. К счастью, вы вовремя нажали на ускорение, так что эти твари успели только вырвать кусок металла из борта плазмобуса."	"Quest Tourists.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/65/text"	"7 - Саванная дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/65/description"	"Этот мост-дорога пролег над прекрасной саванной. Сухая земля, редкие могучие деревца и местная фауна. Внизу бегали какие-то страусовидные животные, медленно ходили крупные хвостатые твари, размером больше земного слона. Туристы все с удовольствием снимали на электронные накопители."	"Quest Tourists.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/66/text"	"6 - Дорога Голубых гор к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/66/description"	"Мост-дорога пролегал над Голубыми горами. Весьма красивый горный хребет. Горы были подернуты дымкой, и поэтому смотрелись очень загадочно и прекрасно. Туристы восхищались и снимали чудесные виды. А вы упорно жали на ускорение, дабы к ужину успеть проехать по всем мостам."	"Quest Tourists.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/67/text"	"7 - Саванная дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/67/description"	"Этот мост-дорога пролег над прекрасной саванной. Сухая земля, редкие могучие деревца и местная фауна. Внизу бегали какие-то страусовидные животные, медленно ходили крупные хвостатые твари, размером больше земного слона. Туристы все с удовольствием снимали на электронные накопители."	"Quest Tourists.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/68/text"	"6 - Дорога Голубых гор на Скалу Деревянную"	"Quest Tourists.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/68/description"	"Мост-дорога пролегал над Голубыми горами. Весьма красивый горный хребет. Горы были подернуты дымкой, и поэтому смотрелись очень загадочно и прекрасно. Туристы восхищались и снимали чудесные виды. А вы упорно жали на ускорение, дабы к ужину успеть проехать по всем мостам."	"Quest Tourists.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/69/text"	"Я согласен! Где только наша не пропадала!"	"Quest Tourists.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/70/text"	"По мосту Г на 2-ой островок"	"Quest Tourists.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/71/text"	"По мосту Г на 3-ий островок"	"Quest Tourists.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/72/text"	"По мосту В на 4-ый островок"	"Quest Tourists.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/73/text"	"По мосту В на 1-ый островок"	"Quest Tourists.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/74/text"	"Да, с удовольствием!"	"Quest Tourists.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/75/text"	"Подняться на первую площадку"	"Quest Tourists.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/75/description"	"Вы поднялись на первую площадку. Рано или поздно она станет и последней... Отсюда идут <clr>синий и красный<clrEnd> мосты. Куда потащим бедных туристов?"	"Quest Tourists.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/76/text"	"Спуститься, наконец!"	"Quest Tourists.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/77/text"	"Я с удовольствием покатаюсь!"	"Quest Tourists.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/78/text"	"В гостиницу, хочу спать!"	"Quest Tourists.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/79/text"	"Проснуться"	"Quest Tourists.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/80/text"	"Ехать на Остров Желтых Песков"	"Quest Tourists.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/80/description"	"Вы находитесь на острове Желтых песков, отсюда идут три моста. Какой из них выберем?
+<fix>{1}: Дорогу Джунглей
+{2}: Дорогу Большой Реки
+{5}: Пустынную Дорогу</fix>"	"Quest Tourists.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/81/text"	"Ехать в город!"	"Quest Tourists.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/82/text"	"Сделать ставку"	"Quest Tourists.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/83/description"	"На табло высветилось:
+Ваша цифра - {([p41] mod 100)}
+Цифра компьютера - {([p41] div 100)}
+
+<clr>Ничья<clrEnd>
+
+Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/84/description"	"На табло высветилось:
+Ваша цифра - {([p41] mod 100)}
+Цифра компьютера - {([p41] div 100)}
+
+<clr>Вы проиграли...<clrEnd>
+
+Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/85/description"	"На табло высветилось:
+Ваша цифра - {([p41] mod 100)}
+Цифра компьютера - {([p41] div 100)}
+
+<clr>Вы выиграли!!!<clrEnd>
+
+Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/86/text"	"Отойти от автомата"	"Quest Tourists.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/87/text"	"Проснуться"	"Quest Tourists.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/88/text"	"Давайте в казино!"	"Quest Tourists.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/89/text"	"Идти к аппарату"	"Quest Tourists.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/89/description"	"Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/90/text"	"Ехать в номер и спать"	"Quest Tourists.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/91/text"	"В ресторан!"	"Quest Tourists.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/92/text"	"По синему мосту на вторую площадку"	"Quest Tourists.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/92/description"	"Вы повели туристов по мосту. Те глазели по сторонам, жевали попкорн и плевали сверху вниз. Внизу проплывал величественный и огромный, сверкающий бликами пластиковый купол космопорта. Где-то в недрах этого громадного сооружения стоит и ваш кораблик. Туристы заинтересованно начали тыкать пальцами туда, о чем-то разговаривая. Пеленги снимали все на стереокамеры. ""Неужто шпионы"", - подумали вы. Через несколько минут космопорт остался позади, и впереди стала видна вторая площадка..."	"Quest Tourists.qmm: jumps.92.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/93/text"	"По синему мосту на первую площадку"	"Quest Tourists.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/93/description"	"Вы повели туристов по мосту. Те глазели по сторонам, жевали попкорн и плевали сверху вниз. Внизу проплывал величественный и огромный, сверкающий бликами пластиковый купол космопорта. Где-то в недрах этого громадного сооружения стоит и ваш кораблик. Туристы заинтересованно начали тыкать пальцами туда, о чем-то разговаривая. Пеленги снимали все на стереокамеры. ""Неужто шпионы"", - подумали вы. Через несколько минут космопорт остался позади, и впереди стала видна первая площадка..."	"Quest Tourists.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/94/text"	"По красному мосту на третью площадку"	"Quest Tourists.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/94/description"	"Справа город кончался, а слева начинались крутые скалы, усеянные классными коттеджами местных богачей. Вы из справочника читали туристам, что здесь живет элита планеты, ее чистейшая кровь и тому подобное. На богачей туристам было наплевать, а вот скалы, усыпанные красивыми домиками, туристам понравились. Скалы тянулись вплоть до самой площадки номер три."	"Quest Tourists.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/95/text"	"По красному мосту на первую площадку"	"Quest Tourists.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/95/description"	"Справа город кончался, а слева начинались крутые скалы, усеянные классными коттеджами местных богачей. Вы из справочника читали туристам, что здесь живет элита планеты, ее чистейшая кровь и тому подобное. На богачей туристам было наплевать, а вот скалы, усыпанные красивыми домиками, туристам понравились. Скалы тянулись вплоть до самой площадки номер один."	"Quest Tourists.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/96/text"	"По голубому мосту на третью площадку"	"Quest Tourists.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/96/description"	"Мост вышел за пределы города и потянулся над серыми рядами складов и заводов. Вверх поднимались столбы дыма, один из них проходил сквозь мост! К счастью, вас надежно защищал огромный прозрачный туннель, однако где-то все же была небольшая трещина, отчего в воздухе ощущались ядовитые испарения, и вы с туристами, вволю начихавшись и накашлявшись, побежали к выходу на следующую, третью площадку."	"Quest Tourists.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/97/text"	"По голубому мосту на вторую площадку"	"Quest Tourists.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/97/description"	"Мост вышел за пределы города и потянулся над серыми рядами складов и заводов. Вверх поднимались столбы дыма, один из них проходил сквозь мост! К счастью, вас надежно защищал огромный прозрачный туннель, однако где-то все же была небольшая трещина, отчего в воздухе ощущались ядовитые испарения, и вы с туристами, вволю начихавшись и накашлявшись, побежали к выходу на следующую, вторую площадку."	"Quest Tourists.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/98/text"	"По оранжевому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/98/description"	"Ваш путь к четвертой площадке пролегал над красивейшим искусственным озером. По берегам его были расположены пляжи, рыболовные клубы, увеселительные заведения и тому подобное. Туристы охали и подолгу всматривались в почти прозрачные воды озера. Один из малоков даже плюнул туда, от полноты чувств."	"Quest Tourists.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/99/text"	"По оранжевому мосту на третью площадку"	"Quest Tourists.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/99/description"	"Ваш путь к третьей площадке пролегал над красивейшим искусственным озером. По берегам его были расположены пляжи, рыболовные клубы, увеселительные заведения и тому подобное. Туристы охали и подолгу всматривались в почти прозрачные воды озера. Один из малоков даже плюнул туда, от полноты чувств."	"Quest Tourists.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/100/text"	"По коричневому мосту на вторую площадку"	"Quest Tourists.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/100/description"	"О... Мост пролегал между исполинских небоскребов, вонзающихся в небо. Они сверкали в лучах солнца, отражались друг у друга в зеркальных покрытиях. И поражали разнообразием не только цвета, но и формы: пирамидальные, конусообразные, цилиндрические, шестиугольные, призменные... Вы перестали задирать голову только тогда, когда ступили на вторую площадку."	"Quest Tourists.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/101/text"	"По коричневому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/101/description"	"О... Мост пролегал между исполинских небоскребов, вонзающихся в небо. Они сверкали в лучах солнца, отражались друг у друга в зеркальных покрытиях. И поражали разнообразием не только цвета, но и формы: пирамидальные, конусообразные, цилиндрические, шестиугольные, призменные... Вы перестали задирать голову только тогда, когда ступили на четвертую площадку."	"Quest Tourists.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/102/text"	"По зеленому мосту на вторую площадку"	"Quest Tourists.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/102/description"	"Под мостом проплыла громада Гексагона - главного правительственного сооружения на планете. Шестиугольное здание весьма впечатлило туристов, они громко кричали и тыкали пальцами в зелень дорогих муниципальных парков и лужаек, куда мэр планеты частенько водил выгуливать свою собачку. Вы читали из ""электронного гида"" туристам всякие глупости про Гексагон, но они явно не слушали, пока не пришли на вторую площадку, и вы не закончили читать."	"Quest Tourists.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/103/text"	"По зеленому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/103/description"	"Под мостом проплыла громада Гексагона - главного правительственного сооружения на планете. Шестиугольное здание весьма впечатлило туристов, они громко кричали и тыкали пальцами в зелень дорогих муниципальных парков и лужаек, куда мэр планеты частенько водил выгуливать свою собачку. Вы читали из ""электронного гида"" туристам всякие глупости про Гексагон, но они явно не слушали, пока не пришли на четвертую площадку, и вы не закончили читать."	"Quest Tourists.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/104/text"	"По фиолетовому мосту на пятую площадку"	"Quest Tourists.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/104/description"	"Под мостом крупные небоскребы сменились красивыми и аккуратными спальными домиками всего по несколько десятков этажей. Между ними лежали парки, лужайки, бассейны, дороги и трубы метро... Гаалочки и малокские девушки ахали и прижимали кулачки и кулачищи к сердцам. А потом бежали к возлюбленным и умоляли купить хотя бы квартирку в этом районе. Впереди замаячила пятая площадка..."	"Quest Tourists.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/105/text"	"По фиолетовому мосту на третью площадку"	"Quest Tourists.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/105/description"	"Под мостом крупные небоскребы сменились красивыми и аккуратными спальными домиками всего по несколько десятков этажей. Между ними лежали парки, лужайки, бассейны, дороги и трубы метро... Гаалочки и малокские девушки ахали и прижимали кулачки и кулачищи к сердцам. А потом бежали к возлюбленным и умоляли купить хотя бы квартирку в этом районе. Впереди замаячила третья площадка..."	"Quest Tourists.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/106/text"	"По желтому мосту на пятую площадку"	"Quest Tourists.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/106/description"	"Под мостом проплывала пышная растительность парков. Этот зеленый район города всегда считался местом отдыха многих горожан. Туристам парки понравились. Вскоре вы ступили на пятую площадку, а туристы все обсуждали увиденное."	"Quest Tourists.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/107/text"	"По желтому мосту на четвертую площадку"	"Quest Tourists.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/107/description"	"Под мостом проплывала пышная растительность парков. Этот зеленый район города всегда считался местом отдыха многих горожан. Туристам парки понравились. Вскоре вы ступили на четвертую площадку, а туристы все обсуждали увиденное."	"Quest Tourists.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/108/text"	"По розовому мосту к седьмой площадке"	"Quest Tourists.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/108/description"	"Вы с туристами прошли по розовому мосту. Внизу красиво желтели пляжи. Все прямо ахнули, и стали пристально смотреть вниз, когда вы проходили над нудистскими пляжами. Все немножко покраснели, кроме бесстыжих фэян. А вот и седьмая площадка, вы так загляделись на нудистов, что едва не прозевали."	"Quest Tourists.qmm: jumps.108.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/109/text"	"По розовому мосту к пятой площадке"	"Quest Tourists.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/109/description"	"Вы с туристами прошли по розовому мосту. Внизу красиво желтели пляжи. Все прямо ахнули, и стали пристально смотреть вниз, когда вы проходили над нудистскими пляжами. Все немножко покраснели, кроме бесстыжих фэян. А вот и пятая площадка, вы так загляделись на нудистов, что едва не прозевали."	"Quest Tourists.qmm: jumps.109.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/110/text"	"По аквамариновому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/110/description"	"Слева под мостом небоскребы сменились домиками пониже, но и те скоро закончились. Здесь лежал бескрайний ковер леса, уходящего за горизонт. Туристы ошеломленно рассматривали прекрасную панораму, даже болтать перестали. Пока лес не сменился домиками, и впереди не показалась шестая площадка."	"Quest Tourists.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/111/text"	"По аквамариновому мосту на седьмую площадку"	"Quest Tourists.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/111/description"	"Слева под мостом небоскребы сменились домиками пониже, но и те скоро закончились. Здесь лежал бескрайний ковер леса, уходящего за горизонт. Туристы ошеломленно рассматривали прекрасную панораму, даже болтать перестали. Пока лес не сменился домиками, и впереди не показалась седьмая площадка."	"Quest Tourists.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/112/text"	"По салатовому мосту на пятую площадку"	"Quest Tourists.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/112/description"	"Мост пролегал над сетью транспортных точек города: гравикарные стоянки, аэропорты, станции метро. Туристы дивились разнообразию транспорта в городе. Вы тоже отвлеклись на красоты, и не сразу заметили, что ступили на пятую площадку."	"Quest Tourists.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/113/text"	"По салатовому мосту на шестую площадку"	"Quest Tourists.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/113/description"	"Мост пролегал над сетью транспортных точек города: гравикарные стоянки, аэропорты, станции метро. Туристы дивились разнообразию транспорта в городе. Вы тоже отвлеклись на красоты, и не сразу заметили, что ступили на шестую площадку."	"Quest Tourists.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/114/text"	"1 - Дорога Джунглей к острову Желтых песков"	"Quest Tourists.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/114/description"	"Вы поехали по длинному мосту. Его конструкция вся густо оплетена лианами и ползучими растениями. Да и внизу тоже сплошные, непроходимые джунгли... Туристы прильнули к стеклам, громко восхищаясь. Очень не скоро они утихомирились, еще долго обсуждая увиденное."	"Quest Tourists.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/115/text"	"1 - Дорога Джунглей к Острову Джунглей"	"Quest Tourists.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/115/description"	"Вы поехали по длинному мосту. Его конструкция вся густо оплетена лианами и ползучими растениями. Да и внизу тоже сплошные, непроходимые джунгли... Туристы прильнули к стеклам, громко восхищаясь. Очень не скоро они утихомирились, еще долго обсуждая увиденное."	"Quest Tourists.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/116/text"	"9 - Подводная дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/116/description"	"Этот мост вскоре спустился к поверхности озера в широкую прозрачную трубу. Туристы громко кричали, видя вблизи жутких подводных тварей. Но в целом, это дорога им очень понравилась, да и вы были довольны."	"Quest Tourists.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/117/text"	"9 - Подводная дорога к Острову Джунглей"	"Quest Tourists.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/117/description"	"Этот мост вскоре спустился к поверхности озера в широкую прозрачную трубу. Туристы громко кричали, видя вблизи жутких подводных тварей. Но в целом, это дорога им очень понравилась, да и вы были довольны."	"Quest Tourists.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/118/text"	"15 - Туманная дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/118/description"	"Весь мост лежал в тумане, вы с туристами почти ничего не рассмотрели. В тумане глухо и страшно кричали какие-то животные."	"Quest Tourists.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/119/text"	"15 - Туманная дорога к Золотому Побережью"	"Quest Tourists.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/119/description"	"Весь мост лежал в тумане, вы с туристами почти ничего не рассмотрели. В тумане глухо и страшно кричали какие-то животные."	"Quest Tourists.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/120/text"	"4 - Каньонная дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/120/description"	"Этот мост лежал в каньоне, Большом каньоне планеты <ToPlanet>. С боков нависали желтые скалы, внизу росли мелкие деревца. Туристы ошалело разглядывали стены каньона, дивясь такому красивому естественному образованию."	"Quest Tourists.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/121/text"	"4 - Каньонная дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/121/description"	"Этот мост лежал в каньоне, Большом каньоне планеты <ToPlanet>. С боков нависали желтые скалы, внизу росли мелкие деревца. Туристы ошалело разглядывали стены каньона, дивясь такому красивому естественному образованию."	"Quest Tourists.qmm: jumps.121.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/122/text"	"2 - Дорога Большой реки на Остров Желтых Песков"	"Quest Tourists.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/122/description"	"Вы взяли нужный курс и поехали по Дороге Большой реки. А река, пролегающая под мостом, и впрямь гигантская! Туристы дивились этой реке, берега показались очень не скоро."	"Quest Tourists.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/123/text"	"2 - Дорога Большой реки к Аэропорту-на-Скале"	"Quest Tourists.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/123/description"	"Вы взяли нужный курс и поехали по Дороге Большой реки. А река, пролегающая под мостом, и впрямь гигантская! Туристы дивились этой реке, берега показались очень не скоро."	"Quest Tourists.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/124/text"	"10 - Угольная дорога к Площадке № 7-МХ"	"Quest Tourists.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/124/description"	"Этот мост был замощен плитами, высеченными из цельных кусков угля и покрытыми фиксирующим составом. Мост был черный и блестящий. Внизу находились базы по добыче угля - необходимого компонента местных удобрений. Эта местность туристам очень понравилась."	"Quest Tourists.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/125/text"	"10 - Угольная дорога к Острову Желтых Песков"	"Quest Tourists.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/125/description"	"Этот мост был замощен плитами, высеченными из цельных кусков угля и покрытыми фиксирующим составом. Мост был черный и блестящий. Внизу находились базы по добыче угля - необходимого компонента местных удобрений. Эта местность туристам очень понравилась."	"Quest Tourists.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/126/text"	"11 - Дорога Гейзеров к Острову Джунглей"	"Quest Tourists.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/126/description"	"Этот мост лежал над Долиной гейзеров. Покрытая трещинами земля внизу регулярно выплевывала раскаленные воды и грязь, реже - магму. Туристы дивились такой красоте - тысячам горочек, брызгающих грязным кипятком."	"Quest Tourists.qmm: jumps.126.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/127/text"	"11 - Дорога Гейзеров к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/127/description"	"Этот мост лежал над Долиной гейзеров. Покрытая трещинами земля внизу регулярно выплевывала раскаленные воды и грязь, реже - магму. Туристы дивились такой красоте - тысячам горочек, брызгающих грязным кипятком."	"Quest Tourists.qmm: jumps.127.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/128/text"	"12 - Солевая Дорога к Площадке №7-МХ"	"Quest Tourists.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/128/description"	"Эта дорога-мост, казалось, была покрыта снегом, хотя на самом деле под колесами скрипела чистейшая соль. Тысячи роботов трудились на белых блестящих пластах внизу. Здесь проводилась добыча соли на химические нужды планеты. 
+Туристы громко восторгались увиденным. Похоже, им эта поездка понравилась!"	"Quest Tourists.qmm: jumps.128.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/129/text"	"12 - Солевая Дорога к Золотому Побережью"	"Quest Tourists.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/129/description"	"Эта дорога-мост, казалось, была покрыта снегом, хотя на самом деле под колесами скрипела чистейшая соль. Тысячи роботов трудились на белых блестящих пластах внизу. Здесь проводилась добыча соли на химические нужды планеты. 
+Туристы громко восторгались увиденным. Похоже, им эта поездка понравилась!"	"Quest Tourists.qmm: jumps.129.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/130/text"	"14 - Болотистая дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/130/description"	"Этот мост-дорога лежал над крупным болотом. Огромным, до самого горизонта. По болоту прыгали лягушки размером со львов, ползали змеи по несколько десятков метров длиной... Туристы восхищенно кричали. Пеленги не переставали снимать все, но при этом молчали."	"Quest Tourists.qmm: jumps.130.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/131/text"	"14 - Болотистая дорога к Площадке № 7-МХ"	"Quest Tourists.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/131/description"	"Этот мост-дорога лежал над крупным болотом. Огромным, до самого горизонта. По болоту прыгали лягушки размером со львов, ползали змеи по несколько десятков метров длиной... Туристы восхищенно кричали. Пеленги не переставали снимать все, но при этом молчали."	"Quest Tourists.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/132/text"	"13 - Заснеженная дорога к Золотому побережью"	"Quest Tourists.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/132/description"	"Да, название у этого моста просто замечательное! Внизу - снежная пустыня, а по мосту гуляют ветры, несущие частички льда и снега. Верх у плазмобуса открытый, в салоне сразу стало холодно, туристы зябко ежились, но все же с интересом рассматривали снежную пустыню. Вы ускорили плазмобус, дабы скорее выехать из этой местности."	"Quest Tourists.qmm: jumps.132.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/133/text"	"13 - Заснеженная дорога к Аэропорту-на-Скале"	"Quest Tourists.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/133/description"	"Да, название у этого моста просто замечательное! Внизу - снежная пустыня, а по мосту гуляют ветры, несущие частички льда и снега. Верх у плазмобуса открытый, в салоне сразу стало холодно, туристы зябко ежились, но все же с интересом рассматривали снежную пустыню. Вы ускорили плазмобус, дабы скорее выехать из этой местности."	"Quest Tourists.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/134/text"	"3 - Медовая Дорога к Острову Желтых Песков"	"Quest Tourists.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/134/description"	"Эта дорога была поистине необычайной! Внизу пролегло Великое Медовое Ущелье, до краев наполненное медом, и сам мост был покрыт медом, который лип к колесам. Туристы в изумлении смотрели на это чудо. Вдруг снизу поднялись гигантские рои ос, и набросились на ваш плазмобус! Туристы в ужасе завизжали, вы успели поднять крышу и перегородить выход в салон. Вы-то в безопасности, а вот судя по крикам из салона... Вам стало жаль туристов, вы включили кондиционер, и он выдул всех ос."	"Quest Tourists.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/135/text"	"3 - Медовая Дорога к Аэропорту-на-скале"	"Quest Tourists.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/135/description"	"Эта дорога была поистине необычайной! Внизу пролегло Великое Медовое Ущелье, до краев наполненное медом, и сам мост был покрыт медом, который лип к колесам. Туристы в изумлении смотрели на это чудо. Вдруг снизу поднялись гигантские рои ос, и набросились на ваш плазмобус! Туристы в ужасе завизжали, вы успели поднять крышу и перегородить выход в салон. Вы-то в безопасности, а вот судя по крикам из салона... Вам стало жаль туристов, вы включили кондиционер, и он выдул всех ос."	"Quest Tourists.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/136/text"	"8 - Древняя дорога на Кораллер"	"Quest Tourists.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/136/description"	"Вы поехали по Древней дороге. Этот мост шел совсем низко над землей, и вскоре совсем врезался в зеленую равнину. Вы повели автобус по ней, широкая дорога из плит была хорошо видна. Неожиданно послышался рев, к плазмобусу сбоку подбежали два жутких динозавра. Метров по двадцать в длину, мощные пасти усеяны острыми зубами. К счастью, вы вовремя нажали на ускорение, так что эти твари успели только вырвать кусок металла из борта плазмобуса."	"Quest Tourists.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/137/text"	"8 - Древняя дорога на Остров Желтых Песков"	"Quest Tourists.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/137/description"	"Вы поехали по Древней дороге. Этот мост шел совсем низко над землей, и вскоре совсем врезался в зеленую равнину. Вы повели автобус по ней, широкая дорога из плит была хорошо видна. Неожиданно послышался рев, к плазмобусу сбоку подбежали два жутких динозавра. Метров по двадцать в длину, мощные пасти усеяны острыми зубами. К счастью, вы вовремя нажали на ускорение, так что эти твари успели только вырвать кусок металла из борта плазмобуса."	"Quest Tourists.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/138/text"	"7 - Саванная дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/138/description"	"Этот мост-дорога пролег над прекрасной саванной. Сухая земля, редкие могучие деревца и местная фауна. Внизу бегали какие-то страусовидные животные, медленно ходили крупные хвостатые твари, размером больше земного слона. Туристы все с удовольствием снимали на электронные накопители."	"Quest Tourists.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/139/text"	"7 - Саванная дорога на Кораллер"	"Quest Tourists.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/139/description"	"Этот мост-дорога пролег над прекрасной саванной. Сухая земля, редкие могучие деревца и местная фауна. Внизу бегали какие-то страусовидные животные, медленно ходили крупные хвостатые твари, размером больше земного слона. Туристы все с удовольствием снимали на электронные накопители."	"Quest Tourists.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/140/text"	"5 - Пустынная Дорога к Острову имени Махпеллы"	"Quest Tourists.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/140/description"	"Вы повели автобус по Пустынной дороге. Внизу пролегала мертвая Пустыня Страданий - так она называлась в ""электронном гиде"". Давным-давно в этой пустыне погибло много народу... благодаря стараниям первого диктатора планеты <ToPlanet> - Абу Линкольна Хуссейна. Где он сейчас - никто не знает. Туристы с состраданием разглядывали песчаные барханы. А кондиционер трудился вовсю."	"Quest Tourists.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/141/text"	"6 - Дорога Голубых гор на Остров имени Махпеллы"	"Quest Tourists.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/141/description"	"Мост-дорога пролегал над Голубыми горами. Весьма красивый горный хребет. Горы были подернуты дымкой, и поэтому смотрелись очень загадочно и прекрасно. Туристы восхищались и снимали чудесные виды. А вы упорно жали на ускорение, дабы к ужину успеть проехать по всем мостам."	"Quest Tourists.qmm: jumps.141.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/142/text"	"5 - Пустынная Дорога на Скалу Деревянную"	"Quest Tourists.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/142/description"	"Вы повели автобус по Пустынной дороге. Внизу пролегала мертвая Пустыня Страданий - так она называлась в ""электронном гиде"". Давным-давно в этой пустыне погибло много народу... благодаря стараниям первого диктатора планеты <ToPlanet> - Абу Линкольна Хуссейна. Где он сейчас - никто не знает. Туристы с состраданием разглядывали песчаные барханы. А кондиционер трудился вовсю."	"Quest Tourists.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/143/text"	"6 - Дорога Голубых гор на Скалу Деревянную"	"Quest Tourists.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/143/description"	"Мост-дорога пролегал над Голубыми горами. Весьма красивый горный хребет. Горы были подернуты дымкой, и поэтому смотрелись очень загадочно и прекрасно. Туристы восхищались и снимали чудесные виды. А вы упорно жали на ускорение, дабы к ужину успеть проехать по всем мостам."	"Quest Tourists.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/144/text"	"По коридору r к четвертой комнате"	"Quest Tourists.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/145/text"	"По коридору r к девятой комнате"	"Quest Tourists.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/146/text"	"По коридору b к шестой комнате"	"Quest Tourists.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/147/text"	"По коридору l к третьей комнате"	"Quest Tourists.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/148/text"	"По коридору b к восьмой комнате"	"Quest Tourists.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/149/text"	"По коридору l к девятой комнате"	"Quest Tourists.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/150/text"	"По коридору n ко второй комнате"	"Quest Tourists.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/151/text"	"По коридору p ко второй комнате"	"Quest Tourists.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/152/text"	"По коридору n к третьей комнате"	"Quest Tourists.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/153/text"	"По коридору p к девятой комнате"	"Quest Tourists.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/154/text"	"По коридору f к первой комнате"	"Quest Tourists.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/155/text"	"По коридору f к девятой комнате"	"Quest Tourists.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/156/text"	"По коридору q к седьмой комнате"	"Quest Tourists.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/157/text"	"По коридору q к девятой комнате"	"Quest Tourists.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/158/text"	"По коридору s к восьмой комнате"	"Quest Tourists.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/159/text"	"По коридору s к девятой комнате"	"Quest Tourists.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/160/text"	"По коридору d к шестой комнате"	"Quest Tourists.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/161/text"	"По коридору d к девятой комнате"	"Quest Tourists.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/162/text"	"По коридору j к пятой комнате"	"Quest Tourists.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/163/text"	"По коридору j к девятой комнате"	"Quest Tourists.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/164/text"	"По коридору o ко второй комнате"	"Quest Tourists.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/165/text"	"По коридору o к седьмой комнате"	"Quest Tourists.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/166/text"	"По коридору m к третьей комнате"	"Quest Tourists.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/167/text"	"По коридору m ко второй комнате"	"Quest Tourists.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/168/text"	"По коридору k к четвертой комнате"	"Quest Tourists.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/169/text"	"По коридору k к третьей комнате"	"Quest Tourists.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/170/text"	"По коридору i к пятой комнате"	"Quest Tourists.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/171/text"	"По коридору i к четвертой комнате"	"Quest Tourists.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/172/text"	"По коридору g к шестой комнате"	"Quest Tourists.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/173/text"	"По коридору g к пятой комнате"	"Quest Tourists.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/174/text"	"По коридору e к седьмой комнате"	"Quest Tourists.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/175/text"	"По коридору e к шестой комнате"	"Quest Tourists.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/176/text"	"По коридору c к восьмой комнате"	"Quest Tourists.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/177/text"	"По коридору c к седьмой комнате"	"Quest Tourists.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/178/text"	"По коридору a к восьмой комнате"	"Quest Tourists.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/179/text"	"По коридору a к первой комнате"	"Quest Tourists.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/180/text"	"По коридору h к пятой комнате"	"Quest Tourists.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/181/text"	"По коридору h к первой комнате"	"Quest Tourists.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/182/text"	"По коридору t к первой комнате"	"Quest Tourists.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/183/text"	"По коридору t к четвертой комнате"	"Quest Tourists.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/184/text"	"Да, с удовольствием!"	"Quest Tourists.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/185/text"	"Подняться на первую площадку"	"Quest Tourists.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/185/description"	"Вы поднялись на первую площадку. Рано или поздно она станет и последней... Отсюда идут <clr>синий и красный<clrEnd> мосты. Куда потащим бедных туристов?"	"Quest Tourists.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/186/text"	"Ехать в номер и спать"	"Quest Tourists.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/186/description"	"Вы приехали в номер, разделись, поужинали и легли спать. День был пресыщен событиями, так что вам нужен был отдых. 
+Ночью вам снились какие-то ужасы, туристы, падающие с мостов в пропасть, плазмобус, висящий над бездной, зацепившись бампером за мост... 
+Утром вас разбудили теплые лучи солнца."	"Quest Tourists.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/187/text"	"Проснуться"	"Quest Tourists.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/188/text"	"Проснуться"	"Quest Tourists.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/189/text"	"Ехать на Остров Джунглей"	"Quest Tourists.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/189/description"	"Пока автоводитель уверенно направлял плазмобус по дороге к ""острову"", вы рассматривали карту. Восемь контрольных точек: ""острова"", Золотое Побережье, Скала Камня - крупное горно-породное образование, Аэропорт-на-Скале - расположен на подобном массиве, Площадка №7-МХ - искусственная крупная площадка на пересечении четырех мостов. На востоке начинается океан, но у самого побережья два острова: коралловое нагромождение Кораллер и маленький островок имени Короля Клисан, с резиденцией мэра. 
+Ага, вот вы и доехали! Вы прямо на краю Острова Джунглей. Четыре моста-дороги идут отсюда."	"Quest Tourists.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/190/text"	"Спуститься вниз!"	"Quest Tourists.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/191/text"	"Ехать в город!"	"Quest Tourists.qmm: jumps.191.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/192/text"	"Подойти к пеленгу"	"Quest Tourists.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/193/text"	"Давай, показывай!"	"Quest Tourists.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/194/text"	"Не, это мне не нужно"	"Quest Tourists.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/194/description"	"- Как знаешь, - пожал плечами пеленг. - Только если пойдешь туда, хоронить тебя будут в закрытом гробу.
+Когда вы приехали в номер и легли в кровать, то запоздало подумали, что и не собирались туда идти. Не так ли?"	"Quest Tourists.qmm: jumps.194.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/195/text"	"Поблагодарить пеленга и ехать спать"	"Quest Tourists.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/196/text"	"Уйти отсюда! Все коридоры пройдены!"	"Quest Tourists.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/197/text"	"Я не буду рисковать жизнью ради денег"	"Quest Tourists.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/198/text"	"Рискну! Мы, рейнджеры, любим риск!"	"Quest Tourists.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/199/text"	"Отправиться с туристами в Лабиринт"	"Quest Tourists.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/200/text"	"Расстрелять пеленгов из своего бластера"	"Quest Tourists.qmm: jumps.200.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/201/text"	"Бежать отсюда!"	"Quest Tourists.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/202/text"	"Расстрелять мэра и его людей"	"Quest Tourists.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/203/text"	"Ехать в номер и спать"	"Quest Tourists.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/203/description"	"Вы приехали в номер, разделись, поужинали и легли спать. День был пресыщен событиями, так что вам нужен был отдых. 
+Ночью вам снились какие-то ужасы, туристы, падающие с мостов в пропасть, плазмобус, висящий над бездной, зацепившись бампером за мост... 
+Утром вас разбудили теплые лучи солнца."	"Quest Tourists.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/204/text"	"Не, это мне не нужно"	"Quest Tourists.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/204/description"	"- Как знаешь, - пожал плечами пеленг. - Только если пойдешь туда, хоронить тебя будут в закрытом гробу.
+Когда вы приехали в номер и легли в кровать, то запоздало подумали, что и не собирались туда идти. Не так ли?"	"Quest Tourists.qmm: jumps.204.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/205/text"	"Поблагодарить пеленга и ехать спать"	"Quest Tourists.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/206/text"	"Отказаться"	"Quest Tourists.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/207/text"	"Попросить, чтобы вас выпустили"	"Quest Tourists.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/208/text"	"Идти к мэру"	"Quest Tourists.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Tourists"	""

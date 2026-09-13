@@ -1,0 +1,1135 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Citadels.qmm/parameters/0/name"	"Ход"	"Quest Citadels.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/0/lines/0/content"	"Текущий ход: {1+([p1] div 2)}"	"Quest Citadels.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Citadels.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/1/name"	"Ваша броня"	"Quest Citadels.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/1/lines/0/content"	"<Ranger>:<br>База: <>"	"Quest Citadels.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Citadels.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/2/name"	"Ваш щит"	"Quest Citadels.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/2/lines/0/content"	"Мощность щита: <>"	"Quest Citadels.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Citadels.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/3/name"	"Ваши батареи"	"Quest Citadels.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/3/lines/0/content"	"Энергия (+[p4]): [p7]"	"Quest Citadels.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Citadels.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/4/name"	"Ваши рудники"	"Quest Citadels.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/4/lines/0/content"	"Металл (+[p5]): [p8]"	"Quest Citadels.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Citadels.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/5/name"	"Ваши лаборатории"	"Quest Citadels.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/5/lines/0/content"	"Электроника (+[p6]): [p9]<br>"	"Quest Citadels.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Citadels.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/6/name"	"Ваша энергия"	"Quest Citadels.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/6/lines/0/content"	"Параметр номер 7: <>"	"Quest Citadels.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Citadels.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/7/name"	"Ваш металл"	"Quest Citadels.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/7/lines/0/content"	"Параметр номер 8: <>"	"Quest Citadels.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Citadels.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/8/name"	"Ваша электроника"	"Quest Citadels.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Citadels.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Citadels.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/name"	"С кем игра"	"Quest Citadels.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/1/content"	"Противник: далани Мокус"	"Quest Citadels.qmm: parameters.9.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/2/content"	"Противник: Боб Пацифист"	"Quest Citadels.qmm: parameters.9.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/3/content"	"Противник: Энерго"	"Quest Citadels.qmm: parameters.9.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/4/content"	"Противник: Череп"	"Quest Citadels.qmm: parameters.9.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/5/content"	"Противник: Уляпик"	"Quest Citadels.qmm: parameters.9.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/6/content"	"Противник: Брог"	"Quest Citadels.qmm: parameters.9.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/lines/7/content"	"Противник: Ян Бздышек"	"Quest Citadels.qmm: parameters.9.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Citadels.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/name"	"Флаги (первые четыре - доп. проекты; пятый - состояние игры)"	"Quest Citadels.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/1/content"	"Групповой раунд, {[p11] div 10000 mod 10}-я игра<br>"	"Quest Citadels.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/2/content"	"Спорный матч<br>"	"Quest Citadels.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/3/content"	"Спорный матч<br>"	"Quest Citadels.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/4/content"	"Полуфинал<br>"	"Quest Citadels.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/5/content"	"Игра за третье место<br>"	"Quest Citadels.qmm: parameters.10.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/lines/6/content"	"Финал<br>"	"Quest Citadels.qmm: parameters.10.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Citadels.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/11/name"	"Деньги игрока"	"Quest Citadels.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/11/lines/0/content"	"Деньги игрока: <>"	"Quest Citadels.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Citadels.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/12/name"	"Первый десяток"	"Quest Citadels.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/12/lines/0/content"	"1: <>"	"Quest Citadels.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Citadels.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/13/name"	"Второй десяток"	"Quest Citadels.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/13/lines/0/content"	"2: <>"	"Quest Citadels.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Citadels.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/14/name"	"Третий десяток"	"Quest Citadels.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/14/lines/0/content"	"3: <>"	"Quest Citadels.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Citadels.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/15/name"	"Четвертый десяток"	"Quest Citadels.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/15/lines/0/content"	"4: <>"	"Quest Citadels.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Citadels.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/16/name"	"Броня противника"	"Quest Citadels.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/16/lines/0/content"	"База: <>"	"Quest Citadels.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Citadels.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/17/name"	"Щит противника"	"Quest Citadels.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/17/lines/0/content"	"Мощность щита: <>"	"Quest Citadels.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Citadels.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/18/name"	"Батареи противника"	"Quest Citadels.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/18/lines/0/content"	"Энергия (+[p19]): [p22]"	"Quest Citadels.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Citadels.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/19/name"	"Рудники противника"	"Quest Citadels.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/19/lines/0/content"	"Металл (+[p20]): [p23]"	"Quest Citadels.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Citadels.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/20/name"	"Лаборатории противника"	"Quest Citadels.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/20/lines/0/content"	"Электроника (+[p21]): [p24]"	"Quest Citadels.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Citadels.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/21/name"	"Энергия противника"	"Quest Citadels.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Citadels.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Citadels.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/name"	"Металл противника"	"Quest Citadels.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/0/content"	"<br>Вы задумались: +---------"	"Quest Citadels.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/1/content"	"<br>Вы задумались: -+--------"	"Quest Citadels.qmm: parameters.22.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/2/content"	"<br>Вы задумались: --+-------"	"Quest Citadels.qmm: parameters.22.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/3/content"	"<br>Вы задумались: ---+------"	"Quest Citadels.qmm: parameters.22.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/4/content"	"<br>Вы задумались: ----+-----"	"Quest Citadels.qmm: parameters.22.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/5/content"	"<br>Вы задумались: -----+----"	"Quest Citadels.qmm: parameters.22.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/6/content"	"<br>Вы задумались: ------+---"	"Quest Citadels.qmm: parameters.22.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/7/content"	"<br>Вы задумались: -------+--"	"Quest Citadels.qmm: parameters.22.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/8/content"	"<br>Вы задумались: --------+-"	"Quest Citadels.qmm: parameters.22.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/lines/9/content"	"<br>Вы задумались: ---------+"	"Quest Citadels.qmm: parameters.22.lines.9.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Citadels.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/23/name"	"Электроника противника (кол-во проектов+буфер для остальных дел)"	"Quest Citadels.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/23/lines/0/content"	"Загружено проектов: <>"	"Quest Citadels.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Citadels.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/name"	"Первый игрок"	"Quest Citadels.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/1/content"	"Первая группа<br>далани Мокус: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/2/content"	"Первая группа<br>Боб Пацифист: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/3/content"	"Первая группа<br>Энерго: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/4/content"	"Первая группа<br>Череп: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/5/content"	"Первая группа<br>Уляпик: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/6/content"	"Первая группа<br>Брог: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/7/content"	"Первая группа<br>Ян Бздышек: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/lines/8/content"	"Первая группа<br><Ranger>: {[p25] mod 1000}"	"Quest Citadels.qmm: parameters.24.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Citadels.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/name"	"Второй игрок"	"Quest Citadels.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/1/content"	"далани Мокус: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/2/content"	"Боб Пацифист: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/3/content"	"Энерго: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/4/content"	"Череп: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/5/content"	"Уляпик: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/6/content"	"Брог: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/7/content"	"Ян Бздышек: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/lines/8/content"	"<Ranger>: {[p26] mod 1000}"	"Quest Citadels.qmm: parameters.25.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Citadels.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/name"	"Третий игрок"	"Quest Citadels.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/1/content"	"далани Мокус: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/2/content"	"Боб Пацифист: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/3/content"	"Энерго: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/4/content"	"Череп: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/5/content"	"Уляпик: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/6/content"	"Брог: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/7/content"	"Ян Бздышек: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/lines/8/content"	"<Ranger>: {[p27] mod 1000}"	"Quest Citadels.qmm: parameters.26.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Citadels.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/name"	"Четвертый игрок"	"Quest Citadels.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/1/content"	"далани Мокус: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/2/content"	"Боб Пацифист: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/3/content"	"Энерго: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/4/content"	"Череп: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/5/content"	"Уляпик: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/6/content"	"Брог: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/7/content"	"Ян Бздышек: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/lines/8/content"	"<Ranger>: {[p28] mod 1000}"	"Quest Citadels.qmm: parameters.27.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Citadels.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/name"	"Пятый игрок"	"Quest Citadels.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/1/content"	"Вторая группа<br>далани Мокус: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/2/content"	"Вторая группа<br>Боб Пацифист: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/3/content"	"Вторая группа<br>Энерго: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/4/content"	"Вторая группа<br>Череп: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/5/content"	"Вторая группа<br>Уляпик: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/6/content"	"Вторая группа<br>Брог: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/7/content"	"Вторая группа<br>Ян Бздышек: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/lines/8/content"	"Вторая группа<br><Ranger>: {[p29] mod 1000}"	"Quest Citadels.qmm: parameters.28.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Citadels.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/name"	"Шестой игрок"	"Quest Citadels.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/1/content"	"далани Мокус: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/2/content"	"Боб Пацифист: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/3/content"	"Энерго: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/4/content"	"Череп: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/5/content"	"Уляпик: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/6/content"	"Брог: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/7/content"	"Ян Бздышек: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/lines/8/content"	"<Ranger>: {[p30] mod 1000}"	"Quest Citadels.qmm: parameters.29.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Citadels.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/name"	"Седьмой игрок"	"Quest Citadels.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/1/content"	"далани Мокус: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/2/content"	"Боб Пацифист: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/3/content"	"Энерго: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/4/content"	"Череп: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/5/content"	"Уляпик: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/6/content"	"Брог: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/7/content"	"Ян Бздышек: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/lines/8/content"	"<Ranger>: {[p31] mod 1000}"	"Quest Citadels.qmm: parameters.30.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Citadels.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/name"	"Восьмой игрок"	"Quest Citadels.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/1/content"	"далани Мокус: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.1.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/2/content"	"Боб Пацифист: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.2.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/3/content"	"Энерго: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.3.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/4/content"	"Череп: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.4.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/5/content"	"Уляпик: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.5.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/6/content"	"Брог: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.6.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/7/content"	"Ян Бздышек: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.7.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/lines/8/content"	"<Ranger>: {[p32] mod 1000}"	"Quest Citadels.qmm: parameters.31.lines.8.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Citadels.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/32/name"	"Буфер очков 1"	"Quest Citadels.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/32/lines/0/content"	"Параметр номер 33: <>"	"Quest Citadels.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Citadels.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/33/name"	"Буфер очков 2"	"Quest Citadels.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest Citadels.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Citadels.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/34/name"	"Первый полуфиналист (и номер игрока 1)"	"Quest Citadels.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest Citadels.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Citadels.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/35/name"	"Второй полуфиналист (и номер игрока 2)"	"Quest Citadels.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest Citadels.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Citadels.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/36/name"	"вывод"	"Quest Citadels.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Citadels.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/37/name"	"x"	"Quest Citadels.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Citadels.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/tostar"	"Шмяковка"	"Quest Citadels.qmm: tostar. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/toplanet"	"Шмяк"	"Quest Citadels.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/fromplanet"	"Бум"	"Quest Citadels.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/fromstar"	"Бумбуровка"	"Quest Citadels.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/ranger"	"Рагнар"	"Quest Citadels.qmm: ranger. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/success_text"	"<Ranger>, отличная работа! Честно говоря, мы и не думали, что вы справитесь. Однако все прошло как нельзя лучше! Вы достойно представили нашу планету на чемпионате по Цитаделям и в полной мере заслужили награду в <Money> cr."	"Quest Citadels.qmm: success_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/task_text"	"На планете <ToPlanet> звездной системы <ToStar> проводится чемпионат по интеллектуальной игре Цитадели. Наша планета, как родина этой игры, всегда участвовала в чемпионатах подобного рода. 
+
+Но в этом году разразился скандал. Дисквалифицированного за нечестную игру Уляпика допустили к соревнованиям. Представляете?! Ничего вы не представляете! Это чудовищная несправедливость! Гм... Простите. Так вот. Неудивительно, что наш чемпион - Головаа - отказался от участия и покинул планету проведения соревнований. Вслед за ним все игроки на нашей планете объявили бойкот чемпионату. 
+
+И теперь мы оказались в щекотливой ситуации. Сами понимаете - <FromPlanet> как родина Цитаделей, не может пропустить соревнования. Мы бы могли договорится с игроком другой планеты, но на это просто нет времени... Поэтому мы решили обратиться к вам. Примете участие в чемпионате? 
+
+Для этого вы должны не позднее <Date> прибыть на планету <ToPlanet>, где вас встретит наш представитель Гарик Наливайко. Он даст вам все необходимое для участия в соревнованиях. В случае успеха (а успехом будет считаться первое, второе или хотя бы третье место) вы получите награду в <Money> cr. 
+
+Ну как? Согласны?"	"Quest Citadels.qmm: task_text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/0/texts/0/text"	"Режим <clr>ОТКЛОНЕНИЯ<clrEnd> - гласила надпись на голографическом табло.
+Ниже сноска: ""Помните - чтобы продолжить игру нужно либо реализовать какой-либо проект, либо отклонить один из имеющихся в наличии""."	"Quest Citadels.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/2/texts/0/text"	"Режим <clr>РЕАЛИЗАЦИИ<clrEnd> - гласила надпись на голографическом табло."	"Quest Citadels.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/33/texts/0/text"	"Вы стоите посреди зала, в котором проводятся соревнования. Ваш противник уже определен, но игра, судя по всему, начнется лишь минут через пять-десять, так что можно еще успеть поговорить с Гариком. Особенно стоит расспросить его о правилах игры, так как Цитадели, похоже, штука весьма сложная."	"Quest Citadels.qmm: locations.33.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/33/texts/1/text"	"Вы стоите посреди зала, в котором проводятся соревнования. Ваш противник уже определен, но игра, судя по всему, начнется лишь минут через пять-десять, так что можно еще успеть поговорить с Гариком. Вон он - стоит у электронного табло."	"Quest Citadels.qmm: locations.33.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/33/texts/2/text"	"Лишь только вы отошли от стола, как со сцены начал говорить ведущий:
+
+- Поразительно, дамы и господа! Наш дебютант <Ranger> вышел в финал и теперь будет играть с <clr>далани Мокусом<clrEnd>! Будем следить за развитием событий."	"Quest Citadels.qmm: locations.33.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/33/texts/3/text"	"Вы стояли посреди зала, ожидая дальнейшего развития событий. Вдруг кто-то тронул вас за плечо. Это оказался судья:
+
+- Вы проиграли, и теперь будете должны сыграть с другим участником, проигравшим в плей-оффе, <clr>матч за третье место<clrEnd>. Поторопитесь занять отведенный вам стол."	"Quest Citadels.qmm: locations.33.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/34/texts/0/text"	"- Ну что? Есть какие-нибудь вопросы? Кстати, у меня есть прибор для конфигурирования куба. Пользуйся, если хочешь, - сказал Гарик."	"Quest Citadels.qmm: locations.34.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/0/text"	"- О ком ты хочешь узнать? - осведомился Гарик."	"Quest Citadels.qmm: locations.36.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/1/text"	"- Очень неудобный для противника игрок. Страшно боится проиграть и потому усиленно увеличивает <clr>броню и энергию щита<clrEnd>. Ну а потом, укрепив свои позиции, начинает атаковать. Обычно дело сводится к <clr>ничьей<clrEnd>, что не очень приятно на чемпионате. Но может и победить. Так что играй внимательно. Можно попробовать взять его атомной ракетой, когда его база достаточно слаба для ядерного удара."	"Quest Citadels.qmm: locations.36.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/2/text"	"- Этот далани очень серьезен. Один раз был чемпионом, обойдя самого Головуу! А это много значит, скажу я тебе. Любит всякие штучки, требующие <clr>электронику<clrEnd>. Потому воздвигает лаборатории. Так что против него можно применить кибернетических разведчиков, когда он понастроит достаточно лабораторий."	"Quest Citadels.qmm: locations.36.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/3/text"	"- Этот фэянин работает наладчиком пси-энергии на электростанции, а потому обожает <clr>энергию<clrEnd> и все, что с ней связано. Сносный игрок, с ним нужно просто грамотно играть. Думаю, с таким кубом у тебя есть довольно приличные шансы на победу."	"Quest Citadels.qmm: locations.36.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/4/text"	"- Металлюга до мозга костей. Поэтому играет в основном проекты на <clr>металле<clrEnd>. Несмотря на его стальные прибамбасы и выпендреж, играет очень сильно. Думаю, тебе будет трудно справиться с ним. Хотя, говорят, пару раз его без проблем уделали, применив атомную ракету. Возможно, тебе стоит попробовать эту тактику в борьбе с Черепом."	"Quest Citadels.qmm: locations.36.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/5/text"	"- Значит так. Уляпик довольно слабый игрок, но зато <clr>мухлюет<clrEnd>. Скандалов с ним связано куча. Наверное, слышал, что его хотели не допустить до чемпионата из-за мухлежа, но он все равно каким-то образом пролез. Хотя, говорят, что с новой системой защиты он не сможет жульничать как в старые времена. Но все же накидывать себе немного лишних ресурсов сможет - опытные игроки подмечали за ним такое пару раз. Но это все мелочи (по сравнению с прошлыми его подвигами), так что, думаю, у тебя с ним не будет особых проблем."	"Quest Citadels.qmm: locations.36.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/6/text"	"- Типичный малок, <clr>атакует<clrEnd> при первой же возможности. Как правило, быстро растрачивает все ресурсы и потом вынужден пропускать ходы. Так что если ты сдержишь первый натиск, то считай, что 3 очка у тебя уже в кармане."	"Quest Citadels.qmm: locations.36.texts.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/36/texts/7/text"	"- Вообще-то это хороший игрок. Часто западает на всякие штучки. Вот сейчас к пацифизму прикололся. ""Нет войне!"" и все такое. Но, судя по старым играм, Боб парень коварный. Так что будь осторожен."	"Quest Citadels.qmm: locations.36.texts.7.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/38/texts/0/text"	"Гарик начал показывать вам какие-то микросхемки, объяснять их функциональность и называть цены. Вы поняли, что можете установить (или не устанавливать) себе какие-нибудь проекты из тех, что указаны в списке. После чего их можно будет добавить в боевой набор, сконфигурировав куб нужным образом."	"Quest Citadels.qmm: locations.38.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/38/texts/1/text"	"- Приятель. Я установил тебе уже все свои дополнительные проекты. Больше ничего нового добавить не могу. Так что извиняй, - сказал Гарик."	"Quest Citadels.qmm: locations.38.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/38/texts/2/text"	"Орудуя каким-то ржавым паяльником, Гарик быстренько установил в ваш куб небольшую микросхему.
+
+ - Ещё что-нибудь надо? - спросил он."	"Quest Citadels.qmm: locations.38.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/38/texts/3/text"	"Орудуя каким-то ржавым паяльником, Гарик быстренько установил в ваш куб небольшую микросхему.
+
+- Это мой последний дополнительный проект. Больше ничего нового я добавить не смогу. Так что извиняй, - сказал Гарик."	"Quest Citadels.qmm: locations.38.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/44/texts/0/text"	"Меню УДАЛЕНИЯ проектов."	"Quest Citadels.qmm: locations.44.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/45/texts/0/text"	"Меню ДОБАВЛЕНИЯ проектов."	"Quest Citadels.qmm: locations.45.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/46/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.46.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/48/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.48.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/50/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.50.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/52/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.52.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/54/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.54.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/56/texts/0/text"	"Какой проект <clr>удалить<clrEnd>?"	"Quest Citadels.qmm: locations.56.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/58/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.58.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/60/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.60.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/63/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.63.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/65/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.65.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/67/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.67.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/68/texts/0/text"	"Какой проект <clr>добавить<clrEnd>?"	"Quest Citadels.qmm: locations.68.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/70/texts/0/text"	"МОРФ (TM) - прибор для редактирования кубов.
+
+Меню:"	"Quest Citadels.qmm: locations.70.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/70/texts/1/text"	"МОРФ (TM) - прибор для редактирования кубов.
+
+Меню:
+
+<clr>Завершение редактирования невозможно<clrEnd>. В куб должно быть загружено ровно 15 проектов!"	"Quest Citadels.qmm: locations.70.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/0/text"	"- И о чем ты хочешь меня спросить? - осведомился Гарик."	"Quest Citadels.qmm: locations.72.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/1/text"	"- Подключаешь куб к Морфу и работаешь. Вроде там все предельно понятно. Главное, в кубе должно быть ровно 15 проектов по завершении работы, потому что твой куб сделан по стандарту Шарп. Есть еще Дупп и Смарт, которые значительно отличаются от Шарпа. Владельцы кубов, сделанных по этим стандартам, тоже участвуют в чемпионате. Хотя, зачем я тебе это рассказываю... Лучше вернемся к самим конфигурациям - тут уж ты сам смотри, какие проекты мешают тебе играть. Замени их на более приемлемые для твоей тактики и в бой!"	"Quest Citadels.qmm: locations.72.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/2/text"	"Участники разбиваются на две группы по четыре игрока. В группе каждый участник играет с каждым (всего получается <clr>три<clrEnd> игры). За победу дают <clr>3<clrEnd> очка, за ничью <clr>1<clrEnd>. А дальше по очкам в плей-офф выходят по два лучших игрока из каждой группы (в случае равенства очков судьи могут назначить спорный матч), которые играют за первые четыре места на вылет."	"Quest Citadels.qmm: locations.72.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/3/text"	"- Куб серьезный. Проекты в него зашиты приличные. Да еще возможность конфигурации... В умелых руках штука очень сильная."	"Quest Citadels.qmm: locations.72.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/4/text"	"Конечно, есть! В Цитаделях 70% победы дает именно конфигурация куба. Главное, не тупи, и все получится."	"Quest Citadels.qmm: locations.72.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/5/text"	"- Хе-хе. А ты что, не знаешь? - язвительно спросил Гарик. - Молчишь... Ну, тогда слушай. ""Эн"" обозначает энергию, ""Ме"" - металл, а ""Эле"" - электронику. Обычно эти сокращения используют в описаниях проектов, чтобы указать, сколько энергии, металла и электроники требуется потратить для реализации проекта. А значок ""->"" означает, что атака осуществляется прямолинейно. То есть сначала удар приходится по энергетическому щиту врага, а затем только (после полного уничтожения щита) оставшиеся единицы повреждений наносятся непосредственно базе противника."	"Quest Citadels.qmm: locations.72.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/72/texts/6/text"	"- Ну и ну! - воскликнул Гарик. - Пришел на игру и не знаешь, что это такое. Ну ладно, слушай... 
+
+Цитадели - голографическая игра, рассчитанная на двух человек. У каждого из игроков есть база с предприятиями по производству ресурсов. Это батареи для производства энергии, рудники для добычи и отлива металла, а также лаборатории для создания электроники. 
+
+Каждый ход предприятия производят ресурсы, с помощью которых игрок может реализовать один из семи своих проектов. Например, ракетный град или пчелы-камикадзе. Реализованный проект осуществляет некоторое действие, и ход переходит к противнику. 
+
+Так происходит до тех пор, пока у одного из игроков броня базы не сведется к нулю (в этом случае игрок проигрывает), или пока каждый игрок не сделает по <clr>30 ходов<clrEnd> (в результате чего объявляется ничья по времени). 
+
+Кстати - каждый ход игрок получает новый проект, который придумывает его куб, выполняющий в игре роль генератора идей. Таким образом, у игрока на руках всегда находится семь проектов. 
+
+Вот и все, в общих чертах."	"Quest Citadels.qmm: locations.72.texts.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/82/texts/0/text"	"Через поисковую систему вы с легкостью нашли номер стереофона Гарика Наливайко. Спустя час вы уже стояли с ним возле большого серого здания с неоновой надписью ""Межпланетный спортивный центр"". Гарик передал вам небольшой серебристого цвета кубик и объяснил, как зарегистрироваться в качестве участника. 
+
+- Если будут какие-то вопросы по Цитаделям - обращайся, помогу. Найти меня можно прямо на чемпионате, - сказал он напоследок. 
+
+Поблагодарив его, вы без проблем зарегистрировались и отправились в зал проведения чемпионатов. Им оказалось огромное помещение с десятком столов, сценой и внушительным цифровым табло. Пока народу здесь было немного. Лишь пара человек в рабочей одежде сидели за одним из столов. Нажимая на голографические кнопки, они создавали различные красивые эффекты, отображающиеся над столешницей. Похоже, они занимаются тестированием стола для игры в Цитадели. Гм. Кажется, управление игрой мало чем отличается от управления теми же поисковыми системами. Этот факт несколько поднял ваш боевой дух. 
+
+Продолжая наблюдать за игрой, вы и не заметили, как зал наполнился народом. Вот уже и напомаженный парень в белом костюме поднялся на сцену.
+
+- Попрошу всех участников на сцену, - продекламировал человек в белом (по всем признакам ведущий). - Мы начинаем!"	"Quest Citadels.qmm: locations.82.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/83/texts/0/text"	"- Уважаемые зрители, - начал ведущий, дождавшись, когда на сцену поднимутся все участники. - Мы рады приветствовать вас на Баламууте - знаменитом межпланетном чемпионате по нашей любимой игре Цитадели! - зал взорвался аплодисментами. - Я не буду затягивать процедуру открытия, потому что все мы ждем одного. Игры! -
+бурные, продолжительные овации. - И потому я сразу начну представлять наших участников.
+
+1. Далани Мокус! - зрителям поклонился худосочный фэянин. Одет строго и немного щурится.
+2. Боб Пацифист - им оказался пестро одетый человек. Волосы его были заплетены в несчетное количество косичек.
+3. Энерго - фэянин в золотистом костюме помахал зрителям рукой.
+4. Череп - им оказался человек в кожаной куртке с несметным количеством всевозможных цепей и заклепок, висящих где не попадя.
+5. Уляпик - подпрыгнув, веселый пеленг поднял вверх все свои четыре руки.
+6. Брог - здоровенный малок что-то прокричал толпе.
+7. Ян Бздышек - низенький полноватый человек робко улыбнулся зрителям.
+8. <Ranger> - вы тоже помахали всем рукой, с видом космонавта-первопроходца, приготовившегося к полету.
+
+Ведущий продолжил: 
+- Вижу ваше недоумение. Дело в том, что прославленный чемпион Головаа не смог приехать к нам в этот раз. И заменять его решился <Ranger>. Надеемся, что он не посрамит родину нашей любимой игры. Ну что ж. Теперь наши участники спускаются в зал, а мы переходим к процедуре жеребьевки и определения первых пар играющих."	"Quest Citadels.qmm: locations.83.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/103/texts/0/text"	"Вы не набрали достаточное количество очков для выхода в плей-офф. Придется вам покинуть планету <ToPlanet> ни с чем. Ваша миссия провалена."	"Quest Citadels.qmm: locations.103.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/107/texts/0/text"	"Вы проиграли спорный матч и теперь выбываете из борьбы. Что ж. Возможно, в другой день вам бы удалось победить, но не в этот. Ваша миссия провалена."	"Quest Citadels.qmm: locations.107.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/108/texts/0/text"	"Вы проиграли, а значит, занимаете <clr>четвертое место<clrEnd>. Эх. А призовое место было так близко! 
+
+Пожалуй, пора покинуть место проведения чемпионата. Ваша миссия провалена."	"Quest Citadels.qmm: locations.108.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/0/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале <clr>далани Мокус<clrEnd> сенсационно проиграл <clr>Бобу Пацифисту<clrEnd>. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>Боб Пацифист<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/1/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале <clr>далани Мокус<clrEnd> легко переиграл <clr>Энерго<clrEnd>. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>Энерго<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/2/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале <clr>далани Мокус<clrEnd> и <clr>Череп<clrEnd> продемонстрировали красивейшую игру, но победа в итоге досталась фэянину. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>Череп<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/3/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале все жульнические уловки <clr>Уляпика<clrEnd> оказались бессильными перед мастерством <clr>далани Мокуса<clrEnd>. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>Уляпик<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/4/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале <clr>далани Мокус<clrEnd> разгромил <clr>Брога<clrEnd> за [7..12] ходов, установив рекорд по самой быстрой победе в финальном матче. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>Брог<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/109/texts/5/text"	"Вы победили, а значит, обеспечили себе <clr>третье место<clrEnd>! В финале после [2..4]-х часов упорной борьбы <clr>далани Мокус<clrEnd> сумел-таки взломать оборону <clr>Яна Бздышека<clrEnd>. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>Ян Бздышек<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, <clr>третье<clrEnd> место занял <Ranger>, который получает премию в <clr>500<clrEnd> cr!
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.109.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/0/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Боб Пацифист<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/1/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Энерго<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/2/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Череп<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/3/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Уляпик<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/4/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Брог<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/110/texts/5/text"	"Вы проиграли финальный матч, но это не помешало вам занять второе место. Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+Первое место занял <clr>далани Мокус<clrEnd>, который получает премию в 2.000 cr и звание чемпиона Галактики этого года!
+
+<clr>Второе<clrEnd> место занял <Ranger>, который получает премию в <clr>1.000<clrEnd> cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Ян Бздышек<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.110.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/0/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Боб Пацифист<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/1/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Энерго<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/2/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Череп<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/3/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Уляпик<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/4/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Брог<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/111/texts/5/text"	"Невероятно!!! Вы победили в финале и стали чемпионом Галактики с первой же попытки! Даже легендарный Головаа занял первое место лишь со второго раза! Через некоторое время ведущий пригласил вас на церемонию награждения, где и был оглашен окончательный итог соревнований:
+
+<clr>Первое<clrEnd> место занял <Ranger>, который получает премию в <clr>2.000<clrEnd> cr и звание чемпиона Галактики этого года!
+
+Второе место занял <clr>далани Мокус<clrEnd>, который получает премию в 1.000 cr и звание вице-чемпиона Галактики этого года!
+
+Наконец, третье место занял <clr>Ян Бздышек<clrEnd>, который получает премию в 500 cr.
+
+Потом были речи, поздравления, интервью и банкет, но все подробности почему-то стерлись из вашей памяти. Очнулись вы наутро в своем собственном корабле. Однако самое главное вы все-таки помнили: ваша миссия выполнена, и вы можете возвращаться на планету <FromPlanet> за своей наградой в <Money> cr."	"Quest Citadels.qmm: locations.111.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/0/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Череп<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Энерго<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/1/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Энерго<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/2/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Энерго<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/3/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Энерго<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/4/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Череп<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/5/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Череп<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/6/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Череп<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/7/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Уляпик<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Уляпик<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.7.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/8/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Уляпик<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Уляпик<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.8.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/118/texts/9/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Брог<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Брог<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.118.texts.9.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/0/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Энерго<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Боб Пацифист<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/1/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Череп<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Боб Пацифист<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/2/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Боб Пацифист<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/3/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Боб Пацифист<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/4/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Боб Пацифист<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/5/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Энерго<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Энерго<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/6/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Череп<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Череп<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/7/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Уляпик<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.7.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/8/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Брог<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.8.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/119/texts/9/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Боб Пацифист<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Ян Бздышек<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.119.texts.9.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/0/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Череп<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Череп<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/1/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Уляпик<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/2/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Брог<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/3/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Энерго<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Ян Бздышек<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/4/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Уляпик<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Уляпик<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/5/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Брог<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/6/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Череп<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Ян Бздышек<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/7/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Уляпик<clrEnd>, <clr>Брог<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Брог<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.7.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/8/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Уляпик<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Ян Бздышек<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.8.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/locations/121/texts/9/text"	"- Итак, групповой турнир завершен! - провозгласил ведущий. - В плей-офф вышли <clr>далани Мокус<clrEnd>, <clr>Брог<clrEnd>, <clr>Ян Бздышек<clrEnd> и <Ranger>!
+
+Вскоре состоялась жеребьевка полуфиналов. Вашим следующим соперником будет <clr>Ян Бздышек<clrEnd>.
+
+У вас еще есть время поговорить с Гариком."	"Quest Citadels.qmm: locations.121.texts.9.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/0/text"	"Отклонить: Пожиратели энергии. Эн: 3, Ме: 4, Эле: 6. Эффекты: Враг -> 7. Каждая уничтоженная единица щита врага увеличивает на 1 вашу энергию"	"Quest Citadels.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/1/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/2/text"	"Отклонить: Гусеничные киборги. Ме: 8, Эле: 7. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/3/text"	"Отклонить: Энергоэлементалы. Эн: 10, Эле: 5. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/4/text"	"Отклонить: Телекинетический взрыв. Эн: 2, Ме: 2, Эле: 2. Эффекты: База врага -3"	"Quest Citadels.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/5/text"	"Отклонить: Металл в энергию. Ме: 8. Эффекты: Энергия +7"	"Quest Citadels.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/6/text"	"Отклонить: Магнитные воры. Эн: 5, Эле: 5. Эффекты: Кража у врага до 5 металла и передача его вам"	"Quest Citadels.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/7/text"	"Отклонить: Самонаводящиеся крылатые ракеты. Эн: 8, Ме: 2, Эле: 5. Эффекты: Если ваш щит равен 0, то Враг -> 13, иначе Враг -> 7"	"Quest Citadels.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/8/text"	"Отклонить: Пчелы-камикадзе. Эле: 8. Эффекты: Враг -> 8"	"Quest Citadels.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/9/text"	"Отклонить: Ховерлетный гнет. Эн: 6, Ме: 8, Эле: 4. Эффекты: Враг -> 15"	"Quest Citadels.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/10/text"	"Отклонить: Блок прямого преобразования энергии. Ме: 10, Эле: 8, Батареи: 1. Эффекты: ваши рудники +2, ваши батареи -1"	"Quest Citadels.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/11/text"	"Отклонить: Ракетный град. Эн: 9, Ме: 7. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/12/text"	"Отклонить: Тотальный ремонт. Эн: 15, Ме: 15. Эффекты: ваш щит +15, ваша база +12"	"Quest Citadels.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/13/text"	"Отклонить: Налет бомбардировщиков. Эн: 10, Ме: 5, Эле: 2. Эффекты: Враг -> 14"	"Quest Citadels.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/14/text"	"Отклонить: Экономные ремонтники. Ме: 6. Эффекты: Сжигая до четырех единиц вашего энергетического щита, увеличивают броню на вдвое большее количество единиц, чем сожгли"	"Quest Citadels.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/15/text"	"Отклонить: Сборочный блок. Эн: 5, Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/16/text"	"Отклонить: Магнитные штурмовики. Эле: 7. Эффекты: Щит противника -7. Если щит врага меньше 7 при атаке, то он теряет 3 единицы электроники"	"Quest Citadels.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/17/text"	"Отклонить: Солнечные батареи. Ме: 11, Эле: 3. Эффекты: ваши батареи +1"	"Quest Citadels.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/18/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/19/text"	"Отклонить: Роботы-шахтеры. Эн: 4, Эле: 9. Эффекты: ваш рудник +1"	"Quest Citadels.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/20/text"	"Отклонить: Кибернетические разведчики. Эн: 3, Ме: 3, Эле: 6. Эффекты: Количество ваших лабораторий приравнивается к количеству лабораторий врага"	"Quest Citadels.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/21/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/22/text"	"Отклонить: Атомная ракета. Эн: 30, Ме: 12, Эле: 2. Эффекты: Враг -> 49, вы -> 20"	"Quest Citadels.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/23/text"	"Отклонить: Усиление щита. Эн: 5. Эффекты: ваш щит +6"	"Quest Citadels.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/24/text"	"Отклонить: Комплекс Добыча-Производство. Эн: 9, Ме: 12, Эле: 6. Эффекты: ваш рудник +1, ваши лаборатории +1"	"Quest Citadels.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/25/text"	"Отклонить: Танковая атака. Эн: 5, Ме: 10. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/26/text"	"Отклонить: Диверсанты. Эн: 2, Ме: 5, Эле: 7. Эффекты: Если у врага больше 2 рудников, то он теряет один рудник"	"Quest Citadels.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/27/text"	"Отклонить: Ремонтники. Ме: 7, Эле: 2. Эффекты: ваша база +9"	"Quest Citadels.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/28/text"	"Отклонить: Стальной крот-минер. Эн: 3, Ме: 10, Эле: 3. Эффекты: Вражеская база -7"	"Quest Citadels.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/29/text"	"Отклонить: Энергоблок. Эн: 7, Ме: 2. Эффекты: ваш щит +10"	"Quest Citadels.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/30/text"	"Отклонить: Дикобразы. Ме: 5. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/31/text"	"Отклонить: Энергетические паразиты. Ме: 3, Эле: 10. Эффекты: Вражеский щит -12"	"Quest Citadels.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/32/text"	"Отклонить: Интеллектуальный навар брони. Ме: 5, Эле: 8. Эффекты: ваша база +12"	"Quest Citadels.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/33/text"	"Отклонить: Плазменный таран. Эн: 20. Эффекты: Вражеский щит -10, Вражеская база -10"	"Quest Citadels.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/34/text"	"Отклонить: Пауки. Ме: 7, Эле: 4. Эффекты: Если энергия щита противника равна нулю, то база противника -11"	"Quest Citadels.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/35/text"	"Отклонить: Лазерный удар. Эн: 6. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/36/text"	"Отклонить: Мотыльки. Эн: 5, Эле: 3. Эффекты: Сжигая до 7 единиц вашего щита, наносят урон щиту противника, равный 1+2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/37/text"	"Отклонить: Ниндзя-киборги. Эн: 2, Ме: 1, Эле: 5. Эффекты: Враг -> 7"	"Quest Citadels.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/38/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/39/text"	"Отклонить: Тротиловая ракета. Эн: 17, Ме: 5. Эффекты: Враг -> 25, вы -> 10"	"Quest Citadels.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/40/text"	"Пожиратели энергии. Эн: 3, Ме: 4, Эле: 6. Эффекты: Враг -> 7. Каждая уничтоженная единица щита врага увеличивает на 1 вашу энергию"	"Quest Citadels.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/41/text"	"Гусеничные киборги. Ме: 8, Эле: 7. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/42/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/43/text"	"Телекинетический взрыв. Эн: 2, Ме: 2, Эле: 2. Эффекты: База врага -3"	"Quest Citadels.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/44/text"	"Энергоэлементалы. Эн: 10, Эле: 5. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/45/text"	"Магнитные воры. Эн: 5, Эле: 5. Эффекты: Кража у врага до 5 металла и передача его вам"	"Quest Citadels.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/46/text"	"Металл в энергию. Ме: 8. Эффекты: Энергия +7"	"Quest Citadels.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/47/text"	"Пчелы-камикадзе. Эле: 8. Эффекты: Враг -> 8"	"Quest Citadels.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/48/text"	"Самонаводящиеся крылатые ракеты. Эн: 8, Ме: 2, Эле: 5. Эффекты: Если ваш щит равен 0, то Враг -> 13, иначе Враг -> 7"	"Quest Citadels.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/49/text"	"Блок прямого преобразования энергии. Ме: 10, Эле: 8 Батареи: 1. Эффекты: ваши рудники +2, ваши батареи -1"	"Quest Citadels.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/50/text"	"Ховерлетный гнет. Эн: 6, Ме: 8, Эле: 4. Эффекты: Враг -> 15"	"Quest Citadels.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/51/text"	"Тотальный ремонт. Эн: 15, Ме: 15. Эффекты: ваш щит +15, ваша база +12"	"Quest Citadels.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/52/text"	"Ракетный град. Эн: 9, Ме: 7. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/53/text"	"Экономные ремонтники. Ме: 6. Эффекты: Сжигая до четырех единиц вашего щита увеличивают броню на 2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/54/text"	"Налет бомбардировщиков. Эн: 10, Ме: 5, Эле: 2. Эффекты: Враг -> 14"	"Quest Citadels.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/55/text"	"Магнитные штурмовики. Эле: 7. Эффекты: Щит противника -7. Если щит врага меньше 7 при атаке, то он теряет 3 единицы электроники"	"Quest Citadels.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/56/text"	"Сборочный блок. Эн: 5, Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/57/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/58/text"	"Солнечные батареи. Ме: 11, Эле: 3. Эффекты: ваши батареи +1"	"Quest Citadels.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/59/text"	"Кибернетические разведчики. Эн: 3, Ме: 3, Эле: 6. Эффекты: Количество ваших лабораторий приравнивается к количеству лабораторий врага"	"Quest Citadels.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/60/text"	"Роботы-шахтеры. Эн: 4, Эле: 9. Эффекты: ваш рудник +1"	"Quest Citadels.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/61/text"	"Атомная ракета. Эн: 30, Ме: 12, Эле: 2. Эффекты: Враг -> 49, вы -> 20"	"Quest Citadels.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/62/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/63/text"	"Комплекс Добыча-Производство. Эн: 9, Ме: 12, Эле: 6. Эффекты: ваш рудник +1, ваши лаборатории +1"	"Quest Citadels.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/64/text"	"Усиление щита. Эн: 5. Эффекты: ваш щит +6"	"Quest Citadels.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/65/text"	"Диверсанты. Эн: 2, Ме: 5, Эле: 7. Эффекты: Если у врага больше 2 рудников, то он теряет один рудник"	"Quest Citadels.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/66/text"	"Танковая атака. Эн: 5, Ме: 10. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/67/text"	"Стальной крот-минер. Эн: 3, Ме: 10, Эле: 3. Эффекты: Вражеская база -7"	"Quest Citadels.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/68/text"	"Ремонтники. Ме: 7, Эле: 2. Эффекты: ваша база +9"	"Quest Citadels.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/69/text"	"Дикобразы. Ме: 5. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/70/text"	"Энергоблок. Эн: 7, Ме: 2. Эффекты: ваш щит +10"	"Quest Citadels.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/71/text"	"Интеллектуальный навар брони. Ме: 5, Эле: 8. Эффекты: ваша база +12"	"Quest Citadels.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/72/text"	"Энергетические паразиты. Ме: 3, Эле: 10. Эффекты: Вражеский щит -12"	"Quest Citadels.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/73/text"	"Пауки. Ме: 7, Эле: 4. Эффекты: Если энергия щита противника равна нулю, то база противника -11"	"Quest Citadels.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/74/text"	"Плазменный таран. Эн: 20. Эффекты: Вражеский щит -10, Вражеская база -10"	"Quest Citadels.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/75/text"	"Мотыльки. Эн: 5, Эле: 3. Эффекты: Сжигая до 7 единиц вашего щита, наносят урон щиту противника, равный 1+2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/76/text"	"Лазерный удар. Эн: 6. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/77/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/78/text"	"Ниндзя-киборги. Эн: 2, Ме: 1, Эле: 5. Эффекты: Враг -> 7"	"Quest Citadels.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/79/text"	"Эн: Ме: Эле: Эффекты:"	"Quest Citadels.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/79/description"	"Вечно глухой переход - сделан для симметрии"	"Quest Citadels.qmm: jumps.79.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/80/text"	"Тротиловая ракета. Эн: 17, Ме: 5. Эффекты: Враг -> 25, вы -> 10"	"Quest Citadels.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/81/text"	"Вы в режиме ОТКЛОНЕНИЯ. Щелкните этот вариант для перехода в режим просмотра доступных к реализации проектов"	"Quest Citadels.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/82/text"	"Вы в режиме РЕАЛИЗАЦИИ. Щелкните этот вариант для перехода в режим просмотра всех проектов"	"Quest Citadels.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/83/description"	"<clr>Вы выиграли!<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/84/description"	"<clr>Ничья.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/85/description"	"<clr>Вы проиграли.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/92/description"	"Энерго <clr>не стал ничего делать<clrEnd> и просто отклонил один из своих проектов."	"Quest Citadels.qmm: jumps.92.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/93/description"	"- Огненный овод настигнет тебя, - изрек Энерго и нанес по вам <clr>лазерный удар<clrEnd>.
+
+Эн: 6. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/94/description"	"Противник создал еще одну <clr>солнечную батарею<clrEnd>. Теперь у него будет больше возможностей поразить вас энергетическими проектами.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/95/description"	"- <clr>Плазменный таран<clrEnd> не знает преград! - сказал Энерго и нанес по вам удар тараном.
+
+Эн: 20. Эффекты: ваш щит -10, ваша база -10"	"Quest Citadels.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/96/description"	"Противник <clr>увеличил силу своего щита<clrEnd>.
+
+Эн: 5. Эффекты: Щит +6."	"Quest Citadels.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/97/description"	"- По чуть-чуть мы тебя и добьем, - изрек Энерго и применил <clr>телекинетический взрыв<clrEnd>.
+
+Эн: 2 Ме: 2 Эле: 2. Эффекты: ваша база -3."	"Quest Citadels.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/98/description"	"По вам прошлись <clr>ракетами с лазерным наведением<clrEnd>. Не очень-то приятная штука.
+
+Эн: 5 Ме: 3 Эле: 3. Эффекты: По вам -> 8"	"Quest Citadels.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/99/description"	"На вас обрушился <clr>ракетный град<clrEnd>.
+
+Эн: 9 Ме: 7. Эффекты: По вам -> 11"	"Quest Citadels.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/148/description"	"Вы ходите первым."	"Quest Citadels.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/149/description"	"Противник <clr>увеличил силу своего щита<clrEnd>.
+
+Эн: 5. Эффекты: Щит +6."	"Quest Citadels.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/150/description"	"По вам прошлись <clr>ракетами с лазерным наведением<clrEnd>. Не очень-то приятная штука.
+
+Эн: 5 Ме: 3 Эле: 3. Эффекты: По вам -> 8"	"Quest Citadels.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/151/description"	"Противник <clr>не стал ничего делать<clrEnd> и просто отклонил один из своих проектов."	"Quest Citadels.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/152/description"	"Игра затянулась. <clr>Ничья по времени.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/153/description"	"Игра затянулась. <clr>Ничья по времени.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.153.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/154/description"	"Первым ходит противник."	"Quest Citadels.qmm: jumps.154.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/161/description"	"- Брат! Давай опустим оружие и сведем игру к ничьей по времени. Для этого я <clr>не буду ничего делать<clrEnd> и просто отклоню один из проектов в этот ход, - умиротворенным голосом сказал Боб."	"Quest Citadels.qmm: jumps.161.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/162/description"	"На вас обрушился армагеддон под личиной <clr>Атомной ракеты<clrEnd>! Вот тебе и мир во всем мире, и внедрение ценностей демократии, и какава с чаем.
+
+Эн: 30 Ме: 12 Эле: 2. Эффекты: Враг -> 20, вы -> 49"	"Quest Citadels.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/163/description"	"Боб создал <clr>ремонтников<clrEnd>.
+
+Ме: 7 Эле: 2. Эффекты: База +9"	"Quest Citadels.qmm: jumps.163.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/164/description"	"Противник создал продвинутых роботов-ремонтников, которые осуществили <clr>интеллектуальный навар брони<clrEnd>.
+
+Ме: 5 Эле: 8. Эффекты: База +12"	"Quest Citadels.qmm: jumps.164.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/165/description"	"На вас совершили ""наезд"" <clr>гусеничные киборги<clrEnd>. Кажется, вы даже заметили, что на их корпусах было написано ""МИРУ - МИР"".
+
+Ме: 8 Эле: 7. Эффекты: Вы -> 10"	"Quest Citadels.qmm: jumps.165.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/166/description"	"На ваши укрепления напали орды электронных <clr>Пчел-камикадзе<clrEnd>. Не слишком миролюбиво со стороны противника.
+
+Эле: 8. Эффекты: Вы -> 8"	"Quest Citadels.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/167/description"	"- Пока подождем, - сказал противник и <clr>просто отклонил один из своих проектов<clrEnd>."	"Quest Citadels.qmm: jumps.167.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/168/description"	"- Здесь куют металл!!! - радостно проговорил Череп, указывая на только что построенный <clr>блок прямого преобразования энергии<clrEnd>.
+
+Ме: 10 Эле: 8 Батареи: 1. Эффекты: Рудники +2, Батареи -1"	"Quest Citadels.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/169/description"	"Противник создал <clr>ремонтников<clrEnd>.
+
+Ме: 7 Эле: 2. Эффекты: База +9"	"Quest Citadels.qmm: jumps.169.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/170/description"	"- Маленькие металлисты достанут тебя! - воскликнул Череп, посылая на вас <clr>дикобразов<clrEnd>.
+
+Ме: 5. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.170.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/171/description"	"- Много металла не всегда хорошо, - сказал противник и преобразовал <clr>металл в энергию<clrEnd>.
+
+Ме: 8. Эффекты: Энергия +7"	"Quest Citadels.qmm: jumps.171.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/172/description"	"- Просто так меня не достанешь, - сказал Череп и построил <clr>энергоблок<clrEnd>.
+
+Эн: 7 Ме: 2. Эффекты: Щит +10"	"Quest Citadels.qmm: jumps.172.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/173/description"	"Противник создал еще одну <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.173.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/174/description"	"- Металл и разум сокрушат врага, - изрек ваш оппонент и осуществил атаку <clr>гусеничными киборгами<clrEnd>.
+
+Ме: 8 Эле: 7. Эффекты: Вы -> 10"	"Quest Citadels.qmm: jumps.174.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/176/description"	"- Маленькие металлисты достанут тебя! - воскликнул Череп, посылая на вас <clr>дикобразов<clrEnd>.
+
+Ме: 5. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.176.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/177/description"	"- Броня и огонь. Отличное сочетание, - сказал Череп и осуществил <clr>танковую атаку<clrEnd>.
+
+Эн: 5 Ме: 10. Эффекты: Вы -> 10"	"Quest Citadels.qmm: jumps.177.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/178/description"	"Далани <clr>не стал ничего делать<clrEnd> и просто отклонил один из своих проектов. Может быть, он копит ресурсы для осуществления какого-нибудь мощного проекта?"	"Quest Citadels.qmm: jumps.178.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/179/description"	"Мокус создал <clr>магнитных воров<clrEnd> и послал их к вам.
+
+Эн: 5 Эле: 5. Эффекты: Кража у вас до 5 металла и передача его врагу"	"Quest Citadels.qmm: jumps.179.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/180/description"	"Противник подослал к вам <clr>энергетических паразитов<clrEnd>.
+
+Ме: 3 Эле: 10. Эффекты: ваш щит -12"	"Quest Citadels.qmm: jumps.180.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/181/description"	"Далани создал <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.181.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/182/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.182.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/183/description"	"Вас атаковали соединения <clr>ховерлетов<clrEnd>.
+
+Эн: 6 Ме: 8 Эле: 4. Эффекты: По вам -> 15"	"Quest Citadels.qmm: jumps.183.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/184/description"	"Далани создал продвинутых роботов-ремонтников, которые осуществили <clr>интеллектуальный навар брони<clrEnd>.
+
+Ме: 5 Эле: 8. Эффекты: База +12"	"Quest Citadels.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/185/description"	"На ваши укрепления напали орды электронных <clr>Пчел-камикадзе<clrEnd>.
+
+Эле: 8. Эффекты: Вы -> 8"	"Quest Citadels.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/187/description"	"На ваши укрепления напали орды электронных <clr>Пчел-камикадзе<clrEnd>.
+
+Эле: 8. Эффекты: Вы -> 8"	"Quest Citadels.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/188/description"	"Противник <clr>увеличил силу своего щита<clrEnd>.
+
+Эн: 5. Эффекты: Щит +6."	"Quest Citadels.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/189/description"	"Пеленг задумчиво сидел за столом, обхватив голову двумя руками из четырех. Наконец Уляпик <clr>отклонил один из своих проектов<clrEnd>. Казалось бы, ничего необычного, но что-то вам все же не понравилось. Может, то, что остальные две руки почему-то находились ПОД столом?"	"Quest Citadels.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/191/description"	"Неожиданно на вашей базе произошел <clr>телекинетический взрыв<clrEnd>.
+
+Эн: 2 Ме: 2 Эле: 2. Эффекты: ваша база -3."	"Quest Citadels.qmm: jumps.191.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/192/description"	"Пеленг осуществил <clr>налет бомбардировщиков<clrEnd>.
+
+Эн: 9 Ме: 3 Эле: 2. Эффекты: Вы -> 14"	"Quest Citadels.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/193/description"	"На вашу базу напали <clr>ниндзя-киборги<clrEnd>.
+- Скрытность и хитрость. Главные козыри. Уж поверь мне, - сказал пеленг и улыбнулся.
+
+Эн: 2 Ме: 1 Эле: 5. Эффекты: Вы -> 7"	"Quest Citadels.qmm: jumps.193.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/194/description"	"Уляпик создал <clr>ремонтников<clrEnd>.
+
+Ме: 7 Эле: 2. Эффекты: База +9"	"Quest Citadels.qmm: jumps.194.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/195/description"	"Противник нанес <clr>лазерный удар<clrEnd>.
+
+Эн: 6. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/196/description"	"Противник <clr>увеличил силу своего щита<clrEnd>.
+
+Эн: 5. Эффекты: Щит +6."	"Quest Citadels.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/197/description"	"- Э-э-э. По-моему, я ничего не могу сделать в этот ход. Или могу? - сказал малок. - Чтобы ничего не перепутать, лучше <clr>я отклоню какой-нибудь свой проект<clrEnd>. Да. Пожалуй, так и сделаю."	"Quest Citadels.qmm: jumps.197.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/198/description"	"- Обожаю смотреть, как танки крошат твою базу, - сказал малок, применяя <clr>Танковую атаку<clrEnd>. - Я служил в танковых войсках и не думаю, что ты сможешь противопоставить мне что-нибудь более страшное!!!
+
+Эн: 5 Ме: 10. Эффекты: Вы -> 10."	"Quest Citadels.qmm: jumps.198.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/199/description"	"- Жахнем по тебе <clr>лазерным ударом<clrEnd>.
+
+Эн: 6. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/200/description"	"- А мы вот так! Зарядим по тебе <clr>ракетным градом<clrEnd>, - с упоением произнес Брог.
+
+Эн: 8 Ме: 6. Эффекты: По вам -> 11"	"Quest Citadels.qmm: jumps.200.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/203/text"	"Направиться к Гарику"	"Quest Citadels.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/204/text"	"Что такое Цитадели?"	"Quest Citadels.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/205/text"	"Что ты думаешь о моем кубе?"	"Quest Citadels.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/206/text"	"В какой форме проходит чемпионат?"	"Quest Citadels.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/207/text"	"Как думаешь, у меня есть шанс занять хотя бы третье место?"	"Quest Citadels.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/208/text"	"Ты можешь мне что-нибудь рассказать об участниках?"	"Quest Citadels.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/209/text"	"Мне нужно кое-что другое"	"Quest Citadels.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/210/text"	"Энерго"	"Quest Citadels.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/211/text"	"Череп"	"Quest Citadels.qmm: jumps.211.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/212/text"	"Боб Пацифист"	"Quest Citadels.qmm: jumps.212.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/213/text"	"Уляпик"	"Quest Citadels.qmm: jumps.213.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/214/text"	"Далани Мокус"	"Quest Citadels.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/215/text"	"Брог"	"Quest Citadels.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/216/text"	"Что ты можешь сделать для улучшения моего куба?"	"Quest Citadels.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/217/text"	"280 cr. Атомная ракета. Эн: 30, Ме: 12, Эле: 2. Эффекты: Враг -> 49, вы -> 20"	"Quest Citadels.qmm: jumps.217.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/218/text"	"220 cr. Комплекс Добыча-Производство. Эн: 9, Ме: 12, Эле: 6. Эффекты: ваш рудник +1, ваши лаборатории +1"	"Quest Citadels.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/219/text"	"100 cr. Кибернетические разведчики. Эн: 3, Ме: 3, Эле: 6. Эффекты: Количество ваших лабораторий приравнивается к количеству лабораторий врага"	"Quest Citadels.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/220/text"	"А мне, собственно, пока ничего не нужно. Спасибо"	"Quest Citadels.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/221/text"	"Идти играть"	"Quest Citadels.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/223/description"	"Вы ловко установили свой куб в отверстие стола. Противник поступил так же.
+
+- Сейчас ты почувствуешь силу металла, - грозно сказал Череп, ваш противник."	"Quest Citadels.qmm: jumps.223.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/224/description"	"После того, как вы устроились поудобнее за столами, ваш оппонент изрек:
+
+- Энергия никуда не исчезает и ниоткуда не появляется. Поэтому она непобедима. И ты сейчас в этом убедишься."	"Quest Citadels.qmm: jumps.224.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/225/description"	"Вы ловко вставили куб в отверстие. Кажется, у противника тоже никаких проблем с этим не возникло.
+
+- Давай начинать, что ли, - сказали вы.
+
+Пеленг лишь слегка улыбнулся и кивнул головой. Эх! Вам всегда не нравились эти лукавые пеленгские улыбки."	"Quest Citadels.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/226/description"	"Сев с противником за стол, вы установили свои кубы в отверстия.
+
+- Давай будем относиться друг к другу уважительно и не станем устраивать кровопролитий. Давай покажем всем, что мир лучше войны, - произнес ваш оппонент.
+
+Вы ничего не ответили."	"Quest Citadels.qmm: jumps.226.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/227/description"	"Вы успешно установили куб в отверстие стола. Однако у вашего оппонента возникли с этим небольшие проблемы. Он пробовал вставить свой куб и так и эдак. Наконец малок с размаху ударил по кубу рукой, и тот с треском вошел в отверстие. 
+
+Вы было уже обрадовались, что противник сломал свой куб, но не тут то было. Все заработало как часы. Однако методы у этого Брога. Остается надеяться, что он не будет применять их в игре."	"Quest Citadels.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/228/description"	"Спокойный как скала, далани Мокус занял свое место и привычным движением установил свой куб в отверстие стола. Вы последовали его примеру.
+
+- Ну что? Начнем? - спросил вас фэянин.
+
+Народ, собравшийся вокруг, замер в ожидании. 
+
+- Понеслась, - отозвались вы."	"Quest Citadels.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/229/description"	"<clr>Вы победили!<clrEnd>
+ Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.229.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/230/description"	"<clr>Ничья.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.230.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/231/description"	"<clr>Вы проиграли.<clrEnd>
+
+Закончив игру, вы встали из-за стола и побрели куда-то по залу, инстинктивно поглядывая на электронное табло."	"Quest Citadels.qmm: jumps.231.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/233/description"	"На ваши укрепления напали орды электронных <clr>Пчел-камикадзе<clrEnd>.
+
+Эле: 8. Эффекты: Вы -> 8"	"Quest Citadels.qmm: jumps.233.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/239/text"	"Начать генерацию проектов для себя"	"Quest Citadels.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/240/description"	"- Матчи на вылет не могут закончиться ничьей, - сказал судья и добавил вам обоим по 15 очков брони базы."	"Quest Citadels.qmm: jumps.240.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/241/description"	"- Матчи на вылет не могут закончиться ничьей по времени, - сказал судья и открутил счетчик ходов на 10."	"Quest Citadels.qmm: jumps.241.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/242/description"	"- Матчи на вылет не могут закончиться ничьей по времени, - сказал судья и открутил счетчик ходов на 10."	"Quest Citadels.qmm: jumps.242.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/243/description"	"- Матчи на вылет не могут закончиться ничьей, - сказал судья и добавил вам обоим по 15 очков брони базы."	"Quest Citadels.qmm: jumps.243.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/244/text"	"Назад в меню"	"Quest Citadels.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/245/text"	"Назад в меню"	"Quest Citadels.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/246/text"	"Ниндзя-киборги. Эн: 2, Ме: 1, Эле: 5. Эффекты: Враг -> 7"	"Quest Citadels.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/247/text"	"Лазерный удар. Эн: 6. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/248/text"	"Танковая атака. Эн: 5, Ме: 10. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.248.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/249/text"	"Дикобразы. Ме: 5. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.249.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/250/text"	"Пожиратели энергии. Эн: 3, Ме: 4, Эле: 6. Эффекты: Враг -> 7. Каждая уничтоженная единица щита врага увеличивает на 1 вашу энергию"	"Quest Citadels.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/251/text"	"Гусеничные киборги. Ме: 8, Эле: 7. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/252/text"	"Пчелы-камикадзе. Эле: 8. Эффекты: Враг -> 8"	"Quest Citadels.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/253/text"	"Тротиловая ракета. Эн: 17, Ме: 5. Эффекты: Враг -> 25, вы -> 10"	"Quest Citadels.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/254/text"	"Ракетный град. Эн: 9, Ме: 7. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/255/text"	"Ховерлетный гнет. Эн: 6, Ме: 8, Эле: 4. Эффекты: Враг -> 15"	"Quest Citadels.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/256/text"	"Самонаводящиеся крылатые ракеты. Эн: 8, Ме: 2, Эле: 5. Эффекты: Если ваш щит равен 0, то Враг -> 13, иначе Враг -> 7"	"Quest Citadels.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/257/text"	"Энергоэлементалы. Эн: 10, Эле: 5. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/258/text"	"Атомная ракета. Эн: 30, Ме: 12, Эле: 2. Эффекты: Враг -> 49, вы -> 20"	"Quest Citadels.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/259/text"	"Энергетические паразиты. Ме: 3, Эле: 10. Эффекты: Вражеский щит -12"	"Quest Citadels.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/260/text"	"Стальной крот-минер. Эн: 3, Ме: 10, Эле: 3. Эффекты: Вражеская база -7"	"Quest Citadels.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/261/text"	"Землетрясение. Эн: 10, Ме: 2. Эффекты: Вражеская база -12, ваша база -12"	"Quest Citadels.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/262/text"	"Телекинетический взрыв. Эн: 2, Ме: 2, Эле: 2. Эффекты: База врага -3"	"Quest Citadels.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/263/text"	"Магнитные штурмовики. Эле: 7. Эффекты: Щит противника -7. Если щит врага меньше 7 при атаке, то он теряет 3 единицы электроники"	"Quest Citadels.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/264/text"	"Энергоблок. Эн: 7, Ме: 2. Эффекты: ваш щит +10"	"Quest Citadels.qmm: jumps.264.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/265/text"	"Ремонтники. Ме: 7, Эле: 2. Эффекты: ваша база +9"	"Quest Citadels.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/266/text"	"Усиление щита. Эн: 5. Эффекты: ваш щит +6"	"Quest Citadels.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/267/text"	"Тотальный ремонт. Эн: 15, Ме: 15. Эффекты: ваш щит +15, ваша база +12"	"Quest Citadels.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/268/text"	"Экономные ремонтники. Ме: 6. Эффекты: Сжигая до четырех единиц вашего щита увеличивают броню на 2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/269/text"	"Интеллектуальный навар брони. Ме: 5, Эле: 8. Эффекты: ваша база +12"	"Quest Citadels.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/270/text"	"Роботы-шахтеры. Эн: 4, Эле: 9. Эффекты: ваш рудник +1"	"Quest Citadels.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/271/text"	"Солнечные батареи. Ме: 11, Эле: 3. Эффекты: ваши батареи +1"	"Quest Citadels.qmm: jumps.271.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/272/text"	"Сборочный блок. Эн: 5, Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.272.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/273/text"	"Блок прямого преобразования энергии. Ме: 10, Эле: 8 Батареи: 1. Эффекты: ваши рудники +2, ваши батареи -1"	"Quest Citadels.qmm: jumps.273.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/274/text"	"Комплекс Добыча-Производство. Эн: 9, Ме: 12, Эле: 6. Эффекты: ваш рудник +1, ваши лаборатории +1"	"Quest Citadels.qmm: jumps.274.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/275/text"	"Плазменный таран. Эн: 20. Эффекты: Вражеский щит -10, Вражеская база -10"	"Quest Citadels.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/276/text"	"Металл в энергию. Ме: 8. Эффекты: Энергия +7"	"Quest Citadels.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/277/text"	"Магнитные воры. Эн: 5, Эле: 5. Эффекты: Кража у врага до 5 металла и передача его вам"	"Quest Citadels.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/278/text"	"Кибернетические разведчики. Эн: 3, Ме: 3, Эле: 6. Эффекты: Количество ваших лабораторий приравнивается к количеству лабораторий врага"	"Quest Citadels.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/279/text"	"Ниндзя-киборги. Эн: 2, Ме: 1, Эле: 5. Эффекты: Враг -> 7"	"Quest Citadels.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/280/text"	"Танковая атака. Эн: 5, Ме: 10. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/281/text"	"Лазерный удар. Эн: 6. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/282/text"	"Пожиратели энергии. Эн: 3, Ме: 4, Эле: 6. Эффекты: Враг -> 7. Каждая уничтоженная единица щита врага увеличивает на 1 вашу энергию"	"Quest Citadels.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/283/text"	"Дикобразы. Ме: 5. Эффекты: Враг -> 5"	"Quest Citadels.qmm: jumps.283.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/284/text"	"Пчелы-камикадзе. Эле: 8. Эффекты: Враг -> 8"	"Quest Citadels.qmm: jumps.284.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/285/text"	"Гусеничные киборги. Ме: 8, Эле: 7. Эффекты: Враг -> 10"	"Quest Citadels.qmm: jumps.285.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/286/text"	"Тротиловая ракета. Эн: 17, Ме: 5. Эффекты: Враг -> 25, вы -> 10"	"Quest Citadels.qmm: jumps.286.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/287/text"	"Ховерлетный гнет. Эн: 6, Ме: 8, Эле: 4. Эффекты: Враг -> 15"	"Quest Citadels.qmm: jumps.287.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/288/text"	"Ракетный град. Эн: 9, Ме: 7. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.288.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/289/text"	"Энергоэлементалы. Эн: 10, Эле: 5. Эффекты: Враг -> 11"	"Quest Citadels.qmm: jumps.289.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/290/text"	"Самонаводящиеся крылатые ракеты. Эн: 8, Ме: 2, Эле: 5. Эффекты: Если ваш щит равен 0, то Враг -> 13, иначе Враг -> 7"	"Quest Citadels.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/291/text"	"Атомная ракета. Эн: 30, Ме: 12, Эле: 2. Эффекты: Враг -> 49, вы -> 20"	"Quest Citadels.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/292/text"	"Энергетические паразиты. Ме: 3, Эле: 10. Эффекты: Вражеский щит -12"	"Quest Citadels.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/293/text"	"Стальной крот-минер. Эн: 3, Ме: 10, Эле: 3. Эффекты: Вражеская база -7"	"Quest Citadels.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/294/text"	"Телекинетический взрыв. Эн: 2, Ме: 2, Эле: 2. Эффекты: База врага -3"	"Quest Citadels.qmm: jumps.294.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/295/text"	"Магнитные штурмовики. Эле: 7. Эффекты: Щит противника -7. Если щит врага меньше 7 при атаке, то он теряет 3 единицы электроники"	"Quest Citadels.qmm: jumps.295.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/296/text"	"Энергоблок. Эн: 7, Ме: 2. Эффекты: ваш щит +10"	"Quest Citadels.qmm: jumps.296.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/297/text"	"Ремонтники. Ме: 7, Эле: 2. Эффекты: ваша база +9"	"Quest Citadels.qmm: jumps.297.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/298/text"	"Усиление щита. Эн: 5. Эффекты: ваш щит +6"	"Quest Citadels.qmm: jumps.298.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/299/text"	"Тотальный ремонт. Эн: 15, Ме: 15. Эффекты: ваш щит +15, ваша база +12"	"Quest Citadels.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/300/text"	"Экономные ремонтники. Ме: 6. Эффекты: Сжигая до четырех единиц вашего щита увеличивают броню на 2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/301/text"	"Интеллектуальный навар брони. Ме: 5, Эле: 8. Эффекты: ваша база +12"	"Quest Citadels.qmm: jumps.301.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/302/text"	"Роботы-шахтеры. Эн: 4, Эле: 9. Эффекты: ваш рудник +1"	"Quest Citadels.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/303/text"	"Сборочный блок. Эн: 5, Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/304/text"	"Солнечные батареи. Ме: 11, Эле: 3. Эффекты: ваши батареи +1"	"Quest Citadels.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/305/text"	"Блок прямого преобразования энергии. Ме: 10, Эле: 8 Батареи: 1. Эффекты: ваши рудники +2, ваши батареи -1"	"Quest Citadels.qmm: jumps.305.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/306/text"	"Комплекс Добыча-Производство. Эн: 9, Ме: 12, Эле: 6. Эффекты: ваш рудник +1, ваши лаборатории +1"	"Quest Citadels.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/307/text"	"Плазменный таран. Эн: 20. Эффекты: Вражеский щит -10, Вражеская база -10"	"Quest Citadels.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/308/text"	"Магнитные воры. Эн: 5, Эле: 5. Эффекты: Кража у врага до 5 металла и передача его вам"	"Quest Citadels.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/309/text"	"Металл в энергию. Ме: 8. Эффекты: Энергия +7"	"Quest Citadels.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/310/text"	"Кибернетические разведчики. Эн: 3, Ме: 3, Эле: 6. Эффекты: Количество ваших лабораторий приравнивается к количеству лабораторий врага"	"Quest Citadels.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/311/text"	"Нормальные атаки"	"Quest Citadels.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/312/text"	"Сильные атаки"	"Quest Citadels.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/313/text"	"Направленные атаки"	"Quest Citadels.qmm: jumps.313.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/314/text"	"Ремонт и оборона"	"Quest Citadels.qmm: jumps.314.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/315/text"	"Производство"	"Quest Citadels.qmm: jumps.315.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/316/text"	"Специальные проекты"	"Quest Citadels.qmm: jumps.316.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/317/text"	"Назад"	"Quest Citadels.qmm: jumps.317.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/318/text"	"Назад"	"Quest Citadels.qmm: jumps.318.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/319/text"	"Назад"	"Quest Citadels.qmm: jumps.319.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/320/text"	"Назад"	"Quest Citadels.qmm: jumps.320.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/321/text"	"Назад"	"Quest Citadels.qmm: jumps.321.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/322/text"	"Назад"	"Quest Citadels.qmm: jumps.322.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/326/text"	"Закончить редактирование"	"Quest Citadels.qmm: jumps.326.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/327/text"	"Нормальные атаки"	"Quest Citadels.qmm: jumps.327.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/328/text"	"Сильные атаки"	"Quest Citadels.qmm: jumps.328.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/329/text"	"Направленные атаки"	"Quest Citadels.qmm: jumps.329.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/330/text"	"Ремонт и оборона"	"Quest Citadels.qmm: jumps.330.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/331/text"	"Производство"	"Quest Citadels.qmm: jumps.331.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/332/text"	"Специальные проекты"	"Quest Citadels.qmm: jumps.332.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/333/text"	"Назад"	"Quest Citadels.qmm: jumps.333.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/334/text"	"Назад"	"Quest Citadels.qmm: jumps.334.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/335/text"	"Назад"	"Quest Citadels.qmm: jumps.335.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/336/text"	"Назад"	"Quest Citadels.qmm: jumps.336.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/337/text"	"Назад"	"Quest Citadels.qmm: jumps.337.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/338/text"	"Назад"	"Quest Citadels.qmm: jumps.338.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/342/text"	"Редактировать куб"	"Quest Citadels.qmm: jumps.342.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/343/text"	"Удаление проектов"	"Quest Citadels.qmm: jumps.343.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/344/text"	"Добавление проектов"	"Quest Citadels.qmm: jumps.344.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/345/text"	"Очистить куб"	"Quest Citadels.qmm: jumps.345.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/347/text"	"Пожалуй, у меня есть несколько вопросов"	"Quest Citadels.qmm: jumps.347.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/348/text"	"Как я могу конфигурировать куб?"	"Quest Citadels.qmm: jumps.348.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/349/text"	"Вопросов не имею"	"Quest Citadels.qmm: jumps.349.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/350/text"	"Удаление проектов"	"Quest Citadels.qmm: jumps.350.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/351/text"	"Добавление проектов"	"Quest Citadels.qmm: jumps.351.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/352/description"	"Противник послал на вас <clr>дикобразов<clrEnd>.
+
+Ме: 5. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.352.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/353/text"	"180 cr. Диверсанты. Эн: 2, Ме: 5, Эле: 7. Эффекты: Если у врага больше 2 рудников, то он теряет один рудник"	"Quest Citadels.qmm: jumps.353.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/355/text"	"Диверсанты. Эн: 2, Ме: 5, Эле: 7. Эффекты: Если у врага больше 2 рудников, то он теряет один рудник"	"Quest Citadels.qmm: jumps.355.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/357/text"	"Диверсанты. Эн: 2, Ме: 5, Эле: 7. Эффекты: Если у врага больше 2 рудников, то он теряет один рудник"	"Quest Citadels.qmm: jumps.357.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/359/text"	"Пауки. Ме: 7, Эле: 4. Эффекты: Если энергия щита противника равна нулю, то база противника -11"	"Quest Citadels.qmm: jumps.359.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/360/text"	"Пауки. Ме: 7, Эле: 4. Эффекты: Если энергия щита противника равна нулю, то база противника -11"	"Quest Citadels.qmm: jumps.360.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/363/text"	"Мотыльки. Эн: 5, Эле: 3. Эффекты: Сжигая до 7 единиц вашего щита, наносят урон щиту противника, равный 1+2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.363.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/364/text"	"Мотыльки. Эн: 5, Эле: 3. Эффекты: Сжигая до 7 единиц вашего щита, наносят урон щиту противника, равный 1+2*(кол-во сожженного щита)"	"Quest Citadels.qmm: jumps.364.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/367/description"	"- Черт. Потрепали меня. Надо бы починиться, - сказал малок, осуществляя <clr>интеллектуальный навар брони<clrEnd>. - Все равно эти интеллектуалы больше ни на что не годны!
+
+Ме: 5 Эле: 8. Эффекты: База +12"	"Quest Citadels.qmm: jumps.367.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/368/description"	"Ян пропустил ход. Видимо, он чувствует себя в безопасности, раз поступает таким образом."	"Quest Citadels.qmm: jumps.368.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/369/description"	"Ян воздвиг <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.369.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/370/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.370.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/371/description"	"- Чтобы не проиграть, нужно чиниться, - с дрожью в голосе сказал Ян, осуществляя <clr>интеллектуальный навар брони<clrEnd>.
+
+Ме: 5 Эле: 8. Эффекты: База +12"	"Quest Citadels.qmm: jumps.371.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/372/description"	"- Нужно бы увеличить мощность щита. Это не даст мне проиграть, - сказал Бздышек, создавая <clr>энергоблок<clrEnd>.
+
+Эн: 7 Ме: 2. Эффекты: Щит +10"	"Quest Citadels.qmm: jumps.372.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/375/description"	"Бздышек решил починиться и создал <clr>ремонтников<clrEnd>.
+
+Ме: 7 Эле: 2. Эффекты: База +9"	"Quest Citadels.qmm: jumps.375.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/376/description"	"Противник <clr>увеличил силу своего щита<clrEnd>.
+
+Эн: 5. Эффекты: Щит +6."	"Quest Citadels.qmm: jumps.376.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/377/description"	"Ян построил <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.377.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/378/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.378.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/379/description"	"- Пора уж и атаковать, - сказал Бздышек, насылая на вас <clr>Пчел-камикадзе<clrEnd>.
+
+Эле: 8. Эффекты: Вы -> 8"	"Quest Citadels.qmm: jumps.379.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/380/description"	"Бздышек набрался смелости и прошелся по вам <clr>ракетами с лазерным наведением<clrEnd>. Не очень-то приятная штука.
+
+Эн: 5 Ме: 3 Эле: 3. Эффекты: По вам -> 8"	"Quest Citadels.qmm: jumps.380.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/381/description"	"- Ну-ка, маленькие, поползли, поползли на этого плохого дядю, - пробормотал Бздышек, посылая на вас <clr>дикобразов<clrEnd>.
+
+Ме: 5. Эффекты: Вы -> 5"	"Quest Citadels.qmm: jumps.381.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/384/text"	"Ян Бздышек"	"Quest Citadels.qmm: jumps.384.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/386/description"	"Вы сели за стол для игры и установили куб. То же самое сделал ваш оппонент.
+
+- Ну что, начнем потихонечку? - сказал Ян. Вы кивнули, одобряя его предложение."	"Quest Citadels.qmm: jumps.386.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/387/text"	"Что означают ""Эн"", ""Ме"" и ""Эле"", а также значок ""->""?"	"Quest Citadels.qmm: jumps.387.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/388/text"	"Налет бомбардировщиков. Эн: 10, Ме: 5, Эле: 2. Эффекты: Враг -> 14"	"Quest Citadels.qmm: jumps.388.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/389/text"	"Налет бомбардировщиков. Эн: 10, Ме: 5, Эле: 2. Эффекты: Враг -> 14"	"Quest Citadels.qmm: jumps.389.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/404/text"	"Идти на сцену"	"Quest Citadels.qmm: jumps.404.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/405/text"	"Ждать результатов"	"Quest Citadels.qmm: jumps.405.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/409/text"	"Идти играть"	"Quest Citadels.qmm: jumps.409.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/471/description"	"- <Ranger>, у нас возникла спорная ситуация в вашей подгруппе, и потому вы должны сыграть дополнительный матч, чтобы можно было определить, кто прошел в плей-офф."	"Quest Citadels.qmm: jumps.471.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/501/description"	"Далани создал продвинутых роботов-ремонтников, которые осуществили <clr>интеллектуальный навар брони<clrEnd>.
+
+Ме: 5 Эле: 8. Эффекты: База +12"	"Quest Citadels.qmm: jumps.501.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/505/description"	"- Пехота, в атаку!!! - заорал Брог, посылая на вашу базу <clr>ниндзей-киборгов<clrEnd>.
+
+Эн: 2 Ме: 1 Эле: 5. Эффекты: Вы -> 7"	"Quest Citadels.qmm: jumps.505.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/506/description"	"Ян построил <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.506.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/507/description"	"Противник запустил новый <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.507.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/508/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.508.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/509/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.509.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/510/description"	"Противник построил <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.510.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/511/description"	"Противник построил <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.511.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/512/description"	"Противник построил <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.512.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/513/description"	"Противник построил <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.513.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/514/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.514.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/515/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.515.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/516/description"	"Противник построил <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.516.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/517/description"	"Противник запустил новый <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.517.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/518/description"	"Противник запустил новый <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.518.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/519/description"	"Противник построил <clr>солнечную батарею<clrEnd>.
+
+Ме: 11 Эле: 3. Эффекты: Батареи +1"	"Quest Citadels.qmm: jumps.519.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/520/description"	"Противник запустил новый <clr>сборочный блок<clrEnd>. Теперь он будет получать больше электроники каждый ход.
+
+Эн: 5 Ме: 10. Эффекты: Лаборатории +1"	"Quest Citadels.qmm: jumps.520.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/521/description"	"Противник сконструировал <clr>роботов-шахтеров<clrEnd>.
+
+Эн: 4 Эле: 9. Эффекты: Рудник +1"	"Quest Citadels.qmm: jumps.521.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/527/text"	"Направиться к Гарику"	"Quest Citadels.qmm: jumps.527.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/528/text"	"Направиться к Гарику"	"Quest Citadels.qmm: jumps.528.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/529/text"	"Направиться к Гарику"	"Quest Citadels.qmm: jumps.529.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/530/text"	"Идти играть"	"Quest Citadels.qmm: jumps.530.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/531/text"	"Идти играть"	"Quest Citadels.qmm: jumps.531.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/532/text"	"Идти играть"	"Quest Citadels.qmm: jumps.532.text. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/533/description"	"- Металл и разум сокрушат врага, - изрек ваш оппонент и осуществил атаку <clr>гусеничными киборгами<clrEnd>.
+
+Ме: 8 Эле: 7. Эффекты: Вы -> 10"	"Quest Citadels.qmm: jumps.533.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/534/description"	"- Пора браться за вас всерьез! - зловеще произнес Череп и запустил в вас <clr>тротиловую ракету<clrEnd>.
+
+Эн: 17 Ме: 5. Эффекты: Враг -> 10, вы -> 25"	"Quest Citadels.qmm: jumps.534.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/536/description"	"- Энергия защитит меня, - сказал фэянин и построил <clr>энергоблок<clrEnd>.
+
+Эн: 7 Ме: 2. Эффекты: Щит +10"	"Quest Citadels.qmm: jumps.536.description. Preserve every <tag> exactly."	"Quest,Citadels"	""
+"/quests/Citadels.qmm/jumps/537/description"	"- Энергия защитит меня, - сказал фэянин и построил <clr>энергоблок<clrEnd>.
+
+Эн: 7 Ме: 2. Эффекты: Щит +10"	"Quest Citadels.qmm: jumps.537.description. Preserve every <tag> exactly."	"Quest,Citadels"	""

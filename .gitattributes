@@ -1,0 +1,8 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+# QMM dialogue contains significant CRLF inside quoted TSV cells.
+*.tsv -text
+*.json text eol=lf
+*.ttf binary

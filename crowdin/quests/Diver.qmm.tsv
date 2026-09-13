@@ -1,0 +1,688 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Diver.qmm/parameters/0/name"	"Время до взрыва"	"Quest Diver.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/0/lines/0/content"	"Время до взрыва: {[p1] div 60} мин. {[p1] mod 60} сек."	"Quest Diver.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/0/crit_text"	"...и в этот момент раздался оглушительной силы взрыв, который прекратил ваши усилия по спасению океанской акватории... а вместе с ними и вашу жизнь."	"Quest Diver.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/name"	"Где вы"	"Quest Diver.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/0/content"	"Вы наверху в ракетной шахте"	"Quest Diver.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/1/content"	"Вы внизу в ракетной шахте"	"Quest Diver.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/2/content"	"Вы в технической шахте"	"Quest Diver.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/3/content"	"Вы в кают-компании"	"Quest Diver.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/4/content"	"Вы в центре управления"	"Quest Diver.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/5/content"	"Вы в ангаре"	"Quest Diver.qmm: parameters.1.lines.5.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/lines/6/content"	"Вы в батискафе"	"Quest Diver.qmm: parameters.1.lines.6.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/1/crit_text"	"У вас кончился воздух. Вы труп!"	"Quest Diver.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/2/name"	"Контейнер"	"Quest Diver.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/2/lines/1/content"	"Контейнер на корабле"	"Quest Diver.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/2/lines/2/content"	"Контейнер наверху в ракетной шахте"	"Quest Diver.qmm: parameters.2.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/2/lines/3/content"	"Контейнер внизу в ракетной шахте"	"Quest Diver.qmm: parameters.2.lines.3.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Diver.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/3/name"	"Головка ракеты"	"Quest Diver.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/3/lines/0/content"	"Головка на ракете"	"Quest Diver.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/3/lines/1/content"	"Ракетная головка"	"Quest Diver.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/3/lines/2/content"	"Ракетная головка в контейнере"	"Quest Diver.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Diver.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/4/name"	"Завал в технической шахте"	"Quest Diver.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/4/lines/0/content"	"Завал в технической шахте"	"Quest Diver.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/4/lines/1/content"	"Завал в технической шахте расчищен"	"Quest Diver.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Diver.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/5/name"	"Пушка"	"Quest Diver.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/5/lines/0/content"	"У вас нет пушки"	"Quest Diver.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/5/lines/1/content"	"Подводное терморужье"	"Quest Diver.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Diver.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/6/name"	"Техническая шахта"	"Quest Diver.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/6/lines/0/content"	"Техническая шахта не исследована"	"Quest Diver.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/6/lines/1/content"	"Техническая шахта исследована"	"Quest Diver.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Diver.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/7/name"	"Центр управления"	"Quest Diver.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/7/lines/0/content"	"Центр управления не исследован"	"Quest Diver.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/7/lines/1/content"	"Центр управления исследован"	"Quest Diver.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Diver.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/8/name"	"Желтая карта"	"Quest Diver.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/8/lines/0/content"	"Желтой карты нет"	"Quest Diver.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/8/lines/1/content"	"Желтая карта"	"Quest Diver.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/8/lines/2/content"	"Желтая карта в терминале"	"Quest Diver.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Diver.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/9/name"	"Красная карта"	"Quest Diver.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Diver.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/9/lines/1/content"	"Красная карта"	"Quest Diver.qmm: parameters.9.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/9/lines/2/content"	"Красная карта в терминале"	"Quest Diver.qmm: parameters.9.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Diver.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/10/name"	"Серебристая карта"	"Quest Diver.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/10/lines/0/content"	"Серебристой карты у вас нет"	"Quest Diver.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/10/lines/1/content"	"Серебристая карта"	"Quest Diver.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/10/lines/2/content"	"Серебристая карта в терминале"	"Quest Diver.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Diver.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/11/name"	"Ласты"	"Quest Diver.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/11/lines/0/content"	"Вы без ласт"	"Quest Diver.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/11/lines/1/content"	"Ласты на вас"	"Quest Diver.qmm: parameters.11.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/11/crit_text"	"Воздух кончился, и вы труп."	"Quest Diver.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/12/name"	"Кают-компания"	"Quest Diver.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/12/lines/0/content"	"Кают-компания не исследована"	"Quest Diver.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/12/lines/1/content"	"Кают-компания исследована"	"Quest Diver.qmm: parameters.12.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Diver.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/13/name"	"Шлюз"	"Quest Diver.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/13/lines/0/content"	"Внешний шлюз заблокирован"	"Quest Diver.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/13/lines/1/content"	"Внешний шлюз разблокирован"	"Quest Diver.qmm: parameters.13.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Diver.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/14/name"	"Удаленный терминал"	"Quest Diver.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/14/lines/0/content"	"Удаленный терминал отключен"	"Quest Diver.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/14/lines/1/content"	"Удаленный терминал включен"	"Quest Diver.qmm: parameters.14.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Diver.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/15/name"	"Герметизация станции"	"Quest Diver.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/15/lines/0/content"	"Станция разгерметизирована"	"Quest Diver.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/15/lines/1/content"	"Станция загерметизирована"	"Quest Diver.qmm: parameters.15.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Diver.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/16/name"	"Пусковой люк"	"Quest Diver.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/16/lines/0/content"	"Пусковой люк закрыт"	"Quest Diver.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/16/lines/1/content"	"Пусковой люк открыт"	"Quest Diver.qmm: parameters.16.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Diver.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/17/name"	"Технический шлюз заклинило"	"Quest Diver.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/17/lines/0/content"	"Технический шлюз заклинило"	"Quest Diver.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/17/lines/1/content"	"Технический шлюз освобожден"	"Quest Diver.qmm: parameters.17.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Diver.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/18/name"	"Дверь в кают-компанию"	"Quest Diver.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/18/lines/0/content"	"Дверь в кают-компанию открыта"	"Quest Diver.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/18/lines/1/content"	"Дверь в кают-компанию закрыта"	"Quest Diver.qmm: parameters.18.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Diver.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/19/name"	"Внешний шлюз"	"Quest Diver.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/19/lines/0/content"	"Внешний шлюз не исследован"	"Quest Diver.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/19/lines/1/content"	"Внешний шлюз исследован"	"Quest Diver.qmm: parameters.19.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Diver.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/name"	"У какого вы терминала"	"Quest Diver.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/0/content"	"Вы у терминала 1"	"Quest Diver.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/1/content"	"Вы у терминала Б (кают-компания)"	"Quest Diver.qmm: parameters.20.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/2/content"	"Вы у терминала Г (батискаф)"	"Quest Diver.qmm: parameters.20.lines.2.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/3/content"	"Вы у терминала 4 (а)"	"Quest Diver.qmm: parameters.20.lines.3.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/4/content"	"Вы у терминала 4 (б)"	"Quest Diver.qmm: parameters.20.lines.4.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/5/content"	"Вы у терминала 4 (в)"	"Quest Diver.qmm: parameters.20.lines.5.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/6/content"	"Вы у терминала 4 (г)"	"Quest Diver.qmm: parameters.20.lines.6.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/7/content"	"Вы у терминала 4 (д)"	"Quest Diver.qmm: parameters.20.lines.7.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/8/content"	"Вы у терминала 4 (е)"	"Quest Diver.qmm: parameters.20.lines.8.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/lines/9/content"	"Вы у терминала 4 (ж)"	"Quest Diver.qmm: parameters.20.lines.9.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Diver.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/21/name"	"Работа с терминалом"	"Quest Diver.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/21/lines/0/content"	"Вы начинаете работу с терминалом"	"Quest Diver.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/21/lines/1/content"	"Вы заканчиваете работу с терминалом"	"Quest Diver.qmm: parameters.21.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Diver.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/22/name"	"Вы были в батискафе"	"Quest Diver.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/22/lines/0/content"	"Вы еще не были в батискафе"	"Quest Diver.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/22/lines/1/content"	"Вы уже были в батискафе"	"Quest Diver.qmm: parameters.22.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Diver.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/23/name"	"Система самоуничтожения"	"Quest Diver.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/23/lines/0/content"	"Щас взорвемся!"	"Quest Diver.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/23/lines/1/content"	"Ух, пронесло!"	"Quest Diver.qmm: parameters.23.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Diver.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/24/name"	"П25 (контроль локации L10)"	"Quest Diver.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/24/lines/0/content"	"П25: <>"	"Quest Diver.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Diver.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/25/name"	"П26 (контроль локации L12)"	"Quest Diver.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/25/lines/0/content"	"П26: <>"	"Quest Diver.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Diver.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/26/name"	"П27 (контроль локации L2)"	"Quest Diver.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/26/lines/0/content"	"П27: <>"	"Quest Diver.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Diver.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/27/name"	"П28 (контроль локации L3)"	"Quest Diver.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/27/lines/0/content"	"П28: <>"	"Quest Diver.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Diver.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/28/name"	"П29 (контроль локации L15)"	"Quest Diver.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/28/lines/0/content"	"П29: <>"	"Quest Diver.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Diver.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/29/name"	"П30 (контроль локации L31)"	"Quest Diver.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/29/lines/0/content"	"П30: <>"	"Quest Diver.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Diver.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/30/name"	"П31 (контроль локации L32)"	"Quest Diver.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/30/lines/0/content"	"П31: <>"	"Quest Diver.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Diver.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/31/name"	"П32 (контроль локации L32)"	"Quest Diver.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/31/lines/0/content"	"П32: <>"	"Quest Diver.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Diver.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/32/name"	"П33 (контроль терминала L39, L41)"	"Quest Diver.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/32/lines/0/content"	"П33: <>"	"Quest Diver.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Diver.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/33/name"	"П34 (контроль терминала 2)"	"Quest Diver.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest Diver.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Diver.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/34/name"	"Параметр номер 35"	"Quest Diver.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest Diver.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Diver.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/35/name"	"Параметр номер 36"	"Quest Diver.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest Diver.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Diver.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/36/name"	"П37 (контроль L54)"	"Quest Diver.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/36/lines/0/content"	"Параметр номер 37: <>"	"Quest Diver.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Diver.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/37/name"	"П38 (если удаленный терминал)"	"Quest Diver.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/37/lines/0/content"	"Игрок НЕ на удаленном терминале"	"Quest Diver.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/37/lines/1/content"	"Игрок на удаленном терминале"	"Quest Diver.qmm: parameters.37.lines.1.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Diver.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/38/name"	"x"	"Quest Diver.qmm: parameters.38.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Diver.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/39/name"	"Параметр номер 40"	"Quest Diver.qmm: parameters.39.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/39/lines/0/content"	"Параметр номер 40: <>"	"Quest Diver.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Diver.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/40/name"	"Параметр номер 41"	"Quest Diver.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/40/lines/0/content"	"Параметр номер 41: <>"	"Quest Diver.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Diver.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/41/name"	"Параметр номер 42"	"Quest Diver.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/41/lines/0/content"	"Параметр номер 42: <>"	"Quest Diver.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Diver.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/42/name"	"Параметр номер 43"	"Quest Diver.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/42/lines/0/content"	"Параметр номер 43: <>"	"Quest Diver.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Diver.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/43/name"	"Параметр номер 44"	"Quest Diver.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/43/lines/0/content"	"Параметр номер 44: <>"	"Quest Diver.qmm: parameters.43.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Diver.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/44/name"	"Параметр номер 45"	"Quest Diver.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/44/lines/0/content"	"Параметр номер 45: <>"	"Quest Diver.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Diver.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/45/name"	"Параметр номер 46"	"Quest Diver.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/45/lines/0/content"	"Параметр номер 46: <>"	"Quest Diver.qmm: parameters.45.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Diver.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/46/name"	"Параметр номер 47"	"Quest Diver.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/46/lines/0/content"	"Параметр номер 47: <>"	"Quest Diver.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Diver.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/47/name"	"Деньги"	"Quest Diver.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Diver.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/success_text"	"Поздравляем вас, <Ranger>! Как нам сообщили с <ToPlanet>, вы продемонстрировали отличную подготовку водолаза. Мы рады премировать вас <Money> cr."	"Quest Diver.qmm: success_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/task_text"	"Уважаемый <Ranger>, на планете <ToPlanet> системы <ToStar> работает филиал нашей экологической организации ""Зеленая радость"", которая борется за очищение океанов. Наше правительство, являясь учредителем этой организации, несет ответственность за ее деятельность и обязано отвечать по всем контрактам, которые она заключает. 
+
+В данный момент филиал организации на планете <ToPlanet> столкнулся с одной непредвиденной проблемой, и сейчас им нужен специалист для проведения водолазной операции. Она настолько опасна, что все их штатные водолазы наотрез отказались в ней участвовать. Если на этой планете разразится экологическая катастрофа, нам придется закрыть наш филиал и, кроме того, выплатить огромную неустойку. 
+
+В связи с этим нам ничего не остается, кроме как нанять человека со стороны, готового пожерт... то есть рискнуть своей жизнью во имя экологической безопасности планеты <ToPlanet>. Так что, <Ranger>, если это задание вас интересует, и вы готовы пойти на риск ради <Money> cr, то мы сообщим нашим сотрудникам, и они встретят вас и разъяснят все подробности. Постарайтесь уложиться в срок до <Date>, после которого мы будем считать контракт невыполненным."	"Quest Diver.qmm: task_text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/0/texts/0/text"	"Как только вы покинули свой космолет, откуда-то, словно из-под земли, вынырнули двое людей в зеленых пиджаках и галстуках. Поприветствовав вас, они заявили, что представляют местную экологическую организацию ""Зеленая радость"": 
+- С планеты <FromPlanet> нам сообщили, что нашли подходящую кандидатуру, чему мы несказанно рады. Сейчас мы отправляемся на нашу исследовательскую шхуну ""Последняя надежда"", где вы перекусите и отдохнете с дороги, а наши специалисты проинструктируют вас о деталях предстоящей операции.
+
+Через полчаса езды по горным дорогам вы достигли побережья, где прямо на машине заехали в трюм корабля, сразу же отчалившего от берега. Вас познакомили с экипажем корабля и накормили неплохим ужином, после чего провели в каюту, где вы проспали как сурок вплоть до следующего утра. На следующий день рано утром все уже было готово к операции. Корабль стоял на якоре точно над местом погружения. На вас надели легкий водолазный костюм и принялись инструктировать."	"Quest Diver.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/0/text"	"Вы в ракетной шахте диаметром приблизительно два метра. Ее стены покрыты толстым слоем ила, вода вокруг вас темная и мутная. Над вашей головой зияет обугленными краями отверстие люка, выбитого мощным взрывом, а где-то внизу виднеется едва различимый красный огонек.
+Вы тщательно проводите лучом своего фонаря по стенам шахты, но он не выхватывает ничего, кроме проводов, покрытых тиной, и стай суетящихся мелких рыбешек, которым, кажется, нет до вас никакого дела. По наличию тины и моллюсков, нашедших себе убежище на стенках шахты, вы понимаете, что шахта разгерметизирована уже давно. Однако странно, что нет никаких следов повреждений, кроме выбитого вами люка, а красный глазок где-то внизу даже не думает потухать."	"Quest Diver.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/1/text"	"Вы нажали на кнопку, и контейнер плавно двинулся вниз. Если он коснется стены или дна - не страшно, сам остановится."	"Quest Diver.qmm: locations.1.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/2/text"	"Вам осталось лишь проводить взглядом уходящий вверх контейнер."	"Quest Diver.qmm: locations.1.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/3/text"	"- Отлично! Тогда приступим, время - деньги.
+Вас погрузили вместе с контейнером в воду, и он стал медленно опускаться. Вода вокруг была черная, но фонарь у вас на шлеме выхватывал из бездны стайки рыбешек и другой живности, что суетилась вокруг. Вы погрузились на глубину около тридцати метров, и вашему взору предстал склон подводного холма, на котором вы явственно разглядели большую тарелку-антенну, а рядом с ней - два металлических круга, один побольше, другой поменьше. Тот, что поменьше, и был люком, прикрывавшим отверстие ракетной шахты. 
+Вы подорвали его с помощью проксиловой шашки и вместе с контейнером опустились в образовавшуюся дыру. Теперь все зависит только от вас!"	"Quest Diver.qmm: locations.1.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/4/text"	"Вы проделали обратный путь вверх по ракетной шахте. И вот вы снова у зияющего отверстия выбитого вами верхнего люка."	"Quest Diver.qmm: locations.1.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/5/text"	"Вы медленно и аккуратно кладете головку в контейнер. Теперь вам ничто не мешает послать опасный груз на корабль, что вы и делаете, нажав соответствующую кнопку. Ваша миссия выполнена, но надо еще подумать, как отсюда выбраться."	"Quest Diver.qmm: locations.1.texts.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/1/texts/6/text"	"Вы проводили взглядом уходящий вверх металлический ящик со смертельным грузом. Безусловно, у вас есть план - как всегда."	"Quest Diver.qmm: locations.1.texts.6.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/0/text"	"Проплыв около пятнадцати метров вниз, вы вплотную приблизились к красному огоньку, которым оказался фонарь на дне шахты. Точнее, не на дне, а на диафрагме люка, который занимал все дно и казался задраенным очень надежно.
+И только теперь в свете фонаря вы смогли различить огромную трещину, зияющую в стене шахты в метре над ее дном. От трещины расходились в разные стороны более мелкие трещины и расколы. Вы направили луч прожектора внутрь этой зияющей дыры, но не смогли разглядеть ничего, кроме черной бездны. Вы могли лишь гадать, было это результатом атаки противника или последствиями тектонического сдвига или землетрясения.
+Справа от вас, в стене шахты, находится шлюз, который, в отличие от диафрагмы на дне шахты, слегка приоткрыт. Странно, никаких следов повреждений на нем нет, однако между створками шлюза имеется зазор, в который снуют туда-сюда рыбешки."	"Quest Diver.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/1/text"	"Вы проплыли сквозь технический шлюз обратно в ракетную шахту."	"Quest Diver.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/2/text"	"Вам удалось снять с ракеты головку. Порядок! Кажется, вы все проделали достаточно осторожно, и теперь опасная бактериологическая начинка - у вас в кармане."	"Quest Diver.qmm: locations.2.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/3/text"	"Вы провозились с полминуты, ковыряя ломиком лепестки диафрагмы, но безрезультатно - они пригнаны очень надежно. Видимо, механизм, удерживающий их вместе, не был поврежден при аварии."	"Quest Diver.qmm: locations.2.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/4/text"	"Вы проводили взглядом уходящий вверх металлический ящик со смертельным грузом. Безусловно, у вас есть план - как всегда."	"Quest Diver.qmm: locations.2.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/5/text"	"Вы вернулись вниз. Справа от вас, в стене шахты, находится шлюз."	"Quest Diver.qmm: locations.2.texts.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/2/texts/6/text"	"Вы проплыли сквозь технический шлюз обратно в ракетную шахту. Теперь люк-диафрагма в дне шахты раскрыта, и сразу же под ней располагается ракета! Она стоит несколько покосившись, но красная боеголовка приличных размеров по-прежнему нацелена вверх, готовая доставить свой смертоносный груз сквозь толщу воды к любому объекту на планете."	"Quest Diver.qmm: locations.2.texts.6.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/4/texts/0/text"	"Вы нажали на кнопку, и контейнер плавно двинулся вверх. Что теперь? Ухватиться за фал, чтобы покинуть поскорей эту таинственную пучину, или сгинуть навек в ее смертельных объятьях?"	"Quest Diver.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/5/texts/0/text"	"Как же долго тянется время! Наконец вас подняли на корабль.
+- И что же, <Ranger>, струсили? - укорил вас капитан. - Зачем было браться? Впрочем, всякое бывает. Мы знали, что задача не из легких. Мы просто наймем другого специалиста, а вас проводим на берег. Спасибо за то, что постарались.
+
+Ваше настроение после всего этого никак нельзя было назвать радужным."	"Quest Diver.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/0/text"	"Вам не потребовалось больших усилий, чтобы проплыть в полуоткрытый шлюз в стене шахты, благо его отверстия хватило для вас даже с небольшим запасом. И вот вы в другой шахте, параллельной первой, но поменьше диаметром."	"Quest Diver.qmm: locations.7.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/1/text"	"Вы в технической шахте. По стенам тянутся густые сплетения проводов, напротив вас вдоль стены до самого верха шахты идет толстый рельс, нижняя часть которого деформирована; справа от рельса лестница, также исковерканная.
+В одной из стен шахты - <clr>""Технический шлюз""<clrEnd>. В противоположной стене, один над другим, ряд люков - <clr>""Кают-компания""<clrEnd>, <clr>""Центр управления""<clrEnd>, <clr>""Контрольный шлюз""<clrEnd>."	"Quest Diver.qmm: locations.7.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/2/text"	"Вы в технической шахте. Вода из нее отсосана, капли стекают по стенам.
+Вдоль стен тянутся густые сплетения проводов, напротив вас по стене до самого верха шахты идет толстый рельс, нижняя часть которого деформирована; справа от рельса лестница, также исковерканная.
+В одной из стен шахты - <clr>""Технический шлюз""<clrEnd>. В противоположной стене, один над другим, ряд люков - <clr>""Кают-компания""<clrEnd>, <clr>""Центр управления""<clrEnd>, <clr>""Контрольный шлюз""<clrEnd>."	"Quest Diver.qmm: locations.7.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/3/text"	"Вы полоснули тепловым лучом по металлическому рельсу, застрявшему в техническом шлюзе, и увидели, как его края слегка подплавились. Окрыленный успехом, вы продолжали резать рельс еще некоторое время, пока он не развалился на две части и не освободил люк. Освободившись, люк шлюза сначала захлопнулся, но тут же, поиграв лампочками на панели, раскрылся вновь - теперь уже на полную свою ширину. Видимо, сработала какая-то автоматика."	"Quest Diver.qmm: locations.7.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/4/text"	"Вы попытались вытащить из люка рельс, который не давал створкам закрыться, но тщетно - створки прижимают его слишком сильно."	"Quest Diver.qmm: locations.7.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/5/text"	"Вы снимаете свои ласты. Так-то лучше!"	"Quest Diver.qmm: locations.7.texts.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/6/text"	"Вы попытались открыть технический шлюз, но безрезультатно. Никаких кнопок или ручек нет, а единственная лампочка на двери горит красным светом.
+Вы еще раз читаете надпись на двери шлюза: <clr>""Ракетная шахта. ВНИМАНИЕ! Управление техническим шлюзом осуществляется с терминала""<clrEnd>."	"Quest Diver.qmm: locations.7.texts.6.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/7/text"	"Провозившись некоторое время, вы смогли углубиться в кучу обломков приблизительно на метр.
+Теперь вам ясно - перед вами не что иное, как обвалившийся лифт и несколько частей его приводного механизма. Обрушившись, эти конструкции и завалили дно шахты, одновременно блокировав технический шлюз, чем помешали ему закрыться.
+Под обломками виднеется ткань - так и есть, это останки человека, который, видимо, погиб как раз при обрушении лифта. Обыскав его одежду, вы нашли <clr>красную пластиковую карточку<clrEnd> размером с кредитку.
+Под обломками вы также смогли заметить кромку еще одного люка с надписью ""Технический отсек"", но он был не только завален обломками, но и наглухо задраен. Открыть его, по-видимому, невозможно."	"Quest Diver.qmm: locations.7.texts.7.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/8/text"	"Вы снова надеваете свои ласты. Теперь вы - заправский дайвер!"	"Quest Diver.qmm: locations.7.texts.8.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/7/texts/9/text"	"Вы водите лучом прожектора по стенам шахты. На стенах мигают красные лампочки: интересно, что бы это значило?
+Люк, через который вы попали в эту шахту, с вашей стороны маркирован надписью <clr>""Технический шлюз""<clrEnd>, и ниже, более мелким шрифтом: <clr>""Ракетная шахта. ВНИМАНИЕ! Управление техническим шлюзом осуществляется с терминала""<clrEnd>.
+Теперь вам становится ясно, почему технический шлюз не закрыт - с этой стороны он загроможден большой <clr>грудой обломков<clrEnd>, целой кучей мусора и кусков металлического каркаса, плотно покрывающими весь пол шахты. Один из этих кусков - похоже, фрагмент рельса лифта - попал между створок шлюза, чем заклинил его изнутри.
+Напротив технического шлюза, в противоположной стене шахты, другой люк, глухо задраенный, с надписью <clr>""Кают-компания""<clrEnd>. Двумя метрами выше - еще один такой же люк, но уже открытый и с надписью <clr>""Центр управления""<clrEnd>. И, наконец, еще выше, почти под самым потолком шахты, еще один довольно мощный круглый люк, подписанный <clr>""Контрольный шлюз""<clrEnd>."	"Quest Diver.qmm: locations.7.texts.9.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/0/text"	"Через открытую дверь вы проплыли в помещение центра управления."	"Quest Diver.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/1/text"	"Вы забрались по лестнице в центр управления."	"Quest Diver.qmm: locations.8.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/2/text"	"Зачем вам чужой водолазный костюм? У вас есть свой! Вы не стали его брать."	"Quest Diver.qmm: locations.8.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/3/text"	"Вы достали из шкафа ружье. Метким взглядом старого вояки вы сразу определили, что это - некая подводная версия теплового резака. Никаких признаков повреждений на оружии нет, из чего можно предположить, что оно в рабочем состоянии."	"Quest Diver.qmm: locations.8.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/4/text"	"Рассекая лучом фонаря черноту, вы вглядываетесь в детали окружающей обстановки, и теперь вашему взгляду предстает более полная картина. Вы в помещении размером приблизительно три на четыре метра, добрую половину которого занимает круговой стол с терминалами и большим круглым экраном посередине - видимо, главным пультом системы слежения. 
+При виде следующей картины вы содрогнулись - прямо на пульте в неестественной позе лежал <clr>человек<clrEnd> (а точнее, его останки) в водолазном костюме; часть пульта под ним была разбита его баллоном с воздухом, который также был помят. Вероятно, какая-то сила швырнула беднягу через всю комнату. 
+Кроме пульта и терминала, в помещении находился шкаф, в котором были еще два водолазных костюма, а также <clr>ружье<clrEnd>."	"Quest Diver.qmm: locations.8.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/5/text"	"Вы проверяете показатель давления воздуха на руке погибшего - он показывает отсутствие воздуха в баллоне. Неудивительно, за все то время, что это тело пролежало здесь, весь воздух давно уже вышел. Для вас этот баллон бесполезен."	"Quest Diver.qmm: locations.8.texts.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/8/texts/6/text"	"Терминал представляет собой небольшой экран. Над ним надпись: ""Терминал В"". Клавиш нет, лишь три пустых слота, в один из которых вставлена небольшая <clr>карточка желтого цвета<clrEnd>. Вы потыкали в экран и рядом с ним пальцами, но тщетно - ничего не работает. Вы забрали карточку."	"Quest Diver.qmm: locations.8.texts.6.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/0/text"	"Вы в кают-компании. Что дальше?"	"Quest Diver.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/1/text"	"Вы подняли книгу. Это оказался ""Устав гарнизонной и караульной службы"". Эх, будь это что-нибудь приключенческое, про войну с клисанами, например, вы бы с удовольствием почитали. Но читать это?! Вы с отвращением отбросили книгу."	"Quest Diver.qmm: locations.10.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/2/text"	"Вы водите прожектором по сторонам, и постепенно вам открывается все больше деталей. Комната, по всей видимости, была чем-то вроде жилого помещения, в пользу чего говорят три кровати и шкафчики с личными вещами. На полу валяются разнообразные предметы, среди которых вы разглядели <clr>зубную щетку<clrEnd> и <clr>электронную книгу<clrEnd>. У двери стоит металлический шкаф, в котором три водолазных костюма. На противоположной от двери стене висит <clr>терминал<clrEnd>, маркированный как ""Терминал Б""."	"Quest Diver.qmm: locations.10.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/3/text"	"Вы подняли зубную щетку. Хорошая щетка, изготовлена фирмой ""Блин да Медь"". Вот только зачем она вам? Все равно пасты нет, и на кариес вы никогда не жаловались. Да и пользоваться чужой щеткой крайне негигиенично. Пересилив свою жадность, вы выбросили щетку."	"Quest Diver.qmm: locations.10.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/4/text"	"Вы подплыли к закрытому люку с надписью ""Кают-компания"". Над кнопкой открывания двери мигала желтая лампочка. Вы нажали на кнопку, и дверь стала медленно открываться. В тот же момент вы почувствовали мощную тягу, влекущую вас внутрь люка; еще через пару секунд, когда дверь почти раскрылась, мощная лавина воды ударила вам в спину, но ружье в ваших руках застряло в проходе и удержало вас от того, чтобы быть брошенным, как щепка, внутрь помещения. С длинным ружьем в руках вы застряли в проходе, однако напор воды был так силен, что через пару секунд ствол ружья хрустнул и сломался, а вас бросило на пол. Помещение заполнилось водой."	"Quest Diver.qmm: locations.10.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/10/texts/5/text"	"Вы подплыли к закрытому люку с надписью ""Кают-компания"". Над кнопкой открывания двери мигала желтая лампочка. Вы нажали на кнопку, и дверь стала медленно открываться. В тот же момент вы почувствовали мощную тягу, влекущую вас внутрь люка; еще через пару секунд, когда дверь почти раскрылась, мощная лавина воды ударила вам в спину и буквально вбросила, как щепку, внутрь. В бурлящем водовороте воды вы пролетели через все помещение, ударились спиной обо что-то твердое и потеряли сознание.
+
+Вы очнулись через пару минут и сразу же почувствовали острую боль в затылке."	"Quest Diver.qmm: locations.10.texts.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/12/texts/0/text"	"<clr>***ПОДВОДНАЯ СТАНЦИЯ СЛЕЖЕНИЯ  27-01***
+
+ВНИМАНИЕ! ЛЮК РАКЕТНОЙ ШАХТЫ ПОВРЕЖДЕН ИЗВНЕ. ВОЗМОЖНА АТАКА ПРОТИВНИКА. ВКЛЮЧЕНА МАКСИМАЛЬНАЯ СТЕПЕНЬ БОЕГОТОВНОСТИ. ВКЛЮЧЕНА СИСТЕМА САМОУНИЧТОЖЕНИЯ. <clrEnd>
+
+ДО ВЗРЫВА ОСТАЛОСЬ {[p1] div 60} МИН. {[p1] mod 60} СЕК.<clr>
+
+
+СИСТЕМЫ:
+
+-> карта станции - уровень доступа 1
+-> внешний шлюз - уровень доступа 1
+-> системы жизнеобеспечения - уровень доступа 1
+-> коммуникации - уровень доступа 2
+-> пусковое устройство - уровень доступа 2
+-> системы безопасности - уровень доступа 3<clrEnd>"	"Quest Diver.qmm: locations.12.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/12/texts/1/text"	"<clr>***ПОДВОДНАЯ СТАНЦИЯ СЛЕЖЕНИЯ 27-01*** 
+
+ВНИМАНИЕ! ЛЮК РАКЕТНОЙ ШАХТЫ ПОВРЕЖДЕН ИЗВНЕ. ВОЗМОЖНА АТАКА ПРОТИВНИКА. ВКЛЮЧЕНА МАКСИМАЛЬНАЯ СТЕПЕНЬ БОЕГОТОВНОСТИ.
+
+СИСТЕМЫ:
+
+-> карта станции - уровень доступа 1
+-> внешний шлюз - уровень доступа 1
+-> системы жизнеобеспечения - уровень доступа 1
+-> коммуникации - уровень доступа 2
+-> пусковое устройство - уровень доступа 2
+-> системы безопасности - уровень доступа 3
+<clrEnd>"	"Quest Diver.qmm: locations.12.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/13/texts/0/text"	"<clr>
+СОСТОЯНИЕ ВНЕШНЕГО ШЛЮЗА:
+внешний шлюз заблокирован
+батискаф припаркован
+
+-> разблокировать внешний шлюз
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.13.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/13/texts/1/text"	"<clr>
+СОСТОЯНИЕ ВНЕШНЕГО ШЛЮЗА:
+внешний шлюз разблокирован
+батискаф припаркован
+
+-> заблокировать внешний шлюз
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.13.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/14/texts/0/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ БЕЗОПАСНОСТИ:
+включен режим повышенной готовности
+засечена возможная атака противника
+ВКЛЮЧЕНА СИСТЕМА САМОУНИЧТОЖЕНИЯ
+
+-> отключить систему самоуничтожения
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.14.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/14/texts/1/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ БЕЗОПАСНОСТИ:
+включен режим повышенной готовности
+засечена возможная атака противника
+
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.14.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/15/texts/0/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ КОММУНИКАЦИЙ:
+глобальная навигация повреждена
+доступ к каналам командного центра невозможен
+удаленный терминал в норме, отключен
+
+-> включить удаленный терминал
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.15.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/15/texts/1/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ КОММУНИКАЦИЙ:
+глобальная навигация повреждена
+доступ к каналам командного центра невозможен
+удаленный терминал в норме, включен
+
+-> отключить удаленный терминал
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.15.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/16/texts/0/text"	"<clr>
+СОСТОЯНИЕ ПУСКОВОГО УСТРОЙСТВА:
+пусковая система в норме
+ракетная шахта повреждена
+внешний ракетный люк поврежден
+внутренний ракетный люк закрыт
+цель не задана
+
+-> открыть ракетные люки
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.16.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/16/texts/1/text"	"<clr>
+СОСТОЯНИЕ ПУСКОВОГО УСТРОЙСТВА:
+пусковая система в норме
+ракетная шахта повреждена
+внешний ракетный люк поврежден
+внутренний ракетный люк открыт
+цель не задана
+
+-> закрыть ракетные люки
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.16.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/17/texts/0/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ ЖИЗНЕОБЕСПЕЧЕНИЯ:
+ВНИМАНИЕ: ПОЛНАЯ РАЗГЕРМЕТИЗАЦИЯ СТАНЦИИ!
+система подачи кислорода повреждена
+система энергоснабжения в норме
+система теплоснабжения в норме
+лифт поврежден
+
+-> задраить технический шлюз
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/17/texts/1/text"	"<clr>
+СОСТОЯНИЕ СИСТЕМ ЖИЗНЕОБЕСПЕЧЕНИЯ:
+ВНИМАНИЕ: ОТКРЫТИЕ ТЕХНИЧЕСКОГО ШЛЮЗА ПРИВЕДЕТ К ПОЛНОЙ РАЗГЕРМЕТИЗАЦИИ СТАНЦИИ!
+система подачи кислорода повреждена
+система энергоснабжения в норме
+система теплоснабжения в норме
+лифт поврежден
+
+-> открыть технический шлюз
+-> назад
+<clrEnd>"	"Quest Diver.qmm: locations.17.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/23/texts/0/text"	"Вы медленно и аккуратно кладете головку в контейнер. Теперь вам ничто не мешает послать опасный груз на корабль, что вы и делаете, нажав соответствующую кнопку. Ваша миссия выполнена, но надо еще подумать, как отсюда выбраться."	"Quest Diver.qmm: locations.23.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/24/texts/0/text"	"Поняв вас с полуслова, капитан дает сигнал в рубку, и корабль бросается вперед так, что его нос слегка приподнимается над волнами. Через какие-то мгновения раздается глухой раскат, сзади и чуть слева по борту вода вспенивается метра на три, корабль бросает вперед. К счастью, без повреждений.
+- <Ranger>, а вы экстремал! - впечатленно похлопал вас по плечу капитан, когда все стихло. - Если все космические рейнджеры у нас такие же крутые, как вы, то Галактике точно ничего не грозит.
+
+Всю дорогу к побережью вы пили коктейли и закусывали в кругу экипажа шхуны, слушая непринужденные шутки и морские анекдоты. Вас высадили на берег и еще раз одарили аплодисментами. В отличном расположении духа вы поймали такси и отправились в космопорт. Осталось лишь вернуться на планету <FromPlanet> за своими <Money> cr!"	"Quest Diver.qmm: locations.24.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/25/texts/0/text"	"Вы поднялись почти под самый потолок шахты, где располагался массивный круглый люк с надписью <clr>""Контрольный шлюз""<clrEnd>. Он несколько больше, чем остальные люки в шахте. Рядом имеется <clr>панель<clrEnd>, на которой расположены лишь слот и лампочка, горящая красным светом. Вы подергали люк рукой - не поддается."	"Quest Diver.qmm: locations.25.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/25/texts/1/text"	"Вы снова у контрольного шлюза. Что делать?"	"Quest Diver.qmm: locations.25.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/26/texts/0/text"	"Да! Вы вставили в слот карту, лампочка вспыхнула зеленым светом, и по периметру люка открылись отверстия, в которые стала засасываться вода из шахты. Совсем немного, и дверь люка открылась. Вы забрали свою карту и заплыли в небольшую камеру, за которой была еще одна дверь. Затем первая дверь закрылась, и вода стала уходить через специальные щели в полу, пока камера совсем не очистилась от воды. Вторая дверь перед вами открылась, и вы прошли через нее.
+
+Вы оказались в небольшом прямоугольном помещении, весь потолок которого представлял собой огромную диафрагму. В центре помещения - небольшой <clr>батискаф<clrEnd>."	"Quest Diver.qmm: locations.26.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/26/texts/1/text"	"Да! Вы вставили в слот карту, лампочка вспыхнула зеленым светом, и дверь медленно открылась, впустив вас в небольшую камеру внутри, после чего захлопнулась позади вас. И тут же открылась другая дверь шлюза. 
+
+Вы оказались в небольшом прямоугольном помещении, весь потолок которого представлял собой огромную диафрагму. В центре помещения - небольшой <clr>батискаф<clrEnd>."	"Quest Diver.qmm: locations.26.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/26/texts/2/text"	"Водя лучом прожектора по стенам и потолку помещения, вы установили, что перед вами - нечто вроде ангара, предназначенного для единственной цели - отправлять и принимать в простор океана <clr>батискаф<clrEnd>, расположенный тут же, под отверстием шлюза. По периметру помещения тянутся трубы и провода. Больше ничего сколько-нибудь примечательного вы не заметили."	"Quest Diver.qmm: locations.26.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/26/texts/3/text"	"Вы выбираетесь наружу из батискафа."	"Quest Diver.qmm: locations.26.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/27/texts/0/text"	"Вам не составило большого труда открыть дверь аппарата и залезть внутрь. Три сиденья, пульт управления, <clr>терминал<clrEnd> с надписью ""Удаленный терминал Г"", грузовой отсек сзади - тесно, но вполне достаточно, чтобы поднять на борт весь экипаж ракетной станции и небольшое количество груза.
+И только теперь вы заметили, что за пультом управления лежит <clr>тело человека<clrEnd>. Рядом с ним на сиденье - пластиковая <clr>карта серебристого цвета<clrEnd>. Вы отодвигаете тело от пульта, а карту берете себе."	"Quest Diver.qmm: locations.27.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/27/texts/1/text"	"Вы в батискафе. Что делать?"	"Quest Diver.qmm: locations.27.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/27/texts/2/text"	"Вы нажали на кнопку, но рядом с ней высветилась и мигнула желтым светом надпись: ""Разгерметизация ангара невозможна. Внешний шлюз заблокирован"". Что-то вы не учли..."	"Quest Diver.qmm: locations.27.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/29/texts/0/text"	"Как только вы вставили карту в слот терминала, его экран зажегся!"	"Quest Diver.qmm: locations.29.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/29/texts/1/text"	"Достать карту обратно или продолжить работу?"	"Quest Diver.qmm: locations.29.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/30/texts/0/text"	"Вторая карта разместилась рядом с первой."	"Quest Diver.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/30/texts/1/text"	"Достать карты обратно или продолжить работу?"	"Quest Diver.qmm: locations.30.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/31/texts/0/text"	"Третья карта заполнила последний слот."	"Quest Diver.qmm: locations.31.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/31/texts/1/text"	"Достать карты обратно или продолжить работу?"	"Quest Diver.qmm: locations.31.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/32/texts/0/text"	"И что же делать с этим терминалом?"	"Quest Diver.qmm: locations.32.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/32/texts/1/text"	"Вы вынимаете из слота карту, и экран терминала тут же гаснет."	"Quest Diver.qmm: locations.32.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/32/texts/2/text"	"Вы вынимаете обе карты из терминала, и его экран тут же гаснет."	"Quest Diver.qmm: locations.32.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/32/texts/3/text"	"Вы вынимаете все три карты из слотов, и экран терминала тут же гаснет."	"Quest Diver.qmm: locations.32.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/32/texts/4/text"	"Терминал представляет собой небольшой экран. Клавиш нет, лишь три пустых слота. Вы потыкали в экран и рядом с ним пальцами, но тщетно - ничего не работает."	"Quest Diver.qmm: locations.32.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/33/texts/0/text"	"Закрыть люк - проще простого, но понять, как работает батискаф и как открыть люк над головой, чтобы вас поглотило море, оказалось значительно сложней. В конце концов, провозившись с минуту, вы нашли кнопку с надписью ""Открыть внешний шлюз"". Нажимать?"	"Quest Diver.qmm: locations.33.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/33/texts/1/text"	"Вы в батискафе, люк задраен. Что делать?"	"Quest Diver.qmm: locations.33.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/34/texts/0/text"	"Терминал представляет собой сенсорный экран и три слота под ним. И что же с ним делать?"	"Quest Diver.qmm: locations.34.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/34/texts/1/text"	"Никакого эффекта. Экран терминала не отвечает, хотя никаких признаков повреждений нет. Должно быть, этот терминал надо предварительно активировать каким-то другим образом."	"Quest Diver.qmm: locations.34.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/36/texts/0/text"	"Нажав на кнопку, вы услышали громкий шум воды, заполняющей пространство вокруг вас. Так продолжалось где-то с минуту, после чего диафрагма в потолке стала медленно раскрываться. Понажимав на педали и подергав руль, вы освоились-таки с управлением и худо-бедно, но подняли батискаф. Путь свободен! Вы устремились в открытый океан - вверх, к поверхности воды, где вы могли различить очертания шхуны ""Последняя надежда""."	"Quest Diver.qmm: locations.36.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/37/texts/0/text"	"Вы попробовали обыскать обломки, завалившие дно шахты, но, провозившись с полминуты, поняли, что дело это неблагодарное - вода в шахте серьезно мешает работе, замедляя движения, обломки переплывают с места на место, а столб пыли, кружащийся в толще воды, затрудняет видимость. Впрочем, вы можете постараться еще."	"Quest Diver.qmm: locations.37.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/39/texts/0/text"	"- <Ranger>, что же вы так: сами поднялись, а контейнер забыли? - сурово встретил вас капитан после того, как вы с триумфом взошли на борт. - Армейский батискаф нам, конечно же, пригодится, но как быть с основной частью вашей миссии?"	"Quest Diver.qmm: locations.39.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/40/texts/0/text"	"Когда вы высадились на корабле, вас встретил шквал аплодисментов!
+- Отлично, <Ranger>! - похлопал вас по плечу капитан. - Мы получили контейнер с боеголовкой, да и сами вы невредимы! Мы знали, что вы справитесь! Кроме того, вы привели нам батискаф, и по его бортовому самописцу можно будет восстановить картину происшедшего на станции. Да и лишний батискаф - вещь нужная в нашем деле. Мы вас премируем за него суммой в {500} cr (у вас на счету теперь [p48] cr).
+
+Через некоторое время специалисты прочитали и расшифровали информацию с бортового компьютера батискафа. С ее помощью была восстановлена примерная картина событий, происходивших на станции. Причиной катастрофы, по всей видимости, стало локальное землетрясение, которое повредило ракетную шахту и саму ракету, а также вызвало деформацию станции в нескольких местах. Вода хлынула в ракетную шахту, сработала автоблокировка всех люков, но лифт, обрушившийся от деформации технической шахты, заклинил технический шлюз, тем самым помешав ему закрыться полностью. При обрушении лифта также погиб первый сотрудник, находившийся в нем.
+Вода стала быстро поступать в техническую шахту сквозь полураскрытые створки технического шлюза. Второй сотрудник, находившийся в этот момент в Центре управления, успел надеть водолазный костюм, но как только он открыл дверь, хлынувшая внутрь вода отбросила его на пульт управления, в результате чего он либо скончался сразу от удара, либо потерял сознание и скончался несколько позже. Пульты управления станцией и терминал также вышли из строя.
+Причина смерти третьего сотрудника ясна наименее других; скорее всего, он запаниковал и, потеряв способность к анализу ситуации, умер в батискафе, когда закончился кислород.
+Когда же вы, проникая на станцию, взорвали верхний ракетный люк, бортовые системы безопасности распознали это как агрессию извне. Поскольку на станции хранятся секретные навигационные данные, была запущена система самоуничтожения, включился обратный отсчет. Отключить ее можно было только обладая высшим уровнем доступа, используя карты доступа всех трех сотрудников.
+
+Всю дорогу к побережью вы пили коктейли и закусывали в кругу экипажа шхуны, слушая непринужденные шутки и морские анекдоты. Вас высадили на берег и еще раз одарили аплодисментами. В отличном расположении духа вы поймали такси и отправились в космопорт. Осталось лишь вернуться на планету <FromPlanet> за своими <Money> cr!"	"Quest Diver.qmm: locations.40.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/42/texts/0/text"	"- Сейчас мы находимся точно над ракетной шахтой. Проникать будем именно через эту шахту, поскольку открыть главную док-станцию базы с внешней стороны нельзя, и взорвать ее тоже затруднительно. С другой стороны, люк ракетной шахты тонкий, и мы взорвем его небольшой проксиловой шашкой. Точнее, вы взорвете. Далее, вы проникаете через эту шахту, с вами идет контейнер на длинном фале. Вы можете перемещаться вверх и вниз вместе с контейнером, ухватившись за фал. 
+Вы контролируете движение контейнера при помощи кнопок. Эта кнопка - вверх, эта - вниз, а вот эта - контейнер отправляется обратно на корабль. Кроме того, ваш костюм укомплектован часами с таймером, компактным водолазным ломом с сервоусилителем и ножом.
+Когда достигнете ракетной шахты, прикрепляете к ней вот эту шашку, затем поднимаетесь вместе с контейнером вверх метров на пятнадцать, после чего нажимаете на кнопку на вот этом устройстве, которое мы крепим к вашему запястью. Шашка должна разрушить ракетный люк. Снова спускаетесь и вместе с контейнером проникаете в ракетную шахту. Далее действуете по собственному усмотрению - нам ничего не известно о внутреннем устройстве станции."	"Quest Diver.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/42/texts/1/text"	"- На этот счет у нас нет никаких предположений. Видите ли, нам неизвестно внутреннее устройство станции, а военные отказываются с нами сотрудничать. Все, что мы знаем - это что есть ракета, которую нужно обезопасить. Если не получится - возвращайтесь, мы наймем другого специалиста."	"Quest Diver.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/42/texts/2/text"	"- Этого мы точно не знаем, не знают этого и военные. Скорее всего - какое-то землетрясение. Военные просканировали станцию на предмет наличия живых людей, и когда убедились, что живых там нет, просто забыли о ней. Сейчас на нашей планете армии сильно урезают бюджет, так что они стараются экономить на всем, чем только могут."	"Quest Diver.qmm: locations.42.texts.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/42/texts/3/text"	"- На этот счет не беспокойтесь, воздуха в баллоне хватает на два часа с лишним - этого более чем достаточно, чтобы сделать все, что нужно на такой небольшой станции."	"Quest Diver.qmm: locations.42.texts.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/42/texts/4/text"	"- Недавно мы обнаружили в одном из океанических хребтов полуразрушенную подводную станцию слежения с ракетной шахтой. Мы, конечно же, обеспокоились вопросом, а нет ли в этой шахте ракет с каким-нибудь химическим или бактериологическим оружием. Военные это отрицают, говоря, что такое оружие не применяется на подводных пусковых установках, но у нас есть серьезные основания думать, что они лгут. Не буду раскрывать наши источники, но с очень большой вероятностью ракеты с опаснейшим оружием на шахте остались, что создает огромную угрозу экосистеме всей акватории. Как вы понимаете, малейшее землетрясение, малейший тектонический сдвиг, и может погибнуть все живое в океане на тысячи миль вокруг. 
+<Ranger>, нам нужен кто-то, кто сможет <clr>проникнуть на эту подводную шахту и обезопасить ракету<clrEnd>. Военные отказываются это сделать, среди своих кадров мы тоже не нашли никого, кто был бы готов подвергнуть свою жизнь такому риску, даже за деньги. 
+Необязательно вынимать ракеты, достаточно лишь <clr>снять с них головки с поражающей начинкой<clrEnd>. В принципе, это очень маленькая станция, в которой на постоянном дежурстве должна быть всего <clr>одна ракета<clrEnd>, поэтому ваша задача сильно упрощается. Она состоит в том, чтобы проникнуть на станцию, найти ракету, <clr>снять головку ракеты и положить ее в контейнер<clrEnd>, который мы вам дадим, после чего отдать команду на его подъем. Вот, в общем-то, и все. 
+У вас есть вопросы, <Ranger>?"	"Quest Diver.qmm: locations.42.texts.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/44/texts/0/text"	"Команда встретила вас шутками и бурными аплодисментами - ведь вы выполнили свою миссию!
+
+Всю дорогу к побережью вы пили коктейли и закусывали в кругу экипажа шхуны, слушая непринужденные шутки и морские анекдоты. Вас высадили на берег и еще раз одарили аплодисментами. В отличном расположении духа вы поймали такси и отправились в космопорт. Осталось лишь вернуться на планету <FromPlanet> за своими <Money> cr!"	"Quest Diver.qmm: locations.44.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/45/texts/0/text"	"- Отлично, <Ranger>! - похлопал вас по плечу капитан, увидев боеголовку. - Мы знали, что вы справитесь! Кроме того, вы привели нам батискаф, по его бортовому самописцу можно будет восстановить картину происшествия на станции. Да и лишний батискаф - вещь нужная в нашем деле. Мы вас премируем за него суммой в {500} cr (у вас на счету теперь [p48] cr).
+
+Через некоторое время специалисты прочитали и расшифровали информацию с бортового компьютера батискафа. С ее помощью была восстановлена примерная картина событий, происходивших на станции. Причиной катастрофы, по всей видимости, стало локальное землетрясение, которое повредило ракетную шахту и саму ракету, а также вызвало деформацию станции в нескольких местах. Вода хлынула в ракетную шахту, сработала автоблокировка всех люков, но лифт, обрушившийся от деформации технической шахты, заклинил технический шлюз, тем самым помешав ему закрыться полностью. При обрушении лифта также погиб первый сотрудник, находившийся в нем.
+Вода стала быстро поступать в техническую шахту сквозь полураскрытые створки технического шлюза. Второй сотрудник, находившийся в этот момент в Центре управления, успел надеть водолазный костюм, но как только он открыл дверь, хлынувшая внутрь вода отбросила его на пульт управления, в результате чего он либо скончался сразу от удара, либо потерял сознание и скончался несколько позже. Пульты управления станцией и терминал также вышли из строя.
+Причина смерти третьего сотрудника ясна наименее других; скорее всего, он запаниковал и, потеряв способность к анализу ситуации, умер в батискафе, когда закончился кислород.
+Когда же вы, проникая на станцию, взорвали верхний ракетный люк, бортовые системы безопасности распознали это как агрессию извне. Поскольку на станции хранятся секретные навигационные данные, была запущена система самоуничтожения, включился обратный отсчет. Отключить ее можно было только обладая высшим уровнем доступа, используя карты доступа всех трех сотрудников.
+
+Всю дорогу к побережью вы пили коктейли и закусывали в кругу экипажа шхуны, слушая непринужденные шутки и морские анекдоты. Вас высадили на берег и еще раз одарили аплодисментами. В отличном расположении духа вы поймали такси и отправились в космопорт. Осталось лишь вернуться на планету <FromPlanet> за своими <Money> cr!"	"Quest Diver.qmm: locations.45.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/46/texts/0/text"	"- Ну ничего, сейчас мы сами поднимем контейнер.
+
+Контейнер подняли из пучин, но боеголовки в нем не было - столько времени и нервов потрачено впустую.
+- Ничего, ничего, - утешил вас капитан. - Всякое бывает. Мы знали, что задача не из легких. Мы просто наймем другого специалиста, а вас проводим на берег. Спасибо за то, что постарались.
+
+Все время, пока корабль плыл к берегу, вы пребывали в довольно невеселом настроении."	"Quest Diver.qmm: locations.46.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/47/texts/0/text"	"Вы медленно и аккуратно кладете головку в контейнер. Теперь вам ничто не мешает послать опасный груз на корабль, что вы и делаете, нажав соответствующую кнопку. Ваша миссия выполнена, но надо еще подумать, как отсюда выбраться."	"Quest Diver.qmm: locations.47.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/locations/48/texts/0/text"	"УСЛОВНЫЕ ОБОЗНАЧЕНИЯ:
+
+1) Внешний ракетный люк
+2) Внешний шлюз
+3) Ракетная шахта
+4) Ангар
+5) Техническая шахта с лифтом
+6) Контрольный шлюз
+7) Центр управления
+8) Кают-компания
+9) Технический шлюз
+10) Внутренний ракетный люк
+11) Технический отсек
+12) Ракетный отсек
+13) Ракета САСР-13
+14) Батискаф В-14 ""Линарис""
+15) Терминалы
+16) Удалённый терминал"	"Quest Diver.qmm: locations.48.texts.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/0/text"	"Плыть вниз, в шахту"	"Quest Diver.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/1/text"	"Вопросов нет, давайте уже приступать"	"Quest Diver.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/2/text"	"Попытаться ломиком раскрыть створки люка-диафрагмы в дне шахты"	"Quest Diver.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/3/text"	"Плыть сквозь шлюз в стене шахты"	"Quest Diver.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/4/text"	"Отправить контейнер обратно на корабль"	"Quest Diver.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/5/text"	"Ухватиться за фал"	"Quest Diver.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/6/text"	"Пусть уходит - я знаю, что делаю"	"Quest Diver.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/7/text"	"Послать вниз контейнер"	"Quest Diver.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/10/text"	"Плыть вверх, к горловине шахты"	"Quest Diver.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/11/text"	"Исследовать шахту"	"Quest Diver.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/12/text"	"Плыть сквозь шлюз обратно в ракетную шахту"	"Quest Diver.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/13/text"	"Светя прожектором, исследовать помещение более внимательно"	"Quest Diver.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/14/text"	"Проверить, есть ли воздух в баллоне на теле человека"	"Quest Diver.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/15/text"	"Взять из шкафа ружье"	"Quest Diver.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/16/text"	"Обследовать терминал"	"Quest Diver.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/17/text"	"Выплыть из центра управления"	"Quest Diver.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/18/text"	"Плыть в ""Кают-компанию"""	"Quest Diver.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/19/text"	"Открыть технический шлюз, ведущий в ракетную шахту"	"Quest Diver.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/20/text"	"Идти в ""Центр управления"""	"Quest Diver.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/21/text"	"Идти в ""Центр управления"""	"Quest Diver.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/22/text"	"Выйти из центра управления"	"Quest Diver.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/23/text"	"Выйти из центра управления"	"Quest Diver.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/24/text"	"Идти в ""Кают-компанию"""	"Quest Diver.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/25/text"	"Идти в ""Кают-компанию"""	"Quest Diver.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/26/text"	"Взять из шкафа водолазный костюм"	"Quest Diver.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/27/text"	"Светя прожектором, исследовать помещение более внимательно"	"Quest Diver.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/28/text"	"Плыть в ""Центр управления"""	"Quest Diver.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/29/text"	"Взять зубную щетку"	"Quest Diver.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/30/text"	"Взять электронную книгу"	"Quest Diver.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/31/text"	"Подойти к терминалу"	"Quest Diver.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/32/text"	"Вставить в слот терминала желтую карту"	"Quest Diver.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/33/text"	"Вставить в слот терминала красную карту"	"Quest Diver.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/34/text"	"Вставить в слот терминала серебристую карту"	"Quest Diver.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/35/text"	"Работать с терминалом"	"Quest Diver.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/37/text"	"Нажать <clr>""ВНЕШНИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/38/text"	"Нажать <clr>""СИСТЕМЫ БЕЗОПАСНОСТИ""<clrEnd>"	"Quest Diver.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/39/text"	"Нажать <clr>""КОММУНИКАЦИИ""<clrEnd>"	"Quest Diver.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/40/text"	"Нажать <clr>""ПУСКОВОЕ УСТРОЙСТВО""<clrEnd>"	"Quest Diver.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/41/text"	"Нажать <clr>""СИСТЕМЫ ЖИЗНЕОБЕСПЕЧЕНИЯ""<clrEnd>"	"Quest Diver.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/42/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/43/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/44/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/45/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/46/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/47/text"	"Нажать <clr>""РАЗБЛОКИРОВАТЬ ВНЕШНИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/47/description"	"Вы слышите отдаленный шум.
+
+<clr>Внешний шлюз разблокирован.<clrEnd>"	"Quest Diver.qmm: jumps.47.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/49/text"	"Нажать <clr>""ОТКЛЮЧИТЬ СИСТЕМУ САМОУНИЧТОЖЕНИЯ""<clrEnd>"	"Quest Diver.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/49/description"	"<clr>Отключение системы самоуничтожения невозможно. Причина: недостаточно прав доступа.<clrEnd>
+
+Хм-хм... что бы это значило?"	"Quest Diver.qmm: jumps.49.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/50/text"	"Нажать <clr>""ОТКЛЮЧИТЬ СИСТЕМУ САМОУНИЧТОЖЕНИЯ""<clrEnd>"	"Quest Diver.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/50/description"	"<clr>Система самоуничтожения отключена.<clrEnd>
+
+Красные лампочки перестают мигать, и вы с облегчением выключаете таймер на своих часах."	"Quest Diver.qmm: jumps.50.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/52/text"	"Нажать <clr>""ЗАДРАИТЬ ТЕХНИЧЕСКИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/52/description"	"Раздается гул насосов, и вода постепенно начинает убывать.
+
+<clr>Технический шлюз задраен, станция герметизирована, идет откачка воды.<clrEnd>
+
+Теперь техническая шахта и другие помещения освобождены от воды. Вы попробовали дышать без маски, но кислорода на станции уже давно нет - придется продолжать пользоваться воздухом из баллона."	"Quest Diver.qmm: jumps.52.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/53/text"	"Нажать <clr>""ОТКРЫТЬ ТЕХНИЧЕСКИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/53/description"	"Вы слышите гул насосов, и отовсюду начинает прибывать вода. Через несколько секунд она заполняет весь объем помещений.
+
+<clr>Технический шлюз открыт. ОПАСНОСТЬ: ПОЛНАЯ РАЗГЕРМЕТИЗАЦИЯ СТАНЦИИ! Персоналу находиться в водолазных костюмах.<clrEnd>
+
+Теперь помещения станции вновь заполнены водой."	"Quest Diver.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/54/text"	"Нажать <clr>""ЗАДРАИТЬ ТЕХНИЧЕСКИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/54/description"	"Вы слышите два глухих стука, раздается гул насосов, но затем снова умолкает.
+
+<clr>Невозможно задраить технический шлюз ввиду повреждения.<clrEnd>
+
+Странно. Что-то не так."	"Quest Diver.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/56/text"	"Нажать <clr>""ВКЛЮЧИТЬ УДАЛЕННЫЙ ТЕРМИНАЛ""<clrEnd>"	"Quest Diver.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/56/description"	"<clr>Удаленный терминал включен. Информация синхронизирована.<clrEnd>"	"Quest Diver.qmm: jumps.56.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/57/text"	"Нажать <clr>""ВКЛЮЧИТЬ УДАЛЕННЫЙ ТЕРМИНАЛ""<clrEnd>"	"Quest Diver.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/57/description"	"<clr>Включение удаленного терминала невозможно. Причина: недостаточно прав доступа.<clrEnd>
+
+Хм, интересно..."	"Quest Diver.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/58/text"	"Нажать <clr>""ОТКЛЮЧИТЬ УДАЛЕННЫЙ ТЕРМИНАЛ""<clrEnd>"	"Quest Diver.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/58/description"	"<clr>Удаленный терминал отключен.<clrEnd>"	"Quest Diver.qmm: jumps.58.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/59/text"	"Нажать <clr>""ОТКЛЮЧИТЬ УДАЛЕННЫЙ ТЕРМИНАЛ""<clrEnd>"	"Quest Diver.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/59/description"	"<clr>Отключение удаленного терминала невозможно. Причина: недостаточно прав доступа.<clrEnd>
+
+Хм, интересно..."	"Quest Diver.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/60/text"	"Нажать <clr>""ОТКРЫТЬ РАКЕТНЫЕ ЛЮКИ""<clrEnd>"	"Quest Diver.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/60/description"	"Вы слышите едва различимый гул.
+
+<clr>Ракетные люки открыты.<clrEnd>"	"Quest Diver.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/61/text"	"Нажать <clr>""ОТКРЫТЬ РАКЕТНЫЕ ЛЮКИ""<clrEnd>"	"Quest Diver.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/61/description"	"<clr>Открытие ракетных люков невозможно. Причина: недостаточно прав доступа.<clrEnd>
+
+Странно..."	"Quest Diver.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/62/text"	"Нажать <clr>""ЗАКРЫТЬ РАКЕТНЫЕ ЛЮКИ""<clrEnd>"	"Quest Diver.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/62/description"	"Вы слышите едва различимый гул.
+
+<clr>Ракетные люки закрыты.<clrEnd>"	"Quest Diver.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/63/text"	"Нажать <clr>""ЗАКРЫТЬ РАКЕТНЫЕ ЛЮКИ""<clrEnd>"	"Quest Diver.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/63/description"	"<clr>Закрытие ракетных люков невозможно. Причина: недостаточно прав доступа.<clrEnd>
+
+Интересно, что бы это значило..."	"Quest Diver.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/64/text"	"Нажать <clr>""ЗАБЛОКИРОВАТЬ ВНЕШНИЙ ШЛЮЗ""<clrEnd>"	"Quest Diver.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/64/description"	"Вы слышите отдаленный шум.
+
+<clr>Внешний шлюз заблокирован.<clrEnd>"	"Quest Diver.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/67/text"	"Снять ласты - так можно быстрее лазать по лестнице вверх и вниз"	"Quest Diver.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/68/text"	"Надеть ласты, чтобы лучше плавать"	"Quest Diver.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/69/text"	"Ружьем разрезать рельс, заклинивший технический шлюз"	"Quest Diver.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/70/text"	"Расчистить завал на дне шахты"	"Quest Diver.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/71/text"	"Снять головку ракеты"	"Quest Diver.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/72/text"	"Положить головку в контейнер и отправить его домой"	"Quest Diver.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/73/text"	"Ухватиться за фал и подниматься на корабль вместе с контейнером"	"Quest Diver.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/73/description"	"Вы хватаетесь за фал контейнера и начинаете подниматься вместе с ним, что несколько быстрее, чем своим ходом. Как же медленно тикают секунды на ваших часах!
+
+Только ступив на борт, вы кричите:
+
+- Сейчас шахта взорвется, срочно полный вперед!"	"Quest Diver.qmm: jumps.73.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/74/text"	"Пусть идет один, я знаю, что делаю"	"Quest Diver.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/75/text"	"Плыть в ""Контрольный шлюз"""	"Quest Diver.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/76/text"	"Выйти из кают-компании"	"Quest Diver.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/77/text"	"Выйти из кают-компании"	"Quest Diver.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/78/text"	"Выплыть из кают-компании"	"Quest Diver.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/79/text"	"Идти в ""Контрольный шлюз"""	"Quest Diver.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/80/text"	"Идти в ""Контрольный шлюз"""	"Quest Diver.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/81/text"	"Плыть в ""Кают-компанию"""	"Quest Diver.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/82/text"	"Плыть в ""Кают-компанию"""	"Quest Diver.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/83/text"	"Вставить в слот желтую карточку"	"Quest Diver.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/84/text"	"Вставить в слот красную карточку"	"Quest Diver.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/85/text"	"Вставить в слот серебристую карточку"	"Quest Diver.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/86/text"	"Забраться в батискаф"	"Quest Diver.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/87/text"	"Исследовать помещение более внимательно"	"Quest Diver.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/88/text"	"Вставить в слот красную карточку"	"Quest Diver.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/89/text"	"Вставить в слот желтую карточку"	"Quest Diver.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/90/text"	"Вставить в слот серебристую карточку"	"Quest Diver.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/91/text"	"Пока вам здесь делать нечего (отправиться через контрольный шлюз обратно в техническую шахту)"	"Quest Diver.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/93/text"	"Отойти от терминала"	"Quest Diver.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/94/text"	"Вставить во второй слот желтую карту"	"Quest Diver.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/95/text"	"Вставить во второй слот красную карту"	"Quest Diver.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/96/text"	"Вставить во второй слот серебристую карту"	"Quest Diver.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/97/text"	"Вставить в последний слот желтую карту"	"Quest Diver.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/98/text"	"Вставить в последний слот красную карту"	"Quest Diver.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/99/text"	"Вставить в последний слот серебристую карту"	"Quest Diver.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/100/text"	"Работать с терминалом"	"Quest Diver.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/101/text"	"Работать с терминалом"	"Quest Diver.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/102/text"	"Достать карту обратно"	"Quest Diver.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/103/text"	"Достать карту обратно"	"Quest Diver.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/103/description"	"Вы вынимаете из слота карту, и экран терминала тут же гаснет."	"Quest Diver.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/104/text"	"Достать карту обратно"	"Quest Diver.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/105/text"	"Достать обратно обе карты"	"Quest Diver.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/106/text"	"Достать обратно обе карты"	"Quest Diver.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/107/text"	"Достать обратно обе карты"	"Quest Diver.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/108/text"	"Достать обратно все карты"	"Quest Diver.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/109/text"	"Закончить работу"	"Quest Diver.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/110/text"	"Закончить работу"	"Quest Diver.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/111/text"	"Закончить работу"	"Quest Diver.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/113/text"	"Задраить люк и уплывать отсюда подальше"	"Quest Diver.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/114/text"	"Обследовать терминал"	"Quest Diver.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/115/text"	"Обследовать терминал"	"Quest Diver.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/116/text"	"Вставить в слот терминала желтую карту"	"Quest Diver.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/117/text"	"Вставить в слот терминала красную карту"	"Quest Diver.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/118/text"	"Вставить в слот терминала серебристую карту"	"Quest Diver.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/120/text"	"Хватит работать с терминалом, есть и другие дела"	"Quest Diver.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/121/text"	"Обследовать терминал"	"Quest Diver.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/122/text"	"Обследовать терминал"	"Quest Diver.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/123/text"	"Закончить с терминалом"	"Quest Diver.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/124/text"	"Закончить с терминалом"	"Quest Diver.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/125/text"	"Хватит работать с терминалом, есть и другие дела"	"Quest Diver.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/126/text"	"Вылезти наружу из батискафа"	"Quest Diver.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/127/text"	"ДА!"	"Quest Diver.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/128/text"	"ДА!"	"Quest Diver.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/129/text"	"Вылезти наружу из батискафа"	"Quest Diver.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/130/text"	"Продолжать работать"	"Quest Diver.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/131/text"	"Отказаться от этой затеи"	"Quest Diver.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/132/text"	"Расчистить завал на дне шахты"	"Quest Diver.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/133/text"	"Внимательно слушать"	"Quest Diver.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/134/text"	"А надолго мне хватит воздуха?"	"Quest Diver.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/135/text"	"А что именно случилось, почему станция разрушена?"	"Quest Diver.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/137/text"	"А что, все-таки, мне конкретно делать внутри станции?"	"Quest Diver.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/138/text"	"Высадиться на корабль"	"Quest Diver.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/139/text"	"Высадиться на корабль"	"Quest Diver.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/140/text"	"Попытаться убрать рельс, заклинивший технический шлюз"	"Quest Diver.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/141/text"	"Плыть сквозь шлюз обратно в ракетную шахту"	"Quest Diver.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/142/text"	"Боже мой, сейчас все взлетит на воздух! (завести на ручных часах таймер, отсчитывающий время до взрыва)"	"Quest Diver.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/144/text"	"Плыть к поверхности своим ходом"	"Quest Diver.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/145/text"	"Плыть вверх, к горловине шахты"	"Quest Diver.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/146/text"	"Вниз"	"Quest Diver.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/148/text"	"Нажать <clr>""ОТКЛЮЧИТЬ СИСТЕМУ САМОУНИЧТОЖЕНИЯ""<clrEnd>"	"Quest Diver.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/148/description"	"<clr>Отключение системы самоуничтожения невозможно. Причина: повреждение боеголовки либо несущих частей ракеты. ДО УСТРАНЕНИЯ УГРОЗЫ СТАНЦИИ СИСТЕМА САМОУНИЧТОЖЕНИЯ БУДЕТ ВКЛЮЧЕНА.<clrEnd>
+
+Хм-хм... что бы это значило?"	"Quest Diver.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/149/text"	"Пока вам здесь делать нечего (отправиться через контрольный шлюз обратно в техническую шахту)"	"Quest Diver.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/150/text"	"Как мне попасть внутрь станции?"	"Quest Diver.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/151/text"	"Ухватиться за фал и подниматься на корабль вместе с контейнером"	"Quest Diver.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/151/description"	"Вы хватаетесь за фал контейнера и начинаете подниматься вместе с ним, что несколько быстрее, чем своим ходом."	"Quest Diver.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/152/text"	"Положить головку в контейнер и отправить его домой"	"Quest Diver.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/153/text"	"Плыть к поверхности своим ходом"	"Quest Diver.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/154/text"	"Плыть к поверхности своим ходом"	"Quest Diver.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/154/description"	"Как же долго плыть до поверхности своим ходом! И как медленно тикают секунды на ваших часах!
+
+Наконец, ступив на борт, вы кричите:
+
+- Сейчас шахта взорвется, срочно полный вперед!"	"Quest Diver.qmm: jumps.154.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/155/text"	"Высадиться на корабль"	"Quest Diver.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/156/text"	"Извините, забыл"	"Quest Diver.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/156/description"	"- Ну ничего, сейчас мы сами поднимем контейнер."	"Quest Diver.qmm: jumps.156.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/157/text"	"Извините, забыл"	"Quest Diver.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/158/text"	"Пусть идет один, я знаю, что делаю"	"Quest Diver.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/159/text"	"Ухватиться за фал и подниматься на корабль вместе с контейнером"	"Quest Diver.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/159/description"	"Вы хватаетесь за фал контейнера и начинаете подниматься вместе с ним, что несколько быстрее, чем своим ходом."	"Quest Diver.qmm: jumps.159.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/160/text"	"Ухватиться за фал и подниматься на корабль вместе с контейнером"	"Quest Diver.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/160/description"	"Вы хватаетесь за фал контейнера и начинаете подниматься вместе с ним, что несколько быстрее, чем своим ходом. Как же медленно тикают секунды на ваших часах!
+
+Только ступив на борт, вы кричите:
+
+- Сейчас шахта взорвется, срочно полный вперед!"	"Quest Diver.qmm: jumps.160.description. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/161/text"	"Нажать <clr>""КАРТА СТАНЦИИ""<clrEnd>"	"Quest Diver.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Diver"	""
+"/quests/Diver.qmm/jumps/162/text"	"Нажать <clr>""НАЗАД""<clrEnd>"	"Quest Diver.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Diver"	""

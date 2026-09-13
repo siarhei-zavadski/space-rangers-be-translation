@@ -1,0 +1,159 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Megatest.qmm/parameters/0/name"	"Номер вопроса"	"Quest Megatest.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/0/lines/0/content"	"Параметр номер 1: <>"	"Quest Megatest.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/0/crit_text"	"- Боюсь, это задание не по мне...
+- Ну что же, рейнджер, это ваш выбор, - Хфыв был искренне разочарован: похоже, он терял больше, чем вы. Пеленг тут же куда-то умчался, предоставляя возможность самому найти выход из здания, в которое вас привел.
+Пропетляв в коридоре полчаса, вы нашли 10 кредитов и черный ход из здания, который упирался прямо в стоянку гравикаров. Потратив только что найденные деньги на такси, вы в считанные минуты добрались до космопорта и, сев за штурвал, сокрушались по поводу <Money> cr, которые не ждут вас на планете <FromPlanet>.
+
+Миссия провалена."	"Quest Megatest.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/1/name"	"Количество правильных"	"Quest Megatest.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/1/lines/0/content"	"Количество правильных: <>"	"Quest Megatest.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/1/crit_text"	"- Поздравляю! - воскликнул Хфыв. - Вы успешно прошли тест, а значит, сделали для наших друзей с планеты <FromPlanet> ЧРЕЗВЫЧАЙНО доброе дело. Родина вас не забудет, - пеленг козырнул вам и куда-то умчался, предоставляя возможность самому найти выход из здания, в которое вас привел.
+Пропетляв в коридоре полчаса, вы нашли 10 кредитов и черный ход из здания, который упирался прямо в стоянку гравикаров. Потратив только что найденные деньги на такси, вы в считанные минуты добрались до космопорта и, сев за штурвал, грели свою душу мыслью о <Money> cr, которые ждут вас на планете <FromPlanet>."	"Quest Megatest.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/2/name"	"Количество неправильных"	"Quest Megatest.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/2/lines/0/content"	"Количество неправильных: {[p1]-[p2]}"	"Quest Megatest.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/parameters/2/crit_text"	"- Да, радоваться нечему. Как бы это помягче сказать... Вы дали [p2]{0}% правильных ответов на вопросы теста, а значит, провалили возложенную на вас миссию - вздохнул Хфыв. - Родина вас не забудет, - пеленг покачал головой и куда-то умчался, предоставляя возможность самому найти выход из здания, в которое вас привел.
+Пропетляв в коридоре полчаса, вы нашли 10 кредитов и черный ход из здания, который упирался прямо в стоянку гравикаров. Потратив только что найденные деньги на такси, вы в считанные минуты добрались до космопорта и, сев за штурвал, сокрушались по поводу <Money> cr, которые не ждут вас на планете <FromPlanet>."	"Quest Megatest.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/tostar"	"Процион"	"Quest Megatest.qmm: tostar. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/toplanet"	"Проту Помперой"	"Quest Megatest.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/fromplanet"	"Мэредито"	"Quest Megatest.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/fromstar"	"Поллюкс"	"Quest Megatest.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/ranger"	"Доцент"	"Quest Megatest.qmm: ranger. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/success_text"	"Вы замечательно справились. Признайтесь, ведь вы пользовались шпаргалкой, правда? Нет? Ну ладно, дело ваше, можете не признаваться, только не надо менять цвет лица.
+Мы уже перевели более чем заслуженные <Money> cr на ваш счет. Вы не представляете, насколько помогли нам. Теперь, когда представителю нашей расы удалось проникнуть в столь влиятельную организацию, как Всегалактическая Академия Наук, мы сможем диктовать миру... э-э... не важно. Еще раз спасибо, вы свободны."	"Quest Megatest.qmm: success_text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/task_text"	"Задание? Дайте подумать... Ага, есть у нас задание, как раз для рейнджера. Наш соотечественник, старший научный сотрудник Дорд, пару лет назад отправился стажироваться на планету <ToPlanet>,  что в системе <ToStar>. Дела его на научном поприще шли достаточно хорошо: его научные работы были удостоены почетных наград нашего рукава Галактики за вклад в развитие науки. Финальным испытанием для присвоения Дорду звания Галактического Академика стала разработка специальной системы тестирования знаний для выпускников вечерней школы рейнджеров. Оценка этой системы дала неоднозначные результаты: группа рейнджеров просто не смогла дать правильные ответы на вопросы этого тестирования. Предлагаем вам отправиться на планету <ToPlanet> для прохождения теста с целью помочь выдающемуся ученому современности получить заслуженную ученую степень.
+Вы должны успеть к <Date>; в случае успеха мероприятия награда в <Money> cr будет ждать вас здесь."	"Quest Megatest.qmm: task_text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/0/text"	"Космопорт планеты <ToPlanet> оказался той еще дырой, потому вы решили как можно быстрее завершить здесь свои дела. На выходе из таможенного контроля вас встретил низенький пеленг темно-бурого цвета.
+- Вы рейнджер <Ranger>? Можете звать меня Хфыв, я представитель планеты <FromPlanet>. Раз вы здесь - значит, вы не передумали оказать помощь нашим малокским друзьям. Идемте же скорее на тестирование.
+- Постойте, - возразили вы, - я не совсем понял, что именно от меня требуется.
+- Ну, Дорд разработал экзаменационные билеты для проверки знаний рейнджеров. Но самим билетам не вполне удалось пройти проверку на пригодность. Потому правительство планеты <FromPlanet> и озаботилось набором добровольцев для тестирования билетов. Вы и еще несколько рейнджеров сдадите экзамен по этим билетам и, с учетом того, что вы УЖЕ рейнджеры и потому в полной мере обладаете необходимыми знаниями, сдав экзамен на ""отлично"", подтвердите правомерность использования данной системы... фух, для проверки знаний выпускников вечерней школы рейнджеров.
+- А что представляют из себя эти билеты?
+- Билетов всего {250}; достаточно правильно ответить на девять из десяти вопросов только одного билета. Вам и нужно-то выбрать один из четырех предложенных ответов. С вашим-то опытом вы уже можете придумывать, на что потратите свое вознаграждение... Вы ведь не передумали помогать нам?"	"Quest Megatest.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/1/text"	"Вопрос {2}
+Раздел: <clr>Клисановедение<clrEnd>
+Какой из перечисленных типов клисанских кораблей является наиболее крупным?"	"Quest Megatest.qmm: locations.0.texts.1.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/2/text"	"Вопрос {4}
+Раздел: <clr>Литература<clrEnd>
+Вставьте недостающую строку в походный марш ""За победой"" гениального малокского творца Рентера:
+ ""Мы победим,
+ .......................
+ Хватай знамена,
+ Враг трепещет"""	"Quest Megatest.qmm: locations.0.texts.2.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/3/text"	"Вопрос {6}
+Раздел: <clr>Этикет<clrEnd>
+Вы на рауте, среди прочих приглашенных - некий известный лякуша, которого, согласно заданию, вам надо убить. В вашем распоряжении только яд, потому единственный способ осуществить задуманное - войти в доверие к лякуше. Вот вы как бы ненароком оказались прямо возле него. Как вы будете его приветствовать?"	"Quest Megatest.qmm: locations.0.texts.3.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/4/text"	"Вопрос {8}
+Раздел: <clr>Расовое законодательство<clrEnd>
+Назовите наркотик, запрещенный к употреблению на фэянских планетах."	"Quest Megatest.qmm: locations.0.texts.4.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/locations/0/texts/5/text"	"Вопрос {10}
+Раздел: <clr>Боевая дисциплина<clrEnd>
+Представьте, что вам поручили охранять корабль главнокомандующего малокского флота. Что вы предпримите при встрече с превосходящими силами клисан?"	"Quest Megatest.qmm: locations.0.texts.5.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/0/text"	"Нет, конечно, не передумал"	"Quest Megatest.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/0/description"	"- Отлично, - Хфыв буквально схватил вас в охапку, и потащил по направлению к припаркованному у входа в космопорт гравимузину. Вы и глазом моргнуть не успели, как были усажены на заднее сиденье этого транспортного средства. Уже через какие-то пару минут Хфыв вел вас длинными светлыми коридорами какого-то явно административного здания. Вы едва успевали смотреть по сторонам, как ловкий пеленг буквально впихнул вас в небольшую комнатушку.
+В комнате из мебели было только два письменных стола: один помассивнее, настоящий стол начальника, второй - некое подобие учебной парты. Кроме вас в комнате был дряхлый засыпающий гаалец. При виде вас он встрепенулся и произнес:
+- <Ranger>? Опаздываете. Прошу вас тянуть билет и приступать к экзамену.
+Вы вытащили билет, назвали гаальцу номер {[1..250]} и уселись за парту.
+Итак, каких-то десять вопросов, за которые вам заплатят <Money> cr - кажется, оно того стоит. Вопрос номер один был таким:
+
+Вопрос {1}
+Раздел: <clr>История<clrEnd>
+Назовите планету - колыбель фэянской расы."	"Quest Megatest.qmm: jumps.0.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/1/text"	"Помогать вам? У меня и в мыслях не было"	"Quest Megatest.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/2/text"	"Пхедок"	"Quest Megatest.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/3/text"	"Эйманаполон"	"Quest Megatest.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/4/text"	"Умий"	"Quest Megatest.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/5/text"	"Эйпентак"	"Quest Megatest.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/6/text"	"Мутёнок"	"Quest Megatest.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/6/description"	"Вопрос {3}
+Раздел: <clr>Политика<clrEnd>
+Международные переговоры, проходящие в прошлом году, между планетами <ToPlanet> и <FromPlanet> не увенчались успехом потому, что <clr>диктатор Бдангдыр<clrEnd> отказался выполнить один из пунктов Пакта о Сотрудничестве. Этот пункт запрещал на всей территории планеты <FromPlanet> продажу ..."	"Quest Megatest.qmm: jumps.6.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/7/text"	"Ургант"	"Quest Megatest.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/7/description"	"Вопрос {3}
+Раздел: <clr>Политика<clrEnd>
+Международные переговоры, проходящие в прошлом году, между планетами <ToPlanet> и <FromPlanet> не увенчались успехом потому, что <clr>диктатор Бдангдыр<clrEnd> отказался выполнить один из пунктов Пакта о Сотрудничестве. Этот пункт запрещал на всей территории планеты <FromPlanet> продажу ..."	"Quest Megatest.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/8/text"	"Катаури"	"Quest Megatest.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/8/description"	"Вопрос {3}
+Раздел: <clr>Политика<clrEnd>
+Международные переговоры, проходящие в прошлом году, между планетами <ToPlanet> и <FromPlanet> не увенчались успехом потому, что <clr>диктатор Бдангдыр<clrEnd> отказался выполнить один из пунктов Пакта о Сотрудничестве. Этот пункт запрещал на всей территории планеты <FromPlanet> продажу ..."	"Quest Megatest.qmm: jumps.8.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/9/text"	"Эгемон"	"Quest Megatest.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/9/description"	"Вопрос {3}
+Раздел: <clr>Политика<clrEnd>
+Международные переговоры, проходящие в прошлом году, между планетами <ToPlanet> и <FromPlanet> не увенчались успехом потому, что <clr>диктатор Бдангдыр<clrEnd> отказался выполнить один из пунктов Пакта о Сотрудничестве. Этот пункт запрещал на всей территории планеты <FromPlanet> продажу ..."	"Quest Megatest.qmm: jumps.9.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/10/text"	"наркотиков"	"Quest Megatest.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/11/text"	"предметов роскоши"	"Quest Megatest.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/12/text"	"алкоголя"	"Quest Megatest.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/13/text"	"оружия"	"Quest Megatest.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/14/text"	"Пусть Поллюкс блещет"	"Quest Megatest.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/14/description"	"Вопрос {5}
+Раздел: <clr>Культура<clrEnd>
+Назовите главный национальный напиток гаальцев."	"Quest Megatest.qmm: jumps.14.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/15/text"	"Наш бой зловещий"	"Quest Megatest.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/15/description"	"Вопрос {5}
+Раздел: <clr>Культура<clrEnd>
+Назовите главный национальный напиток гаальцев."	"Quest Megatest.qmm: jumps.15.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/16/text"	"Фэян съедим"	"Quest Megatest.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/16/description"	"Вопрос {5}
+Раздел: <clr>Культура<clrEnd>
+Назовите главный национальный напиток гаальцев."	"Quest Megatest.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/17/text"	"Близка победа"	"Quest Megatest.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/17/description"	"Вопрос {5}
+Раздел: <clr>Культура<clrEnd>
+Назовите главный национальный напиток гаальцев."	"Quest Megatest.qmm: jumps.17.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/18/text"	"Уссурийский чай"	"Quest Megatest.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/19/text"	"Втыкилла"	"Quest Megatest.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/20/text"	"Сок из гранулированных зирок"	"Quest Megatest.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/21/text"	"Янвелб"	"Quest Megatest.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/22/text"	"Что есть силы залепить правой лякуше в челюсть"	"Quest Megatest.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/22/description"	"Вопрос {7}
+Раздел: <clr>Естествознание<clrEnd>
+Какое из этих животных питается только растительной пищей?"	"Quest Megatest.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/23/text"	"Плюнуть ему в лицо"	"Quest Megatest.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/23/description"	"Вопрос {7}
+Раздел: <clr>Естествознание<clrEnd>
+Какое из этих животных питается только растительной пищей?"	"Quest Megatest.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/24/text"	"Протянуть руку для рукопожатия"	"Quest Megatest.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/24/description"	"Вопрос {7}
+Раздел: <clr>Естествознание<clrEnd>
+Какое из этих животных питается только растительной пищей?"	"Quest Megatest.qmm: jumps.24.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/25/text"	"Сложить руки на груди и кивнуть"	"Quest Megatest.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/25/description"	"Вопрос {7}
+Раздел: <clr>Естествознание<clrEnd>
+Какое из этих животных питается только растительной пищей?"	"Quest Megatest.qmm: jumps.25.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/26/text"	"Гобзавр"	"Quest Megatest.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/27/text"	"Сварокок"	"Quest Megatest.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/28/text"	"Пенчекряк"	"Quest Megatest.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/29/text"	"Нет правильного ответа среди предложенных"	"Quest Megatest.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/30/text"	"Скраб"	"Quest Megatest.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/30/description"	"Вопрос {9}
+Раздел: <clr>Военные технологии<clrEnd>
+Какой из перечисленных типов оружия обладает максимальной дальностью стрельбы?"	"Quest Megatest.qmm: jumps.30.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/31/text"	"Звездная пыль"	"Quest Megatest.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/31/description"	"Вопрос {9}
+Раздел: <clr>Военные технологии<clrEnd>
+Какой из перечисленных типов оружия обладает максимальной дальностью стрельбы?"	"Quest Megatest.qmm: jumps.31.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/32/text"	"Какао"	"Quest Megatest.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/32/description"	"Вопрос {9}
+Раздел: <clr>Военные технологии<clrEnd>
+Какой из перечисленных типов оружия обладает максимальной дальностью стрельбы?"	"Quest Megatest.qmm: jumps.32.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/33/text"	"Глэп"	"Quest Megatest.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/33/description"	"Вопрос {9}
+Раздел: <clr>Военные технологии<clrEnd>
+Какой из перечисленных типов оружия обладает максимальной дальностью стрельбы?"	"Quest Megatest.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/34/text"	"Разрывное орудие"	"Quest Megatest.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/35/text"	"Прожектор вихря"	"Quest Megatest.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/36/text"	"Промышленный лазер"	"Quest Megatest.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/37/text"	"Ракетница"	"Quest Megatest.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/38/text"	"Попытаюсь мирно с ними договориться"	"Quest Megatest.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/38/description"	"Вы поставили последнюю галочку и положили билет на стол перед гаальцем, последнего пришлось разбудить. Экзаменатор отправил вас за дверь, попросив дождаться результатов теста вне аудитории.
+В коридоре томился неведением Хфыв. Похоже, он волновался не меньше вашего. Не прошло и трёх минут, как Хфыв вошел в экзаменационный кабинет, подавая вам знаки, чтобы вы остались в коридоре. Еще через минуту он вернулся, но по лицу его было трудно понять, насколько успешно вы сдали экзамен."	"Quest Megatest.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/39/text"	"Отправлюсь за подкреплением"	"Quest Megatest.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/39/description"	"Вы поставили последнюю галочку и положили билет на стол перед гаальцем, последнего пришлось разбудить. Экзаменатор отправил вас за дверь, попросив дождаться результатов теста вне аудитории.
+В коридоре томился неведением Хфыв. Похоже, он волновался не меньше вашего. Не прошло и трёх минут, как Хфыв вошел в экзаменационный кабинет, подавая вам знаки, чтобы вы остались в коридоре. Еще через минуту он вернулся, но по лицу его было трудно понять, насколько успешно вы сдали экзамен."	"Quest Megatest.qmm: jumps.39.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/40/text"	"Прикрою главнокомандующего, дав ему возможность сбежать с поля боя"	"Quest Megatest.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/40/description"	"Вы поставили последнюю галочку и положили билет на стол перед гаальцем, последнего пришлось разбудить. Экзаменатор отправил вас за дверь, попросив дождаться результатов теста вне аудитории.
+В коридоре томился неведением Хфыв. Похоже, он волновался не меньше вашего. Не прошло и трёх минут, как Хфыв вошел в экзаменационный кабинет, подавая вам знаки, чтобы вы остались в коридоре. Еще через минуту он вернулся, но по лицу его было трудно понять, насколько успешно вы сдали экзамен."	"Quest Megatest.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/41/text"	"Атакую клисан, постараюсь уничтожить максимальное число кораблей противника"	"Quest Megatest.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/41/description"	"Вы поставили последнюю галочку и положили билет на стол перед гаальцем, последнего пришлось разбудить. Экзаменатор отправил вас за дверь, попросив дождаться результатов теста вне аудитории.
+В коридоре томился неведением Хфыв. Похоже, он волновался не меньше вашего. Не прошло и трёх минут, как Хфыв вошел в экзаменационный кабинет, подавая вам знаки, чтобы вы остались в коридоре. Еще через минуту он вернулся, но по лицу его было трудно понять, насколько успешно вы сдали экзамен."	"Quest Megatest.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/42/text"	"Ждать, что скажет Хфыв"	"Quest Megatest.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Megatest"	""
+"/quests/Megatest.qmm/jumps/43/text"	"Ждать, что скажет Хфыв"	"Quest Megatest.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Megatest"	""

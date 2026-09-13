@@ -1,0 +1,62 @@
+id	ru	en	be_tarask	rejected_calque	notes	source
+FormMain.New	Новая игра	New Game	Новая гульня		smoke test; same string in Eng+Rus Lang.dat	skarnik: игра→гульня
+FormMain.Load	Загрузить	Load	Загрузіць		baked .gi + Lang.dat	Kamputerm/Skarnik
+FormMain.Exit	Выход	Exit	Выйсьці		baked .gi + Lang.dat	spell-be-tarask
+FormMain.Options	Настройки	Settings	Налады		GI: НАЛАДЫ	Kamputerm
+FormMain.Score	Рекорды	Records	Рэкорды		GI: РЭКОРДЫ	Skarnik
+FormMain.About	Об авторах	About	Пра аўтараў		GI: ПРА АЎТАРАЎ; пра not аб	Skarnik
+FormMain.MsgExit	Выйти из программы?	Exit the program?	Выйсьці з праграмы?			spell-be-tarask
+FormMain.LMods	Модификации	Modifications	Мадыфікацыі			spell-be-tarask
+FormMain.LQuest	Текстовые квесты	Text Quests	Тэкставыя заданьні	квэсты	loanword avoided	Skarnik
+FormMain.LRobot	Планетарные бои	Planetary Battles	Плянэтарныя баі			classical пля-/кля-
+FormMain.LAB	Аркадные бои	Arcade Battles	Аркадныя баі		intentional loan; hunspell miss	game term
+FormMain.Demo	Демонстрация	Demonstration	Дэманстрацыя			spell-be-tarask
+FormMain.Help	Достижения	Achievements	Дасягненьні		GI FormMain3 Ach	Skarnik
+FormMain.SubName	Доминаторы: Перезагрузка	Dominators: Reload	Дамінатары: Перазагрузка		race name lock pending polish	—
+FormGameMenu.Resume	Продолжить (Esc)	Continue (Esc)	Працягнуць (Esc)			Skarnik
+FormGameMenu.Save	Сохранить (F2)	Save (F2)	Захаваць (F2)			Skarnik
+FormGameMenu.Load	Загрузить (F3)	Load (F3)	Загрузіць (F3)			Kamputerm/Skarnik
+FormGameMenu.Settings	Настройки (C)	Settings (C)	Налады (C)			Kamputerm
+FormGameMenu.Help	Справка (H)	Help (H)	Даведка (H)			Skarnik
+FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)			Skarnik
+FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?			Skarnik
+FormCfgSettings.Caption	Настройки	Settings	Налады			Kamputerm
+FormCfgSettings.Ok	Применить	Apply	Ужыць			Kamputerm
+FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.Yes	Да	Yes	Так			Skarnik
+FormCfgSettings.No	Нет	No	Не			Skarnik
+FormCfgSettings.GGraph	Графика	Graphics	Графіка			Skarnik
+FormCfgSettings.GMain	Общее	General	Агульнае			Skarnik
+FormCfgSettings.GMod	Моды	Mods	Моды			loan OK
+FormCfgSettings.GSound	Музыка	Music	Музыка			—
+FormCfgSettings.HelpButOk	Принять	Accept	Прыняць			Skarnik
+FormCfgSettings.HelpButCancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.HelpButAuto	Автоматически	Automatically	Аўтаматычна			Skarnik
+FormCfgSettings.HelpAuto	Авто	Auto	Аўта			—
+FormCfgSettings.HelpButMax	Высокое качество	High quality	Высокая якасьць			classical -сьць
+FormCfgSettings.HelpButMiddle	Оптимальное качество	Optimal quality	Аптымальная якасьць			—
+FormCfgSettings.HelpButMin	Низкое качество	Low quality	Нізкая якасьць			—
+FormCfgSettings.Lang	Язык:	Language:	Мова:			Skarnik
+FormCfgSettings.Window	Оконный режим	Windowed mode	Аконны рэжым			—
+FormCfgSettings.Music	Музыка:	Music:	Музыка:			—
+FormCfgSettings.Sound	Звуки:	Sounds:	Гукі:			Skarnik
+FormCfgSettings.ModePlanet	Планетарные бои	Planetary Battles	Плянэтарныя баі			—
+FormCfgSettings.ModeSpace	Космос	Space	Космас			—
+FormSaveManager.AutoSave	Автоматическое сохранение	Autosave	Аўтаматычнае захаваньне			—
+FormSaveManager.Cancel	Отменить	Cancel	Скасаваць			—
+FormSaveManager.CaptionLoad	Загрузить игру	Load Game	Загрузіць гульню			—
+FormSaveManager.CaptionSave	Сохранить игру	Save Game	Захаваць гульню			—
+FormSaveManager.Delete	Удалить	Delete	Выдаліць			Skarnik
+FormSaveManager.Load	Загрузить	Load	Загрузіць			—
+FormSaveManager.LoadError	Ошибка загрузки игры	Load error	Памылка загрузкі гульні			—
+FormSaveManager.Loading	З А Г Р У З К А	L O A D I N G	З А Г Р У З К А		spaced lettering	—
+FormSaveManager.New	Новое сохранение	New save	Новае захаваньне			—
+FormSaveManager.QueryDelete	Удалить сохраненную игру?	Delete saved game?	Выдаліць захаваную гульню?			—
+FormSaveManager.QueryQuick	Загрузить быстрое сохранение?	Load quicksave?	Загрузіць хуткае захаваньне?			—
+FormSaveManager.QueryQuickN	Загрузить быстрое сохранение N<Num>?	Load quicksave N<Num>?	Загрузіць хуткае захаваньне N<Num>?		keep <Num>	—
+FormSaveManager.QuickNotExist	Быстрое сохранение отсутствует	Quicksave missing	Хуткае захаваньне адсутнічае			—
+FormSaveManager.QuickNotExistN	Быстрое сохранение N<Num> отсутствует	Quicksave N<Num> missing	Хуткае захаваньне N<Num> адсутнічае		keep <Num>	—
+FormSaveManager.Save	Сохранить	Save	Захаваць			—
+FormSaveManager.SaveError	Ошибка сохранения игры	Save error	Памылка захаваньня гульні			—
+FormSaveManager.SaveInPlanet	Планета <Planet>	Planet <Planet>	Плянэта <Planet>		keep <Planet>	classical пля-
+FormSaveManager.SaveInSpace	Система <Star>	System <Star>	Сыстэма <Star>		keep <Star>	classical сы-

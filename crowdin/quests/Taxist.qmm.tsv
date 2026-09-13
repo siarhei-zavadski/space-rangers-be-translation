@@ -1,0 +1,1139 @@
+"identifier"	"source_phrase"	"context"	"labels"	"be"
+"/quests/Taxist.qmm/parameters/0/name"	"Время в минутах"	"Quest Taxist.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/0/lines/0/content"	"Местное время: {<> div 60} часов {<> mod 60} минут"	"Quest Taxist.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/0/crit_text"	"Видимо, вы увлеклись ездой. Опомнились, что вам нужно было быть на месте в <clr>20:00<clrEnd>, вы уже, когда окончательно стемнело.
+Кое-как добравшись до того дома, куда нужно было подъехать, вы никого там не обнаружили. Прождав без толку до утра, вы вернулись в космопорт. А ведь победа была так близка! Чёрт бы побрал эти временные рамки!
+С этими мыслями вы взлетели с планеты <ToPlanet>."	"Quest Taxist.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/1/name"	"Деньги"	"Quest Taxist.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/1/lines/0/content"	"У вас <> гольденов"	"Quest Taxist.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Taxist.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/2/name"	"Шкаф"	"Quest Taxist.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/2/lines/0/content"	"Параметр номер 3: <>"	"Quest Taxist.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Taxist.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/3/name"	"Хижина"	"Quest Taxist.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/3/lines/0/content"	"Параметр номер 4: <>"	"Quest Taxist.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Taxist.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/4/name"	"Навык вождения"	"Quest Taxist.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/4/lines/1/content"	"Вы кое-что смыслите в автомобилях"	"Quest Taxist.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/4/lines/2/content"	"Вы разбираетесь в автомобилях"	"Quest Taxist.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/4/lines/3/content"	"Вы отлично разбираетесь в автомобилях"	"Quest Taxist.qmm: parameters.4.lines.3.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Taxist.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/5/name"	"Гараж"	"Quest Taxist.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/5/lines/0/content"	"Параметр номер 6: <>"	"Quest Taxist.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Taxist.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/6/name"	"Окрестности"	"Quest Taxist.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/6/lines/0/content"	"Параметр номер 7: <>"	"Quest Taxist.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Taxist.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/7/name"	"Компания людей"	"Quest Taxist.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/7/lines/0/content"	"Параметр номер 8: <>"	"Quest Taxist.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Taxist.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/8/name"	"Стойка"	"Quest Taxist.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Taxist.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Taxist.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/9/name"	"Был у стойки"	"Quest Taxist.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Taxist.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Taxist.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/10/name"	"Пеленги в баре"	"Quest Taxist.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/10/lines/0/content"	"Параметр номер 11: <>"	"Quest Taxist.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Taxist.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/11/name"	"Пистолет"	"Quest Taxist.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest Taxist.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/11/lines/1/content"	"У вас есть пистолет"	"Quest Taxist.qmm: parameters.11.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Taxist.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/12/name"	"Патроны к пистолету"	"Quest Taxist.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/12/lines/0/content"	"<> пистолетных патронов"	"Quest Taxist.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Taxist.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/13/name"	"Автомат"	"Quest Taxist.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/13/lines/0/content"	"Параметр номер 14: <>"	"Quest Taxist.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Taxist.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/14/name"	"Ставка"	"Quest Taxist.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/14/lines/0/content"	"На кону <> гольденов"	"Quest Taxist.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Taxist.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/15/name"	"Отображение ставки"	"Quest Taxist.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/15/lines/0/content"	"На кону <> гольденов"	"Quest Taxist.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Taxist.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/16/name"	"Вопросы. Бар"	"Quest Taxist.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/16/lines/0/content"	"Параметр номер 1: <>"	"Quest Taxist.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Taxist.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/name"	"Бензин"	"Quest Taxist.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/lines/0/content"	"Топлива на донышке - срочно заправиться!"	"Quest Taxist.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/lines/1/content"	"Топлива четверть бака"	"Quest Taxist.qmm: parameters.17.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/lines/2/content"	"Топлива половина бака"	"Quest Taxist.qmm: parameters.17.lines.2.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/lines/3/content"	"Топлива три четверти бака"	"Quest Taxist.qmm: parameters.17.lines.3.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/lines/4/content"	"Полный бак топлива"	"Quest Taxist.qmm: parameters.17.lines.4.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/17/crit_text"	"Неожиданно заглох двигатель. Вы дёрнули ключ, но никакого эффекта это не произвело. Лишь натужно кряхтел стартёр.
+Поглядев на датчик показа топлива, вы с ужасом обнаружили, что стрелка висит на нуле. ""Надо было заправляться на той заправке!"" - с досадой подумали вы.
+Вы стали ждать, что кто-нибудь проедет мимо, чтобы попросить у него помощи. Можно было купить бензин до ближайшей заправки. Но дорога оставалась пустынной.
+Вы поняли, что помощь вряд ли придёт со стороны - надо надеяться только на самого себя! Автомобиль двигаться не мог, поэтому вам пришлось признать, что задание выполнить вам не удалось. С этой нерадостной мыслью вы побрели в сторону космопорта..."	"Quest Taxist.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/18/name"	"Заправка заливает"	"Quest Taxist.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/18/lines/0/content"	"Должны залить <>"	"Quest Taxist.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Taxist.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/19/name"	"До полного бака"	"Quest Taxist.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/19/lines/0/content"	"До полного бака: <>"	"Quest Taxist.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Taxist.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/20/name"	"В 2 раза меньше, чем до полного"	"Quest Taxist.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/20/lines/0/content"	"В 2 раза меньше, чем до полного: <>"	"Quest Taxist.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Taxist.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/21/name"	"В 4 раза меньше, чем до полного"	"Quest Taxist.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/21/lines/0/content"	"В 4 раза меньше, чем до полного: <>"	"Quest Taxist.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Taxist.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/22/name"	"Местонахождение"	"Quest Taxist.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Taxist.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Taxist.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/23/name"	"Банковский счёт рейнджера"	"Quest Taxist.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/23/lines/0/content"	"Параметр номер 24: <>"	"Quest Taxist.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Taxist.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/24/name"	"Пассажир тип 1"	"Quest Taxist.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/24/lines/0/content"	"Пассажир в Портово"	"Quest Taxist.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Taxist.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/25/name"	"Пассажир тип 2"	"Quest Taxist.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/25/lines/0/content"	"Пассажир в Песчаник"	"Quest Taxist.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Taxist.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/26/name"	"Пассажир тип 3"	"Quest Taxist.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/26/lines/0/content"	"Пассажир в Югол"	"Quest Taxist.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Taxist.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/27/name"	"Пассажир тип 4"	"Quest Taxist.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/27/lines/0/content"	"Пассажир в Шахтинск"	"Quest Taxist.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Taxist.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/28/name"	"Пассажир тип 5"	"Quest Taxist.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/28/lines/0/content"	"Пассажир в Статово"	"Quest Taxist.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Taxist.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/29/name"	"Пассажир тип 6"	"Quest Taxist.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/29/lines/0/content"	"Пассажир в Малово"	"Quest Taxist.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Taxist.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/30/name"	"Пассажир тип 7"	"Quest Taxist.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/30/lines/0/content"	"Пассажир в Грынино"	"Quest Taxist.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Taxist.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/31/name"	"Пассажир тип 8"	"Quest Taxist.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/31/lines/0/content"	"Пассажир к развилке рядом с Шахтинском"	"Quest Taxist.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Taxist.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/32/name"	"Пассажир тип 9"	"Quest Taxist.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/32/lines/0/content"	"Пассажир к развилке рядом с Портово"	"Quest Taxist.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Taxist.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/33/name"	"Пассажир тип 10"	"Quest Taxist.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/33/lines/0/content"	"Пассажир к заправке рядом с Юголом"	"Quest Taxist.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Taxist.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/34/name"	"Пассажир тип 11"	"Quest Taxist.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/34/lines/0/content"	"Пассажир к заправке рядом с Грынино"	"Quest Taxist.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Taxist.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/35/name"	"Пассажир-пеленг"	"Quest Taxist.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/35/lines/1/content"	"У вас пассажир-пеленг до заправки рядом с Юголо"	"Quest Taxist.qmm: parameters.35.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/35/lines/2/content"	"У вас пассажир-пеленг до заправки рядом с Грынино"	"Quest Taxist.qmm: parameters.35.lines.2.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/35/lines/3/content"	"У вас пассажир-пеленг до заправки рядом с Грынино"	"Quest Taxist.qmm: parameters.35.lines.3.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Taxist.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/36/name"	"Деньги автомата"	"Quest Taxist.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/36/lines/0/content"	"Параметр номер 13: <>"	"Quest Taxist.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Taxist.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/37/name"	"Патроны пеленга"	"Quest Taxist.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/37/lines/0/content"	"Пеленг даст <> патронов к пистолету"	"Quest Taxist.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Taxist.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/38/name"	"Плата пассажира"	"Quest Taxist.qmm: parameters.38.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/38/lines/0/content"	"Пассажир заплатит по прибытию <> гольденов"	"Quest Taxist.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Taxist.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/39/name"	"Машина бандитов"	"Quest Taxist.qmm: parameters.39.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/39/lines/0/content"	"Машина бандитов: <>"	"Quest Taxist.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Taxist.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/40/name"	"Целостность машины"	"Quest Taxist.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/40/lines/0/content"	"Ваша машина: <>"	"Quest Taxist.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/40/crit_text"	"Пули на вас сыпались градом. Ваша машина стала похожа на дуршлаг. Вдруг одна из пуль попала в бензобак... Ну, кто же знал, что машины могут взрываться?
+Зато красочный фейерверк наблюдали из всех окрестных посёлков.
+Жаль только, что вас среди наблюдателей не было..."	"Quest Taxist.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/41/name"	"Сражение"	"Quest Taxist.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/41/lines/0/content"	"Параметр номер 42: <>"	"Quest Taxist.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Taxist.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/42/name"	"Дань бандитам"	"Quest Taxist.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/42/lines/0/content"	"Параметр номер 43: <>"	"Quest Taxist.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Taxist.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/43/name"	"Попутчик"	"Quest Taxist.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/43/lines/1/content"	"Попутчик в Грынино"	"Quest Taxist.qmm: parameters.43.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/43/lines/2/content"	"Попутчик в Шахтинск"	"Quest Taxist.qmm: parameters.43.lines.2.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/43/lines/3/content"	"Попутчик в Портово"	"Quest Taxist.qmm: parameters.43.lines.3.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Taxist.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/44/name"	"Деньги попутчика"	"Quest Taxist.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/44/lines/0/content"	"Попутчик заплатит <> гольденов"	"Quest Taxist.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Taxist.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/45/name"	"Повреждение машины"	"Quest Taxist.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/45/lines/1/content"	"Машине не помешал бы небольшой сервис"	"Quest Taxist.qmm: parameters.45.lines.1.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/45/lines/2/content"	"Машине не помешало бы техобслуживание"	"Quest Taxist.qmm: parameters.45.lines.2.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Taxist.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/46/name"	"Харизма"	"Quest Taxist.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/46/lines/0/content"	"Параметр номер 47: <>"	"Quest Taxist.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Taxist.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/47/name"	"Счётчик"	"Quest Taxist.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/47/lines/0/content"	"Параметр номер 48: <>"	"Quest Taxist.qmm: parameters.47.lines.0.content. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Taxist.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/tostar"	"Солнце"	"Quest Taxist.qmm: tostar. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/toplanet"	"Земля"	"Quest Taxist.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/fromplanet"	"Стопка"	"Quest Taxist.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/fromstar"	"Канопус"	"Quest Taxist.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/ranger"	"Даниэль"	"Quest Taxist.qmm: ranger. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/success_text"	"Да, вы сделали это <Player>! Вы принесли нам ещё одно очко в этом нелёгком соревновании!
+А не хотите ли вы стать постоянным участником, представляющим нашу планету? Нет? А жаль.
+Ну раз так, получите <Money> cr, выделенные из призового фонда.
+Всего вам доброго, рейнджер <Player>!"	"Quest Taxist.qmm: success_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/task_text"	"Рейнджер <Player>! Да, конечно, для вас есть кое-что особенное. Мы наслышаны, что вы занимались историей человеческой расы. В частности, много времени уделяли механизмам, способным перемещаться под действием энергии, создаваемой сгоранием жидкого топлива. Да, вы правы, их раньше называли автомобилями. Крайне неэкологично и неэффективно. Но что поделаешь, такими дикарями были наши с вами предки, <Player>!
+Что, откуда мы знаем это про вас? Не спрашивайте, у нас свои источники.
+Если вы согласитесь на это очень, уверяю вас, интересное и эксклюзивное задание, то в качестве награды получите <Money> cr. Прилететь вам надо на  <ToPlanet>, что в системе <ToStar>,  до <Date>.
+Ну, согласны?
+Что, в чём состоит ваше задание? Да это не так уж важно, все инструкции вы получите на месте. Главное, что вы умеете управлять автомобилями. Подумайте лучше о <Money> cr, рейнджер. И лететь на <ToStar> - это же так недалеко."	"Quest Taxist.qmm: task_text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/0/texts/0/text"	"Вы приземлились в ничем не выделяющемся космопорте планеты <ToPlanet>. Оглядевшись по сторонам, вы не заметили ничего интересного. Кое-где с вороватым видом шныряли пеленги. Малоки-грузчики проносили на себе такие грузы, что от одного взгляда на них у вас начали побаливать мышцы. С отрешённым видом мимо проплыл гаалец.
+Вдруг вы заметили человека, который вынырнул из-за угла и направился к вам.
+- Рейнджер <Ranger>? - спросил он. Вы подтвердили.
+- Меня зовут Виктор Шмальц, - произнёс человек и протянул руку. По старому человеческому обычаю вы пожали её. Между тем человек продолжал: 
+- Вам выпало очень интересное задание. Дело в том, что между нашей планетой и планетой <FromPlanet> уже многие годы идёт конкурс. Мы по очереди придумываем друг для друга различные задания. Пока обе планеты идут ноздря в ноздрю. На этот раз очередь выполнять задание досталась планете <FromPlanet>. И представлять её будете вы. - Человек вынул сигару и прикурил. - Обратите внимание, что в этом месте планеты техника не очень развита. - Вы обернулись по сторонам и только сейчас заметили, что большинство работ здесь выполняют гуманоиды, а не дроиды. - Это потому, что здесь своего рода заповедник. Он называется ""Область Исторического Приближения"". Здесь воссоздан быт прошлого. Примерно тысячелетней давности.
+Вы усмехнулись, на что человек резко вставил:
+- Зря, <Ranger>! Ой как зря! Между прочим, это место приносит очень неплохие деньги. Если выполните наше задание, то после окончание войны с железками можете устроиться к нам на работу, - человек стал подмигивать вам так, что со стороны могло показаться, будто бы у него начался нервный тик.
+- Хорошо, что вы сказали про задание. Могу я, чёрт возьми, уже узнать, в чём оно заключается?! - вы сами того не хотя, перешли на крик.
+- Да-да, конечно, - человек выглядел несколько сконфуженным. - Вам предстоит побывать в роли таксиста. Вам дадут в распоряжение металлический автомобиль, который работает на бензине. Древний углеводородный вид топлива. И довольно опасный - летать на звездолётах гораздо безопаснее, чем ездить вот на таких на машинах... Впрочем, не мне вам об этом рассказывать, - подмигнул человек. - За один день работы таксистом вам будет нужно заработать <clr>5 000<clrEnd> гольденов - это валюта такая местная. Для вас это не составит труда, поэтому, прошу вас, соглашайтесь скорее. Что скажете?
+Человек вопросительно уставился на вас."	"Quest Taxist.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/1/texts/0/text"	"- Да пошли вы ко всем чертям! - кричали вы в бешенстве. - Выполнять какое-то дурацкое задание одной дурацкой планеты на другой, ещё более дурацкой планете! - Вам очень сильно захотелось что-нибудь сломать. - Чтобы я, рейнджер <Ranger>, работал таксистом! Да не будет этого никогда в жизни!
+Вы развернулись и быстрыми шагами направились к своему кораблю. По пути вы здорово двинули проходящему мимо пеленгу по жабрам. Тот лишь отрешённо вздохнул. Взобравшись на корабль, вы с силой ударили кулаком по панели управления. Одна из кнопок вылетела и со звоном упала на пол кабины.
+Лишь через несколько минут, уже будучи на орбите, придя в себя, вы подумали о том, что можно было бы и согласиться. Кто знает, от чего вы отказались. Да и <Money> cr были бы нелишними. Но, как любил поговаривать ваш дедушка, поздно пить Боржоми..."	"Quest Taxist.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/2/texts/0/text"	"- Тогда пойдёмте, я покажу, где вы можете переночевать.
+Вы вышли из космопорта и тут же оказались в лесочке. Недалеко заснеженными вершинами поблескивали горы. Где-то за деревьями журчал ручей. Пока вы шли через лесок, мимо вас пробежало животное, похожее на белку.
+Где-то через сто метров лесок расступился и перед вашим взором предстал небольшой посёлок. Ваш попутчик подошёл к одному из домиков на окраине.
+- Вот мы и пришли, - произнёс он. - Внутри есть всё необходимое, чтобы провести ночь.
+Человек передал вам ключи.
+- Вон в том гараже находится автомобиль, на котором вам завтра предстоит покататься, - человек показал рукой в сторону неказистого строения. Вы молча кивнули.
+Человек вынул сигарету и прикурил.
+- Здесь в двух кварталах есть неплохой бар. Вы можете развеяться там вечером. Только смотрите, не наклюкайтесь, у вас завтра важные дела. - Человек усмехнулся. - Вот, пожалуй, и всё. Я приду за вами утром, в 8 утра по местному времени. Пока отдыхайте.
+Сказав это, человек развернулся и пошёл в сторону леска, из которого вы несколько минут назад вышли. Вы проводили человека взглядом и, когда он скрылся из виду, подошли к двери. Мягко повернув ключ, вы вошли внутрь. Внутрь домишки, сквозь окна струился солнечный свет. Из мебели в этой хижине был только топчан, стол, стул и небольшой шкафчик. ""Негусто"", подумали вы. Но затем вы потешили себя мыслью, что это только на одну ночь и иногда даже полезно менять обстановку звездолёта на что-нибудь более дикое. В конце концов, вы были не кто-то, а космический рейнджер, который просто не вправе жаловаться на неудобства!"	"Quest Taxist.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/2/texts/1/text"	"Вы находитесь в небольшом деревянном домике, в котором вам предстоит переночевать. В этом домике находится только топчан, стол со стулом и небольшой шкафчик."	"Quest Taxist.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/2/texts/2/text"	"Вы открыли шкафчик, в котором помимо всякого барахла была довольно сносная одежда, которую носили местные жители. Вы с радостью сменили на неё свой рейнджерский костюм. Переодевшись, вы тут же почувствовали себя более свободным и даже чуточку более счастливым.
+Покопавшись в карманах, вы обнаружили [p3] гольденов. ""Неплохо..."" - подумали вы."	"Quest Taxist.qmm: locations.2.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/3/texts/0/text"	"""Не зря же я сюда летел, в конце-то концов! - подумали вы. - Ещё одно приключение, для которого обязательно найдутся слушатели"".
+- Я согласен, - сказали вы Шмальцу.
+Лицо человека засияло.
+- Я знал, что вы согласитесь! - Он едва не прыгал от радости. - Сейчас уже вечер, ваше задание начнётся завтрашним утром. А пока вы можете отдохнуть и набраться сил. Если у вас есть какие-нибудь вопросы, я с радостью на них отвечу."	"Quest Taxist.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/3/texts/1/text"	"Человек вздохнул и спокойно сказал:
+- Как я уже сказал, вам дадут в распоряжение автомобиль и вы, используя его в качестве транспортного средства, должны будете заработать не меньше <clr>5 000<clrEnd> гольденов. Каждый гольден сверх этой суммы мы обменяем вам на галактические кредиты прямо на месте.
+- Отлично. А как заработать эти гольдены? - Вы решили вытянуть из человека всю возможную информацию.
+- Да просто садитесь в автомобиль и ищете, кого нужно подвезти куда-то. За поездку он заплатит вам какую-то сумму. - Шмальц смотрел на вас, как на идиота."	"Quest Taxist.qmm: locations.3.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/3/texts/2/text"	"- На древнем автомобиле человеческого производства. Его изобрели люди больше тысячи лет назад. Даже неспециалисты в области древних механизмов, должны без труда понять, как с ним обращаться, что уж говорить о вас!"	"Quest Taxist.qmm: locations.3.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/3/texts/3/text"	"- Как я уже говорил, здесь заповедник прошлого. Большинство из живущих здесь ездят на древних автомобилях, а то и на велосипедах. Это такое двухколёсное чудо техники, ну, вы должны знать не хуже меня. - Вы кивнули. - Антигравитационные установки, телепортаторы, плазменные генераторы и прочие прелести цивилизации здесь большая редкость. Заповедник не очень большой - около двадцати квадратных километров. И живут здесь не очень много гуманоидов, в основном люди. Есть тут и малоки и пеленги, но чаще всего - это нечистые на руку пираты. Лучше с ними не иметь дело. Гаальцев и фэян здесь практически нет"	"Quest Taxist.qmm: locations.3.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/3/texts/4/text"	"- Опасностей не так уж и много, если соблюдать меры предосторожности. Бандиты на дорогах разве что самые опасные. - Шмальц задумался. -  Да, и не забудьте заправляться время от времени. Здесь есть несколько заправок.
+Подумав ещё немного, человек добавил:
+- Пожалуй, это всё."	"Quest Taxist.qmm: locations.3.texts.4.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/5/texts/0/text"	"Позади вас находится дом, в котором вам предстоит переночевать. Слева - гараж, в котором находится автомобиль, на котором вы скоро будете работать таксистом. Где-то неподалёку должен быть бар."	"Quest Taxist.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/5/texts/1/text"	"Позади вас находится дом, в котором вам предстоит переночевать. Слева - гараж, в котором находится автомобиль, на котором вы скоро будете работать таксистом. В паре кварталах в центре посёлка находится бар."	"Quest Taxist.qmm: locations.5.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/7/texts/0/text"	"""Утро вечера мудренее"", - решили вы и завалились на топчан. Перед тем как заснуть, вы думали о предстоящем задании, которое - вы уже твёрдо решили - обязательно выполните.
+Мимо вас с жужжанием пролетело какое-то насекомое. ""Муха, наверное"", - подумали вы. - ""Расплодились по всей Галактике"".
+Откуда-то издали доносились приглушённые звуки, шумели деревья в близлежащем лесу. Под эти звуки вы и заснули.
+
+На заре вас разбудил тот самый человек, который встретил вас в космопорте и проводил до этого дома.
+- Пора вставать, - тоном, не терпящим возражений, сказал он.
+Вы, потягиваясь, поднялись с топчана.
+- Сколько же времени? - осведомились вы.
+- Восемь утра по-местному. Давай завтракай  и выходи на рейс, - Шмальц усмехнулся и указал на стол, на котором были разложены нехитрая снедь - тарелка с кашей, куриное яйцо всмятку и чашка чая - традиционный человеческий завтрак на протяжении уже многих веков.
+Вы с удовольствием позавтракали и сказали, что готовы.
+- Тогда прошу следовать за мной, - сказал человек."	"Quest Taxist.qmm: locations.7.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/8/texts/0/text"	"Вы подошли к гаражу и отперли дверь теми же ключами, которые вам дал человек по имени... Вы задумались. ""Виктор Шмальц"", - через минуту вы всё же вспомнили имя.
+Как только вы распахнули двери, внутренности гаража тотчас же залил солнечный свет. В его лучах заблестели бока автомобиля. Что-то завораживающее было в этом зрелище. Вы вдруг почувствовали, что прониклись симпатией к этому агрегату. Подумать только, ещё тысячу лет назад древние люди вовсю разъезжали по улицам городов на этих автомобилях.
+В углу гаража стоял столик, на котором лежали инструменты и толстая книга. Полистав её, вы  <clr>узнали кое-что новое об управлении автомобилей<clrEnd>.
+Больше ничего интересного здесь не было."	"Quest Taxist.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/8/texts/1/text"	"В гараже по-прежнему стоит автомобиль. В углу на столике вместе с инструментами лежит книга. Полистав её, вы не обнаружили ничего интересного."	"Quest Taxist.qmm: locations.8.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/9/texts/0/text"	"Вспомнив слова Шмальца, что здесь в нескольких кварталах есть бар, вы решили, что было бы неплохо в него заглянуть. Углубившись внутрь посёлка на два квартала, вы его увидели. Это была обыкновенная забегаловка, которая располагалась в центре посёлка. Излюбленное местечко местных жителей.
+Мимо вас с чириканьем пролетела птица. Порыв ветра сорвал с дерева лист и кинул вам под ноги. Немного посмотрев на уже клонящееся к закату солнце, вы подошли к входу в бар. Оттуда доносились голоса посетителей."	"Quest Taxist.qmm: locations.9.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/9/texts/1/text"	"По знакомой дорожке вы направились к бару, который находился в центре посёлка. Подойдя к дверям, вы услышали доносящиеся оттуда голоса посетителей."	"Quest Taxist.qmm: locations.9.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/10/texts/0/text"	"Вы решили просто погулять и подышать воздухом. Немного побродив по посёлку, вы свернули в сторону лесочка. Мимо вас с верещаньем пробежал какой-то зверёк, в небе парило несколько птиц. Несколько раз вы замечали грибы, но не стали их срывать, потому что не знали наверняка, съедобные ли они. Хотя на вид были очень даже ничего.
+Немного погодя вы заметили восхитительный цветок, от которого несло нежным ароматом. Цветок был ярко-красный с большими лепестками. Вы подошли поближе, сорвали цветок и вдохнули аромат. Ощущения были восхитительные. Простояв несколько минут на месте, вы решили, что пора в обратный путь.
+На подступе к дому, в котором вы остановились, вас остановил человек.
+- Здорово живешь! - Поприветствовал он вас.
+Вы тоже поздоровались.
+- Что за красивый цветок у тебя в руке, - продолжал человек. - Это то, что непременно хочет увидеть моя жена. - Незнакомец улыбнулся. - Будь другом, продай мне его, ну, скажем, за <clr>150 гольденов<clrEnd>. - Человек вынул купюры и помахал ими в воздухе.
+Вы решили, что 150 гольденов не будут лишними, а цветок стоит явно меньше.
+Вдохнув напоследок прекрасный аромат, вы передали  цветок незнакомцу, а сами взяли хрустящие купюры. Деньги тоже имеют свой запах.
+Обрадованный удачной сделкой, вы направились к дому."	"Quest Taxist.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/12/texts/0/text"	"Вы стоите перед входом в бар"	"Quest Taxist.qmm: locations.12.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/13/texts/0/text"	"Немного пройдя по посёлку и зайдя в лесок, вы ничего не обнаружили. На том месте, где вы нашли цветок, остался лишь торчащий стебель. Вы вспомнили о прекрасном аромате цветка, и вам даже стало немного грустно.
+Выйдя из лесочка, вы направились к своему дому."	"Quest Taxist.qmm: locations.13.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/0/text"	"Вы решили, что первым делом нужно промочить горло. Может, заодно удастся выведать чего-нибудь интересного.
+Вы подошли к стойке и уже раскрыли рот, но бармен опередил вас.
+- Что-то я тебя раньше не видел. Новенький?
+- Да, я тут проездом и ненадолго, - ответили вы.
+- Да оставайся, тебе здесь понравится. Сюда многие бегут от благостей цивилизации. И, могу сказать, нам здесь отлично живётся. - Бармен расхохотался. - Меня Глеб зовут. Вот, держи за счёт заведения.
+Ваш новый друг налил из бутылки с надписью ""Эквенторное. 3300 г."" в стакан жидкости и протянул вам.
+- Вот, самое лучшее. Как звать-то тебя, друг?
+- <Ranger>. Я - рейнджер! - гордо заявили вы.
+- Оба на, - развёл руками бармен. - К нам редко рейнджеры заглядывают. Как там дела с доминаторами?
+- Да всё по-прежнему, - туманно ответили вы, потягивая из стакана. Надо отдать должное, выпивка была отменная."	"Quest Taxist.qmm: locations.14.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/1/text"	"- Ну, мы на них ездим. - Ваш собеседник расхохотался.
+Вы улыбнулись в ответ:
+- Есть какие-нибудь тонкости?
+- Да там всё просто. Просто <clr>жми педали плавно и не езди сильно быстро<clrEnd>, а то у нас дороги не очень, - бармен подмигнул и захохотал пуще прежнего.
+Вы, несколько сконфузились, но, сделав глоток из стакана, тоже несколько раз хохотнули."	"Quest Taxist.qmm: locations.14.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/2/text"	"- У нас тут заповедник. Ну, ты это и так знаешь. - Вы кивнули в ответ. - Заповедник не ограничивается одним этим посёлком. Есть ещё несколько. Живут, преимущественно, люди. Больше половины заповедника занимает лес. - Бармен на секунду задумался. - Ну, или то, что его напоминает. - Усмехнулся он. - На севере горы. На юге кусочек пустыни. Через лес протекает две реки.
+Помолчав с минуты, он добавил:
+- У нас тут очень красиво. Лес, река солнце. Чего ещё нужно?
+- Да уж... - протянули вы. - А что за люди здесь живут?
+- Люди в основном порядочные. Конечно, если очень постараться, можно найти и негодяев. Только это очень постараться надо. - Бармен заразительно расхохотался.
+Сзади раздавались голоса, мимо вас пролетело какое-то насекомое, до боли напоминавшее муху. Вдруг прокуковала кукушка. В поисках источника звука, вы подняли голову и позади бармена под потолком увидели древние часы с кукушкой. ""Ну надо же, я такие только на картинках в историческом музее видел"", - подумали вы.
+Между тем бармен просмеялся и тихо добавил:
+- Помимо людей тут есть пеленги и малоки. И среди этих полно всякого отрепья. В наш заповедник частенько пираты прилетают, чтобы награбленное закопать или, наоборот, откопать. Официальные власти сюда не суются. - Глеб пристально посмотрел на вас. - Вот с такими нужно держать ухо востро.
+- Да, конечно, - согласились вы, потягивая из стакана."	"Quest Taxist.qmm: locations.14.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/3/text"	"- А что погода? Да солнечно пока. Синоптики дождей не обещали.
+- Синоптики могут верно предсказывать только прошедшую погоду, - возразили вы.
+- Да, - расхохотался Глеб. - Точно!"	"Quest Taxist.qmm: locations.14.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/4/text"	"Бармен, увидев вас, приветливо махнул рукой.
+- Что, ещё стаканчик? - Заговорщицки спросил он."	"Quest Taxist.qmm: locations.14.texts.4.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/14/texts/5/text"	"- Да его недавно один предприниматель поставил. Кидаешь туда 20 шершавых, а он может тебе выдать 50, а то и 200 в ответ. Но, конечно, может и совсем ничего не выдать. - Хохотнул бармен.
+- Значит, выиграть вполне реально? - уточнили вы.
+- Да, реально, - произнёс ваш собеседник. - Только там есть один момент. - Бармен воровато огляделся по сторонам и, наклонившись поближе к вам, продолжил шепотом. - Автомат запрограммирован так, что будет давать деньги, только если у него они есть. А если нет, он будет только принимать от спонсоров. - Бармен широко улыбнулся. - И, естественно, он не скажет тебе, что у него закончились деньги.
+- И сколько в нём сейчас денег? - Поинтересовались вы.
+- Да, думаю, не больше четырёхсот вечно-жёлтых, - после небольшой паузы произнёс бармен. - Хозяин вычищал его сегодня утром, вот и оставил ""на развод"". А сегодня практически никто и не играл.
+Бармен окинул взглядом свои владения и добавил:
+- В общем, мой тебе совет: <clr>если вдруг сможешь выиграть около 400 гольденов, дальше не играй, больше он тебе всё равно не даст.<clrEnd> Только время зря потратишь. А то и проиграешь всё. - Бармен захохотал.
+- Что ж, спасибо за совет, - после некоторого раздумья произнесли вы."	"Quest Taxist.qmm: locations.14.texts.5.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/16/texts/0/text"	"- Слышь, человек. - Один из пеленгов поманил вас к себе. - Купи пушку. За <clr>200<clrEnd> гольденов всего. Деньги страсть как нужны.
+- Что за пушка? - осведомились вы.
+- Механический, древняя модель. - Пеленг повертел головой. - Правда, без патронов. Но зато всего 200 шершавых прошу. Берёшь?
+Пеленг вопросительно уставился на вас."	"Quest Taxist.qmm: locations.16.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/16/texts/1/text"	"- Ну что, надумал пистолет покупать? - один из пеленгов вопрошающе уставился на вас."	"Quest Taxist.qmm: locations.16.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/16/texts/2/text"	"- Опять ты? - пеленг замотал головой. - Патронов нет, сам ищи."	"Quest Taxist.qmm: locations.16.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/0/text"	"Вы подошли к столику, за которым расположились пятеро человек. Все они были с раскрасневшимися лицами и неустанно спорили о чем-то. Прислушавшись, вы поняли, что спорят они о решении какой загадки, которую загадал один из них.
+Может, стоит показать свои великолепные рейнджерские способности и превосходную смекалку?"	"Quest Taxist.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/1/text"	"Вы подошли к столику, за которым по-прежнему пятеро человек спорили о чем-то. Спорили, видимо, всё о той же самой загадке.
+Может, пора уже показать свои великолепные рейнджерские способности и превосходную смекалку?"	"Quest Taxist.qmm: locations.17.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/2/text"	"Как только вы начали подходить к столику, вас сразу же заметили.
+- Вон, трусливый гений идёт! - загоготал один.
+- А ну прочь отсюда, чтоб мы тебя близко не видели! - продолжил второй.
+Вы только молча пожали плечами."	"Quest Taxist.qmm: locations.17.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/3/text"	"Вы подошли к столику, за которым по-прежнему пятеро человек спорили о чем-то. Спорили, видимо, всё о той же самой загадке.
+Увидев вас, один из людей насмешливо спросил:
+- Ну что, раздобыл деньги? Если да, то можешь делать ставку. Всего [p15] гольденов."	"Quest Taxist.qmm: locations.17.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/4/text"	"Увидев вас, люди приветливо замахали руками.
+- Рейнджер  <Ranger>, идём к нам, - выкрикнул кто-то.
+Вы махнули рукой в ответ и вежливо отказались от приглашения."	"Quest Taxist.qmm: locations.17.texts.4.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/17/texts/5/text"	"Только вы начали подходить к компании, за столиком наступила гнетущая тишина. Вам от неё стало не по себе. Наконец, один из людей спросил:
+- Что тебе от нас надо?
+- Да ничего, - промямлили вы.
+- Тогда не мешай нам отдыхать.
+Вы поняли, что диалога с этой компанией не состоится."	"Quest Taxist.qmm: locations.17.texts.5.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/18/texts/0/text"	"Вы направились в угол бара, и подошли к автомату. На нём висела вывеска ""<clr>Стоимость игры 20 гольденов. Стандартный выигрыш 50 гольденов. Большой выигрыш - 200 гольденов.<clrEnd>""
+Может, испытать удачу?"	"Quest Taxist.qmm: locations.18.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/18/texts/1/text"	"Вы вложили в автомат 20 гольденов и дёрнули ручку. На экране однорукого бандита забегали цифры, и, когда они остановились, вы поняли, что ничего не выиграли. Обидно."	"Quest Taxist.qmm: locations.18.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/18/texts/2/text"	"Вы вложили в автомат 20 гольденов и дёрнули ручку. На экране однорукого бандита забегали цифры, и, когда они остановились, заиграла мелодия, и в лоток-приёмник выпало <clr>50 гольденов<clrEnd>.  Неплохо."	"Quest Taxist.qmm: locations.18.texts.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/18/texts/3/text"	"Вы вложили в автомат 20 гольденов и дёрнули ручку. На экране однорукого бандита забегали цифры, и, когда они остановились, заиграла торжественная мелодия, и в лоток-приёмник выпало <clr>200 гольденов<clrEnd>.  Вы сорвали крупный выигрыш. Здорово!"	"Quest Taxist.qmm: locations.18.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/20/texts/0/text"	"- Эй, да нашли о чём спорить, - уверенно заявили вы. - Это решается очень просто.
+На мгновение спор затих. Но через пару секунд раздался хохот, и посыпались заявления о вашей неосведомленности.
+Вы уже хотели отойти от этих помешанных, как один из людей сказал:
+- Смотрю, ты не из робких. Давай, присаживайся к нам, - он показал вам на  свободный стул. Вы сели. - Раз ты считаешь себя настолько хорошо осведомлённым в этом вопросе, то позволь заключить пари. Мы сейчас ставим некоторую сумму, скажем [p15] гольденов. Ты ставишь такую же сумму. Потом ты называешь ответ и, если он правильный, забираешь банк. Мы убеждаемся, в твоём интеллекте, и ты всегда можешь рассчитывать на нас. - Человек подмигнул. - Но если ты отвечаешь неправильно, то банк делится между нами, а ты под наши насмешки уходишь от нас подальше и больше не мозолишь глаза. Ну как, сойдёт?"	"Quest Taxist.qmm: locations.20.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/21/texts/0/text"	"- Валяйте свою загадку, сказали вы, кидая на стол [p15] гольденов.
+- Так ты же сказал, что уже знаешь ответ, - рассмеялся кто-то, - вот и отвечай уже.
+- Я просто хочу уточнить, - вывернулись вы.
+В это время люди скинулись на [p15] гольденов и кинули их на стол рядом с вашими.
+
+Вы сели за стол, приготовившись слушать. На минуту за столиком наступила полная тишина. Наконец, один из людей заговорил:
+- Один мой знакомый пару дней назад ехал по грунтовой дороге. Ехал не на гравикаре, а на обычном для этой местности автомобиле. Вы должны знать, что это такое. - Вы кивнули. - Надо сказать, что мой знакомый ехал по дороге, по которой ездит часто. И вот в последний раз у него кончился бензин. - Увидев ваш недоумённый взгляд, человек пояснил, - ну, это штука такая, топливо для машин. Это как гипертопливо, только для автомобилей. - За вашей спиной раздался смешок. - Вот никогда не кончался, а в этот раз кончился. И заправлялся в этот раз точно так же, как и всегда. Чуть-чуть доехать до места не хватило. Всегда хватало, а вот сейчас не хватило. Вот мы и думаем, почему же так случилось. Вот он, - человек показал рукой на одного из стоящих рядом, - считает, что это из-за того...
+- Достаточно! - рявкнул тот самый человек, который предложил вам заключить пари. - Он услышал достаточно. Пусть скажет свою версию.
+Компания вопросительно уставилась на вас. Похоже, нужно выдвинуть свою версию."	"Quest Taxist.qmm: locations.21.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/22/texts/0/text"	"Вы вышли из дома и направились к гаражу. Человек открыл ворота и пригласил вас внутрь.
+- Задание вы знаете, - сказал он. - Садитесь вот в этот агрегат и едете. Ищете пассажиров. Отвозите их за деньги туда, куда им надо.
+- И сколько денег брать? - поинтересовались вы.
+- Это на сколько договоритесь, - улыбнулся человек.
+Виктор Шмальц, так, кажется, звали этого человека, залез в автомобиль и завёл двигатель. Затем он вылез и добавил:
+- И, самое главное, до <clr>20:00<clrEnd> вам нужно вернуться сюда. Если не успеете, то ваше задание будет приравнено к провалу. И заработать не меньше <clr>5 000<clrEnd> гольденов.
+Вы взглянули на часы. Было <clr>полдевятого утра<clrEnd>. Время пока есть.
+Человек постоял ещё немного и сказал:
+- Желаю удачи, <Ranger>.
+Вы улыбнулись в ответ.
+Человек развернулся и вышел из гаража. Судя по звукам, он направился в дом. ""Интересно, он до вечера здесь будет ждать?"" - промелькнула у вас мысль.
+В любом случае, вы остались в гараже одни. Рядом с вами мерно тарахтел автомобиль. Окинув взглядом гараж, вы сели за руль.
+Пару минут просидели в кабине, привыкая к новой обстановке. В бардачке вы обнаружили карту заповедника.
+Вообще, кабина была похожа на рубку вашего звездолёта. Разве что кнопок и рычагов здесь было намного меньше.
+Вы заметили какое-то подобие стереовизора на передней панели. Покрутив ручку, вы убедились, что он работал, однако кроме треска помех ничего не было слышно. Наконец, вы настроились на какую-то станцию, которая вещала только в звуковом диапазоне. Всё же лучше, чем ничего. Из динамика зазвучали мелодичные звуки, которые показались вам очень даже ничего.
+Ещё через пару минут вы нажали на педаль газа..."	"Quest Taxist.qmm: locations.22.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/23/texts/0/text"	"Вы в посёлке, в который прибыли из <clr>космопорта<clrEnd>. На указателе, прибитом к дереву, находится надпись <clr>Портово<clrEnd>.
+Перед вами расходятся две дороги, ведущие в другие посёлки.
+Первая ведёт на <clr>север<clrEnd> через леса. За деревьями недалеко виднеется ручей. По этой дороге можно поехать в посёлок <clr>Статово<clrEnd> или же на <clr>заправку<clrEnd>.
+Вторая ведёт на <clr>запад<clrEnd>. Там, рядом с границей пустыни находится посёлок <clr>Песчаник<clrEnd>."	"Quest Taxist.qmm: locations.23.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/24/texts/0/text"	"Вы в посёлке под названием <clr>Песчаник<clrEnd>.
+Если посмотреть на север, можно увидеть леса. Чуть южнее начинается пустыня. На границе леса и пустыни и возник посёлок.
+Дорога на <clr>восток<clrEnd> ведёт в <clr>Портово<clrEnd> - там <clr>космопорт<clrEnd>.
+Дорога на <clr>север<clrEnd> ведёт в посёлок под названием <clr>Югол<clrEnd>. А ещё там есть <clr>заправка<clrEnd>."	"Quest Taxist.qmm: locations.24.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/25/texts/0/text"	"Вы на развилке.
+Рядом пробегает ручей, через который переброшен дощатый мост. За мостом дорога идёт на <clr>северо-восток<clrEnd> в <clr>Грынино<clrEnd>.
+Дорога на <clr>запад<clrEnd> ведёт через посёлок <clr>Статово<clrEnd>.
+Дорога на <clr>юг<clrEnd> ведёт в <clr>Портово<clrEnd> - посёлок, рядом с которым находится <clr>космопорт<clrEnd>."	"Quest Taxist.qmm: locations.25.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/26/texts/0/text"	"Вы в посёлке под названием <clr>Югол<clrEnd>. Недалеко высится <clr>заправка<clrEnd>.
+Если ехать на <clr>север<clrEnd>, то можно попасть в предгорный посёлок под названием <clr>Шахтинск<clrEnd>. Но, не доезжая до <clr>Шахтинска<clrEnd>, можно и свернуть на северо-восток в сторону <clr>Малово<clrEnd> и <clr>Грынино<clrEnd>.
+Дорога на <clr>восток<clrEnd> ведёт в <clr>Статово<clrEnd>.
+Дорога на <clr>юг<clrEnd> приведёт вас в <clr>Песчаник<clrEnd>."	"Quest Taxist.qmm: locations.26.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/27/texts/0/text"	"Вы в посёлке <clr>Статово<clrEnd>.
+Дорога на <clr>запад<clrEnd> ведёт в <clr>Югол<clrEnd>, рядом с которым есть <clr>заправка<clrEnd>.
+Дорога на <clr>восток<clrEnd> ведёт к развилке. С развилки можно поехать на <clr>северо-восток<clrEnd> в <clr>Грынино<clrEnd> или на <clr>юго-восток<clrEnd> в <clr>Портово<clrEnd> - посёлок, рядом с которым находится <clr>космопорт<clrEnd>."	"Quest Taxist.qmm: locations.27.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/28/texts/0/text"	"Вы на заправке. Повсюду высятся цистерны. В будке неподалёку сидит человек, которые внимательно наблюдает за вами. Он, наверное, сильно надеется, что вы заправитесь."	"Quest Taxist.qmm: locations.28.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/29/texts/0/text"	"Вы на развилке.
+Дорога на <clr>север<clrEnd> ведёт в <clr>Шахтинск<clrEnd>.
+Дорога на <clr>восток<clrEnd> пересекает ручей, сворачивает на <clr>северо-восток<clrEnd> и ведёт мимо посёлка под названием <clr>Малово<clrEnd>.
+На <clr>юге<clrEnd> расположен <clr>Югол<clrEnd>, рядом с которым есть <clr>заправка<clrEnd>."	"Quest Taxist.qmm: locations.29.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/30/texts/0/text"	"С севера подступают горы. Вы в предгорном посёлке под названием <clr>Шахтинск<clrEnd>.
+Отсюда только одна дорога - на <clr>юг<clrEnd>. Она ведёт к развилке на <clr>Югол<clrEnd> и <clr>Малово<clrEnd>."	"Quest Taxist.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/31/texts/0/text"	"Вы в <clr>Малово<clrEnd>.
+Дорога на <clr>восток<clrEnd> ведёт в <clr>Грынино<clrEnd>, рядом с которым есть <clr>заправка<clrEnd>.
+Дорога на <clr>юго-запад<clrEnd> ведёт к развилке, с которой можно свернуть на <clr>Шахтинск<clrEnd> или <clr>Югол<clrEnd>."	"Quest Taxist.qmm: locations.31.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/32/texts/0/text"	"Вы в <clr>Грынино<clrEnd>. Рядом расположена <clr>заправка<clrEnd>.
+Отсюда ведут две дороги.
+Одна на <clr>юго-запад<clrEnd> к развилке, с которой можно свернуть в <clr>Статово<clrEnd> или <clr>Портово<clrEnd>.
+Вторая - на <clr>запад<clrEnd> через Малово."	"Quest Taxist.qmm: locations.32.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/33/texts/0/text"	"Вы на заправке. Здесь неподалёку в горах берёт начало река. На фоне этого живописного пейзажа высятся цистерны с топливом."	"Quest Taxist.qmm: locations.33.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/40/texts/0/text"	"Вы подрулили к тому самому дому, из которого выехали утром. Вы вдоволь наездились по дорогам этого, в общем-то, милого заповедника и теперь возвращаетесь с отчётом о проделанной работе.
+Виктор Шмальц пересчитывал ваши деньги два раза. Наконец он сказал:
+- Здесь нет {5000}, здесь всего [p2] гольденов.
+Вы лишь виновато улыбались в ответ.
+Шмальц разочарованно покачал головой:
+- Это задание не может быть засчитано как выполненное. Мне очень жаль.
+
+Вам не оставалось ничего другого, как просто выйти из дома и отправиться к себе на корабль. До космопорта была недалеко, и вы добрались без приключений. Немного обидно, что <Money> cr. вы всё-таки не получите. Но зато вы неплохо провели время."	"Quest Taxist.qmm: locations.40.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/42/texts/0/text"	"Вы вспомнили, как Виктор говорил вам, что надо заработать не менее {5000} гольденов.
+Пересчитав свои купюры, вы выяснили, что у вас [p2] гольденов - это меньше, чем от вас ожидает Виктор Шмальц.
+Вы действительно хотите закончить задание?"	"Quest Taxist.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/42/texts/1/text"	"Вы вспомнили, как Виктор говорил вам, что надо заработать не менее {5000} гольденов.
+Пересчитав свои купюры, вы выяснили, что у вас [p2] гольденов - этого вполне достаточно для выполнения задания.
+Вы действительно хотите вернуться к Виктору Шмальцу?"	"Quest Taxist.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/43/texts/0/text"	"Вы подрулили к тому самому дому, из которого выехали утром. Вы вдоволь наездились по дорогам этого, в общем-то, милого заповедника и теперь возвращаетесь с отчётом о проделанной работе. Отчётом послужили [p2] гольденов, которые вы заработали за день.
+Виктор Шмальц был в восторге от вашего успеха. Пересчитав деньги, он вычел из них {5000}, которые забрал себе, а остаток обменял на галактические кредиты по курсу 1 гольден = 1 кредит. Вам эта процедура очень понравилась, и вы всё время улыбались.
+Наконец, всё было сделано, и вы получили {([p2]-5000)} премиальных cr. Шмальц пожал вам руку, после чего вы попрощались друг с другом.
+Добраться до космопорта не составило труда, но как оказалось, сегодня на весь день посадки и взлёты были запрещены. Впрочем, завтра обещали всё наладить. ""Опять на таможне какие-то проблемы"", - с досадой подумали вы. Но делать было нечего: вас не подпускали к собственному кораблю.
+Тогда вы направились в ближайший бар и решили дождаться там утра, благо дневной свет уже иссяк, и до утра оставалось не очень долго.
+В баре вы расслабились и смогли прогнать усталость, которая накопилась в вас за день. Плюс ко всему этому, в баре вы встретили знакомого рейнджера, которой волею судьбы оказался на этой планете. Со своим боевым товарищем вы провели в баре всю ночь, просто болтая ни о чём.
+Наконец, под утро, распрощавшись с рейнджером, вы вернулись в космопорт. Карантин уже был снят. Вы вспомнили о <Money> cr, которые заплатит вам планета <FromPlanet> за успешное выполнение задания и решили, что нужно навестить эту планету как можно скорее. Жизнь прекрасна!"	"Quest Taxist.qmm: locations.43.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/47/texts/0/text"	"Вы подрулили к тому самому дому, из которого выехали утром. Вы вдоволь наездились по дорогам этого, в общем-то, милого заповедника и теперь возвращаетесь с отчётом о проделанной работе. Отчётом послужили [p2] гольденов, которые вы заработали за день.
+Виктор Шмальц был в восторге от вашего успеха. Пересчитав деньги, он удивлением обнаружил, что вы заработали ровно столько, сколько было нужно и ни гольденом больше.
+- А мне больше и не надо, - улыбнулись вы.
+- Что ж, ваше право, - с недоумением произнёс Виктор.
+Наконец, всё было сделано. Шмальц пожал вам руку, после чего вы попрощались друг с другом.
+Добраться до космопорта не составило труда, но как оказалось, сегодня на весь день посадки и взлёты были запрещены. Впрочем, завтра обещали всё наладить. ""Опять на таможне какие-то проблемы"", - с досадой подумали вы. Но делать было нечего: вас не подпускали к собственному кораблю.
+Тогда вы направились в ближайший бар и решили дождаться там утра, благо дневной свет уже иссяк, и до утра оставалось не очень долго.
+В баре вы расслабились и смогли прогнать усталость, которая накопилась в вас за день. Плюс ко всему этому, в баре вы встретили знакомого рейнджера, которой волею судьбы оказался на этой планете. Со своим боевым товарищем вы провели в баре всю ночь, просто болтая ни о чём.
+Наконец, под утро, распрощавшись с рейнджером, вы вернулись в космопорт. Карантин уже был снят. Вы вспомнили о <Money> cr, которые заплатит вам планета <FromPlanet> за успешное выполнение задания и решили, что нужно навестить эту планету как можно скорее. Жизнь прекрасна!"	"Quest Taxist.qmm: locations.47.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/48/texts/1/text"	"Только вы начали отъезжать от <clr>Песчаника<clrEnd>, как поняли, что к вам прицепился эскорт. Вы прибавили скорости, но это не помогло. Вдруг вы услышали звук выстрела. Пуля просвистела намного выше вас.
+Нужно что-то предпринять."	"Quest Taxist.qmm: locations.48.texts.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/48/texts/3/text"	"Только вы начали отъезжать от <clr>Шахтинска<clrEnd>, как поняли, что к вам прицепился эскорт. Вы прибавили скорости, но это не помогло. Вдруг вы услышали звук выстрела. Пуля просвистела намного выше вас.
+Нужно что-то предпринять."	"Quest Taxist.qmm: locations.48.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/48/texts/7/text"	"Только вы начали отъезжать от развилки, как поняли, что к вам прицепился эскорт. Вы прибавили скорости, но это не помогло. Вдруг вы услышали звук выстрела. Пуля просвистела намного выше вас.
+Нужно что-то предпринять."	"Quest Taxist.qmm: locations.48.texts.7.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/48/texts/8/text"	"Только вы начали отъезжать от развилки, как поняли, что к вам прицепился эскорт. Вы прибавили скорости, но это не помогло. Вдруг вы услышали звук выстрела. Пуля просвистела намного выше вас.
+Нужно что-то предпринять."	"Quest Taxist.qmm: locations.48.texts.8.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/56/texts/0/text"	"За вами погоня. Нужно что-то предпринять."	"Quest Taxist.qmm: locations.56.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/57/texts/0/text"	"Вы решили, что лучше всё же остановиться.
+Другая машина тоже остановилась, и из неё вышли два пеленга.
+- Это наша территория и ты должен заплатить нам за проезд и ремонт нашей машины [p43] гольденов, - начал первый.
+- Это что-то вроде таможенного сбора, - вставил второй.
+- Остановился бы сразу, было бы дешевле, - ехидно добавил первый."	"Quest Taxist.qmm: locations.57.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/58/texts/0/text"	"Вы решили не рисковать и остановились.
+Другая машина тоже остановилась и из неё вышли два пеленга.
+- Это наша территория и ты должен заплатить нам за проезд [p43] гольденов, - начал первый.
+- Это что-то вроде таможенного сбора, - вставил второй."	"Quest Taxist.qmm: locations.58.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/64/texts/0/text"	"Вы подъехали к голосующему человеку.
+- Друг, а ты случайно не в <clr>Грынино<clrEnd> едешь? - Спросил он. - Если по пути, подбрось меня. Заплачу [p45] гольденов."	"Quest Taxist.qmm: locations.64.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/65/texts/0/text"	"Вы подъехали к голосующему человеку.
+- Друг, а ты случайно не в <clr>Шахтинск<clrEnd> едешь? - Спросил он. - Если по пути, подбрось меня. Заплачу [p45] гольденов."	"Quest Taxist.qmm: locations.65.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/66/texts/0/text"	"- А вот и <clr>Портово<clrEnd>, - сказали вы.
+Ваш попутчик отдал вам деньги, поблагодарил за то, что вы подвезли его, вышел из машины и скрылся из виду."	"Quest Taxist.qmm: locations.66.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/66/texts/3/text"	"- А вот и <clr>Шахтинск<clrEnd>, - сказали вы.
+Ваш попутчик отдал вам деньги, поблагодарил за то, что вы подвезли его, вышел из машины и скрылся из виду."	"Quest Taxist.qmm: locations.66.texts.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/66/texts/6/text"	"- А вот и <clr>Грынино<clrEnd>, - сказали вы.
+Ваш попутчик отдал вам деньги, поблагодарил за то, что вы подвезли его, вышел из машины и скрылся из виду."	"Quest Taxist.qmm: locations.66.texts.6.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/67/texts/0/text"	"Вы подъехали к голосующему человеку.
+- Друг, а ты случайно не в <clr>Портово<clrEnd> едешь? - Спросил он. - Если по пути, подбрось меня. Заплачу [p45] гольденов."	"Quest Taxist.qmm: locations.67.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/68/texts/0/text"	"Вы окликнули человека, который расположился около цистерн с горючим.
+- На меня тут какой-то зверёк напал. Вон тот шланг то ли перегрыз, то ли выдернул, - пожаловались вы и показали место, где совсем недавно висел зверёк.
+Человек глянул один глазом туда, куда вы указали, затем взглянул на какой-то датчик и, усмехаясь, сказал:
+- Ха, это он тебе гинопровод повредил. Шланг-то ты обратно заткнул, но гиносол повытек, давления для нормальной работы не хватает. Тебе просто нужно новый залить. Я тебе это вмиг сделаю за {[p46]*100} гольденов.
+- А без этого гино... как там его, - вы силились вспомнить название, но это вам не никак не удавалось. - Без вот этой штуки можно ездить?
+- Конечно можно! - Захохотал человек. - Только расход топлива больше будет. На топливе потратишь больше. - Человек хитро прищурился. - Ну что, залить гиносол?"	"Quest Taxist.qmm: locations.68.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/69/texts/0/text"	"- Гиносол залить? - Поинтересовался человек."	"Quest Taxist.qmm: locations.69.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/70/texts/0/text"	"- Гиносол залить? - Поинтересовался человек."	"Quest Taxist.qmm: locations.70.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/71/texts/0/text"	"Вы окликнули человека, который расположился около цистерн с горючим.
+- На меня тут какой-то зверёк напал. Вон тот шланг то ли перегрыз, то ли выдернул, - пожаловались вы и показали место, где совсем недавно висел зверёк.
+Человек глянул один глазом туда, куда вы указали, затем взглянул на какой-то датчик и, усмехаясь, сказал:
+- Ха, это он тебе гинопровод повредил. Шланг-то ты обратно заткнул, но гиносол повытек, давления для нормальной работы не хватает. Тебе просто нужно новый залить. Я тебе это вмиг сделаю за {[p46]*100} гольденов.
+- А без этого гино... как там его, - вы силились вспомнить название, но это вам не никак не удавалось. - Без вот этой штуки можно ездить?
+- Конечно можно! - Захохотал человек. - Только расход топлива больше будет. На топливе потратишь больше. - Человек хитро прищурился. - Ну что, залить гиносол?"	"Quest Taxist.qmm: locations.71.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/76/texts/0/text"	"Вы решили просто погулять и подышать воздухом. Немного побродив по посёлку, вы свернули в сторону лесочка. Мимо вас с верещаньем пробежал какой-то зверёк, в небе парило несколько птиц. Несколько раз вы замечали грибы, но не стали их срывать, потому что не знали наверняка, съедобные ли они. Хотя на вид были очень даже ничего.
+Немного погодя вы заметили восхитительный цветок, от которого несло нежным ароматом. Цветок был ярко-красный с большими лепестками. Вы подошли поближе, сорвали цветок и вдохнули аромат. Ощущения были восхитительные. Простояв несколько минут на месте, вы решили, что пора в обратный путь.
+На подступе к дому, в котором вы остановились, вас остановил человек.
+- Здорово живешь! - Поприветствовал он вас.
+Вы тоже поздоровались.
+- Что за красивый цветок у тебя в руке, - продолжал человек. - Это то, что непременно хочет увидеть моя жена. - Незнакомец улыбнулся. - Будь другом, продай мне его...
+- Нет-нет, - запротестовали вы. - Пусть это будет мой подарок вашей жене. Не нужно денег. - Вы сами не могли понять, с чего это вдруг вас сразил приступ щедрости.
+- Вот спасибо! - обрадовался человек. - Даже не ожидал такого!
+""Да я и сам не ожидал, - подумали вы. - Может, так на организм аромат цветка действует?""
+Вы решили не испытывать судьбу и, наскоро попрощавшись с человеком, решили поскорее уйти, пока вдруг вам не ударило в голову подарить человеку свой звездолёт."	"Quest Taxist.qmm: locations.76.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/locations/77/texts/0/text"	"Вы развернули карту и увидели следующую картину:
+
+Шахтинск.....Малово..Грынино
+......0......---0----0¦
+......¦.....--.......¦
+......+------........¦
+......¦..............¦
+......¦....Статово...¦
+Югол ¦0------0--------
+......¦......¦
+......L¬.....L¬
+.......L¬.....L¬   
+........L¬.....0 Портово    
+.........L¬...--
+.Песчаник 0----"	"Quest Taxist.qmm: locations.77.texts.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/0/text"	"Нахамить человеку и отправиться в космопорт, чтобы улететь с этой чёртовой планеты"	"Quest Taxist.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/1/text"	"Согласиться поработать таксистом"	"Quest Taxist.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/2/text"	"В чём именно заключается моё задание?"	"Quest Taxist.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/3/text"	"На чём я буду работать?"	"Quest Taxist.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/5/text"	"Расскажите об окрестностях"	"Quest Taxist.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/6/text"	"Какие опасности меня могут здесь подстерегать?"	"Quest Taxist.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/7/text"	"У меня нет вопросов"	"Quest Taxist.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/8/text"	"Заглянуть в шкафчик"	"Quest Taxist.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/10/text"	"Выйти на улицу"	"Quest Taxist.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/11/text"	"Лечь спать"	"Quest Taxist.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/12/text"	"Зайти в дом"	"Quest Taxist.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/13/text"	"Зайти в гараж"	"Quest Taxist.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/14/text"	"Вернуться к дому"	"Quest Taxist.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/15/text"	"Зайти в гараж"	"Quest Taxist.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/16/text"	"Поискать бар"	"Quest Taxist.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/17/text"	"Побродить по окрестностям"	"Quest Taxist.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/18/text"	"Направиться к бару"	"Quest Taxist.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/19/text"	"Идти к дому"	"Quest Taxist.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/20/text"	"Зайти внутрь"	"Quest Taxist.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/20/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/21/text"	"Выйти из бара"	"Quest Taxist.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/22/text"	"Зайти в бар"	"Quest Taxist.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/22/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/23/text"	"Идти к дому"	"Quest Taxist.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/25/text"	"Побродить по окрестностям"	"Quest Taxist.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/27/text"	"Подойти к стойке"	"Quest Taxist.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/28/text"	"Отойти от стойки"	"Quest Taxist.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/28/description"	"Поблагодарив Глеба за тёплый приём, вы сказали, что вас ждут срочные дела. Допив остатки ""Эквенторного"" и ещё раз поблагодарив за восхитительную выпивку, вы встали и отошли от стойки."	"Quest Taxist.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/29/text"	"Спросить об автомобилях"	"Quest Taxist.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/30/text"	"Спросить о местности"	"Quest Taxist.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/31/text"	"Спросить о погоде"	"Quest Taxist.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/33/text"	"Отойти от стойки"	"Quest Taxist.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/33/description"	"- Нет, не сейчас, - сказали вы, отходя от стойки."	"Quest Taxist.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/34/text"	"Подойти к стойке"	"Quest Taxist.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/35/text"	"Подойти к паре пеленгов"	"Quest Taxist.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/36/text"	"Подойти к шумной компании людей"	"Quest Taxist.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/37/text"	"Купить"	"Quest Taxist.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/37/description"	"- Давай пушку, - сказали вы, протягивая 200 гольденов.
+- Пеленг с жадностью схватил купюры и протянул вам пушку.
+- Вот. Только патронов нет. Сам ищи.
+Вы молча приняли пистолет, положили его себе в карман и отошли от этого столика."	"Quest Taxist.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/38/text"	"Отказаться"	"Quest Taxist.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/38/description"	"- Нет, не надо, - сказали вы.
+- Ну, как хочешь, человек, - произнес, как ни в чём ни бывало, пеленг. - Смотри, что теряешь - практически задаром.
+В ответ вы развернулись и отошли от этой парочки."	"Quest Taxist.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/39/text"	"Отойти от столика"	"Quest Taxist.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/39/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.39.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/40/text"	"Подойти к игровому автомату"	"Quest Taxist.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/41/text"	"Отойти от автомата"	"Quest Taxist.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/41/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/42/text"	"Сыграть раунд"	"Quest Taxist.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/46/text"	"Спросить об автомате в углу"	"Quest Taxist.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/47/text"	"Отойти от компании"	"Quest Taxist.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/47/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.47.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/48/text"	"Присоединиться к спору"	"Quest Taxist.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/49/text"	"Нет, не сойдёт. Я тут вспомнил, что у меня срочное дело есть"	"Quest Taxist.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/49/description"	"- Ха, - сказал всё тот же человек. - Я так и думал, что ты мастер только языком чесать. А ну пошёл прочь!
+Вы молча развернулись и отошли от этих типов. ""Пусть сами гадают свои дурацкие загадки"", - решили вы."	"Quest Taxist.qmm: jumps.49.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/50/text"	"Конечно, сойдёт"	"Quest Taxist.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/51/text"	"Нет, не сойдёт. У меня пока таких денег нет"	"Quest Taxist.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/51/description"	"- Но если вдруг появятся, ты приходи, мы будем ждать, - заверил вас человек.
+Вы кивнули и молча отошли от этих типов."	"Quest Taxist.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/52/text"	"Отойти от компании"	"Quest Taxist.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/52/description"	"Вы внутри бара. Вокруг отдыхают местные жители, преимущественно, люди. 
+За барной стойкой сидит несколько человек, которые потягивают местное пойло. За одним из столиков расположилась группа людей, которые с чувством что-то обсуждают.
+В дальнем конце сидят два воровато озирающихся пеленга.
+В углу стоит игровой автомат."	"Quest Taxist.qmm: jumps.52.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/53/text"	"Да"	"Quest Taxist.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/54/text"	"Нет"	"Quest Taxist.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/54/description"	"- Нет пока, но я над этим работаю, - сказали вы.
+Люди за столиком расхохотались.
+- Ну что ж, работай, - сказал, наконец, один из них. - Как заработаешь, заходи.
+Вы молча удалились."	"Quest Taxist.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/55/text"	"Выдвинуть версию"	"Quest Taxist.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/55/description"	"Немного подумав, вы вспомнили, что где-то слышали или читали советы, позволяющие снизить потребление топлива. Их было много, но все они сводились к тому, что нужно всего лишь ехать более-менее ровно, без резких тормозов и ускорений. Скорее всего, приятель того человека был слишком резковат, вот топлива и не хватило чуть-чуть.
+Именно это вы и озвучили. После секундной паузы, один из людей крикнул другому:
+- Вот видишь, даже он это знает. А вы мне не верили! А я у самого мастера вождения Михалко Шумалько спрашивал. И он мне это же ответил. Неверующие!
+Никто не возражал. Похоже, вы справились с заданием. Просидев ещё около минуты, вы встали, забрали со стола деньги и двинулись от столика. У входа в бар вас догнал один из людей, тот самый, который предлагал пари.
+- А ты молодец, - сказал он. - Честно говоря, не ожидал.
+- В рейнджеров кого попало не берут! - гордо заявили вы.
+- Так ты ещё и рейнджер, - удивился человек. - Дай тогда пожать тебе руку, рейнджер... Не знаю, как зовут тебя, - через некоторое время добавил он с грустью.
+- <Ranger>, - сказали вы, протягивая руку.
+Человек пожал руку.
+- Ну ладно, <Ranger>, меня ждут. Удачи тебе. - И он направился к столику.
+Довольный собой, вы подошли к выходу из бара."	"Quest Taxist.qmm: jumps.55.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/56/text"	"Выдвинуть версию"	"Quest Taxist.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/56/description"	"Вы подумали немного, но в голову вам не пришло ничего дельного. Тогда вы сказали.
+- А может, он просто поехал не по той дороге, которой всегда ездил, или топлива чуть меньше залил?
+- Нет-нет! - наперебой закричали люди. - В этот раз так же, как и обычно.
+- Да не может этого быть, - настаивали вы.
+- А вот случилось же! Других вариантов нет?
+Вы лишь молча пожали плечами.
+Люди наперебой кричали что-то; наконец тот самый человек, который предложил вам заключить пари, сказал:
+- Похоже, ты проиграл. Ты ни в чём нас не убедил. А теперь будь добр, покинь нашу компанию.
+Окружающие примолкли. Вам стало не по себе. Молча встав, вы вышли из за столика. Под гнетущую тишину, вы двинулись к выходу бара.
+У вас промелькнула мысль, что, может быть, вам стоило раньше уделить время изучению автомобилей."	"Quest Taxist.qmm: jumps.56.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/57/text"	"Отойти от стойки"	"Quest Taxist.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/57/description"	"Поблагодарив уже в который раз Глеба за тёплый приём и информацию, вы сказали, что вас ждут срочные дела. Глеб подмигнул вам, а вы встали и отошли от стойки."	"Quest Taxist.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/58/text"	"Следовать за человеком"	"Quest Taxist.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/59/text"	"Выехать на дорогу"	"Quest Taxist.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/60/text"	"Ехать на запад"	"Quest Taxist.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/61/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/62/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/63/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/64/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/65/text"	"Свернуть на заправку"	"Quest Taxist.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/66/text"	"Вернуться в Югол"	"Quest Taxist.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/67/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/68/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/69/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/70/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/71/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/72/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/73/text"	"Ехать на запад"	"Quest Taxist.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/74/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/75/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/76/text"	"Ехать на запад"	"Quest Taxist.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/77/text"	"Ехать на юго-запад"	"Quest Taxist.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/78/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/79/text"	"Ехать на северо-восток"	"Quest Taxist.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/80/text"	"Ехать на запад"	"Quest Taxist.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/81/text"	"Ехать на юго-запад"	"Quest Taxist.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/82/text"	"Свернуть на заправку"	"Quest Taxist.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/83/text"	"Вернуться в Грынино"	"Quest Taxist.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/84/text"	"Залить бак полностью ([p20] гольденов)"	"Quest Taxist.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/86/text"	"Залить половину возможного ([p21] гольденов)"	"Quest Taxist.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/87/text"	"Залить четверть возможного ([p22] гольденов)"	"Quest Taxist.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/88/text"	"Залить половину возможного ([p21] гольденов)"	"Quest Taxist.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/89/text"	"Залить бак полностью ([p20] гольденов)"	"Quest Taxist.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/90/text"	"Залить четверть возможного ([p22] гольденов)"	"Quest Taxist.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/92/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/93/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/94/text"	"Отказаться"	"Quest Taxist.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/94/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/95/text"	"Согласиться"	"Quest Taxist.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/95/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/96/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/97/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/98/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/99/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/100/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/101/text"	"Подождать пассажиров"	"Quest Taxist.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/102/text"	"Согласиться"	"Quest Taxist.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/102/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/103/text"	"Согласиться"	"Quest Taxist.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/103/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/104/text"	"Согласиться"	"Quest Taxist.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/104/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/105/text"	"Согласиться"	"Quest Taxist.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/105/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/106/text"	"Согласиться"	"Quest Taxist.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/106/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/107/text"	"Согласиться"	"Quest Taxist.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/107/description"	"- Да без вопросов, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/108/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.108.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/109/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.109.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/110/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/111/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/112/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/113/description"	"Вы включили шашечки и стали ждать в надежде, что  кому-нибудь понадобятся ваши услуги.
+К сожалению, таковых пока не нашлось..."	"Quest Taxist.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/114/text"	"Отказаться"	"Quest Taxist.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/114/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/115/text"	"Отказаться"	"Quest Taxist.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/115/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/116/text"	"Отказаться"	"Quest Taxist.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/116/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/117/text"	"Отказаться"	"Quest Taxist.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/117/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/118/text"	"Отказаться"	"Quest Taxist.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/118/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/119/text"	"Отказаться"	"Quest Taxist.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/119/description"	"- Нет, не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно сказал потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/120/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/121/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/122/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/123/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/124/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/125/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/126/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/127/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/128/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/129/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/130/text"	"Высадить пассажира"	"Quest Taxist.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/131/description"	"Вы остановили машину и сказали пассажиру, что приехали. Тот, выглянув в окно, согласился с вами. Протянув вам [p39] гольденов и поблагодарив за то, что довезли его в целости и сохранности, он вышел из машины и вскоре исчез из виду.
+А вы тем временем пересчитывали хрустящие банкноты."	"Quest Taxist.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/143/text"	"Закончить задание"	"Quest Taxist.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/144/text"	"Да"	"Quest Taxist.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/145/text"	"Да"	"Quest Taxist.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/146/text"	"Нет"	"Quest Taxist.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/146/description"	"Вы решили, что возвращаться ещё рано. Лучше использовать оставшееся время для заработки денег."	"Quest Taxist.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/150/description"	"Вы остановились возле заправки и сказали, что приехали. Пеленг кивнул, сунул вам в руки [p39] гольденов и передал обещанный <clr>пистолет<clrEnd>
+- Не поубивай только всех, - сказал он на прощание, выпрыгивая из машины.
+Вы в ответ лишь усмехнулись."	"Quest Taxist.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/152/description"	"Вы остановились возле заправки и сказали, что приехали. Пеленг кивнул, сунул вам в руки [p39] гольденов и [p38] обещанных патронов.
+- Все сразу не расстреливай, - сказал он на прощание, выпрыгивая из машины.
+Вы в ответ лишь усмехнулись."	"Quest Taxist.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/155/text"	"Попытаться оторваться"	"Quest Taxist.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/156/text"	"Сделать выстрел по преследователям"	"Quest Taxist.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/157/text"	"Сделать три выстрела по преследователям"	"Quest Taxist.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/158/text"	"Сделать десять выстрелов по преследователям"	"Quest Taxist.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/159/description"	"Прибавив газа и ловко маневрируя на ухабах, вы заметили, что преследователи стали отставать. Наконец они совсем скрылись из виду"	"Quest Taxist.qmm: jumps.159.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/160/text"	"Остановиться"	"Quest Taxist.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/161/text"	"Попытаться оторваться"	"Quest Taxist.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/162/text"	"Сделать три выстрела по преследователям"	"Quest Taxist.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/163/text"	"Сделать десять выстрелов по преследователям"	"Quest Taxist.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/164/text"	"Сделать выстрел по преследователям"	"Quest Taxist.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/165/description"	"Вы не пожалели целую обойму. Видимо, ваш настрой показался преследователям слишком решительным, и они решили не связываться с вами, а подыскать другую жертву. Ваш недавний эскорт быстро исчез из виду."	"Quest Taxist.qmm: jumps.165.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/166/description"	"Вы высунулись из машины и выстрелили из пистолета три раза. Вы отчётливо слышали, как пули попадали в бандитов. К счастью, ответных выстрелов пока не было."	"Quest Taxist.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/167/description"	"Вы высунулись из машины и выпустили из пистолета всю обойму. Вы отчётливо слышали, как пули попадали в бандитов. К счастью, ответных выстрелов пока не было."	"Quest Taxist.qmm: jumps.167.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/168/description"	"Вы высунулись из машины и выстрелили из пистолета. Вы отчётливо слышали, как пуля попала в бандитов. К счастью, ответных выстрелов пока не было."	"Quest Taxist.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/169/description"	"Вы высунулись из машины и выстрелили из пистолета три раза подряд. Ответом была тишина. Обернувшись, вы заметили, что ваши преследователи отстают. Решив не узнавать причин расставания, вы вдавили педаль газа и вскоре совсем потеряли их из виду."	"Quest Taxist.qmm: jumps.169.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/170/description"	"Вы высунулись из машины и выстрелили из пистолета. Ответом была тишина. Обернувшись, вы заметили, что ваши преследователи отстают. Решив не узнавать причин расставания, вы вдавили педаль газа и вскоре совсем потеряли их из виду."	"Quest Taxist.qmm: jumps.170.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/171/description"	"Вы высунулись из машины и выстрелили из пистолета. Вы отчётливо слышали, как пуля попала в бандитов. Но и бандиты в долгу решили не оставаться и в вашу сторону полетели пули..."	"Quest Taxist.qmm: jumps.171.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/172/text"	"Остановиться"	"Quest Taxist.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/173/description"	"Вы высунулись из машины и выпустили из пистолета всю обойму. Вы отчётливо слышали, как пули попадала в бандитов. Но и бандиты в долгу решили не оставаться и в вашу сторону полетели пули..."	"Quest Taxist.qmm: jumps.173.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/174/description"	"Вы высунулись из машины и выстрелили из пистолета три раза. Вы отчётливо слышали, как пули попадали в бандитов. Но и бандиты в долгу решили не оставаться и в вашу сторону полетели пули..."	"Quest Taxist.qmm: jumps.174.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/175/description"	"Вы высунулись из машины и выпустили из пистолета целую обойму. Через некоторое время, когда вы обернулись, вы заметили, что ваши преследователи отстают. Решив не узнавать причин расставания, вы вдавили педаль газа и вскоре совсем потеряли их из виду."	"Quest Taxist.qmm: jumps.175.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/176/description"	"Вы втопили в пол педаль газа. Однако на ухабах вы невольно сбрасывали скорость. Да и другой водитель оказался не из худших.
+Ваша попытка оторваться не получилась. Хуже того - по вам сделали несколько выстрелов."	"Quest Taxist.qmm: jumps.176.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/178/text"	"Заплатить"	"Quest Taxist.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/178/description"	"Вы вынули нужную сумму и покорно отдали её пеленгам. Те, получив требуемое, быстро сели в автомобиль и уехали.
+Вы залезли обратно в свой автомобиль."	"Quest Taxist.qmm: jumps.178.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/179/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/179/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- Ага, денег у него нет! - торжественно заявил пеленг. - А за враньё мы оштрафуем тебя на такую же сумму.
+Пеленг вытащил двойную сумму из кошелька, который потом бросили к вашим ногам.
+- Вот, нам лишнего не надо. Мы пеленги честные.
+Затем пеленги сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.179.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/180/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/180/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- И вправду, нет столько... - задумчиво произнёс пеленг. - Тогда мы возьмём всё, что есть.
+С этими словами пеленг обчистил ваш кошелёк, который потом бросил к вашим ногам
+Затем пеленги сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.180.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/181/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/181/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- Ага, денег у него нет! - торжественно сказал пеленг. - А за враньё мы оштрафуем тебя на такую же сумму.
+Пеленг начал считать.
+- Нет, двойной не получится. Не хватает, - развёл он всеми четырьмя руками.
+- Тогда бери всё, что есть, - подсказал другой пеленг.
+- Точно! - просветлённо проговорил первый. Он вытащил из кошелька всё, что там было, и уже пустой кошелёк бросил к вашим ногам.
+Затем они сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.181.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/182/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/182/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+Раскрыв его, пеленг чуть не упал в обморок.
+- Пустой?! Ты нищий?! - негодовал пеленг.
+Вы угрюмо кивнули.
+- Но... Нам... Что... - пытался что-то сказал пеленг.
+Вы молчали.
+- Ладно, - решил второй. Мы бедным помогаем. - Вот, возьми эти [p43] гольденов.
+- Что?! - не выдержал первый. - С каких это пор помогаем?
+- ...только к нам не попадайся больше, - не слушая первого, договорил второй пеленг.
+Затем щедрый пеленг затащил возмущающегося и упирающегося всеми четырьмя руками пеленга в машину. Через пару минут они уже скрылись из виду.
+Вы, ещё не полностью отойдя от случившегося, залезли в автомобиль. В вашем кошельке прибавилось за счёт ваших вымогателей. Забавно."	"Quest Taxist.qmm: jumps.182.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/183/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/183/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- Ага, денег у него нет! - торжественно заявил пеленг. - А за враньё мы оштрафуем тебя на такую же сумму.
+Пеленг вытащил двойную сумму из кошелька, который потом бросили к вашим ногам.
+- Вот, нам лишнего не надо. Мы пеленги честные.
+Затем пеленги сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.183.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/184/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/184/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- Ага, денег у него нет! - торжественно заявил пеленг. - А за враньё мы оштрафуем тебя на такую же сумму.
+Пеленг начал считать.
+- Нет, двойной не получится. Не хватает, - развёл он четырьмя руками.
+- Тогда бери всё, что есть, - подсказал другой пеленг.
+- Точно! - просветлённо проговорил первый. Он вытащил из кошелька всё, что там было, и уже пустой кошелёк бросил к вашим ногам.
+Затем они сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/185/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/185/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+- И вправду, нет столько... - задумчиво произнёс пеленг. - Тогда мы возьмём всё, что есть.
+С этими словами пеленг обчистил ваш кошелёк, который потом бросил к вашим ногам
+Затем пеленги сели в автомобиль и скрылись из виду."	"Quest Taxist.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/186/text"	"Сказать, что у вас нет таких денег"	"Quest Taxist.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/186/description"	"- Слушайте, я не настолько богат, - начали вы. - У меня нет такой суммы.
+- А какая есть?
+Вы молчали. Тогда один из пеленгов, угрожая оружием, отнял у вас кошелёк.
+Раскрыв его, пеленг чуть не упал в обморок.
+- Пустой?! Ты нищий?! - негодовал пеленг.
+Вы угрюмо кивнули.
+- Но... Нам... Что... - пытался что-то сказал пеленг.
+Вы молчали.
+- Ладно, - решил второй. Мы бедным помогаем. - Вот, возьми эти [p43] гольденов.
+- Что?! - не выдержал первый. - С каких это пор помогаем?
+- ...только к нам не попадайся больше, - не слушая первого, договорил второй пеленг.
+Затем щедрый пеленг затащил возмущающегося и упирающегося всеми четырьмя руками пеленга в машину. Через пару минут они уже скрылись из виду.
+Вы, ещё не полностью отойдя от случившегося, залезли в автомобиль. В вашем кошельке прибавилось за счёт ваших вымогателей. Забавно."	"Quest Taxist.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/193/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/194/text"	"Ехать на северо-восток"	"Quest Taxist.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/195/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/196/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/197/description"	"Проехав сотню метров вы поняли, что находитесь совсем рядом с <clr>Грынино<clrEnd>"	"Quest Taxist.qmm: jumps.197.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/198/description"	"Проехав сотню метров вы поняли, что находитесь совсем рядом с <clr>Портово<clrEnd>"	"Quest Taxist.qmm: jumps.198.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/199/description"	"Проехав сотню метров вы поняли, что находитесь совсем рядом с <clr>Шахтинском<clrEnd>"	"Quest Taxist.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/200/description"	"Проехав сотню метров вы поняли, что находитесь совсем рядом с <clr>развилкой около Шахтинска<clrEnd>"	"Quest Taxist.qmm: jumps.200.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/201/text"	"Заплатить"	"Quest Taxist.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/203/description"	"Вскоре к вам подошёл человек.
+- Друг, в <clr>Портово<clrEnd> надо. - Сказал он. - Довези за [p39] гольденов, а?"	"Quest Taxist.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/204/description"	"Вскоре к вам подошёл человек.
+- Друг, в <clr>Портово<clrEnd> надо. - Сказал он. - Довези за [p39] гольденов, а?"	"Quest Taxist.qmm: jumps.204.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/205/description"	"Вскоре к вам подошёл человек.
+- Друг, в <clr>Портово<clrEnd> надо. - Сказал он. - Это совсем недалеко. Плачу [p39] гольденов."	"Quest Taxist.qmm: jumps.205.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/206/description"	"К вам подошёл человек и за [p39] гольденов попросил довезти до развилки рядом с <clr>Портово<clrEnd>."	"Quest Taxist.qmm: jumps.206.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/207/description"	"Вскоре к вам подошёл человек и попросил подвезти к <clr>Малово<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.207.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/208/description"	"Наконец, вы дождались. К вам подошёл человек и попросил подбросить в <clr>Статово<clrEnd>. Обещал заплатить [p39] гольденов."	"Quest Taxist.qmm: jumps.208.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/209/description"	"Вскоре к вам подошёл человек и попросил подвезти к <clr>Малово<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.209.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/210/description"	"Наконец, вы дождались. К вам подошёл человек и попросил подбросить в <clr>Статово<clrEnd>. Обещал заплатить [p39] гольденов."	"Quest Taxist.qmm: jumps.210.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/211/description"	"Вскоре к вам подошёл человек и попросил подвезти к <clr>Малово<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.211.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/212/description"	"К вам вскоре подошёл человек.
+- Свободен? - Осведомился он.
+- А то! - Подтвердили вы.
+- Тогда отвези в <clr>Шахтинск<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.212.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/213/description"	"Вы немного подождали, и к вам подошёл человек.
+- В <clr>Грынино<clrEnd>, - тоном, не терпящим возражений, произнёс он.
+- Сколько платишь? - Осведомились вы.
+- [p39] гольденов. По-моему, достойная сумма. Согласен? - Человек вопросительно уставился на вас."	"Quest Taxist.qmm: jumps.213.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/214/description"	"К вам вскоре подошёл человек.
+- Свободен? - Осведомился он.
+- А то! - Подтвердили вы.
+- Тогда отвези в <clr>Шахтинск<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.214.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/215/description"	"Вы немного подождали, и к вам подошёл человек.
+- В <clr>Грынино<clrEnd>, - тоном, не терпящим возражений, произнёс он.
+- Сколько платишь? - Осведомились вы.
+- [p39] гольденов. По-моему, достойная сумма. Согласен? - Человек вопросительно уставился на вас."	"Quest Taxist.qmm: jumps.215.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/216/description"	"К вам вскоре подошёл человек.
+- Свободен? - Осведомился он.
+- А то! - Подтвердили вы.
+- Тогда отвези в <clr>Шахтинск<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.216.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/217/description"	"Вы немного подождали, и к вам подошёл человек.
+- В <clr>Грынино<clrEnd>, - тоном, не терпящим возражений, произнёс он.
+- Сколько платишь? - Осведомились вы.
+- [p39] гольденов. По-моему, достойная сумма. Согласен? - Человек вопросительно уставился на вас."	"Quest Taxist.qmm: jumps.217.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/218/description"	"К вам подошёл человек и за [p39] гольденов попросил довезти до <clr>развилки рядом с Портово<clrEnd>."	"Quest Taxist.qmm: jumps.218.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/219/description"	"Вскоре к вам подошёл человек и попросил подбросить к <clr>развилке рядом с Шахтинском<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.219.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/220/description"	"На ловца и зверь бежит. Точнее, человек. Отдышавшись, человек сказал:
+- В <clr>Югол<clrEnd> надо. Очень надо. [p39] гольденов плачу."	"Quest Taxist.qmm: jumps.220.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/221/description"	"Вскоре к вам подошёл человек и попросил подбросить к <clr>развилке рядом с Шахтинском<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.221.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/222/description"	"На ловца и зверь бежит. Точнее, человек. Отдышавшись, человек сказал:
+- В <clr>Югол<clrEnd> надо. Очень надо. [p39] гольденов плачу."	"Quest Taxist.qmm: jumps.222.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/223/description"	"Вскоре к вам подошёл человек и попросил подбросить к <clr>развилке рядом с Шахтинском<clrEnd>.  Это совсем недалеко отсюда. А заплатить обещал [p39] гольденов."	"Quest Taxist.qmm: jumps.223.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/224/description"	"Наконец, вы дождались. К вам подошёл человек и попросил добросить до <clr>Песчаника<clrEnd>. Не задаром, а за [p39] гольденов."	"Quest Taxist.qmm: jumps.224.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/225/description"	"Вскоре к вам подошёл человек.
+- Доставишь к <clr>заправке рядом с Юголом<clrEnd>? - Спросил он. - Плачу [p39] гольденов."	"Quest Taxist.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/226/description"	"Наконец, вы дождались. К вам подошёл человек и попросил добросить до <clr>Песчаника<clrEnd>. Не задаром, а за [p39] гольденов."	"Quest Taxist.qmm: jumps.226.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/227/description"	"Вскоре к вам подошёл человек.
+- Доставишь к <clr>заправке рядом с Оголом<clrEnd>? - Спросил он. - Плачу [p39] гольденов."	"Quest Taxist.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/228/description"	"Наконец, вы дождались. К вам подошёл человек и попросил добросить до <clr>Песчаника<clrEnd>. Не задаром, а за [p39] гольденов."	"Quest Taxist.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/229/description"	"К вам подошёл человек и попросил доставить к <clr>заправке рядом с Грынино<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.229.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/230/description"	"К вам подошёл человек и попросил доставить к <clr>заправке рядом с Грынино<clrEnd>. За [p39] гольденов."	"Quest Taxist.qmm: jumps.230.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/231/description"	"Вы стали ждать потенциального пассажира и вдруг заметили, как к вам крадётся пеленг.
+- Человек. Довези до <clr>заправки, которая рядом с Грынино<clrEnd>. Я тебе заплачу [p39] гольденов, а ещё дам этот механический <clr>пистолет<clrEnd>. Антиквариат. - Пеленг вытащил из кармана пистолет и показал его вам."	"Quest Taxist.qmm: jumps.231.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/232/description"	"Вдруг вы увидели воровато озирающегося пеленга, который двигался в вашу сторону. Подойдя, он сказал:
+- Человек. Патроны к пистолету нужны? Дам [p38] штук, плюс [p39] Гольденов, если довезёшь до <clr>заправки, которая находится рядом с Грынино.<clrEnd>"	"Quest Taxist.qmm: jumps.232.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/233/description"	"Вы стали ждать потенциального пассажира и вдруг заметили, как к вам крадётся пеленг.
+- Человек. Довези до <clr>заправки, которая рядом с Юголо<clrEnd>. Я тебе заплачу [p39] гольденов и в довесок дам [p38] патронов к механическому пистолету. Антиквариат. - Пеленг вытащил из кармана несколько патронов и показал их вам."	"Quest Taxist.qmm: jumps.233.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/234/text"	"Ехать на северо-восток"	"Quest Taxist.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/234/description"	"Вы нажали на педаль газа, но автомобиль не сдвинулся с места, а лишь как-то натяжно зашумел. Вы повторили попытку. Без изменений.
+Тогда вы вышли и осмотрели двигатель. Всё было в порядке. На всякий случай, вы проверили всякие мелочи, чтобы убедиться, что ничего критически важного не сломано. Всё было в пределах нормы.
+Тогда вы вернулись в кабину и попробовали тронуться. Автомобиль плавно двинулся с места. Недоумевая о случившемся, вы вернулись к выполнению задания..."	"Quest Taxist.qmm: jumps.234.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/235/text"	"Ехать на запад"	"Quest Taxist.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/235/description"	"Только вы стали отъезжать от развилки, как автомобиль резко понесло вправо. Вы чуть не врезались в стоящее дерево.
+Придя в себя, вы вышли из машины и, обойдя её, увидели, что какое-то местное животное прицепилось сзади. Оно успело перегрызть какой-то шланг, из которого сочилась мутная жидкость.
+Ваша рука схватила первую попавшуюся палку и нанесла сильнейший удар по зверьку. Тот даже ничего не успел прокричать. Словно мешок с  фарюками, он отлетел в сторону кювета.
+Немного погодя, уже полностью успокоившись, вы решили устранить неисправность. Вы просто воткнули перегрызенный шланг на место. Какая-то часть жидкость успела вылиться, но когда вы попробовали тронуться, почувствовали, что автомобиль вас вполне слушается. Вы решили продолжить свою миссию, хотя при случае нужно спросить совета у специалиста"	"Quest Taxist.qmm: jumps.235.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/236/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/236/description"	"Вы двинулись в сторону <clr>Портово<clrEnd> и на полпути наткнулись на поваленные посреди дороги деревья. Присмотревшись, вы увидели, что деревья спилены с помощью плазматической пилы. Объехать было невозможно - дорога здесь резко сужалась, и с обеих сторон к ней вплотную подходил лес. Скорее всего, пираты готовили засаду для кого-то. К счастью, когда вы остановились, на вас никто не набросился. Рядом не было вообще никого.
+Немного поковырявшись, вы смогли оттащить несколько деревьев так, что через образовавшееся пространство можно было проехать.
+Вы осторожно проехали между деревьями и продолжили свой путь. Жалко только, что вы потеряли много времени..."	"Quest Taxist.qmm: jumps.236.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/238/text"	"Ехать на восток"	"Quest Taxist.qmm: jumps.238.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/238/description"	"Вы двинулись в сторону <clr>Песчаника<clrEnd> и на полпути наткнулись на поваленные посреди дороги деревья. Присмотревшись, вы увидели, что деревья спилены с помощью плазматической пилы. Объехать было невозможно - дорога здесь резко сужалась, и с обеих сторон к ней вплотную подходил лес. Скорее всего, пираты готовили засаду для кого-то. К счастью, когда вы остановились, на вас никто не набросился. Рядом не было вообще никого.
+Немного поковырявшись, вы смогли оттащить несколько деревьев так, что через образовавшееся пространство можно было проехать.
+Вы осторожно проехали между деревьями и продолжили свой путь. Жалко только, что вы потратили много времени..."	"Quest Taxist.qmm: jumps.238.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/239/text"	"Ехать на север"	"Quest Taxist.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/239/description"	"Вы уже успели проехать несколько сотен метров в северном направлении, как увидели аварию на дороге. Автомобиль врезался в дерево и внутри находился раненый пеленг. Вы заметили, что его автомобиль был в дырах от пуль. Видимо, на него напали бандиты.
+Вы подбежали к машине. Пеленг был в сознании и проговорил:
+- Человек, доставь меня в Югол. Там у меня дом и отличный реанимирующий аппарат. Я тебе заплачу.
+Вы наскоро перевязали пеленга аптечкой, которая была в автомобиле, благо рейнджеров такому учили, в свое время, и отнесли пеленга в свой автомобиль. Затем осторожно двинулись в обратном направлении - в <clr>Югол<clrEnd>.
+Всё-таки, вы не могли бросить несчастного пеленга на произвол судьбы.
+Пока вы ехали, пеленг всё время был в сознании. Когда вы подъехали к посёлку, пеленг показал, какой дом его. Вы остановились прямо около дверей.
+Вы уже хотели занести пеленга в дом на своих руках, но он не дал вам этого сделать. Достав из кармана несколько купюр, пеленг сунул их вам в руки. Затем поблагодарил за помощь и заковылял в дом.
+- Может, всё-таки помочь?- Крикнули вы ему в спину.
+- Спасибо, человек, ты уже помог, - не оборачиваясь, сказал пеленг. Через пару секунд он уже исчез в доме.
+Вы пожали плечами и сели в машину. В руке вы по-прежнему сжимали купюры. Вы их распрямили и сосчитали - было ровно <clr>250<clrEnd> гольденов. ""Пусть будет компенсацией за потерянное время"", - решили вы."	"Quest Taxist.qmm: jumps.239.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/240/text"	"Ехать на юг"	"Quest Taxist.qmm: jumps.240.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/240/description"	"Только вы стали отъезжать от развилки, как автомобиль резко понесло вправо. Вы чуть не врезались в стоящее дерево.
+Придя в себя, вы вышли из машины и, обойдя её, увидели, что какое-то местное животное прицепилось сзади. Оно успело перегрызть какой-то шланг, из которого сочилась мутная жидкость.
+Ваша рука схватила первую попавшуюся палку и нанесла сильнейший удар по зверьку. Тот даже ничего не успел прокричать. Словно мешок с  фарюками, он отлетел в сторону кювета.
+Немного погодя, уже полностью успокоившись, вы решили устранить неисправность. Вы просто воткнули перегрызенный шланг на место. Какая-то часть жидкость успела вылиться, но когда вы попробовали тронуться, почувствовали, что автомобиль вас вполне слушается. Вы решили продолжить свою миссию, хотя при случае нужно спросить совета у специалиста"	"Quest Taxist.qmm: jumps.240.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/244/text"	"Подъехать к голосующему человеку"	"Quest Taxist.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/245/text"	"Согласиться"	"Quest Taxist.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/245/description"	"- Конечно, садись. Скоро будем в <clr>Грынино<clrEnd>! - Пообещали вы.
+- Вот спасибо! - Человек был явно доволен"	"Quest Taxist.qmm: jumps.245.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/246/text"	"Отказаться"	"Quest Taxist.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/246/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.246.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/247/text"	"Подъехать к голосующему человеку"	"Quest Taxist.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/248/text"	"Согласиться"	"Quest Taxist.qmm: jumps.248.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/248/description"	"- Конечно, садись. Скоро будем в <clr>Грынино<clrEnd>! - Пообещали вы.
+- Вот спасибо! - Человек был явно доволен"	"Quest Taxist.qmm: jumps.248.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/249/text"	"Отказаться"	"Quest Taxist.qmm: jumps.249.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/249/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.249.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/250/text"	"Подъехать к голосующему человеку"	"Quest Taxist.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/251/text"	"Высадить попутчика"	"Quest Taxist.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/253/text"	"Согласиться"	"Quest Taxist.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/253/description"	"- Конечно, садись. Скоро будем в <clr>Шахтинске<clrEnd>! - Пообещали вы.
+- Вот спасибо! - Человек был явно доволен"	"Quest Taxist.qmm: jumps.253.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/254/text"	"Отказаться"	"Quest Taxist.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/254/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.254.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/255/text"	"Высадить попутчика"	"Quest Taxist.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/257/text"	"Подъехать к голосующему человеку"	"Quest Taxist.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/258/text"	"Подъехать к голосующему человеку"	"Quest Taxist.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/259/text"	"Согласиться"	"Quest Taxist.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/259/description"	"- Конечно, садись. Скоро будем в <clr>Портово<clrEnd>! - Пообещали вы.
+- Вот спасибо! - Человек был явно доволен"	"Quest Taxist.qmm: jumps.259.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/260/text"	"Согласиться"	"Quest Taxist.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/260/description"	"- Конечно, садись. Скоро будем в <clr>Портово<clrEnd>! - Пообещали вы.
+- Вот спасибо! - Человек был явно доволен"	"Quest Taxist.qmm: jumps.260.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/261/text"	"Отказаться"	"Quest Taxist.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/261/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.261.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/262/text"	"Отказаться"	"Quest Taxist.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/262/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.262.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/263/text"	"Высадить попутчика"	"Quest Taxist.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/265/text"	"Отказаться"	"Quest Taxist.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/265/description"	"Вы решили, что машина ваша всего лишь не остаток этого дня и решили дополнительно не тратиться на то, без чего спокойно можно обойтись. Вы сели в машину, а человек, усмехаясь, смотрел на вас."	"Quest Taxist.qmm: jumps.265.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/266/text"	"Согласиться"	"Quest Taxist.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/266/description"	"- Хорошо, - сказали вы, протягивая деньги. Залей мне того, чего тут не хватает. - Вы так и не запомнили мудрёное название.
+- Один момент... - Взяв деньги, человек сбегал в будку и вернулся оттуда с небольшой бутылью. Откупорив её, человек начал копаться во внутренностях автомобиля. Через пару минут он объявил, что всё готово.
+Вы поблагодарили человека и сели в автомобиль."	"Quest Taxist.qmm: jumps.266.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/267/text"	"Провести техосмотр"	"Quest Taxist.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/268/text"	"Провести техосмотр"	"Quest Taxist.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/269/text"	"Да ({[p46]*100} гольденов)"	"Quest Taxist.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/269/description"	"- Да, - сказали вы, протягивая деньги. Залей мне того, чего тут не хватает. - Вы так и не запомнили мудрёное название.
+- Один момент... - Взяв деньги, человек сбегал в будку и вернулся с небольшой бутылью. Откупорив её, человек начал копаться во внутренностях автомобиля. Через пару минут он объявил, что всё готово.
+Вы поблагодарили человека и сели в автомобиль."	"Quest Taxist.qmm: jumps.269.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/270/text"	"Нет"	"Quest Taxist.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/270/description"	"- Ничего мне не надо, - отрезали вы."	"Quest Taxist.qmm: jumps.270.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/271/text"	"Провести техосмотр"	"Quest Taxist.qmm: jumps.271.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/272/text"	"Провести техосмотр"	"Quest Taxist.qmm: jumps.272.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/273/text"	"Согласиться"	"Quest Taxist.qmm: jumps.273.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/273/description"	"- Хорошо, - сказали вы, протягивая деньги. Залей мне того, чего тут не хватает. - Вы так и не запомнили мудрёное название.
+- Один момент... - Взяв деньги, человек сбегал в будку и вернулся оттуда с небольшой бутылью. Откупорив её, человек начал копаться во внутренностях автомобиля. Через пару минут он объявил, что всё готово.
+Вы поблагодарили человека и сели в автомобиль."	"Quest Taxist.qmm: jumps.273.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/274/text"	"Отказаться"	"Quest Taxist.qmm: jumps.274.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/274/description"	"Вы решили, что машина ваша всего лишь не остаток этого дня и решили дополнительно не тратиться на то, без чего спокойно можно обойтись. Вы сели в машину, а человек, усмехаясь, смотрел на вас."	"Quest Taxist.qmm: jumps.274.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/275/text"	"Да"	"Quest Taxist.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/275/description"	"- Да, - сказали вы, протягивая деньги. Залей мне того, чего тут не хватает. - Вы так и не запомнили мудрёное название.
+- Один момент... - Взяв деньги, человек сбегал в будку и вернулся с небольшой бутылью. Откупорив её, человек начал копаться во внутренностях автомобиля. Через пару минут он объявил, что всё готово.
+Вы поблагодарили человека и сели в автомобиль."	"Quest Taxist.qmm: jumps.275.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/276/text"	"Нет"	"Quest Taxist.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/276/description"	"- Ничего мне не надо, - отрезали вы."	"Quest Taxist.qmm: jumps.276.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/277/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/277/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного и тогда я в твоём распоряжении.
+Человек помялся и сказал:
+- Ну ладно, я сильно тороплюсь. Плачу [p39] гольденов. Но это крайняя цена."	"Quest Taxist.qmm: jumps.277.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/278/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/278/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного, и тогда я в твоём распоряжении.
+Человек пристально посмотрел на вас и сказал:
+- Нет, это достойная сумма. Ни гольденом больше."	"Quest Taxist.qmm: jumps.278.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/279/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/279/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного и тогда я в твоём распоряжении.
+Человек прищурился и сказал:
+- А ты, я смотрю, не простак! Хорошо, плачу [p39] гольденов. Теперь-то уж поехали?"	"Quest Taxist.qmm: jumps.279.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/280/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/280/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного и тогда я в твоём распоряжении.
+Пеленг помялся и сказал:
+- Ну ладно, я сильно тороплюсь. Плачу [p39] гольденов. Но это крайняя цена."	"Quest Taxist.qmm: jumps.280.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/281/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/281/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного, и тогда я в твоём распоряжении.
+Пеленг пристально посмотрел на вас и сказал:
+- Нет, это достойная сумма. Ни гольденом больше."	"Quest Taxist.qmm: jumps.281.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/282/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/282/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного и тогда я в твоём распоряжении.
+Пеленг мотнул головой и сказал:
+- А ты, я смотрю, не простак! Хорошо, плачу [p39] гольденов. Теперь-то уж поехали?"	"Quest Taxist.qmm: jumps.282.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/283/text"	"Согласиться"	"Quest Taxist.qmm: jumps.283.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/283/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.283.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/284/text"	"Отказаться"	"Quest Taxist.qmm: jumps.284.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/284/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.284.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/285/text"	"Согласиться"	"Quest Taxist.qmm: jumps.285.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/285/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.285.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/286/text"	"Отказаться"	"Quest Taxist.qmm: jumps.286.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/286/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.286.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/287/text"	"Согласиться"	"Quest Taxist.qmm: jumps.287.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/287/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.287.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/288/text"	"Отказаться"	"Quest Taxist.qmm: jumps.288.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/288/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.288.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/289/text"	"Согласиться"	"Quest Taxist.qmm: jumps.289.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/289/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.289.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/290/text"	"Отказаться"	"Quest Taxist.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/290/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.290.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/291/text"	"Согласиться"	"Quest Taxist.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/291/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.291.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/292/text"	"Отказаться"	"Quest Taxist.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/292/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.292.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/293/text"	"Согласиться"	"Quest Taxist.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/293/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.293.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/294/text"	"Отказаться"	"Quest Taxist.qmm: jumps.294.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/294/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.294.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/295/text"	"Согласиться"	"Quest Taxist.qmm: jumps.295.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/295/description"	"- Ладно, садись, - сказали вы.
+- Вот спасибо, - сказал ваш вновь обретённый пассажир, забираясь на сиденье"	"Quest Taxist.qmm: jumps.295.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/296/text"	"Отказаться"	"Quest Taxist.qmm: jumps.296.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/296/description"	"- Нет, так дело не пойдёт, - отрезали вы.
+- Ну, как хочешь, - разочарованно произнёс потенциальный пассажир и захлопнул дверь."	"Quest Taxist.qmm: jumps.296.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/297/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.297.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/297/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек помялся и сказал:
+- Ну ладно, я сильно тороплюсь. Плачу [p45] гольденов. Но это крайняя цена."	"Quest Taxist.qmm: jumps.297.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/298/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.298.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/298/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек прищурился и сказал:
+- А ты, я смотрю, не простак! Хорошо, плачу [p45] гольденов. Теперь-то уж поехали?"	"Quest Taxist.qmm: jumps.298.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/299/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/299/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек пристально посмотрел на вас и сказал:
+- Нет, это достойная сумма. Ни гольденом больше."	"Quest Taxist.qmm: jumps.299.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/300/text"	"Согласиться"	"Quest Taxist.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/300/description"	"- Ладно, садись. Скоро будем в <clr>Грынино<clrEnd>. - Пообещали вы.
+- Вот спасибо! - Человек казался вполне довольным."	"Quest Taxist.qmm: jumps.300.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/301/text"	"Отказаться"	"Quest Taxist.qmm: jumps.301.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/301/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.301.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/302/text"	"Согласиться"	"Quest Taxist.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/302/description"	"- Ладно, садись. Скоро будем в <clr>Грынино<clrEnd>. - Пообещали вы.
+- Вот спасибо! - Человек казался вполне довольным."	"Quest Taxist.qmm: jumps.302.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/303/text"	"Отказаться"	"Quest Taxist.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/303/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.303.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/304/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/304/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек помялся и сказал:
+- Ну ладно, я сильно тороплюсь. Плачу [p45] гольденов. Но это крайняя цена."	"Quest Taxist.qmm: jumps.304.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/305/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.305.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/305/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек пристально посмотрел на вас и сказал:
+- Нет, это достойная сумма. Ни гольденом больше."	"Quest Taxist.qmm: jumps.305.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/306/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/306/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек прищурился и сказал:
+- А ты, я смотрю, не простак! Хорошо, плачу [p45] гольденов. Теперь-то уж поехали?"	"Quest Taxist.qmm: jumps.306.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/307/text"	"Согласиться"	"Quest Taxist.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/307/description"	"- Ладно, садись. Скоро будем в <clr>Портово<clrEnd>. - Пообещали вы.
+- Вот спасибо! - Человек казался вполне довольным."	"Quest Taxist.qmm: jumps.307.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/308/text"	"Согласиться"	"Quest Taxist.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/308/description"	"- Ладно, садись. Скоро будем в <clr>Портово<clrEnd>. - Пообещали вы.
+- Вот спасибо! - Человек казался вполне довольным."	"Quest Taxist.qmm: jumps.308.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/309/text"	"Отказаться"	"Quest Taxist.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/309/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.309.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/310/text"	"Отказаться"	"Quest Taxist.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/310/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.310.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/311/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/311/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек помялся и сказал:
+- Ну ладно, я сильно тороплюсь. Плачу [p45] гольденов. Но это крайняя цена."	"Quest Taxist.qmm: jumps.311.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/312/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/312/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек прищурился и сказал:
+- А ты, я смотрю, не простак! Хорошо, плачу [p45] гольденов. Теперь-то уж поехали?"	"Quest Taxist.qmm: jumps.312.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/313/text"	"Попробовать увеличить сумму"	"Quest Taxist.qmm: jumps.313.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/313/description"	"Немного подумав, вы сказали:
+- Что-то маловато предлагаешь. Накинь немного.
+Человек пристально посмотрел на вас и сказал:
+- Нет, это достойная сумма. Ни гольденом больше."	"Quest Taxist.qmm: jumps.313.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/314/text"	"Согласиться"	"Quest Taxist.qmm: jumps.314.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/314/description"	"- Ладно, садись. Скоро будем в <clr>Шахтинске<clrEnd>. - Пообещали вы.
+- Вот спасибо! - Человек казался вполне довольным."	"Quest Taxist.qmm: jumps.314.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/315/text"	"Отказаться"	"Quest Taxist.qmm: jumps.315.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/315/description"	"- Нет, нам не по пути, - отрезали вы.
+- Ну как знаешь, - пожал плечами человек и захлопнул дверь."	"Quest Taxist.qmm: jumps.315.description. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/316/text"	"Побродить по окрестностям"	"Quest Taxist.qmm: jumps.316.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/318/text"	"Отложить карту"	"Quest Taxist.qmm: jumps.318.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/319/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.319.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/320/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.320.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/321/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.321.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/322/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.322.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/323/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.323.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/324/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.324.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/325/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.325.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/326/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.326.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
+"/quests/Taxist.qmm/jumps/327/text"	"Посмотреть карту"	"Quest Taxist.qmm: jumps.327.text. Preserve every <tag> exactly."	"Quest,Taxist"	""
