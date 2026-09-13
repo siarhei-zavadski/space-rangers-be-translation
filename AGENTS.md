@@ -146,8 +146,8 @@ Packages {
 - Internal orthography: Belarusian classical spelling (`be-tarask`, 2005 normalization).
 - User-facing mod name: **Belarusian**.
 - Translate meaning from Russian, cross-check English, and avoid Russian calques where a clear Belarusian term exists.
-- Before locking a lemma: Skarnik for the **UI sense**, Starnik for endings, Google if the sense is still unclear, then `hunspell -d be_BY@tarask`. Spelling clashes: hunspell wins; meaning clashes: Starnik wins. See `STYLE.md`.
-- Add every accepted term to `TERMBASE.tsv` with sense, endings, rejected calque, and source URL.
+- Before locking a lemma: **Starnik** (`starnik.by`) first for the lemma, sense, and endings. Skarnik only if RU→BE is still unclear. Then `hunspell -d be_BY@tarask`. Spelling clashes: hunspell wins; meaning clashes: Starnik wins. See `STYLE.md`.
+- Add every accepted term to `TERMBASE.tsv` with sense, endings, rejected calque, and the Starnik URL.
 - Check prose with:
 
 ```bash

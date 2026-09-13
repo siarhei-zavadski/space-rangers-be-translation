@@ -14,6 +14,7 @@
 Hunspell only catches spelling. Before writing a new lemma to `TERMBASE.tsv`:
 
 1. Name the **Russian sense in this UI** (not the first dictionary gloss).
-2. Look it up: Skarnik (`skarnik.by` RU→BE), then Starnik for endings, then Google/Wikipedia if the sense is still ambiguous.
-3. Run `hunspell -d be_BY@tarask`. If Starnik and tarask hunspell disagree on **spelling**, hunspell wins (`шкіпэр`, `дэпазыт`). Starnik still wins on **meaning**.
-4. Write the row with sense, endings, rejected calque, and the URL. Empty `notes`/`source` means the lemma is not locked yet.
+2. Open **Starnik** (`https://starnik.by`) first: meaning, endings, and the Belarusian lemma. Do not lock a common word from memory or from the Russian shape (`корсар`→`карсар`).
+3. Skarnik (`skarnik.by`) only if the RU→BE mapping is still unclear. Google/Wikipedia last.
+4. Run `hunspell -d be_BY@tarask`. If Starnik and tarask hunspell disagree on **spelling**, hunspell wins (`шкіпэр`, `дэпазыт`). Starnik still wins on **meaning**.
+5. Write the row with sense, endings, rejected calque, and the Starnik URL. Empty `notes`/`source` means the lemma is not locked yet.

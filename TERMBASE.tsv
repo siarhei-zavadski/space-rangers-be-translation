@@ -89,7 +89,7 @@ lemma.gripper	захват	gripper	захоп		Crowdin glossary; not seizure	—
 lemma.merchant	торговец	merchant	гандляр	гандлёвец	Crowdin glossary; гандляра, гандляру	—
 lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; Кааліцыі, Кааліцыяй	—
 lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
-lemma.cr	ЦР	RD	ЦР		Crowdin glossary; цэнтар рэйнджэраў	—
+lemma.cr	ЦР	RD	ЦР		spoken: цэнтр рэйнджэраў (Starnik цэнтр, L у цэнтры). keep abbr	https://starnik.by/pravapis/83436
 lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not English RT	—
 lemma.government	правительство	government	урад		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
 lemma.cursor	курсор	cursor	курсор		Starnik: родны курсора, not курсору	—
@@ -152,7 +152,7 @@ lemma.deposit	депозит	deposit	дэпазыт	дэпазіт	bank deposit;
 lemma.fighter	истребитель	fighter	зьнішчальнік	істрэбіцель	1 person who destroys; 2 fighter aircraft; 3 fighter pilot. Rank Leader uses 1+3. G зьнішчальніка	https://starnik.by/pravapis/29600
 lemma.cadet	кадет	cadet	кадэт		military-school pupil, not political ка-дэ. G кадэта, L кадэце	https://starnik.by/pravapis/31744
 lemma.commodore	командор	commander	камандор	камандзір	yacht/squadron title, not камандзір. G камандора	https://starnik.by/pravapis/32384
-lemma.opponent	противник	opponent	праціўнік	супернік	combat/military enemy (Starnik 2–3). супернік/сапернік=contest rival only. Older Tips/Skills/FormGov still have супернік — migrate when touched	https://starnik.by/pravapis/59618
+lemma.opponent	противник	opponent	праціўнік	супернік	Starnik 3=armed enemy. супернік=contest rival only (соперник). Migrated combat UI.	https://starnik.by/pravapis/59618
 lemma.under_cmd	под началом	under the command of	пад кіраўніцтвам	пад пачаткам	Skarnik: быть под началом → пад кіраўніцтвам / у падначаленні. пачатак=beginning	https://www.skarnik.by/rusbel/45371
 lemma.alone	в одиночку	single-handed	у адзіночку	у адзінку	адзінка=unit/one item, not 'alone'	—
 lemma.offend	обидеть	offend	пакрыўдзіць		perfective for 'могут и обидеть'; imperfective крыўдзіць=ongoing	—
@@ -166,3 +166,61 @@ lemma.cutthroat	головорез	cutthroat	галаварэз		pirate rank	—
 lemma.raider	рейдер	raider	рэйдэр		pirate rank; not corporate raider	—
 lemma.ataman	атаман	capo	атаман		pirate/cossack chief	—
 lemma.constellations	созвездия	constellations	(transliterate)		proper names: keep RU shape; Кайо→Каё, Перец→Перэц, Денвер→Дэнвэр, Фаави→Фааві	—
+lemma.business_center	бизнес-центр	business center	бізнэс-цэнтр		planet BK; G бізнэс-цэнтра	—
+lemma.science_base	научная база	science base	навуковая база		planet SB	—
+lemma.military_base	военная база	military base	вайсковая база		planet WB	—
+lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
+lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
+lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
+lemma.maneuver	маневр	maneuver	манеўр		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
+lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
+lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
+lemma.equantor	Эквентор	Equantor	Эквэнтар		dominator class; already FormRuins -эквэнтара	—
+lemma.shtip	Штип	Shtip	Штып		dominator class; already FormRuins -штыпа	—
+lemma.bertor	Бертор	Bertor	Бэртар		dominator class; already FormRuins -бэртара	—
+lemma.klig	Клиг	Klig	Кліг		dominator class; already FormRuins -кліга	—
+lemma.liner	лайнер	liner	лайнэр		passenger ship class; already FormRuins	hunspell-be-tarask
+lemma.diplomat	дипломат	diplomat	дыплямат		ship class + person; already FormRuins	hunspell-be-tarask
+lemma.flagship	флагман	flagship	флягман		already FormRuins флягмана	hunspell-be-tarask
+lemma.battleship	линкор	battleship	лінкар	лінкор	short UI for лінейны карабель. hunspell лінкар; Starnik both	https://starnik.by/pravapis/39589
+lemma.hauler	дальнобойщик	hauler	дальнабойшчык		People transport class; long-haul driver joke. G дальнабойшчыка	https://starnik.by/pravapis/21860
+lemma.dominion	доминион	dominion	дамініён		pirate CB station; already FormRuins	—
+lemma.consul	консул	consul	консул		People diplomat hull	hunspell-be-tarask
+lemma.corsair	корсар	corsair	карсар	корсар	sea robber + pirate hull (Starnik). G карсара; already FormGameSet2	https://starnik.by/pravapis/34073
+lemma.order	орден	order	ордэн		award badge (Starnik 1), not monastic order. G ордэна	https://starnik.by/pravapis/49646
+lemma.medal	медаль	medal	мэдаль		award disc. G мэдаля; hunspell/tarask э	https://starnik.by/pravapis/42570
+lemma.pennant	вымпел	pennant	вымпел		narrow flag / metal token	https://starnik.by/pravapis/16132
+lemma.badge_plate	бляха	badge plate	бляха		metal ID plate (Starnik 2), not sheet iron	https://starnik.by/pravapis/11029
+lemma.commendation	грамота	commendation	грамата		honor document (Starnik 2). D/L грамаце	https://starnik.by/pravapis/20572
+lemma.spearhead	наконечник	spearhead	наканечнік		tip fitted on a shaft	https://starnik.by/pravapis/45651
+lemma.cartridge	гильза	cartridge case	гільза		shell casing (Starnik 1)	https://starnik.by/pravapis/19554
+lemma.pendant	подвеска	pendant	падвеска		hanging ornament (Starnik 3)	https://starnik.by/pravapis/50307
+lemma.ribbon	лента	ribbon	істужка	стужка	award/order ribbon (Starnik 1 //). стужка=variant	https://starnik.by/pravapis/31444
+lemma.illness	болезнь	illness	хвароба		G хваробы, pl хваробы, Gpl хваробаў. захворваньне=specific case	https://starnik.by/pravapis/81710
+lemma.radiation_sickness	лучевая болезнь	radiation sickness	прамянёвая хвароба		already FormRuins MC	—
+lemma.blinding	ослепление	blinding	асьляпленьне		Starnik асляпленне (process). tarask -сьць/-ньне	https://starnik.by/pravapis/6561
+lemma.blindness	слепота	blindness	сьлепата	сьлепасьць	Starnik слепасць; hunspell сьлепата	https://starnik.by/pravapis/70235
+lemma.eyesight	зрение	eyesight	зрок		G зроку	https://starnik.by/pravapis/29759
+lemma.sting	резь	sting	рэзь		sharp pain; рэзь у вачах	https://starnik.by/pravapis/65766
+lemma.concussion	контузия	concussion	кантузія		G кантузіі	https://starnik.by/pravapis/33236
+lemma.embryo	зародыш	embryo	зародак		G зародка, pl зародкі	https://starnik.by/pravapis/27658
+lemma.stimulant	стимулятор	stimulant	стымулятар		Starnik 2=drug / 3=допінг. G стымулятара	https://starnik.by/pravapis/72599
+lemma.medkit	аптечка	first-aid kit	аптэчка		D/L аптэчцы	https://starnik.by/pravapis/5679
+lemma.nausea	тошнота	nausea	нудота		Starnik 2=pre-vomit. verb: браць нудота	https://starnik.by/pravapis/48945
+lemma.vertigo	головокружение	vertigo	галавакружэньне		G галавакружэньня	https://starnik.by/pravapis/17490
+lemma.delirium	бред	delirium	трызьненьне		Starnik 3=галюцынацыя	https://starnik.by/pravapis/76081
+lemma.immunity	иммунитет	immunity	імунітэт		G імунітэту, L імунітэце	https://starnik.by/pravapis/30601
+lemma.addiction	наркозависимость	drug addiction	наркаманія	нарказалежнасьць	disease with craving for narcotics	https://starnik.by/pravapis/46110
+lemma.accuracy_aim	меткость	marksmanship	меткасьць		меткасьць стральбы; skill UI uses дакладнасьць	https://starnik.by/pravapis/43096
+lemma.tribute	дань	tribute	даніна		extorted cargo/tax. G даніны	https://starnik.by/pravapis/21988
+lemma.whisper	шепот	whisper	шэпт		G шэпту, L шэпце	https://starnik.by/pravapis/86334
+lemma.dust	пыль	dust	пыл		зорны пыл; G пылу	https://starnik.by/pravapis/61908
+lemma.marking	маркировка	marking	маркіроўка		sign/stamp on goods. D/L маркіроўцы	https://starnik.by/pravapis/41832
+lemma.extort	вымогать	extort	вымагаць		Starnik 1=demand by force	https://starnik.by/pravapis/173527
+lemma.malaise	недомогание	malaise	нядужасьць		already FormRuins MC	https://starnik.by/pravapis/49188
+lemma.wellbeing	самочувствие	well-being	самаадчуваньне		G самаадчуваньня	https://starnik.by/pravapis/66872
+lemma.strain	растяжение	strain	расьцяжэньне		Starnik 2=ligament/tendon injury	https://starnik.by/pravapis/64407
+lemma.therapy	терапия	therapy	тэрапія		non-surgical treatment	https://starnik.by/pravapis/77230
+lemma.habituation	привыкание	habituation	прывыканьне		already FormRuins stims	https://starnik.by/pravapis/60034
+lemma.muscle	мышца	muscle	мышца		G мышцы, pl мышцы	https://starnik.by/pravapis/44864

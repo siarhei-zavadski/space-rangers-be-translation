@@ -1,0 +1,14 @@
+---
+description: Look up lemmas on Starnik.by before locking translations
+alwaysApply: true
+---
+
+# Starnik first
+
+Before locking a common Belarusian lemma, open `https://starnik.by` (search or `/pravapis/`). Read the **sense** that matches this UI, then the endings.
+
+Do not keep the Russian shape because it "looks close" (`корсар` is `карсар`). Do not skip Starnik for Skarnik or hunspell.
+
+- Meaning: Starnik wins.
+- Spelling clash with `hunspell -d be_BY@tarask`: hunspell wins (`шкіпэр`, `дэпазыт`).
+- TERMBASE `source` column: the Starnik URL when the word is there.

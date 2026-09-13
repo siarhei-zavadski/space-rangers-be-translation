@@ -64,7 +64,11 @@ def patch_dat(source: Path, destination: Path) -> None:
     dat = DAT.from_dat(source)
     values = dat.to_dict()
     for path, translation in crowdin_translations().items():
-        set_value(values, path, translation.translate(APOSTROPHE_FOLD))
+        try:
+            set_value(values, path, translation.translate(APOSTROPHE_FOLD))
+        except TypeError:
+            # Eng Lang.dat flattens a few Rus arrays into one string (e.g. BK/Policy/BK).
+            continue
     DAT.from_dict(values).to_dat(destination, fmt="HDMain", sign=True)
 
 
