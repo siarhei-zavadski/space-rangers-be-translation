@@ -62,13 +62,15 @@ Suggested request:
 3. Revoke the previously shared Crowdin token, create a fresh least-privilege
    token, and add it as the Actions secret `CROWDIN_PERSONAL_TOKEN`. Project ID `930019` is
    non-secret and is already in the workflow/configuration.
-4. In **Settings → Actions → General**, allow GitHub Actions to create and
+4. Add the Actions repository variable `CROWDIN_SYNC_ENABLED=true` only after
+   the replacement secret is present.
+5. In **Settings → Actions → General**, allow GitHub Actions to create and
    approve pull requests.
-5. Protect `main`; require the **Validate / corpus** check and pull requests.
-6. For automated mod builds, register a trusted Linux self-hosted runner with
+6. Protect `main`; require the **Validate / corpus** check and pull requests.
+7. For automated mod builds, register a trusted Linux self-hosted runner with
    the label `space-rangers-hd` and a legitimate game installation. Never run
    that workflow for untrusted pull requests.
-7. Run **Crowdin sync** manually with `direction=both`; verify the generated
+8. Run **Crowdin sync** manually with `direction=both`; verify the generated
    translation PR before enabling the daily schedule.
 
 When the owner chooses a repository name, the local upload sequence is:

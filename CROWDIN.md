@@ -80,7 +80,8 @@ asset TSVs and the build renders supported labels into the mod package.
 - imports checked-in Belarusian cells, including translations equal to source;
 - downloads Crowdin daily and opens a reviewable pull request.
 
-Add `CROWDIN_PERSONAL_TOKEN` as a GitHub Actions secret and allow Actions to
-create pull requests. The workflow never stores the token in the repository.
+Add a fresh `CROWDIN_PERSONAL_TOKEN` as a GitHub Actions secret, then set the
+repository variable `CROWDIN_SYNC_ENABLED=true` and allow Actions to create
+pull requests. The workflow never stores the token in the repository.
 See [`OPEN_SOURCE_READINESS.md`](OPEN_SOURCE_READINESS.md) before changing
 repository visibility or applying for Crowdin's open-source plan.
