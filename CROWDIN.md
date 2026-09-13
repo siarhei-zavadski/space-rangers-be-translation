@@ -21,6 +21,14 @@ Every file uses the columns `identifier`, `source_phrase`, `context`, `labels`,
 and `be`. The checked-in [`crowdin.yml`](crowdin.yml) configures those columns
 and preserves the folder hierarchy.
 
+## Source of truth
+
+Translate in the Crowdin editor. Local `be` cells are only a seed: after
+they are pushed to `main`, Actions uploads them to Crowdin. Later wording
+changes belong on Crowdin. Before a game build, download so git matches
+Crowdin, then run `build_test_mod.py`. Do not treat an unsynced local TSV
+as newer than Crowdin.
+
 ## Download translations and build
 
 Install Crowdin CLI 5 once:

@@ -1,21 +1,21 @@
-"identifier"	"source_phrase"	"context"	"labels"	"be"
-"/FormLoadRobot/Cancel"	"Отмена"	"Lang.dat: FormLoadRobot.Cancel. Preserve every <tag> exactly. English reference: Cancel"	"FormLoadRobot"	""
-"/FormLoadRobot/Caption"	"Бои: Быстрый запуск"	"Lang.dat: FormLoadRobot.Caption. Preserve every <tag> exactly. English reference: Battles: Quick Launch"	"FormLoadRobot"	""
-"/FormLoadRobot/Dif1"	"100% <color=149,149,149>(Нет)</color>"	"Lang.dat: FormLoadRobot.Dif1. Preserve every <tag> exactly. English reference: 100% <color=149,149,149>(None)</color>"	"FormLoadRobot"	""
-"/FormLoadRobot/Dif2"	"80% <color=149,149,149>(Поддержка с воздуха)</color>"	"Lang.dat: FormLoadRobot.Dif2. Preserve every <tag> exactly. English reference: 80% <color=149,149,149>(Air Support)</color>"	"FormLoadRobot"	""
-"/FormLoadRobot/Dif3"	"80% <color=149,149,149>(Усиленная броня)</color>"	"Lang.dat: FormLoadRobot.Dif3. Preserve every <tag> exactly. English reference: 80% <color=149,149,149>(Reinforced Armor)</color>"	"FormLoadRobot"	""
-"/FormLoadRobot/DifCap"	"Сложность <color=149,149,149>(Бонусы)</color>"	"Lang.dat: FormLoadRobot.DifCap. Preserve every <tag> exactly. English reference: Difficulty <color=149,149,149>(Bonuses)</color>"	"FormLoadRobot"	""
-"/FormLoadRobot/Group0"	"Оригинальные"	"Lang.dat: FormLoadRobot.Group0. Preserve every <tag> exactly. English reference: Original"	"FormLoadRobot"	""
-"/FormLoadRobot/Group1"	"Карты аддона"	"Lang.dat: FormLoadRobot.Group1. Preserve every <tag> exactly. English reference: Addon Maps"	"FormLoadRobot"	""
-"/FormLoadRobot/Group2"	"Свои"	"Lang.dat: FormLoadRobot.Group2. Preserve every <tag> exactly. English reference: Custom"	"FormLoadRobot"	""
-"/FormLoadRobot/Length0"	"Малая"	"Lang.dat: FormLoadRobot.Length0. Preserve every <tag> exactly. English reference: Small"	"FormLoadRobot"	""
-"/FormLoadRobot/Length1"	"Ниже средней"	"Lang.dat: FormLoadRobot.Length1. Preserve every <tag> exactly. English reference: Below Average"	"FormLoadRobot"	""
-"/FormLoadRobot/Length2"	"Средняя"	"Lang.dat: FormLoadRobot.Length2. Preserve every <tag> exactly. English reference: Average"	"FormLoadRobot"	""
-"/FormLoadRobot/Length3"	"Выше средней"	"Lang.dat: FormLoadRobot.Length3. Preserve every <tag> exactly. English reference: Above Average"	"FormLoadRobot"	""
-"/FormLoadRobot/Length4"	"Большая"	"Lang.dat: FormLoadRobot.Length4. Preserve every <tag> exactly. English reference: Large"	"FormLoadRobot"	""
-"/FormLoadRobot/PPlace"	"Планета Каракис Мальора, система Маркаб"	"Lang.dat: FormLoadRobot.PPlace. Preserve every <tag> exactly. English reference: Planet Caracis Mal'ora, Marcab System"	"FormLoadRobot"	""
-"/FormLoadRobot/PPlanet"	"Каракис Мальора"	"Lang.dat: FormLoadRobot.PPlanet. Preserve every <tag> exactly. English reference: Caracis Mal'ora"	"FormLoadRobot"	""
-"/FormLoadRobot/PPlayer"	"Греф"	"Lang.dat: FormLoadRobot.PPlayer. Preserve every <tag> exactly. English reference: Graefe"	"FormLoadRobot"	""
-"/FormLoadRobot/PStar"	"Маркаб"	"Lang.dat: FormLoadRobot.PStar. Preserve every <tag> exactly. English reference: Marcab"	"FormLoadRobot"	""
-"/FormLoadRobot/Start"	"Старт"	"Lang.dat: FormLoadRobot.Start. Preserve every <tag> exactly. English reference: Start"	"FormLoadRobot"	""
-"/FormLoadRobot/Time"	"Время: <Val>"	"Lang.dat: FormLoadRobot.Time. Preserve every <tag> exactly. English reference: Time: <Val>"	"FormLoadRobot"	""
+identifier	source_phrase	context	labels	be
+/FormLoadRobot/Cancel	Отмена	Lang.dat: FormLoadRobot.Cancel. Preserve every <tag> exactly. English reference: Cancel	FormLoadRobot	Скасаваць
+/FormLoadRobot/Caption	Бои: Быстрый запуск	Lang.dat: FormLoadRobot.Caption. Preserve every <tag> exactly. English reference: Battles: Quick Launch	FormLoadRobot	Баі: хуткі запуск
+/FormLoadRobot/Dif1	100% <color=149,149,149>(Нет)</color>	Lang.dat: FormLoadRobot.Dif1. Preserve every <tag> exactly. English reference: 100% <color=149,149,149>(None)</color>	FormLoadRobot	100% <color=149,149,149>(Няма)</color>
+/FormLoadRobot/Dif2	80% <color=149,149,149>(Поддержка с воздуха)</color>	Lang.dat: FormLoadRobot.Dif2. Preserve every <tag> exactly. English reference: 80% <color=149,149,149>(Air Support)</color>	FormLoadRobot	80% <color=149,149,149>(Падтрымка з паветра)</color>
+/FormLoadRobot/Dif3	80% <color=149,149,149>(Усиленная броня)</color>	Lang.dat: FormLoadRobot.Dif3. Preserve every <tag> exactly. English reference: 80% <color=149,149,149>(Reinforced Armor)</color>	FormLoadRobot	80% <color=149,149,149>(Узмоцненая броня)</color>
+/FormLoadRobot/DifCap	Сложность <color=149,149,149>(Бонусы)</color>	Lang.dat: FormLoadRobot.DifCap. Preserve every <tag> exactly. English reference: Difficulty <color=149,149,149>(Bonuses)</color>	FormLoadRobot	Складанасьць <color=149,149,149>(Бонусы)</color>
+/FormLoadRobot/Group0	Оригинальные	Lang.dat: FormLoadRobot.Group0. Preserve every <tag> exactly. English reference: Original	FormLoadRobot	Арыгінальныя
+/FormLoadRobot/Group1	Карты аддона	Lang.dat: FormLoadRobot.Group1. Preserve every <tag> exactly. English reference: Addon Maps	FormLoadRobot	Мапы дапаўненьня
+/FormLoadRobot/Group2	Свои	Lang.dat: FormLoadRobot.Group2. Preserve every <tag> exactly. English reference: Custom	FormLoadRobot	Свае
+/FormLoadRobot/Length0	Малая	Lang.dat: FormLoadRobot.Length0. Preserve every <tag> exactly. English reference: Small	FormLoadRobot	Малая
+/FormLoadRobot/Length1	Ниже средней	Lang.dat: FormLoadRobot.Length1. Preserve every <tag> exactly. English reference: Below Average	FormLoadRobot	Ніжэй за сярэднюю
+/FormLoadRobot/Length2	Средняя	Lang.dat: FormLoadRobot.Length2. Preserve every <tag> exactly. English reference: Average	FormLoadRobot	Сярэдняя
+/FormLoadRobot/Length3	Выше средней	Lang.dat: FormLoadRobot.Length3. Preserve every <tag> exactly. English reference: Above Average	FormLoadRobot	Вышэй за сярэднюю
+/FormLoadRobot/Length4	Большая	Lang.dat: FormLoadRobot.Length4. Preserve every <tag> exactly. English reference: Large	FormLoadRobot	Вялікая
+/FormLoadRobot/PPlace	Планета Каракис Мальора, система Маркаб	Lang.dat: FormLoadRobot.PPlace. Preserve every <tag> exactly. English reference: Planet Caracis Mal'ora, Marcab System	FormLoadRobot	Плянэта Каракіс Мальора, сыстэма Маркаб
+/FormLoadRobot/PPlanet	Каракис Мальора	Lang.dat: FormLoadRobot.PPlanet. Preserve every <tag> exactly. English reference: Caracis Mal'ora	FormLoadRobot	Каракіс Мальора
+/FormLoadRobot/PPlayer	Греф	Lang.dat: FormLoadRobot.PPlayer. Preserve every <tag> exactly. English reference: Graefe	FormLoadRobot	Грэф
+/FormLoadRobot/PStar	Маркаб	Lang.dat: FormLoadRobot.PStar. Preserve every <tag> exactly. English reference: Marcab	FormLoadRobot	Маркаб
+/FormLoadRobot/Start	Старт	Lang.dat: FormLoadRobot.Start. Preserve every <tag> exactly. English reference: Start	FormLoadRobot	Старт
+/FormLoadRobot/Time	Время: <Val>	Lang.dat: FormLoadRobot.Time. Preserve every <tag> exactly. English reference: Time: <Val>	FormLoadRobot	Час: <Val>

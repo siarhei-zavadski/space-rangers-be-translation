@@ -150,6 +150,20 @@ def main() -> None:
             if uploaded and uploaded % 20 == 0:
                 print(f"Uploaded {uploaded} files")
     print(f"Uploaded {uploaded} source files")
+    try:
+        progress = api.request(f"/projects/{PROJECT_ID}/languages/progress")
+    except Exception as exc:  # ponytail: progress is a recheck, not a gate
+        print(f"Crowdin progress unavailable: {exc}")
+        return
+    for row in progress or []:
+        data = row["data"] if isinstance(row, dict) and "data" in row else row
+        phrases = data.get("phrases") or {}
+        print(
+            f"Crowdin {data.get('languageId')}: "
+            f"{data.get('translationProgress')}% translated, "
+            f"{data.get('approvalProgress')}% approved "
+            f"({phrases.get('translated', '?')}/{phrases.get('total', '?')} phrases)"
+        )
 
 
 if __name__ == "__main__":

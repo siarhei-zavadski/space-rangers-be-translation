@@ -1,6 +1,6 @@
-"identifier"	"source_phrase"	"context"	"labels"	"be"
-"/FormLoadAB/Cancel"	"Отмена"	"Lang.dat: FormLoadAB.Cancel. Preserve every <tag> exactly. English reference: Cancel"	"FormLoadAB"	""
-"/FormLoadAB/Caption"	"Аркадные бои: Быстрый запуск"	"Lang.dat: FormLoadAB.Caption. Preserve every <tag> exactly. English reference: Arcade Battles: Quick Launch"	"FormLoadAB"	""
-"/FormLoadAB/Group0"	"Оригинальные"	"Lang.dat: FormLoadAB.Group0. Preserve every <tag> exactly. English reference: Original"	"FormLoadAB"	""
-"/FormLoadAB/Group1"	"Свои"	"Lang.dat: FormLoadAB.Group1. Preserve every <tag> exactly. English reference: Custom"	"FormLoadAB"	""
-"/FormLoadAB/Start"	"Старт"	"Lang.dat: FormLoadAB.Start. Preserve every <tag> exactly. English reference: Start"	"FormLoadAB"	""
+identifier	source_phrase	context	labels	be
+/FormLoadAB/Cancel	Отмена	Lang.dat: FormLoadAB.Cancel. Preserve every <tag> exactly. English reference: Cancel	FormLoadAB	Скасаваць
+/FormLoadAB/Caption	Аркадные бои: Быстрый запуск	Lang.dat: FormLoadAB.Caption. Preserve every <tag> exactly. English reference: Arcade Battles: Quick Launch	FormLoadAB	Аркадныя баі: хуткі запуск
+/FormLoadAB/Group0	Оригинальные	Lang.dat: FormLoadAB.Group0. Preserve every <tag> exactly. English reference: Original	FormLoadAB	Арыгінальныя
+/FormLoadAB/Group1	Свои	Lang.dat: FormLoadAB.Group1. Preserve every <tag> exactly. English reference: Custom	FormLoadAB	Свае
+/FormLoadAB/Start	Старт	Lang.dat: FormLoadAB.Start. Preserve every <tag> exactly. English reference: Start	FormLoadAB	Старт

@@ -60,3 +60,19 @@ FormSaveManager.Save	Сохранить	Save	Захаваць			—
 FormSaveManager.SaveError	Ошибка сохранения игры	Save error	Памылка захаваньня гульні			—
 FormSaveManager.SaveInPlanet	Планета <Planet>	Planet <Planet>	Плянэта <Planet>		keep <Planet>	classical пля-
 FormSaveManager.SaveInSpace	Система <Star>	System <Star>	Сыстэма <Star>		keep <Star>	classical сы-
+FormSaveManager.LoadDumpConfirm	существует текстовый дамп… ТР	text dump… RT	тэкставы дамп… ТР		ТР=табліца рэкордаў, not English RT	in-game dump dialog
+FormCfgSettings.MaxSearchResult	поиск в ЦР	ranger DB search	пошук у ЦР		ЦР=цэнтар рэйнджэраў; keep abbr	settings tooltip
+FormIntroduction.MCW4	Распределение квестов	Distributing quests	Разьмеркаваньне заданьняў	квэсты	quests→заданьні	Skarnik
+FormMods.ButReset	Отключить все	Reset all	Адключыць усе		RU disable-all, not EN reset	mods screen
+Race.Name.Kling	Доминаторы	Dominators	Дамінатары		race lock	—
+Race.Name.Fei	Фэяне	Faeyans	Фэяне		race lock	source already э
+Race.Name.Gaal	Гаальцы	Gaals	Гаальцы		race lock	—
+Race.Name.Maloc	Малоки	Maloqs	Малокі		race lock	—
+Race.Name.Peleng	Пеленги	Pelengs	Пеленгі		race lock	—
+Race.Name.People	Люди	Humans	Людзі		race lock	Skarnik
+FormGameSet2.Common.Char3	Торговец	Merchant	Гандляр	гандлёвец	personality class	Skarnik
+FormGameSet2.Common.IronWill	Железная воля	Ironman	Жалезная воля		keep RU sense, not EN Ironman	new-game toggle
+FormGameSet2.Common.HelpItem2	Двигатель	Engine	Рухавік		equipment lock	Skarnik
+FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Skarnik
+FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
+FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
