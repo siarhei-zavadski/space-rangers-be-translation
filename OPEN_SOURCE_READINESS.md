@@ -4,9 +4,10 @@ Audit date: 2026-09-13.
 
 ## Current conclusion
 
-This project is ready to be staged in a **private** GitHub repository, but a
-private repository is **not eligible** for Crowdin's free open-source license.
-Do not submit the application yet.
+This project is staged in the private
+[`sergey-zavadsky/space-rangers-be-translation`](https://github.com/sergey-zavadsky/space-rangers-be-translation)
+repository, but a private repository is **not eligible** for Crowdin's free
+open-source license. Do not submit the application yet.
 
 Crowdin currently requires all of the following:
 
@@ -14,7 +15,7 @@ Crowdin currently requires all of the following:
 |---|---|---|
 | Crowdin project exists | <https://crowdin.com/project/space-rangers-hd-belarusian> | Ready |
 | OSI-approved project license | Root `LICENSE` is MIT for original work | Ready, scope-limited |
-| Source publicly downloadable | Planned GitHub repository is private | **Blocked** |
+| Source publicly downloadable | GitHub repository is private | **Blocked** |
 | No related commercial product | Project is documented as a non-commercial fan mod | Confirm before applying |
 | Applicant is project lead | Must be attested by the repository owner | Owner action |
 | At least three months of work | No public Git history exists yet | **Blocked until evidenced** |
@@ -56,9 +57,9 @@ Suggested request:
 
 ## Private GitHub staging checklist
 
-1. Create an empty private repository with `main` as its default branch.
-2. Push this directory after reviewing `git status`; `.gitignore` excludes the
-   game backups, local environment, generated packages, and binary assets.
+1. **Done:** private repository created with `main` as its default branch.
+2. **Done:** reviewed files pushed; `.gitignore` excludes game backups, the
+   local environment, generated packages, and binary assets.
 3. Revoke the previously shared Crowdin token, create a fresh least-privilege
    token, and add it as the Actions secret `CROWDIN_PERSONAL_TOKEN`. Project ID `930019` is
    non-secret and is already in the workflow/configuration.
@@ -72,18 +73,6 @@ Suggested request:
    that workflow for untrusted pull requests.
 8. Run **Crowdin sync** manually with `direction=both`; verify the generated
    translation PR before enabling the daily schedule.
-
-When the owner chooses a repository name, the local upload sequence is:
-
-```bash
-git init -b main
-git add .
-git commit -m "Initial Belarusian translation pipeline"
-gh repo create OWNER/REPOSITORY --private --source=. --remote=origin --push
-```
-
-These commands are documentation only; no local or GitHub repository has been
-created by this preparation work.
 
 Suggested GitHub metadata:
 
@@ -106,7 +95,7 @@ Suggested GitHub metadata:
 Application facts to gather:
 
 - Project lead name and Crowdin account: **TODO by owner**
-- Public repository URL: **TODO; repository intentionally not created**
+- Public repository URL: **TODO; current repository is private**
 - Project website/news URL: **TODO**
 - First public development date (at least three months old): **TODO**
 - Contributor evidence: **TODO**
