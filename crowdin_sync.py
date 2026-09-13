@@ -140,7 +140,13 @@ def read_rows(path: Path) -> list[dict[str, str]]:
 def write_rows(path: Path, rows: list[dict[str, str]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as stream:
-        writer = csv.DictWriter(stream, FIELDS, dialect="excel-tab", lineterminator="\n")
+        writer = csv.DictWriter(
+            stream,
+            FIELDS,
+            dialect="excel-tab",
+            lineterminator="\n",
+            quoting=csv.QUOTE_ALL,
+        )
         writer.writeheader()
         writer.writerows(rows)
 
