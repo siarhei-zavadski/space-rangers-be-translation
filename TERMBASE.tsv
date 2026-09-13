@@ -76,3 +76,47 @@ FormGameSet2.Common.HelpItem2	Двигатель	Engine	Рухавік		equipmen
 FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Skarnik
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
+lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
+lemma.ranger	рейнджер	ranger	рэйнджэр		Crowdin glossary; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
+lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
+lemma.dominator	доминатор	dominator	дамінатар		Crowdin glossary; pl дамінатары, дамінатараў	—
+lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
+lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
+lemma.settings	настройки	settings	налады		Crowdin glossary	—
+lemma.save	сохранение	save	захаваньне		Crowdin glossary; захаваньня, захаваньні	—
+lemma.engine	двигатель	engine	рухавік		Crowdin glossary; рухавіка, рухавіку	—
+lemma.gripper	захват	gripper	захоп		Crowdin glossary; not seizure	—
+lemma.merchant	торговец	merchant	гандляр	гандлёвец	Crowdin glossary; гандляра, гандляру	—
+lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; Кааліцыі, Кааліцыяй	—
+lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
+lemma.cr	ЦР	RD	ЦР		Crowdin glossary; цэнтар рэйнджэраў	—
+lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not English RT	—
+lemma.government	правительство	government	урад		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
+lemma.cursor	курсор	cursor	курсор		Starnik: родны курсора, not курсору	—
+lemma.center	центр	center	цэнтр		Starnik: родны цэнтра; да цэнтра	—
+lemma.resolution	разрешение	resolution	разрознасьць		Kamputerm 2010: разрознасць, not разрозненне	—
+lemma.charm	обаяние	charm	чары		Starnik: pluralia tantum; родны чараў	—
+lemma.all_prep	у всех	at all	ва ўсіх		school + 2008: ва before у/ў; not у ва ўсіх	—
+lemma.defend	защищать	defend	бараніць		Starnik: ён бароніць, not бараніць	—
+lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
+lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
+lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
+lemma.pilot	пилот	pilot	пілот		Starnik: пілот, not пілёт	—
+lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
+lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
+lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
+lemma.hold	трюм	hold	трум		Starnik: у труме, not трюме	—
+lemma.award	награда	award	узнагарода		Starnik: родны мн. узнагарод	—
+lemma.news	новость	news	навіна		Starnik: родны мн. навін	—
+lemma.option	опция	option	опцыя		Starnik: родны мн. опцый	—
+lemma.soul	душа	soul	душа		Starnik: родны мн. душ, not душаў	—
+lemma.clump	сгусток	clump	згустак		Starnik	—
+lemma.bridge	мостик	bridge	мосцік		Starnik: капітанскі мосцік	—
+lemma.airlock	шлюз	airlock	шлюз		Starnik	—
+lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
+lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
+lemma.license	лицензия	license	ліцэнзія		Starnik	—
+lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl карпусы, родны карпусоў	—
+lemma.droid	дроид	droid	дроід		Starnik	—
+lemma.die	погибнуть	die	загінуць		Starnik	—
+lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—

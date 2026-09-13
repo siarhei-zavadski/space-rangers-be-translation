@@ -17,7 +17,7 @@
 "/FormHangar/FuelTankStatus/SmallDuration"	"Топливный бак - На грани поломки"	"Lang.dat: FormHangar.FuelTankStatus.SmallDuration. Preserve every <tag> exactly. English reference: Fuel tank - Critical condition"	"FormHangar"	"Паліўны бак - На мяжы паломкі"
 "/FormHangar/HullStatus/Cost"	"Починить корпус - <Money> cr"	"Lang.dat: FormHangar.HullStatus.Cost. Preserve every <tag> exactly. English reference: Repair hull: <Money> cr"	"FormHangar"	"Палатаць корпус - <Money> cr"
 "/FormHangar/HullStatus/NeedRepair"	"Корпус - Поврежден"	"Lang.dat: FormHangar.HullStatus.NeedRepair. Preserve every <tag> exactly. English reference: Hull - Damaged"	"FormHangar"	"Корпус - Пашкоджаны"
-"/FormHangar/HullStatus/NotMoney"	"Стоимость починки корпуса <Money> cr"	"Lang.dat: FormHangar.HullStatus.NotMoney. Preserve every <tag> exactly. English reference: Hull repair cost: <Money> cr"	"FormHangar"	"Кошт рамонту корпусу <Money> cr"
+"/FormHangar/HullStatus/NotMoney"	"Стоимость починки корпуса <Money> cr"	"Lang.dat: FormHangar.HullStatus.NotMoney. Preserve every <tag> exactly. English reference: Hull repair cost: <Money> cr"	"FormHangar"	"Кошт рамонту корпуса <Money> cr"
 "/FormHangar/HullStatus/Ok"	"Корпус - Ок"	"Lang.dat: FormHangar.HullStatus.Ok. Preserve every <tag> exactly. English reference: Hull - OK"	"FormHangar"	"Корпус - Ок"
 "/FormHangar/Prison"	"(арестован)"	"Lang.dat: FormHangar.Prison. Preserve every <tag> exactly. English reference: (arrested)"	"FormHangar"	"(арыштаваны)"
 "/FormHangar/TakeOff"	"Взлететь с планеты <CurPlanet>"	"Lang.dat: FormHangar.TakeOff. Preserve every <tag> exactly. English reference: Take off from planet <CurPlanet>"	"FormHangar"	"Узьляцець з плянэты <CurPlanet>"
