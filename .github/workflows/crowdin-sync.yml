@@ -28,10 +28,10 @@ concurrency:
 jobs:
   upload:
     if: >-
-      vars.CROWDIN_SYNC_ENABLED == 'true' &&
-      (github.event_name == 'push' ||
+      github.event_name == 'push' ||
       github.event_name == 'workflow_dispatch' &&
-      (inputs.direction == 'both' || inputs.direction == 'upload'))
+      (inputs.direction == 'both' || inputs.direction == 'upload')
+    environment: crowdin
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -44,11 +44,13 @@ jobs:
         run: python validate_corpus.py
 
       - name: Upload configured TSV sources
+        if: vars.CROWDIN_SYNC_ENABLED == 'true'
         run: python crowdin_upload.py
         env:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
 
       - name: Import checked-in Belarusian targets
+        if: vars.CROWDIN_SYNC_ENABLED == 'true'
         uses: crowdin/github-action@v3
         with:
           upload_sources: false
@@ -61,15 +63,16 @@ jobs:
 
   download:
     if: >-
-      vars.CROWDIN_SYNC_ENABLED == 'true' &&
-      (github.event_name == 'schedule' ||
+      github.event_name == 'schedule' ||
       github.event_name == 'workflow_dispatch' &&
-      (inputs.direction == 'both' || inputs.direction == 'download'))
+      (inputs.direction == 'both' || inputs.direction == 'download')
+    environment: crowdin
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
 
       - name: Download translations and open a PR
+        if: vars.CROWDIN_SYNC_ENABLED == 'true'
         uses: crowdin/github-action@v3
         with:
           upload_sources: false

@@ -63,8 +63,8 @@ Suggested request:
 3. Revoke the previously shared Crowdin token, create a fresh least-privilege
    token, and add it as the Actions secret `CROWDIN_PERSONAL_TOKEN`. Project ID `930019` is
    non-secret and is already in the workflow/configuration.
-4. Add the Actions repository variable `CROWDIN_SYNC_ENABLED=true` only after
-   the replacement secret is present.
+4. Add the `crowdin` environment variable `CROWDIN_SYNC_ENABLED=true` only
+   after the replacement secret is present.
 5. In **Settings → Actions → General**, allow GitHub Actions to create and
    approve pull requests.
 6. Protect `main`; require the **Validate / corpus** check and pull requests.
