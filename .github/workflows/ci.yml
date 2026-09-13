@@ -25,7 +25,7 @@ jobs:
           fi
 
       - name: Compile project scripts
-        run: python -m py_compile *.py
+        run: python -m py_compile ./*.py
 
       - name: Validate Crowdin corpus
         run: python validate_corpus.py
