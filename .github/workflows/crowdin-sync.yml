@@ -28,9 +28,10 @@ concurrency:
 jobs:
   upload:
     if: >-
-      github.event_name == 'push' ||
+      vars.CROWDIN_SYNC_ENABLED == 'true' &&
+      (github.event_name == 'push' ||
       github.event_name == 'workflow_dispatch' &&
-      (inputs.direction == 'both' || inputs.direction == 'upload')
+      (inputs.direction == 'both' || inputs.direction == 'upload'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -60,9 +61,10 @@ jobs:
 
   download:
     if: >-
-      github.event_name == 'schedule' ||
+      vars.CROWDIN_SYNC_ENABLED == 'true' &&
+      (github.event_name == 'schedule' ||
       github.event_name == 'workflow_dispatch' &&
-      (inputs.direction == 'both' || inputs.direction == 'download')
+      (inputs.direction == 'both' || inputs.direction == 'download'))
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
