@@ -1,54 +1,54 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Shashki.qmm/parameters/0/name"	"Положение шашек"	"Quest Shashki.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Checkers position"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/0/lines/0/content"	"Положение шашек:"	"Quest Shashki.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: Checkers position:"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Shashki.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/1/name"	"1"	"Quest Shashki.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/1/lines/0/content"	"Клетка 1 - Пусто"	"Quest Shashki.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Square 1 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/1/lines/1/content"	"Клетка 1 - Б"	"Quest Shashki.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Square 1 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/1/lines/2/content"	"Клетка 1 - Ч"	"Quest Shashki.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Square 1 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Shashki.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/2/name"	"2"	"Quest Shashki.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/2/lines/0/content"	"Клетка 2 - Пусто"	"Quest Shashki.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Square 2 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/2/lines/1/content"	"Клетка 2 - Б"	"Quest Shashki.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Square 2 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/2/lines/2/content"	"Клетка 2 - Ч"	"Quest Shashki.qmm: parameters.2.lines.2.content. Preserve every <tag> exactly. English reference: Square 2 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Shashki.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/3/name"	"3"	"Quest Shashki.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/3/lines/0/content"	"Клетка 3 - Пусто"	"Quest Shashki.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Square 3 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/3/lines/1/content"	"Клетка 3 - Б"	"Quest Shashki.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly. English reference: Square 3 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/3/lines/2/content"	"Клетка 3 - Ч"	"Quest Shashki.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly. English reference: Square 3 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Shashki.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/4/name"	"4"	"Quest Shashki.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/4/lines/0/content"	"Клетка 4 - Пусто"	"Quest Shashki.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Square 4 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/4/lines/1/content"	"Клетка 4 - Б"	"Quest Shashki.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Square 4 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/4/lines/2/content"	"Клетка 4 - Ч"	"Quest Shashki.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly. English reference: Square 4 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Shashki.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/5/name"	"5"	"Quest Shashki.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/5/lines/0/content"	"Клетка 5 - Пусто"	"Quest Shashki.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Square 5 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/5/lines/1/content"	"Клетка 5 - Б"	"Quest Shashki.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly. English reference: Square 5 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/5/lines/2/content"	"Клетка 5 - Ч"	"Quest Shashki.qmm: parameters.5.lines.2.content. Preserve every <tag> exactly. English reference: Square 5 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Shashki.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/6/name"	"6"	"Quest Shashki.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/6/lines/0/content"	"Клетка 6 - Пусто"	"Quest Shashki.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Square 6 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/6/lines/1/content"	"Клетка 6 - Б"	"Quest Shashki.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly. English reference: Square 6 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/6/lines/2/content"	"Клетка 6 - Ч"	"Quest Shashki.qmm: parameters.6.lines.2.content. Preserve every <tag> exactly. English reference: Square 6 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Shashki.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/7/name"	"7"	"Quest Shashki.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/7/lines/0/content"	"Клетка 7 - Пусто"	"Quest Shashki.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Square 7 - Empty"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/7/lines/1/content"	"Клетка 7 - Б"	"Quest Shashki.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: Square 7 - W"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/7/lines/2/content"	"Клетка 7 - Ч"	"Quest Shashki.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Square 7 - B"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Shashki.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/name"	"Ходы"	"Quest Shashki.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Moves"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/lines/0/content"	"Ходы закончились"	"Quest Shashki.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: All moves are made"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/lines/1/content"	"Остался <> ход"	"Quest Shashki.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly. English reference: <> move left"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/lines/2/content"	"Осталось <> хода"	"Quest Shashki.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly. English reference: <> moves left"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/lines/3/content"	"Осталось <> ходов"	"Quest Shashki.qmm: parameters.8.lines.3.content. Preserve every <tag> exactly. English reference: <> moves left"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Shashki.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/9/name"	"x"	"Quest Shashki.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Shashki.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/10/name"	"y"	"Quest Shashki.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Shashki.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/success_text"	"Поздравляю, рейнджер <Ranger>! Вы выиграли для нашей планеты финал по плазмошашкам, так что теперь нас станут уважать как наиболее интеллектуальную планету в Галактике! Вот ваши <Money> cr, вы их полностью заслужили!"	"Quest Shashki.qmm: success_text. Preserve every <tag> exactly. English reference: Congratulations, ranger <Ranger>! You won the final game on Plasma-checkers for our planet, so now they will respect us for being the most intellectual planet in the Galaxy! Here are your <Money> credits, you deserved them!"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/task_text"	"Мы наслышаны о вашей смекалке, <Ranger>, и хотим предложить вам задание, требующее именно ее. На планете <ToPlanet> сейчас проходит финал Галактического чемпионата по Гиперпрыгающим Плазмошашкам. Наша команда в последнее время шла наравне с человеческой (чемпионом 3-х прошлых чемпионатов), но турбоавтобус с нашими игроками перевернулся в горах Тыркавказа, и теперь мы снова можем проиграть. Администрация чемпионата решила отложить финал до <Date> и мы просим вас слетать в <ToStar> и разнести в пух и прах человеческую команду! Вознаграждение в размере <Money> cr вам гарантируется."	"Quest Shashki.qmm: task_text. Preserve every <tag> exactly. English reference: We heard a lot about your native wit, <Ranger>, so we want you to complete a mission that requires this particular quality. Now is the time of the final series of the Intergalactic Tournament in Hyper-jumping Plasma-checker on the <ToPlanet> planet. Our team gained an equal number of points with the humans' team lately (which won the last 3 tournaments), but the turbobus with our players turned over in the Tyrcaucases Mountains and now we have all chances to lose again. The tournament authorities decided to postpone the final game till <Date> and we request you to fly to <ToStar> and tear the humans' team to pieces! The award in the amount of <Money> credits is guaranteed."	"Quest,Shashki"	""
+"/quests/Shashki.qmm/parameters/0/name"	"Положение шашек"	"Quest Shashki.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Checkers position"	"Quest,Shashki"	"Становішча шашак"
+"/quests/Shashki.qmm/parameters/0/lines/0/content"	"Положение шашек:"	"Quest Shashki.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: Checkers position:"	"Quest,Shashki"	"Становішча шашак:"
+"/quests/Shashki.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Shashki.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 1"
+"/quests/Shashki.qmm/parameters/1/name"	"1"	"Quest Shashki.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Shashki"	"1"
+"/quests/Shashki.qmm/parameters/1/lines/0/content"	"Клетка 1 - Пусто"	"Quest Shashki.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Square 1 - Empty"	"Quest,Shashki"	"Клетка 1 - Пуста"
+"/quests/Shashki.qmm/parameters/1/lines/1/content"	"Клетка 1 - Б"	"Quest Shashki.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Square 1 - W"	"Quest,Shashki"	"Клетка 1 - Б"
+"/quests/Shashki.qmm/parameters/1/lines/2/content"	"Клетка 1 - Ч"	"Quest Shashki.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Square 1 - B"	"Quest,Shashki"	"Клетка 1 - Ч"
+"/quests/Shashki.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Shashki.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 2"
+"/quests/Shashki.qmm/parameters/2/name"	"2"	"Quest Shashki.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Shashki"	"2"
+"/quests/Shashki.qmm/parameters/2/lines/0/content"	"Клетка 2 - Пусто"	"Quest Shashki.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Square 2 - Empty"	"Quest,Shashki"	"Клетка 2 - Пуста"
+"/quests/Shashki.qmm/parameters/2/lines/1/content"	"Клетка 2 - Б"	"Quest Shashki.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Square 2 - W"	"Quest,Shashki"	"Клетка 2 - Б"
+"/quests/Shashki.qmm/parameters/2/lines/2/content"	"Клетка 2 - Ч"	"Quest Shashki.qmm: parameters.2.lines.2.content. Preserve every <tag> exactly. English reference: Square 2 - B"	"Quest,Shashki"	"Клетка 2 - Ч"
+"/quests/Shashki.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Shashki.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 3"
+"/quests/Shashki.qmm/parameters/3/name"	"3"	"Quest Shashki.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Shashki"	"3"
+"/quests/Shashki.qmm/parameters/3/lines/0/content"	"Клетка 3 - Пусто"	"Quest Shashki.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Square 3 - Empty"	"Quest,Shashki"	"Клетка 3 - Пуста"
+"/quests/Shashki.qmm/parameters/3/lines/1/content"	"Клетка 3 - Б"	"Quest Shashki.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly. English reference: Square 3 - W"	"Quest,Shashki"	"Клетка 3 - Б"
+"/quests/Shashki.qmm/parameters/3/lines/2/content"	"Клетка 3 - Ч"	"Quest Shashki.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly. English reference: Square 3 - B"	"Quest,Shashki"	"Клетка 3 - Ч"
+"/quests/Shashki.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Shashki.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 4"
+"/quests/Shashki.qmm/parameters/4/name"	"4"	"Quest Shashki.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Shashki"	"4"
+"/quests/Shashki.qmm/parameters/4/lines/0/content"	"Клетка 4 - Пусто"	"Quest Shashki.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Square 4 - Empty"	"Quest,Shashki"	"Клетка 4 - Пуста"
+"/quests/Shashki.qmm/parameters/4/lines/1/content"	"Клетка 4 - Б"	"Quest Shashki.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Square 4 - W"	"Quest,Shashki"	"Клетка 4 - Б"
+"/quests/Shashki.qmm/parameters/4/lines/2/content"	"Клетка 4 - Ч"	"Quest Shashki.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly. English reference: Square 4 - B"	"Quest,Shashki"	"Клетка 4 - Ч"
+"/quests/Shashki.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Shashki.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 5"
+"/quests/Shashki.qmm/parameters/5/name"	"5"	"Quest Shashki.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Shashki"	"5"
+"/quests/Shashki.qmm/parameters/5/lines/0/content"	"Клетка 5 - Пусто"	"Quest Shashki.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Square 5 - Empty"	"Quest,Shashki"	"Клетка 5 - Пуста"
+"/quests/Shashki.qmm/parameters/5/lines/1/content"	"Клетка 5 - Б"	"Quest Shashki.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly. English reference: Square 5 - W"	"Quest,Shashki"	"Клетка 5 - Б"
+"/quests/Shashki.qmm/parameters/5/lines/2/content"	"Клетка 5 - Ч"	"Quest Shashki.qmm: parameters.5.lines.2.content. Preserve every <tag> exactly. English reference: Square 5 - B"	"Quest,Shashki"	"Клетка 5 - Ч"
+"/quests/Shashki.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Shashki.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 6"
+"/quests/Shashki.qmm/parameters/6/name"	"6"	"Quest Shashki.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Shashki"	"6"
+"/quests/Shashki.qmm/parameters/6/lines/0/content"	"Клетка 6 - Пусто"	"Quest Shashki.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Square 6 - Empty"	"Quest,Shashki"	"Клетка 6 - Пуста"
+"/quests/Shashki.qmm/parameters/6/lines/1/content"	"Клетка 6 - Б"	"Quest Shashki.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly. English reference: Square 6 - W"	"Quest,Shashki"	"Клетка 6 - Б"
+"/quests/Shashki.qmm/parameters/6/lines/2/content"	"Клетка 6 - Ч"	"Quest Shashki.qmm: parameters.6.lines.2.content. Preserve every <tag> exactly. English reference: Square 6 - B"	"Quest,Shashki"	"Клетка 6 - Ч"
+"/quests/Shashki.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Shashki.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 7"
+"/quests/Shashki.qmm/parameters/7/name"	"7"	"Quest Shashki.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Shashki"	"7"
+"/quests/Shashki.qmm/parameters/7/lines/0/content"	"Клетка 7 - Пусто"	"Quest Shashki.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Square 7 - Empty"	"Quest,Shashki"	"Клетка 7 - Пуста"
+"/quests/Shashki.qmm/parameters/7/lines/1/content"	"Клетка 7 - Б"	"Quest Shashki.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: Square 7 - W"	"Quest,Shashki"	"Клетка 7 - Б"
+"/quests/Shashki.qmm/parameters/7/lines/2/content"	"Клетка 7 - Ч"	"Quest Shashki.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Square 7 - B"	"Quest,Shashki"	"Клетка 7 - Ч"
+"/quests/Shashki.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Shashki.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 8"
+"/quests/Shashki.qmm/parameters/8/name"	"Ходы"	"Quest Shashki.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Moves"	"Quest,Shashki"	"Хады"
+"/quests/Shashki.qmm/parameters/8/lines/0/content"	"Ходы закончились"	"Quest Shashki.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: All moves are made"	"Quest,Shashki"	"Хады скончыліся"
+"/quests/Shashki.qmm/parameters/8/lines/1/content"	"Остался <> ход"	"Quest Shashki.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly. English reference: <> move left"	"Quest,Shashki"	"Застаўся <> ход"
+"/quests/Shashki.qmm/parameters/8/lines/2/content"	"Осталось <> хода"	"Quest Shashki.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly. English reference: <> moves left"	"Quest,Shashki"	"Засталося <> хады"
+"/quests/Shashki.qmm/parameters/8/lines/3/content"	"Осталось <> ходов"	"Quest Shashki.qmm: parameters.8.lines.3.content. Preserve every <tag> exactly. English reference: <> moves left"	"Quest,Shashki"	"Засталося <> хадоў"
+"/quests/Shashki.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Shashki.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 9"
+"/quests/Shashki.qmm/parameters/9/name"	"x"	"Quest Shashki.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Shashki"	"x"
+"/quests/Shashki.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Shashki.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 10"
+"/quests/Shashki.qmm/parameters/10/name"	"y"	"Quest Shashki.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Shashki"	"y"
+"/quests/Shashki.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Shashki.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Shashki"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 11"
+"/quests/Shashki.qmm/success_text"	"Поздравляю, рейнджер <Ranger>! Вы выиграли для нашей планеты финал по плазмошашкам, так что теперь нас станут уважать как наиболее интеллектуальную планету в Галактике! Вот ваши <Money> cr, вы их полностью заслужили!"	"Quest Shashki.qmm: success_text. Preserve every <tag> exactly. English reference: Congratulations, ranger <Ranger>! You won the final game on Plasma-checkers for our planet, so now they will respect us for being the most intellectual planet in the Galaxy! Here are your <Money> credits, you deserved them!"	"Quest,Shashki"	"Віншую, рэйнджэр <Ranger>! Вы выйгралі для нашай плянэты фінал па плязмашашках, так што цяпер нас пачнуць паважаць як найбольш інтэлектуальную плянэту ў Галяктыцы! Вось вашыя <Money> cr, вы іх цалкам заслужылі!"
+"/quests/Shashki.qmm/task_text"	"Мы наслышаны о вашей смекалке, <Ranger>, и хотим предложить вам задание, требующее именно ее. На планете <ToPlanet> сейчас проходит финал Галактического чемпионата по Гиперпрыгающим Плазмошашкам. Наша команда в последнее время шла наравне с человеческой (чемпионом 3-х прошлых чемпионатов), но турбоавтобус с нашими игроками перевернулся в горах Тыркавказа, и теперь мы снова можем проиграть. Администрация чемпионата решила отложить финал до <Date> и мы просим вас слетать в <ToStar> и разнести в пух и прах человеческую команду! Вознаграждение в размере <Money> cr вам гарантируется."	"Quest Shashki.qmm: task_text. Preserve every <tag> exactly. English reference: We heard a lot about your native wit, <Ranger>, so we want you to complete a mission that requires this particular quality. Now is the time of the final series of the Intergalactic Tournament in Hyper-jumping Plasma-checker on the <ToPlanet> planet. Our team gained an equal number of points with the humans' team lately (which won the last 3 tournaments), but the turbobus with our players turned over in the Tyrcaucases Mountains and now we have all chances to lose again. The tournament authorities decided to postpone the final game till <Date> and we request you to fly to <ToStar> and tear the humans' team to pieces! The award in the amount of <Money> credits is guaranteed."	"Quest,Shashki"	"Мы начутыя пра вашую кемлівасьць, <Ranger>, і хочам прапанаваць вам заданьне, што патрабуе менавіта яе. На плянэце <ToPlanet> зараз праходзіць фінал Галяктычнага чэмпіянату па Гіпэрскачучых Плязмашашках. Нашая каманда апошнім часам ішла нароўні з людзкой (чэмпіёнам 3-х мінулых чэмпіянатаў), але турбааўтобус з нашымі гульцамі перавярнуўся ў гарах Тыркаўказу, і цяпер мы зноў можам прайграць. Адміністрацыя чэмпіянату вырашыла адкласьці фінал да <Date> і мы просім вас зьлятаць у <ToStar> і разнесьці ў пух і прах людзкую каманду! Узнагарода ў памеры <Money> cr вам гарантуецца."
 "/quests/Shashki.qmm/locations/0/texts/0/text"	"Прибыв на планету <ToPlanet>, вы сразу же пошли в ее спортивный центр.
 
  - Зд'авствуйте, до'огой  <Ranger>, - сказал приятный, усатый, слегка картавящий человек. - Мы давно вас ждем! Мы п'оинфо'ми'ованы о несчастье, случившемся с вашей командой, и вы'ажаем глубокие соболезнования п'анете <FromPlanet>. Но, к счастью, ваша команда успела наб'ать п'иличное количество очков. Команда планеты <ToPlanet> п'овела недавно финальный матч. Тепе' вам надо наб'ать 2 очка, чтобы выиг'ать чемпионат. Вы сможете их получить, если хо'ошо п'оведете завт'ашний матч. А пока вы можете идти в гостиницу и отдохнуть пе'ед иг'ой, - сообщил вам усач и уселся обратно в свое кресло.
@@ -57,7 +57,11 @@
 
  - Hewo, dear <Ranger>, - a nice, slightly burring man with moustache said. - We've been waiting for you for a wong time! We are told about the tragic incident happened to your team and want to express our condolences to the <FromPlanet> pwanet. Fortunately, your team managed to gain a fair number of points. The team from <ToPlanet> took part in the final game not long ago. Now you need to gain 2 more points to win the championship. You will be able to do it if you are a success after the game tomorrow. And now you can go to the hotel and have a good rest before the match, - the bearded man said and sat back to his seat.
 
-When you came to the middle-class hotel and filled all the necessary blanks, it was evening already. What will you do next?"	"Quest,Shashki"	""
+When you came to the middle-class hotel and filled all the necessary blanks, it was evening already. What will you do next?"	"Quest,Shashki"	"Прыбыўшы на плянэту <ToPlanet>, вы адразу пайшлі ў яе спартовы цэнтар.
+
+ - Зд'аровіце, да'агі  <Ranger>, - сказаў прыемны, вусаты, крыху картавы чалавек. - Мы даўно вас чакаем! Мы п'аінфа'мі'аваныя пра няшчасьце, што здарылася з вашай камандай, і вы'ажаем глыбокія спачуваньні п'анецэ <FromPlanet>. Але, на шчасьце, вашая каманда пасьпела наб'аць п'ыстойную колькасьць ачкоў. Каманда плянэты <ToPlanet> п'авяла нядаўна фінальны матч. Тепе' вам трэба наб'аць 2 ачкі, каб выіг'аць чэмпіянат. Вы зможаце іх атрымаць, калі хо'аша п'авядзеце завт'ашні матч. А пакуль вы можаце ісьці ў гатэль і адпачыць пе'ад іг'ай, - паведаміў вам вусач і ўсеўся назад у сваё крэсла.
+
+Калі вы прыйшлі ў сярэдняй якасьці гатэль і запоўнілі ўсе неабходныя анкеты, ужо быў вечар. Што вы будзеце рабіць?"
 "/quests/Shashki.qmm/locations/1/texts/0/text"	"Утром, после легкого завтрака, вы отправились в спортивный центр.
 
 - Зд'авствуйте, <Ranger>, - обрадовался вам усатый человек, оказавшийся председателем жюри. - А мы вас уже ждем! П'ойдемте на поле боя!
@@ -74,27 +78,43 @@ They took you to a spacious hall; there was a table with a fancy board and a cha
 
 - The <FromPlanet>'s team final game which will defined the world champion, is beginning! - the sports commentator announced.
 
-So, it's time for the first move! Which checker is it going to be?"	"Quest,Shashki"	""
+So, it's time for the first move! Which checker is it going to be?"	"Quest,Shashki"	"Раніцай, пасьля лёгкага сьняданьня, вы адправіліся ў спартовы цэнтар.
+
+- Зд'аровіце, <Ranger>, - узрадаваўся вам вусаты чалавек, што аказаўся старшынём журы. - А мы вас ужо чакаем! П'ойдемце на поле бою!
+
+Вас правёлі ў прасторны пакой, пасярэдзіне яго стаяў стол з фігурнай дошкай і крэсла, за шкляной перагародкай натоўпіліся журналісты і аўтаматычныя камэры. Дошка падалася вам вельмі простай для фінальнай гульні - усяго-то <clr>7 клетак, разьмешчаных у шэраг<clrEnd>! Наўрад ці тут можа быць нешта складанае. Вы, у всякім разе, чакалі чаго-небудзь хітраумнейшага. Праўда, хадоў на гульню давалася ўсяго <clr>15<clrEnd>. 
+
+- Фінальная для каманды плянэты <FromPlanet> гульня, якая вызначыць чэмпіёна сьвету, пачынаецца! - абвясьціў камэнтатар.
+
+Дык вось, пара рабіць першы ход! Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/1/text"	"- Напряженный момент... Игрок решает чем ходить, - встревает комментатор.
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.1.text. Preserve every <tag> exactly. English reference: - Tense moment... The player is deciding which checker it is going to be, - the sports commentator barged in.
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Напружаны момант... Гулец вырашае чым хадзіць, - умешваецца камэнтатар.
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/2/text"	"- Очень неожиданный ход! - сказал комментатор. - Что же такое задумал, <Ranger>?
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.2.text. Preserve every <tag> exactly. English reference: - A very unexpected move! - the caster said. - What do you have in mind, <Ranger>?
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Вельмі нечаканы ход! - сказаў камэнтатар. - Што ж такое задумаў, <Ranger>?
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/3/text"	"- Естественный ход, - авторитетно пояснил комментатор. - Тут даже я бы так сыграл!
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.3.text. Preserve every <tag> exactly. English reference: - An expected move, - the caster explained authoritatively. - I would make it myself here!
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Натуральны ход, - аўтарытэтна патлумачыў камэнтатар. - Тут нават я б так згуляў!
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/4/text"	"Судя по реакции зрителей, ваш ход был из разряда неожиданных. Комментатор почему-то промолчал.
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.4.text. Preserve every <tag> exactly. English reference: Judging from the spectators' reaction, your move was one of those unexpected. The caster didn't comment on it though.
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"Мяркуючы па рэакцыі гледачоў, ваш ход быў з разраду нечаканых. Камэнтатар чамусьці прамаўчаў.
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/5/text"	"- Помнится, {[5..20]} лет назад в финальной игре чемпионата мира была похожая ситуация, - ударился в воспоминания комментатор. - Только тогда доска состояла из 113 клеток... Или из 117? Эх, не помню уже...
 
 Вы не стали слушать его дальнейшую болтовню и попытались сосредоточиться на игре.
@@ -103,27 +123,39 @@ Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
 
 You didn't listen to his further babbling and tried to concentrate on the game.
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Помніцца, {[5..20]} гадоў таму ў фінальнай гульні чэмпіянату сьвету была падобная сытуацыя, - кінуўся ва ўспаміны камэнтатар. - Толькі тады дошка складалася з 113 клетак... Альбо з 117? Эх, ня помню ўжо...
+
+Вы не сталі слухаць яго далейшую балбатню і паспрабавалі засяродзіцца на гульні.
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/6/text"	"Отличный ход! - сказал комментатор. - По крайней мере, мне кажется, что позицию он не ухудшает. А если и ухудшает, то не очень сильно...
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.6.text. Preserve every <tag> exactly. English reference: An excellent move! - the caster said. - At least, it seems to me, it doesn't spoil the situation. And even if it does, then not too much...
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"Выдатны ход! - сказаў камэнтатар. - Прынамсі, мне здаецца, што пазыцыю ён не пагаршае. А калі і пагаршае, то не вельмі моцна...
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/7/text"	"- Странный ход, очень даже странный... - промямлил комментатор. - Я решительно не понимаю, чего наш уважаемый <Ranger> хочет добиться с его помощью...
 
 Осталось  ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.7.text. Preserve every <tag> exactly. English reference: - A strange move, very strange... - the caster murmured. - I refuse to understand what our dear <Ranger> wants to achieve making it...
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Дзіўны ход, вельмі нават дзіўны... - прамармытаў камэнтатар. - Я рашуча не разумею, чаго наш паважаны <Ranger> хоча дамагчыся з яго дапамогай...
+
+Засталося  хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/8/text"	"- Вы знаете, что мне напоминает текущая позиция? - воскликнул комментатор. - В прошлом году я посетил выставку ""Идиотские изобретения"", так вот там был один экспонат, называвшийся ""Светофор для дальтоников"". Ну точь в точь, как текущая позиция!!!
 
 Осталось ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.8.text. Preserve every <tag> exactly. English reference: - Do you know what does the current situation remind me of? - the caster exclaimed. - I visited the exhibition ""Idiotic inventions"" last year, and there was a showpiece there, ""Traffic light for daltonians"". Well, the current position is right to a tag!!!
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Вы ведаеце, што мне нагадвае цяперашняя пазыцыя? - усклікнуў камэнтатар. - У мінулым годзе я наведаў выставу ""Ідыёцкія вынаходзтвы"", так вось там быў адзін экспанат, што зваўся ""Сьвятлафор для дальтанікаў"". Ну точ у точ, як цяперашняя пазыцыя!!!
+
+Засталося хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/1/texts/9/text"	"- Подумать только, через несколько ходов мы узнаем имя нового чемпиона мира! - и комментатор замолк, потрясенный глубиной собственного откровения.
 
 Осталось  ходов: [p9]. Какой шашкой вы сходите?"	"Quest Shashki.qmm: locations.1.texts.9.text. Preserve every <tag> exactly. English reference: - We will know the name of the new champion within several moves, can you imagine that?- and the caster fell silent stunned by the depth of his own revelation.
 
-Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
+Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	"- Падумаць толькі, праз некалькі хадоў мы даведаемся імя новага чэмпіёна сьвету! - і камэнтатар замоўк, узрушаны глыбінёй уласнага адкрыцьця.
+
+Засталося  хадоў: [p9]. Якой шашкай вы ходзіце?"
 "/quests/Shashki.qmm/locations/11/texts/0/text"	"- Ходы закончились! - оповестил всех комментатор. Из двери в стене вышло жюри и склонилось над столом. Через пару минут председатель жюри огласил вердикт:
 
  - 'ейндже' <Ranger> п'оиг'ал финальную иг'у и команда п'анеты <FromPlanet> остается на вто'ом месте. Чемпионом становится команда п'анеты <ToPlanet>!
@@ -132,7 +164,11 @@ Moves left: [p9]. Which checker is it going to be?"	"Quest,Shashki"	""
 
  - Ranger <Ranger> wost the final game and the <FromPlanet>' team remains on the second pwace. The team from the <ToPlanet> pwanet is the new champion!
 
-Dejected, you returned to your spaceship. You failed the mission and they'll have no respect for you on the <FromPlanet> planet."	"Quest,Shashki"	""
+Dejected, you returned to your spaceship. You failed the mission and they'll have no respect for you on the <FromPlanet> planet."	"Quest,Shashki"	"- Хады скончыліся! - абвясьціў усіх камэнтатар. З дзьверы ў сьцяне выйшла журы і схілілася над сталом. Праз пару хвілінаў старшыня журы абвясьціў вэрдыкт:
+
+ - 'эйнджэ' <Ranger> п'аіг'аў фінальную іг'у і каманда п'анецы <FromPlanet> застаецца на другім месцы. Чэмпіёнам становіцца каманда п'анецы <ToPlanet>!
+
+Скрушлівы, вы вярнуліся на свой карабель. Вы правалілі сваю місію, і на плянэце <FromPlanet> вас болей не будуць паважаць."
 "/quests/Shashki.qmm/locations/12/texts/0/text"	"- Ходы закончились! - оповестил всех комментатор. Из двери в стене вышло жюри и склонилось над столом. Через пару минут председатель жюри огласил вердикт:
 
  - 'ейндже' <Ranger> и команда п'анеты <FromPlanet> выиг'ывает этот чемпионат!!!
@@ -141,8 +177,12 @@ Dejected, you returned to your spaceship. You failed the mission and they'll hav
 
  - Ranger <Ranger> and his team from the <FromPlanet> pwanet are the winners of this tournament!!!
 
-After the official ceremony they presented a bunch of flowers and an expensive cup to you. And the award in the amount of <Money> cr is waiting for you on <FromPlanet>! With such a pleasant thought in your head, you returned to the spaceport."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/0/text"	"Идти в библиотеку при гостинице"	"Quest Shashki.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Go to the hotel library"	"Quest,Shashki"	""
+After the official ceremony they presented a bunch of flowers and an expensive cup to you. And the award in the amount of <Money> cr is waiting for you on <FromPlanet>! With such a pleasant thought in your head, you returned to the spaceport."	"Quest,Shashki"	"- Хады скончыліся! - абвясьціў усіх камэнтатар. З дзьверы ў сьцяне выйшла журы і схілілася над сталом. Праз пару хвілінаў старшыня журы абвясьціў вэрдыкт:
+
+ - 'эйнджэ' <Ranger> і каманда п'анецы <FromPlanet> выіг'ывае гэты чэмпіянат!!!
+
+Пасьля ўрачыстай цырымоніі вам уручылі букет кветак і дарагі кубак. А ўжо ж на плянэце <FromPlanet> вас яшчэ чакае ўзнагарода ў <Money> cr! З гэтай радаснай думкай вы вярнуліся ў космапорт."
+"/quests/Shashki.qmm/jumps/0/text"	"Идти в библиотеку при гостинице"	"Quest Shashki.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Go to the hotel library"	"Quest,Shashki"	"Ісьці ў бібліятэку пры гатэлі"
 "/quests/Shashki.qmm/jumps/0/description"	"Вы пришли в библиотеку и сразу увидели интересную книгу: <clr>""Правила Гиперпрыгающих Плазмошашек. Краткое издание""<clrEnd>. Естественно, что вы тут же принялись ее читать! Текст главы про финальную игру гласил:
 
 ""Правила финальной игры в ГППШ состоят в следующем: на доске с нечетным числом клеток <clr>одна клетка пустая<clrEnd>, а остальные заполнены одинаковым количеством черных и белых шашек. Шашка может прыгать на пустую клетку, <clr>если она соседняя или находится через одну шашку<clrEnd> от нее. Ваша задача <clr>поменять местами все белые и черные шашки за определенное число ходов<clrEnd>. Количество очков, присуждаемых за выигранную партию, определяется в зависимости от формы и размеров доски, а также от числа ходов по следующим формулам...""
@@ -151,12 +191,16 @@ After the official ceremony they presented a bunch of flowers and an expensive c
 
 ""The rules for the HJPC final game are the following: the board has an unequal number of squares where <clr>one square is empty<clrEnd>, and the rest of them are filled with an equal number of black and white checkers. A checker can jump to an empty square, <clr>if the latter is neighbouring or situated in a checker <clrEnd> from it. Your task is <clr>to reverse the order of the white and black checkers in a specified amount of moves <clrEnd>. The number of points received for the winning, is calculated depending on the board's shape and size, as well as on the number of moves according to the following formulae...""
 
-The text was followed by some formulae, quite boring for you, so you got back to your room and went to sleep."	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/1/text"	"Идти спать"	"Quest Shashki.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Go to bed"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/2/text"	"1-ой"	"Quest Shashki.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: 1st"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/3/text"	"2-ой"	"Quest Shashki.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: 2nd"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/4/text"	"3-ей"	"Quest Shashki.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: 3d"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/5/text"	"4-ой"	"Quest Shashki.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: 4th"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/6/text"	"5-ой"	"Quest Shashki.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: 5th"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/7/text"	"6-ой"	"Quest Shashki.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: 6th"	"Quest,Shashki"	""
-"/quests/Shashki.qmm/jumps/8/text"	"7-ой"	"Quest Shashki.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: 7th"	"Quest,Shashki"	""
+The text was followed by some formulae, quite boring for you, so you got back to your room and went to sleep."	"Quest,Shashki"	"Вы прыйшлі ў бібліятэку і адразу ўбачылі цікавую кнігу: <clr>""Правілы Гіпэрскачучых Плязмашашак. Кароткае выданьне""<clrEnd>. Натуральна, што вы тут жа ўзяліся яе чытаць! Тэкст главы пра фінальную гульню абвяшчаў:
+
+""Правілы фінальнай гульні ў ГППШ складаюцца з наступнага: на дошцы з няцотнай колькасьцю клетак <clr>адна клетка пустая<clrEnd>, а астатнія запоўненыя аднолькавай колькасьцю чорных і белых шашак. Шашка можа скакаць на пустую клетку, <clr>калі яна суседняя альбо знаходзіцца праз адну шашку<clrEnd> ад яе. Вашая задача <clr>памяняць месцамі ўсе белыя і чорныя шашкі за пэўную колькасьць хадоў<clrEnd>. Колькасьць ачкоў, што прысуджаюцца за выйграную партыю, вызначаецца ў залежнасьці ад формы і памераў дошкі, а таксама ад ліку хадоў па наступных формулах...""
+
+Далей ішлі нейкія формулы, чытаць якія вам стала нудна, і вы адправіліся спаць у нумар."
+"/quests/Shashki.qmm/jumps/1/text"	"Идти спать"	"Quest Shashki.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Go to bed"	"Quest,Shashki"	"Ісьці спаць"
+"/quests/Shashki.qmm/jumps/2/text"	"1-ой"	"Quest Shashki.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: 1st"	"Quest,Shashki"	"1-ай"
+"/quests/Shashki.qmm/jumps/3/text"	"2-ой"	"Quest Shashki.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: 2nd"	"Quest,Shashki"	"2-ай"
+"/quests/Shashki.qmm/jumps/4/text"	"3-ей"	"Quest Shashki.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: 3d"	"Quest,Shashki"	"3-яй"
+"/quests/Shashki.qmm/jumps/5/text"	"4-ой"	"Quest Shashki.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: 4th"	"Quest,Shashki"	"4-ай"
+"/quests/Shashki.qmm/jumps/6/text"	"5-ой"	"Quest Shashki.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: 5th"	"Quest,Shashki"	"5-ай"
+"/quests/Shashki.qmm/jumps/7/text"	"6-ой"	"Quest Shashki.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: 6th"	"Quest,Shashki"	"6-ай"
+"/quests/Shashki.qmm/jumps/8/text"	"7-ой"	"Quest Shashki.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: 7th"	"Quest,Shashki"	"7-ай"
