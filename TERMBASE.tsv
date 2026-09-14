@@ -162,9 +162,12 @@ lemma.score_point	очко	point	ачко		score unit (Starnik 2); G ачка, p
 lemma.skipper	шкипер	skipper	шкіпэр		shipmaster. Official Starnik шкіпер; tarask hunspell шкіпэр. G шкіпэра	hunspell-be-tarask; https://starnik.by/pravapis/85073
 lemma.policy	полис	insurance policy	поліс	паліс	insurance document (not Greek polis). G поліса, L полісе	https://starnik.by/pravapis/57778
 lemma.robbery	грабеж	robbery	рабунак	грабеж	native lemma; G рабунку. FormGov idiom 'это грабеж'→рабаваньне stays	https://starnik.by/pravapis/62348
-lemma.cutthroat	головорез	cutthroat	галаварэз		pirate rank	—
+lemma.cutthroat	головорез	cutthroat	галаварэз		pirate rank; G галаварэза; PC_part4	—
 lemma.raider	рейдер	raider	рэйдэр		pirate rank; not corporate raider	—
-lemma.ataman	атаман	capo	атаман		pirate/cossack chief	—
+lemma.ataman	атаман	capo	атаман		pirate/cossack chief; G атамана; PC_part5	—
+lemma.khan	хан	khan	хан		pirate rank; G хана; keep in <clr> as nominative; PC_part6	—
+lemma.baron	барон	baron	барон		pirate rank; пірацкі барон; G барона; PC_part7; Чушкаш/Чушкач keep as source	—
+lemma.shadow_empire	Тень Империи	Shadow of the Empire	Цень Імпэрыі		secret hull; already MicroModuls/490; PC_destroyer	—
 lemma.constellations	созвездия	constellations	(transliterate)		proper names: keep RU shape; Кайо→Каё, Перец→Перэц, Денвер→Дэнвэр, Фаави→Фааві	—
 lemma.business_center	бизнес-центр	business center	бізнэс-цэнтр		planet BK; G бізнэс-цэнтра	—
 lemma.science_base	научная база	science base	навуковая база		planet SB	—
@@ -238,3 +241,221 @@ lemma.patron	меценат	patron	мэцэнат		already FormRuins; Starnik м
 lemma.durability	прочность	durability	трываласьць		ship HP; already FormRuins запас трываласьці	https://starnik.by/pravapis/76040
 lemma.mourning	траур	mourning	жалоба	жаль	official mourning, not pity; A жалобу	https://starnik.by/pravapis/25508
 lemma.buddy	кореш	buddy	кораш	карэш	pirate slang pal, not сябар (друг). G кораша; pl карашы, Dpl карашам	https://starnik.by/pravapis/36552
+lemma.scanner	сканер	scanner	сканэр	сканер	already FormRuins; G сканэра, pl сканэры	https://starnik.by/pravapis/69551
+lemma.radar	радар	radar	радар		G радара, pl радары	https://starnik.by/pravapis/62425
+lemma.cistern	цистерна	cistern	цыстэрна		G цыстэрны A цыстэрну; fuel drum	https://starnik.by/pravapis/83248
+lemma.fuel	топливо	fuel	паліва		neuter combustible, G паліва; not glaze паліва	https://starnik.by/pravapis/51940
+lemma.fuel_tank	топливный бак	fuel tank	паліўны бак		hangar equipment	https://starnik.by/pravapis/51940
+lemma.damage	урон	damage	шкода	урон	G шкоды A шкоду; already FormRuins stats	https://starnik.by/pravapis/85142
+lemma.power	мощность	power	магутнасьць		Starnik магутнасць sense 3=engine power; hunspell -сьць	https://starnik.by/pravapis/40700
+lemma.range	дальность	range	дальнасьць		weapon/gripper range; hunspell -сьць	https://starnik.by/pravapis/21865
+lemma.speed	скорость	speed	хуткасьць		hunspell -сьць	https://starnik.by/pravapis/82488
+lemma.cannon	орудие	cannon	гармата		G гарматы A гармату D/L гармаце	https://starnik.by/pravapis/18223
+lemma.satellite	зонд	satellite	спадарожнік	зонд	Items/Ruins SB probe; G спадарожніка	https://starnik.by/pravapis/70914
+lemma.container	контейнер	container	кантэйнэр	кантэйнер	Starnik кантэйнер; hunspell кантэйнэр	https://starnik.by/pravapis/33251
+lemma.artifact	артефакт	artefact	артэфакт		G артэфакта L артэфакце	https://starnik.by/pravapis/6139
+lemma.generator	генератор	generator	генэратар	генератар	already FormRuins CB; hunspell э	https://starnik.by/pravapis/18947
+lemma.shield_gen	генератор защиты	shield generator	генэратар абароны		already FormRuins CB AddDefGenerator	https://starnik.by/pravapis/18947
+lemma.repair	ремонт	repair	рамонт		G рамонту L рамонце	https://starnik.by/pravapis/63736
+lemma.parsec	парсек	parsec	парсэк	парсек	already FormRuins WB; hunspell парсэк	—
+lemma.instructor	инструктор	instructor	інструктар		tutorial Script MS_Begin; G інструктара	hunspell-be-tarask
+lemma.spaceport	космопорт	spaceport	касмапорт		already GovGreetings; L касмапорце	hunspell-be-tarask
+lemma.micromodule	микромодуль	micromodule	мікрамодуль		already FormRuins RC; G мікрамодуля pl мікрамодулі	—
+lemma.noob	салага	noob	салага		pirate starting rank; G салагі, already PC_part0	—
+lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr> as nominative	—
+lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
+lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
+lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
+lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак		pirate slur for goody ranger; invented	—
+lemma.snitch	стукач	snitch	даносчык	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144	hunspell-be-tarask
+lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
+lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
+lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
+lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба		pirate plot weapon; hunspell leftover adj	—
+lemma.pachvaraus	пачвараш	pachvaraus	пачвараш		invented pirate creature; keep	—
+lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
+lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
+lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
+lemma.coopola	Коопола	Coopola	Коопола		PC_pla15 screenwriter parody; keep spelling	—
+lemma.malu_bay	Малу Бэй	Malu Bay	Малу Бэй		PC_pla15 director parody; G Малу Бэя	—
+lemma.uminski	Умински	Uminski	Умінскі		PC_pla15 cameraman; tarask і	—
+lemma.spielberg_parody	Шпильберг	Spielberg	Шпільбэрг		PC_pla15 clapper intern parody; G Шпільбэрга	—
+lemma.yomahak	Йомахак	Yomahak	Йомахак		PC_pla15 maloq critic; keep	—
+lemma.clapperboard	хлопушка	clapperboard	хлапушка		film slate; PC_pla15	—
+lemma.vtikila	втыкилла	vtikila	втыкіла		maloq drink; already PC_part0; G втыкілы, I втыкілай	—
+lemma.vrotmnevolos	Вротмневолос	Vrotmnevolos	Вротмневолас		PC_pla11 allergy pet joke; keep recognizable	—
+lemma.crab_eye	Око краба	Crab's Eye	Вока краба		PC_pla21 amulet; quoted	—
+lemma.gamedevs	Геймдевелоперы зари	Gamedevelopers of Dawn	Геймдэвэлепэры зары		PC_pla21 mock order; Вярхоўны Геймдэвэлепэр	—
+lemma.chuub_ice	Чууб-Айс	Chuub-Ice	Чууб-Айс		PC_pla04 gaal nanotechnologist joke	—
+lemma.bumbacher	Бумбахер	Bumbacher	Бумбахер		PC_pla19 general; keep	—
+lemma.gralgar	Мега Гралгар стан	Mega Gralgar Stan	Мега Гралгар стан		PC_pla12 mall; keep quoted	—
+lemma.anti_pirate_dept	отделение Коалиции по противодействию пиратской агрессии	Coalition anti-pirate department	аддзяленьне Кааліцыі па супрацьдзеяньні пірацкай агрэсіі		PC_fem_rangers; female secret agents	—
+lemma.shoe	мистер Шу	Mr. Shoe	містэр Шу		companion/liquidator; NOT спадарожнік; clones plot	—
+lemma.u2k38	У2К38	U2K38	У2К38		keep in <clr>; supply-ship planet code	—
+lemma.dzuhallag	Дзухаллаг	Dzuhallag	Дзухаллаг		peleng intel org; G Дзухалага; source Дзухуллаг unifies here	—
+lemma.faruk	фарюк	fariola	фарюк		rotten-fruit joke + UselessItems Фарюкі; singer Філ Фарюк; pl фарюкі	—
+lemma.gaalmedok	гаалмедок	gaalhoney	гаальмэдок		maloq joke food; keep race stem гааль-	—
+lemma.narkopis	наркопись	narcossism	наркопісь		art movement on anarchic planets; ShipGreetings/138	—
+lemma.rachehan	Рачехан	Rachehan	Рачэхан		pirate overlord; G Рачэхана, I Рачэханам	—
+lemma.tranclucator	транклюкатор	tranclucator	транклюкатар		player-owned combat robot; G транклюкатара	—
+lemma.yanvelb	янвелб	ekup	янвэлб		gaal drink; I янвэлбам; with втыкіла	—
+lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G ашмёткаў; not абломкі (generic wreckage)	—
+lemma.partner	напарник	partner	напарнік		hired wingman; NOT спадарожнік (hangar Satellite only)	—
+lemma.bubblist	пузырист	bubblist	пузырыст		hyperspace prank-cult; already ShipGreetings/421 пузырызм	—
+lemma.chekumash	чекумаш	chekumash	чэкумаш		invented pirate disease; Talk PirateClan	—
+lemma.petushkan	петушкан	petushkan	петушкан		invented folk in pirate truce joke; Dpl петушканам	—
+lemma.rahish	рахишский	Rahish	рахіскі		invented citizen-poet homeland; Talk PirateClan	—
+lemma.linuxian	линуксианский	Linuxian	лінуксіянскі		pirate wine joke; G лінуксіянскага	—
+lemma.submodem	Сабмодем	Submodem	Сабмодэм		Terron plot program in <clr>; Script MS_Terron shape (not Programms/SabCrack Сабмадэм)	—
+lemma.lyakusha_title	Верховный Лякуша	Supreme Lyakusha	Вярхоўны Лякуша		peleng ruler; G Вярхоўнага Лякушы; company «Лякуша і карашы» already	—
+lemma.niobium	ниобий	niobium	ніобій		G ніобію; degradont skeleton mineral	—
+lemma.degradont	деградонт	degradont	дэградонт		giant niobium reptile; сьвінарылы дэградонт	—
+lemma.orbital_sat	спутник	orbital satellite	сатэліт		news/spy sats; hangar Satellite equipment stays спадарожнік	—
+lemma.silent_ocean	Бесшумный океан	Silent Ocean	Бязьгучны акіян		RobotsMap/25 proper	—
+lemma.endoria_pride	Гордость Эндории	Pride of Endoria	Гордасьць Эндарыі		floating complex; keep quotes	—
+lemma.black_bill	Черный Билль	Black Bill	Чорны Біль		mutant-atoll name	—
+lemma.arruga	Арруга	Arruga	Арруга		robot-graveyard island	—
+lemma.guardian_statue	Стражник	Guardian	Стражнік		Pyramid Island living statue; G Стражніка	—
+lemma.aabyr_vaalg	Аабыр-Ваалг	Aabyr-Vaalg	Аабыр-Ваалг		gaal blessing; keep	—
+lemma.maharatuta	Махара-Тута	Mahara-Tuta	Махара-Тута		lyakusha atoll; keep	—
+lemma.megadrill	мега-бур	mega-drill	мэга-бур		RobotsMap/40 Name already Мэга-Бур	—
+lemma.beta_terron	бета-террон	Beta-Terron	бэта-тэрона		new series in quotes; robots бэта-тераноіды; proper Террон stays	—
+lemma.yellow_cross	Желтый Крест	Yellow Cross	Жоўты Крыж		interplanet vaccine org	—
+lemma.maloksoft	Малокософт	Maloqsoft	Малакасофт		Name already; G Малакасофту	—
+lemma.alkagul	Аль-Кагул	Al-Kagul	Аль-Кагул		wine-oasis island; keep	—
+lemma.gnuuq	Гнуук	Gnuuk	Гнуук		gravity engine; G Гнуука	—
+lemma.boris_villos	Борис Виллос	Boris Villos	Барыс Віллос		in <clr>; drill team	—
+lemma.ellamori	Элламори	Ellamori	Элламоры		maloq general; keep stem	—
+lemma.maunaroa	Мауна-Роа	Mauna Loa	Маўна-Роа		Name already Пляжы Маўна-Роа	—
+lemma.trash_valley	Треш	Trash	Трэш		dump valley/island	—
+lemma.minas_tir	Минас Тырь	Minas Tir	Мінас Тыр		LOTR parody fortress; G Тыра; RobotsMap/61	—
+lemma.indy_jokes	Индий Джокс	Indy Jokes	Індый Джокс		archaeologist; G Індыя Джокса; RobotsMap/62	—
+lemma.karap	карап	Karap	карап		ancient race; adj карапскі; Карапская цывілізацыя	—
+lemma.olmian	Олмиан Селланори	Olmian Sellanori	Олміян Сэлланоры		hacker; already map 53 Сэлланоры	—
+lemma.dazykagz	Дазыкагз Сиша	Dazykagz Sisha	Дазыкагз Сіша		peleng syndicate boss; G Сішы A Сішу	—
+lemma.sleazy_hands	Скользкие руки	Sleazy Hands	Сьлізкія рукі		quoted syndicate; G Сьлізкіх рук	—
+lemma.proval_park	Провалъ	Proval	Провал		reserve name; NAME already Провал; quoted park	—
+lemma.potemkin	Потемкин	Potemkin parody	Пацьомкаў		battleship Аляксей Пацьомкаў Стаўрыдзкі; ships Ачагаў / Вараг	—
+lemma.greenpeace	Гринпис	Greenpeace	Грынпіс		org name; RobotsMap/64	—
+lemma.rakushka	Ракушка	Shell	Ракушка		oil company; G Ракушкі	—
+lemma.john_ryan	Джон Энсон Раян	John Enson Ryan	Джон Энсан Раян		terminator; Орленон hometown	—
+lemma.longnose	долгоносик	longnose droid	доўганосік		heavy assault droid class; pl доўганосікі	—
+lemma.sphere_anomaly	Сфера	Sphere	Сфэра		quoted anti-grav meteor; RobotsMap/68	—
+lemma.svarakok	сварокок	swarokok	сваракок		invented critter; already Talk/map 43	—
+lemma.red_hatchets	Красные топоры	Red Hatchets	Чырвоныя тапары		maloq squad; G Чырвоных тапароў; map 54 already	—
+lemma.glukwein	глюквейн	mulled wine	глюквэйн		gaal drink; G глюквэйна; with янвэлб	—
+lemma.chahara	чахара	chakhara	чахара		intoxicant in gamma-bar; G чахары	—
+lemma.dragr_bragr	Драгр Брагр	Dragr Bragr	Драгр Брагр		maloq endurance hero; keep in <clr>	—
+lemma.playmaloq	Playmaloq	Playmaloq	Playmaloq		keep Latin magazine title in quotes	—
+lemma.heshi	Хеши	Heshi	Хешы		peleng pop duo; dim хешунькі	—
+lemma.pelengate	Пеленгейт-12	Pelengate-12	Пеленгейт-12		keep in <clr>; intel server	—
+lemma.safronova	Наталья Сафронова	Natalya Safronova	Натальля Сафронава		lecturing convict; G Сафронавай	—
+lemma.zhuker	Жукер и сыновья	Zhuker and Sons	Жукер і сыны		quoted uranium firm	—
+lemma.stepan_jackson	Степан Джексон	Stepan Jackson	Сьцяпан Джэксан		council candidate; keep in <clr>	—
+lemma.obmanushechki	Обманушечки	Punk'd	Абманушачкі		hidden-camera show; host Вэй-Дыс Пеш	—
+lemma.mentoscopy	ментоскопия	mentoscopy	мэнтаскапія		with мэнтаскоп; Quest DefShip/19	—
+lemma.elvis	Элвис Пресли	Elvis Presley	Элвіс Прэсьлі		keep in <clr>; frozen singer	—
+lemma.oscar	Оскар	Oscar	Оскар		quoted Latin-shape award; already Script lock	—
+lemma.yellow_cross_quest	Желтый крест	Yellow Cross	Жоўты Крыж		International in DefShip/25; same lemma.yellow_cross	—
+lemma.third_quark	Третий кварк	Third Quark	Трэці кварк		quoted game; short \"Кварк\"	—
+lemma.astral_ball	Мяч Астрала	Astral Ball	Мяч Астрала		keep in <clr>; gaal golf	—
+lemma.pushkin_parody	П. Ушкин	P. Ushkin	П. Ушкін		optical-scroll author	—
+lemma.tsar_cannon	Царь-пушка	Tsar Cannon	Цар-гармата		Earth exhibit	—
+lemma.liga_light	Лига Лайт	Liga Light	Ліга Лайт		quoted pharma firm	—
+lemma.voyagers	Межпланетные Вояджеры	Interplanetary Voyagers	Міжплянэтныя Вояджэры		quoted game; studio Адзіныя Гэймбудаўнікі; DRM Зорны Страж	—
+lemma.fei_nui	фей-нуй	fei-nui	фэй-нуй		quoted relaxation method	—
+lemma.renegal	ренегал	renegade gaal	рэнэгал		gaal pirate-rehab; G рэнэгала	—
+lemma.psi_gen	пси-генератор	psi-generator	псі-генэратар		quoted Dzuhallag device; with агрэсін	—
+lemma.nondows	Nondows	Nondows	Nondows		keep Latin OS; Бііл Гаатс parody	—
+lemma.pasebook	Пасебук 3000	Pasebook 3000	Пасебук 3000		keep in <clr>; founder Йцукенбэрг	—
+lemma.gamedevs_zari	Геймдевелоперы Зари	Gamedevs of Zarya	Геймдэвэлепэры Зары		secret order; PlanetName already	—
+lemma.ksenia	Ксения Ларионова	Ksenia Larionova	Ксенія Ларыёнава		keep in <clr>; pop diva	—
+lemma.pendal	пендаль	kick-blessing	пэндаль		gaal temple blessing; G пэндалю	—
+lemma.ytsurov	Йцуров	Ytsurov	Йцуроў		pirate social-net founder in <clr>	—
+lemma.cepelish	Цепелиш	Tsepelish	Цэпеліш		pirate security firm Лякуша Цэпеліш і кампаньёны	—
+lemma.rahish_planet	Рахиш	Rahish	Рахіш		peleng furniture-fauna planet; adj рахіскі already	—
+lemma.mandopolis	Берк Мандополис	Berk Mandopolis	Берк Мандополіс		keep in <clr>; brigadier general DefSystem/0	—
+lemma.baduba	бадуба	baduba	бадуба		malok club; дубіна бадуба	—
+lemma.kvamra	квамра	kvamra	квамра		peleng fauna; G квамры, pl квамры/квамраў	—
+lemma.fruntyashka	фрунтяшка	frunty	фрунцяшка		peleng export fruit; G pl фрунцяшак	—
+lemma.bochokhasha	бочохаша	bochokhasha	бачохаша		peleng fermenting barrel; L pl бачохашах	—
+lemma.rotfather	Гнусный Отец	Rotfather	Гнюсны Бацька		mob boss nickname; Briggs Book parody	—
+lemma.briggs_book	Книга рекордов Бригса	Briggs Book of Records	Кніга рэкордаў Брыгса		pirate Guinness parody	—
+lemma.amalcus	Амалкус Феофан	Amalcus Feofan	Амалкус Фэафан		keep in <clr>; faeyan convict II	—
+lemma.feyterrier	фэйтерьер	fey-terrier	фэйтэр'ер		faeyan cyborg dog; apostrophe like тэр'ер	—
+lemma.rangers_watch	Рейнджеры на страже	Rangers on Guard	Рэйнджэры на варце		quoted patrol campaign in <clr>	—
+lemma.ioshu_buyaro	театр Иосшу Буяро	Ioshu Buyaro Theater	тэатар Іосшу Буяро		keep in <clr>; gaal mental-projection troupe	—
+lemma.riolka_sympha	Риолки и Симфы	Riolka and Sympha	Ріолкі і Сымфы		Star Wars parody; planet Ріолкі already	—
+lemma.vindabros	Выньдабрось	Throwaway	Выньдабрось		uninhabited planet; PlanetName already	—
+lemma.titanichik	Титанчик	Little Titanic	Тытанчык		quoted film; magazine “Плэйгуманоід” curly quotes	—
+lemma.cool_guys	Крутые парни	Tough Guys	Крутыя хлопцы		pirate reality show; antipode па пыску	—
+lemma.galaforecast	Галапрогнозцентр	Galaforecast	Галяпрагнозцэнтр		malok weather-war bureau	—
+lemma.havaisia	Хавайся хто куды!	Hide Who Where	Хавайся хто куды!		quoted sect; disease Сьвяты фанатызм; virus D16M04	—
+lemma.urgol_figula	Урголь / Фигулы-Пси	Urgol / Figula-Psi	Урголь / Фігулы-Псі		faeyan IQ constants	—
+lemma.gas_gtk	ГАС / ГТК	GAS / GTC	ГАС / ГТК		keep Latin-Cyrillic abbr; Астранамічнае Таварыства / Гандлёвы Камітэт	—
+lemma.olahymorg	олахыморг	olahymorg	олахыморг		keep in <clr>; malok superfuel/explosive	—
+lemma.sargasso	Суррогаты в космосе	Surrogates in Space	Сурагаты ў космасе		quoted remake; Сурагатава мора	—
+lemma.fufu	ФУФУ	FUFU	ФУФУ		Фонд Устаранення Фондавых Угрозаў; keep abbr	—
+lemma.bronze_idiot	Бронзовый тупарь	Idiota Bronzata	Бронзавы тупар		quoted medal	—
+lemma.morrow_wind	Морроу Винд	Morrow Wind	Морроу Вінд		tribunal judge; Morrowind parody	—
+lemma.penchekrakino	Пенчекрякино	Penchecrakino	Пэнчэкракіна		poselok; пэнчэкрак already	—
+lemma.virus_rad	вирус Рад	Rad virus	вірус Рад		keep Рад; 1'000'000'000 apostrophes; Cr. capital	—
+lemma.great_thinker	Великий мыслитель	Great Thinker	Вялікі мысьляр		quoted conference	—
+lemma.pirate_clans_ds	Сорвиклювы / Смачные парни / Дерзкие зыри	clans	Сарвіклювы / Смачныя хлопцы / Дзёрзкія зыры		quoted pirate clans DefSystem/52	—
+lemma.ga_principles	принципы Га	Ga principles	прынцыпы Га		gaal pirate philosophy; тры правы	—
+lemma.razrab_finger	Палец Раазраба	Dev's Finger	Палец Раазраба		quoted artefact; Геймдэвэлепэры зары already	—
+lemma.ragobam_frogs	рогобамские жабы	Ragobam frogs	рагобамскія жабы		KillShip venom trade; RobotsMap already	—
+lemma.hire_a_friend	Закажи другу друга	Hire a Pal a Pal	Замоў сябру сябра		malok hitman agency; keep quotes inside <clr>	—
+lemma.vovik_zhyry	Вовик Жирый	Vovik Zhyry	Вовік Жырый		keep in <clr>; malok diplomat insult quest	—
+lemma.guanta	гуанта-бартабаны	guanta-bartabans	гуанта-бартабаны		malok origin parody fauna	—
+lemma.ubeymalokau	Анатолий Убеймалоков	Anatoly Ubeymalokov	Анатоль Убэймалокаў		keep in <clr>; blacklist diplomat	—
+lemma.malokmastdai	Альберт Малок'Маст'Дай	Albert Malok'Mast'Dai	Альбэрт Малок'Маст'Дай		keep apostrophes in <clr>	—
+lemma.orlon_brong	Орлон Бронг	Orlon Brong	Орлон Бронг		keep in <clr>; peleng dominator lure pirate	—
+lemma.poshlukh	Пошлух	Poshlukh	Пошлух		keep in <clr>; peleng shaman frog curse	—
+lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапары		quoted malok elite squad	—
+lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
+lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
+lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
+lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
+lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
+lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
+lemma.streemers	Стрямеры	Streemers	Стрямеры		keep in <clr>; magazine Стрямъ-коммерсантъ keep ъ	—
+lemma.oveon	овеон	oveon	авеон		gaal ship type KillShip/15	—
+lemma.hatchball	хэчбол	hatchball	хэчбол		sport; keep loan	—
+lemma.don_pelengone	Дон Пеленгоне	Don Pelengone	Дон Пеленгоне		peleng premier; E-бабкі cards	—
+lemma.bail_gan	Бейл Ган	Bail Gan	Бейл Ган		keep in <clr>; faeyan hacker	—
+lemma.malokosoft	Малокософт	Malokosoft	Малокософт		quoted malok software firm	—
+lemma.jazy_bydlo	Джазы Быдло	Jazy Bydlo	Джазы Быдло		keep in <clr>; malok pirate in drills	—
+lemma.keini_mitnok	Кейни Митнок	Keini Mitnok	Кейні Мітнок		keep in <clr>; Galanet hacker	—
+lemma.astroin	астроин	astroin	астраін		keep in <clr>; gaal cheap narcotic	—
+lemma.t101	Т-101	T-101	Т-101		quoted android model; keep Latin-Cyrillic	—
+lemma.hyperleprosy	гиперпроказа	hyperleprosy	гіпэрпраказа		faeyan KillShip/31 plague	—
+lemma.maaody	Маароди	Maaody	Маародзі		malok MMM scam; \"Малокскія мікрамодулі\"	—
+lemma.tikhaya	Тихая заводь	Quiet Backwater	Ціхая затока		quoted cocktail KillShip/37	—
+lemma.zhizhevanny	жижеванны	ooze-baths	жыжаваны		peleng mud baths	—
+lemma.lyakhovaya	ляховая правдолюбка	Lyakh truth-flu	ляховая праўдалюбка		quoted peleng truth-disease	—
+lemma.labean	Лабеан	Labean	Лабеан		quoted peleng camouflage pirate ship	—
+lemma.vasya	Вася Хитрющий	Vasya Sly	Вася Хітрушчы		body-swap ruler; kinza drink кіндза	—
+lemma.vymo	Вымо Гаатель	Vymo Gaatel	Вымо Гаатель		keep; gaal diplomat-pirate	—
+lemma.malokaiser	Мал-о-Крайзер	Mal-o-Kaiser	Мал-о-Крайзер		quoted malok battery plant	—
+lemma.kalpon	калпонические элементы	calponic cells	калпанічныя элемэнты		faeyan battery tech	—
+lemma.is106	ИС-106	IS-106	ІС-106		quoted thinking satellite; сатэліт not спадарожнік	—
+lemma.hotlov	Улан Хотелов	Ulan Khotelov	Улан Хатэлаў		Coalition Council candidate	—
+lemma.moglov	Козак Моглов	Kozak Moglov	Козак Моглаў		rival Earth candidate	—
+lemma.fermius	Морт Фермиус	Mort Fermius	Морт Фэрміюс		Matrix-memoir diplomat; містэр Андэрсен / Сміт	—
+lemma.bachois	Атаноли Бачойс	Atanoli Bachois	Атанолі Бачойс		pirate; ship Энэрджайз	—
+lemma.rbd	РБД	RDD	РБД		Радыкальныя Барацьбіты з Дэградацыяй	—
+lemma.gobzaur	Человек-Гобзавр	Gobzaur-Man	Чалавек-Габзаўр		comic superhero KillShip/51	—
+lemma.mpagers	Мистические пейджеры	Mystic Pagers	Містычныя пэйджары		quoted game series; Гус Дууб ДМ	—
+lemma.feytel	Фейтель	Feitel	Фэйцель		keep in <clr>; fonsers champion	—
+lemma.hvaachik	Хваачик Пылка	Hvaachik Pylka	Хваачык Пылка		gaal false messiah	—
+lemma.maglus	Маглус	Maglus	Маглус		pensioner ranger; pirate Рон	—
+lemma.vzhigatel	V-Жигатель 2.0	V-Burner 2.0	V-Жыгацель 2.0		quoted graffiti laser	—
+lemma.otdubas	Отдубас	Otdubas	Отдубас		keep in <clr>; bambai double	—
+lemma.djubba	Лякуша Джубба	Lyakusha Jubba	Лякуша Джубба		peleng treasure-statue quest	—
+lemma.genobrak	генобрак / ксенофаг	genobrak / xenophage	генабрак / ксэнафаг		malok-misremembered birth control	—
+lemma.grab_det	захват-взрыватель	grip-detonator	захоп-выбуховік		keep in <clr>; SendLetter/0 exhibit	—
+lemma.burkusha	буркуша	burkusha	буркуша		malok ape; president-brain hoax	—
+lemma.macroexpo	Макропромэкспо	MacroPromExpo	Макрапрамэкспа		quoted malok insect-model fair	—
+lemma.technomania	День Техномании	Technomania Day	Дзень Тэхнаманіі		faeyan science feast	—
+
