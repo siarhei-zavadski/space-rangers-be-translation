@@ -1,93 +1,95 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Ski.qmm/parameters/0/name"	"Популярность"	"Quest Ski.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Popularity"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/0/lines/0/content"	"Курорт ненавидят"	"Quest Ski.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: They hate the resort"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/0/lines/1/content"	"Популярность курорта <> %"	"Quest Ski.qmm: parameters.0.lines.1.content. Preserve every <tag> exactly. English reference: Popularity of the resort <> %"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/0/lines/2/content"	"Курорт обожают"	"Quest Ski.qmm: parameters.0.lines.2.content. Preserve every <tag> exactly. English reference: They adore the resort"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/0/crit_text"	"Согласно данным социологических опросов, ваш курорт признан худшим на планете <ToPlanet>. Многочисленные жалобы ваших разочарованных клиентов вынудили правительство отобрать у вас лицензию. Вы с позором провалили свою миссию!"	"Quest Ski.qmm: parameters.0.crit_text. Preserve every <tag> exactly. English reference: According to the interview data, your resort is declared to be the worst one on <ToPlanet>. Multiple complaints from your disappointed clients forced our government to disqualify you from managing the resort. You failed your mission completely!"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/1/name"	"Деньги"	"Quest Ski.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Money"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/1/lines/0/content"	"Денег нет!!!"	"Quest Ski.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: No money!!!"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/1/lines/1/content"	"Денег на счету: <><clr>.000<clrEnd> cr"	"Quest Ski.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Money on the account: <><clr>.000<clrEnd> cr"	"Quest,Ski"	""
+"/quests/Ski.qmm/parameters/0/name"	"Популярность"	"Quest Ski.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Popularity"	"Quest,Ski"	"Папулярнасьць"
+"/quests/Ski.qmm/parameters/0/lines/0/content"	"Курорт ненавидят"	"Quest Ski.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: They hate the resort"	"Quest,Ski"	"Курорт ненавідзяць"
+"/quests/Ski.qmm/parameters/0/lines/1/content"	"Популярность курорта <> %"	"Quest Ski.qmm: parameters.0.lines.1.content. Preserve every <tag> exactly. English reference: Popularity of the resort <> %"	"Quest,Ski"	"Папулярнасьць курорту <> %"
+"/quests/Ski.qmm/parameters/0/lines/2/content"	"Курорт обожают"	"Quest Ski.qmm: parameters.0.lines.2.content. Preserve every <tag> exactly. English reference: They adore the resort"	"Quest,Ski"	"Курорт любяць"
+"/quests/Ski.qmm/parameters/0/crit_text"	"Согласно данным социологических опросов, ваш курорт признан худшим на планете <ToPlanet>. Многочисленные жалобы ваших разочарованных клиентов вынудили правительство отобрать у вас лицензию. Вы с позором провалили свою миссию!"	"Quest Ski.qmm: parameters.0.crit_text. Preserve every <tag> exactly. English reference: According to the interview data, your resort is declared to be the worst one on <ToPlanet>. Multiple complaints from your disappointed clients forced our government to disqualify you from managing the resort. You failed your mission completely!"	"Quest,Ski"	"Паводле зьвестак сацыялягічных апытаньняў, ваш курорт прызнаны найгоршым на плянэце <ToPlanet>. Шматлікія скаргі вашых расчараваных кліентаў прымусілі ўрад адабраць у вас ліцэнзію. Вы са сорамам правалілі сваю місію!"
+"/quests/Ski.qmm/parameters/1/name"	"Деньги"	"Quest Ski.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Money"	"Quest,Ski"	"Грошы"
+"/quests/Ski.qmm/parameters/1/lines/0/content"	"Денег нет!!!"	"Quest Ski.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: No money!!!"	"Quest,Ski"	"Грошай няма!!!"
+"/quests/Ski.qmm/parameters/1/lines/1/content"	"Денег на счету: <><clr>.000<clrEnd> cr"	"Quest Ski.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Money on the account: <><clr>.000<clrEnd> cr"	"Quest,Ski"	"Грошай на рахунку: <><clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/parameters/1/crit_text"	"<clr>Вы растратили все деньги!<clrEnd> Ваш <clr>заместитель<clrEnd> не упустил своего шанса, сразу же отправив на планету <FromPlanet> рапорт о разорении курорта. Ответ пришел незамедлительно - рейнджер <Ranger> уволен!
 
 Вы провалили вашу миссию."	"Quest Ski.qmm: parameters.1.crit_text. Preserve every <tag> exactly. English reference: <clr>You mopped up all the money!<clrEnd> Your <clr>deputy<clrEnd> didn't lose his chance and immediately sent a report about the downfall of the resort to <FromPlanet>. It didn't take long to receive the answer - ranger <Ranger> is fired!
 
-You failed your mission."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/2/name"	"Реклама"	"Quest Ski.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/2/lines/0/content"	"Расходы на рекламу: <clr>0<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Advertising expenses: <clr>0<clrEnd> cr"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/2/lines/1/content"	"Расходы на рекламу: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Advertising expenses: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Ski.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/3/name"	"Гостиницы"	"Quest Ski.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Hotels"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/3/lines/0/content"	"Гостиниц: <> ({60*[p4]} мест)"	"Quest Ski.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Hotels: <> ({60*[p4]} beds)"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Ski.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/4/name"	"Рестораны"	"Quest Ski.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Restaurants"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/4/lines/0/content"	"Ресторанов: <> ({45*[p5]} мест)"	"Quest Ski.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Restaurants: <> ({45*[p5]} seats)"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Ski.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/5/name"	"Уехало новичков"	"Quest Ski.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Beginners left"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/5/lines/0/content"	"ВСЕГО ПОСЕТИТЕЛЕЙ: {[p7]+[p8]}"	"Quest Ski.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: TOTAL NUMBER OF VISITORS: {[p7]+[p8]}"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Ski.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/6/name"	"Новички"	"Quest Ski.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Beginners"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/6/lines/0/content"	"Новичков: <>"	"Quest Ski.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Beginners: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Ski.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/7/name"	"Профессионалы"	"Quest Ski.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: Pros"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/7/lines/0/content"	"Профессионалов: <>"	"Quest Ski.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Pros: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Ski.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/8/name"	"Приехало новичков"	"Quest Ski.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Beginners arrived"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/8/lines/0/content"	"ПОДЪЕМНИКИ ({[p10]*30+50*[p11]} мест)"	"Quest Ski.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: SKI LIFTS ({[p10]*30+50*[p11]} seats)"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Ski.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/9/name"	"Кресельные"	"Quest Ski.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: With chairs"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/9/lines/0/content"	"Кресельных: <>"	"Quest Ski.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly. English reference: With chairs: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Ski.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/10/name"	"Кабиночные"	"Quest Ski.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: With cabins"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/10/lines/0/content"	"Кабиночных: <> <br>---"	"Quest Ski.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly. English reference: With cabins: <> <br>---"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Ski.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/11/name"	"Зеленые"	"Quest Ski.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: Green"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/11/lines/0/content"	"Трасс для новичков: <>"	"Quest Ski.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly. English reference: Tracks for beginners: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Ski.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/12/name"	"Красные"	"Quest Ski.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Red"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/12/lines/0/content"	"Обычных трасс: <>"	"Quest Ski.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: Average tracks: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Ski.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/13/name"	"Черные"	"Quest Ski.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Black"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/13/lines/0/content"	"Трасс для профессионалов: <>"	"Quest Ski.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: Tracks for pros: <>"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Ski.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/14/name"	"Деньги2"	"Quest Ski.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Money2"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/14/lines/0/content"	"ТРАССЫ  ОБСЛУЖИВАЮТ:<br>Новичков: {[p12]*20+10*[p13]};<br>Профессионалов: {10*[p13]+[p14]*20}"	"Quest Ski.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Tracks receive:<br>beginners: {[p12]*20+10*[p13]};<br>pros: {10*[p13]+[p14]*20}"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/15/name"	"Y"	"Quest Ski.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Ski.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/16/name"	"Вечерние новички"	"Quest Ski.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Evening beginners"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Ski.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/17/name"	"Вечерние профи"	"Quest Ski.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: Evening pros"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Ski.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/18/name"	"Уехало профи"	"Quest Ski.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Pros left"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Ski.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/19/name"	"Приехало профи"	"Quest Ski.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Pros arrived"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Ski.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/20/name"	"Деньги игрока"	"Quest Ski.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: Player's money"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Ski.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/21/name"	"X"	"Quest Ski.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Ski.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/22/name"	"Дни"	"Quest Ski.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: Days"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/23/name"	"Постройки"	"Quest Ski.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: Constructions"	"Quest,Ski"	""
-"/quests/Ski.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Ski.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	""
-"/quests/Ski.qmm/tostar"	"Преисподняя"	"Quest Ski.qmm: tostar. Preserve every <tag> exactly. English reference: Hell"	"Quest,Ski"	""
-"/quests/Ski.qmm/toplanet"	"Ад кромешный"	"Quest Ski.qmm: toplanet. Preserve every <tag> exactly. English reference: Pandemonium"	"Quest,Ski"	""
-"/quests/Ski.qmm/fromplanet"	"Рай"	"Quest Ski.qmm: fromplanet. Preserve every <tag> exactly. English reference: Heaven"	"Quest,Ski"	""
-"/quests/Ski.qmm/fromstar"	"Небесное царство"	"Quest Ski.qmm: fromstar. Preserve every <tag> exactly. English reference: Overworld"	"Quest,Ski"	""
-"/quests/Ski.qmm/ranger"	"Любитель пургена"	"Quest Ski.qmm: ranger. Preserve every <tag> exactly. English reference: Strong laxative addict"	"Quest,Ski"	""
-"/quests/Ski.qmm/success_text"	"Мы довольны тем, как вы выполнили задание. Наш новый управляющий в восторге от вас и вашего стиля руководства! Вы, <Ranger>, вполне заслужили эту награду в <Money> cr!"	"Quest Ski.qmm: success_text. Preserve every <tag> exactly. English reference: We are contented with the results of your work. Our new manager is enthused over you and your management style! You, <Ranger>, fully deserved this award in the amount of <Money> credits!"	"Quest,Ski"	""
-"/quests/Ski.qmm/task_text"	"Правительство нашей планеты хочет открыть филиал нашей суперуспешной сети горнолыжных курортов на планете <ToPlanet> системы <ToStar>. Мы запланировали открытие курорта на <Date>, но, к сожалению, местный управляющий оставляет желать лучшего. Вас, <Ranger>, как прославленного торговца, мы просим дать ему наглядный урок управления курортом. Если вы сможете не более чем за 20 дней увеличить начальный капитал до некоторой суммы, то вы получите вознаграждение в размере <Money> cr. Все детали вы узнаете на месте."	"Quest Ski.qmm: task_text. Preserve every <tag> exactly. English reference: Our planet's government wants to open a branch of our super successful mountain-ski resorts system on the <ToPlanet> planet in the <ToStar> system. We scheduled the official opening of the resort on <Date> but unfortunately, the local manager leaves much to be desired. You are a famous trader, <Ranger>, so we request you to hold a master class on resort management for him. If you manage to increase the initial capital up to a certain amount within 20 days, you'll get the award in the amount of <Money> credits. They will explain all the details to you right on the spot."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/0/texts/0/text"	"Вы приказали менеджеру по строительству срочно возвести <clr>ресторан<clrEnd>. Через несколько минут вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание, а еще через несколько часов ресторан был готов, и в него зашли первые посетители, довольно причмокивая языком."	"Quest Ski.qmm: locations.0.texts.0.text. Preserve every <tag> exactly. English reference: You gave orders to the construction manager to have <clr>a restaurant<clrEnd> constructed urgently. In a few minutes you looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building, and within a few hours the restaurant constructed and accepted the first clients who entered it smacking with pleasure."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/1/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для профессионалов<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с крутыми спусками и резкими поворотами, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for pros <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with sharp slopes and quick turns was stretching from the top of the ski lift to the very bottom. The tourists began looking on you with a little bit more favour."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/2/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для новичков<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная пологая трасса."	"Quest Ski.qmm: locations.2.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for beginners <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/3/texts/0/text"	"Вы позвали малока и сообщили ему о своем решении построить <clr>гостиницу<clrEnd>. Малок обещал построить ее к вечеру. Вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание. Через несколько часов гостиница была готова."	"Quest Ski.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and told him about your decision to have <clr>a hotel<clrEnd> constructed. He promised to finish the work by night. You looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building. Within a few hours the hotel was built."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/4/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>обычная трасса<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с небольшим количеством поворотов, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.4.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>average track <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track with a few turns was stretching from the top of the ski lift to the very bottom. The tourists began looking on you with a little bit more favour."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/5/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кресельный подъемник<clrEnd>. Малок сказал, что все будет сделано. Вскоре на площадку въехало несколько машин. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы. Их отношение к вам немного улучшилось."	"Quest Ski.qmm: locations.5.texts.0.text. Preserve every <tag> exactly. English reference: Your invited the Maloq and told him that you needed <clr> a ski lift with chairs <clrEnd> to be constructed urgently. The Maloq promised you to take care of that. Soon several trucks drove onto the site. The workers began taking sections out of them and assembling the lift. Within a few hours the work was finished, and more and more tourists started using the lift. Their opinion of you became a little bit better."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/6/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кабиночный подъемник<clrEnd>. Малок сказал, что все будет готово через несколько часов. Вы выглянули в окно и заметили, как на площадку въехали машины. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы. Их отношение к вам немного улучшилось."	"Quest Ski.qmm: locations.6.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr> a ski lift with cabins <clrEnd> to be constructed urgently. The Maloq told you that everything would be done in several hours. You looked out of the window and saw several trucks driving onto the site. The workers started taking the sections out of them and assembling the lift. Within a few hours it was finished and more and more tourists began using it. Their opinion of you became a little bit better."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/7/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для новичков<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная пологая трасса, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.7.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for beginners <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track was stretching from the top of the ski lift to the very bottom, and the tourists' opinion of you became a little bit better."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/8/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для профессионалов<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с крутыми спусками и резкими поворотами."	"Quest Ski.qmm: locations.8.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for pros <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with sharp slopes and quick turns was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/9/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr> обычная трасса<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с небольшим количеством поворотов."	"Quest Ski.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr> average track <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with a few turns was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/10/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кресельный подъемник<clrEnd>. Малок сказал, что все будет сделано. Вскоре на площадку въехало несколько машин. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы."	"Quest Ski.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr>a ski lift with chairs <clrEnd> to be constructed urgently. The Maloq promised you to take care of that. Soon several trucks drove onto the site. The workers started taking the sections out of them and assembling the lift quickly. Within a few hours it was finished and more and more tourists began using it."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/11/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кабиночный подъемник<clrEnd>. Малок сказал, что все будет готово через несколько часов. Вы выглянули в окно и заметили, как на площадку въехали машины. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы."	"Quest Ski.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr> a ski lift with cabins <clrEnd> to be constructed urgently. The Maloq said the work would be done in several hours. You looked out of the window and noticed trucks driving onto the site. The workers started taking the sections out of them and assembling the lift quickly. Within a few hours it was finished and more and more tourists began using it."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/13/texts/0/text"	"Вы приказали менеджеру по строительству срочно возвести <clr>ресторан<clrEnd>. Через несколько минут вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание, а еще через несколько часов ресторан был готов."	"Quest Ski.qmm: locations.13.texts.0.text. Preserve every <tag> exactly. English reference: You gave orders to the construction manager to have <clr>a restaurant<clrEnd> built urgently. In a few minutes you looked out of the window and noticed several trucks driving onto the site. The workers started taking sections out of them and assembling the building quickly, and within several more hours the restaurant was constructed."	"Quest,Ski"	""
+You failed your mission."	"Quest,Ski"	"<clr>Вы растрацілі ўсе грошы!<clrEnd> Ваш <clr>намесьнік<clrEnd> не ўпусьціў свайго шанцу, адразу ж адправіўшы на плянэту <FromPlanet> рапарт пра разарэньне курорту. Адказ прыйшоў неадкладна - рэйнджэр <Ranger> звольнены!
+
+Вы правалілі вашую місію."
+"/quests/Ski.qmm/parameters/2/name"	"Реклама"	"Quest Ski.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Advertising"	"Quest,Ski"	"Рэкляма"
+"/quests/Ski.qmm/parameters/2/lines/0/content"	"Расходы на рекламу: <clr>0<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Advertising expenses: <clr>0<clrEnd> cr"	"Quest,Ski"	"Выдаткі на рэкляму: <clr>0<clrEnd> cr"
+"/quests/Ski.qmm/parameters/2/lines/1/content"	"Расходы на рекламу: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Advertising expenses: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest,Ski"	"Выдаткі на рэкляму: {[p3]*10}<clr>.000<clrEnd> cr"
+"/quests/Ski.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Ski.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 20"
+"/quests/Ski.qmm/parameters/3/name"	"Гостиницы"	"Quest Ski.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Hotels"	"Quest,Ski"	"Гасьцініцы"
+"/quests/Ski.qmm/parameters/3/lines/0/content"	"Гостиниц: <> ({60*[p4]} мест)"	"Quest Ski.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Hotels: <> ({60*[p4]} beds)"	"Quest,Ski"	"Гасьцініц: <> ({60*[p4]} месцаў)"
+"/quests/Ski.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Ski.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 13"
+"/quests/Ski.qmm/parameters/4/name"	"Рестораны"	"Quest Ski.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Restaurants"	"Quest,Ski"	"Рэстараны"
+"/quests/Ski.qmm/parameters/4/lines/0/content"	"Ресторанов: <> ({45*[p5]} мест)"	"Quest Ski.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Restaurants: <> ({45*[p5]} seats)"	"Quest,Ski"	"Рэстаранаў: <> ({45*[p5]} месцаў)"
+"/quests/Ski.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Ski.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 14"
+"/quests/Ski.qmm/parameters/5/name"	"Уехало новичков"	"Quest Ski.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Beginners left"	"Quest,Ski"	"З'ехала навічкоў"
+"/quests/Ski.qmm/parameters/5/lines/0/content"	"ВСЕГО ПОСЕТИТЕЛЕЙ: {[p7]+[p8]}"	"Quest Ski.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: TOTAL NUMBER OF VISITORS: {[p7]+[p8]}"	"Quest,Ski"	"УСЯГО НАВЕДНІКАЎ: {[p7]+[p8]}"
+"/quests/Ski.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Ski.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 2"
+"/quests/Ski.qmm/parameters/6/name"	"Новички"	"Quest Ski.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Beginners"	"Quest,Ski"	"Навічкі"
+"/quests/Ski.qmm/parameters/6/lines/0/content"	"Новичков: <>"	"Quest Ski.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Beginners: <>"	"Quest,Ski"	"Навічкоў: <>"
+"/quests/Ski.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Ski.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 3"
+"/quests/Ski.qmm/parameters/7/name"	"Профессионалы"	"Quest Ski.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: Pros"	"Quest,Ski"	"Прафэсіяналы"
+"/quests/Ski.qmm/parameters/7/lines/0/content"	"Профессионалов: <>"	"Quest Ski.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Pros: <>"	"Quest,Ski"	"Прафэсіяналаў: <>"
+"/quests/Ski.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Ski.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 4"
+"/quests/Ski.qmm/parameters/8/name"	"Приехало новичков"	"Quest Ski.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Beginners arrived"	"Quest,Ski"	"Прыехала навічкоў"
+"/quests/Ski.qmm/parameters/8/lines/0/content"	"ПОДЪЕМНИКИ ({[p10]*30+50*[p11]} мест)"	"Quest Ski.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: SKI LIFTS ({[p10]*30+50*[p11]} seats)"	"Quest,Ski"	"ПАД'ЁМНІКІ ({[p10]*30+50*[p11]} месцаў)"
+"/quests/Ski.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Ski.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 1"
+"/quests/Ski.qmm/parameters/9/name"	"Кресельные"	"Quest Ski.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: With chairs"	"Quest,Ski"	"Крэсельныя"
+"/quests/Ski.qmm/parameters/9/lines/0/content"	"Кресельных: <>"	"Quest Ski.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly. English reference: With chairs: <>"	"Quest,Ski"	"Крэсельных: <>"
+"/quests/Ski.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Ski.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 5"
+"/quests/Ski.qmm/parameters/10/name"	"Кабиночные"	"Quest Ski.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: With cabins"	"Quest,Ski"	"Кабінныя"
+"/quests/Ski.qmm/parameters/10/lines/0/content"	"Кабиночных: <> <br>---"	"Quest Ski.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly. English reference: With cabins: <> <br>---"	"Quest,Ski"	"Кабінных: <> <br>---"
+"/quests/Ski.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Ski.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 6"
+"/quests/Ski.qmm/parameters/11/name"	"Зеленые"	"Quest Ski.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: Green"	"Quest,Ski"	"Зялёныя"
+"/quests/Ski.qmm/parameters/11/lines/0/content"	"Трасс для новичков: <>"	"Quest Ski.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly. English reference: Tracks for beginners: <>"	"Quest,Ski"	"Трасаў для навічкоў: <>"
+"/quests/Ski.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Ski.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 9"
+"/quests/Ski.qmm/parameters/12/name"	"Красные"	"Quest Ski.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Red"	"Quest,Ski"	"Чырвоныя"
+"/quests/Ski.qmm/parameters/12/lines/0/content"	"Обычных трасс: <>"	"Quest Ski.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: Average tracks: <>"	"Quest,Ski"	"Звычайных трасаў: <>"
+"/quests/Ski.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Ski.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 10"
+"/quests/Ski.qmm/parameters/13/name"	"Черные"	"Quest Ski.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Black"	"Quest,Ski"	"Чорныя"
+"/quests/Ski.qmm/parameters/13/lines/0/content"	"Трасс для профессионалов: <>"	"Quest Ski.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: Tracks for pros: <>"	"Quest,Ski"	"Трасаў для прафэсіяналаў: <>"
+"/quests/Ski.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Ski.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 11"
+"/quests/Ski.qmm/parameters/14/name"	"Деньги2"	"Quest Ski.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Money2"	"Quest,Ski"	"Грошы2"
+"/quests/Ski.qmm/parameters/14/lines/0/content"	"ТРАССЫ  ОБСЛУЖИВАЮТ:<br>Новичков: {[p12]*20+10*[p13]};<br>Профессионалов: {10*[p13]+[p14]*20}"	"Quest Ski.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Tracks receive:<br>beginners: {[p12]*20+10*[p13]};<br>pros: {10*[p13]+[p14]*20}"	"Quest,Ski"	"ТРАСЫ  АБСЛУГОЎВАЮЦЬ:<br>Навічкоў: {[p12]*20+10*[p13]};<br>Прафэсіяналаў: {10*[p13]+[p14]*20}"
+"/quests/Ski.qmm/parameters/15/name"	"Y"	"Quest Ski.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Ski"	"Y"
+"/quests/Ski.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Ski.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 15"
+"/quests/Ski.qmm/parameters/16/name"	"Вечерние новички"	"Quest Ski.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Evening beginners"	"Quest,Ski"	"Вячэрнія навічкі"
+"/quests/Ski.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Ski.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 17"
+"/quests/Ski.qmm/parameters/17/name"	"Вечерние профи"	"Quest Ski.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: Evening pros"	"Quest,Ski"	"Вячэрнія профі"
+"/quests/Ski.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Ski.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 21"
+"/quests/Ski.qmm/parameters/18/name"	"Уехало профи"	"Quest Ski.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Pros left"	"Quest,Ski"	"З'ехала профі"
+"/quests/Ski.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Ski.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 18"
+"/quests/Ski.qmm/parameters/19/name"	"Приехало профи"	"Quest Ski.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Pros arrived"	"Quest,Ski"	"Прыехала профі"
+"/quests/Ski.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Ski.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 19"
+"/quests/Ski.qmm/parameters/20/name"	"Деньги игрока"	"Quest Ski.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: Player's money"	"Quest,Ski"	"Грошы гульца"
+"/quests/Ski.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Ski.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 16"
+"/quests/Ski.qmm/parameters/21/name"	"X"	"Quest Ski.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Ski"	"X"
+"/quests/Ski.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Ski.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 12"
+"/quests/Ski.qmm/parameters/22/name"	"Дни"	"Quest Ski.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: Days"	"Quest,Ski"	"Дні"
+"/quests/Ski.qmm/parameters/23/name"	"Постройки"	"Quest Ski.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: Constructions"	"Quest,Ski"	"Пабудовы"
+"/quests/Ski.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Ski.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 23"
+"/quests/Ski.qmm/tostar"	"Преисподняя"	"Quest Ski.qmm: tostar. Preserve every <tag> exactly. English reference: Hell"	"Quest,Ski"	"Пекла"
+"/quests/Ski.qmm/toplanet"	"Ад кромешный"	"Quest Ski.qmm: toplanet. Preserve every <tag> exactly. English reference: Pandemonium"	"Quest,Ski"	"Пекла лютае"
+"/quests/Ski.qmm/fromplanet"	"Рай"	"Quest Ski.qmm: fromplanet. Preserve every <tag> exactly. English reference: Heaven"	"Quest,Ski"	"Рай"
+"/quests/Ski.qmm/fromstar"	"Небесное царство"	"Quest Ski.qmm: fromstar. Preserve every <tag> exactly. English reference: Overworld"	"Quest,Ski"	"Нябеснае царства"
+"/quests/Ski.qmm/ranger"	"Любитель пургена"	"Quest Ski.qmm: ranger. Preserve every <tag> exactly. English reference: Strong laxative addict"	"Quest,Ski"	"Аматар пургену"
+"/quests/Ski.qmm/success_text"	"Мы довольны тем, как вы выполнили задание. Наш новый управляющий в восторге от вас и вашего стиля руководства! Вы, <Ranger>, вполне заслужили эту награду в <Money> cr!"	"Quest Ski.qmm: success_text. Preserve every <tag> exactly. English reference: We are contented with the results of your work. Our new manager is enthused over you and your management style! You, <Ranger>, fully deserved this award in the amount of <Money> credits!"	"Quest,Ski"	"Мы задаволеныя тым, як вы выканалі заданьне. Наш новы кіраўнік у захапленьні ад вас і вашага стылю кіраваньня! Вы, <Ranger>, цалкам заслужылі гэтую ўзнагароду ў <Money> cr!"
+"/quests/Ski.qmm/task_text"	"Правительство нашей планеты хочет открыть филиал нашей суперуспешной сети горнолыжных курортов на планете <ToPlanet> системы <ToStar>. Мы запланировали открытие курорта на <Date>, но, к сожалению, местный управляющий оставляет желать лучшего. Вас, <Ranger>, как прославленного торговца, мы просим дать ему наглядный урок управления курортом. Если вы сможете не более чем за 20 дней увеличить начальный капитал до некоторой суммы, то вы получите вознаграждение в размере <Money> cr. Все детали вы узнаете на месте."	"Quest Ski.qmm: task_text. Preserve every <tag> exactly. English reference: Our planet's government wants to open a branch of our super successful mountain-ski resorts system on the <ToPlanet> planet in the <ToStar> system. We scheduled the official opening of the resort on <Date> but unfortunately, the local manager leaves much to be desired. You are a famous trader, <Ranger>, so we request you to hold a master class on resort management for him. If you manage to increase the initial capital up to a certain amount within 20 days, you'll get the award in the amount of <Money> credits. They will explain all the details to you right on the spot."	"Quest,Ski"	"Урад нашай плянэты хоча адкрыць філіял нашай суперпаспяховай сеткі гарналыжных курортаў на плянэце <ToPlanet> сыстэмы <ToStar>. Мы заплянавалі адкрыцьцё курорту на <Date>, але, на жаль, мясцовы кіраўнік пакідае жадаць лепшага. Вас, <Ranger>, як праслаўленага гандляра, мы просім даць яму наглядны ўрок кіраваньня курортам. Калі вы зможаце не больш чым за 20 дзён павялічыць пачатковы капітал да пэўнай сумы, то вы атрымаеце ўзнагароду ў памеры <Money> cr. Усе падрабязнасьці вы даведаецеся на месцы."
+"/quests/Ski.qmm/locations/0/texts/0/text"	"Вы приказали менеджеру по строительству срочно возвести <clr>ресторан<clrEnd>. Через несколько минут вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание, а еще через несколько часов ресторан был готов, и в него зашли первые посетители, довольно причмокивая языком."	"Quest Ski.qmm: locations.0.texts.0.text. Preserve every <tag> exactly. English reference: You gave orders to the construction manager to have <clr>a restaurant<clrEnd> constructed urgently. In a few minutes you looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building, and within a few hours the restaurant constructed and accepted the first clients who entered it smacking with pleasure."	"Quest,Ski"	"Вы загадалі мэнэджэру па будоўлі тэрмінова ўзьвесьці <clr>рэстаран<clrEnd>. Праз некалькі хвілін вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць блёкі і мантаваць будынак, а яшчэ праз некалькі гадзін рэстаран быў гатовы, і ў яго зайшлі першыя наведнікі, даволі прыцмокваючы языком."
+"/quests/Ski.qmm/locations/1/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для профессионалов<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с крутыми спусками и резкими поворотами, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for pros <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with sharp slopes and quick turns was stretching from the top of the ski lift to the very bottom. The tourists began looking on you with a little bit more favour."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr>траса для прафэсіяналаў<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная траса з стромкімі спускамі і рэзкімі паваротамі, а прыхільнасьць да вас турыстаў крыху ўзрасла."
+"/quests/Ski.qmm/locations/2/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для новичков<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная пологая трасса."	"Quest Ski.qmm: locations.2.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for beginners <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr>траса для навічкоў<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная пакатая траса."
+"/quests/Ski.qmm/locations/3/texts/0/text"	"Вы позвали малока и сообщили ему о своем решении построить <clr>гостиницу<clrEnd>. Малок обещал построить ее к вечеру. Вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание. Через несколько часов гостиница была готова."	"Quest Ski.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and told him about your decision to have <clr>a hotel<clrEnd> constructed. He promised to finish the work by night. You looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building. Within a few hours the hotel was built."	"Quest,Ski"	"Вы паклікалі малака і паведамілі яму пра сваё рашэньне пабудаваць <clr>гасьцініцу<clrEnd>. Малок абяцаў пабудаваць яе да вечара. Вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць блёкі і мантаваць будынак. Праз некалькі гадзін гасьцініца была гатовая."
+"/quests/Ski.qmm/locations/4/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>обычная трасса<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с небольшим количеством поворотов, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.4.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>average track <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track with a few turns was stretching from the top of the ski lift to the very bottom. The tourists began looking on you with a little bit more favour."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr>звычайная траса<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная траса з невялікай колькасьцю паваротаў, а прыхільнасьць да вас турыстаў крыху ўзрасла."
+"/quests/Ski.qmm/locations/5/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кресельный подъемник<clrEnd>. Малок сказал, что все будет сделано. Вскоре на площадку въехало несколько машин. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы. Их отношение к вам немного улучшилось."	"Quest Ski.qmm: locations.5.texts.0.text. Preserve every <tag> exactly. English reference: Your invited the Maloq and told him that you needed <clr> a ski lift with chairs <clrEnd> to be constructed urgently. The Maloq promised you to take care of that. Soon several trucks drove onto the site. The workers began taking sections out of them and assembling the lift. Within a few hours the work was finished, and more and more tourists started using the lift. Their opinion of you became a little bit better."	"Quest,Ski"	"Вы паклікалі малака і сказалі, што вам неабходна тэрмінова пабудаваць <clr>крэсельны пад'ёмнік<clrEnd>. Малок сказаў, што ўсё будзе зроблена. Неўзабаве на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць дэталі і мантаваць з іх пад'ёмнік. Праз некалькі гадзін ён быў гатовы, і да яго адразу пацягнуліся ўсё новыя і новыя турысты. Іх стаўленьне да вас крыху палепшылася."
+"/quests/Ski.qmm/locations/6/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кабиночный подъемник<clrEnd>. Малок сказал, что все будет готово через несколько часов. Вы выглянули в окно и заметили, как на площадку въехали машины. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы. Их отношение к вам немного улучшилось."	"Quest Ski.qmm: locations.6.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr> a ski lift with cabins <clrEnd> to be constructed urgently. The Maloq told you that everything would be done in several hours. You looked out of the window and saw several trucks driving onto the site. The workers started taking the sections out of them and assembling the lift. Within a few hours it was finished and more and more tourists began using it. Their opinion of you became a little bit better."	"Quest,Ski"	"Вы паклікалі малака і сказалі, што вам неабходна тэрмінова пабудаваць <clr>кабінны пад'ёмнік<clrEnd>. Малок сказаў, што ўсё будзе гатова праз некалькі гадзін. Вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехалі машыны. Рабочыя сталі хутка разгружаць дэталі і мантаваць з іх пад'ёмнік. Праз некалькі гадзін ён быў гатовы, і да яго адразу пацягнуліся ўсё новыя і новыя турысты. Іх стаўленьне да вас крыху палепшылася."
+"/quests/Ski.qmm/locations/7/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для новичков<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная пологая трасса, а расположение к вам туристов немного возросло."	"Quest Ski.qmm: locations.7.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for beginners <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent soft track was stretching from the top of the ski lift to the very bottom, and the tourists' opinion of you became a little bit better."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr>траса для навічкоў<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная пакатая траса, а прыхільнасьць да вас турыстаў крыху ўзрасла."
+"/quests/Ski.qmm/locations/8/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr>трасса для профессионалов<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с крутыми спусками и резкими поворотами."	"Quest Ski.qmm: locations.8.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr>track for pros <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with sharp slopes and quick turns was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr>траса для прафэсіяналаў<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная траса з стромкімі спускамі і рэзкімі паваротамі."
+"/quests/Ski.qmm/locations/9/texts/0/text"	"Вы сказали малоку, что вам нужна новая <clr> обычная трасса<clrEnd>. Малок отдал распоряжение, и вскоре на горные склоны выехало несколько трассоукладчиков. Через несколько часов от вершины подъемника до самого низа тянулась великолепная трасса с небольшим количеством поворотов."	"Quest Ski.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: You told the Maloq that you needed a new <clr> average track <clrEnd> to be laid. The Maloq gave appropriate orders, and soon several tracklayers appeared on the hillsides. Within a few hours an excellent track with a few turns was stretching from the top of the ski lift to the very bottom."	"Quest,Ski"	"Вы сказалі малаку, што вам патрэбная новая <clr> звычайная траса<clrEnd>. Малок аддаў загад, і неўзабаве на горныя схілы выехала некалькі трасаўкладальнікаў. Праз некалькі гадзін ад вяршыні пад'ёмніка да самага нізу цягнулася выдатная траса з невялікай колькасьцю паваротаў."
+"/quests/Ski.qmm/locations/10/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кресельный подъемник<clrEnd>. Малок сказал, что все будет сделано. Вскоре на площадку въехало несколько машин. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы."	"Quest Ski.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr>a ski lift with chairs <clrEnd> to be constructed urgently. The Maloq promised you to take care of that. Soon several trucks drove onto the site. The workers started taking the sections out of them and assembling the lift quickly. Within a few hours it was finished and more and more tourists began using it."	"Quest,Ski"	"Вы паклікалі малака і сказалі, што вам неабходна тэрмінова пабудаваць <clr>крэсельны пад'ёмнік<clrEnd>. Малок сказаў, што ўсё будзе зроблена. Неўзабаве на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць дэталі і мантаваць з іх пад'ёмнік. Праз некалькі гадзін ён быў гатовы, і да яго адразу пацягнуліся ўсё новыя і новыя турысты."
+"/quests/Ski.qmm/locations/11/texts/0/text"	"Вы позвали малока и сказали, что вам необходимо срочно построить <clr>кабиночный подъемник<clrEnd>. Малок сказал, что все будет готово через несколько часов. Вы выглянули в окно и заметили, как на площадку въехали машины. Рабочие стали быстро разгружать детали и монтировать из них подъемник. Через несколько часов он был готов, и к нему тут же потянулись все новые и новые туристы."	"Quest Ski.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: You invited the Maloq and said that you needed <clr> a ski lift with cabins <clrEnd> to be constructed urgently. The Maloq said the work would be done in several hours. You looked out of the window and noticed trucks driving onto the site. The workers started taking the sections out of them and assembling the lift quickly. Within a few hours it was finished and more and more tourists began using it."	"Quest,Ski"	"Вы паклікалі малака і сказалі, што вам неабходна тэрмінова пабудаваць <clr>кабінны пад'ёмнік<clrEnd>. Малок сказаў, што ўсё будзе гатова праз некалькі гадзін. Вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехалі машыны. Рабочыя сталі хутка разгружаць дэталі і мантаваць з іх пад'ёмнік. Праз некалькі гадзін ён быў гатовы, і да яго адразу пацягнуліся ўсё новыя і новыя турысты."
+"/quests/Ski.qmm/locations/13/texts/0/text"	"Вы приказали менеджеру по строительству срочно возвести <clr>ресторан<clrEnd>. Через несколько минут вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание, а еще через несколько часов ресторан был готов."	"Quest Ski.qmm: locations.13.texts.0.text. Preserve every <tag> exactly. English reference: You gave orders to the construction manager to have <clr>a restaurant<clrEnd> built urgently. In a few minutes you looked out of the window and noticed several trucks driving onto the site. The workers started taking sections out of them and assembling the building quickly, and within several more hours the restaurant was constructed."	"Quest,Ski"	"Вы загадалі мэнэджэру па будоўлі тэрмінова ўзьвесьці <clr>рэстаран<clrEnd>. Праз некалькі хвілін вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць блёкі і мантаваць будынак, а яшчэ праз некалькі гадзін рэстаран быў гатовы."
 "/quests/Ski.qmm/locations/14/texts/0/text"	"В космопорте вас встретил гаалец, исполнявший обязанности генерального менеджера лыжного курорта; теперь, пока генеральным менеджером будете вы, он станет вашим <clr>заместителем<clrEnd>. По дороге в горы он объяснил, что к текущему моменту построен <clr>один подъемник, одна трасса для новичков, одна гостиница и один ресторан<clrEnd>.  Оставшийся после этого на счету капитал равняется <clr>100.000<clrEnd> cr, а ваша цель - набрать <clr>1.000.000<clrEnd> cr.
 
 Место, куда вы приехали, оказалось довольно живописным. Небольшая гостиница и ресторанчик, к которым почти вплотную спускаются горные склоны. Приглядевшись получше, вы заметили небольшой кресельный подъемник и пологую трассу. Рядом с гостиницей располагался небольшой домик, предназначенный для администрации и персонала. Здесь и был ваш офис - как раз рядом со спальней. 
@@ -96,8 +98,12 @@ You failed your mission."	"Quest,Ski"	""
 
 The place where you arrived turned out to be rather picturesque. There was a small hotel and a bistro almost adjoining the hillsides. You looked more attentively and also noticed a small ski lift with chairs and a soft track. There was a tiny administration and personnel building near the hotel. This is where your office is - right near the bedroom.
 
-- Well, the time convenient for construction is already over for today but you could talk to the experts or just have a rest, - the Gaalian said."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/15/texts/0/text"	"С кем вы хотите поговорить?"	"Quest Ski.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: Who do you want to talk to?"	"Quest,Ski"	""
+- Well, the time convenient for construction is already over for today but you could talk to the experts or just have a rest, - the Gaalian said."	"Quest,Ski"	"У касмапорце вас сустрэў гаалец, які выконваў абавязкі генэральнага мэнэджэра лыжнага курорту; цяпер, пакуль генэральным мэнэджэрам будзеце вы, ён стане вашым <clr>намесьнікам<clrEnd>. Па дарозе ў горы ён патлумачыў, што на гэты момант пабудаваны <clr>адзін пад'ёмнік, адна траса для навічкоў, адна гасьцініца і адзін рэстаран<clrEnd>.  Капітал, які застаўся пасьля гэтага на рахунку, роўны <clr>100.000<clrEnd> cr, а вашая мэта - набраць <clr>1.000.000<clrEnd> cr.
+
+Месца, куды вы прыехалі, аказалася даволі маляўнічым. Невялікая гасьцініца і рэстаранчык, да якіх амаль ушчыльную спускаюцца горныя схілы. Прыгледзеўшыся лепей, вы заўважылі невялікі крэсельны пад'ёмнік і пакатую трасу. Поруч з гасьцініцай месьціўся невялікі домік, прызначаны для адміністрацыі і пэрсаналу. Тут і быў ваш офіс - якраз поруч са спальняй. 
+
+- Сёньня будаваць ужо нічога нельга, але вы можаце пагаварыць са спэцыялістамі ці проста адпачыць, - сказаў гаалец."
+"/quests/Ski.qmm/locations/15/texts/0/text"	"С кем вы хотите поговорить?"	"Quest Ski.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: Who do you want to talk to?"	"Quest,Ski"	"З кім вы хочаце пагаварыць?"
 "/quests/Ski.qmm/locations/15/texts/1/text"	"Малок - <clr>менеджер по строительству<clrEnd> - быстро доложил обстановку:
 
 - В день можно возводить до <clr>двух<clrEnd> сооружений. Такую скорость постройки обеспечивает блоковая технология, позволяющая компоновать объекты из уже готовых частей. Мы можем строить следующие сооружения:
@@ -116,7 +122,16 @@ The place where you arrived turned out to be rather picturesque. There was a sma
 4) <clr>Track for pros<clrEnd> - costs <clr>60.000<clrEnd> cr, receives <clr>20<clrEnd> pros. 
 5) <clr>Average track<clrEnd> - costs <clr>45.000<clrEnd> cr, receives <clr>10<clrEnd> beginners and <clr>10<clrEnd> pros. 
 6) <clr>A ski lift with chairs<clrEnd> - costs <clr>80.000<clrEnd> cr, holds <clr>30<clrEnd> people. 
-7)<clr> A ski lift with cabins<clrEnd> - costs <clr>110.000<clrEnd> cr, holds <clr>50<clrEnd> people."	"Quest,Ski"	""
+7)<clr> A ski lift with cabins<clrEnd> - costs <clr>110.000<clrEnd> cr, holds <clr>50<clrEnd> people."	"Quest,Ski"	"Малок - <clr>мэнэджэр па будоўлі<clrEnd> - хутка далажыў абстаноўку:
+
+- У дзень можна ўзводзіць да <clr>двух<clrEnd> збудаваньняў. Такую хуткасьць пабудовы забясьпечвае блёкавая тэхналёгія, што дазваляе кампанаваць аб'екты з ужо гатовых частак. Мы можам будаваць наступныя збудаваньні:
+1) <clr>Гасьцініца<clrEnd> - каштуе <clr>110.000<clrEnd> cr, зьмяшчае <clr>60<clrEnd> асобаў. 
+2) <clr>Рэстаран<clrEnd> - каштуе <clr>80.000<clrEnd> cr, корміць <clr>45<clrEnd> асобаў. 
+3) <clr>Траса для навічкоў<clrEnd> - каштуе <clr>30.000<clrEnd> cr, абслугоўвае <clr>20<clrEnd> навічкоў. 
+4) <clr>Траса для прафэсіяналаў<clrEnd> - каштуе <clr>60.000<clrEnd> cr, абслугоўвае <clr>20<clrEnd> профі. 
+5) <clr>Звычайная траса<clrEnd> - каштуе <clr>45.000<clrEnd> cr, абслугоўвае <clr>10<clrEnd> навічкоў і <clr>10<clrEnd> прафэсіяналаў. 
+6) <clr>Пад'ёмнік крэсельны<clrEnd> - каштуе <clr>80.000<clrEnd> cr, зьмяшчае <clr>30<clrEnd> асобаў. 
+7)<clr> Пад'ёмнік кабінны<clrEnd> - каштуе <clr>110.000<clrEnd> cr, зьмяшчае <clr>50<clrEnd> асобаў."
 "/quests/Ski.qmm/locations/15/texts/2/text"	"Ваш <clr>заместитель<clrEnd> гаалец с удовольствием поделился с вами своим опытом:
 
 - <clr>Гостиницы<clrEnd> нужны, чтобы вы смогли поселить больше народу, а значит получать больше денег. В одной гостинице может жить <clr>60<clrEnd> туристов.  Каждый <clr>ресторан<clrEnd> удовлетворяет потребность <clr>45<clrEnd> туристов в еде. <clr>Кресельный подъемник<clrEnd> способен поднять на гору <clr>30<clrEnd> лыжников, а <clr>кабиночный - 50<clrEnd>. Каждая трасса вмещает до <clr>20<clrEnd> клиентов. Трассы для новичков и для профессионалов обслуживают по <clr>20<clrEnd> новичков и профи соответственно, а обычной трассой пользуются по <clr>10<clrEnd> лыжников из каждой категории. 
@@ -125,7 +140,11 @@ The place where you arrived turned out to be rather picturesque. There was a sma
 
 - You need <clr>hotels<clrEnd> to invite more people and earn more money. One hotel can accommodate <clr>60<clrEnd> tourists.  Every <clr>restaurant<clrEnd> can feed <clr>45<clrEnd> tourists. <clr>A ski lift with chairs<clrEnd> brings <clr>30<clrEnd> skiers up to top of the hill, and <clr> a ski lift with cabins holds 50 people<clrEnd>. Every track receives up to <clr>20<clrEnd> clients. Tracks for beginners and pros receive <clr>20<clrEnd> beginners and pros each, and <clr>10<clrEnd> skiers from each category can use an average track. 
 
-Now about the money. <clr>Track maintenance expenses <clrEnd> include <clr>10.000<clrEnd> cr for each soft track, <clr>15.000<clrEnd> cr for an average track and <clr>20.000<clrEnd> cr for a difficult track per day. Every <clr>beginner<clrEnd> pays us <clr>2.000<clrEnd> cr per day, and every <clr> professional <clrEnd> - <clr>6.000<clrEnd> cr. <clr>Advertising <clrEnd> expenses you define yourself."	"Quest,Ski"	""
+Now about the money. <clr>Track maintenance expenses <clrEnd> include <clr>10.000<clrEnd> cr for each soft track, <clr>15.000<clrEnd> cr for an average track and <clr>20.000<clrEnd> cr for a difficult track per day. Every <clr>beginner<clrEnd> pays us <clr>2.000<clrEnd> cr per day, and every <clr> professional <clrEnd> - <clr>6.000<clrEnd> cr. <clr>Advertising <clrEnd> expenses you define yourself."	"Quest,Ski"	"Ваш <clr>намесьнік<clrEnd> гаалец з ахвотай падзяліўся з вамі сваім досьведам:
+
+- <clr>Гасьцініцы<clrEnd> патрэбныя, каб вы змаглі пасяліць больш народу, а значыць атрымліваць больш грошай. У адной гасьцініцы можа жыць <clr>60<clrEnd> турыстаў.  Кожны <clr>рэстаран<clrEnd> задавальняе патрэбу <clr>45<clrEnd> турыстаў у ежы. <clr>Крэсельны пад'ёмнік<clrEnd> здатны падняць на гару <clr>30<clrEnd> лыжнікаў, а <clr>кабінны - 50<clrEnd>. Кожная траса зьмяшчае да <clr>20<clrEnd> кліентаў. Трасы для навічкоў і для прафэсіяналаў абслугоўваюць па <clr>20<clrEnd> навічкоў і профі адпаведна, а звычайнай трасай карыстаюцца па <clr>10<clrEnd> лыжнікаў з кожнай катэгорыі. 
+
+Цяпер пра грошы. <clr>На ўтрыманьне трасаў<clrEnd> у дзень траціцца па <clr>10.000<clrEnd> cr за кожную лёгкую трасу, па <clr>15.000<clrEnd> cr за звычайную і па <clr>20.000<clrEnd> cr за цяжкую. Кожны <clr>навічок<clrEnd> плаціць нам <clr>2.000<clrEnd> cr у дзень, а <clr>прафэсіянал<clrEnd> - <clr>6.000<clrEnd> cr. Выдаткі <clr>на рэкляму<clrEnd> вы вызначаеце самастойна."
 "/quests/Ski.qmm/locations/15/texts/3/text"	"Фэянин-<clr>бухгалтер<clrEnd> подготовил вам баланс:
 <fix>
 --------------------------------------------------
@@ -148,7 +167,18 @@ Now about the money. <clr>Track maintenance expenses <clrEnd> include <clr>10.00
 <format=left,40>Construction:</format>{[p16]}<clr>.000<clrEnd> cr.
 ---------------------------------------------------
 Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
-</fix>"	"Quest,Ski"	""
+</fix>"	"Quest,Ski"	"Фэянін-<clr>бухгальтар<clrEnd> падрыхтаваў вам балянс:
+<fix>
+--------------------------------------------------
+<format=left,29></format>ДЭБЭТ       КРЭДЫТ
+<format=left,27>Балянс на <CurDate>:</format> {[p15]}<clr>.000<clrEnd> cr.
+<format=left,27>Турысты:</format> {[p7]*2+[p8]*6}<clr>.000 <clrEnd>cr.
+<format=left,40>Утрыманьне трасаў:</format>{[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr.
+<format=left,40>Рэкляма:</format>{10*[p3]}<clr>.000<clrEnd> cr.
+<format=left,40>Будоўля:</format>{[p16]}<clr>.000<clrEnd> cr.
+---------------------------------------------------
+Балянс на заўтра: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
+</fix>"
 "/quests/Ski.qmm/locations/15/texts/4/text"	"Фэянин-<clr>бухгалтер<clrEnd> подготовил вам баланс:
 
 <fix>
@@ -173,7 +203,19 @@ Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10
 <format=left,40>Construction:</format><clr>0<clrEnd> cr.
 ---------------------------------------------------
 Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
-</fix>"	"Quest,Ski"	""
+</fix>"	"Quest,Ski"	"Фэянін-<clr>бухгальтар<clrEnd> падрыхтаваў вам балянс:
+
+<fix>
+--------------------------------------------------
+<format=left,29></format>ДЭБЭТ       КРЭДЫТ
+<format=left,27>Балянс на <CurDate>:</format> {[p15]}<clr>.000<clrEnd> cr.
+<format=left,27>Турысты:</format> {[p7]*2+[p8]*6}<clr>.000 <clrEnd>cr.
+<format=left,40>Утрыманьне трасаў:</format>{[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr.
+<format=left,40>Рэкляма:</format>{10*[p3]}<clr>.000<clrEnd> cr.
+<format=left,40>Будоўля:</format><clr>0<clrEnd> cr.
+---------------------------------------------------
+Балянс на заўтра: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
+</fix>"
 "/quests/Ski.qmm/locations/15/texts/5/text"	"Фэянин-<clr>бухгалтер<clrEnd> подготовил вам баланс:
 
 <fix>
@@ -198,7 +240,19 @@ Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10
 <format=left,40>Construction:</format>{[p16]}<clr>.000<clrEnd> cr.
 ---------------------------------------------------
 Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
-</fix>"	"Quest,Ski"	""
+</fix>"	"Quest,Ski"	"Фэянін-<clr>бухгальтар<clrEnd> падрыхтаваў вам балянс:
+
+<fix>
+--------------------------------------------------
+<format=left,29></format>ДЭБЭТ       КРЭДЫТ
+<format=left,27>Балянс на <CurDate>:</format> {[p15]}<clr>.000<clrEnd> cr.
+<format=left,27>Турысты:</format> {[p7]*2+[p8]*6}<clr>.000 <clrEnd>cr.
+<format=left,40>Утрыманьне трасаў:</format>{[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr.
+<format=left,40>Рэкляма:</format><clr>0<clrEnd> cr.
+<format=left,40>Будоўля:</format>{[p16]}<clr>.000<clrEnd> cr.
+---------------------------------------------------
+Балянс на заўтра: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
+</fix>"
 "/quests/Ski.qmm/locations/15/texts/6/text"	"Фэянин-<clr>бухгалтер<clrEnd> подготовил вам баланс:
 
 <fix>
@@ -223,7 +277,19 @@ Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10
 <format=left,40>Construction:</format><clr>0<clrEnd> cr.
 ---------------------------------------------------
 Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
-</fix>"	"Quest,Ski"	""
+</fix>"	"Quest,Ski"	"Фэянін-<clr>бухгальтар<clrEnd> падрыхтаваў вам балянс:
+
+<fix>
+--------------------------------------------------
+<format=left,29></format>ДЭБЭТ       КРЭДЫТ
+<format=left,27>Балянс на <CurDate>:</format> {[p15]}<clr>.000<clrEnd> cr.
+<format=left,27>Турысты:</format> {[p7]*2+[p8]*6}<clr>.000 <clrEnd>cr.
+<format=left,40>Утрыманьне трасаў:</format>{[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr.
+<format=left,40>Рэкляма:</format><clr>0<clrEnd> cr.
+<format=left,40>Будоўля:</format><clr>0<clrEnd> cr.
+---------------------------------------------------
+Балянс на заўтра: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10*[p3]}<clr>.000<clrEnd> cr
+</fix>"
 "/quests/Ski.qmm/locations/16/texts/0/text"	"Что будем строить? 
 
 1) Гостиница - <clr>110.000<clrEnd> cr
@@ -240,49 +306,73 @@ Balance as of tomorrow: {[p15]+[p7]*2+[p8]*6-[p12]*10-[p13]*15-[p14]*20-[p16]-10
 4) Track for pros - <clr>60.000<clrEnd> cr
 5) Average track - <clr>45.000<clrEnd> cr
 6) A ski lift with chairs - <clr>80.000<clrEnd> cr
-7) A ski lift with cabins - <clr>110.000<clrEnd> cr"	"Quest,Ski"	""
+7) A ski lift with cabins - <clr>110.000<clrEnd> cr"	"Quest,Ski"	"Што будзем будаваць? 
+
+1) Гасьцініца - <clr>110.000<clrEnd> cr
+2) Рэстаран - <clr>80.000<clrEnd> cr
+3) Траса для навічкоў - <clr>30.000<clrEnd> cr
+4) Траса для прафэсіяналаў - <clr>60.000<clrEnd> cr
+5) Звычайная траса - <clr>45.000<clrEnd> cr
+6) Пад'ёмнік крэсельны - <clr>80.000<clrEnd> cr
+7) Пад'ёмнік кабінны - <clr>110.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/17/texts/0/text"	"Вы культурно провели остаток дня в местном баре, благо для вас там все бесплатно. Лишь поздно вечером вы добрели до постели и заснули как убитый. 
 
 Проснувшись утром с легким похмельем, вы привели себя в порядок и отправились в офис, чтобы ознакомиться с текущим положением дел."	"Quest Ski.qmm: locations.17.texts.0.text. Preserve every <tag> exactly. English reference: Being a civilised individual, you spent the rest of the evening in the local bar, thanks to free of charge services. It was very late already when you pottered to your bed and fell asleep like a dog. 
 
-When you woke up in the morning feeling slightly crapulent, you fixed yourself up and went to the office to get acquainted with the current situation."	"Quest,Ski"	""
+When you woke up in the morning feeling slightly crapulent, you fixed yourself up and went to the office to get acquainted with the current situation."	"Quest,Ski"	"Вы культурна правялі рэшту дня ў мясцовым бары, добра што для вас там усё бясплатна. Толькі позна ўвечары вы дабрылі да ложка і заснулі як забіты. 
+
+Прачнуўшыся раніцай з лёгкім пахмельлем, вы прывялі сябе ў парадак і адправіліся ў офіс, каб азнаёміцца з бягучым становішчам справаў."
 "/quests/Ski.qmm/locations/17/texts/1/text"	"А почему бы вам, собственно, не воспользоваться услугами собственного курорта? Выбрав самую легкую трассу, вы надели лыжи и поднялись на вершину горы. Однако, с горы на лыжах ехать - это вам не звездолетом управлять! На первом же повороте вы вылетели с трассы и проделали остаток пути вниз по склону на собственной спине. Это отбило у вас охоту к экстремальным развлечениям до самого вечера. 
 
 На следующее утро вы отправились в офис с ломотой во всем теле. И что, интересно, заставляет туристов приезжать к вам на курорт, да еще и платить за это бешеные деньги?"	"Quest Ski.qmm: locations.17.texts.1.text. Preserve every <tag> exactly. English reference: So, why don't you command the services of your own resort? After choosing the softest track, you put on the skies and rose to the top of the hill. However, mountain skiing is not equal to driving a spaceship! You fell of the track after the first turn and slid the rest of the way down the hill on your back. This incident discouraged you from any extreme entertainment till the evening.
 
-Next morning you went to the office with all your body aching. What makes tourists come to your resort and pay tons of money for that, you wonder?"	"Quest,Ski"	""
+Next morning you went to the office with all your body aching. What makes tourists come to your resort and pay tons of money for that, you wonder?"	"Quest,Ski"	"А чаму б вам, уласна, не скарыстацца паслугамі ўласнага курорту? Выбраўшы самую лёгкую трасу, вы надзелі лыжы і падняліся на вяршыню гары. Аднак, з гары на лыжах ехаць - гэта вам не зоркалётам кіраваць! На першым жа павароце вы вылецелі з трасы і прарабілі рэшту шляху ўніз па схіле на ўласнай сьпіне. Гэта адбіла ў вас ахвоту да экстрэмальных забаў да самага вечара. 
+
+На наступную раніцу вы адправіліся ў офіс з болем ва ўсім целе. І што, цікава, прымушае турыстаў прыяжджаць да вас на курорт, ды яшчэ й плаціць за гэта шалёныя грошы?"
 "/quests/Ski.qmm/locations/17/texts/2/text"	"Вы отправились к себе в спальню и весь остаток дня смотрели стереовизор. Ну надо же - в секторе Перец поднялись цены на малокские табуретки! Эх, какие деньги можно было бы сделать, если бы вы не застряли на этой чертовой планетке!
 
 В расстроенных чувствах вы легли спать. Впрочем, утром вы уже сидели за своим рабочим столом и утешали себя тем, что <Money> cr, обещанные вам правительством планеты <FromPlanet>, - тоже неплохая сумма."	"Quest Ski.qmm: locations.17.texts.2.text. Preserve every <tag> exactly. English reference: You went to your bedroom and spent the rest of the evening watching stereoTV. There - they raised the Maloq stool market in the Pepper sector! Heh, what a bargain it could have been if you hadn't been marooned on this damn piece of planet!
 
-You went to bed completely upset. However, in the morning you sat at your desk in the office trying to console yourself with the thought that <Money> cr promised by the <FromPlanet> government are good money too."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/17/texts/3/text"	"Весь остаток дня вы смотрели, как туристы съезжают на лыжах с горы. Все-таки вы делаете большое, полезное дело! Ободренные этой нехитрой мыслью, вы легли спать, а наутро отправились в офис с желанием превратить свой курорт в лучшее место во Вселенной!"	"Quest Ski.qmm: locations.17.texts.3.text. Preserve every <tag> exactly. English reference: The rest of the day you watched the tourists sliding downhill on their skies. Whatever might happen, your business is great and rewarding! Reassured by such a simple thought, you went to bed and in the morning ran to the office with a strong desire to make your resort the best place in the Galaxy!"	"Quest,Ski"	""
+You went to bed completely upset. However, in the morning you sat at your desk in the office trying to console yourself with the thought that <Money> cr promised by the <FromPlanet> government are good money too."	"Quest,Ski"	"Вы адправіліся да сябе ў спальню і ўсю рэшту дня глядзелі стэрэавізар. Ну трэба ж - у сэктары Перац падняліся цэны на малокскія табурэткі! Эх, якія грошы можна было б зрабіць, калі б вы не заселі на гэтай чортавай плянэтцы!
+
+У засмучаных пачуцьцях вы леглі спаць. Зрэшты, раніцай вы ўжо сядзелі за сваім працоўным сталом і суцяшалі сябе тым, што <Money> cr, абяцаныя вам урадам плянэты <FromPlanet>, - таксама нядрэнная сума."
+"/quests/Ski.qmm/locations/17/texts/3/text"	"Весь остаток дня вы смотрели, как туристы съезжают на лыжах с горы. Все-таки вы делаете большое, полезное дело! Ободренные этой нехитрой мыслью, вы легли спать, а наутро отправились в офис с желанием превратить свой курорт в лучшее место во Вселенной!"	"Quest Ski.qmm: locations.17.texts.3.text. Preserve every <tag> exactly. English reference: The rest of the day you watched the tourists sliding downhill on their skies. Whatever might happen, your business is great and rewarding! Reassured by such a simple thought, you went to bed and in the morning ran to the office with a strong desire to make your resort the best place in the Galaxy!"	"Quest,Ski"	"Усю рэшту дня вы глядзелі, як турысты з'язджаюць на лыжах з гары. Усё-такі вы робіце вялікую, карысную справу! Падбадзёраныя гэтай няхітрай думкай, вы леглі спаць, а на раніцу адправіліся ў офіс з жаданьнем ператварыць свой курорт у найлепшае месца ва Ўсясьвеце!"
 "/quests/Ski.qmm/locations/17/texts/4/text"	"Сегодня вы решили сыграть в карты с собственным заместителем, и после нескольких часов проиграли ему <clr>1.000<clrEnd> cr. Да, не зря говорят - с гаальцами и пеленгами в карты лучше не играть! Делать нечего - пришлось выписать заместителю премию на указанную сумму. Не будете же вы платить ему проигрыш из собственного кармана?!
 
 Понятно, что утром, когда вы вернулись в свой офис, настроение у вас было препаршивейшее."	"Quest Ski.qmm: locations.17.texts.4.text. Preserve every <tag> exactly. English reference: Today you decided to play cards with your deputy and within several hours lost <clr>1.000<clrEnd> cr. Well, they are right warning that one should better avoid playing cards with Gaalians or Pelengs! Anyway, you had nothing else to do but to sign papers for his bonus in the amount of the lost money. It would be absolutely unwise to pay him from your own pocket!
 
-No wonder that your mood was far from being good when you came to the office in the morning."	"Quest,Ski"	""
+No wonder that your mood was far from being good when you came to the office in the morning."	"Quest,Ski"	"Сёньня вы вырашылі згуляць у карты з уласным намесьнікам, і пасьля некалькіх гадзін прайгралі яму <clr>1.000<clrEnd> cr. Так, не дарма кажуць - з гаальцамі і пеленгамі ў карты лепей не гуляць! Рабіць няма чаго - давялося выпісаць намесьніку прэмію на названую суму. Не будзеце ж вы плаціць яму пройгрыш з уласнай кішэні?!
+
+Зразумела, што раніцай, калі вы вярнуліся ў свой офіс, настрой у вас быў найгоршы."
 "/quests/Ski.qmm/locations/17/texts/5/text"	"Вы попросили своего заместителя прокатить вас по окрестностям на своем аэрокаре. Надо отметить, что с высоты птичьего полета ваш курорт выглядит еще красивее, чем внизу. Ну разве можно не любить такое славное местечко?!
 
 Благодаря этим хорошим впечатлениям, вы наутро принялись за работу с удвоенной энергией!"	"Quest Ski.qmm: locations.17.texts.5.text. Preserve every <tag> exactly. English reference: You asked your deputy to give you a ride around the neighbourhood on his aerocar. One should mention that your resort looks even more beautiful from the bird's-eye view. Is it possible at all to dislike such a nice place?!
 
-Due to these good impressions, in the morning you got to work with increased enthusiasm!"	"Quest,Ski"	""
+Due to these good impressions, in the morning you got to work with increased enthusiasm!"	"Quest,Ski"	"Вы папрасілі свайго намесьніка пракаціць вас па ваколіцах на сваім аэракары. Трэба зазначыць, што з вышыні птушынага палёту ваш курорт выглядае яшчэ прыгажэй, чым унізе. Ну хіба можна не любіць такое слаўнае месцачка?!
+
+Дзякуючы гэтым добрым уражаньням, вы на раніцу ўзяліся за працу з падвоенай энэргіяй!"
 "/quests/Ski.qmm/locations/17/texts/6/text"	"Весь остаток дня вы изнывали от скуки. И чего только эти тупые туристы находят в такой дыре как ваш курорт?! Все-таки настоящему космическому волку никогда не понять этих планетных жителей...
 
 Наконец вы завалились спать и проспали до полудня. И правильно - нечего космическому рейнджеру вставать ни свет ни заря ради каких-то никчемных туристов! В офисе вас уже давно ждал отчет за минувшие сутки."	"Quest Ski.qmm: locations.17.texts.6.text. Preserve every <tag> exactly. English reference: The rest of the day you were yawning your life away. What fun do these dull tourists find in such a poky hole of a place as your resort?! Indeed, a true space ace will never understand these planet inhabitants...
 
-You hit the hay at last and slept till the midday. And that was right - a space ranger doesn't have to wake up in the small hours for absolutely useless tourists! The report as of the previous day had already been waiting for you in the office for a long time."	"Quest,Ski"	""
+You hit the hay at last and slept till the midday. And that was right - a space ranger doesn't have to wake up in the small hours for absolutely useless tourists! The report as of the previous day had already been waiting for you in the office for a long time."	"Quest,Ski"	"Усю рэшту дня вы зьнемагалі ад нуды. І чаго толькі гэтыя тупыя турысты знаходзяць у такой дзіры як ваш курорт?! Усё-такі сапраўднаму касьмічнаму ваўку ніколі не зразумець гэтых плянэтных жыхароў...
+
+Нарэшце вы заваліліся спаць і праспалі да поўдня. І слушна - няма чаго касьмічнаму рэйнджэру ўставаць ні сьвет ні зара дзеля нейкіх нікчэмных турыстаў! У офісе вас ужо даўно чакала справаздача за мінулыя суткі."
 "/quests/Ski.qmm/locations/17/texts/7/text"	"Вы весь день лазили по планетной компьютерной сети. Надо же, а на соседнем курорте с профессионалов дерут по 7 тысяч в день! Правда и популярность тамошнего курорта значительно ниже чем у вас. Жаль, что вы не имеете право менять жестко установленные планетой <FromPlanet> цены на путевки...
 
 Утром, наспех позавтракав, вы пошли в свой офис разбираться с делами вашего курорта."	"Quest Ski.qmm: locations.17.texts.7.text. Preserve every <tag> exactly. English reference: You spent the whole day searching in the planet web net. There, they soak professionals at the neighbouring resort charging 7 thousands per day! Though their popularity is much lower than yours. It's a pity you don't have the right to change the hard and fast tour prices specified by the <FromPlanet> planet...
 
-You grabbed your breakfast in the morning and went to the office to solve your resort's problems."	"Quest,Ski"	""
+You grabbed your breakfast in the morning and went to the office to solve your resort's problems."	"Quest,Ski"	"Вы ўвесь дзень лазілі па плянэтнай кампутарнай сетцы. Трэба ж, а на суседнім курорце з прафэсіяналаў драць па 7 тысяч у дзень! Праўда і папулярнасьць тамашняга курорту значна ніжэйшая чым у вас. Шкада, што вы ня маеце права мяняць жорстка ўсталяваныя плянэтай <FromPlanet> цэны на пуцёўкі...
+
+Раніцай, насьпех пасьнедаўшы, вы пайшлі ў свой офіс разьбірацца са справамі вашага курорту."
 "/quests/Ski.qmm/locations/17/texts/8/text"	"Сегодня вы неожиданно для себя разговорились с менеджером по строительству. И что же - оказалось, что в молодости малок тоже был рейнджером! Но однажды ему дали задание построить малокский форпост на незаселенной планете, и это занятие ему так понравилось, что он переквалифицировался в строители.
 
 Вы весь вечер обменивались воспоминаниями о рейнджерской жизни и остались вполне довольны как друг другом, так и проведенным временем. Утром вы взялись за управление курортом с новыми силами."	"Quest Ski.qmm: locations.17.texts.8.text. Preserve every <tag> exactly. English reference: Today you found yourself falling into talk with your construction manager. And it turned out that he used to be a ranger in his youth too! But once he got a mission to construct a Maloq outpost on an uninhibited planet. He liked this kind of work so much that decided to change his profession and become a constructor.
 
-You spent all evening exchanging your reminiscences about the life of a ranger and parted completely satisfied with each other and the time spent together. In the morning you acted with renewed energy."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/17/texts/9/text"	"Не успели вы спуститься в бар для заслуженного отдыха, как вас перехватил какой-то шустрый пеленг, оказавшийся местным журналистом. Весь вечер вам пришлось давать ему интервью и поить его пивом за счет отеля. Но зато пеленг, по всей видимости, остался доволен вами и написал хорошую статью, так как, вернувшись утром в офис, вы узнали, что <clr>популярность курорта немного возросла<clrEnd>."	"Quest Ski.qmm: locations.17.texts.9.text. Preserve every <tag> exactly. English reference: No sooner had you come down to the bar for the deserved rest than some nimble Peleng who turned out to be a local journalist waylaid you. You had to spend all evening being interviewed and buying him beer on the house. But then the Peleng seemed to be pleased and wrote a nice article because when you came to the office in the morning, you found out that <clr>the resort's popularity increased a little bit <clrEnd>."	"Quest,Ski"	""
+You spent all evening exchanging your reminiscences about the life of a ranger and parted completely satisfied with each other and the time spent together. In the morning you acted with renewed energy."	"Quest,Ski"	"Сёньня вы нечакана для сябе разгаварыліся з мэнэджэрам па будоўлі. І што ж - выявілася, што ў маладосьці малок таксама быў рэйнджэрам! Але аднойчы яму далі заданьне пабудаваць малокскі фарпост на незаселенай плянэце, і гэтае заняцьце яму так спадабалася, што ён перакваліфікаваўся ў будаўнікі.
+
+Вы ўвесь вечар абменьваліся ўспамінамі пра рэйнджэрскае жыцьцё і засталіся цалкам задаволеныя як адзін адным, так і праведзеным часам. Раніцай вы ўзяліся за кіраваньне курортам з новымі сіламі."
+"/quests/Ski.qmm/locations/17/texts/9/text"	"Не успели вы спуститься в бар для заслуженного отдыха, как вас перехватил какой-то шустрый пеленг, оказавшийся местным журналистом. Весь вечер вам пришлось давать ему интервью и поить его пивом за счет отеля. Но зато пеленг, по всей видимости, остался доволен вами и написал хорошую статью, так как, вернувшись утром в офис, вы узнали, что <clr>популярность курорта немного возросла<clrEnd>."	"Quest Ski.qmm: locations.17.texts.9.text. Preserve every <tag> exactly. English reference: No sooner had you come down to the bar for the deserved rest than some nimble Peleng who turned out to be a local journalist waylaid you. You had to spend all evening being interviewed and buying him beer on the house. But then the Peleng seemed to be pleased and wrote a nice article because when you came to the office in the morning, you found out that <clr>the resort's popularity increased a little bit <clrEnd>."	"Quest,Ski"	"Не пасьпелі вы спусьціцца ў бар дзеля заслужанага адпачынку, як вас перахапіў нейкі спрытны пеленг, які аказаўся мясцовым журналістам. Увесь вечар вам давялося даваць яму інтэрвію і паіць яго півам за кошт гатэлю. Але затое пеленг, па ўсім відаць, застаўся задаволены вамі і напісаў добры артыкул, бо, вярнуўшыся раніцай у офіс, вы даведаліся, што <clr>папулярнасьць курорту крыху ўзрасла<clrEnd>."
 "/quests/Ski.qmm/locations/18/texts/0/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -309,7 +399,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/1/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -336,7 +439,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/2/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -363,7 +479,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/3/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -390,7 +519,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/4/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -417,7 +559,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/5/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -444,7 +599,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/6/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -471,7 +639,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/18/texts/7/text"	"Сегодня <CurDate>, [p23]-й день вашего руководства курортом. Осталось дней: {20-[p23]}.
 
 Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -498,7 +679,20 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>, [p23]-ы дзень вашага кіраваньня курортам. Засталося дзён: {20-[p23]}.
+
+Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/20/texts/0/text"	"<clr>Рекламой<clrEnd> курорта занимался веселый молодой человек. Его доклад звучал так:
 
 - <clr>Популярность<clrEnd> курорта в настоящее время равна [p1]%. От популярности зависит приток клиентов; кроме того, <clr>если популярность упадет до 0, курорт могут закрыть<clrEnd>! 
@@ -515,8 +709,16 @@ Any new structure adds <clr>2-5<clrEnd>% to the popularity, and if this structur
 
 Besides, the resort's popularity loses <clr>5-10<clrEnd>% per day just for no reason. This is why it needs advertising. Every <clr>10.000<clrEnd> cr. spent on advertising per day, add <clr>2-5<clrEnd>% to the resort's popularity. Unfortunately, <ToPlanet>, regulations won't let us spend more then <clr>50.000<clrEnd> cr per day on advertising.
 
-The current advertising expenses are equal to [p3]<clr>0.000<clrEnd> cr per day."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/20/texts/1/text"	"- Будет сделано! - сказал менеджер по рекламе. - Текущие расходы на рекламу равны [p3]<clr>0.000<clrEnd> cr в день."	"Quest Ski.qmm: locations.20.texts.1.text. Preserve every <tag> exactly. English reference: - Can do! - the advertising manager said. - The current advertising expenses are equal to [p3]<clr>0.000<clrEnd> cr per day."	"Quest,Ski"	""
+The current advertising expenses are equal to [p3]<clr>0.000<clrEnd> cr per day."	"Quest,Ski"	"<clr>Рэклямай<clrEnd> курорту займаўся вясёлы малады чалавек. Ягоны даклад гучаў так:
+
+- <clr>Папулярнасьць<clrEnd> курорту ў цяперашні час роўная [p1]%. Ад папулярнасьці залежыць прыток кліентаў; апроч таго, <clr>калі папулярнасьць упадзе да 0, курорт могуць закрыць<clrEnd>! 
+
+Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які з'ехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія з'язджаюць, бываюць незадаволеныя.
+
+Апроч таго, папулярнасьць курорту падае на <clr>5-10<clrEnd>% у дзень сама па сабе. Таму курорту патрэбная рэкляма. Кожныя патрачаныя на рэкляму <clr>10.000<clrEnd> cr у дзень павялічваюць папулярнасьць курорту на <clr>2-5<clrEnd>%. На жаль, законы плянэты <ToPlanet> забараняюць траціць на рэкляму больш за <clr>50.000<clrEnd> cr у дзень.
+
+Бягучыя выдаткі на рэкляму роўныя [p3]<clr>0.000<clrEnd> cr у дзень."
+"/quests/Ski.qmm/locations/20/texts/1/text"	"- Будет сделано! - сказал менеджер по рекламе. - Текущие расходы на рекламу равны [p3]<clr>0.000<clrEnd> cr в день."	"Quest Ski.qmm: locations.20.texts.1.text. Preserve every <tag> exactly. English reference: - Can do! - the advertising manager said. - The current advertising expenses are equal to [p3]<clr>0.000<clrEnd> cr per day."	"Quest,Ski"	"- Будзе зроблена! - сказаў мэнэджэр па рэкляме. - Бягучыя выдаткі на рэкляму роўныя [p3]<clr>0.000<clrEnd> cr у дзень."
 "/quests/Ski.qmm/locations/20/texts/2/text"	"<clr>Рекламой<clrEnd> курорта занимался веселый молодой человек. Его доклад звучал так:
 
 - <clr>Популярность<clrEnd> курорта в настоящее время равна [p1]%. От популярности зависит приток клиентов; кроме того, <clr>если популярность упадет до 0, курорт могут закрыть<clrEnd>! 
@@ -533,8 +735,16 @@ Any new structure adds <clr>2-5<clrEnd>% to the popularity, and if this structur
 
 Besides, the resort's popularity loses <clr>5-10<clrEnd>% per day just for no reason. This is why it needs advertising. Every <clr>10.000<clrEnd> cr. spent on advertising per day, add <clr>3-5<clrEnd>% to the resort's popularity. Unfortunately, <ToPlanet>, regulations won't let us spend more then <clr>50.000<clrEnd> cr per day on advertising.
 
-The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/20/texts/3/text"	"- Будет сделано! - сказал менеджер по рекламе. - Текущие расходы на рекламу равны <clr>0<clrEnd> cr в день."	"Quest Ski.qmm: locations.20.texts.3.text. Preserve every <tag> exactly. English reference: - Can do! - the advertising manager said. - The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest,Ski"	""
+The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest,Ski"	"<clr>Рэклямай<clrEnd> курорту займаўся вясёлы малады чалавек. Ягоны даклад гучаў так:
+
+- <clr>Папулярнасьць<clrEnd> курорту ў цяперашні час роўная [p1]%. Ад папулярнасьці залежыць прыток кліентаў; апроч таго, <clr>калі папулярнасьць упадзе да 0, курорт могуць закрыць<clrEnd>! 
+
+Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які з'ехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія з'язджаюць, бываюць незадаволеныя.
+
+Апроч таго, папулярнасьць курорту падае на <clr>5-10<clrEnd>% у дзень сама па сабе. Таму курорту патрэбная рэкляма. Кожныя патрачаныя на рэкляму <clr>10.000<clrEnd> cr у дзень павялічваюць папулярнасьць курорту на <clr>3-5<clrEnd>%. На жаль, законы плянэты <ToPlanet> забараняюць траціць на рэкляму больш за <clr>50.000<clrEnd> cr у дзень.
+
+Бягучыя выдаткі на рэкляму роўныя <clr>0<clrEnd> cr у дзень."
+"/quests/Ski.qmm/locations/20/texts/3/text"	"- Будет сделано! - сказал менеджер по рекламе. - Текущие расходы на рекламу равны <clr>0<clrEnd> cr в день."	"Quest Ski.qmm: locations.20.texts.3.text. Preserve every <tag> exactly. English reference: - Can do! - the advertising manager said. - The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest,Ski"	"- Будзе зроблена! - сказаў мэнэджэр па рэкляме. - Бягучыя выдаткі на рэкляму роўныя <clr>0<clrEnd> cr у дзень."
 "/quests/Ski.qmm/locations/22/texts/0/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -547,7 +757,13 @@ The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest
  The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people.
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients.
-The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	""
+The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў.
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў.
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў."
 "/quests/Ski.qmm/locations/22/texts/1/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -560,7 +776,13 @@ The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people. <clr>Restaurants are lacking!<clrEnd>
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients.
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў. <clr>Рэстаранаў не хапае!<clrEnd>
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў.
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў."
 "/quests/Ski.qmm/locations/22/texts/2/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -573,7 +795,13 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people.
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients. <clr>Ski lifts are lacking!<clrEnd>
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў.
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў. <clr>Пад'ёмнікаў не хапае!<clrEnd>
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў."
 "/quests/Ski.qmm/locations/22/texts/3/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -586,7 +814,13 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people. <clr>Restaurants are lacking!<clrEnd>
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients. <clr>Ski lifts are lacking!<clrEnd>
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў. <clr>Рэстаранаў не хапае!<clrEnd>
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў. <clr>Пад'ёмнікаў не хапае!<clrEnd>
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў."
 "/quests/Ski.qmm/locations/22/texts/4/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -599,7 +833,13 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros."
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people.
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients.
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў.
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў.
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў. <clr>Трасаў не хапае!<clrEnd>"
 "/quests/Ski.qmm/locations/22/texts/5/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -612,7 +852,13 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. 
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people. <clr>Restaurants are lacking!<clrEnd>
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients.
-The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	""
+The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў. <clr>Рэстаранаў не хапае!<clrEnd>
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў.
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў. <clr>Трасаў не хапае!<clrEnd>"
 "/quests/Ski.qmm/locations/22/texts/6/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -625,7 +871,13 @@ The tracks receive {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people.
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients. <clr>Ski lifts are lacking!<clrEnd>
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr>Tracks are lacking!<clrEnd>"	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў.
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў. <clr>Пад'ёмнікаў не хапае!<clrEnd>
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў. <clr>Трасаў не хапае!<clrEnd>"
 "/quests/Ski.qmm/locations/22/texts/7/text"	"<clr>Экономистом<clrEnd> был необъятных размеров человек, который быстро и по-деловому доложил обстановку:
 
 - В настоящее время на базе отдыхает туристов: {[p7]+[p8]}  (новичков: [p7];  профессионалов: [p8]).
@@ -638,19 +890,29 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. 
 The hotels are {5*([p7]+[p8])/[p4]/3} % full.
 The restaurants serve {45*[p5]} people. <clr>Restaurants are lacking!<clrEnd>
 The number of ski lifts is enough to hold {30*[p10]+50*[p11]} clients. <clr>Ski lifts are lacking!<clrEnd>
-The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr> Tracks are lacking!<clrEnd>"	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/24/texts/0/text"	"Вы позвали малока и сообщили ему о своем решении построить <clr>гостиницу<clrEnd>. Малок обещал построить ее к вечеру. Вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание. Через несколько часов гостиница была готова, и к ней вскоре подъехали несколько машин с новыми туристами."	"Quest Ski.qmm: locations.24.texts.0.text. Preserve every <tag> exactly. English reference: You called the Maloq and told him about your decision to have <clr>a hotel<clrEnd> constructed. The Maloq promised to finish the work by night. You looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building. Within a few hours the hotel was ready to accommodate clients and soon several cars with new tourists slid up to it."	"Quest,Ski"	""
-"/quests/Ski.qmm/locations/29/texts/0/text"	"Время, выделенное вам планетой <FromPlanet> на раскрутку курорта и зарабатывание миллиона, истекло. Вы не смогли заработать требуемую сумму и тем самым <clr>провалили<clrEnd> свою миссию."	"Quest Ski.qmm: locations.29.texts.0.text. Preserve every <tag> exactly. English reference: The time <FromPlanet>had given to you to make the resort more popular and to earn one million ran out. You didn't manage to earn the required amount and thereby <clr>failed<clrEnd> your mission."	"Quest,Ski"	""
+The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. <clr> Tracks are lacking!<clrEnd>"	"Quest,Ski"	"<clr>Эканамістам<clrEnd> быў чалавек велізарных памераў, які хутка і дзелавіта далажыў абстаноўку:
+
+- У цяперашні момант на базе адпачывае турыстаў: {[p7]+[p8]}  (навічкоў: [p7];  прафэсіяналаў: [p8]).
+Гасьцініцы запоўненыя на {5*([p7]+[p8])/[p4]/3} %.
+Рэстараны абслугоўваюць {45*[p5]} асобаў. <clr>Рэстаранаў не хапае!<clrEnd>
+Пад'ёмнікаў хопіць для {30*[p10]+50*[p11]} кліентаў. <clr>Пад'ёмнікаў не хапае!<clrEnd>
+Трасы зьмяшчаюць {20*[p12]+10*[p13]} навічкоў і {20*[p14]+10*[p13]} прафэсіяналаў. <clr>Трасаў не хапае!<clrEnd>"
+"/quests/Ski.qmm/locations/24/texts/0/text"	"Вы позвали малока и сообщили ему о своем решении построить <clr>гостиницу<clrEnd>. Малок обещал построить ее к вечеру. Вы выглянули в окно и заметили, как на площадку въехало несколько машин. Рабочие стали быстро разгружать блоки и монтировать здание. Через несколько часов гостиница была готова, и к ней вскоре подъехали несколько машин с новыми туристами."	"Quest Ski.qmm: locations.24.texts.0.text. Preserve every <tag> exactly. English reference: You called the Maloq and told him about your decision to have <clr>a hotel<clrEnd> constructed. The Maloq promised to finish the work by night. You looked out of the window and saw several trucks driving onto the site. The workers began taking sections out of them and assembling the building. Within a few hours the hotel was ready to accommodate clients and soon several cars with new tourists slid up to it."	"Quest,Ski"	"Вы паклікалі малака і паведамілі яму пра сваё рашэньне пабудаваць <clr>гасьцініцу<clrEnd>. Малок абяцаў пабудаваць яе да вечара. Вы выглянулі ў вакно і заўважылі, як на пляцоўку ўехала некалькі машын. Рабочыя сталі хутка разгружаць блёкі і мантаваць будынак. Праз некалькі гадзін гасьцініца была гатовая, і да яе неўзабаве пад'ехалі некалькі машын з новымі турыстамі."
+"/quests/Ski.qmm/locations/29/texts/0/text"	"Время, выделенное вам планетой <FromPlanet> на раскрутку курорта и зарабатывание миллиона, истекло. Вы не смогли заработать требуемую сумму и тем самым <clr>провалили<clrEnd> свою миссию."	"Quest Ski.qmm: locations.29.texts.0.text. Preserve every <tag> exactly. English reference: The time <FromPlanet>had given to you to make the resort more popular and to earn one million ran out. You didn't manage to earn the required amount and thereby <clr>failed<clrEnd> your mission."	"Quest,Ski"	"Час, выдзелены вам плянэтай <FromPlanet> на раскрутку курорту і зарабляньне мільёна, мінуў. Вы не змаглі зарабіць патрэбную суму і тым самым <clr>правалілі<clrEnd> сваю місію."
 "/quests/Ski.qmm/locations/30/texts/0/text"	"Проверив содержимое счета курорта, вы к своей неописуемой радости обнаружили, что на нем больше <clr>1.000.000<clrEnd> cr! Ваша миссия выполнена! Вы показали менеджерам планеты <ToPlanet>, как надо работать. Уже отправляясь в космопорт, вы встретились со своим заместителем.
 
 - Руководство планеты <FromPlanet> восхищено вашим профессионализмом, <Ranger>, и хочет предложить вам продление контракта. Вашей задачей будет заработать <clr>10.000.000<clrEnd> cr, но уже без всяких ограничений по времени. Если вы сможете выполнить это задание, то вдобавок к сумме в <Money> cr мы выплатим вам неплохую премию прямо здесь. Разумеется, вы в любой момент сможете отказаться от этого дополнительного задания. Ну как, согласны?"	"Quest Ski.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: You checked the resort's account and was completely happy to find out that there were more than <clr>1.000.000<clrEnd> cr there! Your mission was complete! You demonstrated to the managers from <ToPlanet> how any work should be done. Being ready to leave for the spaceport, you met your deputy.
 
-- The <FromPlanet> authorities are impressed by your professionalism, <Ranger>, and want to renew the contract with you. Your new task will be to earn <clr>10.000.000<clrEnd> cr. but this time no time frames will be set. If you complete this mission successfully, we'll pay you a nice bonus right here in addition to <Money> cr. Of course, you may refuse to complete this additional mission at any time. Is it a deal?"	"Quest,Ski"	""
+- The <FromPlanet> authorities are impressed by your professionalism, <Ranger>, and want to renew the contract with you. Your new task will be to earn <clr>10.000.000<clrEnd> cr. but this time no time frames will be set. If you complete this mission successfully, we'll pay you a nice bonus right here in addition to <Money> cr. Of course, you may refuse to complete this additional mission at any time. Is it a deal?"	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>1.000.000<clrEnd> cr! Вашая місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Ужо адпраўляючыся ў касмапорт, вы сустрэліся са сваім намесьнікам.
+
+- Кіраўніцтва плянэты <FromPlanet> у захапленьні ад вашага прафэсіяналізму, <Ranger>, і хоча прапанаваць вам падаўжэньне кантракту. Вашай задачай будзе зарабіць <clr>10.000.000<clrEnd> cr, але ўжо без усялякіх абмежаваньняў па часе. Калі вы зможаце выканаць гэтае заданьне, то ў дадатак да сумы ў <Money> cr мы выплацім вам нядрэнную прэмію проста тут. Зразумела, вы ў любы момант зможаце адмовіцца ад гэтага дадатковага заданьня. Ну як, згодныя?"
 "/quests/Ski.qmm/locations/31/texts/0/text"	"Проверив содержимое счета курорта, вы к своей неописуемой радости обнаружили, что на нем больше <clr>10.000.000<clrEnd> cr! Ваша миссия выполнена! Вы показали менеджерам планеты <ToPlanet>, как надо работать. Заместитель торжественно выдал вам премию в <clr>10.000<clrEnd> cr. Ваш счет теперь равен [p21] cr! И надо еще слетать на планету <FromPlanet> за своим гонораром в <Money> cr.
 
 В общем, вы неплохо заработали на этой планетке, надо отметить! ""Может быть, стоит переквалифицироваться в управляющие?"" - думали вы, возвращаясь в космопорт."	"Quest Ski.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: You checked the resort's account and was completely happy to find out that there were more than <clr>1.000.000<clrEnd> cr there! Your mission was complete! You demonstrated to the managers from <ToPlanet> how any work should be done. With all the ceremony the deputy handed your bonus in the amount of <clr>10.000<clrEnd> cr. to you. There are [p21] cr on your account now! Also you need to visit the <FromPlanet> planet and get your fee in the amount of <Money> cr.
 
-All in all, you earned good money on this piece of planet, didn't you? ""Should I really change the profession and become a manager?"" - you thought returning to the spaceport."	"Quest,Ski"	""
+All in all, you earned good money on this piece of planet, didn't you? ""Should I really change the profession and become a manager?"" - you thought returning to the spaceport."	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>10.000.000<clrEnd> cr! Вашая місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Намесьнік урачыста выдаў вам прэмію ў <clr>10.000<clrEnd> cr. Ваш рахунак цяпер роўны [p21] cr! І трэба яшчэ зьлятаць на плянэту <FromPlanet> па свой ганарар у <Money> cr.
+
+Увогуле, вы нядрэнна зарабілі на гэтай плянэтцы, трэба зазначыць! ""Можа, варта перакваліфікавацца ў кіраўнікі?"" - думалі вы, вяртаючыся ў касмапорт."
 "/quests/Ski.qmm/locations/32/texts/0/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -673,7 +935,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/1/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -696,7 +969,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/2/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -719,7 +1003,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/3/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -742,7 +1037,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/4/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -765,7 +1071,18 @@ Money received:
 Money spent on 
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/5/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -788,7 +1105,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: {([p18]*6)}<clr>.000<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/6/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -811,7 +1139,18 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: <clr>0<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/32/texts/7/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
 
 Новички - <clr>было<clrEnd>: [p17], <clr>уехало<clrEnd>: [p6], <clr>приехало<clrEnd>: [p9], <clr>сейчас<clrEnd>: [p7]. 
@@ -834,61 +1173,74 @@ Money received:
 Money spent on:
 <clr>track maintenance<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
-Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	""
+Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
+
+Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+
+Атрымана грошай 
+<clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
+<clr>ад прафэсіяналаў<clrEnd>: <clr>0<clrEnd> cr
+Патрачана грошай
+<clr>на ўтрыманьне трасаў<clrEnd>: {[p12]*10+[p13]*15+[p14]*20}<clr>.000<clrEnd> cr
+<clr>на рэкляму<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
+Грошай на рахунку: [p2]<clr>.000<clrEnd> cr"
 "/quests/Ski.qmm/locations/33/texts/0/text"	"Хватит с вас этих отелей, лыжников и вообще планеты. Вам пора в космос! Тем более что еще надо слетать на планету <FromPlanet> за своим гонораром в <Money> cr.
 
 А все-таки вы показали этим местным дельцам, как надо управлять отелем! ""Может быть, стоит ближе к старости переквалифицироваться в управляющие?"" - думали вы, возвращаясь в космопорт."	"Quest Ski.qmm: locations.33.texts.0.text. Preserve every <tag> exactly. English reference: You've had you fill of these hotels, skiers and the whole planet. It's time to get back to the space! The more so because you need to visit <FromPlanet> to get your <Money> cr fee.
 
-And still you demonstrated to the local businessmen how to manage the hotel! ""Should I really change the profession when I'm older and become a supervisor?"" - you thought returning to the spaceport."	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/0/text"	"Построить ресторан"	"Quest Ski.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Build a restaurant"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/1/text"	"Построить гостиницу"	"Quest Ski.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Build a hotel"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/2/text"	"Построить трассу для новичков"	"Quest Ski.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Lay a track for beginners"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/3/text"	"Построить кресельный подъемник"	"Quest Ski.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: Construct a ski lift with chairs"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/4/text"	"Построить обычную трассу"	"Quest Ski.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: Lay an average track"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/5/text"	"Построить трассу для профессионалов"	"Quest Ski.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: Lay a track for pros"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/6/text"	"Построить кабиночный подъемник"	"Quest Ski.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: Construct a ski lift with cabins"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/7/text"	"Построить трассу для новичков"	"Quest Ski.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Lay a track for beginners"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/8/text"	"Построить обычную трассу"	"Quest Ski.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Lay an average track"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/9/text"	"Построить трассу для профессионалов"	"Quest Ski.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Lay a track for pros"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/10/text"	"Построить кресельный подъемник"	"Quest Ski.qmm: jumps.10.text. Preserve every <tag> exactly. English reference: Construct a ski lift with chairs"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/11/text"	"Построить кабиночный подъемник"	"Quest Ski.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Construct a ski lift with cabins"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/24/text"	"Построить ресторан"	"Quest Ski.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: Build a restaurant"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/26/text"	"Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.26.text. Preserve every <tag> exactly. English reference: Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/27/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/28/text"	"Поговорить с менеджером по строительству"	"Quest Ski.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Talk to the construction manager"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/29/text"	"Поговорить с менеджером по рекламе"	"Quest Ski.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Talk to the advertising manager"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/30/text"	"Поговорить с бухгалтером"	"Quest Ski.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Talk to the accountant"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/31/text"	"Проконсультироваться с кем-нибудь еще"	"Quest Ski.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Consult somebody else"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/33/text"	"Поговорить с экономистом"	"Quest Ski.qmm: jumps.33.text. Preserve every <tag> exactly. English reference: Talk to the economist"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/34/text"	"Проконсультироваться с кем-нибудь еще"	"Quest Ski.qmm: jumps.34.text. Preserve every <tag> exactly. English reference: Consult somebody else"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/35/text"	"Поговорить с заместителем"	"Quest Ski.qmm: jumps.35.text. Preserve every <tag> exactly. English reference: Talk to the deputy"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/36/text"	"Тратить на рекламу 0 cr в день"	"Quest Ski.qmm: jumps.36.text. Preserve every <tag> exactly. English reference: Spend 0 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/38/text"	"Тратить на рекламу 10.000 cr в день"	"Quest Ski.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Spend 10.000 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/39/text"	"Тратить на рекламу 20.000 cr в день"	"Quest Ski.qmm: jumps.39.text. Preserve every <tag> exactly. English reference: Spend 20.000 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/40/text"	"Тратить на рекламу 30.000 cr в день"	"Quest Ski.qmm: jumps.40.text. Preserve every <tag> exactly. English reference: Spend 30.000 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/41/text"	"Тратить на рекламу 40.000 cr в день"	"Quest Ski.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Spend 40.000 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/42/text"	"Тратить на рекламу 50.000 cr в день"	"Quest Ski.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Spend 50.000 cr per day on advertising"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/43/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/44/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/45/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/46/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/47/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.47.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/48/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/49/text"	"Ничего не строить"	"Quest Ski.qmm: jumps.49.text. Preserve every <tag> exactly. English reference: Don't build anything"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/51/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/52/text"	"Все идет отлично! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Everything is fine! Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/53/text"	"Далее"	"Quest Ski.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Further"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/54/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.54.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/55/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.55.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/56/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/57/text"	"Построить гостиницу"	"Quest Ski.qmm: jumps.57.text. Preserve every <tag> exactly. English reference: Build a hotel"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/59/text"	"Далее"	"Quest Ski.qmm: jumps.59.text. Preserve every <tag> exactly. English reference: Further"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/75/text"	"Нет"	"Quest Ski.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: No"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/76/text"	"Да"	"Quest Ski.qmm: jumps.76.text. Preserve every <tag> exactly. English reference: Yes"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/77/text"	"Все идет отлично! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: Everything is fine! Have a break for the rest of the day"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/78/text"	"Ничего не строить"	"Quest Ski.qmm: jumps.78.text. Preserve every <tag> exactly. English reference: Don't build anything"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/79/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.79.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/80/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.80.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/81/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/82/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.82.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	""
-"/quests/Ski.qmm/jumps/84/text"	"Надоело всё это! Основное задание выполнено, так что можно спокойно сваливать отсюда"	"Quest Ski.qmm: jumps.84.text. Preserve every <tag> exactly. English reference: You're sick and tired of this! Your main mission is complete so it's time to leave"	"Quest,Ski"	""
+And still you demonstrated to the local businessmen how to manage the hotel! ""Should I really change the profession when I'm older and become a supervisor?"" - you thought returning to the spaceport."	"Quest,Ski"	"Хопіць з вас гэтых гатэляў, лыжнікаў і ўвогуле плянэты. Вам пара ў космас! Тым болей што яшчэ трэба зьлятаць на плянэту <FromPlanet> па свой ганарар у <Money> cr.
+
+А ўсё-такі вы паказалі гэтым мясцовым дзялкам, як трэба кіраваць гатэлем! ""Можа, варта бліжэй да пэнсіі перакваліфікавацца ў кіраўнікі?"" - думалі вы, вяртаючыся ў касмапорт."
+"/quests/Ski.qmm/jumps/0/text"	"Построить ресторан"	"Quest Ski.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Build a restaurant"	"Quest,Ski"	"Пабудаваць рэстаран"
+"/quests/Ski.qmm/jumps/1/text"	"Построить гостиницу"	"Quest Ski.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Build a hotel"	"Quest,Ski"	"Пабудаваць гасьцініцу"
+"/quests/Ski.qmm/jumps/2/text"	"Построить трассу для новичков"	"Quest Ski.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Lay a track for beginners"	"Quest,Ski"	"Пабудаваць трасу для навічкоў"
+"/quests/Ski.qmm/jumps/3/text"	"Построить кресельный подъемник"	"Quest Ski.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: Construct a ski lift with chairs"	"Quest,Ski"	"Пабудаваць крэсельны пад'ёмнік"
+"/quests/Ski.qmm/jumps/4/text"	"Построить обычную трассу"	"Quest Ski.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: Lay an average track"	"Quest,Ski"	"Пабудаваць звычайную трасу"
+"/quests/Ski.qmm/jumps/5/text"	"Построить трассу для профессионалов"	"Quest Ski.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: Lay a track for pros"	"Quest,Ski"	"Пабудаваць трасу для прафэсіяналаў"
+"/quests/Ski.qmm/jumps/6/text"	"Построить кабиночный подъемник"	"Quest Ski.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: Construct a ski lift with cabins"	"Quest,Ski"	"Пабудаваць кабінны пад'ёмнік"
+"/quests/Ski.qmm/jumps/7/text"	"Построить трассу для новичков"	"Quest Ski.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Lay a track for beginners"	"Quest,Ski"	"Пабудаваць трасу для навічкоў"
+"/quests/Ski.qmm/jumps/8/text"	"Построить обычную трассу"	"Quest Ski.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Lay an average track"	"Quest,Ski"	"Пабудаваць звычайную трасу"
+"/quests/Ski.qmm/jumps/9/text"	"Построить трассу для профессионалов"	"Quest Ski.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Lay a track for pros"	"Quest,Ski"	"Пабудаваць трасу для прафэсіяналаў"
+"/quests/Ski.qmm/jumps/10/text"	"Построить кресельный подъемник"	"Quest Ski.qmm: jumps.10.text. Preserve every <tag> exactly. English reference: Construct a ski lift with chairs"	"Quest,Ski"	"Пабудаваць крэсельны пад'ёмнік"
+"/quests/Ski.qmm/jumps/11/text"	"Построить кабиночный подъемник"	"Quest Ski.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Construct a ski lift with cabins"	"Quest,Ski"	"Пабудаваць кабінны пад'ёмнік"
+"/quests/Ski.qmm/jumps/24/text"	"Построить ресторан"	"Quest Ski.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: Build a restaurant"	"Quest,Ski"	"Пабудаваць рэстаран"
+"/quests/Ski.qmm/jumps/26/text"	"Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.26.text. Preserve every <tag> exactly. English reference: Have a break for the rest of the day"	"Quest,Ski"	"Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/27/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	"Пагаварыць са спэцыялістамі"
+"/quests/Ski.qmm/jumps/28/text"	"Поговорить с менеджером по строительству"	"Quest Ski.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Talk to the construction manager"	"Quest,Ski"	"Пагаварыць з мэнэджэрам па будоўлі"
+"/quests/Ski.qmm/jumps/29/text"	"Поговорить с менеджером по рекламе"	"Quest Ski.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Talk to the advertising manager"	"Quest,Ski"	"Пагаварыць з мэнэджэрам па рэкляме"
+"/quests/Ski.qmm/jumps/30/text"	"Поговорить с бухгалтером"	"Quest Ski.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Talk to the accountant"	"Quest,Ski"	"Пагаварыць з бухгальтарам"
+"/quests/Ski.qmm/jumps/31/text"	"Проконсультироваться с кем-нибудь еще"	"Quest Ski.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Consult somebody else"	"Quest,Ski"	"Пракансультавацца з кім-небудзь яшчэ"
+"/quests/Ski.qmm/jumps/33/text"	"Поговорить с экономистом"	"Quest Ski.qmm: jumps.33.text. Preserve every <tag> exactly. English reference: Talk to the economist"	"Quest,Ski"	"Пагаварыць з эканамістам"
+"/quests/Ski.qmm/jumps/34/text"	"Проконсультироваться с кем-нибудь еще"	"Quest Ski.qmm: jumps.34.text. Preserve every <tag> exactly. English reference: Consult somebody else"	"Quest,Ski"	"Пракансультавацца з кім-небудзь яшчэ"
+"/quests/Ski.qmm/jumps/35/text"	"Поговорить с заместителем"	"Quest Ski.qmm: jumps.35.text. Preserve every <tag> exactly. English reference: Talk to the deputy"	"Quest,Ski"	"Пагаварыць з намесьнікам"
+"/quests/Ski.qmm/jumps/36/text"	"Тратить на рекламу 0 cr в день"	"Quest Ski.qmm: jumps.36.text. Preserve every <tag> exactly. English reference: Spend 0 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 0 cr у дзень"
+"/quests/Ski.qmm/jumps/38/text"	"Тратить на рекламу 10.000 cr в день"	"Quest Ski.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Spend 10.000 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 10.000 cr у дзень"
+"/quests/Ski.qmm/jumps/39/text"	"Тратить на рекламу 20.000 cr в день"	"Quest Ski.qmm: jumps.39.text. Preserve every <tag> exactly. English reference: Spend 20.000 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 20.000 cr у дзень"
+"/quests/Ski.qmm/jumps/40/text"	"Тратить на рекламу 30.000 cr в день"	"Quest Ski.qmm: jumps.40.text. Preserve every <tag> exactly. English reference: Spend 30.000 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 30.000 cr у дзень"
+"/quests/Ski.qmm/jumps/41/text"	"Тратить на рекламу 40.000 cr в день"	"Quest Ski.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Spend 40.000 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 40.000 cr у дзень"
+"/quests/Ski.qmm/jumps/42/text"	"Тратить на рекламу 50.000 cr в день"	"Quest Ski.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Spend 50.000 cr per day on advertising"	"Quest,Ski"	"Траціць на рэкляму 50.000 cr у дзень"
+"/quests/Ski.qmm/jumps/43/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	"Пабудаваць нешта"
+"/quests/Ski.qmm/jumps/44/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	"Пабудаваць нешта"
+"/quests/Ski.qmm/jumps/45/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	"Пабудаваць нешта"
+"/quests/Ski.qmm/jumps/46/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	"На сёньня хопіць! Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/47/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.47.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	"На сёньня хопіць! Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/48/text"	"На сегодня хватит! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Let's call it a day! Have a break for the rest of the day"	"Quest,Ski"	"На сёньня хопіць! Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/49/text"	"Ничего не строить"	"Quest Ski.qmm: jumps.49.text. Preserve every <tag> exactly. English reference: Don't build anything"	"Quest,Ski"	"Нічога не будаваць"
+"/quests/Ski.qmm/jumps/51/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	"Пагаварыць са спэцыялістамі"
+"/quests/Ski.qmm/jumps/52/text"	"Все идет отлично! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Everything is fine! Have a break for the rest of the day"	"Quest,Ski"	"Усё йдзе выдатна! Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/53/text"	"Далее"	"Quest Ski.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Further"	"Quest,Ski"	"Далей"
+"/quests/Ski.qmm/jumps/54/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.54.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	"Пабудаваць нешта"
+"/quests/Ski.qmm/jumps/55/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.55.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	"Паглядзець справаздачу за мінулыя суткі"
+"/quests/Ski.qmm/jumps/56/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	"Паглядзець справаздачу за мінулыя суткі"
+"/quests/Ski.qmm/jumps/57/text"	"Построить гостиницу"	"Quest Ski.qmm: jumps.57.text. Preserve every <tag> exactly. English reference: Build a hotel"	"Quest,Ski"	"Пабудаваць гасьцініцу"
+"/quests/Ski.qmm/jumps/59/text"	"Далее"	"Quest Ski.qmm: jumps.59.text. Preserve every <tag> exactly. English reference: Further"	"Quest,Ski"	"Далей"
+"/quests/Ski.qmm/jumps/75/text"	"Нет"	"Quest Ski.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: No"	"Quest,Ski"	"Не"
+"/quests/Ski.qmm/jumps/76/text"	"Да"	"Quest Ski.qmm: jumps.76.text. Preserve every <tag> exactly. English reference: Yes"	"Quest,Ski"	"Так"
+"/quests/Ski.qmm/jumps/77/text"	"Все идет отлично! Отдохнуть остаток дня"	"Quest Ski.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: Everything is fine! Have a break for the rest of the day"	"Quest,Ski"	"Усё йдзе выдатна! Адпачыць рэшту дня"
+"/quests/Ski.qmm/jumps/78/text"	"Ничего не строить"	"Quest Ski.qmm: jumps.78.text. Preserve every <tag> exactly. English reference: Don't build anything"	"Quest,Ski"	"Нічога не будаваць"
+"/quests/Ski.qmm/jumps/79/text"	"Построить что-нибудь"	"Quest Ski.qmm: jumps.79.text. Preserve every <tag> exactly. English reference: Build something"	"Quest,Ski"	"Пабудаваць нешта"
+"/quests/Ski.qmm/jumps/80/text"	"Поговорить со специалистами"	"Quest Ski.qmm: jumps.80.text. Preserve every <tag> exactly. English reference: Talk to the experts"	"Quest,Ski"	"Пагаварыць са спэцыялістамі"
+"/quests/Ski.qmm/jumps/81/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	"Паглядзець справаздачу за мінулыя суткі"
+"/quests/Ski.qmm/jumps/82/text"	"Посмотреть отчет за прошедшие сутки"	"Quest Ski.qmm: jumps.82.text. Preserve every <tag> exactly. English reference: Look through the report as of yesterday"	"Quest,Ski"	"Паглядзець справаздачу за мінулыя суткі"
+"/quests/Ski.qmm/jumps/84/text"	"Надоело всё это! Основное задание выполнено, так что можно спокойно сваливать отсюда"	"Quest Ski.qmm: jumps.84.text. Preserve every <tag> exactly. English reference: You're sick and tired of this! Your main mission is complete so it's time to leave"	"Quest,Ski"	"Надакучыла ўсё гэта! Асноўнае заданьне выкананае, так што можна спакойна драпаць адсюль"

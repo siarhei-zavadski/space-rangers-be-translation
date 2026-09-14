@@ -1,58 +1,64 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Player.qmm/parameters/0/name"	"Параметр номер 1"	"Quest Player.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Parameter 1"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/0/lines/1/content"	"Клетка № 1 - белая"	"Quest Player.qmm: parameters.0.lines.1.content. Preserve every <tag> exactly. English reference: Box № 1 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Player.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/1/name"	"Параметр номер 2"	"Quest Player.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Parameter 2"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/1/lines/1/content"	"Клетка № 2 - белая"	"Quest Player.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Box № 2 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/1/lines/2/content"	"Клетка № 2 - черная"	"Quest Player.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Box № 2 - black"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Player.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/2/name"	"Параметр номер 3"	"Quest Player.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Parameter 3"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/2/lines/1/content"	"Клетка № 3 - белая"	"Quest Player.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Box № 3 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Player.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/3/name"	"Параметр номер 4"	"Quest Player.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Parameter 4"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/3/lines/1/content"	"Клетка № 4 - белая"	"Quest Player.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly. English reference: Box № 4 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/3/lines/2/content"	"Клетка № 4 - черная"	"Quest Player.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly. English reference: Box № 4 - black"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Player.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/4/name"	"Параметр номер 5"	"Quest Player.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Parameter 5"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/4/lines/1/content"	"Клетка № 5 - черная"	"Quest Player.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Box № 5 - black"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Player.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/5/name"	"Параметр номер 6"	"Quest Player.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Parameter 6"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/5/lines/1/content"	"Клетка № 6 - белая"	"Quest Player.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly. English reference: Box № 6 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/5/lines/2/content"	"Клетка № 6 - черная"	"Quest Player.qmm: parameters.5.lines.2.content. Preserve every <tag> exactly. English reference: Box № 6 - black"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Player.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/6/name"	"Параметр номер 7"	"Quest Player.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Parameter 7"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/6/lines/1/content"	"Клетка № 7 - белая"	"Quest Player.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly. English reference: Box № 7 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Player.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/7/name"	"Параметр номер 8"	"Quest Player.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: Parameter 8"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/7/lines/1/content"	"Клетка № 8 - белая"	"Quest Player.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: Box № 8 - white"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/7/lines/2/content"	"Клетка № 8 - черная"	"Quest Player.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Box № 8 - black"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Player.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/8/name"	"Линия"	"Quest Player.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Line"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Player.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/9/name"	"Квадрат"	"Quest Player.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: Square"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Player.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/10/name"	"Цвет"	"Quest Player.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: Colour"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Player.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/11/name"	"Вертикаль"	"Quest Player.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Player.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/parameters/12/name"	"попытка"	"Quest Player.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Attempt"	"Quest,Player"	""
-"/quests/Player.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Player.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Player"	""
+"/quests/Player.qmm/parameters/0/name"	"Параметр номер 1"	"Quest Player.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Parameter 1"	"Quest,Player"	"Парамэтар нумар 1"
+"/quests/Player.qmm/parameters/0/lines/1/content"	"Клетка № 1 - белая"	"Quest Player.qmm: parameters.0.lines.1.content. Preserve every <tag> exactly. English reference: Box № 1 - white"	"Quest,Player"	"Клетка № 1 - белая"
+"/quests/Player.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Player.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 1"
+"/quests/Player.qmm/parameters/1/name"	"Параметр номер 2"	"Quest Player.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Parameter 2"	"Quest,Player"	"Парамэтар нумар 2"
+"/quests/Player.qmm/parameters/1/lines/1/content"	"Клетка № 2 - белая"	"Quest Player.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Box № 2 - white"	"Quest,Player"	"Клетка № 2 - белая"
+"/quests/Player.qmm/parameters/1/lines/2/content"	"Клетка № 2 - черная"	"Quest Player.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Box № 2 - black"	"Quest,Player"	"Клетка № 2 - чорная"
+"/quests/Player.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Player.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 2"
+"/quests/Player.qmm/parameters/2/name"	"Параметр номер 3"	"Quest Player.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Parameter 3"	"Quest,Player"	"Парамэтар нумар 3"
+"/quests/Player.qmm/parameters/2/lines/1/content"	"Клетка № 3 - белая"	"Quest Player.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Box № 3 - white"	"Quest,Player"	"Клетка № 3 - белая"
+"/quests/Player.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Player.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 3"
+"/quests/Player.qmm/parameters/3/name"	"Параметр номер 4"	"Quest Player.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Parameter 4"	"Quest,Player"	"Парамэтар нумар 4"
+"/quests/Player.qmm/parameters/3/lines/1/content"	"Клетка № 4 - белая"	"Quest Player.qmm: parameters.3.lines.1.content. Preserve every <tag> exactly. English reference: Box № 4 - white"	"Quest,Player"	"Клетка № 4 - белая"
+"/quests/Player.qmm/parameters/3/lines/2/content"	"Клетка № 4 - черная"	"Quest Player.qmm: parameters.3.lines.2.content. Preserve every <tag> exactly. English reference: Box № 4 - black"	"Quest,Player"	"Клетка № 4 - чорная"
+"/quests/Player.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Player.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 4"
+"/quests/Player.qmm/parameters/4/name"	"Параметр номер 5"	"Quest Player.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Parameter 5"	"Quest,Player"	"Парамэтар нумар 5"
+"/quests/Player.qmm/parameters/4/lines/1/content"	"Клетка № 5 - черная"	"Quest Player.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Box № 5 - black"	"Quest,Player"	"Клетка № 5 - чорная"
+"/quests/Player.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Player.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 5"
+"/quests/Player.qmm/parameters/5/name"	"Параметр номер 6"	"Quest Player.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Parameter 6"	"Quest,Player"	"Парамэтар нумар 6"
+"/quests/Player.qmm/parameters/5/lines/1/content"	"Клетка № 6 - белая"	"Quest Player.qmm: parameters.5.lines.1.content. Preserve every <tag> exactly. English reference: Box № 6 - white"	"Quest,Player"	"Клетка № 6 - белая"
+"/quests/Player.qmm/parameters/5/lines/2/content"	"Клетка № 6 - черная"	"Quest Player.qmm: parameters.5.lines.2.content. Preserve every <tag> exactly. English reference: Box № 6 - black"	"Quest,Player"	"Клетка № 6 - чорная"
+"/quests/Player.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Player.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 6"
+"/quests/Player.qmm/parameters/6/name"	"Параметр номер 7"	"Quest Player.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Parameter 7"	"Quest,Player"	"Парамэтар нумар 7"
+"/quests/Player.qmm/parameters/6/lines/1/content"	"Клетка № 7 - белая"	"Quest Player.qmm: parameters.6.lines.1.content. Preserve every <tag> exactly. English reference: Box № 7 - white"	"Quest,Player"	"Клетка № 7 - белая"
+"/quests/Player.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Player.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 7"
+"/quests/Player.qmm/parameters/7/name"	"Параметр номер 8"	"Quest Player.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: Parameter 8"	"Quest,Player"	"Парамэтар нумар 8"
+"/quests/Player.qmm/parameters/7/lines/1/content"	"Клетка № 8 - белая"	"Quest Player.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly. English reference: Box № 8 - white"	"Quest,Player"	"Клетка № 8 - белая"
+"/quests/Player.qmm/parameters/7/lines/2/content"	"Клетка № 8 - черная"	"Quest Player.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Box № 8 - black"	"Quest,Player"	"Клетка № 8 - чорная"
+"/quests/Player.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Player.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 8"
+"/quests/Player.qmm/parameters/8/name"	"Линия"	"Quest Player.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Line"	"Quest,Player"	"Лінія"
+"/quests/Player.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Player.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 9"
+"/quests/Player.qmm/parameters/9/name"	"Квадрат"	"Quest Player.qmm: parameters.9.name. Preserve every <tag> exactly. English reference: Square"	"Quest,Player"	"Квадрат"
+"/quests/Player.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Player.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 10"
+"/quests/Player.qmm/parameters/10/name"	"Цвет"	"Quest Player.qmm: parameters.10.name. Preserve every <tag> exactly. English reference: Colour"	"Quest,Player"	"Колер"
+"/quests/Player.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Player.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 11"
+"/quests/Player.qmm/parameters/11/name"	"Вертикаль"	"Quest Player.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Player"	"Вэртыкаль"
+"/quests/Player.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Player.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 12"
+"/quests/Player.qmm/parameters/12/name"	"попытка"	"Quest Player.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Attempt"	"Quest,Player"	"спроба"
+"/quests/Player.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Player.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Player"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 13"
 "/quests/Player.qmm/success_text"	"Вы неплохо поработали, <Ranger>! По нашим сведениям, DND-проигрыватель теперь зажевывает не более 10% дисков. Нет-нет, не волнуйтесь, это не упрек вам, такой процент является нормальным, в силу конструктивных особенностей проигрывателя. Ничего не поделаешь, антиквариат... 
 
 Короче, вот ваши <Money> cr, и еще раз спасибо!"	"Quest Player.qmm: success_text. Preserve every <tag> exactly. English reference: Good job, <Ranger>! We were informed that the DND-player chews no more than 10% of all the disks. Oh, no, don't worry, this is not a problem, the percentage is quite normal due to the player's configuration peculiarities. Nothing can be done about it, it's antique, you know... 
 
-In short, here is your <Money> cr, and thank you again!"	"Quest,Player"	""
+In short, here is your <Money> cr, and thank you again!"	"Quest,Player"	"Вы няблага папрацавалі, <Ranger>! Паводле нашых зьвестак, DND-прайгравальнік цяпер зажоўвае ня больш за 10% дыскаў. Не-не, не хвалюйцеся, гэта не дакор вам, такі адсотак ёсьць нармальным, праз канструктыўныя асаблівасьці прайгравальніка. Нічога не паробіш, антыкварыят... 
+
+Карацей, вось вашыя <Money> cr, і яшчэ раз дзякуй!"
 "/quests/Player.qmm/task_text"	"Скажите, <Ranger>, вам приходилось иметь дело с проигрывателями DND-дисков? Нет? Просто эта технология устарела еще триста лет назад, но на некоторых отсталых планетах она до сих пор используется... 
 
 Ну так вот, хранившийся в  Музее Фэянской Технологии на планете <ToPlanet> системы <ToStar> DND-проигрыватель случайно сломался. И никто на этой планете не знает, как его починить. Поэтому все фэянские планеты вербуют рейнджеров с отсталых планет для починки проигрывателя, надеясь найти среди них хотя бы одного умельца. Шансов мало, конечно, но что делать? В общем, если вы готовы прибыть на планету <ToPlanet> в течение <Day> дней и починить проигрыватель, то мы заплатим вам <Money> cr. Ну как, вы беретесь за эту работу?"	"Quest Player.qmm: task_text. Preserve every <tag> exactly. English reference: Tell me, <Ranger>, have you ever dealt with DND-players? No? Well, this technology outmoded three hundred years ago, but it is still used on some backward planets... 
 
-The thing is that they accidentally broke the DND-player kept in the Museum of Faeyan Technology on <ToPlanet> in the <ToStar> system. And nobody on the whole planet knows how to repair it. So all the Faeyan planets are drafting rangers from the backward planets hoping to find at least one expert among them who will solve the problem. There aren't many chances though but what else can they do? All told, if you are ready to go to <ToPlanet> in <Day> days and fix the player, we'll pay you <Money> cr. Is it a deal?"	"Quest,Player"	""
+The thing is that they accidentally broke the DND-player kept in the Museum of Faeyan Technology on <ToPlanet> in the <ToStar> system. And nobody on the whole planet knows how to repair it. So all the Faeyan planets are drafting rangers from the backward planets hoping to find at least one expert among them who will solve the problem. There aren't many chances though but what else can they do? All told, if you are ready to go to <ToPlanet> in <Day> days and fix the player, we'll pay you <Money> cr. Is it a deal?"	"Quest,Player"	"Скажыце, <Ranger>, вам даводзілася мець справу з прайгравальнікамі DND-дыскаў? Не? Проста гэтая тэхналёгія састарэла яшчэ трыста гадоў таму, але на некаторых адсталых плянэтах яна дасюль выкарыстоўваецца... 
+
+Ну дык вось, што захоўваўся ў  Музэі фэянскай тэхналёгіі на плянэце <ToPlanet> сыстэмы <ToStar> DND-прайгравальнік выпадкова зламаўся. І ніхто на гэтай плянэце ня ведае, як яго пачыніць. Таму ўсе фэянскія плянэты вярбуюць рэйнджэраў з адсталых плянэт дзеля пачынкі прайгравальніка, спадзеючыся знайсьці сярод іх хаця б аднаго ўмельца. Шанцаў мала, вядома, але што рабіць? Увогуле, калі вы гатовыя прыбыць на плянэту <ToPlanet> цягам <Day> дзён і пачыніць прайгравальнік, то мы заплацім вам <Money> cr. Ну як, вы бярэцеся за гэтую працу?"
 "/quests/Player.qmm/locations/0/texts/0/text"	"Возле космопорта вас встретил прилично одетый фэянин, отрекомендовавшийся директором Музея Фэянской Технологии (его имя вы, как обычно, пропустили мимо ушей). Он любезно предложил подвезти вас до музея на своем личном аэрокаре и по дороге обрисовал вам суть проблемы.
 
 - DND-проигрыватель из Музея Фэянской Технологии знаменит тем, что это самый первый проигрыватель дисков, изобретенный фэянами. И ведь он отлично работал, несмотря на свой почтенный возраст! К сожалению, недавно с ним произошел непонятный <clr>сбой<clrEnd> (подозреваю, что какой-то из этих омерзительных туристов попытался проиграть на нашем DND-проигрывателе пиратский диск, что и вызвало сбой!), и теперь он зажевывает <clr>95%<clrEnd> проигрываемых дисков. Он уже зажевал {[5..20]} дисков!!! Поскольку DND-диски сейчас также являются раритетом и стоят больших денег, мы обязаны принять меры и починить проигрыватель. Для этого у нас есть специальный <clr>прибор-настройщик<clrEnd> и даже руководство к нему, но, к сожалению, нет ни одного специалиста по работе с этим прибором."	"Quest Player.qmm: locations.0.texts.0.text. Preserve every <tag> exactly. English reference: A decently dressed Faeyan met you near the spaceport. He introduced himself as the director of the Museum of Faeyan Technology (as usual, you let his name go by). He was as kind as to offer you a drive to the museum in his personal aerocar and explained the problem to you en route. 
 
-- The DND-player from the Museum of Faeyan Technology is famous for being the first player invented by the Faeyans. And it works very well despite its old age! Unfortunately, some strange <clr> failure <clrEnd> happened to it not long ago (I suspect that one of those disgusting tourists tried to play a pirate disk on our DND-player, which caused all the trouble!), and now it chews <clr>95%<clrEnd> of all the played disks. It has already chewed {[5..20]} disks!!! As long as DND-disks are expensive rarities themselves these days, we ought to take measures and have the player fixed. We even have a special device for this - <clr>tuner<clrEnd> and the manual, but no expert to do it."	"Quest,Player"	""
-"/quests/Player.qmm/locations/1/texts/0/text"	"- У прибора есть <clr>квадратный индикатор размером 3*3 клетки<clrEnd>. Подключив прибор к проигрывателю и нажав на кнопку, мы задаем <clr>обертон<clrEnd>. Его смысл в том, что все клетки как бы <clr>раскрашиваются в два цвета - черный и белый<clrEnd>. Есть два типа обертонов. В первом из них <clr>черные клетки образуют квадрат 2*2<clrEnd>, а во втором - <clr>вертикальную полосу из трех клеток<clrEnd>. Нужно определить тип обертона (т.е., квадрат это или полоса, а точное расположение обертона значения не имеет). Прибор позволяет узнать цвет любых <clr>двух<clrEnd> клеток. В инструкции сказано, что мастерам настройки этого вполне достаточно для определения типа обертона, но нет и намека на то, как это сделать. Определив тип обертона, достаточно нажать на другую кнопку, и дальнейшая настройка будет произведена автоматически. К сожалению, если тип обертона определен неверно, то дальнейшая настройка может окончательно погубить проигрыватель. Ввиду важности именно этого экземпляра DND-проигрывателя, <clr>мы не позволяем проводить дальнейшую настройку, если есть хоть малейшая вероятность того, что обертон определен неправильно<clrEnd>."	"Quest Player.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: - The device has <clr>a square indicator 3*3 boxes in size<clrEnd>. After we hook the tuner up to the player and push the button, we set <clr>the overtone<clrEnd>. That is all the boxes are sort of <clr>painted in two colours - black and white <clrEnd>. There are two types of overtones. In the first of them <clr>the black boxes are organised in a square 2*2 boxes in size<clrEnd>, and in the second one <clr>they form a vertical line of three boxes <clrEnd>. The problem is in defining the overtone type.(that is, find out if it's a square or a line because their exact order is not important at all). The tuner lets one find out the colour of any <clr>two<clrEnd> boxes. The manual says that it's quite enough for the experts to define the overtone type, but it doesn't give even a hint to how one can do it. If you know the overtone type, all you need to do is just to push the other button, and the further tuning will be done automatically. Unfortunately, if one chooses the wrong overtone type, the further tuning can destroy the player completely. Taking into consideration the unicity of this particular DND-player, <clr>we don't let anybody do the further tuning if there is just a small possibility of damaging it<clrEnd>."	"Quest,Player"	""
+- The DND-player from the Museum of Faeyan Technology is famous for being the first player invented by the Faeyans. And it works very well despite its old age! Unfortunately, some strange <clr> failure <clrEnd> happened to it not long ago (I suspect that one of those disgusting tourists tried to play a pirate disk on our DND-player, which caused all the trouble!), and now it chews <clr>95%<clrEnd> of all the played disks. It has already chewed {[5..20]} disks!!! As long as DND-disks are expensive rarities themselves these days, we ought to take measures and have the player fixed. We even have a special device for this - <clr>tuner<clrEnd> and the manual, but no expert to do it."	"Quest,Player"	"Каля космапорту вас сустрэў прыстойна апрануты фэянін, які адрэкамэндаваўся дырэктарам Музэю фэянскай тэхналёгіі (яго імя вы, як звычайна, прапусьцілі міма вушэй). Ён ветліва прапанаваў падвезьці вас да музэю на сваім асабістым аэракары і па дарозе абмаляваў вам сутнасьць праблемы.
+
+- DND-прайгравальнік з Музэю фэянскай тэхналёгіі знакаміты тым, што гэта самы першы прайгравальнік дыскаў, вынайдзены фэянамі. І ён жа выдатна працаваў, нягледзячы на свой пачцівы ўзрост! На жаль, нядаўна з ім адбыўся незразумелы <clr>збой<clrEnd> (падазраю, што нейкі з гэтых агідных турыстаў паспрабаваў прайграць на нашым DND-прайгравальніку пірацкі дыск, што і выклікала збой!), і цяпер ён зажоўвае <clr>95%<clrEnd> прайграваных дыскаў. Ён ужо зажаваў {[5..20]} дыскаў!!! Паколькі DND-дыскі цяпер таксама ёсьць рарытэтам і каштуюць вялікіх грошай, мы абавязаныя прыняць захады і пачыніць прайгравальнік. Дзеля гэтага ў нас ёсьць адмысловы <clr>прыбор-наладнік<clrEnd> і нават інструкцыя да яго, але, на жаль, няма ніводнага спэцыяліста па працы з гэтым прыборам."
+"/quests/Player.qmm/locations/1/texts/0/text"	"- У прибора есть <clr>квадратный индикатор размером 3*3 клетки<clrEnd>. Подключив прибор к проигрывателю и нажав на кнопку, мы задаем <clr>обертон<clrEnd>. Его смысл в том, что все клетки как бы <clr>раскрашиваются в два цвета - черный и белый<clrEnd>. Есть два типа обертонов. В первом из них <clr>черные клетки образуют квадрат 2*2<clrEnd>, а во втором - <clr>вертикальную полосу из трех клеток<clrEnd>. Нужно определить тип обертона (т.е., квадрат это или полоса, а точное расположение обертона значения не имеет). Прибор позволяет узнать цвет любых <clr>двух<clrEnd> клеток. В инструкции сказано, что мастерам настройки этого вполне достаточно для определения типа обертона, но нет и намека на то, как это сделать. Определив тип обертона, достаточно нажать на другую кнопку, и дальнейшая настройка будет произведена автоматически. К сожалению, если тип обертона определен неверно, то дальнейшая настройка может окончательно погубить проигрыватель. Ввиду важности именно этого экземпляра DND-проигрывателя, <clr>мы не позволяем проводить дальнейшую настройку, если есть хоть малейшая вероятность того, что обертон определен неправильно<clrEnd>."	"Quest Player.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: - The device has <clr>a square indicator 3*3 boxes in size<clrEnd>. After we hook the tuner up to the player and push the button, we set <clr>the overtone<clrEnd>. That is all the boxes are sort of <clr>painted in two colours - black and white <clrEnd>. There are two types of overtones. In the first of them <clr>the black boxes are organised in a square 2*2 boxes in size<clrEnd>, and in the second one <clr>they form a vertical line of three boxes <clrEnd>. The problem is in defining the overtone type.(that is, find out if it's a square or a line because their exact order is not important at all). The tuner lets one find out the colour of any <clr>two<clrEnd> boxes. The manual says that it's quite enough for the experts to define the overtone type, but it doesn't give even a hint to how one can do it. If you know the overtone type, all you need to do is just to push the other button, and the further tuning will be done automatically. Unfortunately, if one chooses the wrong overtone type, the further tuning can destroy the player completely. Taking into consideration the unicity of this particular DND-player, <clr>we don't let anybody do the further tuning if there is just a small possibility of damaging it<clrEnd>."	"Quest,Player"	"- У прыбора ёсьць <clr>квадратны індыкатар памерам 3*3 клеткі<clrEnd>. Падключыўшы прыбор да прайгравальніка і націснуўшы на кнопку, мы задаём <clr>абэртон<clrEnd>. Ягоны сэнс у тым, што ўсе клеткі нібы <clr>расфарбоўваюцца ў два колеры - чорны і белы<clrEnd>. Ёсьць два тыпы абэртонаў. У першым з іх <clr>чорныя клеткі ўтвараюць квадрат 2*2<clrEnd>, а ў другім - <clr>вэртыкальную паласу з трох клетак<clrEnd>. Трэба вызначыць тып абэртона (г.зн., квадрат гэта ці палоса, а дакладнае разьмяшчэньне абэртона значэньня ня мае). Прыбор дазваляе даведацца колер любых <clr>двух<clrEnd> клетак. У інструкцыі сказана, што майстрам наладкі гэтага цалкам хопіць дзеля вызначэньня тыпу абэртона, але няма і намёку на тое, як гэта зрабіць. Вызначыўшы тып абэртона, дастаткова націснуць на іншую кнопку, і далейшая наладка будзе зробленая аўтаматычна. На жаль, калі тып абэртона вызначаны няслушна, то далейшая наладка можа канчаткова загубіць прайгравальнік. Зважаючы на важнасьць менавіта гэтага асобніка DND-прайгравальніка, <clr>мы не дазваляем праводзіць далейшую наладку, калі ёсьць хоць найменшая верагоднасьць таго, што абэртон вызначаны няправільна<clrEnd>."
 "/quests/Player.qmm/locations/2/texts/0/text"	"На некоторое время повисло неловкое молчание.
 
 - Я должен также предупредить вас, что сам прибор для настройки тоже довольно старый, так что у него <clr>не работает операция проверки клетки №9<clrEnd>. Надеюсь, это не помешает вам в определении типа обертона, - невозмутимо добавил фэянин. Остаток пути прошел в тишине.
@@ -95,7 +101,28 @@ There is the indicator of the DND player's tuner in front of your eyes:
 </fix>
 
 Choose <clr>the first<clrEnd> box for testing.
-(Box № 9 testing is not available)."	"Quest,Player"	""
+(Box № 9 testing is not available)."	"Quest,Player"	"На нейкі час павісла няёмкае маўчаньне.
+
+- Я мушу таксама папярэдзіць вас, што сам прыбор дзеля наладкі таксама даволі стары, так што ў яго <clr>не працуе апэрацыя праверкі клеткі №9<clrEnd>. Спадзяюся, гэта не перашкодзіць вам у вызначэньні тыпу абэртона, - неўзрушана дадаў фэянін. Рэшта шляху прайшла ў цішыні.
+
+Неўзабаве вы пад'ехалі да музэю. Вас правялі ў пакой з DND-прайгравальнікам. Прыбор дзеля наладкі ўжо быў далучаны да яго. Дырэктар музэю ўрачыста націснуў на кнопку, задаючы абэртон.
+
+- Прашу, <Ranger>! - сказаў фэянін, тэатральным жэстам запрашаючы вас да прыбора. - Вызначайце тып абэртона!
+
+Перад вамі індыкатар прыбора дзеля наладкі DND-прайгравальніка:
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+Выберыце <clr>першую<clrEnd> клетку дзеля тэставаньня.
+(Клетка № 9 дзеля тэставаньня недаступная)."
 "/quests/Player.qmm/locations/2/texts/1/text"	"Раздалось небольшое жужжание, и выбранная вами клетка окрасилась в <clr>белый<clrEnd> цвет.
 
 Перед вами индикатор прибора для настройки DND-проигрывателя:
@@ -126,7 +153,22 @@ There is the indicator of the DND player's tuner in front of your eyes:
 </fix>
 
 Choose <clr>the second<clrEnd> box for testing.
-(Box № 9 testing is not available)."	"Quest,Player"	""
+(Box № 9 testing is not available)."	"Quest,Player"	"Пачулася невялікае жужжаньне, і выбраная вамі клетка афарбавалася ў <clr>белы<clrEnd> колер.
+
+Перад вамі індыкатар прыбора дзеля наладкі DND-прайгравальніка:
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+Выберыце <clr>другую<clrEnd> клетку дзеля тэставаньня.
+(Клетка № 9 дзеля тэставаньня недаступная)."
 "/quests/Player.qmm/locations/2/texts/2/text"	"Раздалось небольшое жужжание, и выбранная вами клетка окрасилась в <clr> черный <clrEnd>цвет.
 
 Перед вами индикатор прибора для настройки DND-проигрывателя:
@@ -157,7 +199,22 @@ There is the indicator of the DND player's tuner in front of your eyes:
 </fix>
 
 Choose <clr>the second<clrEnd> box for testing.
-(Box № 9 testing is not available)."	"Quest,Player"	""
+(Box № 9 testing is not available)."	"Quest,Player"	"Пачулася невялікае жужжаньне, і выбраная вамі клетка афарбавалася ў <clr> чорны <clrEnd>колер.
+
+Перад вамі індыкатар прыбора дзеля наладкі DND-прайгравальніка:
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+Выберыце <clr>другую<clrEnd> клетку дзеля тэставаньня.
+(Клетка № 9 дзеля тэставаньня недаступная)."
 "/quests/Player.qmm/locations/3/texts/0/text"	"Раздалось небольшое жужжание, и выбранная вами клетка окрасилась в <clr>белый<clrEnd> цвет.
 
 Проверка закончена. Вы тупо уставились на индикатор прибора для настройки DND-проигрывателя:
@@ -186,7 +243,21 @@ The testing is over. You are staring obtusely at the indicator of the DND player
 <format=center,33>-------------</format>
 </fix>
 
-You wonder if it is still possible to define the overtone type now?"	"Quest,Player"	""
+You wonder if it is still possible to define the overtone type now?"	"Quest,Player"	"Пачулася невялікае жужжаньне, і выбраная вамі клетка афарбавалася ў <clr>белы<clrEnd> колер.
+
+Праверка скончаная. Вы тупа ўтаропіліся на індыкатар прыбора дзеля наладкі DND-прайгравальніка:
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+Цікава, ці можна цяпер вызначыць тып абэртона?"
 "/quests/Player.qmm/locations/3/texts/1/text"	"Раздалось небольшое жужжание, и выбранная вами клетка окрасилась в <clr>черный<clrEnd> цвет.
 
 Проверка закончена. Вы тупо уставились на индикатор прибора для настройки DND-проигрывателя:
@@ -215,7 +286,21 @@ The testing is over. You are staring obtusely at the indicator of the DND player
 <format=center,33>-------------</format>
 </fix>
 
-You wonder if it is still possible to define the overtone type now??"	"Quest,Player"	""
+You wonder if it is still possible to define the overtone type now??"	"Quest,Player"	"Пачулася невялікае жужжаньне, і выбраная вамі клетка афарбавалася ў <clr>чорны<clrEnd> колер.
+
+Праверка скончаная. Вы тупа ўтаропіліся на індыкатар прыбора дзеля наладкі DND-прайгравальніка:
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+Цікава, ці можна цяпер вызначыць тып абэртона?"
 "/quests/Player.qmm/locations/5/texts/0/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -244,7 +329,21 @@ You wonder if it is still possible to define the overtone type now??"	"Quest,Pla
 
 - This overtone can't be Line (1,4,7) or (3,6,9), because Box <clr>2<clrEnd> is black. But it can't be Line (2,5,8) either, because Box <clr>8<clrEnd> is white. That means, that the overtone can be <clr>a square<clrEnd> only. Congratulations, <Ranger>! <clr>Your mission is complete!<clrEnd> We don't need your help any more and will do the rest of the work ourselves. I will send a report with the description of your excellent work to the <FromPlanet> planet!
 
-Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	""
+Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Гэты абэртон ня можа быць палосай (1,4,7) або (3,6,9), бо клетка <clr>2<clrEnd> чорная. Але і палосай (2,5,8) ён таксама ня можа быць, бо клетка <clr>8<clrEnd> белая. Значыць, гэта можа быць толькі <clr>квадрат<clrEnd>. Віншую вас, <Ranger>! <clr>Вы справіліся са сваёй задачай!<clrEnd> Вашыя паслугі болей не патрэбныя, астатняе мы зробім самі. Я адпраўлю на плянэту <FromPlanet> справаздачу пра вашую філігранную працу!
+
+Разьвітаўшыся з дырэктарам музэю, вы вярнуліся назад у космапорт."
 "/quests/Player.qmm/locations/5/texts/1/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -273,7 +372,21 @@ Saying your goodbye to the museum director, you returned to the spaceport."	"Que
 
 - This overtone can't be Line (1,4,7) or (3,6,9), because Box <clr>8<clrEnd> is black. But it can't be Line (2,5,8) either, because Box <clr>2<clrEnd>  is white. That means, that the overtone can be <clr>a square<clrEnd> only. Congratulations, <Ranger>! <clr> Your mission is complete!<clrEnd> We don't need your help any more and will do the rest of the work ourselves. I will send a report with the description of your excellent work to the <FromPlanet> planet!
 
-Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	""
+Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Гэты абэртон ня можа быць палосай (1,4,7) або (3,6,9), бо клетка <clr>8<clrEnd> чорная. Але і палосай (2,5,8) ён таксама ня можа быць, бо клетка <clr>2<clrEnd> белая. Значыць, гэта можа быць толькі <clr>квадрат<clrEnd>. Віншую вас, <Ranger>! <clr>Вы справіліся са сваёй задачай!<clrEnd> Вашыя паслугі болей не патрэбныя, астатняе мы зробім самі. Я адпраўлю на плянэту <FromPlanet> справаздачу пра вашую філігранную працу!
+
+Разьвітаўшыся з дырэктарам музэю, вы вярнуліся назад у космапорт."
 "/quests/Player.qmm/locations/6/texts/0/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -302,7 +415,21 @@ Saying your goodbye to the museum director, you returned to the spaceport."	"Que
 
 - This overtone can't be a square 2*2 boxes in size because none of such squares include Boxes <clr>2 and 8<clrEnd>, which are black. It can be <clr> Line (2,5,8)<clrEnd> only! Congratulations, <Ranger>! <clr> Your mission is complete!<clrEnd> We don't need your help any more and will do the rest of the work ourselves. I will send a report with the description of your excellent work to the <FromPlanet> planet!
 
-Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	""
+Saying your goodbye to the museum director, you returned to the spaceport."	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Гэты абэртон ня можа быць квадратам 2*2, бо ніводны з такіх квадратаў не праходзіць праз  клеткі <clr>2 і 8<clrEnd>, якія ёсьць чорнымі. Гэта можа быць толькі <clr>палоса (2,5,8)<clrEnd>! Віншую вас, <Ranger>! <clr>Вы справіліся са сваёй задачай!<clrEnd> Вашыя паслугі болей не патрэбныя, астатняе мы зробім самі. Я адпраўлю на плянэту <FromPlanet> справаздачу пра вашую філігранную працу!
+
+Разьвітаўшыся з дырэктарам музэю, вы вярнуліся назад у космапорт."
 "/quests/Player.qmm/locations/7/texts/0/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -339,7 +466,25 @@ Saying your goodbye to the museum director, you returned to the spaceport."	"Que
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed.<clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed.<clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Я вымушаны канстатаваць, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (1,4,7)<clrEnd>, так і  <clr>квадратам (1,2,4,5)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Давайце рызыкнем! - усклікнулі вы. - Я адчуваю, што гэта квадрат!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/7/texts/1/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -376,7 +521,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Я вымушаны канстатаваць, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (1,4,7)<clrEnd>, так і <clr>квадратам  (4,5,7,8)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Давайце тыкнем наўздагад! - усклікнулі вы. - Я адчуваю, што гэта палоса!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr> Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/7/texts/2/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -413,7 +576,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Я вымушаны канстатаваць, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (1,4,7)<clrEnd>, так і <clr>квадратам (5,6,8,9)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- У мяне выдатная інтуіцыя! - усклікнулі вы. - Я ўпэўнены, што гэта палоса!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/7/texts/3/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -450,7 +631,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Я вымушаны канстатаваць, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (1,4,7)<clrEnd>, так і <clr>квадратам (2,3,5,6)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Я думаю, што гэта палоса! - усклікнулі вы. - Можа, паспрабуем завяршыць наладку?
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/8/texts/0/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -487,7 +686,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Баюся, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (2,5,8)<clrEnd>, так і <clr>квадратам (1,2,4,5)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Давайце рызыкнем! - усклікнулі вы. - Я адчуваю, што гэта квадрат! Паверце маёй інтуіцыі!!!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/8/texts/1/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -524,7 +741,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Баюся, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (2,5,8)<clrEnd>, так і  <clr>квадратам (4,5,7,8)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Вы ведаеце, я вельмі шанцавіты! - усклікнулі вы. - Я адчуваю, што гэта палоса! Рызыкнем?
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/8/texts/2/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -561,7 +796,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Баюся, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (2,5,8)<clrEnd>, так і <clr>квадратам (5,6,8,9)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Вы ведаеце, я выдатна ўмею адгадваць, спытайцеся ў любога рэйнджэра! - усклікнулі вы. - Я веру, што гэта палоса! Можа, паспрабуем?
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/8/texts/3/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -598,7 +851,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- Баюся, што паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (2,5,8)<clrEnd>, так і <clr>квадратам (2,3,5,6)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Гэта квадрат! - пераканана ўсклікнулі вы. - Верце мне, і будзе вам шчасьце!!!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/9/texts/0/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -635,7 +906,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- На жаль, але паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (3,6,9)<clrEnd>, так і <clr>квадратам (1,2,4,5)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Я абсалютна ўпэўнены, што гэта палоса! - усклікнулі вы, гледзячы на фэяніна чыстым і пяшчотным поглядам адпетага космапірата. - Даверцеся мне!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/9/texts/1/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -672,7 +961,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- На жаль, але паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (3,6,9)<clrEnd>, так і <clr>квадратам (4,5,7,8)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Я бываў у столькіх пераплётах, што магу давяраць сваёй інтуіцыі! - заявілі вы. - Гэта квадрат, не будзь я рэйнджэрам! Працягвайце наладку.
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/9/texts/2/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -709,7 +1016,25 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+- На жаль, але паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (3,6,9)<clrEnd>, так і  <clr>квадратам (5,6,8,9)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Няўжо я дарэмна стараўся?! - усклікнулі вы. - Мне здаецца, што гэта палоса! Давайце працягнем!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
 "/quests/Player.qmm/locations/9/texts/3/text"	"Подошедший директор музея некоторое время изучал показатели прибора. 
 
 <fix>
@@ -748,25 +1073,44 @@ The director motioned to the guards and they bustled you out of the museum. All 
 
 - No! - the Faeyan was adamant. - We can't risk such a valuable sample of a DND-player. We'd rather wait for another tuning expert.
 
-The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	""
-"/quests/Player.qmm/locations/10/texts/0/text"	"- Я не хотел вам об этом говорить, но раз уж вы спросили... Видите ли, у нас уже не было своих приборов для настройки DND-проигрывателей, так что нам пришлось купить такой прибор у пеленгов. Так вот, у нас есть подозрение, что в этом приборе сбита система начальной настройки обертона. Это означает, что <clr>обертон выбирается не после нажатия на кнопку, а лишь после того, как настройщик выберет первую клетку для проверки<clrEnd>. Мы подозреваем также, что эти гадкие пеленги специально сбили настройку так, чтобы <clr>обертон всегда выбирался самым неудобным образом<clrEnd>. Иначе чем объяснить неудачу {[2..9]}{[2..4]}-х ваших предшественников? Впрочем, если верить инструкции, настоящий мастер должен уметь настраивать проигрыватель даже при сбитой системе начальной настройки обертона."	"Quest Player.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: - I was reluctant to tell you about it but as long as you asked... See, we didn't have any tuners for DND-players by that time already so we had to buy one from the Pelengs. Now we suspect that its overtone primary setting system failed. It means that <clr>the overtone is set not after you push the button but only after the tuning expert picks up the first box for testing <clrEnd>. We also suspect that those nasty Pelengs re-adjusted the setting so that <clr>the overtone was set in the most inconvenient manner <clrEnd>. What else will explain bad luck of your {[2..9]}{[2..4]} predecessors? One way or another, the manual says that a true expert should be able to tune even the player with the failed overtone primary setting system."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/0/text"	"Расскажите мне об этом приборе"	"Quest Player.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Tell me about the device"	"Quest,Player"	""
-"/quests/Player.qmm/jumps/1/text"	"4"	"Quest Player.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/2/text"	"5"	"Quest Player.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/3/text"	"6"	"Quest Player.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/4/text"	"7"	"Quest Player.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/5/text"	"8"	"Quest Player.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/6/text"	"1"	"Quest Player.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/7/text"	"2"	"Quest Player.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/8/text"	"3"	"Quest Player.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/9/text"	"Все ясно, давайте скорее начнем"	"Quest Player.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: It's clear now, let's not waste time and start"	"Quest,Player"	""
-"/quests/Player.qmm/jumps/11/text"	"Позвать фэянина"	"Quest Player.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Call the Faeyan"	"Quest,Player"	""
-"/quests/Player.qmm/jumps/12/text"	"Позвать фэянина"	"Quest Player.qmm: jumps.12.text. Preserve every <tag> exactly. English reference: Call the Faeyan"	"Quest,Player"	""
-"/quests/Player.qmm/jumps/13/text"	"2"	"Quest Player.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/14/text"	"6"	"Quest Player.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/15/text"	"8"	"Quest Player.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/16/text"	"4"	"Quest Player.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/17/text"	"8"	"Quest Player.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/18/text"	"2"	"Quest Player.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Player"	""
-"/quests/Player.qmm/jumps/23/text"	"Это все, или есть еще какие-то детали?"	"Quest Player.qmm: jumps.23.text. Preserve every <tag> exactly. English reference: Is this all or are there any more details?"	"Quest,Player"	""
-"/quests/Player.qmm/jumps/24/text"	"Итак, я должен починить сломанный проигрыватель при помощи неисправного настройщика?!"	"Quest Player.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: So, am I supposed to fix a broken player with the help of a defective tuner?!"	"Quest,Player"	""
+The director motioned to the guards and they bustled you out of the museum. All you could do was return to the spaceport. <clr>Your mission is failed <clrEnd>"	"Quest,Player"	"Дырэктар музэю, што падышоў, некаторы час вывучаў паказьнікі прыбора. 
+
+<fix>
+<format=center,33>-------------</format>
+<format=center,33>| 1 | 2 | 3 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 4 | 5 | 6 |</format>
+<format=center,33>-------------</format>
+<format=center,33>| 7 | 8 | 9 |</format>
+<format=center,33>-------------</format>
+</fix>
+
+
+- На жаль, але паказаньні прыбора <clr>не дазваляюць<clrEnd> дакладна вызначыць тып абэртона. Глядзіце: гэты абэртон можа быць як <clr>палосай (3,6,9)<clrEnd>, так і <clr>квадратам (2,3,5,6)<clrEnd>. На жаль, вы не справіліся са сваёй задачай.
+
+- Мне проста не пашанцавала! - усклікнулі вы. - Можа, выберам наўздагад? Або дайце мне яшчэ адну спробу!
+
+- Не! - фэянін застаўся непахісным. - Мы ня можам рызыкаваць такім каштоўным экспанатам DND-прайгравальніка. Лепш мы пачакаем прыезду іншага майстра па наладцы.
+
+Дырэктар зрабіў знак ахоўнікам, і тыя ветліва выправадзілі вас з будынка музэю. Вам засталося толькі вярнуцца ў космапорт. <clr>Місія праваленая.<clrEnd>"
+"/quests/Player.qmm/locations/10/texts/0/text"	"- Я не хотел вам об этом говорить, но раз уж вы спросили... Видите ли, у нас уже не было своих приборов для настройки DND-проигрывателей, так что нам пришлось купить такой прибор у пеленгов. Так вот, у нас есть подозрение, что в этом приборе сбита система начальной настройки обертона. Это означает, что <clr>обертон выбирается не после нажатия на кнопку, а лишь после того, как настройщик выберет первую клетку для проверки<clrEnd>. Мы подозреваем также, что эти гадкие пеленги специально сбили настройку так, чтобы <clr>обертон всегда выбирался самым неудобным образом<clrEnd>. Иначе чем объяснить неудачу {[2..9]}{[2..4]}-х ваших предшественников? Впрочем, если верить инструкции, настоящий мастер должен уметь настраивать проигрыватель даже при сбитой системе начальной настройки обертона."	"Quest Player.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: - I was reluctant to tell you about it but as long as you asked... See, we didn't have any tuners for DND-players by that time already so we had to buy one from the Pelengs. Now we suspect that its overtone primary setting system failed. It means that <clr>the overtone is set not after you push the button but only after the tuning expert picks up the first box for testing <clrEnd>. We also suspect that those nasty Pelengs re-adjusted the setting so that <clr>the overtone was set in the most inconvenient manner <clrEnd>. What else will explain bad luck of your {[2..9]}{[2..4]} predecessors? One way or another, the manual says that a true expert should be able to tune even the player with the failed overtone primary setting system."	"Quest,Player"	"- Я не хацеў вам пра гэта казаць, але раз ужо вы спыталі... Бачыце, у нас ужо не было сваіх прыбораў дзеля наладкі DND-прайгравальнікаў, так што нам давялося купіць такі прыбор у пеленгаў. Дык вось, у нас ёсьць падазрэньне, што ў гэтым прыборы зьбітая сыстэма пачатковай наладкі абэртона. Гэта азначае, што <clr>абэртон выбіраецца не пасьля націску на кнопку, а толькі пасьля таго, як наладнік абярэ першую клетку дзеля праверкі<clrEnd>. Мы падазраем таксама, што гэтыя брыдкія пеленгі адмыслова зьбілі наладку так, каб <clr>абэртон заўсёды выбіраўся самым нязручным чынам<clrEnd>. Інакш чым патлумачыць няўдачу {[2..9]}{[2..4]}-х вашых папярэднікаў? Зрэшты, калі верыць інструкцыі, сапраўдны майстар мусіць умець наладжваць прайгравальнік нават пры зьбітай сыстэме пачатковай наладкі абэртона."
+"/quests/Player.qmm/jumps/0/text"	"Расскажите мне об этом приборе"	"Quest Player.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Tell me about the device"	"Quest,Player"	"Раскажыце мне пра гэты прыбор"
+"/quests/Player.qmm/jumps/1/text"	"4"	"Quest Player.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Player"	"4"
+"/quests/Player.qmm/jumps/2/text"	"5"	"Quest Player.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Player"	"5"
+"/quests/Player.qmm/jumps/3/text"	"6"	"Quest Player.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Player"	"6"
+"/quests/Player.qmm/jumps/4/text"	"7"	"Quest Player.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Player"	"7"
+"/quests/Player.qmm/jumps/5/text"	"8"	"Quest Player.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Player"	"8"
+"/quests/Player.qmm/jumps/6/text"	"1"	"Quest Player.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Player"	"1"
+"/quests/Player.qmm/jumps/7/text"	"2"	"Quest Player.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Player"	"2"
+"/quests/Player.qmm/jumps/8/text"	"3"	"Quest Player.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Player"	"3"
+"/quests/Player.qmm/jumps/9/text"	"Все ясно, давайте скорее начнем"	"Quest Player.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: It's clear now, let's not waste time and start"	"Quest,Player"	"Усё ясна, давайце хутчэй пачнём"
+"/quests/Player.qmm/jumps/11/text"	"Позвать фэянина"	"Quest Player.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Call the Faeyan"	"Quest,Player"	"Пазваць фэяніна"
+"/quests/Player.qmm/jumps/12/text"	"Позвать фэянина"	"Quest Player.qmm: jumps.12.text. Preserve every <tag> exactly. English reference: Call the Faeyan"	"Quest,Player"	"Пазваць фэяніна"
+"/quests/Player.qmm/jumps/13/text"	"2"	"Quest Player.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Player"	"2"
+"/quests/Player.qmm/jumps/14/text"	"6"	"Quest Player.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Player"	"6"
+"/quests/Player.qmm/jumps/15/text"	"8"	"Quest Player.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Player"	"8"
+"/quests/Player.qmm/jumps/16/text"	"4"	"Quest Player.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Player"	"4"
+"/quests/Player.qmm/jumps/17/text"	"8"	"Quest Player.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Player"	"8"
+"/quests/Player.qmm/jumps/18/text"	"2"	"Quest Player.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Player"	"2"
+"/quests/Player.qmm/jumps/23/text"	"Это все, или есть еще какие-то детали?"	"Quest Player.qmm: jumps.23.text. Preserve every <tag> exactly. English reference: Is this all or are there any more details?"	"Quest,Player"	"Гэта ўсё, ці ёсьць яшчэ нейкія дэталі?"
+"/quests/Player.qmm/jumps/24/text"	"Итак, я должен починить сломанный проигрыватель при помощи неисправного настройщика?!"	"Quest Player.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: So, am I supposed to fix a broken player with the help of a defective tuner?!"	"Quest,Player"	"Дык я мушу пачыніць зламаны прайгравальнік пры дапамозе няспраўнага наладніка?!"

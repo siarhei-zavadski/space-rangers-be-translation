@@ -151,7 +151,10 @@ Packages {
 - Check prose with:
 
 ```bash
-hunspell -d be_BY@tarask -l
+.venv/bin/python validate_corpus.py
+PYTHONPATH=. .venv/bin/python crowdin_sync.py check
+PYTHONPATH=. .venv/bin/python spell_check.py
+PYTHONPATH=. .venv/bin/python spell_check.py --file Ski.qmm
 ```
 
 - Do not translate placeholders, identifiers, markup, or shortcut keys.

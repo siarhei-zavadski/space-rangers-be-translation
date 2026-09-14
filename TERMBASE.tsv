@@ -294,6 +294,16 @@ lemma.shoe	мистер Шу	Mr. Shoe	містэр Шу		companion/liquidator; N
 lemma.u2k38	У2К38	U2K38	У2К38		keep in <clr>; supply-ship planet code	—
 lemma.dzuhallag	Дзухаллаг	Dzuhallag	Дзухаллаг		peleng intel org; G Дзухалага; source Дзухуллаг unifies here	—
 lemma.faruk	фарюк	fariola	фарюк		rotten-fruit joke + UselessItems Фарюкі; singer Філ Фарюк; pl фарюкі	—
+lemma.schnobel	Шнобель	Schnobel	Шнобэль		Faruk agent; with Дзюбэль, Пугель	—
+lemma.cologne	Тройной одеколон	Triple cologne	Тройны адэкалён		Faruk smell minigame; hunspell адэкалён	—
+lemma.vonilin	Вонилин-ФУ	Stinkillin-FU	Вонілін-ФУ		Faruk +10% stink ampule; keep joke stem	—
+lemma.stink_unit	вонь / ВОНь	stink units	вань / ВОНь		Faruk Величина Относительной Неароматности; keep ВОНь cap unit	—
+lemma.orangerie	оранжерея	orangery	аранжарэя		Faruk; G аранжарэі A аранжарэю	—
+lemma.case	кейс	case	кэйс		Faruk fruit case; hunspell leftover OK like сэйф	—
+lemma.ski_lift_chair	кресельный подъемник	chairlift	крэсельны пад'ёмнік		Ski.qmm	—
+lemma.ski_lift_cabin	кабиночный подъемник	gondola lift	кабінны пад'ёмнік		Ski.qmm; hunspell кабінны	—
+lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort deputy; not спадарожнік	—
+lemma.pension	пенсия	pension	пэнсія		2005/hunspell пэнсія (hard п). Starnik пенсія rejected; user lock э	https://starnik.by/pravapis/54858
 lemma.gaalmedok	гаалмедок	gaalhoney	гаальмэдок		maloq joke food; keep race stem гааль-	—
 lemma.narkopis	наркопись	narcossism	наркопісь		art movement on anarchic planets; ShipGreetings/138	—
 lemma.rachehan	Рачехан	Rachehan	Рачэхан		pirate overlord; G Рачэхана, I Рачэханам	—
@@ -506,5 +516,152 @@ lemma.safe	сейф	safe	сэйф		equipment lock	—
 lemma.positron	Позитрон	Positron	Пазытрон		Codebox ToStar	—
 lemma.loctaragar	Локтарагар	Loctaragar	Локтарагар		Codebox ToPlanet	—
 lemma.dirdir	Дырдыр	Dirdir	Дырдыр		Codebox FromPlanet	—
-lemma.dooschiquie	ДущИкуе	Dooschiquie	ДущИкуе		Codebox ranger stub; keep щ	—
+lemma.dooschiquie	ДущИкуе	Dooschiquie	ДушчІкуе		Codebox ranger stub; display name, щ→шч И→І	—
+lemma.lenin_stub	Ленин	Lenin	Ленін		quest ranger stub; и→і	—
+lemma.piu_piu	Пиу-пиу	Piu-Piu	Піу-піу		Sortirovka1 star stub; и→і	—
+lemma.naliv_ayka	Налив-Айка	Naliv-Aika	Наліў-Айка		Provoda gaal professor; joke with Залівайка	—
+lemma.dndplayer	DND-проигрыватель	DND-player	DND-прайгравальнік		Faeyan antique disk player; Player.qmm	—
+lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player.qmm	—
+lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
+lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
+lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
+lemma.laser	лазер	laser	лязэр		equipment lock; robots.dat / QMM turrets	—
+lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
+lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
+lemma.cyborg	киборг	cyborg	кіборг		QMM combat unit; hunspell gap	—
+lemma.pharaoh	фараон	pharaoh	фараон		Uguptian title; Pharaon.qmm	—
+lemma.ares	Арес	Ares	Арес		letter-set АРЕС; not Арэс (Э vs Е in звер)	—
+lemma.vmaz	Вмаз	Vmaz	Вмаз		letter-set ВМАЗ	—
+lemma.zver	Звер	Zver	Зьвер		hunspell зьвер, not Звэр; letter-set ЗВЕР	—
+lemma.zeus	Зевс	Zeus	Зевс		letter-set ЗЕВС; not Зэўс (drops В)	—
+lemma.zema	Зема	Zema	Зема		letter-set ЗЕМА	—
+lemma.mers	Мерс	Mers	Мерс		letter-set МЕРС	—
+lemma.anusptis	Анусптис	Anusptis	Анусптыс		first letter А	—
+lemma.eptimat	Ептимат	Eptimat	Ептымат		first letter Е; not Эптымат	—
+lemma.vertepopes	Вертепопес	Vertepopes	Вэртэпопэс		first letter В	—
+lemma.zampolet	Замполет	Zampolet	Зампалёт		first letter З	—
+lemma.ramzets	Рамзец	Ramzets	Рамзэц		first letter Р	—
+lemma.seremtut	Серемтут	Seremtut	Сэрэмтут		first letter С	—
+lemma.moykhrenes	Мойхренес	Moykhrenes	Мойхрэнэс		first letter М	—
+lemma.tomb	гробница	tomb	грабніца		PlanetQuest 23 / Pharaon.qmm	—
+lemma.archeologist	археолог	archaeologist	археоляг		Pharaon.qmm	—
 
+lemma.barabum	Барабум	Barabum	Барабум		malok logic game; G Барабума L Барабуме; not Бабабум statue	—
+lemma.homarjob	Гомарджоб	Homarjob	Гомарджоб		championship organizer; gamarjoba joke; G Гомарджоба I Гомарджобам	—
+lemma.uralban	Уралбан	Uralban	Уралбан		malok champion; G Уралбана D Уралбану I Уралбанам	—
+lemma.ubaran	Убаран	Ubaran	Убаран		player mishear of Уралбан; keep RU key in jumps	—
+lemma.drakar_gromyko	Дракар Громыко	Drakar Gromiko	Дракар Громыко		legend warrior / player piece; G Дракара D Дракару	—
+lemma.malossossus	Малососус	Malossossus	Маласосус		malok spirit; G Маласосуса	—
+lemma.dirty_schnapps	Грязный Шнапс	Dirty Schnapps	Брудны Шнапс		Barabum trick; G Бруднага Шнапса	—
+lemma.bambai_crowd	Бамбаи	Bambais	Бамбаі		crowd shout; LOCK parody extras	—
+lemma.arality	Аралиты	Aralitas	Араліты		crowd shout	—
+lemma.kargas	Каргасы	Kargases	Каргасы		crowd shout	—
+lemma.foncer	Фонсер	foncer	Фонсэр	воін / робат	invented racing mech; keep name, tarask э after consonant (PlanetQuest Фонсэры, UselessItems Фонсэр-999). G фонсэра I фонсэрам pl фонсэры Gpl фонсэраў L фонсэрах	—
+lemma.foncer_racer	гонщик	racer	гоншчык		foncer pilot; G гоншчыка pl гоншчыкі	—
+lemma.foncer_slyboots	Проныра	Slyboots	Праныра		quest nickname of the planet representative	—
+lemma.foncer_hurricane	Ураган	Hurricane	Ураган		quoted foncer model	—
+lemma.foncer_tornado	Торнадо	Tornado	Тарнада		quoted foncer model	—
+lemma.foncer_vortex	Вихрь	Vortex	Віхар		quoted foncer model	—
+lemma.foncer_breeze	Бриз	Breeze	Брыз		quoted foncer model	—
+lemma.lot_draw	жеребьевка	draw	жараб'ёўка		sports lot-draw; G жараб'ёўкі A жараб'ёўку	hunspell-be-tarask
+lemma.foncer_rasgush	Расгуш	Rasgush	Расгуш		peleng racer proper name	—
+lemma.foncer_gonzar	Гозар	Gonzar	Гозар		malok racer proper name	—
+lemma.foncer_miatra	Миатра	Miatra	Міатра		faeyan racer; и→і	—
+lemma.foncer_korchenitza	Корченица	Korchenitza	Корченіца		earthman racer; и→і	—
+lemma.foncer_shulman	Михаэль Шульман	Mikhael Shulman	Міхаэль Шульман		incumbent champion; и→і	—
+lemma.lyakusha_moneybags	Лякуша Толстосум	Lyakusha Moneybags	Лякуша Толстосум		person name in SpaceLines (not Вярхоўны Лякуша); G Лякушы Толстосума, A Лякушу Толстосума	joke surname kept
+lemma.gerasim	Герасим Герасимович	Gerasim Gerasimovich	Герасім Герасімавіч		deaf-mute deputy; tarask і	—
+lemma.gopbst	ГОПБСТ	GCTU	ГОПБСТ		Галяктычны атрад па барацьбе з тэрарызмам; keep source acronym	—
+lemma.shortleg_longnose	коротконогий длинноносик	short-legged longnose	каротканогі доўганосік		rare animal in SpaceLines (not droid lemma.longnose); pl каротканогія доўганосікі	LOCK доўганосік
+lemma.svarakoks	Сварококс	Swarokox	Сваракокс		medicine from сваракок paws; keep critter stem	—
+lemma.knash	кнаш	knash	кнаш		invented bait critter; G кнаша pl кнашы/кнашаў	—
+lemma.grag	граг	grag	граг		malok length unit; G грага pl грагі/грагаў loc грагах	—
+lemma.bargagra	Баргагра	Bargagra	Баргагра		malok hunter NPC; G Баргагры	—
+lemma.kartenga	картенга	cartenga	картэнга		invented fruit tree	—
+lemma.khrumkhriamst	хрум-хрямст	crumpius	хрум-храмст		invented shrub; G хрум-храмсту adj хрум-храмставы	—
+lemma.kartahe	карта-хе	kara-heh	карта-хэ		joke martial art; shout ХЭ	—
+lemma.hekok	ХЕ-КОК	HEH-KOK	ХЭ-КОК		joke hunting method from карта-хэ + сваракок	—
+lemma.fotanka	фотонка	photon pistol	фатонка		slang photon gun in malok chronicle joke	—
+lemma.shneger	Шварц Шнегер	Schwarz Sheneger	Шварц Шнэгер		parody bodybuilder; keep joke surname	—
+lemma.drevochan	Древочан	Drevochan	Дрэвачан		parody action-hero name	—
+lemma.borzuhan	Борзухан	Borzuhan	Борзухан		peleng NPC in Sortirovka1; G Борзухана; keep as Pharaon/PlanetQuest	—
+lemma.locotractor	тягач	locotractor	цягач		yard engine that pulls railcars; G цягача pl цягачы Gpl цягачоў	—
+lemma.rail_consist	состав	train consist	склад	састаў	coupled railcars (not warehouse); G складу pl склады Gpl складоў	railway sense of склад
+lemma.sorter	сортировщик	sorter	сартавальнік		chief cargo sorter; G сартавальніка; PlanetQuest already	—
+lemma.writeup	взыскание	write-up	спагнаньне		disciplinary fine/write-up; G спагнаньня pl спагнаньні Gpl спагнаньняў	—
+lemma.galacredit	галакредит	galacredit	галакрэдыт		galactic credit wad; G галакрэдыта pl галакрэдыты	—
+lemma.gravitrain	гравипоезд	gravitrain	гравіцягнік		hybrid transport in Sortirovka1; G гравіцягніка pl гравіцягнікі	—
+lemma.argberger	Аргберджер	Argberger	Аргберджер		mini-locotractor make; keep invented name	—
+lemma.tshaipyu	Тшайпью	Tshaipyu	Тшайпью		mini-locotractor make; keep invented name	—
+lemma.tosharak	Тошарак	Tosharak	Тошарак		mini-locotractor make; keep invented name	—
+lemma.sanleo	Санлео	Sanleo	Санлео		mini-locotractor make; keep invented name	—
+lemma.isou	Айсоу	Isou	Айсоу		mini-locotractor make; keep invented name	—
+lemma.sirtet	Сиртет	Sirtet	Сіртет		Tetris parody game title; keep reverse stem, tarask і	—
+lemma.lyanchak_peyhats	Лянчак-Пейхац	Lyanchak-Peykhats	Лянчак-Пейхац		invented train route; keep	—
+lemma.sortir_outhouse	сортир	outhouse	сартыр		village toilet pun with сартаваньне; ShipGreetings already сартыры	—
+lemma.nonsmoking_ban	некурение	non-smoking	некурэньне		peleng-law joke (smoking required)	—
+lemma.macrohard_doors	Макрохард Дорс	Macrohard Doors	Макрахард Дорс		OS parody; adj макрахардаўскі; quoted Дорс	—
+lemma.watchman	вахтер	watchman	вахтар	вахцёр	hangar gate sentry; hunspell вахтар not вахцёр. G вахтара I вахтарам	hunspell-be-tarask
+lemma.beyvzub	Бейвзуб	Kicktooth	Бейвзуб		malok private; keep joke surname	—
+lemma.vzgryz	Взгрыз	Vzgryz	Взгрыз		malok captain; keep joke surname	—
+lemma.bobson	Бобсон	Bobson	Бобсон		coalition private; keep	—
+lemma.shotnag	Шотнаг	Shotnag	Шотнаг		coalition private; keep	—
+lemma.houdini_box	Гуудини	Houdini	Гуудзіні		magic-box exhibit; extra у kept	—
+lemma.ree_pin	Рее Пин	Reheuza Pin	Рее Пін		painter; и→і only	—
+lemma.pucherog	пучерог	poochercorn	пучарог		invented stuffed beast; G пучарога	—
+lemma.bdzyn	Бдзынь	Bdzyn	Бдзынь		vase-dynasty onomatopoeia; keep	—
+lemma.krokus_plant	хрюкус	krocus	хрукус		invented potted plant; I хрукусам L кадцы	—
+lemma.ososi	Ос-оси	Shamon fish	Ос-осі		exotic aquarium fish; I Ос-осямі	—
+lemma.figlar_ency	Фигляр	Clown	Фігляр		encyclopedia author; G Фігляра	—
+lemma.chippendale	чипэндейл	Chippendale	чыпэндэйл		dresser era joke; G чыпэндэйла	—
+lemma.entellect	энтеллект	intellect misspelling	энтэлект		ranger joke-malaprop of інтэлект	—
+lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонцаў		named kick; G бубонцаў	—
+lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
+lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
+lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
+lemma.blaster_baron	бластер	blaster	блястэр		already Baron4; G блястэра	—
+lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
+lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
+lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
+lemma.echosounder	эхолот	echo sounder	эхалот		depth sounder; G эхалота	Depth.qmm
+lemma.searchlight	прожектор	searchlight	пражэктар		submersible lamp; G пражэктара pl пражэктары	hunspell-be-tarask
+lemma.porthole	иллюминатор	viewport	ілюмінатар		hull window; G ілюмінатара pl ілюмінатары	hunspell-be-tarask
+lemma.ballast	балласт	ballast	баляст		dive weight; G балясту L балясьце	hunspell-be-tarask
+lemma.mermaid_base	Русалочка	Mermaid	Русалачка		quoted floating base; G Русалачкі L Русалачцы	hunspell-be-tarask
+lemma.blintel	Блинтел	Pantel	Блінтэл		submersible maker parody; G Блінтэла	Depth.qmm
+lemma.monstrodile	монстродил	monstrodile	манстрадзіл		deep-sea beast; G манстрадзіла	Depth.qmm; Pizza.qmm same creature
+lemma.kalterbruener	Кальтербрунер	Kalterbruener	Кальтэрбрунэр		invented physicist; псэўдавакуўмны эфэкт Кальтэрбрунэра	Depth.qmm
+lemma.jab_il_musto	Жаб Ил Мусто	Jab Hick Gusto	Жаб Іл Мусто		famous diver joke; planet Гаргынг	Depth.qmm
+lemma.gargyng	Гаргынг	Gargyng	Гаргынг		planet of Жаб Іл Мусто	Depth.qmm
+lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; оптронная печ	Depth.qmm
+lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
+lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
+lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
+lemma.gaal_adj	гаальский	Gaalian	гаальскі		race adj from гаальцы; fem гаальская	LOCK
+lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
+lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
+lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
+lemma.pseudovacuum	псевдовакуумный	pseudo-vacuum	псэўдавакуўмны		Kalterbruener effect adj	Depth.qmm
+lemma.specdept	спецотдел / спецзаказ	OpSec	спэцаддзел / спэцзамова		secret-ops compounds; L спэцаддзелу / спэцзамове	Depth.qmm
+lemma.ergo	эрго	ergo	эрго		Jumper.qmm energy unit; keep loan like гс	game unit
+lemma.jumper_pack	Джампер	Jumper	Джампэр		jump pack; PlanetQuest.List.15.Name already; G Джампэра I Джампэрам	PlanetQuest
+lemma.pryhun	Прыгун	Jumper (patent)	Прыгун		quoted patent name in success_text; not Джампэр	Jumper.qmm
+lemma.runner_dev	Бегун	Runner	Бягун		quoted sequel device in success_text	Jumper.qmm
+lemma.iiii	ИИИИ	IIII	ІІІІ		Institute acronym; и→і	Jumper.qmm
+lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
+lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
+lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
+lemma.quanga	кванга	quanga	кванга		invented fruit; A квангу	Jumper.qmm
+lemma.menzol	мензол	Menzol	мэнзол		invented folk; G мэнзола	Jumper.qmm
+lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
+lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
+lemma.jumpawaian	прыгавайцы	jumpawaiians	скакавайцы		invented jump-insect	Jumper.qmm
+lemma.kysh_mysh	кышь-мышь	hoosh-moosh	кышь-мышь		peleng soup name; keep	Jumper.qmm
+lemma.adid_ass	Адид-Асс	Addid-Ace	Адыд-Асс		shoe-brand parody; keep quotes	Jumper.qmm
+lemma.prygac_joke	прыгать	jump (letter joke)	прыгаць		keep прыгаць so crossed п → рыгаць	letter code
+lemma.jeham	Джеам	Jeham	Джэам		ToPlanet; дже→джэ	Jumper.qmm
+lemma.kraha	Краа	Kraha	Краа		ToStar; keep	Jumper.qmm
+lemma.phaphnire	Фафнир	Phaphnire	Фафнір		FromPlanet; и→і	Jumper.qmm
+lemma.phuphnire	Фуфнир	Phuphnire	Фуфнір		FromStar; и→і	Jumper.qmm
+lemma.grasshopper	Кузнечик	Grasshopper	Конік		ranger stub; insect jokes need same lemma	Jumper.qmm
+lemma.aldeeb	Альдиб	Aldeeb	Альдыб		luxury planet; L Альдыбе	Jumper.qmm

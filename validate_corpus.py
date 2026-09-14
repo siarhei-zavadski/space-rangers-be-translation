@@ -73,10 +73,27 @@ def main() -> None:
         if sensitive.search(path.read_text(encoding="utf-8")):
             raise ValueError(f"Possible committed token in {path}")
 
+    filled = sum(bool(row["be"]) for _, row in rows)
+    by_file: dict[str, list[int]] = {}
+    for path, row in rows:
+        stats = by_file.setdefault(path.name, [0, 0])
+        stats[1] += 1
+        if row["be"]:
+            stats[0] += 1
+    incomplete = sorted(
+        ((name, done, total) for name, (done, total) in by_file.items() if done < total),
+        key=lambda item: item[2] - item[1],
+        reverse=True,
+    )
     print(
         f"Valid repository corpus: {len(rows)} rows in {len(files)} files; "
-        f"{sum(bool(row['be']) for _, row in rows)} translated"
+        f"{filled} translated, {len(rows) - filled} empty be"
     )
+    print(f"Incomplete files: {len(incomplete)}")
+    for name, done, total in incomplete[:25]:
+        print(f"  {done}/{total} {name}")
+    if len(incomplete) > 25:
+        print(f"  ... {len(incomplete) - 25} more")
 
 
 if __name__ == "__main__":

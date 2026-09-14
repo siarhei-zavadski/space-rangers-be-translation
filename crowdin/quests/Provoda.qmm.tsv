@@ -1,183 +1,204 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Provoda.qmm/parameters/0/name"	"A1"	"Quest Provoda.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/0/lines/0/content"	"Параметр номер 1: <>"	"Quest Provoda.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Provoda.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/1/name"	"A2"	"Quest Provoda.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/1/lines/0/content"	"Параметр номер 2: <>"	"Quest Provoda.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Provoda.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/2/name"	"A3"	"Quest Provoda.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/2/lines/0/content"	"Параметр номер 3: <>"	"Quest Provoda.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Provoda.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/3/name"	"A4"	"Quest Provoda.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/3/lines/0/content"	"Параметр номер 4: <>"	"Quest Provoda.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Provoda.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/4/name"	"A5"	"Quest Provoda.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/4/lines/0/content"	"Параметр номер 5: <>"	"Quest Provoda.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Provoda.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/5/name"	"B1"	"Quest Provoda.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/5/lines/0/content"	"Параметр номер 6: <>"	"Quest Provoda.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Provoda.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/6/name"	"B2"	"Quest Provoda.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/6/lines/0/content"	"Параметр номер 7: <>"	"Quest Provoda.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Provoda.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/7/name"	"B3"	"Quest Provoda.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/7/lines/0/content"	"Параметр номер 8: <>"	"Quest Provoda.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Provoda.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/8/name"	"B4"	"Quest Provoda.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Provoda.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Provoda.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/9/name"	"B5"	"Quest Provoda.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Provoda.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Provoda.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/10/name"	"C1"	"Quest Provoda.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/10/lines/0/content"	"Параметр номер 11: <>"	"Quest Provoda.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Provoda.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/11/name"	"C2"	"Quest Provoda.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest Provoda.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Provoda.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/12/name"	"C3"	"Quest Provoda.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/12/lines/0/content"	"Параметр номер 13: <>"	"Quest Provoda.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Provoda.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/13/name"	"C4"	"Quest Provoda.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/13/lines/0/content"	"Параметр номер 14: <>"	"Quest Provoda.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Provoda.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/14/name"	"C5"	"Quest Provoda.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/14/lines/0/content"	"Параметр номер 15: <>"	"Quest Provoda.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Provoda.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/15/name"	"D1"	"Quest Provoda.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/15/lines/0/content"	"Параметр номер 16: <>"	"Quest Provoda.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Provoda.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/16/name"	"D2"	"Quest Provoda.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/16/lines/0/content"	"Параметр номер 17: <>"	"Quest Provoda.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Provoda.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/17/name"	"D3"	"Quest Provoda.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest Provoda.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Provoda.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/18/name"	"D4"	"Quest Provoda.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest Provoda.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Provoda.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/19/name"	"D5"	"Quest Provoda.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Provoda.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Provoda.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/20/name"	"E1"	"Quest Provoda.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Provoda.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Provoda.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/21/name"	"E2"	"Quest Provoda.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Provoda.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Provoda.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/22/name"	"E3"	"Quest Provoda.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Provoda.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Provoda.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/23/name"	"E4"	"Quest Provoda.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/23/lines/0/content"	"Параметр номер 24: <>"	"Quest Provoda.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Provoda.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/24/name"	"E5"	"Quest Provoda.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/24/lines/0/content"	"Параметр номер 25: <>"	"Quest Provoda.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Provoda.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/25/name"	"Параметр номер 26"	"Quest Provoda.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest Provoda.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Provoda.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/26/name"	"Параметр номер 27"	"Quest Provoda.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/26/lines/0/content"	"Параметр номер 27: <>"	"Quest Provoda.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Provoda.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/27/name"	"Параметр номер 28"	"Quest Provoda.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/27/lines/0/content"	"Параметр номер 28: <>"	"Quest Provoda.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Provoda.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/28/name"	"Параметр номер 29"	"Quest Provoda.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/28/lines/0/content"	"Параметр номер 29: <>"	"Quest Provoda.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Provoda.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/29/name"	"Параметр номер 30"	"Quest Provoda.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/29/lines/0/content"	"Параметр номер 30: <>"	"Quest Provoda.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Provoda.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/30/name"	"Параметр номер 31"	"Quest Provoda.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/30/lines/0/content"	"Параметр номер 31: <>"	"Quest Provoda.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Provoda.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/31/name"	"Параметр номер 32"	"Quest Provoda.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/31/lines/0/content"	"Параметр номер 32: <>"	"Quest Provoda.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Provoda.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/32/name"	"Параметр номер 33"	"Quest Provoda.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/32/lines/0/content"	"Параметр номер 33: <>"	"Quest Provoda.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Provoda.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/33/name"	"Параметр номер 34"	"Quest Provoda.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest Provoda.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Provoda.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/34/name"	"Параметр номер 35"	"Quest Provoda.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest Provoda.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Provoda.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/35/name"	"Параметр номер 36"	"Quest Provoda.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest Provoda.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Provoda.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/36/name"	"Параметр номер 37"	"Quest Provoda.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/36/lines/0/content"	"Параметр номер 37: <>"	"Quest Provoda.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Provoda.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/37/name"	"Параметр номер 38"	"Quest Provoda.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/37/lines/0/content"	"Параметр номер 38: <>"	"Quest Provoda.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Provoda.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/38/name"	"Параметр номер 39"	"Quest Provoda.qmm: parameters.38.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/38/lines/0/content"	"Параметр номер 39: <>"	"Quest Provoda.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Provoda.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/39/name"	"Параметр номер 40"	"Quest Provoda.qmm: parameters.39.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/39/lines/0/content"	"Параметр номер 40: <>"	"Quest Provoda.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Provoda.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/40/name"	"Параметр номер 41"	"Quest Provoda.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/40/lines/0/content"	"Параметр номер 41: <>"	"Quest Provoda.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Provoda.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/41/name"	"Параметр номер 42"	"Quest Provoda.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/41/lines/0/content"	"Параметр номер 42: <>"	"Quest Provoda.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Provoda.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/42/name"	"Параметр номер 43"	"Quest Provoda.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/42/lines/0/content"	"Параметр номер 43: <>"	"Quest Provoda.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Provoda.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/43/name"	"Параметр номер 44"	"Quest Provoda.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/43/lines/0/content"	"Параметр номер 44: <>"	"Quest Provoda.qmm: parameters.43.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Provoda.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/44/name"	"Параметр номер 45"	"Quest Provoda.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/44/lines/0/content"	"Параметр номер 45: <>"	"Quest Provoda.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Provoda.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/45/name"	"Головосломочная"	"Quest Provoda.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/45/lines/0/content"	"Параметр номер 46: <>"	"Quest Provoda.qmm: parameters.45.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Provoda.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/46/name"	"Профессор"	"Quest Provoda.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/46/lines/0/content"	"Параметр номер 47: <>"	"Quest Provoda.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Provoda.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/47/name"	"Текстовая"	"Quest Provoda.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/47/lines/0/content"	"Параметр номер 48: <>"	"Quest Provoda.qmm: parameters.47.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Provoda.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+"/quests/Provoda.qmm/parameters/0/name"	"A1"	"Quest Provoda.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Provoda"	"A1"
+"/quests/Provoda.qmm/parameters/0/lines/0/content"	"Параметр номер 1: <>"	"Quest Provoda.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 1: <>"
+"/quests/Provoda.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Provoda.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 1"
+"/quests/Provoda.qmm/parameters/1/name"	"A2"	"Quest Provoda.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Provoda"	"A2"
+"/quests/Provoda.qmm/parameters/1/lines/0/content"	"Параметр номер 2: <>"	"Quest Provoda.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 2: <>"
+"/quests/Provoda.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Provoda.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 2"
+"/quests/Provoda.qmm/parameters/2/name"	"A3"	"Quest Provoda.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Provoda"	"A3"
+"/quests/Provoda.qmm/parameters/2/lines/0/content"	"Параметр номер 3: <>"	"Quest Provoda.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 3: <>"
+"/quests/Provoda.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Provoda.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 3"
+"/quests/Provoda.qmm/parameters/3/name"	"A4"	"Quest Provoda.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Provoda"	"A4"
+"/quests/Provoda.qmm/parameters/3/lines/0/content"	"Параметр номер 4: <>"	"Quest Provoda.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 4: <>"
+"/quests/Provoda.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Provoda.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 4"
+"/quests/Provoda.qmm/parameters/4/name"	"A5"	"Quest Provoda.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Provoda"	"A5"
+"/quests/Provoda.qmm/parameters/4/lines/0/content"	"Параметр номер 5: <>"	"Quest Provoda.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 5: <>"
+"/quests/Provoda.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Provoda.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 5"
+"/quests/Provoda.qmm/parameters/5/name"	"B1"	"Quest Provoda.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,Provoda"	"B1"
+"/quests/Provoda.qmm/parameters/5/lines/0/content"	"Параметр номер 6: <>"	"Quest Provoda.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 6: <>"
+"/quests/Provoda.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Provoda.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 6"
+"/quests/Provoda.qmm/parameters/6/name"	"B2"	"Quest Provoda.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Provoda"	"B2"
+"/quests/Provoda.qmm/parameters/6/lines/0/content"	"Параметр номер 7: <>"	"Quest Provoda.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 7: <>"
+"/quests/Provoda.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Provoda.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 7"
+"/quests/Provoda.qmm/parameters/7/name"	"B3"	"Quest Provoda.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Provoda"	"B3"
+"/quests/Provoda.qmm/parameters/7/lines/0/content"	"Параметр номер 8: <>"	"Quest Provoda.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 8: <>"
+"/quests/Provoda.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Provoda.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 8"
+"/quests/Provoda.qmm/parameters/8/name"	"B4"	"Quest Provoda.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Provoda"	"B4"
+"/quests/Provoda.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Provoda.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 9: <>"
+"/quests/Provoda.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Provoda.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 9"
+"/quests/Provoda.qmm/parameters/9/name"	"B5"	"Quest Provoda.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Provoda"	"B5"
+"/quests/Provoda.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Provoda.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 10: <>"
+"/quests/Provoda.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Provoda.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 10"
+"/quests/Provoda.qmm/parameters/10/name"	"C1"	"Quest Provoda.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Provoda"	"C1"
+"/quests/Provoda.qmm/parameters/10/lines/0/content"	"Параметр номер 11: <>"	"Quest Provoda.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 11: <>"
+"/quests/Provoda.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Provoda.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 11"
+"/quests/Provoda.qmm/parameters/11/name"	"C2"	"Quest Provoda.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Provoda"	"C2"
+"/quests/Provoda.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest Provoda.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 12: <>"
+"/quests/Provoda.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Provoda.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 12"
+"/quests/Provoda.qmm/parameters/12/name"	"C3"	"Quest Provoda.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Provoda"	"C3"
+"/quests/Provoda.qmm/parameters/12/lines/0/content"	"Параметр номер 13: <>"	"Quest Provoda.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 13: <>"
+"/quests/Provoda.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Provoda.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 13"
+"/quests/Provoda.qmm/parameters/13/name"	"C4"	"Quest Provoda.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Provoda"	"C4"
+"/quests/Provoda.qmm/parameters/13/lines/0/content"	"Параметр номер 14: <>"	"Quest Provoda.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 14: <>"
+"/quests/Provoda.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Provoda.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 14"
+"/quests/Provoda.qmm/parameters/14/name"	"C5"	"Quest Provoda.qmm: parameters.14.name. Preserve every <tag> exactly."	"Quest,Provoda"	"C5"
+"/quests/Provoda.qmm/parameters/14/lines/0/content"	"Параметр номер 15: <>"	"Quest Provoda.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 15: <>"
+"/quests/Provoda.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Provoda.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 15"
+"/quests/Provoda.qmm/parameters/15/name"	"D1"	"Quest Provoda.qmm: parameters.15.name. Preserve every <tag> exactly."	"Quest,Provoda"	"D1"
+"/quests/Provoda.qmm/parameters/15/lines/0/content"	"Параметр номер 16: <>"	"Quest Provoda.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 16: <>"
+"/quests/Provoda.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Provoda.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 16"
+"/quests/Provoda.qmm/parameters/16/name"	"D2"	"Quest Provoda.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Provoda"	"D2"
+"/quests/Provoda.qmm/parameters/16/lines/0/content"	"Параметр номер 17: <>"	"Quest Provoda.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 17: <>"
+"/quests/Provoda.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Provoda.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 17"
+"/quests/Provoda.qmm/parameters/17/name"	"D3"	"Quest Provoda.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Provoda"	"D3"
+"/quests/Provoda.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest Provoda.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 18: <>"
+"/quests/Provoda.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Provoda.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 18"
+"/quests/Provoda.qmm/parameters/18/name"	"D4"	"Quest Provoda.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Provoda"	"D4"
+"/quests/Provoda.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest Provoda.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 19: <>"
+"/quests/Provoda.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Provoda.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 19"
+"/quests/Provoda.qmm/parameters/19/name"	"D5"	"Quest Provoda.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Provoda"	"D5"
+"/quests/Provoda.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Provoda.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 20: <>"
+"/quests/Provoda.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Provoda.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 20"
+"/quests/Provoda.qmm/parameters/20/name"	"E1"	"Quest Provoda.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Provoda"	"E1"
+"/quests/Provoda.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Provoda.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 21: <>"
+"/quests/Provoda.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Provoda.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 21"
+"/quests/Provoda.qmm/parameters/21/name"	"E2"	"Quest Provoda.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Provoda"	"E2"
+"/quests/Provoda.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Provoda.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 22: <>"
+"/quests/Provoda.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Provoda.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 22"
+"/quests/Provoda.qmm/parameters/22/name"	"E3"	"Quest Provoda.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Provoda"	"E3"
+"/quests/Provoda.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Provoda.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 23: <>"
+"/quests/Provoda.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Provoda.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 23"
+"/quests/Provoda.qmm/parameters/23/name"	"E4"	"Quest Provoda.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Provoda"	"E4"
+"/quests/Provoda.qmm/parameters/23/lines/0/content"	"Параметр номер 24: <>"	"Quest Provoda.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 24: <>"
+"/quests/Provoda.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Provoda.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 24"
+"/quests/Provoda.qmm/parameters/24/name"	"E5"	"Quest Provoda.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Provoda"	"E5"
+"/quests/Provoda.qmm/parameters/24/lines/0/content"	"Параметр номер 25: <>"	"Quest Provoda.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 25: <>"
+"/quests/Provoda.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Provoda.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 25"
+"/quests/Provoda.qmm/parameters/25/name"	"Параметр номер 26"	"Quest Provoda.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 26"
+"/quests/Provoda.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest Provoda.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 26: <>"
+"/quests/Provoda.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Provoda.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 26"
+"/quests/Provoda.qmm/parameters/26/name"	"Параметр номер 27"	"Quest Provoda.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 27"
+"/quests/Provoda.qmm/parameters/26/lines/0/content"	"Параметр номер 27: <>"	"Quest Provoda.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 27: <>"
+"/quests/Provoda.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Provoda.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 27"
+"/quests/Provoda.qmm/parameters/27/name"	"Параметр номер 28"	"Quest Provoda.qmm: parameters.27.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 28"
+"/quests/Provoda.qmm/parameters/27/lines/0/content"	"Параметр номер 28: <>"	"Quest Provoda.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 28: <>"
+"/quests/Provoda.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Provoda.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 28"
+"/quests/Provoda.qmm/parameters/28/name"	"Параметр номер 29"	"Quest Provoda.qmm: parameters.28.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 29"
+"/quests/Provoda.qmm/parameters/28/lines/0/content"	"Параметр номер 29: <>"	"Quest Provoda.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 29: <>"
+"/quests/Provoda.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest Provoda.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 29"
+"/quests/Provoda.qmm/parameters/29/name"	"Параметр номер 30"	"Quest Provoda.qmm: parameters.29.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 30"
+"/quests/Provoda.qmm/parameters/29/lines/0/content"	"Параметр номер 30: <>"	"Quest Provoda.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 30: <>"
+"/quests/Provoda.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Provoda.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 30"
+"/quests/Provoda.qmm/parameters/30/name"	"Параметр номер 31"	"Quest Provoda.qmm: parameters.30.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 31"
+"/quests/Provoda.qmm/parameters/30/lines/0/content"	"Параметр номер 31: <>"	"Quest Provoda.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 31: <>"
+"/quests/Provoda.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Provoda.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 31"
+"/quests/Provoda.qmm/parameters/31/name"	"Параметр номер 32"	"Quest Provoda.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 32"
+"/quests/Provoda.qmm/parameters/31/lines/0/content"	"Параметр номер 32: <>"	"Quest Provoda.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 32: <>"
+"/quests/Provoda.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest Provoda.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 32"
+"/quests/Provoda.qmm/parameters/32/name"	"Параметр номер 33"	"Quest Provoda.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 33"
+"/quests/Provoda.qmm/parameters/32/lines/0/content"	"Параметр номер 33: <>"	"Quest Provoda.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 33: <>"
+"/quests/Provoda.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest Provoda.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 33"
+"/quests/Provoda.qmm/parameters/33/name"	"Параметр номер 34"	"Quest Provoda.qmm: parameters.33.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 34"
+"/quests/Provoda.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest Provoda.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 34: <>"
+"/quests/Provoda.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest Provoda.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 34"
+"/quests/Provoda.qmm/parameters/34/name"	"Параметр номер 35"	"Quest Provoda.qmm: parameters.34.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 35"
+"/quests/Provoda.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest Provoda.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 35: <>"
+"/quests/Provoda.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest Provoda.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 35"
+"/quests/Provoda.qmm/parameters/35/name"	"Параметр номер 36"	"Quest Provoda.qmm: parameters.35.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 36"
+"/quests/Provoda.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest Provoda.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 36: <>"
+"/quests/Provoda.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Provoda.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 36"
+"/quests/Provoda.qmm/parameters/36/name"	"Параметр номер 37"	"Quest Provoda.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 37"
+"/quests/Provoda.qmm/parameters/36/lines/0/content"	"Параметр номер 37: <>"	"Quest Provoda.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 37: <>"
+"/quests/Provoda.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Provoda.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 37"
+"/quests/Provoda.qmm/parameters/37/name"	"Параметр номер 38"	"Quest Provoda.qmm: parameters.37.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 38"
+"/quests/Provoda.qmm/parameters/37/lines/0/content"	"Параметр номер 38: <>"	"Quest Provoda.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 38: <>"
+"/quests/Provoda.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Provoda.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 38"
+"/quests/Provoda.qmm/parameters/38/name"	"Параметр номер 39"	"Quest Provoda.qmm: parameters.38.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 39"
+"/quests/Provoda.qmm/parameters/38/lines/0/content"	"Параметр номер 39: <>"	"Quest Provoda.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 39: <>"
+"/quests/Provoda.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Provoda.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 39"
+"/quests/Provoda.qmm/parameters/39/name"	"Параметр номер 40"	"Quest Provoda.qmm: parameters.39.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 40"
+"/quests/Provoda.qmm/parameters/39/lines/0/content"	"Параметр номер 40: <>"	"Quest Provoda.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 40: <>"
+"/quests/Provoda.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Provoda.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 40"
+"/quests/Provoda.qmm/parameters/40/name"	"Параметр номер 41"	"Quest Provoda.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 41"
+"/quests/Provoda.qmm/parameters/40/lines/0/content"	"Параметр номер 41: <>"	"Quest Provoda.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 41: <>"
+"/quests/Provoda.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Provoda.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 41"
+"/quests/Provoda.qmm/parameters/41/name"	"Параметр номер 42"	"Quest Provoda.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 42"
+"/quests/Provoda.qmm/parameters/41/lines/0/content"	"Параметр номер 42: <>"	"Quest Provoda.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 42: <>"
+"/quests/Provoda.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Provoda.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 42"
+"/quests/Provoda.qmm/parameters/42/name"	"Параметр номер 43"	"Quest Provoda.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 43"
+"/quests/Provoda.qmm/parameters/42/lines/0/content"	"Параметр номер 43: <>"	"Quest Provoda.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 43: <>"
+"/quests/Provoda.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Provoda.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 43"
+"/quests/Provoda.qmm/parameters/43/name"	"Параметр номер 44"	"Quest Provoda.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 44"
+"/quests/Provoda.qmm/parameters/43/lines/0/content"	"Параметр номер 44: <>"	"Quest Provoda.qmm: parameters.43.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 44: <>"
+"/quests/Provoda.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Provoda.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 44"
+"/quests/Provoda.qmm/parameters/44/name"	"Параметр номер 45"	"Quest Provoda.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 45"
+"/quests/Provoda.qmm/parameters/44/lines/0/content"	"Параметр номер 45: <>"	"Quest Provoda.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 45: <>"
+"/quests/Provoda.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Provoda.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 45"
+"/quests/Provoda.qmm/parameters/45/name"	"Головосломочная"	"Quest Provoda.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Галавазломачная"
+"/quests/Provoda.qmm/parameters/45/lines/0/content"	"Параметр номер 46: <>"	"Quest Provoda.qmm: parameters.45.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 46: <>"
+"/quests/Provoda.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Provoda.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 46"
+"/quests/Provoda.qmm/parameters/46/name"	"Профессор"	"Quest Provoda.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Прафэсар"
+"/quests/Provoda.qmm/parameters/46/lines/0/content"	"Параметр номер 47: <>"	"Quest Provoda.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 47: <>"
+"/quests/Provoda.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Provoda.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 47"
+"/quests/Provoda.qmm/parameters/47/name"	"Текстовая"	"Quest Provoda.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Provoda"	"Тэкставая"
+"/quests/Provoda.qmm/parameters/47/lines/0/content"	"Параметр номер 48: <>"	"Quest Provoda.qmm: parameters.47.lines.0.content. Preserve every <tag> exactly."	"Quest,Provoda"	"Парамэтар нумар 48: <>"
+"/quests/Provoda.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Provoda.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 48"
 "/quests/Provoda.qmm/success_text"	"Поздравляю, <Ranger>! 
-Вы не только спасли персонал научной экспедиции и уникальные руины древней цивилизации, но и раскрыли одну из величайших их загадок. Получите эти <Money> Cr. - вы их заслужили по праву!"	"Quest Provoda.qmm: success_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Вы не только спасли персонал научной экспедиции и уникальные руины древней цивилизации, но и раскрыли одну из величайших их загадок. Получите эти <Money> Cr. - вы их заслужили по праву!"	"Quest Provoda.qmm: success_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Віншую, <Ranger>! 
+Вы ня толькі выратавалі пэрсанал навуковай экспэдыцыі і ўнікальныя руіны старажытнай цывілізацыі, але й раскрылі адну з найвялікшых іхных загадак. Атрымайце гэтыя <Money> Cr. - вы іх заслужылі па праве!"
 "/quests/Provoda.qmm/task_text"	"Как вы знаете, <Ranger>, в системе <ToStar> есть необитаемая планета <ToPlanet>, где в данный момент находится наша научная экспедиция. У них возникли какие-то проблемы с электричеством. К нам уже который день приходят от них тревожные сообщения с легким налетом истерии. Поскольку мощность их сигнала невелика, полный текст сообщения нам получить не удалось.
-Если вы, <Ranger>, сейчас свободны и хотите заработать <Money> Cr., то слетайте туда и разберитесь, что к чему. На все про все у вас <Day> дней. Почему-то именно эту цифру до какого-то часа ""Жо"" назвали они в своем последнем, более-менее разборчивом сообщении."	"Quest Provoda.qmm: task_text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Если вы, <Ranger>, сейчас свободны и хотите заработать <Money> Cr., то слетайте туда и разберитесь, что к чему. На все про все у вас <Day> дней. Почему-то именно эту цифру до какого-то часа ""Жо"" назвали они в своем последнем, более-менее разборчивом сообщении."	"Quest Provoda.qmm: task_text. Preserve every <tag> exactly."	"Quest,Provoda"	"Як вы ведаеце, <Ranger>, у сыстэме <ToStar> ёсьць незаселеная плянэта <ToPlanet>, дзе ў гэты момант знаходзіцца наша навуковая экспэдыцыя. У іх паўсталі нейкія праблемы з электрычнасьцю. Да нас ужо які дзень прыходзяць ад іх трывожныя паведамленьні зь лёгкім налётам гістэрыі. Паколькі магутнасьць іхнага сыгналу невялікая, поўны тэкст паведамленьня нам атрымаць не ўдалося.
+Калі вы, <Ranger>, зараз вольныя і хочаце зарабіць <Money> Cr., то зьлятайце туды і разьбярыцеся, што да чаго. На ўсё пра ўсё ў вас <Day> дзён. Чамусьці менавіта гэтую лічбу да нейкага часу ""Жо"" назвалі яны ў сваім апошнім, больш-менш разборлівым паведамленьні."
 "/quests/Provoda.qmm/locations/0/texts/0/text"	"Вы совершили посадку на бетонную площадку, расположенную в сердце небольшой поляны чащи леса. Через лобовое обзорное стекло вы увидели фэянина, который стоял в защитном прозрачном конусе и синхронно махал вам двумя светящимися палочками, показывая место для приземления. Вы приветливо помахали ему, но он этого, естественно, не заметил.
 Взглянув на приборную панель, вы обратили внимание на то, что воздух на планете разреженный, а потому без скафандра тут не обойтись. ""Интересно, как же растения здесь выживают?"" - мысленно спросили вы сами себя, надевая шлем с золотым светофильтром. 
 В шлюзовую камеру корабля вежливо постучали, что вас сильно удивило. Если вы слышали такие звуки, то это говорило об одном из двух: либо корабль находился под обстрелом, либо какой-то малок со всей дури молотил кулаком в дверь.
-Проверив заряд бластера, вы перед выходом из корабля бросили взгляд на фэянина в защитном конусе. Он по-прежнему плавно и синхронно махал двумя светящимися палочками."	"Quest Provoda.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Проверив заряд бластера, вы перед выходом из корабля бросили взгляд на фэянина в защитном конусе. Он по-прежнему плавно и синхронно махал двумя светящимися палочками."	"Quest Provoda.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы зьдзейсьнілі пасадку на бэтонную пляцоўку, разьмешчаную ў сэрцы невялікай палянкі гушчару лесу. Праз лабавое агляднае шкло вы ўбачылі фэяніна, які стаяў у ахоўным празрыстым конусе і сынхронна махаў вам дзьвюма сьвятлівымі палачкамі, паказваючы месца для прызямленьня. Вы прыязна памахалі яму, але ён гэтага, натуральна, не заўважыў.
+Зірнуўшы на прыборную панэль, вы зьвярнулі ўвагу на тое, што паветра на плянэце разрэджанае, а таму бяз скафандра тут не абысьціся. ""Цікава, як жа расьліны тут выжываюць?"" - мысьленна спыталі вы самі сябе, надзяваючы шлем з залатым фільтрам. 
+У шлюзавую камэру карабля ветліва пастукалі, што вас моцна зьдзівіла. Калі вы чулі такія гукі, то гэта казала пра адно з двух: альбо карабель знаходзіўся пад абстрэлам, альбо нейкі малок з усёй дуры лупіў кулаком у дзьверы.
+Праверыўшы зарад блястэра, вы перад выхадам з карабля кінулі погляд на фэяніна ў ахоўным конусе. Ён па-ранейшаму плаўна і сынхронна махаў дзьвюма сьвятлівымі палачкамі."
 "/quests/Provoda.qmm/locations/1/texts/0/text"	"- Меня зовут <clr>Блюндерр<clrEnd>. Я второй инженер экспедиции - представился встречавший вас малок и, заметив ваш вопросительный взгляд, направленный в сторону фэянина в прозрачном конусе, добавил:
-- Это профессор <clr>Фуньдай<clrEnd>. Бедняга. Ото всех этих событий он конкретно свихнулся. Следуйте за мной - вам ничего не оставалось делать, кроме как послушаться малока."	"Quest Provoda.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Это профессор <clr>Фуньдай<clrEnd>. Бедняга. Ото всех этих событий он конкретно свихнулся. Следуйте за мной - вам ничего не оставалось делать, кроме как послушаться малока."	"Quest Provoda.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Мяне клічуць <clr>Блюндерр<clrEnd>. Я другі інжынэр экспэдыцыі - прадставіўся малок, што сустракаў вас, і, заўважыўшы ваш пытальны погляд, скіраваны ў бок фэяніна ў празрыстым конусе, дадаў:
+- Гэта прафэсар <clr>Фуньдай<clrEnd>. Бедны. Ад усіх гэтых падзей ён канкрэтна звар'яцеў. Ідзіце за мной - вам нічога не заставалася рабіць, акрамя як паслухацца малака."
 "/quests/Provoda.qmm/locations/2/texts/0/text"	"Не успели вы сделать и десятка шагов, как подверглись нападению агрессивно настроенных представителей местной фауны. <clr>Блюндерр<clrEnd> среагировал молниеносно. Выхватив неизвестно как поместившийся в его кармане плазмоган, он начал поливать атакующих порциями раскаленного огня. Спустя несколько секунд, вы опомнились, выхватили бластер и присоединились к состязанию на меткость. Начало выходило интригующим, если не считать того, что фэянин в прозрачном конусе по-прежнему синхронно махал своими светящимися палочками.
 - Быстрее, в бункер - прервал ваши размышления <clr>Блюндерр<clrEnd>, схватил вас в охапку и, продолжая отстреливаться, дотащил вас оставшиеся до безопасного места пару десятков метров. Перед тем как вас впихнуть в шлюзовую камеру, малок, словно угадав ваши мысли, сказал:
-- За <clr>Фуньдая<clrEnd> не беспокойтесь. Он - в защитном конусе. Думаю, с ним ничего не случится. Надеюсь."	"Quest Provoda.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- За <clr>Фуньдая<clrEnd> не беспокойтесь. Он - в защитном конусе. Думаю, с ним ничего не случится. Надеюсь."	"Quest Provoda.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Не пасьпелі вы зрабіць і дзясятка крокаў, як зазналі напад агрэсіўна настроеных прадстаўнікоў мясцовай фаўны. <clr>Блюндерр<clrEnd> адрэагаваў маланкава. Выхапіўшы невядома як зьмешчаны ў ягонай кішэні плязмаган, ён пачаў паліваць зьвяроў порцыямі распаленага агню. Праз некалькі сэкундаў вы ачунялі, выхапілі блястэр і далучыліся да спаборніцтва на меткасьць. Пачатак выходзіў інтрыгоўны, калі ня лічыць таго, што фэянін у празрыстым конусе па-ранейшаму сынхронна махаў сваімі сьвятлівымі палачкамі.
+- Хутчэй, у бункер - перапыніў вашыя роздумы <clr>Блюндерр<clrEnd>, схапіў вас у ахапак і, працягваючы адстрэльвацца, дацягнуў вас астатнія да бясьпечнага месца пару дзясяткаў мэтраў. Перад тым як вас упхнуць у шлюзавую камэру, малок, нібы ўгадаўшы вашыя думкі, сказаў:
+- За <clr>Фуньдая<clrEnd> ня турбуйцеся. Ён - у ахоўным конусе. Думаю, з ім нічога не здарыцца. Спадзяюся."
 "/quests/Provoda.qmm/locations/3/texts/0/text"	"Отшлюзовавшись, вы оказались в защитном бункере, в котором жили участники научной экспедиции. Малок провел вас в местную кают-компанию, где уже стали собираться сотрудники. Вас очень удивило, что среди них были сплошь малоки, пеленги, да пара человек придурковатого вида. Среди этой, в общем-то однообразной массы, выделялся гаалец, который постоянно подпрыгивал и махал руками, словно хотел поймать невидимого, но весьма настырного сосуна.
 - Розовых слоников ловит - прокомментировал ваше недоумение один из пеленгов.
 - Это профессор <clr>Налив-Айка<clrEnd>. Он пытался примириться с тем, что здесь произошло, но у него не получилось. Тогда он попробовал сделать то же самое с помощью подручных средств, типа бутанола, и вот чем это закончилось - пояснил <clr>Блюндерр<clrEnd>. Заметив, что все уже собрались, он начал выступление:
 
 - Итак, меня зовут <clr>Блюндерр<clrEnd>. Я - второй инженер научной экспедиции. Надеюсь, все это вспомнили? У нас, <Ranger>, возникла серьезная проблема. Через несколько часов над нами пройдет метеоритный рой. Глыбы достаточно крупные для того, чтобы превратить эту планетку с жиденькой атмосферой в покрытый кратерами астероид. Единственный способ спасти ее и нас от печальной участи - активировать планетарный генератор защитного поля. К сожалению, главный инженер экспедиции что-то там перемудрил с настройками. В результате, энергоблоки электростанции теперь восстановлению не подлежат. А это значит: нет энергии - нет защиты и полный п-п-п..... привет, короче. Простите, дамы.
-Вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/locations/3/texts/1/text"	"- Наверное чувствуют, твари клыкастые, где пахнет жаренным. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/locations/3/texts/2/text"	"- Умен? А вы полетайте с мое в составе разных научных экспедиций. Гарантирую: через пару лет каким-нибудь дОцентом станете! Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выйшаўшы са шлюзу, вы апынуліся ў ахоўным бункеры, у якім жылі ўдзельнікі навуковай экспэдыцыі. Малок правёў вас у мясцовую кают-кампанію, дзе ўжо пачалі зьбірацца супрацоўнікі. Вас вельмі зьдзівіла, што сярод іх былі адны малокі, пеленгі, ды пара чалавек прыдуркаватага выгляду. Сярод гэтай, увогуле аднастайнай масы, вылучаўся гаалец, які пастаянна падскокваў і махаў рукамі, нібы хацеў злавіць нябачнага, але вельмі назойлівага смактуна.
+- Ружовых сланікоў ловіць - пракамэнтаваў вашае зьдзіўленьне адзін з пеленгаў.
+- Гэта прафэсар <clr>Наліў-Айка<clrEnd>. Ён спрабаваў памірыцца з тым, што тут адбылося, але ў яго не атрымалася. Тады ён паспрабаваў зрабіць тое самае з дапамогай падручных сродкаў, кшталту бутанолу, і вось чым гэта скончылася - растлумачыў <clr>Блюндерр<clrEnd>. Заўважыўшы, што ўсе ўжо сабраліся, ён пачаў выступ:
+
+- Дык вось, мяне клічуць <clr>Блюндерр<clrEnd>. Я - другі інжынэр навуковай экспэдыцыі. Спадзяюся, усе гэта ўзгадалі? У нас, <Ranger>, паўстала сур'ёзная праблема. Праз некалькі гадзінаў над намі пройдзе мэтэарытны рой. Глыбы дастаткова буйныя для таго, каб ператварыць гэтую малую плянэту з вадкай атмасфэрай у пакрыты кратэрамі астэроід. Адзіны спосаб уратаваць яе і нас ад сумнай долі - актываваць плянэтарны генэратар абарончага поля. На жаль, галоўны інжынэр экспэдыцыі нешта там перамудрыў пры наладцы. У выніку энэргаблёкі электрастанцыі цяпер аднаўленьню ня падлягаюць. А гэта значыць: няма энэргіі - няма абароны і поўны п-п-п..... прывітаньне, коратка. Прабачце, дамы.
+Пытаньні ёсьць?"
+"/quests/Provoda.qmm/locations/3/texts/1/text"	"- Наверное чувствуют, твари клыкастые, где пахнет жаренным. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Напэўна адчуваюць, твары ікластыя, дзе пахне смажаным. Яшчэ пытаньні ёсьць?"
+"/quests/Provoda.qmm/locations/3/texts/2/text"	"- Умен? А вы полетайте с мое в составе разных научных экспедиций. Гарантирую: через пару лет каким-нибудь дОцентом станете! Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Разумны? А вы палятайце з маё ў складзе розных навуковых экспэдыцыяў. Гарантую: праз пару гадоў нейкім дАцэнтам станеце! Яшчэ пытаньні ёсьць?"
 "/quests/Provoda.qmm/locations/3/texts/3/text"	"- Кого нет - того нет. Когда главный инженер после своей ошибки сбежал на первом корабле, эти умноголовые слиняли на втором. Правда, впопыхах они забыли тут парочку своих коллег: <clr>Фуньдая<clrEnd> и <clr>Налив-Айку<clrEnd>. Они не успели к старту по причине того, что пытались упаковать и таким образом спасти часть собранных здесь уникальных материалов. Поступок братьев по разуму настолько потряс их, что они свихнулись. <clr>Фуньдай<clrEnd> - почти сразу. <clr>Налив-Айка<clrEnd> - после бутанола. Но это уже лирика. 
-К счастью, далеко беглецам уйти не удалось. Они стали жертвами пиратского нападения - нечем было заплатить за пролет."	"Quest Provoda.qmm: locations.3.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/locations/3/texts/4/text"	"- Когда главный инженер понял, что он сотворил, то не стал терять времени даром, пробрался на летное поле и угнал один из двух кораблей - тот, что был рассчитан на 2-3 пассажиров. К счастью, управляет он кораблем хуже, чем электростанцией. При выходе на орбиту не рассчитал скорость и упал где-то в горах. Корабль взорвался. Уцелевших - нет. Проверено."	"Quest Provoda.qmm: locations.3.texts.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/locations/3/texts/5/text"	"- Все мы не поместимся. А оставлять кого-то здесь на верную гибель - аморально. Уж поверьте мне, как настоящему малоку. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+К счастью, далеко беглецам уйти не удалось. Они стали жертвами пиратского нападения - нечем было заплатить за пролет."	"Quest Provoda.qmm: locations.3.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Каго няма - таго няма. Калі галоўны інжынэр пасьля сваёй памылкі ўцёк на першым караблі, гэтыя разумнагаловыя зьлінялі на другім. Праўда, у пасьпеху яны забылі тут пару сваіх калег: <clr>Фуньдая<clrEnd> і <clr>Наліў-Айку<clrEnd>. Яны не пасьпелі да старту праз тое, што спрабавалі спакаваць і такім чынам уратаваць частку сабраных тут унікальных матэрыялаў. Учынак братоў па розуме настолькі ўзрушыў іх, што яны звар'яцелі. <clr>Фуньдай<clrEnd> - амаль адразу. <clr>Наліў-Айка<clrEnd> - пасьля бутанолу. Але гэта ўжо лірыка. 
+На шчасьце, далёка ўцекачам пайсьці не ўдалося. Яны сталі ахвярамі пірацкага нападу - нечым было заплаціць за пралёт."
+"/quests/Provoda.qmm/locations/3/texts/4/text"	"- Когда главный инженер понял, что он сотворил, то не стал терять времени даром, пробрался на летное поле и угнал один из двух кораблей - тот, что был рассчитан на 2-3 пассажиров. К счастью, управляет он кораблем хуже, чем электростанцией. При выходе на орбиту не рассчитал скорость и упал где-то в горах. Корабль взорвался. Уцелевших - нет. Проверено."	"Quest Provoda.qmm: locations.3.texts.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Калі галоўны інжынэр зразумеў, што ён учыніў, то не стаў марнаваць час, пракраўся на лётнае поле і ўгнаў адзін з двух караблёў - той, што быў разьлічаны на 2-3 пасажыраў. На шчасьце, кіруе ён караблём горш, чым электрастанцыяй. Пры выхадзе на арбіту ня разьлічыў хуткасьць і ўпаў недзе ў горах. Карабель выбухнуў. Уцалелых - няма. Праверана."
+"/quests/Provoda.qmm/locations/3/texts/5/text"	"- Все мы не поместимся. А оставлять кого-то здесь на верную гибель - аморально. Уж поверьте мне, как настоящему малоку. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Усе мы ня ўлезем. А пакідаць кагосьці тут на пэўную гібель - амаральна. Ужо паверце мне, як сапраўднаму малоку. Яшчэ пытаньні ёсьць?"
 "/quests/Provoda.qmm/locations/3/texts/6/text"	"- Незадолго до того, как стало известно о приближении метеоритного роя, ученым удалось раскопать здесь руины древней цивилизации. Все надписи и рисунки они, конечно, расшифровать не успели. Но точное назначение одного из строений нам известно - это геотермальная электростанция. Самое интересное - это то, что она прекрасно сохранилась. Думаю, что если ее запустить, она сможет дать достаточно энергии для бесперебойной работы генератора защитного поля. 
-Нам удалось выполнить все необходимые технические работы, но вот на завершающий этап мозгов, увы, не хватает. Надеюсь, что с вашей помощью мы сможем разгадать эту тайну и спасти всех от гибели. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Нам удалось выполнить все необходимые технические работы, но вот на завершающий этап мозгов, увы, не хватает. Надеюсь, что с вашей помощью мы сможем разгадать эту тайну и спасти всех от гибели. Еще вопросы есть?"	"Quest Provoda.qmm: locations.3.texts.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Незадоўга да таго, як стала вядома пра набліжэньне мэтэарытнага рою, вучоным удалося раскапаць тут руіны старажытнай цывілізацыі. Усе надпісы і малюнкі яны, вядома, расшыфраваць не пасьпелі. Але дакладнае прызначэньне аднаго з будынкаў нам вядомае - гэта геатэрмальная электрастанцыя. Самае цікавае - гэта тое, што яна выдатна захавалася. Думаю, што калі яе завесьці, яна зможа даць дастаткова энэргіі для бесьперапыннай працы генэратара абарончага поля. 
+Нам удалося выканаць усе патрэбныя тэхнічныя працы, але вось на завяршальны этап мазгоў, на жаль, не стае. Спадзяюся, што з вашай дапамогай мы зможам разгадаць гэтую таямніцу і ўратаваць усіх ад гібелі. Яшчэ пытаньні ёсьць?"
 "/quests/Provoda.qmm/locations/4/texts/0/text"	"- Тогда идем. Шлем не забудь - с этими словами <clr>Блюндерр<clrEnd> повел вас по каким-то коридорам, которые были явно великоваты для массивного телосложения малока. Выйдя на поверхность через какой-то шлюз, вы еще прошли какое-то расстояние по опушке леса, иногда постреливая в сторону атакующих вас птиц и диких зверей.
 Через некоторое время лес неожиданно прервался, уступив место любопытной панораме: в низине широкого, но не глубокого оврага стояло какое-то сооружение, напоминающее гору, но определенно искусственного происхождения.
-- Древняя электростанция. Нам сюда - пояснил малок и сделал приглашающий жест в сторону антигравитационного подъемника, на котором вы за считанные секунды опустились к подножию здания, которое вблизи казалось просто исполинским."	"Quest Provoda.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Древняя электростанция. Нам сюда - пояснил малок и сделал приглашающий жест в сторону антигравитационного подъемника, на котором вы за считанные секунды опустились к подножию здания, которое вблизи казалось просто исполинским."	"Quest Provoda.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Тады ідзём. Шлем ня забудзь - з гэтымі словамі <clr>Блюндерр<clrEnd> павёў вас па нейкіх калідорах, якія былі відавочна завялікія для масіўнага целаскладу малака. Выйшаўшы на паверхню праз нейкі шлюз, вы яшчэ прайшлі нейкую адлегласьць па ўскрайку лесу, часам пастрэльваючы ў бок птушак і дзікіх зьвяроў, што нападалі на вас.
+Праз нейкі час лес нечакана абарваўся, саступіўшы месца цікаўнай панараме: у нізіне шырокага, але ня глыбокага яру стаяла нейкае збудаваньне, што нагадвала гару, але відавочна штучнага паходжаньня.
+- Старажытная электрастанцыя. Нам сюды - патлумачыў малок і зрабіў запрашальны жэст у бок антыгравітацыйнага пад'ёмніка, на якім вы за лічаныя сэкунды апусьціліся да падножжа будынка, які зблізку здаваўся проста велізарным."
 "/quests/Provoda.qmm/locations/5/texts/0/text"	"С этими словами вы беспрепятственно прошли сквозь толпу сотрудников, надели шлем и, прежде чем включить герметизацию, услышали пожелание <clr>Блюндерра<clrEnd>:
 - Приятного полета!
 Пройдя через шлюз, вы быстро добежали до корабля, плюхнулись в кресло, и, радуясь своей находчивости, включили взлетный режим. Рисковать своей шкурой, тратить драгоценное время на этих бедняг вам совершенно не хотелось. Последнее, что вы увидели перед тем, как корабль оторвался от ""бетонки"", был одинокий фэянин в прозрачном конусе, который по-прежнему синхронно махал светящимися палочками...
 
-Несколько минут спустя ваш корабль взорвался. Яркий букет озарил небо планеты <ToPlanet>. Этот фейерверк стал последним радостным событием в жизни оставшихся на ней сотрудников научной экспедиции, который они сами же и организовали, предусмотрительно заминировав ваш корабль, чтобы хоть как-то наградить вас за верх эгоизма."	"Quest Provoda.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Несколько минут спустя ваш корабль взорвался. Яркий букет озарил небо планеты <ToPlanet>. Этот фейерверк стал последним радостным событием в жизни оставшихся на ней сотрудников научной экспедиции, который они сами же и организовали, предусмотрительно заминировав ваш корабль, чтобы хоть как-то наградить вас за верх эгоизма."	"Quest Provoda.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"З гэтымі словамі вы без перашкодаў прайшлі скрозь натоўп супрацоўнікаў, надзелі шлем і, перш чым уключыць гермэтызацыю, пачулі пажаданьне <clr>Блюндерра<clrEnd>:
+- Прыемнага палёту!
+Прайшоўшы праз шлюз, вы хутка дабеглі да карабля, плюхнуліся ў крэсла і, радуючыся сваёй знаходлівасьці, уключылі ўзлётны рэжым. Рызыкаваць сваёй шкурай, траціць каштоўны час на гэтых бедакоў вам зусім не хацелася. Апошняе, што вы ўбачылі перад тым, як карабель адарваўся ад ""бэтонкі"", быў адзінокі фэянін у празрыстым конусе, які па-ранейшаму сынхронна махаў сьвятлівымі палачкамі...
+
+Некалькі хвілінаў пасьля ваш карабель выбухнуў. Яркі букет азарыў неба плянэты <ToPlanet>. Гэты фэервэрк стаў апошняй радаснай падзеяй у жыцьці супрацоўнікаў навуковай экспэдыцыі, што засталіся на ёй, які яны самі ж і арганізавалі, прадбачліва замінаваўшы ваш карабель, каб хоць як-небудзь узнагародзіць вас за верх эгаізму."
 "/quests/Provoda.qmm/locations/6/texts/0/text"	"Пройдя через шлюз, очевидно установленный руками сотрудников экспедиции, вы прошли по коридорам в отдельное помещение, большую часть которого занимали огромный экран и какой-то пульт. 
 - Это центр управления электростанцией. Предварительные расчеты показали, что ее мощности должно хватить. Нам удалось подключить ее к генератору защитного поля, но запустить энергосистему мы не смогли - начал рассказ <clr>Блюндерр<clrEnd>, затем тяжело вздохнул и продолжил:
 - С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги (это слово нам так и не удалось перевести) так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...
@@ -190,7 +211,19 @@
 <clr>C X E B X<clrEnd>
 
 Как видите, какие-то данные сохранились достаточно хорошо, а вот остальное... Элементы, которые нам не удалось разобрать, мы заменили  знаком ""X"". 
-Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прайшоўшы праз шлюз, відавочна ўсталяваны рукамі супрацоўнікаў экспэдыцыі, вы прайшлі па калідорах у асобнае памяшканьне, большую частку якога займалі велізарны экран і нейкі пульт. 
+- Гэта цэнтр кіраваньня электрастанцыяй. Папярэднія разьлікі паказалі, што яе магутнасьці павінна хапіць. Нам удалося падключыць яе да генэратара абарончага поля, але завесьці энэргасыстэму мы ня змаглі - пачаў апавяданьне <clr>Блюндерр<clrEnd>, потым цяжка ўздыхнуў і працягнуў:
+- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі (гэтае слова нам так і не ўдалося перакласьці) так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...
+Так, ужо пасьля адлёту прафэсараў мы знайшлі фрагмэнт схемы наладкі, але так і не зразумелі, што там да чаго. Вось ён:
+
+<clr>A X X D E<clrEnd>
+<clr>X C X A X<clrEnd>
+<clr>X X B X X<clrEnd>
+<clr>X D X E X<clrEnd>
+<clr>C X E B X<clrEnd>
+
+Як бачыце, нейкія зьвесткі захаваліся дастаткова добра, а вось астатняе... Элемэнты, якія нам не ўдалося разабраць, мы замянілі  знакам ""X"". 
+Але, думаю, уся гэтая фізыка - бізыка вам ужо парадкам надакучыла. Будзем пачынаць ці ёсьць пытаньні?"
 "/quests/Provoda.qmm/locations/6/texts/1/text"	"Пройдя через шлюз, очевидно установленный руками сотрудников экспедиции, вы прошли по коридорам в отдельное помещение, большую часть которого занимали огромный экран и какой-то пульт. 
 - Это центр управления электростанцией. Предварительные расчеты показали, что ее мощности должно хватить. Нам удалось подключить ее к генератору защитного поля, но запустить энергосистему мы не смогли - начал рассказ <clr>Блюндерр<clrEnd>, затем тяжело вздохнул и продолжил:
 - С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги (это слово нам так и не удалось перевести) так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...
@@ -203,7 +236,19 @@
 <clr>X E D B X<clrEnd>
 
 Как видите, какие-то данные сохранились достаточно хорошо, а вот остальное... Элементы, которые нам не удалось разобрать, мы заменили  знаком ""X"".
-Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прайшоўшы праз шлюз, відавочна ўсталяваны рукамі супрацоўнікаў экспэдыцыі, вы прайшлі па калідорах у асобнае памяшканьне, большую частку якога займалі велізарны экран і нейкі пульт. 
+- Гэта цэнтр кіраваньня электрастанцыяй. Папярэднія разьлікі паказалі, што яе магутнасьці павінна хапіць. Нам удалося падключыць яе да генэратара абарончага поля, але завесьці энэргасыстэму мы ня змаглі - пачаў апавяданьне <clr>Блюндерр<clrEnd>, потым цяжка ўздыхнуў і працягнуў:
+- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі (гэтае слова нам так і не ўдалося перакласьці) так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...
+Так, ужо пасьля адлёту прафэсараў мы знайшлі фрагмэнт схемы наладкі, але так і не зразумелі, што там да чаго. Вось ён:
+
+<clr>E X A X X<clrEnd>
+<clr>X A X X X<clrEnd>
+<clr>X X B X X<clrEnd>
+<clr>B C X D X<clrEnd>
+<clr>X E D B X<clrEnd>
+
+Як бачыце, нейкія зьвесткі захаваліся дастаткова добра, а вось астатняе... Элемэнты, якія нам не ўдалося разабраць, мы замянілі  знакам ""X"".
+Але, думаю, уся гэтая фізыка - бізыка вам ужо парадкам надакучыла. Будзем пачынаць ці ёсьць пытаньні?"
 "/quests/Provoda.qmm/locations/6/texts/2/text"	"Пройдя через шлюз, очевидно установленный руками сотрудников экспедиции, вы прошли по коридорам в отдельное помещение, большую часть которого занимали огромный экран и какой-то пульт. 
 - Это центр управления электростанцией. Предварительные расчеты показали, что ее мощности должно хватить. Нам удалось подключить ее к генератору защитного поля, но запустить энергосистему мы не смогли - начал рассказ <clr>Блюндерр<clrEnd>, затем тяжело вздохнул и продолжил:
 - С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги (это слово нам так и не удалось перевести) так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...
@@ -216,7 +261,19 @@
 <clr>X X C X X<clrEnd>
 
 Как видите, какие-то данные сохранились достаточно хорошо, а вот остальное... Элементы, которые нам не удалось разобрать, мы заменили  знаком ""X"".
-Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прайшоўшы праз шлюз, відавочна ўсталяваны рукамі супрацоўнікаў экспэдыцыі, вы прайшлі па калідорах у асобнае памяшканьне, большую частку якога займалі велізарны экран і нейкі пульт. 
+- Гэта цэнтр кіраваньня электрастанцыяй. Папярэднія разьлікі паказалі, што яе магутнасьці павінна хапіць. Нам удалося падключыць яе да генэратара абарончага поля, але завесьці энэргасыстэму мы ня змаглі - пачаў апавяданьне <clr>Блюндерр<clrEnd>, потым цяжка ўздыхнуў і працягнуў:
+- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі (гэтае слова нам так і не ўдалося перакласьці) так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...
+Так, ужо пасьля адлёту прафэсараў мы знайшлі фрагмэнт схемы наладкі, але так і не зразумелі, што там да чаго. Вось ён:
+
+<clr>X B E A X<clrEnd>
+<clr>C E X X B<clrEnd>
+<clr>A X B X X<clrEnd>
+<clr>X X X X X<clrEnd>
+<clr>X X C X X<clrEnd>
+
+Як бачыце, нейкія зьвесткі захаваліся дастаткова добра, а вось астатняе... Элемэнты, якія нам не ўдалося разабраць, мы замянілі  знакам ""X"".
+Але, думаю, уся гэтая фізыка - бізыка вам ужо парадкам надакучыла. Будзем пачынаць ці ёсьць пытаньні?"
 "/quests/Provoda.qmm/locations/6/texts/3/text"	"Пройдя через шлюз, очевидно установленный руками сотрудников экспедиции, вы прошли по коридорам в отдельное помещение, большую часть которого занимали огромный экран и какой-то пульт. 
 - Это центр управления электростанцией. Предварительные расчеты показали, что ее мощности должно хватить. Нам удалось подключить ее к генератору защитного поля, но запустить энергосистему мы не смогли - начал рассказ <clr>Блюндерр<clrEnd>, затем тяжело вздохнул и продолжил:
 - С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги (это слово нам так и не удалось перевести) так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...
@@ -229,10 +286,24 @@
 <clr>D X X B X<clrEnd>
 
 Как видите, какие-то данные сохранились достаточно хорошо, а вот остальное... Элементы, которые нам не удалось разобрать, мы заменили  знаком ""X"".
-Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Но, думаю, вся эта физика - бизика вам уже порядком поднадоела. Будем начинать или есть вопросы?"	"Quest Provoda.qmm: locations.6.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прайшоўшы праз шлюз, відавочна ўсталяваны рукамі супрацоўнікаў экспэдыцыі, вы прайшлі па калідорах у асобнае памяшканьне, большую частку якога займалі велізарны экран і нейкі пульт. 
+- Гэта цэнтр кіраваньня электрастанцыяй. Папярэднія разьлікі паказалі, што яе магутнасьці павінна хапіць. Нам удалося падключыць яе да генэратара абарончага поля, але завесьці энэргасыстэму мы ня змаглі - пачаў апавяданьне <clr>Блюндерр<clrEnd>, потым цяжка ўздыхнуў і працягнуў:
+- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі (гэтае слова нам так і не ўдалося перакласьці) так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...
+Так, ужо пасьля адлёту прафэсараў мы знайшлі фрагмэнт схемы наладкі, але так і не зразумелі, што там да чаго. Вось ён:
+
+<clr>X B X E X<clrEnd>
+<clr>A X E X X<clrEnd>
+<clr>X A B X X<clrEnd>
+<clr>X E X X X<clrEnd>
+<clr>D X X B X<clrEnd>
+
+Як бачыце, нейкія зьвесткі захаваліся дастаткова добра, а вось астатняе... Элемэнты, якія нам не ўдалося разабраць, мы замянілі  знакам ""X"".
+Але, думаю, уся гэтая фізыка - бізыка вам ужо парадкам надакучыла. Будзем пачынаць ці ёсьць пытаньні?"
 "/quests/Provoda.qmm/locations/6/texts/4/text"	"- Мне нужно больше информации. Вы пытались расшифровать схему? - задали вы вопрос, на который <clr>Блюндерр<clrEnd> с готовностью ответил: 
 - Да, мы ее показывали профессору <clr>Налив-Айке<clrEnd>, но толку от этого - ноль. Как вы видели, он немного не в себе. Прикажете доставить его сюда для доверительной беседы? - вы кивнули. Через некоторое время двое пеленгов под руки ввели в центр управления гаальца, который даже в таком стесненном положении продолжал ловить розовых слоников и пурпурных бегемотиков. <clr>Блюндерр<clrEnd> наклонился прямо к вашему уху и спросил:
-- Может быть лучше не будем терять время и начнем?"	"Quest Provoda.qmm: locations.6.texts.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Может быть лучше не будем терять время и начнем?"	"Quest Provoda.qmm: locations.6.texts.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	"- Мне трэба болей інфармацыі. Вы спрабавалі расшыфраваць схему? - задалі вы пытаньне, на якое <clr>Блюндерр<clrEnd> з гатоўнасьцю адказаў: 
+- Так, мы яе паказвалі прафэсару <clr>Наліў-Айке<clrEnd>, але толку ад гэтага - нуль. Як вы бачылі, ён крыху ня ў сабе. Ці загадаеце даставіць яго сюды для даверлівай гутаркі? - вы кіўнулі. Праз нейкі час двое пеленгаў пад рукі ўвялі ў цэнтр кіраваньня гаальца, які нават у такім сьціснутым становішчы працягваў лавіць ружовых сланікоў і пурпуровых бягемоцікаў. <clr>Блюндерр<clrEnd> нахіліўся проста да вашага вуха і спытаў:
+- Можа, лепей ня будзем марнаваць час і пачнём?"
 "/quests/Provoda.qmm/locations/6/texts/5/text"	"Вы подошли к профессору, смерили его с ног до головы своим твердым рейнджерским взглядом (нервный тик на фоне последних событий не в счет) и сказали:
 - Послушай, как тебя там, Заливайка-Непроливайка. У нас тут экстремальная ситуация. Если ты нам не поможешь, то все мы: я, <clr>Блюндерр<clrEnd>, ты и другие скоро погибнут. Посмотри сюда. Ты же, наверное, понимаешь, о чем тут говорится? Сосредоточься. Нам очень нужна твоя помощь! - с этими словами вы сунули под нос профессора схему. <clr>Налив-Айка<clrEnd> внимательно посмотрел на нее. В этот момент вам даже показалось, что в его глазах мелькнула тень сознания. Через пару секунд надежда рухнула.
 Налив-Айка свернул в трубочку драгоценный манускрипт, вырвался из рук поддерживавших его пеленгов и пустился в пляс, размахивая свитком словно маракасой, и напевая:
@@ -242,11 +313,22 @@
  <clr>Цифры - буквы. Буквы - цифры.<clrEnd>
 
 <clr>Блюндерр<clrEnd> взирал на это безобразие с удивительным спокойствием. Наклонившись прямо к вашему уху, он спросил:
-- Ну, может быть теперь-то начнем?"	"Quest Provoda.qmm: locations.6.texts.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Ну, может быть теперь-то начнем?"	"Quest Provoda.qmm: locations.6.texts.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы падышлі да прафэсара, зьмерлі яго з ног да галавы сваім цьвёрдым рэйнджэрскім поглядам (нэрвовы тык на фоне апошніх падзей ня ў лік) і сказалі:
+- Паслухай, як цябе там, Залівайка-Непралівайка. У нас тут экстрэмальная сытуацыя. Калі ты нам не дапаможаш, то ўсе мы: я, <clr>Блюндерр<clrEnd>, ты і іншыя хутка загінуць. Паглядзі сюды. Ты ж, напэўна, разумееш, пра што тут гаворыцца? Сканцэнтруйся. Нам вельмі патрэбная твая дапамога! - з гэтымі словамі вы сунулі пад нос прафэсара схему. <clr>Наліў-Айка<clrEnd> уважліва паглядзеў на яе. У гэты момант вам нават падалося, што ў ягоных вачах бліснуў цень прытомнасьці. Праз пару сэкундаў надзея абрынулася.
+Наліў-Айка згарнуў у трубачку каштоўны манускрыпт, вырваўся з рук пеленгаў, што падтрымлівалі яго, і пусьціўся ў скокі, размахваючы сьвіткам нібы маракасай, і напяваючы:
+-<clr>Тра-ля-ля, Тра-ля-ля.<clrEnd>
+ <clr>Літары - лічбы. Лічбы - літары.<clrEnd>
+ <clr>Тра-ля-ля, Тра-ля-ля.<clrEnd>
+ <clr>Лічбы - літары. Літары - лічбы.<clrEnd>
+
+<clr>Блюндерр<clrEnd> глядзеў на гэтую брыдоту зь дзіўным супакоем. Нахіліўшыся проста да вашага вуха, ён спытаў:
+- Ну, можа цяпер-та пачнём?"
 "/quests/Provoda.qmm/locations/6/texts/6/text"	"Вы подошли к профессору <clr>Налив-Айке<clrEnd> и для того, чтобы привести его в чувство легонько щелкнули по носу. Дальше случилось то, на что вы никак не рассчитывали. <clr>Налив-Айка<clrEnd> заплакал, чем поверг вас в шоковое состояние, из которого вас вывел вопрос <clr>Блюндерра<clrEnd>:
-- Ну, теперь-то начнем?"	"Quest Provoda.qmm: locations.6.texts.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Ну, теперь-то начнем?"	"Quest Provoda.qmm: locations.6.texts.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы падышлі да прафэсара <clr>Наліў-Айке<clrEnd> і дзеля таго, каб прывесьці яго да прытомнасьці, лёгка шчоўкнулі па носе. Далей здарылася тое, на што вы ніяк не разьлічвалі. <clr>Наліў-Айка<clrEnd> заплакаў, чым кінуў вас у шокавы стан, з якога вас вывела пытаньне <clr>Блюндерра<clrEnd>:
+- Ну, цяпер-та пачнём?"
 "/quests/Provoda.qmm/locations/6/texts/7/text"	"Вы посмотрели на профессора, оценили его поведение и почувствовали жалость к этому гаальцу, которого бросили на произвол судьбы собственные коллеги. Не желая далее издеваться над бедным <clr>Налив-Айкой<clrEnd>, вы попросили увести ученого. Когда пеленги увели профессора, <clr>Блюндерр<clrEnd> пару минут смотрел на вас с недоумением, а затем спросил:
-- Ну, теперь-то начнем, наконец?"	"Quest Provoda.qmm: locations.6.texts.7.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+- Ну, теперь-то начнем, наконец?"	"Quest Provoda.qmm: locations.6.texts.7.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы паглядзелі на прафэсара, ацанілі ягонае паводзіны і адчулі жаль да гэтага гаальца, якога кінулі на волю лёсу ўласныя калегі. Не жадаючы далей зьдзекавацца над бедным <clr>Наліў-Айкой<clrEnd>, вы папрасілі адвесьці вучонага. Калі пеленгі адвялі прафэсара, <clr>Блюндерр<clrEnd> пару хвілінаў глядзеў на вас са зьдзіўленьнем, а потым спытаў:
+- Ну, цяпер-та пачнём, нарэшце?"
 "/quests/Provoda.qmm/locations/8/texts/0/text"	"После ваших слов <clr>Блюндерр<clrEnd> поочередно нажал на несколько кнопок на пульте, через коммуникатор раздал указания подчиненным, а затем обратился к вам:
 - Мы готовы. У вас будет только одна попытка. Если нужно, пользуйтесь схемой и инструкцией. Успехов! - сразу же после его слов на экране высветилось:
 
@@ -257,7 +339,17 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Самое время начать настройку системы. Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Самое время начать настройку системы. Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Пасьля вашых словаў <clr>Блюндерр<clrEnd> пачаргова націснуў на некалькі кнопак на пульце, праз камунікатар раздаў указаньні падначаленым, а потым зьвярнуўся да вас:
+- Мы гатовыя. У вас будзе толькі адна спроба. Калі трэба, карыстайцеся схемай і інструкцыяй. Посьпехаў! - адразу ж пасьля ягоных словаў на экране высьветлілася:
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Самы час пачаць наладку сыстэмы. Выберыце шэраг, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/8/texts/1/text"	"Как только профессора увели, <clr>Блюндерр<clrEnd> поочередно нажал на несколько кнопок на пульте, через коммуникатор раздал указания подчиненным, а затем обратился к вам:
 - Мы готовы. У вас будет только одна попытка. Если нужно, пользуйтесь схемой и инструкцией. Успехов! - сразу же после его слов на экране высветилось:
 
@@ -268,7 +360,17 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Самое время начать настройку системы. Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Самое время начать настройку системы. Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Як толькі прафэсара адвялі, <clr>Блюндерр<clrEnd> пачаргова націснуў на некалькі кнопак на пульце, праз камунікатар раздаў указаньні падначаленым, а потым зьвярнуўся да вас:
+- Мы гатовыя. У вас будзе толькі адна спроба. Калі трэба, карыстайцеся схемай і інструкцыяй. Посьпехаў! - адразу ж пасьля ягоных словаў на экране высьветлілася:
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Самы час пачаць наладку сыстэмы. Выберыце шэраг, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/8/texts/2/text"	"После сделанных вами изменений на экране высветилось:
 
 
@@ -281,7 +383,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите ряд, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.8.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Пасьля зробленых вамі зьменаў на экране высьветлілася:
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце шэраг, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/10/texts/0/text"	"Блюндерр согласно кивнул, проорал какие-то непонятные команды в коммуникатор и дернул за большой красный рубильник. В недрах электростанции сначала возникло небольшое гудение, которое быстро переросло в громкий душераздирающий грохот и скрежет, сопровождаемый сильной вибрацией. 
 - Я говорил вам, что если калибровка выполнена неверно, то электростанция взорвется? - перекрикивая шум, спросил <clr>Блюндерр<clrEnd>.
 - Нет - честно признались вы.
@@ -298,12 +412,32 @@
 - А почему тогда... - вы не успели задать вопрос, как получили ответ на него:
 - Что я, дурак что ли брать на себя ТАКУЮ ответственность? - услышав ответ гаальца, малок <clr>Блюндерр<clrEnd>, который до этого времени, будучи спиной к вам, радостно прыгал на одной ножке, вдруг прекратил это увлекательное занятие, развернулся и от всей души залепил своим увесистым кулаком в верхний глаз гаальцу. От столь мощного удара <clr>Налив-Айка<clrEnd> с легким криком отлетел в ближайшие кусты. Когда он оттуда выбрался, вы отметили, что с таким ""прожектором"" во лбу он стал похож на сверхскоростной электропоезд.
 
-На следующее утро, когда метеоритный рой удалился от планеты на безопасное расстояние, защитное поле отключили, и вы смогли, наконец, покинуть этот мир. Сидя за штурвалом корабля, вы бросили прощальный взгляд на площадку, где в защитном конусе по-прежнему стоял фэянин, синхронно махавший вам светящимися палочками."	"Quest Provoda.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+На следующее утро, когда метеоритный рой удалился от планеты на безопасное расстояние, защитное поле отключили, и вы смогли, наконец, покинуть этот мир. Сидя за штурвалом корабля, вы бросили прощальный взгляд на площадку, где в защитном конусе по-прежнему стоял фэянин, синхронно махавший вам светящимися палочками."	"Quest Provoda.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Блюндерр згодна кіўнуў, пракрычаў нейкія незразумелыя каманды ў камунікатар і рвануў за вялікі чырвоны рубільнік. У нетры электрастанцыі спачатку паўстаў невялікі гул, які хутка перарос у гучны страшэнны грохат і скрыгат у суправаджэньні моцнай вібрацыі. 
+- Я казаў вам, што калі каліброўка выкананая няслушна, то электрастанцыя выбухне? - перакрыкваючы шум, спытаў <clr>Блюндерр<clrEnd>.
+- Не - шчыра прызналіся вы.
+- Вось, кажу: калі каліброўка выкананая няправільна, то ўсё тут выбухне. Уфф, цяпер маё сумленьне чыстае - пракрычаў скрозь нарастаючы гул <clr>Блюндерр<clrEnd>. 
+Тут дзіўныя гукі пачалі паступова заціхаць. Праз пару хвілінаў пра іх нагадваў толькі ледзь чутны раўнамерны гул.
+- Трэба ж, запрацавала - нібы ня верачы сваім вачам, прамармытаў <clr>Блюндерр<clrEnd>, потым схапіўся, пракрычаў яшчэ некалькі камандаў у камунікатар і толькі пасьля гэтага зьвярнуўся да вас:
+- Усё ў парадку. Генэратар абарончага поля выведзены на патрэбную магутнасьць. Мэтэарытны рой будзе тут праз адну гадзіну пяцьдзясят хвілінаў. Прапаную пашукаць прыдатнае месца для агляду. Відовішча будзе яшчэ тое! - у адказ вы стомлена кіўнулі.
+
+Праз дзьве гадзіны вы ў кампаніі іншых супрацоўнікаў навуковай экспэдыцыі стаялі бяз шлема на агляднай пляцоўцы, над якой было разгорнутае яшчэ адно дадатковае абарончае поле, і глядзелі на тое, як велізарны яркі мэтэарыт падае проста на вас. Але, не даляцеўшы нейкіх пару дзясяткаў кілямэтраў, ён разарваўся на тысячы дробных рознакаляровых аскепкаў. Такая ж доля спаткала і іншыя каменныя глыбы. Убачыўшы, што абарончае поле працуе бездакорна, супрацоўнікі навуковай экспэдыцыі ад радасьці пусьціліся ў скокі, заадно абдымаючы адзін аднаго.
+Вы паглядзелі на гаальца <clr>Наліў-Айку<clrEnd>, погляд якога быў ясным, як ніколі.
+- Так, гэта было файна! Шчыра кажучы, ня верыў, што вы справіцеся, але вам удалося зьдзівіць мяне. Прызнаю сваю памылку - прамовіў ён, закачваючы вочы.
+- Прафэсар, а як жа вашыя, э-э-э, сланікі ружовыя? - спыталі вы, крыху заікаючыся ад нечаканасьці.
+- Са мной усё ў парадку. Няўжо вы думаеце, што нейкі бутанол у стане замуціць розум сапраўднага гаальца? - сказаў <clr>Наліў-Айка<clrEnd>.
+- А чаму тады... - вы не пасьпелі задаць пытаньне, як атрымалі адказ на яго:
+- Што я, дурань ці што браць на сябе ТАКУЮ адказнасьць? - пачуўшы адказ гаальца, малок <clr>Блюндерр<clrEnd>, які да гэтага часу, стаячы сьпінай да вас, радасна скакаў на адной ножцы, раптам спыніў гэтае займальнае заняцьце, разгарнуўся і ад усёй душы заляпіў сваім важкім кулаком у верхняе вока гаальцу. Ад такога моцнага ўдару <clr>Наліў-Айка<clrEnd> зь лёгкім крыкам адляцеў у бліжэйшыя кусты. Калі ён адтуль выбраўся, вы адзначылі, што з такім ""пражэктарам"" на лбе ён стаў падобны на звышхуткі электрацягнік.
+
+Наступнай раніцай, калі мэтэарытны рой аддаліўся ад плянэты на бясьпечную адлегласьць, абарончае поле адключылі, і вы змаглі, нарэшце, пакінуць гэты сьвет. Седзячы за штурвалам карабля, вы кінулі разьвітальны погляд на пляцоўку, дзе ў ахоўным конусе па-ранейшаму стаяў фэянін, сынхронна махаючы вам сьвятлівымі палачкамі."
 "/quests/Provoda.qmm/locations/11/texts/0/text"	"Блюндерр согласно кивнул, проорал какие-то непонятные команды в коммуникатор и дернул за большой красный рубильник. В недрах электростанции сначала возникло небольшое гудение, которое быстро переросло в громкий душераздирающий грохот и скрежет, сопровождаемый сильной вибрацией. На экране появились непонятные надписи тревожного цвета.
 - Я говорил вам, что если калибровка выполнена неверно, то электростанция взорвется? - перекрикивая шум, спросил <clr>Блюндерр<clrEnd>.
 - Нет - честно признались вы, отметив, что в какофонии звуков появилось какое-то странное гудение.
 - Вот, говорю: если калибровка выполнена неправильно, то все здесь взорвется. Уфф, теперь моя совесть чиста - прокричал сквозь нарастающий гул <clr>Блюндерр<clrEnd>. 
-Ответить ему вы так и не успели. <clr>Электростанция взорвалась, озарив окрестности яркой разноцветной вспышкой<clrEnd>."	"Quest Provoda.qmm: locations.11.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Ответить ему вы так и не успели. <clr>Электростанция взорвалась, озарив окрестности яркой разноцветной вспышкой<clrEnd>."	"Quest Provoda.qmm: locations.11.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Блюндерр згодна кіўнуў, пракрычаў нейкія незразумелыя каманды ў камунікатар і рвануў за вялікі чырвоны рубільнік. У нетры электрастанцыі спачатку паўстаў невялікі гул, які хутка перарос у гучны страшэнны грохат і скрыгат у суправаджэньні моцнай вібрацыі. На экране з'явіліся незразумелыя надпісы трывожнага колеру.
+- Я казаў вам, што калі каліброўка выкананая няслушна, то электрастанцыя выбухне? - перакрыкваючы шум, спытаў <clr>Блюндерр<clrEnd>.
+- Не - шчыра прызналіся вы, адзначыўшы, што ў какафоніі гукаў з'явіўся нейкі дзіўны гул.
+- Вось, кажу: калі каліброўка выкананая няправільна, то ўсё тут выбухне. Уфф, цяпер маё сумленьне чыстае - пракрычаў скрозь нарастаючы гул <clr>Блюндерр<clrEnd>. 
+Адказаць яму вы так і не пасьпелі. <clr>Электрастанцыя выбухнула, азарыўшы ваколіцы яркай рознакаляровай успышкай<clrEnd>."
 "/quests/Provoda.qmm/locations/12/texts/0/text"	"Вы выбрали ряд <clr>A<clrEnd>
 
 
@@ -316,7 +450,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.12.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.12.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг <clr>A<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце ўзровень, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/13/texts/0/text"	"Вы выбрали ряд <clr>B<clrEnd>
 
 
@@ -329,7 +475,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.13.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.13.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг <clr>B<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце ўзровень, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/14/texts/0/text"	"Вы выбрали ряд <clr>C<clrEnd>
 
 
@@ -342,7 +500,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.14.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.14.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг <clr>C<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце ўзровень, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/15/texts/0/text"	"Вы выбрали ряд <clr>D<clrEnd>
 
 
@@ -355,7 +525,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.15.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.15.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг <clr>D<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце ўзровень, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/16/texts/0/text"	"Вы выбрали ряд <clr>E<clrEnd>
 
 
@@ -368,7 +550,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.16.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Выберите уровень, где находится элемент, который желаете откалибрировать."	"Quest Provoda.qmm: locations.16.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг <clr>E<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Выберыце ўзровень, дзе знаходзіцца элемэнт, які жадаеце адкалібраваць."
 "/quests/Provoda.qmm/locations/17/texts/0/text"	"Вы выбрали ряд: <clr>A<clrEnd>, уровень: <clr>1<clrEnd>
 
 
@@ -381,7 +575,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>A<clrEnd>, узровень: <clr>1<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/18/texts/0/text"	"Вы выбрали ряд: <clr>A<clrEnd>, уровень: <clr>2<clrEnd>
 
 
@@ -394,7 +600,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.18.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.18.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>A<clrEnd>, узровень: <clr>2<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/19/texts/0/text"	"Вы выбрали ряд: <clr>A<clrEnd>, уровень: <clr>3<clrEnd>
 
 
@@ -407,7 +625,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.19.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.19.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>A<clrEnd>, узровень: <clr>3<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/20/texts/0/text"	"Вы выбрали ряд: <clr>A<clrEnd>, уровень: <clr>4<clrEnd>
 
 
@@ -420,7 +650,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.20.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.20.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>A<clrEnd>, узровень: <clr>4<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/21/texts/0/text"	"Вы выбрали ряд: <clr>A<clrEnd>, уровень: <clr>5<clrEnd>
 
 
@@ -433,7 +675,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.21.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.21.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>A<clrEnd>, узровень: <clr>5<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/22/texts/0/text"	"Вы выбрали ряд: <clr>B<clrEnd>, уровень: <clr>1<clrEnd>
 
 
@@ -446,7 +700,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.22.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.22.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>B<clrEnd>, узровень: <clr>1<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/23/texts/0/text"	"Вы выбрали ряд: <clr>B<clrEnd>, уровень: <clr>2<clrEnd>
 
 
@@ -459,7 +725,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.23.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.23.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>B<clrEnd>, узровень: <clr>2<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/24/texts/0/text"	"Вы выбрали ряд: <clr>B<clrEnd>, уровень: <clr>3<clrEnd>
 
 
@@ -472,7 +750,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.24.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.24.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>B<clrEnd>, узровень: <clr>3<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/25/texts/0/text"	"Вы выбрали ряд: <clr>B<clrEnd>, уровень: <clr>4<clrEnd>
 
 
@@ -485,7 +775,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.25.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.25.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>B<clrEnd>, узровень: <clr>4<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/26/texts/0/text"	"Вы выбрали ряд: <clr>B<clrEnd>, уровень: <clr>5<clrEnd>
 
 
@@ -498,7 +800,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.26.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.26.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>B<clrEnd>, узровень: <clr>5<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/27/texts/0/text"	"Вы выбрали ряд: <clr>C<clrEnd>, уровень: <clr>1<clrEnd>
 
 
@@ -511,7 +825,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.27.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.27.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>C<clrEnd>, узровень: <clr>1<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/28/texts/0/text"	"Вы выбрали ряд: <clr>C<clrEnd>, уровень: <clr>2<clrEnd>
 
 
@@ -524,7 +850,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.28.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.28.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>C<clrEnd>, узровень: <clr>2<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/29/texts/0/text"	"Вы выбрали ряд: <clr>C<clrEnd>, уровень: <clr>3<clrEnd>
 
 
@@ -537,7 +875,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.29.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.29.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>C<clrEnd>, узровень: <clr>3<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/30/texts/0/text"	"Вы выбрали ряд: <clr>C<clrEnd>, уровень: <clr>4<clrEnd>
 
 
@@ -550,7 +900,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>C<clrEnd>, узровень: <clr>4<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/31/texts/0/text"	"Вы выбрали ряд: <clr>C<clrEnd>, уровень: <clr>5<clrEnd>
 
 
@@ -563,7 +925,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.31.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.31.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>C<clrEnd>, узровень: <clr>5<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/32/texts/0/text"	"Вы выбрали ряд: <clr>D<clrEnd>, уровень: <clr>1<clrEnd>
 
 
@@ -576,7 +950,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.32.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.32.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>D<clrEnd>, узровень: <clr>1<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/33/texts/0/text"	"Вы выбрали ряд: <clr>D<clrEnd>, уровень: <clr>2<clrEnd>
 
 
@@ -589,7 +975,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.33.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.33.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>D<clrEnd>, узровень: <clr>2<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/34/texts/0/text"	"Вы выбрали ряд: <clr>D<clrEnd>, уровень: <clr>3<clrEnd>
 
 
@@ -602,7 +1000,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.34.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.34.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>D<clrEnd>, узровень: <clr>3<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/35/texts/0/text"	"Вы выбрали ряд: <clr>D<clrEnd>, уровень: <clr>4<clrEnd>
 
 
@@ -615,7 +1025,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.35.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.35.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>D<clrEnd>, узровень: <clr>4<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/36/texts/0/text"	"Вы выбрали ряд: <clr>D<clrEnd>, уровень: <clr>5<clrEnd>
 
 
@@ -628,7 +1050,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.36.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.36.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>D<clrEnd>, узровень: <clr>5<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/37/texts/0/text"	"Вы выбрали ряд: <clr>E<clrEnd>, уровень: <clr>1<clrEnd>
 
 
@@ -641,7 +1075,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.37.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.37.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>E<clrEnd>, узровень: <clr>1<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/38/texts/0/text"	"Вы выбрали ряд: <clr>E<clrEnd>, уровень: <clr>2<clrEnd>
 
 
@@ -654,7 +1100,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.38.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.38.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>E<clrEnd>, узровень: <clr>2<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/39/texts/0/text"	"Вы выбрали ряд: <clr>E<clrEnd>, уровень: <clr>3<clrEnd>
 
 
@@ -667,7 +1125,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.39.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.39.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>E<clrEnd>, узровень: <clr>3<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/40/texts/0/text"	"Вы выбрали ряд: <clr>E<clrEnd>, уровень: <clr>4<clrEnd>
 
 
@@ -680,7 +1150,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.40.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.40.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>E<clrEnd>, узровень: <clr>4<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/41/texts/0/text"	"Вы выбрали ряд: <clr>E<clrEnd>, уровень: <clr>5<clrEnd>
 
 
@@ -693,7 +1175,19 @@
 4  [p4]  [p9]  [p14]  [p19]  [p24]
 5  [p5]  [p10]  [p15]  [p20]  [p25]
 
-Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.41.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+Введите новый показатель мистинга."	"Quest Provoda.qmm: locations.41.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вы выбралі шэраг: <clr>E<clrEnd>, узровень: <clr>5<clrEnd>
+
+
+
+
+    A  B C  D E  
+1  [p1]  [p6]  [p11]  [p16]  [p21]
+2  [p2]  [p7]  [p12]  [p17]  [p22]
+3  [p3]  [p8]  [p13]  [p18]  [p23]
+4  [p4]  [p9]  [p14]  [p19]  [p24]
+5  [p5]  [p10]  [p15]  [p20]  [p25]
+
+Увядзіце новы паказьнік містынгу."
 "/quests/Provoda.qmm/locations/42/texts/0/text"	"Благодаря своей феноменальной памяти, вы без труда вспомнили слова <clr>Блюндерра<clrEnd>:
 ""- С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. 
 При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...""
@@ -704,7 +1198,17 @@
 <clr>X C X A X<clrEnd>
 <clr>X X B X X<clrEnd>
 <clr>X D X E X<clrEnd>
-<clr>C X E B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+<clr>C X E B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Дзякуючы сваёй фэнамэнальнай памяці, вы лёгка ўзгадалі словы <clr>Блюндерра<clrEnd>:
+""- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. 
+Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...""
+
+На шчасьце, схему вам узгадваць ня давялося - яна была ў вас у руках:
+
+<clr>A X X D E<clrEnd>
+<clr>X C X A X<clrEnd>
+<clr>X X B X X<clrEnd>
+<clr>X D X E X<clrEnd>
+<clr>C X E B X<clrEnd>"
 "/quests/Provoda.qmm/locations/42/texts/1/text"	"Благодаря своей феноменальной памяти, вы без труда вспомнили слова <clr>Блюндерра<clrEnd>:
 ""- С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. 
 При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...""
@@ -715,7 +1219,17 @@
 <clr>X A X X X<clrEnd>
 <clr>X X B X X<clrEnd>
 <clr>B C X D X<clrEnd>
-<clr>X E D B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+<clr>X E D B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Дзякуючы сваёй фэнамэнальнай памяці, вы лёгка ўзгадалі словы <clr>Блюндерра<clrEnd>:
+""- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. 
+Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...""
+
+На шчасьце, схему вам узгадваць ня давялося - яна была ў вас у руках:
+
+<clr>E X A X X<clrEnd>
+<clr>X A X X X<clrEnd>
+<clr>X X B X X<clrEnd>
+<clr>B C X D X<clrEnd>
+<clr>X E D B X<clrEnd>"
 "/quests/Provoda.qmm/locations/42/texts/2/text"	"Благодаря своей феноменальной памяти, вы без труда вспомнили слова <clr>Блюндерра<clrEnd>:
 ""- С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. 
 При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...""
@@ -726,7 +1240,17 @@
 <clr>C E X X B<clrEnd>
 <clr>A X B X X<clrEnd>
 <clr>X X X X X<clrEnd>
-<clr>X X C X X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+<clr>X X C X X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Дзякуючы сваёй фэнамэнальнай памяці, вы лёгка ўзгадалі словы <clr>Блюндерра<clrEnd>:
+""- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. 
+Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...""
+
+На шчасьце, схему вам узгадваць ня давялося - яна была ў вас у руках:
+
+<clr>X B E A X<clrEnd>
+<clr>C E X X B<clrEnd>
+<clr>A X B X X<clrEnd>
+<clr>X X X X X<clrEnd>
+<clr>X X C X X<clrEnd>"
 "/quests/Provoda.qmm/locations/42/texts/3/text"	"Благодаря своей феноменальной памяти, вы без труда вспомнили слова <clr>Блюндерра<clrEnd>:
 ""- С помощью инструкций, которые нам удалось найти и частично расшифровать, мы поняли, что дело - в магистральных кабелях. Их всего 25. Каждый блок проводов выполняет свою функцию с разной долей отклонения от нормы. Для нормальной работы системы необходимо произвести ее калибровку - установить мистинги так, чтобы суммарный показатель интенсивности энергопотоков по <clr>горизонтали<clrEnd>, <clr>вертикали<clrEnd> и <clr>диагонали<clrEnd> был равен <clr>15<clrEnd>. 
 При этом, поскольку система принадлежит к асинхронному типу проводников, в каждой линии надо использовать <clr>пять<clrEnd> разных показателей...""
@@ -737,184 +1261,194 @@
 <clr>A X E X X<clrEnd>
 <clr>X A B X X<clrEnd>
 <clr>X E X X X<clrEnd>
-<clr>D X X B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/0/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/1/text"	"Следовать за Блюндерром"	"Quest Provoda.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/2/text"	"Войти в бункер"	"Quest Provoda.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/3/text"	"Вопросов нет. Давайте работать."	"Quest Provoda.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/4/text"	"Я срочно стартую! В системе - доминаторы!"	"Quest Provoda.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/5/text"	"Войти в здание"	"Quest Provoda.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/6/text"	"Почему животные и птицы ведут себя так агрессивно?"	"Quest Provoda.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/7/text"	"Простите, а для малока вы не слишком..."	"Quest Provoda.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/8/text"	"Вменяемые профессора здесь есть?"	"Quest Provoda.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/9/text"	"Где главный инженер?"	"Quest Provoda.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/10/text"	"Летим отсюда все вместе на моем корабле. Собирайтесь."	"Quest Provoda.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/12/text"	"Чем я могу помочь?"	"Quest Provoda.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/13/text"	"Приступить к калибровке"	"Quest Provoda.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/14/text"	"Запросить больше данных"	"Quest Provoda.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/16/text"	"Поговорить с профессором"	"Quest Provoda.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/17/text"	"Щелкнуть профессора по носу"	"Quest Provoda.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/18/text"	"Попросить увести профессора"	"Quest Provoda.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/19/text"	"Попросить убрать посторонних подальше от этого места и приступить к калибровке"	"Quest Provoda.qmm: jumps.19.text. Preserve every <tag> exactly. English reference: Попросить убрать постронних подальше от этого места и приступить к калибровке"	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/20/text"	"Дать команду к запуску системы"	"Quest Provoda.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/21/text"	"Дать команду к запуску системы"	"Quest Provoda.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/22/text"	"Выбрать ряд A"	"Quest Provoda.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/23/text"	"Выбрать ряд B"	"Quest Provoda.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/24/text"	"Выбрать ряд C"	"Quest Provoda.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/25/text"	"Выбрать ряд D"	"Quest Provoda.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/26/text"	"Выбрать ряд E"	"Quest Provoda.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/27/text"	"Вспомнить инструкцию и посмотреть схему"	"Quest Provoda.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/28/text"	"Вернуться к настройке"	"Quest Provoda.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/29/text"	"уровень 1"	"Quest Provoda.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/30/text"	"уровень 2"	"Quest Provoda.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/31/text"	"уровень 3"	"Quest Provoda.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/32/text"	"уровень 4"	"Quest Provoda.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/33/text"	"уровень 5"	"Quest Provoda.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/34/text"	"уровень 1"	"Quest Provoda.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/35/text"	"уровень 2"	"Quest Provoda.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/36/text"	"уровень 3"	"Quest Provoda.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/37/text"	"уровень 4"	"Quest Provoda.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/38/text"	"уровень 5"	"Quest Provoda.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/39/text"	"уровень 1"	"Quest Provoda.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/40/text"	"уровень 2"	"Quest Provoda.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/41/text"	"уровень 3"	"Quest Provoda.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/42/text"	"уровень 4"	"Quest Provoda.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/43/text"	"уровень 5"	"Quest Provoda.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/44/text"	"уровень 1"	"Quest Provoda.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/45/text"	"уровень 2"	"Quest Provoda.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/46/text"	"уровень 3"	"Quest Provoda.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/47/text"	"уровень 4"	"Quest Provoda.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/48/text"	"уровень 5"	"Quest Provoda.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/49/text"	"уровень 1"	"Quest Provoda.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/50/text"	"уровень 2"	"Quest Provoda.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/51/text"	"уровень 3"	"Quest Provoda.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/52/text"	"уровень 4"	"Quest Provoda.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/53/text"	"уровень 5"	"Quest Provoda.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/54/text"	"1"	"Quest Provoda.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/55/text"	"2"	"Quest Provoda.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/56/text"	"3"	"Quest Provoda.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/57/text"	"4"	"Quest Provoda.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/58/text"	"5"	"Quest Provoda.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/60/text"	"1"	"Quest Provoda.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/61/text"	"2"	"Quest Provoda.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/62/text"	"3"	"Quest Provoda.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/63/text"	"4"	"Quest Provoda.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/64/text"	"5"	"Quest Provoda.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/65/text"	"1"	"Quest Provoda.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/66/text"	"2"	"Quest Provoda.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/67/text"	"3"	"Quest Provoda.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/68/text"	"4"	"Quest Provoda.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/69/text"	"5"	"Quest Provoda.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/70/text"	"1"	"Quest Provoda.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/71/text"	"2"	"Quest Provoda.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/72/text"	"3"	"Quest Provoda.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/73/text"	"4"	"Quest Provoda.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/74/text"	"5"	"Quest Provoda.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/75/text"	"1"	"Quest Provoda.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/76/text"	"2"	"Quest Provoda.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/77/text"	"3"	"Quest Provoda.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/78/text"	"4"	"Quest Provoda.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/79/text"	"5"	"Quest Provoda.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/84/text"	"1"	"Quest Provoda.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/85/text"	"2"	"Quest Provoda.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/86/text"	"3"	"Quest Provoda.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/87/text"	"4"	"Quest Provoda.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/88/text"	"5"	"Quest Provoda.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/89/text"	"1"	"Quest Provoda.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/90/text"	"2"	"Quest Provoda.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/91/text"	"3"	"Quest Provoda.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/92/text"	"4"	"Quest Provoda.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/93/text"	"5"	"Quest Provoda.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/94/text"	"1"	"Quest Provoda.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/95/text"	"2"	"Quest Provoda.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/96/text"	"3"	"Quest Provoda.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/97/text"	"4"	"Quest Provoda.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/98/text"	"5"	"Quest Provoda.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/99/text"	"1"	"Quest Provoda.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/100/text"	"2"	"Quest Provoda.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/101/text"	"3"	"Quest Provoda.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/102/text"	"4"	"Quest Provoda.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/103/text"	"5"	"Quest Provoda.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/104/text"	"1"	"Quest Provoda.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/105/text"	"2"	"Quest Provoda.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/106/text"	"3"	"Quest Provoda.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/107/text"	"4"	"Quest Provoda.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/108/text"	"5"	"Quest Provoda.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/109/text"	"1"	"Quest Provoda.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/110/text"	"2"	"Quest Provoda.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/111/text"	"3"	"Quest Provoda.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/112/text"	"4"	"Quest Provoda.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/113/text"	"5"	"Quest Provoda.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/114/text"	"1"	"Quest Provoda.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/115/text"	"2"	"Quest Provoda.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/116/text"	"3"	"Quest Provoda.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/117/text"	"4"	"Quest Provoda.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/118/text"	"5"	"Quest Provoda.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/119/text"	"1"	"Quest Provoda.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/120/text"	"2"	"Quest Provoda.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/121/text"	"3"	"Quest Provoda.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/122/text"	"4"	"Quest Provoda.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/123/text"	"5"	"Quest Provoda.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/124/text"	"1"	"Quest Provoda.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/125/text"	"2"	"Quest Provoda.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/126/text"	"3"	"Quest Provoda.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/127/text"	"4"	"Quest Provoda.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/128/text"	"5"	"Quest Provoda.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/129/text"	"1"	"Quest Provoda.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/130/text"	"2"	"Quest Provoda.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/131/text"	"3"	"Quest Provoda.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/132/text"	"4"	"Quest Provoda.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/133/text"	"5"	"Quest Provoda.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/134/text"	"1"	"Quest Provoda.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/135/text"	"2"	"Quest Provoda.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/136/text"	"3"	"Quest Provoda.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/137/text"	"4"	"Quest Provoda.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/138/text"	"5"	"Quest Provoda.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/139/text"	"1"	"Quest Provoda.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/140/text"	"2"	"Quest Provoda.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/141/text"	"3"	"Quest Provoda.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/142/text"	"4"	"Quest Provoda.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/143/text"	"5"	"Quest Provoda.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/144/text"	"1"	"Quest Provoda.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/145/text"	"2"	"Quest Provoda.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/146/text"	"3"	"Quest Provoda.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/147/text"	"4"	"Quest Provoda.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/148/text"	"5"	"Quest Provoda.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/149/text"	"1"	"Quest Provoda.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/150/text"	"2"	"Quest Provoda.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/151/text"	"3"	"Quest Provoda.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/152/text"	"4"	"Quest Provoda.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/153/text"	"5"	"Quest Provoda.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/154/text"	"1"	"Quest Provoda.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/155/text"	"2"	"Quest Provoda.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/156/text"	"3"	"Quest Provoda.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/157/text"	"4"	"Quest Provoda.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/158/text"	"5"	"Quest Provoda.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/159/text"	"1"	"Quest Provoda.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/160/text"	"2"	"Quest Provoda.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/161/text"	"3"	"Quest Provoda.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/162/text"	"4"	"Quest Provoda.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/163/text"	"5"	"Quest Provoda.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/164/text"	"1"	"Quest Provoda.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/165/text"	"2"	"Quest Provoda.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/166/text"	"3"	"Quest Provoda.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/167/text"	"4"	"Quest Provoda.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/168/text"	"5"	"Quest Provoda.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/169/text"	"1"	"Quest Provoda.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/170/text"	"2"	"Quest Provoda.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/171/text"	"3"	"Quest Provoda.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/172/text"	"4"	"Quest Provoda.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/173/text"	"5"	"Quest Provoda.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/174/text"	"1"	"Quest Provoda.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/175/text"	"2"	"Quest Provoda.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/176/text"	"3"	"Quest Provoda.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/177/text"	"4"	"Quest Provoda.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/178/text"	"5"	"Quest Provoda.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/179/text"	"1"	"Quest Provoda.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/180/text"	"2"	"Quest Provoda.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/181/text"	"3"	"Quest Provoda.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/182/text"	"4"	"Quest Provoda.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/183/text"	"5"	"Quest Provoda.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/184/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/185/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
-"/quests/Provoda.qmm/jumps/186/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Provoda"	""
+<clr>D X X B X<clrEnd>"	"Quest Provoda.qmm: locations.42.texts.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Дзякуючы сваёй фэнамэнальнай памяці, вы лёгка ўзгадалі словы <clr>Блюндерра<clrEnd>:
+""- З дапамогай інструкцыяў, якія нам удалося знайсьці і часткова расшыфраваць, мы зразумелі, што справа - у магістральных кабэлях. Іх усяго 25. Кожны блёк провадаў выконвае сваю функцыю з рознай доляй адхіленьня ад нормы. Для нармальнай працы сыстэмы трэба зрабіць яе каліброўку - усталяваць містынгі так, каб сумарны паказьнік інтэнсіўнасьці патокаў энэргіі па <clr>гарызанталі<clrEnd>, <clr>вэртыкалі<clrEnd> і <clr>дыяганалі<clrEnd> быў роўны <clr>15<clrEnd>. 
+Пры гэтым, паколькі сыстэма належыць да асынхроннага тыпу праваднікоў, у кожнай лініі трэба выкарыстоўваць <clr>пяць<clrEnd> розных паказьнікаў...""
+
+На шчасьце, схему вам узгадваць ня давялося - яна была ў вас у руках:
+
+<clr>X B X E X<clrEnd>
+<clr>A X E X X<clrEnd>
+<clr>X A B X X<clrEnd>
+<clr>X E X X X<clrEnd>
+<clr>D X X B X<clrEnd>"
+"/quests/Provoda.qmm/jumps/0/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выйсьці з карабля"
+"/quests/Provoda.qmm/jumps/1/text"	"Следовать за Блюндерром"	"Quest Provoda.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Ісьці за Блюндеррам"
+"/quests/Provoda.qmm/jumps/2/text"	"Войти в бункер"	"Quest Provoda.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Увайсьці ў бункер"
+"/quests/Provoda.qmm/jumps/3/text"	"Вопросов нет. Давайте работать."	"Quest Provoda.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Пытаньняў няма. Давайце працаваць."
+"/quests/Provoda.qmm/jumps/4/text"	"Я срочно стартую! В системе - доминаторы!"	"Quest Provoda.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Я тэрмінова стартую! У сыстэме - дамінатары!"
+"/quests/Provoda.qmm/jumps/5/text"	"Войти в здание"	"Quest Provoda.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Увайсьці ў будынак"
+"/quests/Provoda.qmm/jumps/6/text"	"Почему животные и птицы ведут себя так агрессивно?"	"Quest Provoda.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Чаму жывёлы і птушкі паводзяць сябе так агрэсіўна?"
+"/quests/Provoda.qmm/jumps/7/text"	"Простите, а для малока вы не слишком..."	"Quest Provoda.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прабачце, а для малака вы ня надта..."
+"/quests/Provoda.qmm/jumps/8/text"	"Вменяемые профессора здесь есть?"	"Quest Provoda.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прытомныя прафэсары тут ёсьць?"
+"/quests/Provoda.qmm/jumps/9/text"	"Где главный инженер?"	"Quest Provoda.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Дзе галоўны інжынэр?"
+"/quests/Provoda.qmm/jumps/10/text"	"Летим отсюда все вместе на моем корабле. Собирайтесь."	"Quest Provoda.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Ляцім адсюль усе разам на маім караблі. Зьбірайцеся."
+"/quests/Provoda.qmm/jumps/12/text"	"Чем я могу помочь?"	"Quest Provoda.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Чым я магу дапамагчы?"
+"/quests/Provoda.qmm/jumps/13/text"	"Приступить к калибровке"	"Quest Provoda.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Прыступіць да каліброўкі"
+"/quests/Provoda.qmm/jumps/14/text"	"Запросить больше данных"	"Quest Provoda.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Запытаць болей зьвестак"
+"/quests/Provoda.qmm/jumps/16/text"	"Поговорить с профессором"	"Quest Provoda.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Пагаварыць з прафэсарам"
+"/quests/Provoda.qmm/jumps/17/text"	"Щелкнуть профессора по носу"	"Quest Provoda.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Шчоўкнуць прафэсара па носе"
+"/quests/Provoda.qmm/jumps/18/text"	"Попросить увести профессора"	"Quest Provoda.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Папрасіць адвесьці прафэсара"
+"/quests/Provoda.qmm/jumps/19/text"	"Попросить убрать посторонних подальше от этого места и приступить к калибровке"	"Quest Provoda.qmm: jumps.19.text. Preserve every <tag> exactly. English reference: Попросить убрать постронних подальше от этого места и приступить к калибровке"	"Quest,Provoda"	"Папрасіць прыбраць староньніх далей ад гэтага месца і прыступіць да каліброўкі"
+"/quests/Provoda.qmm/jumps/20/text"	"Дать команду к запуску системы"	"Quest Provoda.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Даць каманду да запуску сыстэмы"
+"/quests/Provoda.qmm/jumps/21/text"	"Дать команду к запуску системы"	"Quest Provoda.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Даць каманду да запуску сыстэмы"
+"/quests/Provoda.qmm/jumps/22/text"	"Выбрать ряд A"	"Quest Provoda.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выбраць шэраг A"
+"/quests/Provoda.qmm/jumps/23/text"	"Выбрать ряд B"	"Quest Provoda.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выбраць шэраг B"
+"/quests/Provoda.qmm/jumps/24/text"	"Выбрать ряд C"	"Quest Provoda.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выбраць шэраг C"
+"/quests/Provoda.qmm/jumps/25/text"	"Выбрать ряд D"	"Quest Provoda.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выбраць шэраг D"
+"/quests/Provoda.qmm/jumps/26/text"	"Выбрать ряд E"	"Quest Provoda.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выбраць шэраг E"
+"/quests/Provoda.qmm/jumps/27/text"	"Вспомнить инструкцию и посмотреть схему"	"Quest Provoda.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Узгадаць інструкцыю і паглядзець схему"
+"/quests/Provoda.qmm/jumps/28/text"	"Вернуться к настройке"	"Quest Provoda.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Вярнуцца да наладкі"
+"/quests/Provoda.qmm/jumps/29/text"	"уровень 1"	"Quest Provoda.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 1"
+"/quests/Provoda.qmm/jumps/30/text"	"уровень 2"	"Quest Provoda.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 2"
+"/quests/Provoda.qmm/jumps/31/text"	"уровень 3"	"Quest Provoda.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 3"
+"/quests/Provoda.qmm/jumps/32/text"	"уровень 4"	"Quest Provoda.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 4"
+"/quests/Provoda.qmm/jumps/33/text"	"уровень 5"	"Quest Provoda.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 5"
+"/quests/Provoda.qmm/jumps/34/text"	"уровень 1"	"Quest Provoda.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 1"
+"/quests/Provoda.qmm/jumps/35/text"	"уровень 2"	"Quest Provoda.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 2"
+"/quests/Provoda.qmm/jumps/36/text"	"уровень 3"	"Quest Provoda.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 3"
+"/quests/Provoda.qmm/jumps/37/text"	"уровень 4"	"Quest Provoda.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 4"
+"/quests/Provoda.qmm/jumps/38/text"	"уровень 5"	"Quest Provoda.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 5"
+"/quests/Provoda.qmm/jumps/39/text"	"уровень 1"	"Quest Provoda.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 1"
+"/quests/Provoda.qmm/jumps/40/text"	"уровень 2"	"Quest Provoda.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 2"
+"/quests/Provoda.qmm/jumps/41/text"	"уровень 3"	"Quest Provoda.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 3"
+"/quests/Provoda.qmm/jumps/42/text"	"уровень 4"	"Quest Provoda.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 4"
+"/quests/Provoda.qmm/jumps/43/text"	"уровень 5"	"Quest Provoda.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 5"
+"/quests/Provoda.qmm/jumps/44/text"	"уровень 1"	"Quest Provoda.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 1"
+"/quests/Provoda.qmm/jumps/45/text"	"уровень 2"	"Quest Provoda.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 2"
+"/quests/Provoda.qmm/jumps/46/text"	"уровень 3"	"Quest Provoda.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 3"
+"/quests/Provoda.qmm/jumps/47/text"	"уровень 4"	"Quest Provoda.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 4"
+"/quests/Provoda.qmm/jumps/48/text"	"уровень 5"	"Quest Provoda.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 5"
+"/quests/Provoda.qmm/jumps/49/text"	"уровень 1"	"Quest Provoda.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 1"
+"/quests/Provoda.qmm/jumps/50/text"	"уровень 2"	"Quest Provoda.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 2"
+"/quests/Provoda.qmm/jumps/51/text"	"уровень 3"	"Quest Provoda.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 3"
+"/quests/Provoda.qmm/jumps/52/text"	"уровень 4"	"Quest Provoda.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 4"
+"/quests/Provoda.qmm/jumps/53/text"	"уровень 5"	"Quest Provoda.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Provoda"	"узровень 5"
+"/quests/Provoda.qmm/jumps/54/text"	"1"	"Quest Provoda.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/55/text"	"2"	"Quest Provoda.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/56/text"	"3"	"Quest Provoda.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/57/text"	"4"	"Quest Provoda.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/58/text"	"5"	"Quest Provoda.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/60/text"	"1"	"Quest Provoda.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/61/text"	"2"	"Quest Provoda.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/62/text"	"3"	"Quest Provoda.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/63/text"	"4"	"Quest Provoda.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/64/text"	"5"	"Quest Provoda.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/65/text"	"1"	"Quest Provoda.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/66/text"	"2"	"Quest Provoda.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/67/text"	"3"	"Quest Provoda.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/68/text"	"4"	"Quest Provoda.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/69/text"	"5"	"Quest Provoda.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/70/text"	"1"	"Quest Provoda.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/71/text"	"2"	"Quest Provoda.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/72/text"	"3"	"Quest Provoda.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/73/text"	"4"	"Quest Provoda.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/74/text"	"5"	"Quest Provoda.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/75/text"	"1"	"Quest Provoda.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/76/text"	"2"	"Quest Provoda.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/77/text"	"3"	"Quest Provoda.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/78/text"	"4"	"Quest Provoda.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/79/text"	"5"	"Quest Provoda.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/84/text"	"1"	"Quest Provoda.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/85/text"	"2"	"Quest Provoda.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/86/text"	"3"	"Quest Provoda.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/87/text"	"4"	"Quest Provoda.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/88/text"	"5"	"Quest Provoda.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/89/text"	"1"	"Quest Provoda.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/90/text"	"2"	"Quest Provoda.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/91/text"	"3"	"Quest Provoda.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/92/text"	"4"	"Quest Provoda.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/93/text"	"5"	"Quest Provoda.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/94/text"	"1"	"Quest Provoda.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/95/text"	"2"	"Quest Provoda.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/96/text"	"3"	"Quest Provoda.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/97/text"	"4"	"Quest Provoda.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/98/text"	"5"	"Quest Provoda.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/99/text"	"1"	"Quest Provoda.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/100/text"	"2"	"Quest Provoda.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/101/text"	"3"	"Quest Provoda.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/102/text"	"4"	"Quest Provoda.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/103/text"	"5"	"Quest Provoda.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/104/text"	"1"	"Quest Provoda.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/105/text"	"2"	"Quest Provoda.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/106/text"	"3"	"Quest Provoda.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/107/text"	"4"	"Quest Provoda.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/108/text"	"5"	"Quest Provoda.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/109/text"	"1"	"Quest Provoda.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/110/text"	"2"	"Quest Provoda.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/111/text"	"3"	"Quest Provoda.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/112/text"	"4"	"Quest Provoda.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/113/text"	"5"	"Quest Provoda.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/114/text"	"1"	"Quest Provoda.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/115/text"	"2"	"Quest Provoda.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/116/text"	"3"	"Quest Provoda.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/117/text"	"4"	"Quest Provoda.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/118/text"	"5"	"Quest Provoda.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/119/text"	"1"	"Quest Provoda.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/120/text"	"2"	"Quest Provoda.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/121/text"	"3"	"Quest Provoda.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/122/text"	"4"	"Quest Provoda.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/123/text"	"5"	"Quest Provoda.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/124/text"	"1"	"Quest Provoda.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/125/text"	"2"	"Quest Provoda.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/126/text"	"3"	"Quest Provoda.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/127/text"	"4"	"Quest Provoda.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/128/text"	"5"	"Quest Provoda.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/129/text"	"1"	"Quest Provoda.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/130/text"	"2"	"Quest Provoda.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/131/text"	"3"	"Quest Provoda.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/132/text"	"4"	"Quest Provoda.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/133/text"	"5"	"Quest Provoda.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/134/text"	"1"	"Quest Provoda.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/135/text"	"2"	"Quest Provoda.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/136/text"	"3"	"Quest Provoda.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/137/text"	"4"	"Quest Provoda.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/138/text"	"5"	"Quest Provoda.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/139/text"	"1"	"Quest Provoda.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/140/text"	"2"	"Quest Provoda.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/141/text"	"3"	"Quest Provoda.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/142/text"	"4"	"Quest Provoda.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/143/text"	"5"	"Quest Provoda.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/144/text"	"1"	"Quest Provoda.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/145/text"	"2"	"Quest Provoda.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/146/text"	"3"	"Quest Provoda.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/147/text"	"4"	"Quest Provoda.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/148/text"	"5"	"Quest Provoda.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/149/text"	"1"	"Quest Provoda.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/150/text"	"2"	"Quest Provoda.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/151/text"	"3"	"Quest Provoda.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/152/text"	"4"	"Quest Provoda.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/153/text"	"5"	"Quest Provoda.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/154/text"	"1"	"Quest Provoda.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/155/text"	"2"	"Quest Provoda.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/156/text"	"3"	"Quest Provoda.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/157/text"	"4"	"Quest Provoda.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/158/text"	"5"	"Quest Provoda.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/159/text"	"1"	"Quest Provoda.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/160/text"	"2"	"Quest Provoda.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/161/text"	"3"	"Quest Provoda.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/162/text"	"4"	"Quest Provoda.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/163/text"	"5"	"Quest Provoda.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/164/text"	"1"	"Quest Provoda.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/165/text"	"2"	"Quest Provoda.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/166/text"	"3"	"Quest Provoda.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/167/text"	"4"	"Quest Provoda.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/168/text"	"5"	"Quest Provoda.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/169/text"	"1"	"Quest Provoda.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/170/text"	"2"	"Quest Provoda.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/171/text"	"3"	"Quest Provoda.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/172/text"	"4"	"Quest Provoda.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/173/text"	"5"	"Quest Provoda.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/174/text"	"1"	"Quest Provoda.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/175/text"	"2"	"Quest Provoda.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/176/text"	"3"	"Quest Provoda.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/177/text"	"4"	"Quest Provoda.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/178/text"	"5"	"Quest Provoda.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/179/text"	"1"	"Quest Provoda.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Provoda"	"1"
+"/quests/Provoda.qmm/jumps/180/text"	"2"	"Quest Provoda.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Provoda"	"2"
+"/quests/Provoda.qmm/jumps/181/text"	"3"	"Quest Provoda.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Provoda"	"3"
+"/quests/Provoda.qmm/jumps/182/text"	"4"	"Quest Provoda.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Provoda"	"4"
+"/quests/Provoda.qmm/jumps/183/text"	"5"	"Quest Provoda.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Provoda"	"5"
+"/quests/Provoda.qmm/jumps/184/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выйсьці з карабля"
+"/quests/Provoda.qmm/jumps/185/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выйсьці з карабля"
+"/quests/Provoda.qmm/jumps/186/text"	"Выйти из корабля"	"Quest Provoda.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Provoda"	"Выйсьці з карабля"

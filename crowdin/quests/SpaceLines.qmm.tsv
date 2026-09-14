@@ -1,141 +1,147 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/SpaceLines.qmm/parameters/0/name"	"Деньги"	"Quest SpaceLines.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Money"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/0/lines/0/content"	"Деньги: <> cr."	"Quest SpaceLines.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: Money: <> cr."	"Quest,SpaceLines"	""
+"/quests/SpaceLines.qmm/parameters/0/name"	"Деньги"	"Quest SpaceLines.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Money"	"Quest,SpaceLines"	"Грошы"
+"/quests/SpaceLines.qmm/parameters/0/lines/0/content"	"Деньги: <> cr."	"Quest SpaceLines.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: Money: <> cr."	"Quest,SpaceLines"	"Грошы: <> cr."
 "/quests/SpaceLines.qmm/parameters/0/crit_text"	"Рано утром, вас разбудил телефонный звонок от Лякуши Толстосума, который явно был не в духе и рекомендовал вам быстро приехать в офис компании.
 Мигом домчавшись до места, вы зашли в кабинет директора. Там находился сам Лякуша и его зам - Герасим Герасимович. Сразу с порога они накинулись на вас с кулаками, Герасим что-то неразборчиво мычал, а Лякуша орал во весь голос. Вы поняли далеко не все из того, что он говорил, точнее, орал, но суть уловили. На счету компании не осталось средств, следовательно, она стала банкротом!"	"Quest SpaceLines.qmm: parameters.0.crit_text. Preserve every <tag> exactly. English reference: A phone call from Lyakusha Moneybags awoke you early in the morning. He was clearly in a foul mood and asked you to come into the office right away.
 In an instant, you had arrived and entered the director's office where Lyakusha and his deputy Gerasim Gerasimovich were sitting. The moment you crossed the threshold they lunged at you with their fists. Gerasim bellowed something unintelligble, while Lyakusha yelled at the top of his voice. You understood little of what he said, or rather yelled, but you caught the gist of it. The company has no money, but its creditors have the company! 
-In short, the company is bankrupt!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/1/name"	"кол лайнеров"	"Quest SpaceLines.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Number of liners"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/1/lines/0/content"	"Количество лайнеров: <>"	"Quest SpaceLines.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Number of liners - <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/1/crit_text"	"Ваше пари выиграно"	"Quest SpaceLines.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/2/name"	"Популярность"	"Quest SpaceLines.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Popularity"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/2/lines/0/content"	"Популярность компании: <>%"	"Quest SpaceLines.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Company popularity: <>%"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/2/crit_text"	"Популярность компании упала и серьёзную конкуренцию другим компаниям вы не сможете составить."	"Quest SpaceLines.qmm: parameters.2.crit_text. Preserve every <tag> exactly. English reference: The company's popularity has dropped and you won't be able to seriously compete with other companies."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/3/name"	"Параметр номер 4"	"Quest SpaceLines.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Parameter 4"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/3/lines/0/content"	"Осталось дней: <>"	"Quest SpaceLines.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Days remaining: <>"	"Quest,SpaceLines"	""
+In short, the company is bankrupt!"	"Quest,SpaceLines"	"Рана раніцай вас разбудзіў тэлефонны званок ад Лякушы Толстосума, які відавочна быў не ў духу і парэкамэндаваў вам хутка прыехаць у офіс кампаніі.
+Мігам дамчаўшыся да месца, вы зайшлі ў кабінет дырэктара. Там знаходзіўся сам Лякуша і яго намесьнік - Герасім Герасімавіч. Адразу з парога яны накінуліся на вас з кулакамі, Герасім нешта неразборліва мычаў, а Лякуша араў на ўвесь голас. Вы зразумелі далёка ня ўсё з таго, што ён казаў, дакладней, араў, але сутнасьць улавілі. На рахунку кампаніі не засталося сродкаў, адпаведна, яна стала банкрутам!"
+"/quests/SpaceLines.qmm/parameters/1/name"	"кол лайнеров"	"Quest SpaceLines.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Number of liners"	"Quest,SpaceLines"	"кол лайнэраў"
+"/quests/SpaceLines.qmm/parameters/1/lines/0/content"	"Количество лайнеров: <>"	"Quest SpaceLines.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Number of liners - <>"	"Quest,SpaceLines"	"Колькасьць лайнэраў: <>"
+"/quests/SpaceLines.qmm/parameters/1/crit_text"	"Ваше пари выиграно"	"Quest SpaceLines.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Вашае пары выйгранае"
+"/quests/SpaceLines.qmm/parameters/2/name"	"Популярность"	"Quest SpaceLines.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Popularity"	"Quest,SpaceLines"	"Папулярнасьць"
+"/quests/SpaceLines.qmm/parameters/2/lines/0/content"	"Популярность компании: <>%"	"Quest SpaceLines.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Company popularity: <>%"	"Quest,SpaceLines"	"Папулярнасьць кампаніі: <>%"
+"/quests/SpaceLines.qmm/parameters/2/crit_text"	"Популярность компании упала и серьёзную конкуренцию другим компаниям вы не сможете составить."	"Quest SpaceLines.qmm: parameters.2.crit_text. Preserve every <tag> exactly. English reference: The company's popularity has dropped and you won't be able to seriously compete with other companies."	"Quest,SpaceLines"	"Папулярнасьць кампаніі ўпала, і сур'ёзную канкурэнцыю іншым кампаніям вы ня зможаце скласьці."
+"/quests/SpaceLines.qmm/parameters/3/name"	"Параметр номер 4"	"Quest SpaceLines.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Parameter 4"	"Quest,SpaceLines"	"Парамэтар нумар 4"
+"/quests/SpaceLines.qmm/parameters/3/lines/0/content"	"Осталось дней: <>"	"Quest SpaceLines.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Days remaining: <>"	"Quest,SpaceLines"	"Засталося дзён: <>"
 "/quests/SpaceLines.qmm/parameters/3/crit_text"	"На утро в кабинете директора вас уже ждали. Лякуша Толстосум и его зам, на их лицах явно выражались признаки недовольства. 
 Время вышло и компания перешла к мачехе Лякуши.
 Вы долго молчали не проронив не звука, пока в кабинет ни зашла дама средних лет и попросила вас убраться из кабинета."	"Quest SpaceLines.qmm: parameters.3.crit_text. Preserve every <tag> exactly. English reference: In the morning they were already waiting for you in the director's office. Lyakusha Moneybags and his deputy sat, their faces showing obvious signs of discontent. 
 The deadline had passed and the company was transferred to Lyakusha's stepmother.
-You stood in silence, without making a peep, until a middle-aged woman entered the room and asked you to get lost."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/4/name"	"3"	"Quest SpaceLines.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/4/lines/0/content"	"Количество охранников: [p33]"	"Quest SpaceLines.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Number of guards - [p33]"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest SpaceLines.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/5/name"	"4"	"Quest SpaceLines.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/5/lines/0/content"	"Популярность: [p3]%"	"Quest SpaceLines.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Popularity - [p3]%"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest SpaceLines.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/6/name"	"5"	"Quest SpaceLines.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/6/lines/0/content"	"Затраты на рекламу: [p32] cr"	"Quest SpaceLines.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Advertising expenses - [p32] cr."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest SpaceLines.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/7/name"	"6"	"Quest SpaceLines.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/7/lines/0/content"	"Осталось дней: [p4]"	"Quest SpaceLines.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Days remaining - [p4]"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest SpaceLines.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/8/name"	"Параметр номер 9"	"Quest SpaceLines.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest SpaceLines.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest SpaceLines.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/9/name"	"Параметр номер 10"	"Quest SpaceLines.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest SpaceLines.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest SpaceLines.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/10/name"	"Параметр номер 11"	"Quest SpaceLines.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/10/lines/0/content"	"Параметр номер 11: <>"	"Quest SpaceLines.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest SpaceLines.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/11/name"	"Параметр номер 12"	"Quest SpaceLines.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest SpaceLines.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest SpaceLines.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/12/name"	"Уничтожено кораблей"	"Quest SpaceLines.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Ships destroyed"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/12/lines/0/content"	"Уничтожено"	"Quest SpaceLines.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: destroyed"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest SpaceLines.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/13/name"	"ограблено кораблей"	"Quest SpaceLines.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Ships plundered"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/13/lines/0/content"	"Ограблено"	"Quest SpaceLines.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: plundered"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest SpaceLines.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/14/name"	"сумма награбленого"	"Quest SpaceLines.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Total stolen"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/14/lines/0/content"	"Параметр номер 15: <>"	"Quest SpaceLines.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 15: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest SpaceLines.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/15/name"	"проценты"	"Quest SpaceLines.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: interest"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/15/lines/0/content"	"Параметр номер 16: <>"	"Quest SpaceLines.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 16: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest SpaceLines.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/16/name"	"Параметр номер 17"	"Quest SpaceLines.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Parameter 17"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/16/lines/0/content"	"Параметр номер 17: <>"	"Quest SpaceLines.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 17: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest SpaceLines.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/17/name"	"проход"	"Quest SpaceLines.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: passage"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest SpaceLines.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 18: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest SpaceLines.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/18/name"	"баланс"	"Quest SpaceLines.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: balance"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest SpaceLines.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 19: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest SpaceLines.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/19/name"	"ремонтное оборуд"	"Quest SpaceLines.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: repair equipment"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest SpaceLines.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 20: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest SpaceLines.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/20/name"	"улучшение комфортности"	"Quest SpaceLines.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: comfort enhancement"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest SpaceLines.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 21: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest SpaceLines.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/21/name"	"вооружение кораблей"	"Quest SpaceLines.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: weaponization of ships"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest SpaceLines.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 22: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest SpaceLines.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/22/name"	"увеличение посадочных мест"	"Quest SpaceLines.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: increased seats"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest SpaceLines.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 23: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest SpaceLines.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/23/name"	"заявки"	"Quest SpaceLines.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: applications"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/23/lines/0/content"	"Параметр номер 24: <>"	"Quest SpaceLines.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 24: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest SpaceLines.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/24/name"	"Первйы взнос"	"Quest SpaceLines.qmm: parameters.24.name. Preserve every <tag> exactly. English reference: Down payment"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/24/lines/0/content"	"Параметр номер 25: <>"	"Quest SpaceLines.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 25: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest SpaceLines.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/25/name"	"кол нанятых лайнеров"	"Quest SpaceLines.qmm: parameters.25.name. Preserve every <tag> exactly. English reference: Number of hired liners"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest SpaceLines.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 26: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest SpaceLines.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/26/name"	"прибыль за день"	"Quest SpaceLines.qmm: parameters.26.name. Preserve every <tag> exactly. English reference: profit per day"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/26/lines/0/content"	"Параметр номер 27: <>"	"Quest SpaceLines.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 27: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest SpaceLines.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/27/name"	"зарплата летчиков"	"Quest SpaceLines.qmm: parameters.27.name. Preserve every <tag> exactly. English reference: pilot wages"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/27/lines/0/content"	"Параметр номер 28: <>"	"Quest SpaceLines.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 28: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest SpaceLines.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/28/name"	"ремонт"	"Quest SpaceLines.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: repairs"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/28/lines/0/content"	"Параметр номер 29: <>"	"Quest SpaceLines.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 29: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest SpaceLines.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/29/name"	"проходимость"	"Quest SpaceLines.qmm: parameters.29.name. Preserve every <tag> exactly. English reference: terrain crossing capacity"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/29/lines/0/content"	"Параметр номер 30: <>"	"Quest SpaceLines.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 30: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest SpaceLines.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/30/name"	"итого"	"Quest SpaceLines.qmm: parameters.30.name. Preserve every <tag> exactly. English reference: total"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/30/lines/0/content"	"Параметр номер 31: <>"	"Quest SpaceLines.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 31: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest SpaceLines.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/31/name"	"затраты на рекламу"	"Quest SpaceLines.qmm: parameters.31.name. Preserve every <tag> exactly. English reference: advertising expenses"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/31/lines/0/content"	"Параметр номер 32: <>"	"Quest SpaceLines.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 32: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest SpaceLines.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/32/name"	"охрана"	"Quest SpaceLines.qmm: parameters.32.name. Preserve every <tag> exactly. English reference: security"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/32/lines/0/content"	"Лайнеры-охранники: <>"	"Quest SpaceLines.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly. English reference: Liner guards <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest SpaceLines.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/33/name"	"плата охране"	"Quest SpaceLines.qmm: parameters.33.name. Preserve every <tag> exactly. English reference: guard wages"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest SpaceLines.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 34: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest SpaceLines.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/34/name"	"Невыход охраны"	"Quest SpaceLines.qmm: parameters.34.name. Preserve every <tag> exactly. English reference: Guard absenteeism"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest SpaceLines.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 35: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest SpaceLines.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/35/name"	"Контрабанда"	"Quest SpaceLines.qmm: parameters.35.name. Preserve every <tag> exactly. English reference: Contraband"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest SpaceLines.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 36: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest SpaceLines.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/36/name"	"Зарплата"	"Quest SpaceLines.qmm: parameters.36.name. Preserve every <tag> exactly. English reference: Wages"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/36/lines/0/content"	"Параметр номер 37: <>"	"Quest SpaceLines.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 37: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest SpaceLines.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/37/name"	"флаг"	"Quest SpaceLines.qmm: parameters.37.name. Preserve every <tag> exactly. English reference: Flag"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/37/lines/0/content"	"Параметр номер 38: <>"	"Quest SpaceLines.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 38: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest SpaceLines.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/38/name"	"Флаг 1"	"Quest SpaceLines.qmm: parameters.38.name. Preserve every <tag> exactly. English reference: Flag 1"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/38/lines/0/content"	"Параметр номер 39: <>"	"Quest SpaceLines.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 39: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest SpaceLines.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/39/name"	"Деньги игрока"	"Quest SpaceLines.qmm: parameters.39.name. Preserve every <tag> exactly. English reference: Player's money"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/39/lines/0/content"	"Параметр номер 40: <>"	"Quest SpaceLines.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 40: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest SpaceLines.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/40/name"	"Долг"	"Quest SpaceLines.qmm: parameters.40.name. Preserve every <tag> exactly. English reference: Debt"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/40/lines/0/content"	"Параметр номер 41: <>"	"Quest SpaceLines.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 41: <>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest SpaceLines.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
+You stood in silence, without making a peep, until a middle-aged woman entered the room and asked you to get lost."	"Quest,SpaceLines"	"На раніцу ў кабінеце дырэктара вас ужо чакалі. Лякуша Толстосум і яго намесьнік, на іх тварах відавочна адбіваліся прыкметы незадаволенасьці. 
+Час выйшаў, і кампанія перайшла да мачахі Лякушы.
+Вы доўга маўчалі, не прамовіўшы ні гуку, пакуль у кабінет не зайшла дама сярэдніх гадоў і не папрасіла вас прыбрацца з кабінету."
+"/quests/SpaceLines.qmm/parameters/4/name"	"3"	"Quest SpaceLines.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"3"
+"/quests/SpaceLines.qmm/parameters/4/lines/0/content"	"Количество охранников: [p33]"	"Quest SpaceLines.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Number of guards - [p33]"	"Quest,SpaceLines"	"Колькасьць ахоўнікаў: [p33]"
+"/quests/SpaceLines.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest SpaceLines.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 5"
+"/quests/SpaceLines.qmm/parameters/5/name"	"4"	"Quest SpaceLines.qmm: parameters.5.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"4"
+"/quests/SpaceLines.qmm/parameters/5/lines/0/content"	"Популярность: [p3]%"	"Quest SpaceLines.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Popularity - [p3]%"	"Quest,SpaceLines"	"Папулярнасьць: [p3]%"
+"/quests/SpaceLines.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest SpaceLines.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 6"
+"/quests/SpaceLines.qmm/parameters/6/name"	"5"	"Quest SpaceLines.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"5"
+"/quests/SpaceLines.qmm/parameters/6/lines/0/content"	"Затраты на рекламу: [p32] cr"	"Quest SpaceLines.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Advertising expenses - [p32] cr."	"Quest,SpaceLines"	"Выдаткі на рэкляму: [p32] cr"
+"/quests/SpaceLines.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest SpaceLines.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 7"
+"/quests/SpaceLines.qmm/parameters/7/name"	"6"	"Quest SpaceLines.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"6"
+"/quests/SpaceLines.qmm/parameters/7/lines/0/content"	"Осталось дней: [p4]"	"Quest SpaceLines.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Days remaining - [p4]"	"Quest,SpaceLines"	"Засталося дзён: [p4]"
+"/quests/SpaceLines.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest SpaceLines.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 8"
+"/quests/SpaceLines.qmm/parameters/8/name"	"Параметр номер 9"	"Quest SpaceLines.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 9"
+"/quests/SpaceLines.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest SpaceLines.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 9: <>"
+"/quests/SpaceLines.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest SpaceLines.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 9"
+"/quests/SpaceLines.qmm/parameters/9/name"	"Параметр номер 10"	"Quest SpaceLines.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 10"
+"/quests/SpaceLines.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest SpaceLines.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 10: <>"
+"/quests/SpaceLines.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest SpaceLines.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 10"
+"/quests/SpaceLines.qmm/parameters/10/name"	"Параметр номер 11"	"Quest SpaceLines.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 11"
+"/quests/SpaceLines.qmm/parameters/10/lines/0/content"	"Параметр номер 11: <>"	"Quest SpaceLines.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 11: <>"
+"/quests/SpaceLines.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest SpaceLines.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 11"
+"/quests/SpaceLines.qmm/parameters/11/name"	"Параметр номер 12"	"Quest SpaceLines.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 12"
+"/quests/SpaceLines.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest SpaceLines.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Парамэтар нумар 12: <>"
+"/quests/SpaceLines.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest SpaceLines.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 12"
+"/quests/SpaceLines.qmm/parameters/12/name"	"Уничтожено кораблей"	"Quest SpaceLines.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Ships destroyed"	"Quest,SpaceLines"	"Зьнішчана караблёў"
+"/quests/SpaceLines.qmm/parameters/12/lines/0/content"	"Уничтожено"	"Quest SpaceLines.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: destroyed"	"Quest,SpaceLines"	"Зьнішчана"
+"/quests/SpaceLines.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest SpaceLines.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 13"
+"/quests/SpaceLines.qmm/parameters/13/name"	"ограблено кораблей"	"Quest SpaceLines.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Ships plundered"	"Quest,SpaceLines"	"абрабавана караблёў"
+"/quests/SpaceLines.qmm/parameters/13/lines/0/content"	"Ограблено"	"Quest SpaceLines.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: plundered"	"Quest,SpaceLines"	"Абрабавана"
+"/quests/SpaceLines.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest SpaceLines.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 14"
+"/quests/SpaceLines.qmm/parameters/14/name"	"сумма награбленого"	"Quest SpaceLines.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Total stolen"	"Quest,SpaceLines"	"сума награбленага"
+"/quests/SpaceLines.qmm/parameters/14/lines/0/content"	"Параметр номер 15: <>"	"Quest SpaceLines.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 15: <>"	"Quest,SpaceLines"	"Парамэтар нумар 15: <>"
+"/quests/SpaceLines.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest SpaceLines.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 15"
+"/quests/SpaceLines.qmm/parameters/15/name"	"проценты"	"Quest SpaceLines.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: interest"	"Quest,SpaceLines"	"працэнты"
+"/quests/SpaceLines.qmm/parameters/15/lines/0/content"	"Параметр номер 16: <>"	"Quest SpaceLines.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 16: <>"	"Quest,SpaceLines"	"Парамэтар нумар 16: <>"
+"/quests/SpaceLines.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest SpaceLines.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 16"
+"/quests/SpaceLines.qmm/parameters/16/name"	"Параметр номер 17"	"Quest SpaceLines.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Parameter 17"	"Quest,SpaceLines"	"Парамэтар нумар 17"
+"/quests/SpaceLines.qmm/parameters/16/lines/0/content"	"Параметр номер 17: <>"	"Quest SpaceLines.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 17: <>"	"Quest,SpaceLines"	"Парамэтар нумар 17: <>"
+"/quests/SpaceLines.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest SpaceLines.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 17"
+"/quests/SpaceLines.qmm/parameters/17/name"	"проход"	"Quest SpaceLines.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: passage"	"Quest,SpaceLines"	"праход"
+"/quests/SpaceLines.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest SpaceLines.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 18: <>"	"Quest,SpaceLines"	"Парамэтар нумар 18: <>"
+"/quests/SpaceLines.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest SpaceLines.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 18"
+"/quests/SpaceLines.qmm/parameters/18/name"	"баланс"	"Quest SpaceLines.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: balance"	"Quest,SpaceLines"	"балянс"
+"/quests/SpaceLines.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest SpaceLines.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 19: <>"	"Quest,SpaceLines"	"Парамэтар нумар 19: <>"
+"/quests/SpaceLines.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest SpaceLines.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 19"
+"/quests/SpaceLines.qmm/parameters/19/name"	"ремонтное оборуд"	"Quest SpaceLines.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: repair equipment"	"Quest,SpaceLines"	"рамонтнае абсталяв"
+"/quests/SpaceLines.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest SpaceLines.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 20: <>"	"Quest,SpaceLines"	"Парамэтар нумар 20: <>"
+"/quests/SpaceLines.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest SpaceLines.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 20"
+"/quests/SpaceLines.qmm/parameters/20/name"	"улучшение комфортности"	"Quest SpaceLines.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: comfort enhancement"	"Quest,SpaceLines"	"паляпшэньне камфорту"
+"/quests/SpaceLines.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest SpaceLines.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 21: <>"	"Quest,SpaceLines"	"Парамэтар нумар 21: <>"
+"/quests/SpaceLines.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest SpaceLines.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 21"
+"/quests/SpaceLines.qmm/parameters/21/name"	"вооружение кораблей"	"Quest SpaceLines.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: weaponization of ships"	"Quest,SpaceLines"	"узбраеньне караблёў"
+"/quests/SpaceLines.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest SpaceLines.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 22: <>"	"Quest,SpaceLines"	"Парамэтар нумар 22: <>"
+"/quests/SpaceLines.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest SpaceLines.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 22"
+"/quests/SpaceLines.qmm/parameters/22/name"	"увеличение посадочных мест"	"Quest SpaceLines.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: increased seats"	"Quest,SpaceLines"	"павелічэньне пасадачных месцаў"
+"/quests/SpaceLines.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest SpaceLines.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 23: <>"	"Quest,SpaceLines"	"Парамэтар нумар 23: <>"
+"/quests/SpaceLines.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest SpaceLines.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 23"
+"/quests/SpaceLines.qmm/parameters/23/name"	"заявки"	"Quest SpaceLines.qmm: parameters.23.name. Preserve every <tag> exactly. English reference: applications"	"Quest,SpaceLines"	"заяўкі"
+"/quests/SpaceLines.qmm/parameters/23/lines/0/content"	"Параметр номер 24: <>"	"Quest SpaceLines.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 24: <>"	"Quest,SpaceLines"	"Парамэтар нумар 24: <>"
+"/quests/SpaceLines.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest SpaceLines.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 24"
+"/quests/SpaceLines.qmm/parameters/24/name"	"Первйы взнос"	"Quest SpaceLines.qmm: parameters.24.name. Preserve every <tag> exactly. English reference: Down payment"	"Quest,SpaceLines"	"Першы ўнёсак"
+"/quests/SpaceLines.qmm/parameters/24/lines/0/content"	"Параметр номер 25: <>"	"Quest SpaceLines.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 25: <>"	"Quest,SpaceLines"	"Парамэтар нумар 25: <>"
+"/quests/SpaceLines.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest SpaceLines.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 25"
+"/quests/SpaceLines.qmm/parameters/25/name"	"кол нанятых лайнеров"	"Quest SpaceLines.qmm: parameters.25.name. Preserve every <tag> exactly. English reference: Number of hired liners"	"Quest,SpaceLines"	"кол нанятых лайнэраў"
+"/quests/SpaceLines.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest SpaceLines.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 26: <>"	"Quest,SpaceLines"	"Парамэтар нумар 26: <>"
+"/quests/SpaceLines.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest SpaceLines.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 26"
+"/quests/SpaceLines.qmm/parameters/26/name"	"прибыль за день"	"Quest SpaceLines.qmm: parameters.26.name. Preserve every <tag> exactly. English reference: profit per day"	"Quest,SpaceLines"	"прыбытак за дзень"
+"/quests/SpaceLines.qmm/parameters/26/lines/0/content"	"Параметр номер 27: <>"	"Quest SpaceLines.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 27: <>"	"Quest,SpaceLines"	"Парамэтар нумар 27: <>"
+"/quests/SpaceLines.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest SpaceLines.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 27"
+"/quests/SpaceLines.qmm/parameters/27/name"	"зарплата летчиков"	"Quest SpaceLines.qmm: parameters.27.name. Preserve every <tag> exactly. English reference: pilot wages"	"Quest,SpaceLines"	"заробак лётчыкаў"
+"/quests/SpaceLines.qmm/parameters/27/lines/0/content"	"Параметр номер 28: <>"	"Quest SpaceLines.qmm: parameters.27.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 28: <>"	"Quest,SpaceLines"	"Парамэтар нумар 28: <>"
+"/quests/SpaceLines.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest SpaceLines.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 28"
+"/quests/SpaceLines.qmm/parameters/28/name"	"ремонт"	"Quest SpaceLines.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: repairs"	"Quest,SpaceLines"	"рамонт"
+"/quests/SpaceLines.qmm/parameters/28/lines/0/content"	"Параметр номер 29: <>"	"Quest SpaceLines.qmm: parameters.28.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 29: <>"	"Quest,SpaceLines"	"Парамэтар нумар 29: <>"
+"/quests/SpaceLines.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 29"	"Quest SpaceLines.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 29"
+"/quests/SpaceLines.qmm/parameters/29/name"	"проходимость"	"Quest SpaceLines.qmm: parameters.29.name. Preserve every <tag> exactly. English reference: terrain crossing capacity"	"Quest,SpaceLines"	"праходнасьць"
+"/quests/SpaceLines.qmm/parameters/29/lines/0/content"	"Параметр номер 30: <>"	"Quest SpaceLines.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 30: <>"	"Quest,SpaceLines"	"Парамэтар нумар 30: <>"
+"/quests/SpaceLines.qmm/parameters/29/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest SpaceLines.qmm: parameters.29.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 30"
+"/quests/SpaceLines.qmm/parameters/30/name"	"итого"	"Quest SpaceLines.qmm: parameters.30.name. Preserve every <tag> exactly. English reference: total"	"Quest,SpaceLines"	"разам"
+"/quests/SpaceLines.qmm/parameters/30/lines/0/content"	"Параметр номер 31: <>"	"Quest SpaceLines.qmm: parameters.30.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 31: <>"	"Quest,SpaceLines"	"Парамэтар нумар 31: <>"
+"/quests/SpaceLines.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest SpaceLines.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 31"
+"/quests/SpaceLines.qmm/parameters/31/name"	"затраты на рекламу"	"Quest SpaceLines.qmm: parameters.31.name. Preserve every <tag> exactly. English reference: advertising expenses"	"Quest,SpaceLines"	"выдаткі на рэкляму"
+"/quests/SpaceLines.qmm/parameters/31/lines/0/content"	"Параметр номер 32: <>"	"Quest SpaceLines.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 32: <>"	"Quest,SpaceLines"	"Парамэтар нумар 32: <>"
+"/quests/SpaceLines.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 32"	"Quest SpaceLines.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 32"
+"/quests/SpaceLines.qmm/parameters/32/name"	"охрана"	"Quest SpaceLines.qmm: parameters.32.name. Preserve every <tag> exactly. English reference: security"	"Quest,SpaceLines"	"ахова"
+"/quests/SpaceLines.qmm/parameters/32/lines/0/content"	"Лайнеры-охранники: <>"	"Quest SpaceLines.qmm: parameters.32.lines.0.content. Preserve every <tag> exactly. English reference: Liner guards <>"	"Quest,SpaceLines"	"Лайнэры-ахоўнікі: <>"
+"/quests/SpaceLines.qmm/parameters/32/crit_text"	"Сообщение достижения критического значения параметром 33"	"Quest SpaceLines.qmm: parameters.32.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 33"
+"/quests/SpaceLines.qmm/parameters/33/name"	"плата охране"	"Quest SpaceLines.qmm: parameters.33.name. Preserve every <tag> exactly. English reference: guard wages"	"Quest,SpaceLines"	"плата ахове"
+"/quests/SpaceLines.qmm/parameters/33/lines/0/content"	"Параметр номер 34: <>"	"Quest SpaceLines.qmm: parameters.33.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 34: <>"	"Quest,SpaceLines"	"Парамэтар нумар 34: <>"
+"/quests/SpaceLines.qmm/parameters/33/crit_text"	"Сообщение достижения критического значения параметром 34"	"Quest SpaceLines.qmm: parameters.33.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 34"
+"/quests/SpaceLines.qmm/parameters/34/name"	"Невыход охраны"	"Quest SpaceLines.qmm: parameters.34.name. Preserve every <tag> exactly. English reference: Guard absenteeism"	"Quest,SpaceLines"	"Невыхад аховы"
+"/quests/SpaceLines.qmm/parameters/34/lines/0/content"	"Параметр номер 35: <>"	"Quest SpaceLines.qmm: parameters.34.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 35: <>"	"Quest,SpaceLines"	"Парамэтар нумар 35: <>"
+"/quests/SpaceLines.qmm/parameters/34/crit_text"	"Сообщение достижения критического значения параметром 35"	"Quest SpaceLines.qmm: parameters.34.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 35"
+"/quests/SpaceLines.qmm/parameters/35/name"	"Контрабанда"	"Quest SpaceLines.qmm: parameters.35.name. Preserve every <tag> exactly. English reference: Contraband"	"Quest,SpaceLines"	"Кантрабанда"
+"/quests/SpaceLines.qmm/parameters/35/lines/0/content"	"Параметр номер 36: <>"	"Quest SpaceLines.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 36: <>"	"Quest,SpaceLines"	"Парамэтар нумар 36: <>"
+"/quests/SpaceLines.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest SpaceLines.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 36"
+"/quests/SpaceLines.qmm/parameters/36/name"	"Зарплата"	"Quest SpaceLines.qmm: parameters.36.name. Preserve every <tag> exactly. English reference: Wages"	"Quest,SpaceLines"	"Заробак"
+"/quests/SpaceLines.qmm/parameters/36/lines/0/content"	"Параметр номер 37: <>"	"Quest SpaceLines.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 37: <>"	"Quest,SpaceLines"	"Парамэтар нумар 37: <>"
+"/quests/SpaceLines.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest SpaceLines.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 37"
+"/quests/SpaceLines.qmm/parameters/37/name"	"флаг"	"Quest SpaceLines.qmm: parameters.37.name. Preserve every <tag> exactly. English reference: Flag"	"Quest,SpaceLines"	"сьцяг"
+"/quests/SpaceLines.qmm/parameters/37/lines/0/content"	"Параметр номер 38: <>"	"Quest SpaceLines.qmm: parameters.37.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 38: <>"	"Quest,SpaceLines"	"Парамэтар нумар 38: <>"
+"/quests/SpaceLines.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest SpaceLines.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 38"
+"/quests/SpaceLines.qmm/parameters/38/name"	"Флаг 1"	"Quest SpaceLines.qmm: parameters.38.name. Preserve every <tag> exactly. English reference: Flag 1"	"Quest,SpaceLines"	"Сьцяг 1"
+"/quests/SpaceLines.qmm/parameters/38/lines/0/content"	"Параметр номер 39: <>"	"Quest SpaceLines.qmm: parameters.38.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 39: <>"	"Quest,SpaceLines"	"Парамэтар нумар 39: <>"
+"/quests/SpaceLines.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest SpaceLines.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 39"
+"/quests/SpaceLines.qmm/parameters/39/name"	"Деньги игрока"	"Quest SpaceLines.qmm: parameters.39.name. Preserve every <tag> exactly. English reference: Player's money"	"Quest,SpaceLines"	"Грошы гульца"
+"/quests/SpaceLines.qmm/parameters/39/lines/0/content"	"Параметр номер 40: <>"	"Quest SpaceLines.qmm: parameters.39.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 40: <>"	"Quest,SpaceLines"	"Парамэтар нумар 40: <>"
+"/quests/SpaceLines.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest SpaceLines.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 40"
+"/quests/SpaceLines.qmm/parameters/40/name"	"Долг"	"Quest SpaceLines.qmm: parameters.40.name. Preserve every <tag> exactly. English reference: Debt"	"Quest,SpaceLines"	"Доўг"
+"/quests/SpaceLines.qmm/parameters/40/lines/0/content"	"Параметр номер 41: <>"	"Quest SpaceLines.qmm: parameters.40.lines.0.content. Preserve every <tag> exactly. English reference: Parameter 41: <>"	"Quest,SpaceLines"	"Парамэтар нумар 41: <>"
+"/quests/SpaceLines.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest SpaceLines.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 41"
 "/quests/SpaceLines.qmm/success_text"	"Вы молодец, рейнджер <Ranger>! Получите ваши кровно заработанные <Money>cr. 
-Что? Да не бойтесь, никто не нападет на вас, вы же в здании правительства. Берите деньги и возвращайтесь спокойно на свой корабль."	"Quest SpaceLines.qmm: success_text. Preserve every <tag> exactly. English reference: Nicely done, ranger <Ranger>! Here, take your hard-earned wages - <Money> cr. What? Don't be afraid...nobody is going to attack you; you're still in a government building. Go quietly to your ship."	"Quest,SpaceLines"	""
+Что? Да не бойтесь, никто не нападет на вас, вы же в здании правительства. Берите деньги и возвращайтесь спокойно на свой корабль."	"Quest SpaceLines.qmm: success_text. Preserve every <tag> exactly. English reference: Nicely done, ranger <Ranger>! Here, take your hard-earned wages - <Money> cr. What? Don't be afraid...nobody is going to attack you; you're still in a government building. Go quietly to your ship."	"Quest,SpaceLines"	"Вы малайчына, рэйнджэр <Ranger>! Атрымайце вашыя цяжка заробленыя <Money>cr. 
+Што? Ды ня бойцеся, ніхто ня нападзе на вас, вы ж у будынку ўраду. Бярыце грошы і вяртайцеся спакойна на свой карабель."
 "/quests/SpaceLines.qmm/task_text"	"Задание, задание... гм... где-то было... ах, вот же оно. Да, точно, обратился к нам один старый знакомый, который помог нашему президенту во время последних выборов. Не без финансовых вливаний от заинтересованных лиц, конечно... ой, о чем это я? Забудьте, все забудьте и впитывайте лучше суть задания!
 В общем, он пишет, что ему нужна помощь в раскрутке компании ""SpaceLines"", которая занимается пассажироперевозками. Если хотите подзаработать, рейнджер  <Ranger>, срочно вылетайте на планету <ToPlanet>, которая в звездной системе <ToStar>, если мне память не изменяет. Он обещал неплохое вознаграждение в размере <Money> cr, но только если задание будет выполнено до <Date>!
 Да не стойте же на месте, ведь часы уже тикают!"	"Quest SpaceLines.qmm: task_text. Preserve every <tag> exactly. English reference: The mission, the mission... Hmm, it was here somewhere. Ah! Here it is. Yes, yes. A certain old acquaintance of ours has contacted us. He helped our president get elected, but not without... Oh, uh...what was I saying?!
 Basically, he writes that he needs help promoting SpaceLines, a passenger transportation company!
-So, ranger <Ranger>, that means you need to quickly fly to planet <ToPlanet> in the <ToStar> system, I think. He promised a decent reward of <Money> cr., but only if the mission is fulfilled by <Date>! You're still here?!"	"Quest,SpaceLines"	""
+So, ranger <Ranger>, that means you need to quickly fly to planet <ToPlanet> in the <ToStar> system, I think. He promised a decent reward of <Money> cr., but only if the mission is fulfilled by <Date>! You're still here?!"	"Quest,SpaceLines"	"Заданьне, заданьне... гм... дзесьці было... ах, вось жа яно. Так, дакладна, зьвярнуўся да нас адзін стары знаёмы, які дапамог нашаму прэзыдэнту падчас апошніх выбараў. Не бяз фінансавых уліваньняў ад зацікаўленых асобаў, вядома... ой, пра што гэта я? Забудзьце, усё забудзьце і ўбірайце лепей сутнасьць заданьня!
+Увогуле, ён піша, што яму патрэбная дапамога ў раскрутцы кампаніі ""SpaceLines"", якая займаецца пасажыраперавозкамі. Калі хочаце падзарабіць, рэйнджэр  <Ranger>, тэрмінова вылятайце на плянэту <ToPlanet>, якая ў зорнай сыстэме <ToStar>, калі мне памяць ня зьмяняе. Ён абяцаў нядрэнную ўзнагароду ў памеры <Money> cr, але толькі калі заданьне будзе выкананае да <Date>!
+Ды ня стойце ж на месцы, бо час ужо не чакае!"
 "/quests/SpaceLines.qmm/locations/0/texts/0/text"	"Приземлившись в космопорту, вы немедленно проследовали в зал ожидания. Там вас уже ждали двое: рослый пеленг и худой до изнемождения человек. Оба они выглядели весьма респектабельными, в основном, благодаря дорогим даже на вид костюмам.
 - Здравствуйте <Ranger>. Надеюсь, долетели вы хорошо, - сказал рослый пеленг и, протянув руку, представился, - Лякуша Толстосум, а это мой заместитель Герасим Герасимович. Глухонемой, - с небольшой иронией добавил он.
 Пожав друг другу руки, что было не так просто с четырехруким оппонентом, вы направились на улицу. Там вас ждала машина, внешне совершенно обычная, но весьма эффектная и комфортная внутри. Усевшись поудобнее, вы отправились в офис компании.
@@ -146,10 +152,16 @@ So, ranger <Ranger>, that means you need to quickly fly to planet <ToPlanet> in 
 After shaking hands - which you found to be very confusing to do with Lyakusha - you headed outside. A car was waiting for you. It was ordinary, but very comfy and cozy. Once you had snuggled yourself comfortably into the car, you started off for the company's office.
 ""Our company is called Space..."" began Lyakusha.
 - ... ""SpaceLines,"" you interrupted, ""It's a small passenger transportation company.""
-""You probably want to know just what help we need from you."""	"Quest,SpaceLines"	""
+""You probably want to know just what help we need from you."""	"Quest,SpaceLines"	"Прызямліўшыся ў касмапорце, вы неадкладна прайшлі ў залю чаканьня. Там вас ужо чакалі двое: рослы пеленг і худы да зьнямогі чалавек. Абодва яны выглядалі вельмі рэспэктабэльнымі, у асноўным дзякуючы дарагім нават з выгляду касьцюмам.
+- Добры дзень, <Ranger>. Спадзяюся, даляцелі вы добра, - сказаў рослы пеленг і, працягнуўшы руку, адрэкамэндаваўся, - Лякуша Толстосум, а гэта мой намесьнік Герасім Герасімавіч. Глуханямы, - зь невялікай іроніяй дадаў ён.
+Паціснуўшы адзін аднаму рукі, што было ня так проста з чатырохрукім апанэнтам, вы накіраваліся на вуліцу. Там вас чакала машына, звонку зусім звычайная, але вельмі эфэктная і камфортная ўнутры. Уладкаваўшыся зручней, вы адправіліся ў офіс кампаніі.
+- Наша кампанія называецца ""Space...
+- ...""SpaceLines"", - перабілі вы Лякушу, - кампанія невялікая, займаецца пасажыраперавозкамі.
+- Вы напэўна хочаце ведаць, навошта нам спатрэбілася вашая дапамога?"
 "/quests/SpaceLines.qmm/locations/1/texts/0/text"	"Вы находитесь в кабинете директора. Он небольшой и выдержан в строгом деловом стиле. Дорогой стол из черного дерева, на нем такой же черный компьютер, рядом большое мягкое кресло, один из углов занимает сейф. Пол и стены отделаны качественными материалами. Одна стена полностью стеклянная и с высоты сто пятидесятого этажа открывается великолепный вид на город.
 Но не стоит отвлекаться, пора за работу!"	"Quest SpaceLines.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You are in the director's office. It was small, but decorated in a no-nonsense business style. There was an expensive desk made of black wood with a computer on top, a large and soft chair, and, in the corner, a safe. The floor and walls were finished with pricey materials. One wall was made entirely of glass and offered a gorgeous view of the city from the 150th floor.
-But you shouldn't be gawking - it's time to work!"	"Quest,SpaceLines"	""
+But you shouldn't be gawking - it's time to work!"	"Quest,SpaceLines"	"Вы знаходзіцеся ў кабінеце дырэктара. Ён невялікі і вытрыманы ў строгім дзелавым стылі. Дарагі стол з чорнага дрэва, на ім такі ж чорны кампутар, побач вялікае мяккае крэсла, адзін з кутоў займае сэйф. Падлога і сьцены аздобленыя якаснымі матэрыяламі. Адна сьцяна цалкам шкляная, і з вышыні сто пяцідзясятага паверху адкрываецца цудоўны выгляд на горад.
+Але ня варта адцягвацца, пара за працу!"
 "/quests/SpaceLines.qmm/locations/1/texts/1/text"	"Утром, сразу же после начала рабочего дня на ваш компьютер пришло письмо с извещением, что вчера на несколько ваших лайнеров были совершены нападения со стороны пиратов.
 Уничтожено кораблей: [p13].
 Ограблено кораблей: [p14]
@@ -157,7 +169,11 @@ But you shouldn't be gawking - it's time to work!"	"Quest,SpaceLines"	""
 Может, следует что-то предпринять?"	"Quest SpaceLines.qmm: locations.1.texts.1.text. Preserve every <tag> exactly. English reference: The following morning, which was a workday, a message arrived at your computer saying that yesterday pirates had attacked some of the liners.
 Ships destroyed - [p13].
 Ships plundered - [p14]. Amount stolen - [p15] cr.
-Maybe something should be done?"	"Quest,SpaceLines"	""
+Maybe something should be done?"	"Quest,SpaceLines"	"Раніцай, адразу пасьля пачатку працоўнага дня, на ваш кампутар прыйшоў ліст з паведамленьнем, што ўчора на некалькі вашых лайнэраў былі зьдзейсьненыя напады з боку піратаў.
+Зьнішчана караблёў: [p13].
+Абрабавана караблёў: [p14]
+Сума выкрадзеных грошай: [p15]cr.
+Можа, варта нешта зрабіць?"
 "/quests/SpaceLines.qmm/locations/1/texts/2/text"	"Утром нового дня, едва вы успели войти в кабинет и снять уличную одежду, к вам вошла секретарша и принесла отчет за вчерашний день.
 
 <fix>
@@ -176,8 +192,17 @@ Maybe something should be done?"	"Quest,SpaceLines"	""
 ---------------------------------------------------
 </fix>
 
-Contact the chief accountant for a breakdown of the data."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/1/texts/3/text"	"Вызванная вами секретарша сообщила, что на сегодняшний день свободных лайнеров, желающих работать на вашу компанию не найдено."	"Quest SpaceLines.qmm: locations.1.texts.3.text. Preserve every <tag> exactly. English reference: The office girl informed you that the following day there were no liners that would work for your company."	"Quest,SpaceLines"	""
+Contact the chief accountant for a breakdown of the data."	"Quest,SpaceLines"	"Раніцай новага дня, ледзь вы пасьпелі ўвайсьці ў кабінет і зьняць вулічную вопратку, да вас зайшла сакратарка і прынесла справаздачу за ўчорашні дзень.
+
+<fix>
+--------------------------------------------------
+<format=left,27> Прыбытак за ўчорашні дзень:</format> [p27]cr.
+<format=left,27> Колькасьць лайнэраў:</format> [p2].
+---------------------------------------------------
+</fix>
+
+Па больш разгорнутую інфармацыю вы можаце зьвярнуцца да галоўнага бухгальтара."
+"/quests/SpaceLines.qmm/locations/1/texts/3/text"	"Вызванная вами секретарша сообщила, что на сегодняшний день свободных лайнеров, желающих работать на вашу компанию не найдено."	"Quest SpaceLines.qmm: locations.1.texts.3.text. Preserve every <tag> exactly. English reference: The office girl informed you that the following day there were no liners that would work for your company."	"Quest,SpaceLines"	"Выкліканая вамі сакратарка паведаміла, што на сёньняшні дзень вольных лайнэраў, якія жадаюць працаваць на вашую кампанію, не знойдзена."
 "/quests/SpaceLines.qmm/locations/1/texts/4/text"	"Добравшись утром до работы и поднявшись на лифте в офис, вы обнаружили, что секретарши на месте нет и дверь в ваш кабинет чуть приоткрыта.
 Вы вошли внутрь и обнаружили, что у окна стоит некая дама, любуясь видом на город с высоты. Услышав, как вы вошли, она обернулась.
 - Здравствуйте, <Ranger>.
@@ -186,7 +211,11 @@ Contact the chief accountant for a breakdown of the data."	"Quest,SpaceLines"	""
 A lady was standing at the window, admiring the view from the 150th floor. Hearing you enter, she turned around.
 ""Hello, <Ranger>.""
 ""Who are you and what are you doing here?""
-""I'm the stepmother of that late bloomer, Lyakusha Moneybags! We need to have a serious talk. If I understand correctly, you're doing everything you can to keep the firm in my stepson's hands. Anyway, I'm not going to beat around the bush. I'm offering you 5,000 cr. cash. You get your things packed up right away and fly yourself off this planet. Think it over!"""	"Quest,SpaceLines"	""
+""I'm the stepmother of that late bloomer, Lyakusha Moneybags! We need to have a serious talk. If I understand correctly, you're doing everything you can to keep the firm in my stepson's hands. Anyway, I'm not going to beat around the bush. I'm offering you 5,000 cr. cash. You get your things packed up right away and fly yourself off this planet. Think it over!"""	"Quest,SpaceLines"	"Дабраўшыся раніцай да працы і падняўшыся на ліфце ў офіс, вы выявілі, што сакратаркі на месцы няма і дзьверы ў ваш кабінет крыху прыадчыненыя.
+Вы ўвайшлі ўнутр і выявілі, што ля вакна стаіць нейкая дама, любуючыся выглядам на горад з вышыні. Пачуўшы, як вы ўвайшлі, яна абярнулася.
+- Добры дзень, <Ranger>.
+- Хто вы такая і што вы тут робіце?
+- Я мачаха гэтага пераростка, Лякушы Толстосума! У мяне ёсьць да вас вельмі сур'ёзная размова. Я так разумею, вы робіце ўсё магчымае, каб фірма засталася ў руках майго пасынка. Дык вось, я ня буду доўга хадзіць вакол ды каля і адразу прапаную вам <clr>5000<clrEnd> крэдытаў наяўнымі. А вы, не губляючы ні хвіліны, зьбіраеце свае рэчы і адлятаеце з плянэты. Як вам мая прапанова? Падумайце добра!"
 "/quests/SpaceLines.qmm/locations/1/texts/5/text"	"На подступах к кабинету вас встретила секретарша.
 - Я пыталась их выгнать, но они меня не слушали...
 - Кто это ""они""?
@@ -199,7 +228,13 @@ A lady was standing at the window, admiring the view from the 150th floor. Heari
 ""Two guys in black. They're in your office.""
 Upon entering your office, you observed two pelengs. One stood inspecting a picture on the wall. The other was sitting in your chair, resting his legs on your desk and whistling something.
 ""Who are you and why are you here?""
-""I,"" said the peleng sitting at your desk without standing up, ""am a super famous celebrity in this town. Your friend, Lyakusha Moneybags, borrowed a hefty sum from me - {[p1]div3} cr. I intend to either get that money today or get one of your liners instead. Otherwise, I'll make a single phone call and your company's popularity will tank so low your company will start bleeding money everyday."	"Quest,SpaceLines"	""
+""I,"" said the peleng sitting at your desk without standing up, ""am a super famous celebrity in this town. Your friend, Lyakusha Moneybags, borrowed a hefty sum from me - {[p1]div3} cr. I intend to either get that money today or get one of your liners instead. Otherwise, I'll make a single phone call and your company's popularity will tank so low your company will start bleeding money everyday."	"Quest,SpaceLines"	"На падыходах да кабінету вас сустрэла сакратарка.
+- Я спрабавала іх выгнаць, але яны мяне не слухалі...
+- Хто гэта ""яны""?
+- Двое ў чорным, яны ў вас у кабінеце.
+Зайшоўшы ў памяшканьне, вы выявілі ўнутры двух пеленгаў. Адзін разглядаў карціну, што вісіць на сьцяне, а другі сядзеў у вашым крэсьле і, паклаўшы ногі на стол, насьвістваў нейкую мэлёдыю.
+- Хто вы і што вам трэба тут?
+- Я занадта вядомая асоба ў гэтым горадзе, каб прадстаўляцца, - прамовіў пеленг, што сядзеў за сталом. - Твой сябар, Лякуша Толстосум, вінен мне кругленькую суму, якая роўная {[p1]div3} cr. Я маю намер атрымаць яе зараз жа альбо ўзяць замест гэтай сумы адзін з вашых лайнэраў. У адваротным выпадку я зраблю ўсяго адзін званок, і папулярнасьць вашай кампаніі ўпадзе так нізка, што вы будзеце працаваць сабе ж у страту."
 "/quests/SpaceLines.qmm/locations/2/texts/0/text"	"При найме лайнера необходимо внести первый взнос в размере от 10 000 cr до 25 000 cr. Он зависит от вашей популярности, чем она выше, тем больше первый взнос. Дальнейшая оплата составит [p37]cr. в день - зарплата лётчиков. На сегодня первый взнос составляет [p25] cr. На вашем счету [p1] cr. и этого хватит на найм {[p1]div[p25]} лайнеров.
 Вызванная вами секретарша принесла список свободных лайнеров, желающих работать у вас в компании на сегодняшний день. 
 Их количество равняется [p24].
@@ -208,7 +243,11 @@ Upon entering your office, you observed two pelengs. One stood inspecting a pict
 The office girl brought you a list of the liners willing to work for you the next day. 
 Today they total [p24] liner(s).
 
-So how many liners do you want to hire?"	"Quest,SpaceLines"	""
+So how many liners do you want to hire?"	"Quest,SpaceLines"	"Пры найме лайнэра неабходна ўнесьці першы ўнёсак у памеры ад 10 000 cr да 25 000 cr. Ён залежыць ад вашай папулярнасьці: чым яна вышэйшая, тым большы першы ўнёсак. Далейшая аплата складзе [p37]cr. у дзень - заробак лётчыкаў. На сёньня першы ўнёсак складае [p25] cr. На вашым рахунку [p1] cr. і гэтага хопіць на наём {[p1]div[p25]} лайнэраў.
+Выкліканая вамі сакратарка прынесла сьпіс вольных лайнэраў, якія жадаюць працаваць у вас у кампаніі на сёньняшні дзень. 
+Іх колькасьць роўная [p24].
+
+Дык колькі лайнэраў наняць?"
 "/quests/SpaceLines.qmm/locations/8/texts/0/text"	"Менеджер по рекламе, привлекательная женщина в деловом костюме, зашла в ваш кабинет.
 - Ну и что вы мне расскажете? - спросили вы, выдержав паузу.
 - Популярность нашей компании на данный момент равна в процентах [p3]. От неё зависит приток клиентов, следовательно, и доход компании.
@@ -227,7 +266,16 @@ So how many liners do you want to hire?"	"Quest,SpaceLines"	""
 ""I don't think we should be stingy with the advertising budget. We should spend as much as possible there,"" she said through gritted teeth.
 ""Very good. Thanks. I'll think about it!"" you said and dismissed her.
 
-Should money be spent on advertising? And if so, how much?"	"Quest,SpaceLines"	""
+Should money be spent on advertising? And if so, how much?"	"Quest,SpaceLines"	"Мэнэджэр па рэкляме, прывабная жанчына ў дзелавым касьцюме, зайшла ў ваш кабінет.
+- Ну і што вы мне раскажаце? - спыталі вы, вытрымаўшы паўзу.
+- Папулярнасьць нашай кампаніі на дадзены момант роўная ў працэнтах [p3]. Ад яе залежыць прыток кліентаў, адпаведна, і прыбытак кампаніі.
+- Выбачайце, - перабілі вы, - ад чаго залежыць папулярнасьць і што на яе ўплывае?
+- Папулярнасьць залежыць ад многіх фактараў, але асноўным з'яўляецца рэкляма нашай кампаніі. Чым больш трацім на рэкляму, тым вышэйшая папулярнасьць. Асноўным заніжальным фактарам папулярнасьці з'яўляюцца напады піратаў на нашы лайнэры.  Таксама папулярнасьць падае на <clr>2<clrEnd> працэнты штодня. І яшчэ нешта, тым ня менш важнае: калі папулярнасьць упадзе да <clr>10<clrEnd> працэнтаў ці яшчэ ніжэй, то кампанія ня зможа канкураваць з астатнімі удзельнікамі рынку, і яе зачыняць! Гэта ўсё, што я хацела сказаць!
+- Вашыя прапановы?
+- Я прапаную не скупіцца на рэкляму і траціць на яе максымальна магчымую колькасьць сродкаў, - выклала яна вам азбучную ісьціну.
+- Добра, дзякуй, я падумаю! - сказалі вы і адпусьцілі мэнэджэра.
+
+Колькі траціць на рэкляму і ці трэба траціць на гэта грошы наогул?"
 "/quests/SpaceLines.qmm/locations/9/texts/0/text"	"Огромный малок в камуфляжной форме протянул вам листок бумаги и встал по стойке смирно.
 
 Ваши ресурсы:
@@ -243,8 +291,16 @@ Liners - [p2]
 Guards - [p33]
 There is a {100-(([p33]/[p2])*100)}% threat of a pirate attack.
 
-A guard's daily wages are <clr>1,500<clrEnd> cr. If necessary, you can hire or fire ship guards. Keep in mind that each guard employed increases our company's popularity every day."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/13/texts/0/text"	"С кем из специалистов вы планируете пообщаться?"	"Quest SpaceLines.qmm: locations.13.texts.0.text. Preserve every <tag> exactly. English reference: Which staff member would you like to talk to?"	"Quest,SpaceLines"	""
+A guard's daily wages are <clr>1,500<clrEnd> cr. If necessary, you can hire or fire ship guards. Keep in mind that each guard employed increases our company's popularity every day."	"Quest,SpaceLines"	"Вялізны малок у камуфляжнай форме працягнуў вам лісток паперы і стаў па стойцы стрункі.
+
+Вашыя рэсурсы:
+Лайнэраў: [p2]
+Ахоўнікаў: [p33]
+
+Імавернасьць нападу піратаў: {100-(([p33]/[p2])*100)}%
+
+Штодзённая плата кожнаму ахоўніку складае <clr>1500<clrEnd> cr. Пры неабходнасьці іх можна наняць або звольніць. Варта ўлічваць, што кожны наняты ахоўнік штодня павялічвае папулярнасьць нашай кампаніі."
+"/quests/SpaceLines.qmm/locations/13/texts/0/text"	"С кем из специалистов вы планируете пообщаться?"	"Quest SpaceLines.qmm: locations.13.texts.0.text. Preserve every <tag> exactly. English reference: Which staff member would you like to talk to?"	"Quest,SpaceLines"	"З кім са спэцыялістаў вы плянуеце пагутарыць?"
 "/quests/SpaceLines.qmm/locations/14/texts/0/text"	"Рослый феянин протянул вам листок бумаги с отчетом за день.
 
 <fix>
@@ -275,9 +331,24 @@ A guard's daily wages are <clr>1,500<clrEnd> cr. If necessary, you can hire or f
 Tomorrow's balance*: {([p2]*(10000+[p23]*2500)*([p3]+[p33]*0.2+[p32] div 3000+[p21]*5)/100)-[p34]-[p2]*500-[p32]-[p2]*1500} cr.
 
 * - assuming there are no pirate attacks and that repair expenses are at maximum.
-</fix>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/15/texts/0/text"	"Сколько кораблей-охранников вы хотите уволить?"	"Quest SpaceLines.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: How many ship guards do you want to fire?"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/16/texts/0/text"	"Сколько кораблей-охранников вы хотите нанять?"	"Quest SpaceLines.qmm: locations.16.texts.0.text. Preserve every <tag> exactly. English reference: How many ship guards do you want to hire?"	"Quest,SpaceLines"	""
+</fix>"	"Quest,SpaceLines"	"Рослы фэянін працягнуў вам лісток паперы са справаздачай за дзень.
+
+<fix>
+--------------------------------------------------
+<format=left,27> Балянс на <CurDate>:</format> [p19] cr.
+<format=left,27> Прыбытак за дзень:</format> [p27] cr.
+<format=left,27> Заробак лётчыкаў:</format> {[p2]*[p37]} cr.
+<format=left,27> Плата ахове:</format> [p34] cr.
+<format=left,27> Выдаткі на рамонт лайнэраў:</format> [p29] cr. (Зь іх {([p14]*500)/[p20]} cr. на рамонт ад нападу). 
+<format=left,27> Выдаткі на рэкляму:</format> [p32] cr.
+<format=left,27> Сума, награбленая піратамі:</format> [p15] cr.
+---------------------------------------------------
+Балянс на заўтра*: {([p2]*(10000+[p23]*2500)*([p3]+[p33]*0,2+[p32] div 3000+[p21]*5)/100)-[p34]-[p2]*500-[p32]-[p2]*1500} cr.
+
+* - пры ўмове, што атакі піратаў будуць роўныя нулю, а выдаткі на рамонт максымальнымі.
+</fix>"
+"/quests/SpaceLines.qmm/locations/15/texts/0/text"	"Сколько кораблей-охранников вы хотите уволить?"	"Quest SpaceLines.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: How many ship guards do you want to fire?"	"Quest,SpaceLines"	"Колькі караблёў-ахоўнікаў вы хочаце звольніць?"
+"/quests/SpaceLines.qmm/locations/16/texts/0/text"	"Сколько кораблей-охранников вы хотите нанять?"	"Quest SpaceLines.qmm: locations.16.texts.0.text. Preserve every <tag> exactly. English reference: How many ship guards do you want to hire?"	"Quest,SpaceLines"	"Колькі караблёў-ахоўнікаў вы хочаце наняць?"
 "/quests/SpaceLines.qmm/locations/18/texts/0/text"	"Главный инженер, пожилой пеленг в очках и с жиденькой бородкой, предлагает следующее:
 
 1. Закупить новейшее оборудование для плановых и послеаварийных ремонтных работ, так как нынешнее оборудование технически устарело и не позволяет качественно обслуживать ваш парк лайнеров. Это позволить снизить затраты на ремонт в <clr>2<clrEnd> раза. Стоимость замены оборудования: <clr>20 000 cr.<clrEnd>
@@ -301,18 +372,34 @@ Tomorrow's balance*: {([p2]*(10000+[p23]*2500)*([p3]+[p33]*0.2+[p32] div 3000+[p
 
 4. And finally, last but not least, increase the number of passenger seats by decreasing the size of the cargo compartment. As a result, liners will be able to accomodate <clr>25%<clrEnd> more passengers and profits will grow accordingly. This work will cost <clr>30,000 cr.<clrEnd>
 
-What's your decision?"	"Quest,SpaceLines"	""
+What's your decision?"	"Quest,SpaceLines"	"Галоўны інжынэр, пажылы пеленг у акулярах і з жыдзенькай бародкай, прапануе наступнае:
+
+1. Закупіць найноўшае абсталяваньне для плянавых і пасьляаварыйных рамонтных працаў, бо цяперашняе абсталяваньне тэхнічна састарэла і ня дазваляе якасна абслугоўваць ваш парк лайнэраў. Гэта дазволіць зьнізіць выдаткі на рамонт у <clr>2<clrEnd> разы. Кошт замены абсталяваньня: <clr>20 000 cr.<clrEnd>
+
+2.  Палепшыць камфортабэльнасьць пры пералётах шляхам паляпшэньня шумаізаляцыі, дадаваньня стэрэавізараў у салёнах лайнэраў і таму падобных навацыяў. Дзякуючы гэтаму  папулярнасьць кампаніі з кожным днём будзе павялічвацца прыкладна на <clr>5<clrEnd> працэнтаў. 
+Кошт закупкі матэрыялаў складае: <clr>25 000 cr.<clrEnd>
+
+3. Аснасьціць лайнэры мінімальнымі сродкамі абароны, такімі як узмацняльнікі ахоўнага поля і пакрыцьцё корпуса ахоўным бранявым слоем. Гэта прывядзе да зьніжэньня шкоды ад дзеяньняў піратаў у <clr>2<clrEnd> разы. 
+Кошт гэтых працаў складае: <clr>30 000 cr.<clrEnd>
+
+4. І, нарэшце, апошняе, але не менш важнае - гэта павелічэньне ліку пасадачных месцаў за кошт памяншэньня грузавых адсекаў лайнэраў. У сувязі з гэтым лайнэр зможа браць пасажыраў на <clr>25<clrEnd> працэнтаў больш і, адпаведна, павялічыць прыбытак ад перавозак.
+Кошт гэтых працаў складае: <clr>30 000 cr.<clrEnd>
+
+Рашайце, у што лепей укласьці грошы."
 "/quests/SpaceLines.qmm/locations/21/texts/0/text"	"Рано утром, вас разбудил телефонный звонок от Лякуши Толстосума, который явно был не в духе и рекомендовал вам быстро приехать в офис компании.
 Мигом домчавшись до места, вы зашли в кабинет директора. Там находился сам Лякуша и его зам - Герасим Герасимович. Сразу с порога они накинулись на вас с кулаками, Герасим что-то неразборчиво мычал, а Лякуша орал во весь голос. Вы поняли далеко не все из того, что он говорил, точнее, орал, но суть уловили. На счету компании не осталось средств, следовательно, она стала банкротом!"	"Quest SpaceLines.qmm: locations.21.texts.0.text. Preserve every <tag> exactly. English reference: A phone call from Lyakusha Moneybags awoke you early in the morning. He was clearly in a foul mood and asked you to come into the office right away.
 In an instant, you had arrived and entered the director's office where Lyakusha and his deputy Gerasim Gerasimovich were sitting. The moment you crossed the threshold they lunged at you with their fists. Gerasim bellowed something unintelligble, while Lyakusha yelled at the top of his voice. You understood little of what he said, or rather yelled, but you caught the gist of it. The company has no money, but its creditors have the company! 
-In short, the company is bankrupt!"	"Quest,SpaceLines"	""
+In short, the company is bankrupt!"	"Quest,SpaceLines"	"Рана раніцай вас разбудзіў тэлефонны званок ад Лякушы Толстосума, які відавочна быў не ў духу і парэкамэндаваў вам хутка прыехаць у офіс кампаніі.
+Мігам дамчаўшыся да месца, вы зайшлі ў кабінет дырэктара. Там знаходзіўся сам Лякуша і яго намесьнік - Герасім Герасімавіч. Адразу з парога яны накінуліся на вас з кулакамі, Герасім нешта неразборліва мычаў, а Лякуша араў на ўвесь голас. Вы зразумелі далёка ня ўсё з таго, што ён казаў, дакладней, араў, але сутнасьць улавілі. На рахунку кампаніі не засталося сродкаў, адпаведна, яна стала банкрутам!"
 "/quests/SpaceLines.qmm/locations/23/texts/0/text"	"Наняв последнюю партию лайнеров, вы набрали номер телефона Лякуши Толстосума и сообщили ему приятную весть. Он был так обрадован, что уже через десять минут вбежал в кабинет с бутылкой шампанского, которую вы быстренько осушили, пока Толстосум тряс вас за руку и распевал благодарственные оды в вашу честь. Когда бутылка закончилась, вы оторвали от себя бизнесмена и немедленно направились в космопорт."	"Quest SpaceLines.qmm: locations.23.texts.0.text. Preserve every <tag> exactly. English reference: After engaging the last batch of liners, you dialed Lyakusha Moneybags's phone number and told him the good news. He was so happy that in ten minutes he had joined you in the office with a bottle of champagne which quickly ran dry. 
-But don't become intoxicated yet, you still need to get through spaceport security. After hearing the Lyakusha thank you once again, you headed to the spaceport!"	"Quest,SpaceLines"	""
+But don't become intoxicated yet, you still need to get through spaceport security. After hearing the Lyakusha thank you once again, you headed to the spaceport!"	"Quest,SpaceLines"	"Наняўшы апошнюю партыю лайнэраў, вы набралі нумар тэлефона Лякушы Толстосума і паведамілі яму прыемную вестку. Ён быў так усьцешаны, што ўжо праз дзесяць хвілінаў убег у кабінет з бутэлькай шампанскага, якую вы хуценька асушылі, пакуль Толстосум трас вас за руку і расьпяваў падзячныя оды ў ваш гонар. Калі бутэлька скончылася, вы ададралі ад сябе бізнэсмэна і неадкладна накіраваліся ў касмапорт."
 "/quests/SpaceLines.qmm/locations/28/texts/0/text"	"- Всё началось с того момента, как ушел в мир иной мой отец, - начал Лякуша. - Мне в наследство досталась его компания, детище всей его жизни и кормилица нашей семьи. Компания профилируется на туристическом бизнесе, занимаясь перевозкой пассажиров в разные райские уголки галактики. Отец завещал мне компанию только в том случае, если я за 30 дней увеличу количество нанятых лайнеров в 10 раз, то есть до <clr>50<clrEnd> лайнеров. В противном случае компания перейдет в наследство моей мачехе, чего категорически нельзя допускать.
 - Так в чем же дело, за отведенное время мы поставим компанию на ноги!
 - Дело в том, что первые десять дней я тщетно пытался поднять компанию самостоятельно, но у меня ничего не вышло и именно поэтому вы здесь. Я надеюсь, вы умеете творить чудеса, поскольку у вас осталось на это всего <clr>20<clrEnd> дней!"	"Quest SpaceLines.qmm: locations.28.texts.0.text. Preserve every <tag> exactly. English reference: ""It all started when my father departed to another world,"" began Lyakusha. ""I inherited his company, which had been his darling his whole life and had provided for our family. It's a tourism company. We transport people to various pieces of paradise all over the galaxy. My father left the company to me on the condition that within 30 days I increase the number of hired liners 10 fold. In other words, <clr>50<clrEnd> liners will work for the company. Otherwise, the company will be bequeathed to my stepmother - which absolutely must not happen.""
 ""So, what's the problem? We'll get the company back on its feet in 30 days!
-""Well, the thing is that the first 10 days I tried in vain to turn the company around, but everything went wrong, which is why you're here, and I hope you can work miracles, because you only have <clr>20<clrEnd> days left!"	"Quest,SpaceLines"	""
+""Well, the thing is that the first 10 days I tried in vain to turn the company around, but everything went wrong, which is why you're here, and I hope you can work miracles, because you only have <clr>20<clrEnd> days left!"	"Quest,SpaceLines"	"- Усё пачалося з таго моманту, як адышоў у іншы сьвет мой бацька, - пачаў Лякуша. - Мне ў спадчыну дасталася яго кампанія, дзецішча ўсяго яго жыцьця і карміцелька нашай сям'і. Кампанія спэцыялізуецца на турыстычным бізнэсе, займаючыся перавозкай пасажыраў у розныя райскія куткі галяктыкі. Бацька адпісаў мне кампанію толькі ў тым выпадку, калі я за 30 дзён павялічу колькасьць нанятых лайнэраў у 10 разоў, гэта значыць да <clr>50<clrEnd> лайнэраў. У адваротным выпадку кампанія пяройдзе ў спадчыну маёй мачасе, чаго катэгарычна нельга дапускаць.
+- Дык у чым жа справа, за адведзены час мы паставім кампанію на ногі!
+- Справа ў тым, што першыя дзесяць дзён я дарэмна спрабаваў падняць кампанію самастойна, але ў мяне нічога не атрымалася, і менавіта таму вы тут. Я спадзяюся, вы ўмееце тварыць цуды, бо ў вас засталося на гэта ўсяго <clr>20<clrEnd> дзён!"
 "/quests/SpaceLines.qmm/locations/29/texts/0/text"	"Не прошло и получаса, как к вам в кабинет забежала взбудораженная секретарша с огромными круглыми глазами и бледным лицом.
 - Что произошло? - поднявшись со стула, спросили вы.
 - Там... там...
@@ -321,29 +408,40 @@ But don't become intoxicated yet, you still need to get through spaceport securi
 ""What happened?"" you asked, getting up from your chair.
 ""There...there...""
 ""There what?"" you began to yell, without letting her finish.
-""Our liner has been hijacked by terrorists!"" she blurted out with trembling lips. ""They want to talk to you on line five!"""	"Quest,SpaceLines"	""
+""Our liner has been hijacked by terrorists!"" she blurted out with trembling lips. ""They want to talk to you on line five!"""	"Quest,SpaceLines"	"Не прайшло і паўгадзіны, як да вас у кабінет забегла ўзбуджаная сакратарка з вялізнымі круглымі вачыма і бледным тварам.
+- Што адбылося? - падняўшыся з крэсла, спыталі вы.
+- Там... там...
+- Што там? - зааралі вы, ня даўшы ёй скончыць.
+- Наш лайнэр захоплены тэрарыстамі! - дрыготкімі вуснамі вымавіла яна. - Яны на пятай лініі, хочуць з вамі пагаварыць!"
 "/quests/SpaceLines.qmm/locations/30/texts/0/text"	"Переключившись на пятую линию и собравшись с силами, вы подняли трубку:
 - Слушаю вас.
 - Слушай, слушай, да запоминай. Мы серьезные братки и в бирюльки играть не собираемся, поэтому говорю в первый и последний раз! Нам нужно {[p1]div1,5} cr.  и ещё <clr>2<clrEnd> лайнера, в противном случае мы взорвем захваченный корабль вместе с пассажирами! На раздумье у тебя всего десять секунд, время пошло!"	"Quest SpaceLines.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: After connecting to line five and gathering your strength, you picked up the receiver:
 ""I'm here.""
-""Listen very carefully. We're deadly serious and don't intend to play any games. So I'm going to say this once! We need {[p1]div1.5} cr. and another 2 liners. Otherwise, we'll detonate this liner along with the passengers! I'll give you 10 seconds to think it over! The clock is ticking!"""	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/31/texts/0/text"	"- Но они говорят, что взорвут лайнер со всеми пассажирами и тогда наша репутация упадет ниже нуля!"	"Quest SpaceLines.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: ""But they say they'll detonate the liner with all the passengers, and then our reputation will be completely destroyed."""	"Quest,SpaceLines"	""
+""Listen very carefully. We're deadly serious and don't intend to play any games. So I'm going to say this once! We need {[p1]div1.5} cr. and another 2 liners. Otherwise, we'll detonate this liner along with the passengers! I'll give you 10 seconds to think it over! The clock is ticking!"""	"Quest,SpaceLines"	"Пераключыўшыся на пятую лінію і сабраўшыся з сіламі, вы ўзьнялі трубку:
+- Слухаю вас.
+- Слухай, слухай, ды запамінай. Мы сур'ёзныя браткі і ў бірулькі гуляць ня зьбіраемся, таму кажу ў першы і апошні раз! Нам трэба {[p1]div1,5} cr.  і яшчэ <clr>2<clrEnd> лайнэры, у адваротным выпадку мы ўзарвём захоплены карабель разам з пасажырамі! На роздум у цябе ўсяго дзесяць сэкундаў, час пайшоў!"
+"/quests/SpaceLines.qmm/locations/31/texts/0/text"	"- Но они говорят, что взорвут лайнер со всеми пассажирами и тогда наша репутация упадет ниже нуля!"	"Quest SpaceLines.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: ""But they say they'll detonate the liner with all the passengers, and then our reputation will be completely destroyed."""	"Quest,SpaceLines"	"- Але яны кажуць, што ўзарвуць лайнэр з усімі пасажырамі, і тады наша рэпутацыя ўпадзе ніжэй за нуль!"
 "/quests/SpaceLines.qmm/locations/32/texts/0/text"	"- Мы ребята своего слова, как только наши условия будут выполнены, мы отпустим всех!
 
 Через пару часов вы получили сообщение, что захваченный лайнер продолжил свой путь, пострадавших нет. Вздохнув с облегчением, вы ослабили галстук и посмотрели на банковский счёт компании, что сразу же вернуло похоронное выражение на ваше лицо."	"Quest SpaceLines.qmm: locations.32.texts.0.text. Preserve every <tag> exactly. English reference: ""We're men of our word. As soon as our conditions are met, we'll release everybody!""
 
 After a couple of hours you received a message that the hijacked liner had carried on its way and that there were no casualties!
-After breathing a sigh of relief, you loosened your tie and looked bitterly at the company ledger, but immediately recalled how your father used to say ""Money is just paper. Life is what brings happiness."""	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/33/texts/0/text"	"Примерно через час к вам в кабинет зашли несколько человек, предъявив удостоверения ГОПБСТ - галактического отряда по борьбе с терроризмом. Они объявили, что ваш лайнер был взорван террористами и что теперь вы должны выплатить семьям пострадавшим компенсацию в размере {[p1]/1,2} cr, иначе немедленно предстанете перед судом!"	"Quest SpaceLines.qmm: locations.33.texts.0.text. Preserve every <tag> exactly. English reference: In about an hour, several people flashing GCTU (Galactic Counterterrorism Unit) badges entered your office. They informed you that your liner had been detonated by the terrorists and that you would now need to compensate the victims' families in the amount of {[p1]/1.2}, otherwise you would be brought before the court!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/34/texts/0/text"	"Примерно через час к вам в кабинет зашли несколько человек, предъявив удостоверения ГОПБСТ - галактического отряда по борьбе с терроризмом. Они заковали вас в  наручники и увезли в камеру предварительного заключения. По законам этой планеты вы были представлены перед судом и приговорены к смертной казни за пособничество терроризму и преступную халатность!"	"Quest SpaceLines.qmm: locations.34.texts.0.text. Preserve every <tag> exactly. English reference: In about an hour, several people flashing GCTU (Galactic Counterterrorism Unit) badges entered your office. They slapped handcuffs on you and took you into custody to await trial. Pursuant to the laws of the planet, you were tried and sentenced to death for a cold attitude and for aiding and abetting terrorism!"	"Quest,SpaceLines"	""
+After breathing a sigh of relief, you loosened your tie and looked bitterly at the company ledger, but immediately recalled how your father used to say ""Money is just paper. Life is what brings happiness."""	"Quest,SpaceLines"	"- Мы хлопцы свайго слова, як толькі нашыя ўмовы будуць выкананыя, мы адпусьцім усіх!
+
+Праз пару гадзінаў вы атрымалі паведамленьне, што захоплены лайнэр працягнуў свой шлях, пацярпелых няма. Уздыхнуўшы з палёгкаю, вы аслабілі гальштук і зірнулі на банкаўскі рахунак кампаніі, што адразу ж вярнуў пахавальны выраз на ваш твар."
+"/quests/SpaceLines.qmm/locations/33/texts/0/text"	"Примерно через час к вам в кабинет зашли несколько человек, предъявив удостоверения ГОПБСТ - галактического отряда по борьбе с терроризмом. Они объявили, что ваш лайнер был взорван террористами и что теперь вы должны выплатить семьям пострадавшим компенсацию в размере {[p1]/1,2} cr, иначе немедленно предстанете перед судом!"	"Quest SpaceLines.qmm: locations.33.texts.0.text. Preserve every <tag> exactly. English reference: In about an hour, several people flashing GCTU (Galactic Counterterrorism Unit) badges entered your office. They informed you that your liner had been detonated by the terrorists and that you would now need to compensate the victims' families in the amount of {[p1]/1.2}, otherwise you would be brought before the court!"	"Quest,SpaceLines"	"Прыкладна праз гадзіну да вас у кабінет зайшлі некалькі чалавек, прад'явіўшы пасьведчаньні ГОПБСТ - галяктычнага атраду па барацьбе з тэрарызмам. Яны абвясьцілі, што ваш лайнэр быў узарваны тэрарыстамі і што цяпер вы мусіце выплаціць сем'ям пацярпелых кампэнсацыю ў памеры {[p1]/1,2} cr, інакш неадкладна паўстанеце перад судом!"
+"/quests/SpaceLines.qmm/locations/34/texts/0/text"	"Примерно через час к вам в кабинет зашли несколько человек, предъявив удостоверения ГОПБСТ - галактического отряда по борьбе с терроризмом. Они заковали вас в  наручники и увезли в камеру предварительного заключения. По законам этой планеты вы были представлены перед судом и приговорены к смертной казни за пособничество терроризму и преступную халатность!"	"Quest SpaceLines.qmm: locations.34.texts.0.text. Preserve every <tag> exactly. English reference: In about an hour, several people flashing GCTU (Galactic Counterterrorism Unit) badges entered your office. They slapped handcuffs on you and took you into custody to await trial. Pursuant to the laws of the planet, you were tried and sentenced to death for a cold attitude and for aiding and abetting terrorism!"	"Quest,SpaceLines"	"Прыкладна праз гадзіну да вас у кабінет зайшлі некалькі чалавек, прад'явіўшы пасьведчаньні ГОПБСТ - галяктычнага атраду па барацьбе з тэрарызмам. Яны закавалі вас у  кайданкі і павезьлі ў камэру папярэдняга ўзяцьця пад варту. Паводле законаў гэтай плянэты вас паставілі перад судом і прысудзілі да сьмяротнага пакараньня за пасобніцтва тэрарызму і злачынную халатнасьць!"
 "/quests/SpaceLines.qmm/locations/35/texts/0/text"	"Вскоре в кабинет вошла ваша секретарша.
 - Сегодня День Защитника Галактики! - сообщила она.
 - Поздравляю, и что?
 - Наши лайнеры остались без охранников. Они все сегодня участвуют в показательных выступлениях."	"Quest SpaceLines.qmm: locations.35.texts.0.text. Preserve every <tag> exactly. English reference: The office girl was in your office in twenty minutes.
 ""Today is Defender of the Galaxy Day!""
 ""Congratulations. So what?""
-""Our liners don't have any guards. The guards are all participating in exhibition performances today."""	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/36/texts/0/text"	"В кабинет вошла секретарша и сообщила, что час назад в космопорте были задержаны лица, пытающиеся вывезти с планеты редких животных, занесённых в красную книгу, - коротконогих длинноносиков. На данный момент в космопорту работает галактическая таможня, проверяет всех пассажиров на наличие контрабанды. Эта процедура весьма длительная, поэтому часть, а точнее - половину рейсов придется перенести на завтра."	"Quest SpaceLines.qmm: locations.36.texts.0.text. Preserve every <tag> exactly. English reference: The office girl came into your office and said that an hour ago some people were detained at the spaceport. They had been attempting to remove very rare animals that are included on the endangered species list. Now the galactic customs house is working to check all passengers for contraband. This procedure takes a long time, so some, or rather half, of the flights will have to be postponed until tomorrow."	"Quest,SpaceLines"	""
+""Our liners don't have any guards. The guards are all participating in exhibition performances today."""	"Quest,SpaceLines"	"Неўзабаве ў кабінет увайшла вашая сакратарка.
+- Сёньня Дзень Абаронцы Галяктыкі! - паведаміла яна.
+- Віншую, і што?
+- Нашы лайнэры засталіся бяз аховы. Яны ўсе сёньня ўдзельнічаюць у паказальных выступленьнях."
+"/quests/SpaceLines.qmm/locations/36/texts/0/text"	"В кабинет вошла секретарша и сообщила, что час назад в космопорте были задержаны лица, пытающиеся вывезти с планеты редких животных, занесённых в красную книгу, - коротконогих длинноносиков. На данный момент в космопорту работает галактическая таможня, проверяет всех пассажиров на наличие контрабанды. Эта процедура весьма длительная, поэтому часть, а точнее - половину рейсов придется перенести на завтра."	"Quest SpaceLines.qmm: locations.36.texts.0.text. Preserve every <tag> exactly. English reference: The office girl came into your office and said that an hour ago some people were detained at the spaceport. They had been attempting to remove very rare animals that are included on the endangered species list. Now the galactic customs house is working to check all passengers for contraband. This procedure takes a long time, so some, or rather half, of the flights will have to be postponed until tomorrow."	"Quest,SpaceLines"	"У кабінет увайшла сакратарка і паведаміла, што гадзіну таму ў касмапорце былі затрыманыя асобы, якія спрабуюць вывезьці з плянэты рэдкіх жывёл, занесеных у чырвоную кнігу, - каротканогіх доўганосікаў. На дадзены момант у касмапорце працуе галяктычная мытня, правярае ўсіх пасажыраў на наяўнасьць кантрабанды. Гэтая працэдура вельмі доўгая, таму частку, а дакладней - палову рэйсаў давядзецца перанесьці на заўтра."
 "/quests/SpaceLines.qmm/locations/37/texts/0/text"	"Не прошло и пяти минут, как в кабинет вошел главный бухгалтер.
 - Что-то случилось? - спросили вы.
 - Да, случилось. Пилоты лайнеров требуют увеличения заработной платы, аргументируя это тем, что компания имеет огромную популярность и прибыль. Что делать будем?
@@ -352,7 +450,11 @@ After breathing a sigh of relief, you loosened your tie and looked bitterly at t
 ""What happened?"" you asked.
 ""Well, it happened that the pilots are demanding an pay raise. They're arguing that the company is hugely popular and is raking in the profits. What are we going to do?""
 ""How much do the pilots want?""
-""A three-fold increase!!!"""	"Quest,SpaceLines"	""
+""A three-fold increase!!!"""	"Quest,SpaceLines"	"Не прайшло і пяці хвілінаў, як у кабінет увайшоў галоўны бухгальтар.
+- Нешта здарылася? - спыталі вы.
+- Так, здарылася. Пілоты лайнэраў патрабуюць павелічэньня заробку, аргумэнтуючы гэта тым, што кампанія мае велізарную папулярнасьць і прыбытак. Што рабіць будзем?
+- І колькі хочуць пілоты?
+- У 3 разы больш!"
 "/quests/SpaceLines.qmm/locations/39/texts/0/text"	"Огромный малок в камуфляжной форме протянул вам листок бумаги и встал по стойке смирно.
 
 Ваши ресурсы:
@@ -368,80 +470,88 @@ Liners - [p2]
 Guards - [p33]
 This represents a {100-(([p2]/[p33])*100)}%  security reserve.
 
-A guard's daily wages are <clr>1,500<clrEnd> cr. If necessary, you can hire or fire ship guards. Keep in mind that each guard employed increases our company's popularity every day."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/locations/40/texts/0/text"	"Подумав ещё раз, вы всё же взяли деньги. Быстро собрав вещи, вы убедились, что никто ни в чем вас не заподозрил и немедленно отправились в космопорт."	"Quest SpaceLines.qmm: locations.40.texts.0.text. Preserve every <tag> exactly. English reference: After thinking it over again, you took the money after all. You quickly gathered all of your gear and headed for the spaceport."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/0/text"	"Да мне всё прекрасно известно. Как только прибудем в офис, я сразу принимаюсь за работу!"	"Quest SpaceLines.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: ""Yeah, I understand perfectly. As soon as we get into the office, I'm going to get started working."""	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/1/text"	"Нанять лайнеры"	"Quest SpaceLines.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Hire liners"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/2/text"	"1"	"Quest SpaceLines.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/3/text"	"2"	"Quest SpaceLines.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/4/text"	"3"	"Quest SpaceLines.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/5/text"	"4"	"Quest SpaceLines.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/6/text"	"5"	"Quest SpaceLines.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/8/text"	"Ничего больше не делать, просто отдохнуть."	"Quest SpaceLines.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Don't do anything else - just relax."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/11/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/14/text"	"Тратить на рекламу 5 000 cr."	"Quest SpaceLines.qmm: jumps.14.text. Preserve every <tag> exactly. English reference: Spend 5,000 cr. on advertising"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/15/text"	"Тратить на рекламу 10 000 cr."	"Quest SpaceLines.qmm: jumps.15.text. Preserve every <tag> exactly. English reference: Spend 10,000 cr. on advertising"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/16/text"	"Тратить на рекламу 15 000 cr."	"Quest SpaceLines.qmm: jumps.16.text. Preserve every <tag> exactly. English reference: Spend 15,000 cr. on advertising"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/17/text"	"Тратить на рекламу 20 000 cr."	"Quest SpaceLines.qmm: jumps.17.text. Preserve every <tag> exactly. English reference: Spend 20,000 cr. on advertising"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/19/text"	"1"	"Quest SpaceLines.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/20/text"	"3"	"Quest SpaceLines.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/21/text"	"5"	"Quest SpaceLines.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/22/text"	"7"	"Quest SpaceLines.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/23/text"	"10"	"Quest SpaceLines.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/27/text"	"Поговорить со специалистами"	"Quest SpaceLines.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Talk with the staff members"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/28/text"	"С менеджером по рекламе"	"Quest SpaceLines.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Talk with the advertising manager"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/29/text"	"С отделом безопасности"	"Quest SpaceLines.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Talk with the security chief"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/30/text"	"С главным бухгалтером"	"Quest SpaceLines.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Talk with the chief accountant"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/31/text"	"Нанять охранников"	"Quest SpaceLines.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Hire guards"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/32/text"	"Уволить охранников"	"Quest SpaceLines.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Fire guards"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/33/text"	"1"	"Quest SpaceLines.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/34/text"	"3"	"Quest SpaceLines.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/35/text"	"5"	"Quest SpaceLines.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/36/text"	"7"	"Quest SpaceLines.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/37/text"	"10"	"Quest SpaceLines.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/38/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/41/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/42/text"	"С техническим отделом"	"Quest SpaceLines.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Talk with the chief engineer"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/43/text"	"Закупить новое ремонтное оборудование за 20 000 cr."	"Quest SpaceLines.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Buy new repair equipment for <clr>20,000 cr.<clrEnd>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/44/text"	"Улучшить комфортабельность за 25 000 cr."	"Quest SpaceLines.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Enhance comfort for <clr>25,000 cr.<clrEnd>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/45/text"	"Оборудовать лайнеры средствами защиты за 30 000 cr."	"Quest SpaceLines.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Equip liners with protective measures for <clr>30,000 cr.<clrEnd>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/46/text"	"Увеличить число посадочных мест за 30 000 cr."	"Quest SpaceLines.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Increase the number of seats for <clr>30,000 cr.<clrEnd>"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/48/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/51/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/52/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/53/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/56/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/64/text"	"6"	"Quest SpaceLines.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/65/text"	"7"	"Quest SpaceLines.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/66/text"	"8"	"Quest SpaceLines.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/67/text"	"9"	"Quest SpaceLines.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/68/text"	"10"	"Quest SpaceLines.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/69/text"	"Да! Хотелось бы, так сказать, конкретно разузнать ситуацию."	"Quest SpaceLines.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: Yes! I'd like to understand the situation, so to speak"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/70/text"	"Ну, теперь мне всё ясно. Да-а... задачка не из легких. Поехали в компанию, нельзя терять ни минуты!"	"Quest SpaceLines.qmm: jumps.70.text. Preserve every <tag> exactly. English reference: Okay, I get it clearly now. Yeah...this is a hairy little problem. Get down here to the office. Not a minute to lose!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/72/text"	"Хорошо, я поговорю, а вы тем временем сообщите в галактическую полицию."	"Quest SpaceLines.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Okay. I'll talk to them. Meanwhile, you report this to the galactic police."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/73/text"	"Не собираюсь я с ними говорить, пусть галактическая полиция этим занимается."	"Quest SpaceLines.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: I'm not going to talk to them. Let the galactic police handle this!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/74/text"	"Я согласен с вашими требованиями. Лайнеры и деньги скоро будут у вас. Я прошу, отпустите заложников!"	"Quest SpaceLines.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: I agree to your demands. In a few seconds a couple of liners will be on the closest uninhabited planet. You can transfer into them there.  The money will be transferred to your account as soon as you tell me where to send it, but as soon as I've done this, please release the captured liner."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/75/text"	"Жизнь продолжается!"	"Quest SpaceLines.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: Life goes on!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/76/text"	"У меня нет таких денег! И вообще, к вам уже летит галактическая полиция!"	"Quest SpaceLines.qmm: jumps.76.text. Preserve every <tag> exactly. English reference: I don't have that kind of money! And you should know that the galactic police are on their way!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/77/text"	"Мне всё равно!"	"Quest SpaceLines.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: What do I care!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/78/text"	"Естественно, я заплачу! Это единственное, что я могу сделать для семей пострадавших!"	"Quest SpaceLines.qmm: jumps.78.text. Preserve every <tag> exactly. English reference: Of course, I'll pay. It's the least I can do for the victims' families!"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/79/text"	"Хорошо, я поговорю с ними."	"Quest SpaceLines.qmm: jumps.79.text. Preserve every <tag> exactly. English reference: Okay. I'll talk with them."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/81/text"	"Отправлять лайнеры без охраны."	"Quest SpaceLines.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Send liners without guards"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/82/text"	"Отложить все рейсы на сегодня."	"Quest SpaceLines.qmm: jumps.82.text. Preserve every <tag> exactly. English reference: Postpone all flights for today"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/84/text"	"Ничего не поделаешь, придётся половину рейсов отложить."	"Quest SpaceLines.qmm: jumps.84.text. Preserve every <tag> exactly. English reference: Nothing can be done. Half of the flights will have to be postponed."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/86/text"	"Хорошо, увеличим в 2 раза."	"Quest SpaceLines.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Fine. Let's double it."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/87/text"	"Хорошо, увеличим в 3 раза."	"Quest SpaceLines.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Fine. Let's triple it."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/89/text"	"Не нанимать"	"Quest SpaceLines.qmm: jumps.89.text. Preserve every <tag> exactly. English reference: Don't hire"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/90/text"	"Не увольнять"	"Quest SpaceLines.qmm: jumps.90.text. Preserve every <tag> exactly. English reference: Don't fine"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/91/text"	"Не нанимать лайнеры"	"Quest SpaceLines.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Don't hire a liner"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/92/text"	"С отделом безопасности"	"Quest SpaceLines.qmm: jumps.92.text. Preserve every <tag> exactly. English reference: Talk with the security chief"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/93/text"	"Нанять охранников"	"Quest SpaceLines.qmm: jumps.93.text. Preserve every <tag> exactly. English reference: Hire guards"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/94/text"	"Уволить охранников"	"Quest SpaceLines.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Fire guards"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/95/text"	"Ничего не тратить на рекламу"	"Quest SpaceLines.qmm: jumps.95.text. Preserve every <tag> exactly. English reference: Don't spend 1 cr. on advertising"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/96/text"	"Нанять лайнеры"	"Quest SpaceLines.qmm: jumps.96.text. Preserve every <tag> exactly. English reference: Hire liners"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/98/text"	"Я согласен с вашим предложением. Если честно, меня уже достало это всё."	"Quest SpaceLines.qmm: jumps.98.text. Preserve every <tag> exactly. English reference: I agree with your proposal. Honestly, I'm sick of it all."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/99/text"	"Нет! Я человек слова и не брошу начатое дело. Это мой окончательный ответ!"	"Quest SpaceLines.qmm: jumps.99.text. Preserve every <tag> exactly. English reference: No! I keep my word, and I don't quit what I've started. That's my final answer."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/101/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.101.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/103/text"	"Я отдам вам {[p1]div3} cr."	"Quest SpaceLines.qmm: jumps.103.text. Preserve every <tag> exactly. English reference: I'll give you {[p1]div3} cr."	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/104/text"	"Я отдам вам один лайнер."	"Quest SpaceLines.qmm: jumps.104.text. Preserve every <tag> exactly. English reference: I'll give you one liner"	"Quest,SpaceLines"	""
-"/quests/SpaceLines.qmm/jumps/105/text"	"Я ничего вам не отдам! Убирайтесь прочь из моего кабинета, иначе я вызову охрану!"	"Quest SpaceLines.qmm: jumps.105.text. Preserve every <tag> exactly. English reference: I'm not giving you a thing. Get out of my office before I call security"	"Quest,SpaceLines"	""
+A guard's daily wages are <clr>1,500<clrEnd> cr. If necessary, you can hire or fire ship guards. Keep in mind that each guard employed increases our company's popularity every day."	"Quest,SpaceLines"	"Вялізны малок у камуфляжнай форме працягнуў вам лісток паперы і стаў па стойцы стрункі.
+
+Вашыя рэсурсы:
+Лайнэраў: [p2]
+Ахоўнікаў:[p33]
+
+Узровень бясьпекі: {100-(([p2]/[p33])*100)}%
+
+Штодзённая плата кожнаму ахоўніку складае <clr>1500<clrEnd> cr. Пры неабходнасьці іх можна наняць або звольніць. Варта ўлічваць, што кожны наняты ахоўнік штодня павялічвае папулярнасьць нашай кампаніі."
+"/quests/SpaceLines.qmm/locations/40/texts/0/text"	"Подумав ещё раз, вы всё же взяли деньги. Быстро собрав вещи, вы убедились, что никто ни в чем вас не заподозрил и немедленно отправились в космопорт."	"Quest SpaceLines.qmm: locations.40.texts.0.text. Preserve every <tag> exactly. English reference: After thinking it over again, you took the money after all. You quickly gathered all of your gear and headed for the spaceport."	"Quest,SpaceLines"	"Падумаўшы яшчэ раз, вы ўсё ж узялі грошы. Хутка сабраўшы рэчы, вы пераканаліся, што ніхто ні ў чым вас не западозрыў, і неадкладна адправіліся ў касмапорт."
+"/quests/SpaceLines.qmm/jumps/0/text"	"Да мне всё прекрасно известно. Как только прибудем в офис, я сразу принимаюсь за работу!"	"Quest SpaceLines.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: ""Yeah, I understand perfectly. As soon as we get into the office, I'm going to get started working."""	"Quest,SpaceLines"	"Так, мне ўсё цудоўна вядома. Як толькі прыбудзем у офіс, я адразу бяруся за працу!"
+"/quests/SpaceLines.qmm/jumps/1/text"	"Нанять лайнеры"	"Quest SpaceLines.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Hire liners"	"Quest,SpaceLines"	"Наняць лайнэры"
+"/quests/SpaceLines.qmm/jumps/2/text"	"1"	"Quest SpaceLines.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"1"
+"/quests/SpaceLines.qmm/jumps/3/text"	"2"	"Quest SpaceLines.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"2"
+"/quests/SpaceLines.qmm/jumps/4/text"	"3"	"Quest SpaceLines.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"3"
+"/quests/SpaceLines.qmm/jumps/5/text"	"4"	"Quest SpaceLines.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"4"
+"/quests/SpaceLines.qmm/jumps/6/text"	"5"	"Quest SpaceLines.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"5"
+"/quests/SpaceLines.qmm/jumps/8/text"	"Ничего больше не делать, просто отдохнуть."	"Quest SpaceLines.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Don't do anything else - just relax."	"Quest,SpaceLines"	"Нічога больш не рабіць, проста адпачыць."
+"/quests/SpaceLines.qmm/jumps/11/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	"Вярнуцца ў кабінет"
+"/quests/SpaceLines.qmm/jumps/14/text"	"Тратить на рекламу 5 000 cr."	"Quest SpaceLines.qmm: jumps.14.text. Preserve every <tag> exactly. English reference: Spend 5,000 cr. on advertising"	"Quest,SpaceLines"	"Траціць на рэкляму 5 000 cr."
+"/quests/SpaceLines.qmm/jumps/15/text"	"Тратить на рекламу 10 000 cr."	"Quest SpaceLines.qmm: jumps.15.text. Preserve every <tag> exactly. English reference: Spend 10,000 cr. on advertising"	"Quest,SpaceLines"	"Траціць на рэкляму 10 000 cr."
+"/quests/SpaceLines.qmm/jumps/16/text"	"Тратить на рекламу 15 000 cr."	"Quest SpaceLines.qmm: jumps.16.text. Preserve every <tag> exactly. English reference: Spend 15,000 cr. on advertising"	"Quest,SpaceLines"	"Траціць на рэкляму 15 000 cr."
+"/quests/SpaceLines.qmm/jumps/17/text"	"Тратить на рекламу 20 000 cr."	"Quest SpaceLines.qmm: jumps.17.text. Preserve every <tag> exactly. English reference: Spend 20,000 cr. on advertising"	"Quest,SpaceLines"	"Траціць на рэкляму 20 000 cr."
+"/quests/SpaceLines.qmm/jumps/19/text"	"1"	"Quest SpaceLines.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"1"
+"/quests/SpaceLines.qmm/jumps/20/text"	"3"	"Quest SpaceLines.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"3"
+"/quests/SpaceLines.qmm/jumps/21/text"	"5"	"Quest SpaceLines.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"5"
+"/quests/SpaceLines.qmm/jumps/22/text"	"7"	"Quest SpaceLines.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"7"
+"/quests/SpaceLines.qmm/jumps/23/text"	"10"	"Quest SpaceLines.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"10"
+"/quests/SpaceLines.qmm/jumps/27/text"	"Поговорить со специалистами"	"Quest SpaceLines.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Talk with the staff members"	"Quest,SpaceLines"	"Пагаварыць са спэцыялістамі"
+"/quests/SpaceLines.qmm/jumps/28/text"	"С менеджером по рекламе"	"Quest SpaceLines.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Talk with the advertising manager"	"Quest,SpaceLines"	"З мэнэджэрам па рэкляме"
+"/quests/SpaceLines.qmm/jumps/29/text"	"С отделом безопасности"	"Quest SpaceLines.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Talk with the security chief"	"Quest,SpaceLines"	"З аддзелам бясьпекі"
+"/quests/SpaceLines.qmm/jumps/30/text"	"С главным бухгалтером"	"Quest SpaceLines.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Talk with the chief accountant"	"Quest,SpaceLines"	"З галоўным бухгальтарам"
+"/quests/SpaceLines.qmm/jumps/31/text"	"Нанять охранников"	"Quest SpaceLines.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Hire guards"	"Quest,SpaceLines"	"Наняць ахоўнікаў"
+"/quests/SpaceLines.qmm/jumps/32/text"	"Уволить охранников"	"Quest SpaceLines.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Fire guards"	"Quest,SpaceLines"	"Звольніць ахоўнікаў"
+"/quests/SpaceLines.qmm/jumps/33/text"	"1"	"Quest SpaceLines.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"1"
+"/quests/SpaceLines.qmm/jumps/34/text"	"3"	"Quest SpaceLines.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"3"
+"/quests/SpaceLines.qmm/jumps/35/text"	"5"	"Quest SpaceLines.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"5"
+"/quests/SpaceLines.qmm/jumps/36/text"	"7"	"Quest SpaceLines.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"7"
+"/quests/SpaceLines.qmm/jumps/37/text"	"10"	"Quest SpaceLines.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"10"
+"/quests/SpaceLines.qmm/jumps/38/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	"Пагутарыць яшчэ з кім-небудзь"
+"/quests/SpaceLines.qmm/jumps/41/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	"Вярнуцца ў кабінет"
+"/quests/SpaceLines.qmm/jumps/42/text"	"С техническим отделом"	"Quest SpaceLines.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Talk with the chief engineer"	"Quest,SpaceLines"	"З тэхнічным аддзелам"
+"/quests/SpaceLines.qmm/jumps/43/text"	"Закупить новое ремонтное оборудование за 20 000 cr."	"Quest SpaceLines.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Buy new repair equipment for <clr>20,000 cr.<clrEnd>"	"Quest,SpaceLines"	"Закупіць новае рамонтнае абсталяваньне за 20 000 cr."
+"/quests/SpaceLines.qmm/jumps/44/text"	"Улучшить комфортабельность за 25 000 cr."	"Quest SpaceLines.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Enhance comfort for <clr>25,000 cr.<clrEnd>"	"Quest,SpaceLines"	"Палепшыць камфортабэльнасьць за 25 000 cr."
+"/quests/SpaceLines.qmm/jumps/45/text"	"Оборудовать лайнеры средствами защиты за 30 000 cr."	"Quest SpaceLines.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Equip liners with protective measures for <clr>30,000 cr.<clrEnd>"	"Quest,SpaceLines"	"Абсталяваць лайнэры сродкамі абароны за 30 000 cr."
+"/quests/SpaceLines.qmm/jumps/46/text"	"Увеличить число посадочных мест за 30 000 cr."	"Quest SpaceLines.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Increase the number of seats for <clr>30,000 cr.<clrEnd>"	"Quest,SpaceLines"	"Павялічыць лік пасадачных месцаў за 30 000 cr."
+"/quests/SpaceLines.qmm/jumps/48/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	"Пагутарыць яшчэ з кім-небудзь"
+"/quests/SpaceLines.qmm/jumps/51/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	"Вярнуцца ў кабінет"
+"/quests/SpaceLines.qmm/jumps/52/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	"Пагутарыць яшчэ з кім-небудзь"
+"/quests/SpaceLines.qmm/jumps/53/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	"Вярнуцца ў кабінет"
+"/quests/SpaceLines.qmm/jumps/56/text"	"Пообщаться ещё с кем-нибудь"	"Quest SpaceLines.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Talk with somebody else"	"Quest,SpaceLines"	"Пагутарыць яшчэ з кім-небудзь"
+"/quests/SpaceLines.qmm/jumps/64/text"	"6"	"Quest SpaceLines.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"6"
+"/quests/SpaceLines.qmm/jumps/65/text"	"7"	"Quest SpaceLines.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"7"
+"/quests/SpaceLines.qmm/jumps/66/text"	"8"	"Quest SpaceLines.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"8"
+"/quests/SpaceLines.qmm/jumps/67/text"	"9"	"Quest SpaceLines.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"9"
+"/quests/SpaceLines.qmm/jumps/68/text"	"10"	"Quest SpaceLines.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,SpaceLines"	"10"
+"/quests/SpaceLines.qmm/jumps/69/text"	"Да! Хотелось бы, так сказать, конкретно разузнать ситуацию."	"Quest SpaceLines.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: Yes! I'd like to understand the situation, so to speak"	"Quest,SpaceLines"	"Так! Хацелася б, так бы мовіць, канкрэтна выведаць сытуацыю."
+"/quests/SpaceLines.qmm/jumps/70/text"	"Ну, теперь мне всё ясно. Да-а... задачка не из легких. Поехали в компанию, нельзя терять ни минуты!"	"Quest SpaceLines.qmm: jumps.70.text. Preserve every <tag> exactly. English reference: Okay, I get it clearly now. Yeah...this is a hairy little problem. Get down here to the office. Not a minute to lose!"	"Quest,SpaceLines"	"Ну, цяпер мне ўсё ясна. Тааак... задачка ня з лёгкіх. Паехалі ў кампанію, нельга губляць ні хвіліны!"
+"/quests/SpaceLines.qmm/jumps/72/text"	"Хорошо, я поговорю, а вы тем временем сообщите в галактическую полицию."	"Quest SpaceLines.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Okay. I'll talk to them. Meanwhile, you report this to the galactic police."	"Quest,SpaceLines"	"Добра, я пагавару, а вы тым часам паведаміце ў галяктычную паліцыю."
+"/quests/SpaceLines.qmm/jumps/73/text"	"Не собираюсь я с ними говорить, пусть галактическая полиция этим занимается."	"Quest SpaceLines.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: I'm not going to talk to them. Let the galactic police handle this!"	"Quest,SpaceLines"	"Ня зьбіраюся я з імі гаварыць, хай галяктычная паліцыя гэтым займаецца."
+"/quests/SpaceLines.qmm/jumps/74/text"	"Я согласен с вашими требованиями. Лайнеры и деньги скоро будут у вас. Я прошу, отпустите заложников!"	"Quest SpaceLines.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: I agree to your demands. In a few seconds a couple of liners will be on the closest uninhabited planet. You can transfer into them there.  The money will be transferred to your account as soon as you tell me where to send it, but as soon as I've done this, please release the captured liner."	"Quest,SpaceLines"	"Я згодны з вашымі патрабаваньнямі. Лайнэры і грошы хутка будуць у вас. Я прашу, адпусьціце закладнікаў!"
+"/quests/SpaceLines.qmm/jumps/75/text"	"Жизнь продолжается!"	"Quest SpaceLines.qmm: jumps.75.text. Preserve every <tag> exactly. English reference: Life goes on!"	"Quest,SpaceLines"	"Жыцьцё працягваецца!"
+"/quests/SpaceLines.qmm/jumps/76/text"	"У меня нет таких денег! И вообще, к вам уже летит галактическая полиция!"	"Quest SpaceLines.qmm: jumps.76.text. Preserve every <tag> exactly. English reference: I don't have that kind of money! And you should know that the galactic police are on their way!"	"Quest,SpaceLines"	"У мяне няма такіх грошай! І наогул, да вас ужо ляціць галяктычная паліцыя!"
+"/quests/SpaceLines.qmm/jumps/77/text"	"Мне всё равно!"	"Quest SpaceLines.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: What do I care!"	"Quest,SpaceLines"	"Мне ўсё роўна!"
+"/quests/SpaceLines.qmm/jumps/78/text"	"Естественно, я заплачу! Это единственное, что я могу сделать для семей пострадавших!"	"Quest SpaceLines.qmm: jumps.78.text. Preserve every <tag> exactly. English reference: Of course, I'll pay. It's the least I can do for the victims' families!"	"Quest,SpaceLines"	"Вядома, я заплачу! Гэта адзінае, што я магу зрабіць для сем'яў пацярпелых!"
+"/quests/SpaceLines.qmm/jumps/79/text"	"Хорошо, я поговорю с ними."	"Quest SpaceLines.qmm: jumps.79.text. Preserve every <tag> exactly. English reference: Okay. I'll talk with them."	"Quest,SpaceLines"	"Добра, я пагавару з імі."
+"/quests/SpaceLines.qmm/jumps/81/text"	"Отправлять лайнеры без охраны."	"Quest SpaceLines.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Send liners without guards"	"Quest,SpaceLines"	"Адпраўляць лайнэры бяз аховы."
+"/quests/SpaceLines.qmm/jumps/82/text"	"Отложить все рейсы на сегодня."	"Quest SpaceLines.qmm: jumps.82.text. Preserve every <tag> exactly. English reference: Postpone all flights for today"	"Quest,SpaceLines"	"Адкласьці ўсе рэйсы на сёньня."
+"/quests/SpaceLines.qmm/jumps/84/text"	"Ничего не поделаешь, придётся половину рейсов отложить."	"Quest SpaceLines.qmm: jumps.84.text. Preserve every <tag> exactly. English reference: Nothing can be done. Half of the flights will have to be postponed."	"Quest,SpaceLines"	"Нічога не паробіш, давядзецца палову рэйсаў адкласьці."
+"/quests/SpaceLines.qmm/jumps/86/text"	"Хорошо, увеличим в 2 раза."	"Quest SpaceLines.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Fine. Let's double it."	"Quest,SpaceLines"	"Добра, павялічым у 2 разы."
+"/quests/SpaceLines.qmm/jumps/87/text"	"Хорошо, увеличим в 3 раза."	"Quest SpaceLines.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Fine. Let's triple it."	"Quest,SpaceLines"	"Добра, павялічым у 3 разы."
+"/quests/SpaceLines.qmm/jumps/89/text"	"Не нанимать"	"Quest SpaceLines.qmm: jumps.89.text. Preserve every <tag> exactly. English reference: Don't hire"	"Quest,SpaceLines"	"Не наймаць"
+"/quests/SpaceLines.qmm/jumps/90/text"	"Не увольнять"	"Quest SpaceLines.qmm: jumps.90.text. Preserve every <tag> exactly. English reference: Don't fine"	"Quest,SpaceLines"	"Не звальняць"
+"/quests/SpaceLines.qmm/jumps/91/text"	"Не нанимать лайнеры"	"Quest SpaceLines.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Don't hire a liner"	"Quest,SpaceLines"	"Не наймаць лайнэры"
+"/quests/SpaceLines.qmm/jumps/92/text"	"С отделом безопасности"	"Quest SpaceLines.qmm: jumps.92.text. Preserve every <tag> exactly. English reference: Talk with the security chief"	"Quest,SpaceLines"	"З аддзелам бясьпекі"
+"/quests/SpaceLines.qmm/jumps/93/text"	"Нанять охранников"	"Quest SpaceLines.qmm: jumps.93.text. Preserve every <tag> exactly. English reference: Hire guards"	"Quest,SpaceLines"	"Наняць ахоўнікаў"
+"/quests/SpaceLines.qmm/jumps/94/text"	"Уволить охранников"	"Quest SpaceLines.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Fire guards"	"Quest,SpaceLines"	"Звольніць ахоўнікаў"
+"/quests/SpaceLines.qmm/jumps/95/text"	"Ничего не тратить на рекламу"	"Quest SpaceLines.qmm: jumps.95.text. Preserve every <tag> exactly. English reference: Don't spend 1 cr. on advertising"	"Quest,SpaceLines"	"Нічога не траціць на рэкляму"
+"/quests/SpaceLines.qmm/jumps/96/text"	"Нанять лайнеры"	"Quest SpaceLines.qmm: jumps.96.text. Preserve every <tag> exactly. English reference: Hire liners"	"Quest,SpaceLines"	"Наняць лайнэры"
+"/quests/SpaceLines.qmm/jumps/98/text"	"Я согласен с вашим предложением. Если честно, меня уже достало это всё."	"Quest SpaceLines.qmm: jumps.98.text. Preserve every <tag> exactly. English reference: I agree with your proposal. Honestly, I'm sick of it all."	"Quest,SpaceLines"	"Я згодны з вашай прапановай. Калі шчыра, мяне ўжо дастала ўсё гэта."
+"/quests/SpaceLines.qmm/jumps/99/text"	"Нет! Я человек слова и не брошу начатое дело. Это мой окончательный ответ!"	"Quest SpaceLines.qmm: jumps.99.text. Preserve every <tag> exactly. English reference: No! I keep my word, and I don't quit what I've started. That's my final answer."	"Quest,SpaceLines"	"Не! Я чалавек слова і ня кіну пачатую справу. Гэта мой канчатковы адказ!"
+"/quests/SpaceLines.qmm/jumps/101/text"	"Вернуться в кабинет"	"Quest SpaceLines.qmm: jumps.101.text. Preserve every <tag> exactly. English reference: Return to the office"	"Quest,SpaceLines"	"Вярнуцца ў кабінет"
+"/quests/SpaceLines.qmm/jumps/103/text"	"Я отдам вам {[p1]div3} cr."	"Quest SpaceLines.qmm: jumps.103.text. Preserve every <tag> exactly. English reference: I'll give you {[p1]div3} cr."	"Quest,SpaceLines"	"Я аддам вам {[p1]div3} cr."
+"/quests/SpaceLines.qmm/jumps/104/text"	"Я отдам вам один лайнер."	"Quest SpaceLines.qmm: jumps.104.text. Preserve every <tag> exactly. English reference: I'll give you one liner"	"Quest,SpaceLines"	"Я аддам вам адзін лайнэр."
+"/quests/SpaceLines.qmm/jumps/105/text"	"Я ничего вам не отдам! Убирайтесь прочь из моего кабинета, иначе я вызову охрану!"	"Quest SpaceLines.qmm: jumps.105.text. Preserve every <tag> exactly. English reference: I'm not giving you a thing. Get out of my office before I call security"	"Quest,SpaceLines"	"Я нічога вам ня аддам! Прыбірайцеся прэч з майго кабінету, інакш я выклічу ахову!"
