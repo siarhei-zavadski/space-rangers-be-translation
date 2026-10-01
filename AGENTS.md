@@ -179,3 +179,18 @@ Runtime `Lang.dat` is UTF-16. Vanilla AFT has `'`, `i`, `у`, but not `і`/`ў`/
 5. Run tarask Hunspell on new translations.
 6. Enable the mod and verify the relevant screen in-game.
 7. Record accepted translations in `TERMBASE.tsv` (sense + endings + rejected + source).
+
+## Cursor Cloud specific instructions
+
+Cloud Agents do not have the Steam game install. `build_test_mod.py` and `crowdin_sync.py check` need `~/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart` and cannot run here. Do not commit game binaries.
+
+Without the game, prove the toolchain with:
+
+```bash
+python3 -m py_compile ./*.py
+python3 validate_corpus.py
+printf 'мова\n' | hunspell -d be_BY@tarask -a
+.venv/bin/python spell_check.py
+```
+
+`validate_corpus.py` is the CI check and uses only the stdlib. Spell-check and DAT/GI work need `.venv` (`requirements-local.txt` pulls Pillow in with ranger-tools) and `hunspell -d be_BY@tarask` from the `hunspell-be-tarask-alt` 0.65 package. A signed `HDMain` DAT round trip through `rangers.dat.DAT` does not need the game files.
