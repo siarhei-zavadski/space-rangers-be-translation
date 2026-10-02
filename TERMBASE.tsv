@@ -653,7 +653,7 @@ lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
 lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга/квангі		invented fruit; A квангу	Jumper.qmm
-lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў		invented folk; G мэнзола	Jumper.qmm
+lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў/мэнзола		invented folk; G мэнзола	Jumper.qmm
 lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
 lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
 lemma.jumpawaian	прыгавайцы	jumpawaiians	скакавайцы		invented jump-insect	Jumper.qmm
@@ -1195,7 +1195,7 @@ lemma.rehearsal	репетиция	rehearsal	рэпэтыцыя/рэпэтыцы
 lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэя	hunspell я; Starnik lists а	https://starnik.by/pravapis/38734
 lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
 lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
-lemma.hyper_prefix	гипер	hyper	гіпэр	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
+lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
 lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
 lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
@@ -1205,4 +1205,6 @@ lemma.feebling	Дохляга	Feebling	Кволы	дохляк	frail ranger name
 lemma.hippie_author	Хипарь	Hippie	Хіпар		book author O. Hippie	Muzon.qmm
 lemma.grim	Мутный	Grim	Мутны		romance author E. Grim	Muzon.qmm
 lemma.maniac	Маньяк	de Maniac	Маньяк		marquise de Maniac	Muzon.qmm
-lemma.firework	фейерверк	firework	феерверк/Феерверк	фаерверк	Starnik lemma; hunspell suggestion is a different noun	https://starnik.by/pravapis/79826
+lemma.firework	фейерверк	firework	феерверк/Феерверк/феерверка/феерверкі	фаерверк	Starnik lemma; hunspell suggestion is a different noun	https://starnik.by/pravapis/79826
+lemma.maarli	Маарли	Maarli	Маарлі		billiard contact who sends the keyboardist	Muzon.qmm
+lemma.nefers	Неферс	Nefers	Нэфэрс		parody band Пяцьсот Чылі Нэфэрс	Muzon.qmm
