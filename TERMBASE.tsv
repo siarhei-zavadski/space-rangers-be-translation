@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар		Crowdin glossary; pl дамінатары, дамінатараў	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -638,7 +638,7 @@ lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; �
 lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
 lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
-lemma.gaal_adj	гаальский	Gaalian	гаальскі		race adj from гаальцы; fem гаальская	LOCK
+lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
 lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
 lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
@@ -692,7 +692,7 @@ lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from коран
 lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
-lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі		slot reel; N pl after 3	Park.qmm
+lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
 lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/Квакажабры/квакажабры		slot reel; akanie	Park.qmm
 lemma.khokhlach	Хохлач	Khokhlach	Хахлач/Хахлачы/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
 lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
@@ -792,8 +792,8 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін		Coalition race; capital at sentence start	Photorobot.qmm
-lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган		faeyan in the photofit quest	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам		Coalition race; capital at sentence start	Photorobot.qmm
+lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна		photofit label; и to і	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
 lemma.narrow_eyed	узкоглазый	narrow-eyed	вузкавокі/Вузкавокі	завузкі	Starnik adjective; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/103039
@@ -805,3 +805,26 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай		race; adjective keeps the малок stem	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі		Coalition race	Photorobot.qmm
+lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
+lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
+lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
+lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана		gaal flower dessert	Photorobot.qmm
+lemma.svarokok	сварокок	svarokok	сваракока		chocolate paws	Photorobot.qmm
+lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/оннарайкі		blue pineapple; one farm	Photorobot.qmm
+lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
+lemma.extruder	экструдер	extruder	экструдар/Экструдар/экструдары/экструдараў/экстрударах		faeyan dessert on a stick	Photorobot.qmm
+lemma.makhpella	Махпелла	Makhpella	Махпэла/Лайт		beer brand	Photorobot.qmm
+lemma.slime	слизь	slime	слізь		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
+lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Photorobot.qmm
+lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
+lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorobot.qmm
+lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
+lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
+lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
+lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы		plural; hunspell misses Starnik	https://starnik.by/pravapis/13693
+lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
+lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
+lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
+lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
