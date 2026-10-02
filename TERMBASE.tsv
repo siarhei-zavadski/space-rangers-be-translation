@@ -1030,7 +1030,7 @@ lemma.quaka	Квака минерале	Mineral Quaka	Квака		mineral-water 
 lemma.aipentak	Эйпентак	Aipentak	Эйпэнтак		faeyan planet; hunspell maps the name elsewhere	Badday.qmm
 lemma.aliada	Алиада Ансата	Aliada Ansata	Аліяда/Ансата		unreadable book title; hunspell maps it to the Iliad	Badday.qmm
 lemma.kryshyva	крошево	hash	крышыва	крошава	finely crushed bits; hunspell suggestions are nonsense	https://starnik.by/pravapis/37377
-lemma.pilotka	пилотка	side cap	пілотка/Пілотка	фуражка	summer military side cap; hunspell suggestions are nonsense	https://starnik.by/pravapis/56624
+lemma.pilotka	пилотка	side cap	пілотка/Пілотка/пілотку	фуражка	summer military side cap; hunspell suggestions are nonsense	https://starnik.by/pravapis/56624
 lemma.glyddl	Глыдл	Glyddl	Глыдл/Глыдла		casino owner; hunspell suggestions are nonsense	Ministry.qmm
 lemma.rectal_island	Прямокишечный остров	Rectal Island	Прамой/кішкі	прамакішачны	vulgar island name; rectum is прамая кішка	https://starnik.by/pravapis/35771
 lemma.chvakha	Чваха	Chvakha	Чваха	Наваха	planet name; hunspell suggestion is a different word	Ministry.qmm
@@ -1041,3 +1041,7 @@ lemma.ga_notsri	Га-Ноцри	Ga-Notsri	Ноцры	Норцы	schoolmate's nam
 lemma.dunya	Дуня	Dunia	Дуня	Дуля	secretary's first name; hunspell suggestions are other words	Ministry.qmm
 lemma.marmyshkin	Мормышкин	Marmyshkine	Мармышкін	Мармышка	fishing-lure surname on the basement rod	https://starnik.by/pravapis/41875
 lemma.bobchinsky	Бобчинский / Добчинский	Bobchinsky / Dobchinsky	Бабчынскі/Дабчынскі	Абісынскі	Gogol pair; the housemaster offers both names	Ministry.qmm
+lemma.rurikid	Рюриковичи	Rurikids	Рурыкавічы	Рукавічны	dynasty answer; Starnik has Рурык; hunspell suggestion is another word	https://starnik.by/pravapis/90631
+lemma.frnkin	Фрнкин-Бок	Frnkin-Bok	Фрнкин	Франк	grandmother's joke name; Бок passes hunspell	Ministry.qmm
+lemma.urupinsk	Урюпинск	Uryupinsk	Урупінск/Урупінска	Русінска	the sticks; hunspell suggestion is another place	Ministry.qmm
+lemma.stereophone	стереофон	stereophone	стэрэафон/стэрэафона	стэрэафанія	secretary's phone; hunspell suggestion is stereophony	Ministry.qmm
