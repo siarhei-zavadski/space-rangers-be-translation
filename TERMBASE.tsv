@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -653,7 +653,7 @@ lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
 lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга		invented fruit; A квангу	Jumper.qmm
-lemma.menzol	мензол	Menzol	мэнзол		invented folk; G мэнзола	Jumper.qmm
+lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай		invented folk; G мэнзола	Jumper.qmm
 lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
 lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
 lemma.jumpawaian	прыгавайцы	jumpawaiians	скакавайцы		invented jump-insect	Jumper.qmm
@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -949,9 +949,13 @@ lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingre
 lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю	хмель	joke hops; keep the extra syllable	Banket.qmm
 lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm
 lemma.absorbal	абсорбуль	absorbal	абсорбуль/абсорбуля		coined banquet cube	Banket.qmm
-lemma.hanna	Ханна	Hanna	Ханна/Ханне		malok princess	Banket.qmm
+lemma.hanna	Ханна	Hanna	Ханна/Ханне/Ханнай/Ханны		malok princess	Banket.qmm
 lemma.super_rifle	супервинтовка	super rifle	супервінтоўку/супервінтоўка		gift matching the він code; вінтоўка is the rifle	https://starnik.by/pravapis/14724
 lemma.shells	ракушки	shells	ракавінкі/ракавінак	ракушкі	gift matching the рак code; diminutive of ракавіна	https://starnik.by/pravapis/63628
 lemma.satchel	ранец	satchel	ранец/ранца		gift matching the ран code; pack worn on the back	https://starnik.by/pravapis/63768
 lemma.gypsy	цыганка	gypsy	Цыганка/цыганка		fortune-teller; woman, not the apple cultivar	https://starnik.by/pravapis/83056
 lemma.baboom	забабахаю	I'll boom it	забабахаю		pun on ба'Бах in the kinza button	Banket.qmm
+lemma.teodam	Теодам	Teodam	Теодам		Hanna's crunch-name; proper-name lock	Banket.qmm
+lemma.vandall	Ван-Далл	Van-Dall	Ван-Далл/Ван-Дала		malok emperor; proper-name lock	Banket.qmm
+lemma.puakhava	пуахава	puakhawa	пуахава		Menzol cloak name	Banket.qmm
+lemma.meal	трапеза	meal	трапэза	трапеза	a sitting meal; hunspell spelling	https://starnik.by/pravapis/75618
