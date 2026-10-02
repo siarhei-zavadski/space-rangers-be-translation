@@ -313,7 +313,7 @@ lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G аш�
 lemma.partner	напарник	partner	напарнік		hired wingman; NOT спадарожнік (hangar Satellite only)	—
 lemma.bubblist	пузырист	bubblist	пузырыст		hyperspace prank-cult; already ShipGreetings/421 пузырызм	—
 lemma.chekumash	чекумаш	chekumash	чэкумаш		invented pirate disease; Talk PirateClan	—
-lemma.petushkan	петушкан	petushkan	петушкан		invented folk in pirate truce joke; Dpl петушканам	—
+lemma.petushkan	петушкан	petushkan	петушкан/петушкана		invented beast; genitive on the tenderloin; Dpl петушканам	—
 lemma.rahish	рахишский	Rahish	рахіскі		invented citizen-poet homeland; Talk PirateClan	—
 lemma.linuxian	линуксианский	Linuxian	лінуксіянскі		pirate wine joke; G лінуксіянскага	—
 lemma.submodem	Сабмодем	Submodem	Сабмодэм		Terron plot program in <clr>; Script MS_Terron shape (not Programms/SabCrack Сабмадэм)	—
@@ -630,7 +630,7 @@ lemma.porthole	иллюминатор	viewport	ілюмінатар		hull window
 lemma.ballast	балласт	ballast	баляст		dive weight; G балясту L балясьце	hunspell-be-tarask
 lemma.mermaid_base	Русалочка	Mermaid	Русалачка		quoted floating base; G Русалачкі L Русалачцы	hunspell-be-tarask
 lemma.blintel	Блинтел	Pantel	Блінтэл		submersible maker parody; G Блінтэла	Depth.qmm
-lemma.monstrodile	монстродил	monstrodile	манстрадзіл		deep-sea beast; G манстрадзіла	Depth.qmm; Pizza.qmm same creature
+lemma.monstrodile	монстродил	monstrodile	манстрадзіл/манстрадзіла		deep-sea beast; genitive in the liver oil	Depth.qmm; Pizza.qmm same creature
 lemma.kalterbruener	Кальтербрунер	Kalterbruener	Кальтэрбрунэр		invented physicist; псэўдавакуўмны эфэкт Кальтэрбрунэра	Depth.qmm
 lemma.jab_il_musto	Жаб Ил Мусто	Jab Hick Gusto	Жаб Іл Мусто		famous diver joke; planet Гаргынг	Depth.qmm
 lemma.gargyng	Гаргынг	Gargyng	Гаргынг		planet of Жаб Іл Мусто	Depth.qmm
@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну		Coalition race; diminutive фэяшкі	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай		race; adjective keeps the малок stem	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаалец		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -823,7 +823,7 @@ lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorob
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
-lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы		plural; hunspell misses Starnik	https://starnik.by/pravapis/13693
+lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянская/Вегетарыянская		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
@@ -856,3 +856,10 @@ lemma.viro	Виро Нульф	Viro Nulf	Віро/Нульф		human contestant	P
 lemma.gluck	Глюк О'Наат	Gluck O'Naat	Глюк/О'Наат		gaal contestant; apostrophe stays	Pizza.qmm
 lemma.vkus	Вкусь Выкусь	Vkus Vykus	Вкусь/Выкусь		peleng contestant; tasty-name joke kept by sound	Pizza.qmm
 lemma.pisa	Пиза	Pisa	Піза/Пізе		leaning tower; the pizza collapses	Pizza.qmm
+lemma.ham	окорок	ham	кумпяк	акорак	hip of a carcass; sliced Tambov ham	https://starnik.by/pravapis/37857
+lemma.tambov	тамбовский	Tambov	Тамбоўскі/тамбоўскі		city ham; proper adjective	Pizza.qmm
+lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
+lemma.arnarique	Арнарик Гаудад	Arnarique Goudad	Арнарык/Гаўдад		planet of the jerbooster	Pizza.qmm
+lemma.portobello	портобелло	portobello	Партабэла		mushroom; proper name	Pizza.qmm
+lemma.pizza_hack	Пицца-хак	Pizza-Hack	Піца/хак		restaurant chain sponsoring the contest	Pizza.qmm
+lemma.sauce	соус	sauce	соўс	соус	culinary sauce; Starnik school spelling, hunspell wins	https://starnik.by/pravapis/70839
