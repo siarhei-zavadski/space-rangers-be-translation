@@ -681,7 +681,7 @@ lemma.gladiator	гладиатор	gladiator	глядыятар	гладыята
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
 lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам/камунікатараў		loan already used in Provoda	—
-lemma.reboot	перезагрузка	reboot	перазагрузка/Перазагрузка/перазагрузку/перазагрузкі		same word as Дамінатары: Перазагрузка; button title Перазагрузка	—
+lemma.reboot	перезагрузка	reboot	перазагрузка/Перазагрузка/перазагрузку/перазагрузкі/ПЕРАЗАГРУЗКА		same word as Дамінатары: Перазагрузка; button title Перазагрузка; cave screen is all caps	—
 lemma.repair	починка	repair	рамонт	пачынка	G рамонту; пачынка means a beginning	https://starnik.by/pravapis/63736
 lemma.fix	починить	to repair	направіць		machine sense, as направіць станок	https://starnik.by/pravapis/190300
 lemma.bloodlet	кровопускательный	bloodletting	кровапускальны/кровапускальнай	крывепускальны	adj of кровапусканьне; hunspell -ньне	https://starnik.by/pravapis/36916
@@ -774,4 +774,7 @@ lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра		do
 lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/Скарыкі/Морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word	Park.qmm
 lemma.biochip	биочип	biochip	біячып/біячыпы		dragon nerves joke; hunspell lacks the compound	Park.qmm
 lemma.perperdon	Перпердон-пардон	Perperdon-pardon	Перпердон/пардон		galaxy couturier joke	Park.qmm
-lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў		joke people in the trainer speech	Park.qmm
+lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў/ё		joke people; ё is a syllable of their battle cry	Park.qmm
+lemma.cell	ячейка	cell	ячка/ячку/ячкі/ячкамі/ячцы	ячэйка	password slot; hunspell suggestions are nonsense	https://starnik.by/pravapis/88466
+lemma.biotic	биотический	biotic	біятычны/біятычныя/біятычнымі/біятычных		park computers and generators; hunspell suggestions are the wrong compounds	Park.qmm
+lemma.rainbow	РЭЙНБОУ	rainbow hint	РЭЙНБОУ/И		cave password; Latin RAINBOW stays; И is the mirrored glyph for N, not Belarusian І	Park.qmm
