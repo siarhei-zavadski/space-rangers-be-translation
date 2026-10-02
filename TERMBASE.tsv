@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар		Crowdin glossary; pl дамінатары, дамінатараў	—
 lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан		game race; pl клісаны, клісанаў	—
@@ -272,7 +272,7 @@ lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; k
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
 lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба		pirate plot weapon; hunspell leftover adj	—
-lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
+lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/пачварашамі		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
 lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх		race; N пеленг already in lemma.golden_peleng	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/непеленгі		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -784,3 +784,9 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.gravicar	гравикар	gravicar	гравікар/гравікараў		peleng ground craft; Starnik has no entry	Pachvarash.qmm
+lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
+lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
+lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
+lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
