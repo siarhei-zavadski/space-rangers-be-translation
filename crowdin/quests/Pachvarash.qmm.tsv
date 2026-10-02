@@ -1630,8 +1630,8 @@ It is time to go back."	"Quest,Pachvarash"	"Вы — адзін з самых п
 It looks like the ability to speak returned to you completely."	"Quest,Pachvarash"	"- Дзіўна, <Ranger>! — зноў паўтарыў лякуша Бюр А'Крат, не зважаючы на вашыя жаласныя спробы загаварыць. — Вы — першы, хто змог прайсьці гэты рытуал за апошнія 10 гадоў!!! Бо мы спэцыяльна ўвялі гэты рытуал шмат гадоў таму, каб спыніць самавольную зьмену полу, якая стварала жудасную юрыдычную блытаніну. А пасьля таго, як тысяча-другая пеленгаў сканала ў вёсцы пачварашаў, выпадкі зьмены полу практычна зьніклі. Цяпер ніводнага пеленга ў гэтую вёску не заманіш нават за мільён! Толькі непеленгі накшталт вас могуць патрапіць на гэты кручок, і толькі вельмі нямногім удаецца ўсё ж здабыць дазвол на зьмену полу для свайго заказчыка. Увогуле, з такой нагоды мы самі даставім дазвол спадарыні прэзыдэнту плянэты <FromPlanet>, можаце пра гэта не турбавацца.
 
 Здаецца, здольнасьць гаварыць нарэшце вярнулася да вас у поўным аб'ёме."
-"/quests/Pachvarash.qmm/locations/46/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.46.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/46/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.46.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	""
+"/quests/Pachvarash.qmm/locations/46/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.46.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	"Сілы пакінулі вас. Вы не змаглі ні працягваць бой, ні нават уцячы з поля бою. Вы ўпалі на зямлю і смутна разгледзелі, як правадыр падняў з зямлі вялікі валун і з размаху кінуў яго вам у галаву. І настала цемра..."
+"/quests/Pachvarash.qmm/locations/46/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.46.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	"Паглядзіце шасьцю вачыма на сябе!!! Вас жа не відаць! Правадыр, можна сказаць, проста зьеў вас! Годны скон для слаўнага рэйнджэра..."
 "/quests/Pachvarash.qmm/locations/46/texts/0/text"	"Вы принялись молотить вождя лапами, и тот ответил вам тем же. После недолгого клинча вы отпрыгнули друг от друга. Обычно такие обмены ударами выгоднее для более тяжелого противника, ведь он, как правило, бьет сильнее.
 
 Вы потеряли [p6]% здоровья. 
@@ -1642,7 +1642,12 @@ It looks like the ability to speak returned to you completely."	"Quest,Pachvaras
 You lost [p6]% of health. 
 You caused [p7]% damage to the Chief's health.
 
-Do not relax! The fight is not yet over!"	"Quest,Pachvarash"	""
+Do not relax! The fight is not yet over!"	"Quest,Pachvarash"	"Вы ўзяліся малаціць правадыра лапамі, і той адказаў вам тым самым. Пасьля нядоўгай счэпкі вы адскочылі адзін ад аднаго. Звычайна такі абмен ударамі больш выгадны для цяжэйшага саперніка, бо ён, як правіла, б'е мацней.
+
+Вы страцілі [p6]% здароўя. 
+Вы нанесьлі здароўю правадыра шкоду ў [p7]%.
+
+Не расслабляцца! Бой яшчэ не скончыўся!"
 "/quests/Pachvarash.qmm/locations/46/texts/1/text"	"Вы тяжелее вождя, а значит и неповоротливее. Вождь воспользовался этим, уклоняясь от ваших ударов и нанося свои. Вам пришлось изрядно попотеть, прежде чем вы смогли настигнуть вождя и хорошенько врезать ему по морде!
 
 Из-за погони за вождем вы похудели на [p9] чг.
@@ -1655,7 +1660,13 @@ During the chase for the Chief you lost [p9] hg.
 You lost [p6]% of health.
 You caused [p7]% damage to the Chief's health.
 
-Maybe you should try to find a better tactics?"	"Quest,Pachvarash"	""
+Maybe you should try to find a better tactics?"	"Quest,Pachvarash"	"Вы цяжэйшыя за правадыра, а значыць, і менш паваротлівыя. Правадыр скарыстаўся гэтым, ухіляючыся ад вашых удараў і наносячы свае. Вам давялося добра папацець, перш чым вы змаглі дагнаць правадыра і добра ўрэзаць яму па пысе!
+
+Праз пагоню за правадыром вы схуднелі на [p9] чг.
+Вы страцілі [p6]% здароўя.
+Вы нанесьлі здароўю правадыра шкоду ў [p7]%.
+
+Можа, варта шукаць больш эфэктыўную тактыку?"
 "/quests/Pachvarash.qmm/locations/46/texts/2/text"	"Пока вы собирались с силами для следующего удара, вождь нанес вам удар палкой. Вы почувствовали, как что-то хрустнуло в одной из лап. Это привело вас в неописуемую ярость и, можно сказать, придало вам сил. И вы, перекувыркнувшись, со всего размаху ударили в голову противника. Он навзничь упал, подняв клубы пыли.
 
 Удар палкой обошелся вам в [p6]% здоровья.
@@ -1666,7 +1677,12 @@ Maybe you should try to find a better tactics?"	"Quest,Pachvarash"	""
 The hit with a stick cost you [p6]% of health.
 The Chief lost [p7]% of health.
 
-You've got to fight to the end!"	"Quest,Pachvarash"	""
+You've got to fight to the end!"	"Quest,Pachvarash"	"Пакуль вы зьбіраліся з сіламі для наступнага ўдару, правадыр ударыў вас палкай. Вы адчулі, як нешта хруснула ў адной з лапаў. Гэта давяло вас да неапісальнай лютасьці і, можна сказаць, дало вам сілаў. І вы перакуліліся і з усяго размаху ўдарылі ў галаву саперніка. Ён упаў на сьпіну і падняў клубы пылу.
+
+Удар палкай каштаваў вам [p6]% здароўя.
+Правадыр пазбавіўся [p7]% здароўя.
+
+Трэба біцца далей, да пераможнага канца!"
 "/quests/Pachvarash.qmm/locations/46/texts/3/text"	"Вы нанесли вождю мощный удар в челюсть. Пачвараш очень грозно заверещал и набросился на вас. Он успел укусить три раза. Кровь тонкой струйкой стекала по краешку его рта. Вождь смотрел на вас выпученными от ярости глазами. Вы собрались с силами и предприняли контрмеры - еще один удар в кровавую челюсть вождя, и тот отлетел в сторону.
 
 Вождь вырвал из вашего тела [p9] чг мяса, лишив вас [p6]% здоровья.
@@ -1677,7 +1693,12 @@ You've got to fight to the end!"	"Quest,Pachvarash"	""
 The Chief tore [p9] hg of flesh from your body and you lost [p6]% of health.
 You blows cost the Chief [p7]% of his health.
 
-Select a tactics for the next attack."	"Quest,Pachvarash"	""
+Select a tactics for the next attack."	"Quest,Pachvarash"	"Вы нанесьлі правадыру магутны ўдар у сківіцу. Пачвараш вельмі пагрозьліва завішчаў і накінуўся на вас. Ён пасьпеў укусіць тройчы. Кроў тонкім струменьчыкам сьцякала па краі ягонага рота. Правадыр глядзеў на вас вылупленымі ад лютасьці вачыма. Вы сабраліся з сіламі і ўдарылі яшчэ раз у крывавую сківіцу правадыра, і той адляцеў убок.
+
+Правадыр вырваў з вашага цела [p9] чг мяса, пазбавіўшы вас [p6]% здароўя.
+Вашыя ўдары аднялі ў правадыра [p7]% здароўя.
+
+Абярыце тактыку для наступнага нападу."
 "/quests/Pachvarash.qmm/locations/46/texts/4/text"	"Глупо идти в ближний бой против соперника, который так сильно превосходит вас в весе. Вождь с презрительным терпением дал вам нанести несколько ударов, а потом со всего маху влепил вам пару затрещин. Вы не удержались на ногах и свалились на землю, больно ударившись головой о камень.
 
 Вы потеряли [p6]% здоровья. 
@@ -1688,7 +1709,12 @@ Select a tactics for the next attack."	"Quest,Pachvarash"	""
 You lost [p6]% of health. 
 The Chief lost [p7]% of health.
 
-You could hardly stand up. The Chief is waiting for your actions."	"Quest,Pachvarash"	""
+You could hardly stand up. The Chief is waiting for your actions."	"Quest,Pachvarash"	"Неразумна ісьці ў блізкі бой супраць саперніка, які так моцна цяжэйшы за вас. Правадыр з пагардлівай цярплівасьцю даў вам нанесьці некалькі ўдараў, а потым з усяго маху ўляпіў вам пару ляшчоў. Вы не ўтрымаліся на нагах і зваліліся на зямлю, балюча ўдарыўшыся галавой аб камень.
+
+Вы страцілі [p6]% здароўя. 
+Правадыр пазбавіўся [p7]% здароўя.
+
+Вы з цяжкасьцю падняліся на ногі. Правадыр чакае вашых дзеяньняў."
 "/quests/Pachvarash.qmm/locations/46/texts/5/text"	"Вы значительно превосходите вождя в весе. Ясно, что он не захотел драться с вами в ближнем бою, предпочитая уворачиваться от ваших ударов и кидаться камнями. Вы долго не могли его поймать. Наконец вы изловчились, схватили его и обрушили на врага несколько мощных ударов ногами. Вождь извивался, но не мог вырваться из вашей хватки. В конце концов ему удалось укусить вас за одну из конечностей. Вы ослабили хватку, и вождь отпрыгнул от вас.
 
 Этот эпизод лишил вас [p6]% здоровья и [p9] чг веса.
@@ -1699,7 +1725,12 @@ You could hardly stand up. The Chief is waiting for your actions."	"Quest,Pachva
 You lost [p6]% of health and [p9] hg of weight.
 You blows caused [p7]% damage to the Chief's health.
 
-Will you try a close combat again?"	"Quest,Pachvarash"	""
+Will you try a close combat again?"	"Quest,Pachvarash"	"Вы значна цяжэйшыя за правадыра. Ясна, што ён не захацеў біцца з вамі ўшчыльную і абраў ухіляцца ад вашых удараў і кідацца камянямі. Вы доўга не маглі яго злавіць. Нарэшце вам удалося схапіць яго і абрынуць на ворага некалькі магутных удараў нагамі. Правадыр выкручваўся, але не мог вырвацца з вашай хваткі. Урэшце ён укусіў вас за адну з лапаў. Вы аслабілі хватку, і правадыр адскочыў ад вас.
+
+Гэты эпізод пазбавіў вас [p6]% здароўя і [p9] чг вагі.
+Вашыя ўдары аднялі ў правадыра [p7]% здароўя.
+
+Паспрабуеце зноў пайсьці ў блізкі бой?"
 "/quests/Pachvarash.qmm/locations/46/texts/6/text"	"Вы решили пойти в ближний бой. Это вам выгодно, ведь вы тяжелее вождя. Вдруг заметили бросок вождя в направлении вашего бока. В последний момент вы смогли уклониться, так что в пасти вождя оказался лишь небольшой кусок вашей плоти. Зато вы тут же обрушили на вождя всю мощь ударов своих лап. Вождю пришлось туго, хотя кусок мяса из вашего бока он все-таки вырвал.
 
 Рана обошлась вам в [p6]% здоровья и [p9] чг веса.
@@ -1710,13 +1741,20 @@ Will you try a close combat again?"	"Quest,Pachvarash"	""
 The wound took [p6]% of your health and [p9] hg of weight.
 The Chief lost [p7]% of health.
 
-Don't ease off! The fight is not over!"	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/46/texts/7/text"	"Вы попытались перейти в ближний бой, ведь вы намного тяжелее вождя. Но тот был совсем не дурак, он легко уворачивался от вас благодаря лучшей маневренности и закидывал вас камнями. Потеряв в этой бессмысленной погоне [p6]% здоровья и [p9] чг веса, вы были вынуждены остановиться. Нужно что-то менять!"	"Quest Pachvarash.qmm: locations.46.texts.7.text. Preserve every <tag> exactly. English reference: You tried to switch to a close combat, since you're much heavier than the Chief. But he was no fool and easily dodged your blows and threw stones at you. After you lost [p6]% of health and [p9] hg of weight in that useless chase, you had to stop. Something needs to be changed!"	"Quest,Pachvarash"	""
+Don't ease off! The fight is not over!"	"Quest,Pachvarash"	"Вы вырашылі пайсьці ў блізкі бой. Гэта вам выгадна, бо вы цяжэйшыя за правадыра. Раптам вы заўважылі кідок правадыра ў бок вашага боку. У апошні момант вы змаглі ўхіліцца, так што ў пашчы правадыра апынуўся толькі невялікі кавалак вашай плоці. Затое вы адразу абрынулі на правадыра ўсю моц удараў сваіх лапаў. Правадыру было вельмі цяжка, хоць кавалак мяса з вашага боку ён усё ж вырваў.
+
+Рана каштавала вам [p6]% здароўя і [p9] чг вагі.
+Правадыр страціў [p7]% здароўя.
+
+Не расслабляцца! Бойка яшчэ не скончаная!"
+"/quests/Pachvarash.qmm/locations/46/texts/7/text"	"Вы попытались перейти в ближний бой, ведь вы намного тяжелее вождя. Но тот был совсем не дурак, он легко уворачивался от вас благодаря лучшей маневренности и закидывал вас камнями. Потеряв в этой бессмысленной погоне [p6]% здоровья и [p9] чг веса, вы были вынуждены остановиться. Нужно что-то менять!"	"Quest Pachvarash.qmm: locations.46.texts.7.text. Preserve every <tag> exactly. English reference: You tried to switch to a close combat, since you're much heavier than the Chief. But he was no fool and easily dodged your blows and threw stones at you. After you lost [p6]% of health and [p9] hg of weight in that useless chase, you had to stop. Something needs to be changed!"	"Quest,Pachvarash"	"Вы паспрабавалі перайсьці ў блізкі бой, бо вы значна цяжэйшыя за правадыра. Але той быў зусім не дурань: ён лёгка ўхіляўся ад вас дзякуючы лепшай паваротлівасьці і закідваў вас камянямі. Страціўшы ў гэтай бессэнсоўнай пагоні [p6]% здароўя і [p9] чг вагі, вы былі вымушаныя спыніцца. Трэба нешта мяняць!"
 "/quests/Pachvarash.qmm/locations/46/texts/8/text"	"Вы бросились на вождя, но тот ждал этого, и ловко уклонился. Ваш скользящий удар нанес врагу лишь [p7]% ущерба. А вот вождь приложил вас от души - [p6]% здоровья как не бывало!
 
 Попробуем еще разок?"	"Quest Pachvarash.qmm: locations.46.texts.8.text. Preserve every <tag> exactly. English reference: You attacked the Chief, but he was prepared and easily ducked. Your glancing blow caused only [p7]% damage to the opponent. While the Chief placed a perfect hit that cost you [p6]% of health!
 
-Do you want another try?"	"Quest,Pachvarash"	""
+Do you want another try?"	"Quest,Pachvarash"	"Вы кінуліся на правадыра, але той чакаў гэтага і спрытна ўхіліўся. Ваш удар па датычнай нанёс ворагу толькі [p7]% шкоды. А вось правадыр уляпіў вам ад душы — [p6]% здароўя як не бывала!
+
+Паспрабуем яшчэ раз?"
 "/quests/Pachvarash.qmm/locations/46/texts/9/text"	"Вы оперлись на две лапы, а третью выставили впереди себя, как таран. И побежали на соперника. Он предпринял попытку защититься - нагнулся и сделал вам подножку. Вы начали падать, по счастливой случайности завалились на пачвараша. Это дало возможность совершить несколько ударов конечностями в тело врага. После этого вождь сумел вскочить и сбросить вас с себя.
 
 Ваши потери составили [p6]% здоровья, а вождя - [p7]% здоровья.
@@ -1725,9 +1763,13 @@ Do you want another try?"	"Quest,Pachvarash"	""
 
 You damage was [p6]% of health, and that of the Chief - [p7]% of health.
 
-It is time for the next move."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/47/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.47.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/47/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.47.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	""
+It is time for the next move."	"Quest,Pachvarash"	"Вы абаперліся на дзьве лапы, а трэцюю выставілі перад сабой, як таран. І пабеглі на саперніка. Ён паспрабаваў абараніцца: нагнуўся і падставіў вам падножку. Вы пачалі падаць і па шчасьлівым выпадку заваліліся на пачвараша. Гэта дало магчымасьць нанесьці некалькі ўдараў лапамі ў цела ворага. Пасьля гэтага правадыр змог ускочыць і скінуць вас з сябе.
+
+Вашыя страты склалі [p6]% здароўя, а правадыра — [p7]% здароўя.
+
+Пара рабіць наступны манэўр."
+"/quests/Pachvarash.qmm/locations/47/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.47.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	"Сілы пакінулі вас. Вы не змаглі ні працягваць бой, ні нават уцячы з поля бою. Вы ўпалі на зямлю і смутна разгледзелі, як правадыр падняў з зямлі вялікі валун і з размаху кінуў яго вам у галаву. І настала цемра..."
+"/quests/Pachvarash.qmm/locations/47/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.47.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	"Паглядзіце шасьцю вачыма на сябе!!! Вас жа не відаць! Правадыр, можна сказаць, проста зьеў вас! Годны скон для слаўнага рэйнджэра..."
 "/quests/Pachvarash.qmm/locations/47/texts/0/text"	"Вы бросили в вождя камень, и он ответил вам тем же. Так как ваши веса примерно равны, то и эффективность этого приема у вас обоих должна быть примерно одинакова.
 
 Потери здоровья составили [p6]% у вас и [p7]% у вождя.
@@ -1736,7 +1778,11 @@ It is time for the next move."	"Quest,Pachvarash"	""
 
 The damage to health made [p6]% for you and [p7]% for the Chief. 
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Вы кінулі ў правадыра камень, і ён адказаў вам тым самым. Паколькі вашыя вагі прыкладна роўныя, то і эфэктыўнасьць гэтага прыёму ў вас абодвух мусіць быць прыкладна аднолькавая.
+
+Страты здароўя склалі [p6]% у вас і [p7]% у правадыра.
+
+Што будзем рабіць далей?"
 "/quests/Pachvarash.qmm/locations/47/texts/1/text"	"Пока вождь не решался напасть на вас, вы потихоньку зарывали лапу в песок. Как только вы ощутили, что всунули ногу достаточно глубоко, то, применив усилие, рывком выдернули ее. Мелкие песчинки полетели в противника. Это привело его в бешенство, пачвараш с закрытыми глазами побежал в вашу сторону, опасно размахивая своими огромными лапами. Вы не успели отойти и получили несколько ударов в голову и тело. Зато вы успели нанести ему пару ударов в ответ.
 
 Соперник нанес [p6]% ущерба вашему здоровью.
@@ -1747,7 +1793,12 @@ What do you do next?"	"Quest,Pachvarash"	""
 The opponent did [p6]% damage to your health.
 You took [p7]% of the Chief's health.
 
-Maybe you should consider a more effective trick?"	"Quest,Pachvarash"	""
+Maybe you should consider a more effective trick?"	"Quest,Pachvarash"	"Пакуль правадыр не адважваўся напасьці на вас, вы ціхенька закопвалі лапу ў пясок. Як толькі вы адчулі, што ўсунулі нагу дастаткова глыбока, вы рыўком вырвалі яе. Дробныя пясчынкі паляцелі ў саперніка. Гэта давяло яго да шаленства: пачвараш з заплюшчанымі вачыма пабег у ваш бок і небясьпечна махаў сваімі вялізнымі лапамі. Вы не пасьпелі адысьці і атрымалі некалькі ўдараў у галаву і цела. Затое вы пасьпелі нанесьці яму пару ўдараў у адказ.
+
+Сапернік нанёс [p6]% шкоды вашаму здароўю.
+Вы аднялі [p7]% здароўя ў правадыра.
+
+Можа, пара ўжыць больш эфэктыўныя прыёмы?"
 "/quests/Pachvarash.qmm/locations/47/texts/2/text"	"Вы решили избегать ближнего боя - ведь вождь гораздо тяжелее вас. Вместо этого вы принялись кидаться в вождя камнями и уворачиваться от его когтей. Это оказалось довольно эффективным приемом, хотя пару раз вам все же досталось.
 
 Вы лишились [p6]% здоровья.
@@ -1760,17 +1811,27 @@ You lost [p6]% of health.
 During the chase, the Chief lost [p8] hg.
 You caused [p7]% damage to the Chief's health.
 
-Will you go on like that or change the tactics?"	"Quest,Pachvarash"	""
+Will you go on like that or change the tactics?"	"Quest,Pachvarash"	"Вы вырашылі пазьбягаць блізкага бою, бо правадыр значна цяжэйшы за вас. Замест гэтага вы ўзяліся кідацца ў правадыра камянямі і ўхіляцца ад ягоных кіпцюроў. Гэта аказалася даволі эфэктыўным спосабам, хоць пару разоў вам усё ж прыляцела.
+
+Вы пазбавіліся [p6]% здароўя.
+Праз бегатню за вамі правадыр скінуў [p8] чг.
+Вы нанесьлі здароўю правадыра шкоду ў [p7]%.
+
+Будзем працягваць у тым самым духу, ці зьменім тактыку?"
 "/quests/Pachvarash.qmm/locations/47/texts/3/text"	"Вы стали бросаться в вождя камнями и палками. Ваш противник сначала никак на это не реагировал. И вдруг он стремительно бросился на вас и укусил в пузо! К счастью, у вас в руках оставался один камень, и вы с размаху опустили его на голову врага. Пачвараш рванулся и вырвал из вашего тела кусок мяса весом [p9] чг. Это стоило вам [p6]% здоровья, но и вождь ослабел на [p7]%.
 
 Что вы предпримете?"	"Quest Pachvarash.qmm: locations.47.texts.3.text. Preserve every <tag> exactly. English reference: You began throwing sticks and stones at the Chief. You opponent did not react at first. Suddenly he attacked you and bit you by the belly! Fortunately you had one stone left and with a force you crushed the stone on the enemy's head. The pachvarash jolted and tore a piece of flesh of [p9] hg from your body. That took [p6]% of your health, but the Chief also got weaker by [p7]%.
 
-What do you do?"	"Quest,Pachvarash"	""
+What do you do?"	"Quest,Pachvarash"	"Вы сталі кідацца ў правадыра камянямі і палкамі. Ваш сапернік спачатку ніяк на гэта не рэагаваў. І раптам ён імкліва кінуўся на вас і ўкусіў у пуза! На шчасьце, у вас у лапах заставаўся адзін камень, і вы з размаху апусьцілі яго на галаву ворага. Пачвараш тузануўся і вырваў з вашага цела кавалак мяса вагой [p9] чг. Гэта каштавала вам [p6]% здароўя, але і правадыр аслаб на [p7]%.
+
+Што вы зробіце?"
 "/quests/Pachvarash.qmm/locations/47/texts/4/text"	"Вы бросили в вождя камень, и он ответил вам тем же. Завязалась настоящая перестрелка! Поскольку вы тяжелее вождя, ваши камни наносят больший урон. Однако вождь подвижнее вас, так что его камни чаще попадают в цель. В итоге, перестрелка обошлась вам в [p6]% здоровья, а вождю - в [p7]%.
 
 Продолжим бой?"	"Quest Pachvarash.qmm: locations.47.texts.4.text. Preserve every <tag> exactly. English reference: You threw a stone at the Chief and he responded likewise. A real skirmish broke out! As you are heavier than the Chief, your throws cause greater damage. However, the Chief is more mobile, and his stones more frequently reach the target. As the result, the fight cost you [p6]% of health, and it cost the Chief [p7]% of his health.
 
-Do you continue the fight?"	"Quest,Pachvarash"	""
+Do you continue the fight?"	"Quest,Pachvarash"	"Вы кінулі ў правадыра камень, і ён адказаў вам тым самым. Завязалася сапраўдная перастрэлка! Паколькі вы цяжэйшыя за правадыра, вашыя камяні наносяць большую шкоду. Аднак правадыр спрытнейшы за вас, так што ягоныя камяні часьцей трапляюць у цэль. У выніку перастрэлка каштавала вам [p6]% здароўя, а правадыру — [p7]%.
+
+Працягнем бой?"
 "/quests/Pachvarash.qmm/locations/47/texts/5/text"	"Идея бросить друг в друга камнем пришла вам с вождем одновременно. Вскоре завязалась нешуточная перестрелка, в которой оба противника старались одновременно метнуть посильнее камень во врага и уклониться от его снаряда. Так как вы чуть легче вождя, вам удавалось чаще уклоняться от камней противника. Зато боль его снаряды причиняли куда сильнее ваших.
 
 Итог перестрелки: вы потеряли [p6]% здоровья, а вождь - [p7]%.
@@ -1779,7 +1840,11 @@ Do you continue the fight?"	"Quest,Pachvarash"	""
 
 As the result, you lost [p6]% of your heal, and the Chief - [p7]% of his.
 
-You should not stop at this! Act decisively!"	"Quest,Pachvarash"	""
+You should not stop at this! Act decisively!"	"Quest,Pachvarash"	"Думка кінуць адзін у аднаго каменем прыйшла вам з правадыром адначасна. Неўзабаве завязалася сур'ёзная перастрэлка, у якой абодва сапернікі стараліся адначасна шпурнуць мацнейшы камень у ворага і ўхіліцца ад ягонага снарада. Паколькі вы крыху лягчэйшыя за правадыра, вам удавалася часьцей ухіляцца ад камянёў саперніка. Затое боль ягоныя снарады прычынялі куды мацней за вашыя.
+
+Вынік перастрэлкі: вы страцілі [p6]% здароўя, а правадыр — [p7]%.
+
+Ня варта спыняцца на дасягнутым! Трэба дзейнічаць рашуча!"
 "/quests/Pachvarash.qmm/locations/47/texts/6/text"	"Вы ловко уклонялись от вождя, пользуясь своим преимуществом в маневренности, и бросали в него камни. Вождь долго бегал за вами, но в конце концов настиг. Тут уж вам пришлось несладко: удары вождя были намного тяжелее ваших.
 
 Ваше здоровье ухудшилось на [p6]%.
@@ -1790,7 +1855,12 @@ You should not stop at this! Act decisively!"	"Quest,Pachvarash"	""
 Your health got worse by [p6]%.
 The Chief lost [p7]% of health and [p8] hg of weight.
 
-What's next?"	"Quest,Pachvarash"	""
+What's next?"	"Quest,Pachvarash"	"Вы спрытна ўхіляліся ад правадыра, бо былі спрытнейшыя, і кідалі ў яго камяні. Правадыр доўга бегаў за вамі, але ўрэшце дагнаў. Тут ужо вам было вельмі цяжка: удары правадыра былі значна цяжэйшыя за вашыя.
+
+Здароўе пагоршылася на [p6]%.
+Правадыр пазбавіўся [p7]% здароўя і страціў у пагоні [p8] чг вагі.
+
+Што далей?"
 "/quests/Pachvarash.qmm/locations/47/texts/7/text"	"Вы намного легче, а значит и увертливее вождя. Поэтому вам легко удавалось уклоняться от ударов вождя, пытавшегося перейти в ближний бой, и забрасывать противника камнями. После нескольких безуспешных попыток достать вас, запыхавшийся вождь остановился.
 
 Гоняясь за вами, вождь сбросил [p8] чг веса.
@@ -1801,7 +1871,12 @@ What's next?"	"Quest,Pachvarash"	""
 While chasing you, the Chief lost [p8] hg of weight.
 With the stones, you damaged the opponent's health by [p7]%.
 
-Is looks like the Chief wants to change his tactics. Probably you should do the same?"	"Quest,Pachvarash"	""
+Is looks like the Chief wants to change his tactics. Probably you should do the same?"	"Quest,Pachvarash"	"Вы значна лягчэйшыя, а значыць, і спрытнейшыя за правадыра. Таму вам лёгка ўдавалася ўхіляцца ад удараў правадыра, які спрабаваў перайсьці ў блізкі бой, і закідваць саперніка камянямі. Пасьля некалькіх няўдалых спробаў дастаць вас запыханы правадыр спыніўся.
+
+У пагоні за вамі правадыр скінуў [p8] чг вагі.
+Вашыя камяні пазбавілі саперніка [p7]% здароўя.
+
+Здаецца, правадыр хоча зьмяніць тактыку. Можа, і вам пара зрабіць тое самае?"
 "/quests/Pachvarash.qmm/locations/47/texts/8/text"	"Вы принялись швырять камнями в напряженного противника, угрожающе размахивая лапами. Вождь испугался вашего напора, начал медленно пятиться назад и упал. Вы бросились на вождя, но это оказалась ловушка! Пачвараш укусил вас за лапу, кровь хлынула из свежих прокушенных ран, обильно облитых слюной противника. Вы отпрянули назад, опешив от такого неожиданного развития событий.
 
 Укус врага был сильным, вы потеряли [p6]% здоровья и [p9] чг веса.
@@ -1812,14 +1887,21 @@ Is looks like the Chief wants to change his tactics. Probably you should do the 
 The bite was hard, you lost [p6]% of your health and [p9] hg of weight.
 The Chief lost [p7]% of health.
 
-The fight can go on. But how?"	"Quest,Pachvarash"	""
+The fight can go on. But how?"	"Quest,Pachvarash"	"Вы ўзяліся шпурляць камяні ў напружанага саперніка і пагрозьліва махалі лапамі. Правадыр спалохаўся вашага напору, пачаў павольна адступаць назад і ўпаў. Вы кінуліся на правадыра, але гэта аказалася пастка! Пачвараш укусіў вас за лапу, кроў хлынула са сьвежых пракушаных ранаў, багата аблітых сьлінай саперніка. Вы адскочылі назад, ачмурэлыя ад такога нечаканага павароту.
+
+Укус ворага быў моцны, вы страцілі [p6]% здароўя і [p9] чг вагі.
+Правадыр пазбавіўся [p7]% здароўя.
+
+Можна працягнуць бой. Вось толькі як?"
 "/quests/Pachvarash.qmm/locations/47/texts/9/text"	"Вы подняли с земли увесистый булыжник. Пачвараш заметил маневр и поднял камень тоже. Вы некоторое время не решались запустить в вождя камнем, стараясь точнее прицелиться, как вдруг он сам бросил в вас камень. Удар пришелся точно в лоб, из глаз посыпались искры. Вы бросили свой булыжник не глядя, но все-таки попали.
 
 Вождь нанес [p6]% ущерба вашему здоровью, а вы отняли у него [p7]% здоровья."	"Quest Pachvarash.qmm: locations.47.texts.9.text. Preserve every <tag> exactly. English reference: You took a heavy boulder from the ground. The pachvarash noticed your move and took a stone as well. For some time you hesitated to throw the stone at the Chief, trying to aim better, and suddenly he threw his stone. You were hit right in the forehead and you saw stars. You threw your stone aimlessly but hit your target anyway. 
 
-The Chief caused [p6]% damage to your health, while you made him lose [p7]% of his health."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/48/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.48.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/48/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.48.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	""
+The Chief caused [p6]% damage to your health, while you made him lose [p7]% of his health."	"Quest,Pachvarash"	"Вы паднялі з зямлі важкі валун. Пачвараш заўважыў манэўр і таксама падняў камень. Вы нейкі час не адважваліся шпурнуць у правадыра каменем, стараючыся дакладней прыцэліцца, як раптам ён сам кінуў у вас камень. Удар прыйшоўся дакладна ў лоб, з вачэй пасыпаліся іскры. Вы кінулі свой валун наўздагад, але ўсё ж патрапілі.
+
+Правадыр нанёс [p6]% шкоды вашаму здароўю, а вы аднялі ў яго [p7]% здароўя."
+"/quests/Pachvarash.qmm/locations/48/pars/0/crit_text"	"Силы покинули вас. Вы не смогли ни продолжать бой, ни даже убежать с поля боя. Упав на землю, вы смутно разглядели, как вождь поднял с земли большой валун и с размаху кинул его в вашу голову. И наступила тьма..."	"Quest Pachvarash.qmm: locations.48.pars.0.crit_text. Preserve every <tag> exactly. English reference: Your strength gave out. You could not continue the fight, or even run away from the battlefield. You fell on the ground and vaguely saw that the Chief lifted a huge boulder and threw it in your head. Then darkness descended on you..."	"Quest,Pachvarash"	"Сілы пакінулі вас. Вы не змаглі ні працягваць бой, ні нават уцячы з поля бою. Вы ўпалі на зямлю і смутна разгледзелі, як правадыр падняў з зямлі вялікі валун і з размаху кінуў яго вам у галаву. І настала цемра..."
+"/quests/Pachvarash.qmm/locations/48/pars/1/crit_text"	"Посмотрите шестью глазами на себя!!! Вас же не видно! Вождь, можно сказать, просто съел вас! Достойная кончина для славного рейнджера..."	"Quest Pachvarash.qmm: locations.48.pars.1.crit_text. Preserve every <tag> exactly. English reference: Look at yourself with all six eyes!!! There is nothing to see! The Chief literally ate you! A silly death for the glorious ranger..."	"Quest,Pachvarash"	"Паглядзіце шасьцю вачыма на сябе!!! Вас жа не відаць! Правадыр, можна сказаць, проста зьеў вас! Годны скон для слаўнага рэйнджэра..."
 "/quests/Pachvarash.qmm/locations/48/texts/0/text"	"Вождь в напряжении ждал вашего удара. Вы пригнулись к земле и ползком пошли на противника. Он не ожидал такого выпада с вашей стороны и только смотрел на ваши действия, разинув пасть. Воспользоваться ситуацией сам Бог велел! Вы резко встали и укусили противника за бок. Теперь напряжение соперника сменилось серией мощных ударов лапами. Вы отпрянули от него с изрядным куском теплой плоти в зубах.
 
 Вы потеряли [p6]% здоровья.
@@ -1830,7 +1912,12 @@ The Chief caused [p6]% damage to your health, while you made him lose [p7]% of h
 You lost [p6]% of health.
 You made the Chief lose [p7]% of health and [p8] hg of his weight.
 
-Don't slow down! Fight!"	"Quest,Pachvarash"	""
+Don't slow down! Fight!"	"Quest,Pachvarash"	"Правадыр у напружаньні чакаў вашага ўдару. Вы прыгнуліся да зямлі і паўзком пайшлі на саперніка. Ён не чакаў такога выпаду з вашага боку і толькі глядзеў на вашыя дзеяньні з адкрытай пашчай. Сам Бог загадаў скарыстацца становішчам! Вы рэзка ўсталі і ўкусілі саперніка за бок. Цяпер напружаньне саперніка зьмянілася сэрыяй магутных удараў лапамі. Вы адскочылі ад яго з немалым кавалкам цёплай плоці ў зубах.
+
+Вы страцілі [p6]% здароўя.
+Вы аднялі ў ворага [p7]% здароўя і [p8] чг вагі.
+
+Нельга марудзіць! Трэба біцца!"
 "/quests/Pachvarash.qmm/locations/48/texts/1/text"	"Вы бросились на противника и укусили его рядом с шеей, это отличный ход! Кровь захлестала у вождя из шеи. Он скорчился, а вы нагнулись над ним, чтоб произвести следующий удар, но не тут то было, он выпрямился и ударил головой вас в живот. Вы с негромким стуком упали, ударившись подбородком о землю, теплая и липкая жидкость потекла по шее. Вы с трудом поднялись.
 
 Вождь потерял [p7]% здоровья и [p8] чг веса.
@@ -1841,7 +1928,12 @@ Don't slow down! Fight!"	"Quest,Pachvarash"	""
 The Chief lost [p7]% of health and [p8] hg of weight.
 The wound took [p6]% of your health.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Вы кінуліся на саперніка і ўкусілі яго каля шыі — гэта выдатны ход! Кроў хлынула ў правадыра з шыі. Ён скурчыўся, а вы нагнуліся над ім, каб нанесьці наступны ўдар, але дзе там: ён выпрастаўся і ўдарыў галавой вас у жывот. Вы з нягучным стукам упалі, ударыўшыся падбародкам аб зямлю, і цёплая ліпкая вадкасьць пацякла па шыі. Вы з цяжкасьцю падняліся.
+
+Правадыр страціў [p7]% здароўя і [p8] чг вагі.
+Рана каштавала вам [p6]% здароўя.
+
+Што зробім цяпер?"
 "/quests/Pachvarash.qmm/locations/48/texts/2/text"	"Вы укусили вождя, а тот укусил вас! В результате вы вырвали друг у друга по куску мяса, причинив немалую боль.
 
 Вы потеряли [p6]% здоровья и [p9] чг веса.
@@ -1852,7 +1944,12 @@ What do you do next?"	"Quest,Pachvarash"	""
 You lost [p6]% of health and [p9] hg of weight.
 The Chief lost [p7]% of health and [p8] hg of weight.
 
-Shouldn't you change your tactics?"	"Quest,Pachvarash"	""
+Shouldn't you change your tactics?"	"Quest,Pachvarash"	"Вы ўкусілі правадыра, а той укусіў вас! У выніку вы вырвалі адзін у аднаго па кавалку мяса і прычынілі немалы боль.
+
+Вы страцілі [p6]% здароўя і [p9] чг вагі.
+Правадыр пазбавіўся [p7]% здароўя і [p8] чг вагі.
+
+Можа, варта зьмяніць тактыку?"
 "/quests/Pachvarash.qmm/locations/48/texts/3/text"	"Вы бросились на вождя и укусили его. Он взревел и начал царапать вас огромными грязными когтями. Кожа лопалась на спине, и боль пронзала мозг от каждого движения врага. Вы не выдержали и разжали челюсти, так что вырвать у противника из тела кусок мяса вам не удалось.
 
 Вы потеряли [p6]% здоровья.
@@ -1863,8 +1960,13 @@ Shouldn't you change your tactics?"	"Quest,Pachvarash"	""
 You lost [p6]% of health.
 You made the Chief lose [p7]% of health.
 
-Select next attack."	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/48/texts/4/text"	"Вы не учли, что вождь гораздо легче и подвижнее вас. Он легко увернулся от вашего броска и кинул в вас камнем, лишив [p6]% здоровья. Наверное, это было не самое удачное решение..."	"Quest Pachvarash.qmm: locations.48.texts.4.text. Preserve every <tag> exactly. English reference: You forgot that the Chief is much lighter and more mobile than you are are. He easily ducked your stone and threw another one at you, so you lost [p6]% of health. Looks like that was not the best decision..."	"Quest,Pachvarash"	""
+Select next attack."	"Quest,Pachvarash"	"Вы кінуліся на правадыра і ўкусілі яго. Ён зараў і пачаў драпаць вас вялізнымі бруднымі кіпцюрамі. Скура лопалася на сьпіне, і боль пранізваў мозг ад кожнага руху ворага. Вы не вытрымалі і разьнялі сківіцы, так што вырваць у саперніка з цела кавалак мяса вам не ўдалося.
+
+Вы страцілі [p6]% здароўя.
+Вы аднялі ў правадыра [p7]% здароўя.
+
+Абярыце наступны баявы прыём."
+"/quests/Pachvarash.qmm/locations/48/texts/4/text"	"Вы не учли, что вождь гораздо легче и подвижнее вас. Он легко увернулся от вашего броска и кинул в вас камнем, лишив [p6]% здоровья. Наверное, это было не самое удачное решение..."	"Quest Pachvarash.qmm: locations.48.texts.4.text. Preserve every <tag> exactly. English reference: You forgot that the Chief is much lighter and more mobile than you are are. He easily ducked your stone and threw another one at you, so you lost [p6]% of health. Looks like that was not the best decision..."	"Quest,Pachvarash"	"Вы не ўлічылі, што правадыр значна лягчэйшы і спрытнейшы за вас. Ён лёгка ўхіліўся ад вашага кідка і кінуў у вас каменем, пазбавіўшы [p6]% здароўя. Мусіць, гэта было не самае ўдалае рашэньне..."
 "/quests/Pachvarash.qmm/locations/48/texts/5/text"	"Вы бросились на вождя и укусили его. Тот взревел и начал царапать вас огромными грязными когтями. Кожа лопалась на спине, и боль пронзала мозг от каждого движения врага.
 
 Ваш укус стоил вождю [p7]% здоровья и [p8] чг веса.
@@ -1875,7 +1977,12 @@ Select next attack."	"Quest,Pachvarash"	""
 Your bite took [p7]% of health and [p8] hg of weight of the Chief.
 The scratches, made with the Chief's claws, cost you [p6]% of health.
 
-Which tactics are you going to use now?"	"Quest,Pachvarash"	""
+Which tactics are you going to use now?"	"Quest,Pachvarash"	"Вы кінуліся на правадыра і ўкусілі яго. Той зараў і пачаў драпаць вас вялізнымі бруднымі кіпцюрамі. Скура лопалася на сьпіне, і боль пранізваў мозг ад кожнага руху ворага.
+
+Ваш укус каштаваў правадыру [p7]% здароўя і [p8] чг вагі.
+Драпіны ад кіпцюроў правадыра пазбавілі вас [p6]% здароўя.
+
+Які прыём абярыце цяпер?"
 "/quests/Pachvarash.qmm/locations/48/texts/6/text"	"Вы бросились на вождя с целью укусить его, но вождь был готов к такому повороту событий и встретил вас ударом лапы. Конечно, вы тут же ответили ему тем же, но вряд ли это был равноценный обмен - ведь вождь намного тяжелее вас.
 
 Вы потеряли [p6]% здоровья, а вождь - [p7]%.
@@ -1884,7 +1991,11 @@ Which tactics are you going to use now?"	"Quest,Pachvarash"	""
 
 You lost [p6]% of health and the Chief - [p7]%.
 
-How are you going to fight further?"	"Quest,Pachvarash"	""
+How are you going to fight further?"	"Quest,Pachvarash"	"Вы кінуліся на правадыра, каб укусіць яго, але правадыр быў гатовы да такога павароту і сустрэў вас ударам лапы. Вядома, вы адразу адказалі яму тым самым, але наўрад ці гэта быў раўнацэнны абмен, бо правадыр значна цяжэйшы за вас.
+
+Вы страцілі [p6]% здароўя, а правадыр — [p7]%.
+
+Як будзем біцца далей?"
 "/quests/Pachvarash.qmm/locations/48/texts/7/text"	"Вам удалось подобраться к противнику вплотную. Вы подпрыгнули и укусили его в шею. В теле вождя что-то хрустнуло. Он охнул и отпрянул назад. Вы решили повторить маневр, но соперник опередил вас и нанес чувствительный удар, прервавший ваш прыжок.
 
 Удар стоил вам [p6]% здоровья.
@@ -1895,7 +2006,12 @@ How are you going to fight further?"	"Quest,Pachvarash"	""
 The blow cost you [p6]% of health.
 You took [p7]% of the enemy's health.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Вам удалося падкрасьціся да саперніка ўшчыльную. Вы падскочылі і ўкусілі яго ў шыю. У целе правадыра нешта хруснула. Ён ахнуў і адхінуўся назад. Вы вырашылі паўтарыць манэўр, але сапернік апярэдзіў вас і нанёс адчувальны ўдар, які перарваў ваш скачок.
+
+Удар каштаваў вам [p6]% здароўя.
+Вы аднялі [p7]% здароўя ў ворага.
+
+Што будзем рабіць далей?"
 "/quests/Pachvarash.qmm/locations/48/texts/8/text"	"Благодаря меньшему весу, вы намного маневреннее вождя. Надо этим пользоваться! Сделав несколько обманных движений, вы сбили противника с толку, после чего вцепились зубами ему в живот. Вы рвали зубами его плоть, причиняя пачварашу страшные страдания. Наконец вождь сумел нанести вам мощный удар в один из ваших глаз, и вам пришлось разжать челюсти.
 
 Вы отняли у противника [p7]% здоровья и [p8] чг веса.
@@ -1906,7 +2022,12 @@ What do you do next?"	"Quest,Pachvarash"	""
 You made the opponent lose [p7]% of health and [p8] hg of weight.
 The blow cost you [p6]% of health.
 
-You should exploit the success!"	"Quest,Pachvarash"	""
+You should exploit the success!"	"Quest,Pachvarash"	"Дзякуючы меншай вазе вы значна спрытнейшыя за правадыра. Трэба гэтым карыстацца! Вы зрабілі некалькі падманных рухаў, зьбілі саперніка з панталыку і ўчапіліся зубамі яму ў жывот. Вы рвалі зубамі ягоную плоць і прычынялі пачварашу страшэнныя пакуты. Нарэшце правадыр змог нанесьці вам магутны ўдар у адно з вашых вачэй, і вам давялося разьняць сківіцы.
+
+Вы аднялі ў саперніка [p7]% здароўя і [p8] чг вагі.
+Удар каштаваў вам [p6]% здароўя.
+
+Трэба разьвіваць посьпех!"
 "/quests/Pachvarash.qmm/locations/48/texts/9/text"	"Вы пригнулись и укусили вождя за ногу. Но тот ожидал такого развития событий. Схватив с земли камень, он принялся бить им вас по голове. Было очень больно, но вы не сдавались. Рванувшись изо всех сил, вы вырвали из тела вождя кусок мяса, причинив страшную боль.
 
 Вы потеряли [p6]% здоровья.
@@ -1917,9 +2038,14 @@ You should exploit the success!"	"Quest,Pachvarash"	""
 You lost [p6]% of health.
 The wound cost the Chief [p7]% of health and [p8] hg of weight.
 
-How do you fight further?"	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/49/texts/0/text"	"Вы развернулись и бросились бежать, признавая свое поражение. Вам вслед раздавался победный рык вождя пачварашей. Пожалуй, для схватки с ним вы пока слишком слабы. Да и <clr>скальпы ваши остались у вождя<clrEnd>, так что теперь придется собирать их заново. Зато уважение к вам поднялось на [p7]% - вы бросили вызов самому вождю!"	"Quest Pachvarash.qmm: locations.49.texts.0.text. Preserve every <tag> exactly. English reference: You turned away and run, accepting your defeat. A victorious roar of the pachvarashes' Chief could be heard behind. You were too weak to fight him. All <clr>your scalps remained with the Chief<clrEnd>, to you'll have to collect them again. On the other hand, the others' respect for you increased by [p7]% - you challenged the Chief himself!"	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/49/texts/1/text"	"Вы развернулись и бросились бежать, признавая свое поражение. Вам вслед раздавался победный рык вождя пачварашей. Пожалуй, для схватки с ним вы пока слишком слабы. Да и <clr>скальпы ваши остались у вождя<clrEnd>, так что теперь придется собирать их заново. А вот уважение к вам не изменилось - с одной стороны, вы проиграли схватку, но с другой стороны, бились-то вы не с кем попало, а с самим вождем!"	"Quest Pachvarash.qmm: locations.49.texts.1.text. Preserve every <tag> exactly. English reference: You turned away and run, accepting your defeat. A victorious roar of the pachvarashes' Chief could be heard behind. You were too weak to fight him. All <clr>your scalps remained with the Chief<clrEnd>, to you'll have to collect them again. However other pachvarashes' respect for you did not change - you lost the fight, but on the other hand you fought the chief himself!"	"Quest,Pachvarash"	""
+How do you fight further?"	"Quest,Pachvarash"	"Вы прыгнуліся і ўкусілі правадыра за нагу. Але той чакаў такога разьвіцьця падзей. Ён схапіў з зямлі камень і ўзяўся біць ім вас па галаве. Было вельмі балюча, але вы не здаваліся. Вы тузануліся з усіх сіл і вырвалі з цела правадыра кавалак мяса, прычыніўшы страшэнны боль.
+
+Вы страцілі [p6]% здароўя.
+Рана каштавала правадыру [p7]% здароўя і [p8] чг вагі.
+
+Як будзем біцца далей?"
+"/quests/Pachvarash.qmm/locations/49/texts/0/text"	"Вы развернулись и бросились бежать, признавая свое поражение. Вам вслед раздавался победный рык вождя пачварашей. Пожалуй, для схватки с ним вы пока слишком слабы. Да и <clr>скальпы ваши остались у вождя<clrEnd>, так что теперь придется собирать их заново. Зато уважение к вам поднялось на [p7]% - вы бросили вызов самому вождю!"	"Quest Pachvarash.qmm: locations.49.texts.0.text. Preserve every <tag> exactly. English reference: You turned away and run, accepting your defeat. A victorious roar of the pachvarashes' Chief could be heard behind. You were too weak to fight him. All <clr>your scalps remained with the Chief<clrEnd>, to you'll have to collect them again. On the other hand, the others' respect for you increased by [p7]% - you challenged the Chief himself!"	"Quest,Pachvarash"	"Вы разьвярнуліся і кінуліся бегчы, прызнаючы сваю паразу. Вам усьлед раздаваўся пераможны рык правадыра пачварашаў. Мусіць, для сутычкі з ім вы пакуль занадта слабыя. Ды і <clr>скальпы вашыя засталіся ў правадыра<clrEnd>, так што цяпер давядзецца зьбіраць іх наноў. Затое павага да вас паднялася на [p7]% — вы кінулі выклік самому правадыру!"
+"/quests/Pachvarash.qmm/locations/49/texts/1/text"	"Вы развернулись и бросились бежать, признавая свое поражение. Вам вслед раздавался победный рык вождя пачварашей. Пожалуй, для схватки с ним вы пока слишком слабы. Да и <clr>скальпы ваши остались у вождя<clrEnd>, так что теперь придется собирать их заново. А вот уважение к вам не изменилось - с одной стороны, вы проиграли схватку, но с другой стороны, бились-то вы не с кем попало, а с самим вождем!"	"Quest Pachvarash.qmm: locations.49.texts.1.text. Preserve every <tag> exactly. English reference: You turned away and run, accepting your defeat. A victorious roar of the pachvarashes' Chief could be heard behind. You were too weak to fight him. All <clr>your scalps remained with the Chief<clrEnd>, to you'll have to collect them again. However other pachvarashes' respect for you did not change - you lost the fight, but on the other hand you fought the chief himself!"	"Quest,Pachvarash"	"Вы разьвярнуліся і кінуліся бегчы, прызнаючы сваю паразу. Вам усьлед раздаваўся пераможны рык правадыра пачварашаў. Мусіць, для сутычкі з ім вы пакуль занадта слабыя. Ды і <clr>скальпы вашыя засталіся ў правадыра<clrEnd>, так што цяпер давядзецца зьбіраць іх наноў. А вось павага да вас не зьмянілася — з аднаго боку, вы прайгралі сутычку, але з другога боку біліся вы не з абы-кім, а з самім правадыром!"
 "/quests/Pachvarash.qmm/jumps/0/text"	"Вылезти и посмотреть на каменную таблицу"	"Quest Pachvarash.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Get out and look at the stone plate"	"Quest,Pachvarash"	"Вылезьці і паглядзець на каменную табліцу"
 "/quests/Pachvarash.qmm/jumps/2/text"	"Что ж, я очень рад! А теперь извините - мне пора в космопорт..."	"Quest Pachvarash.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Well, I'm really glad! Now excuse me - I have to go to the spaceport..."	"Quest,Pachvarash"	"Што ж, я вельмі рады! А цяпер прабачце — мне пара ў касмапорт..."
 "/quests/Pachvarash.qmm/jumps/3/text"	"Как же так?! Ведь мне говорили, что тысячи пеленгов проходят этот ритуал ежегодно!!!"	"Quest Pachvarash.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: How come?! They told me thousands of Pelengs pass this ritual every year!!!"	"Quest,Pachvarash"	"Як жа так?! Бо мне казалі, што тысячы пеленгаў праходзяць гэты рытуал штогод!!!"
