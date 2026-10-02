@@ -792,14 +792,14 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам		Coalition race; capital at sentence start	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай		Coalition race; capital at sentence start	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна		photofit label; и to і	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
 lemma.narrow_eyed	узкоглазый	narrow-eyed	вузкавокі/Вузкавокі	завузкі	Starnik adjective; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/103039
 lemma.mega	мега	mega	Мэга/мэга		prefix; already in мэга-бур; capital label Мега-рокер	Photorobot.qmm
 lemma.jerome	Джером	Jerome	Джэром		detective Jerome Banks	Photorobot.qmm
-lemma.banks	Бэнкс	Banks	Бэнкс		detective Jerome Banks	Photorobot.qmm
+lemma.banks	Бэнкс	Banks	Бэнкс/Бэнкса		detective Jerome Banks	Photorobot.qmm
 lemma.photo_lisp	ногмальный	r-to-g speech	Нагмальны/нагмальных/кагтавы		witness swaps р for г while denying he is картавы	Photorobot.qmm
 lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects меню	Photorobot.qmm
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
@@ -815,7 +815,7 @@ lemma.svarokok	сварокок	svarokok	сваракока		chocolate paws	Phot
 lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/оннарайкі		blue pineapple; one farm	Photorobot.qmm
 lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
 lemma.extruder	экструдер	extruder	экструдар/Экструдар/экструдары/экструдараў/экстрударах		faeyan dessert on a stick	Photorobot.qmm
-lemma.makhpella	Махпелла	Makhpella	Махпэла/Лайт		beer brand	Photorobot.qmm
+lemma.makhpella	Махпелла	Makhpella	Махпэла/Махпэлу/Махпэлы/Лайт/Дарк		beer brand; curse and Dark variety	Photorobot.qmm
 lemma.slime	слизь	slime	слізь		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
 lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Photorobot.qmm
 lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
@@ -828,3 +828,6 @@ lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
+lemma.notiksov	Эндрю Нотиксов	Andrew Notiksov	Эндру/Ноціксаў		Banks's assistant	Photorobot.qmm
+lemma.pacifist	Боб Пацифист	Bob Pacifist	Боб/Пацыфіст/Пацыфістам		Citadel player with a mohawk	Photorobot.qmm
+lemma.citadel	Цитадель	Citadel	Цытадэль		game the pacifist plays	Photorobot.qmm
