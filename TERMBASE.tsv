@@ -116,7 +116,7 @@ lemma.airlock	шлюз	airlock	шлюз		Starnik	—
 lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
-lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl карпусы, родны карпусоў	—
+lemma.hull_pl	корпуса	hulls	карпусы/карпус		Starnik: ship/mech pl карпусы, родны карпусоў	—
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
@@ -138,7 +138,7 @@ lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not 
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер		proper name lock; series блазероід	—
 lemma.keller	Келлер	Keller	Келлер		proper name lock; G Келлера; series келероід	—
-lemma.terron	Террон	Terron	Террон		proper name lock; series тераноід	—
+lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
 lemma.relations	отношение	attitude/relations	адносіны		Starnik: pluralia tantum; diplomatic/race standing. дачыненне = 'bearing on', not this UI. Types: Варожыя/Дрэнныя/Нармальныя/Добрыя/Выдатныя	Starnik
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -805,9 +805,9 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
-lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
+lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
 lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана/ііке/баан/бааны		gaal flower dessert; Pizza cooking school	Photorobot.qmm
@@ -941,10 +941,17 @@ lemma.banquet	банкет	banquet	банкет/банкеце/банкету	б
 lemma.drink_strength	крепость	alcohol strength	мацунак	крапасць	degrees of a drink; the kvass example	https://starnik.by/pravapis/42399
 lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
 lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
-lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары		malok prince; Тары is his wife's nickname	Banket.qmm
-lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах		the prince's boom-name; ASCII apostrophe	Banket.qmm
+lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму		malok prince; Тары is his wife's nickname	Banket.qmm
+lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
-lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
+lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
 lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю	хмель	joke hops; keep the extra syllable	Banket.qmm
 lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm
+lemma.absorbal	абсорбуль	absorbal	абсорбуль/абсорбуля		coined banquet cube	Banket.qmm
+lemma.hanna	Ханна	Hanna	Ханна/Ханне		malok princess	Banket.qmm
+lemma.super_rifle	супервинтовка	super rifle	супервінтоўку/супервінтоўка		gift matching the він code; вінтоўка is the rifle	https://starnik.by/pravapis/14724
+lemma.shells	ракушки	shells	ракавінкі/ракавінак	ракушкі	gift matching the рак code; diminutive of ракавіна	https://starnik.by/pravapis/63628
+lemma.satchel	ранец	satchel	ранец/ранца		gift matching the ран code; pack worn on the back	https://starnik.by/pravapis/63768
+lemma.gypsy	цыганка	gypsy	Цыганка/цыганка		fortune-teller; woman, not the apple cultivar	https://starnik.by/pravapis/83056
+lemma.baboom	забабахаю	I'll boom it	забабахаю		pun on ба'Бах in the kinza button	Banket.qmm
