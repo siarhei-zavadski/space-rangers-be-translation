@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу		peleng clerical rank used before a name	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -1090,3 +1090,8 @@ lemma.akinak	акинак	akinakes	акінак/акінакі	асінак	Scyt
 lemma.shuriken	сюрикен	shuriken	сюрыкэн/сюрыкэны	сюрпрыз	throwing star; not in Starnik	Tourists.qmm
 lemma.beamer	лучемет	ion beamer	прамянёмёт/прамянёмёта	лучамёт	ray gun; coined from прамень	https://starnik.by/pravapis/58919
 lemma.coraller	Кораллер	Coraller	Каралер	Каралаў	coral island; coined from карал	https://starnik.by/pravapis/33725
+lemma.bachekvak	Бачеквак	Bachekvak	Бачэквак/Бачэквака		peleng name on the coffin	Tourists.qmm
+lemma.shasapus	Шасапус	Shasapus	Шасапус/Шасапуса		peleng commander	Tourists.qmm
+lemma.urgarrar	Ургаррар	Urgarrar	Ургаррар/Ургаррара		bambay and council candidate	Tourists.qmm
+lemma.bambay	бамбай	bambay	бамбай/бамбая/бамбаю		peleng rank before a name	Tourists.qmm
+lemma.pda	КПК	PDA	КПК		pocket computer; Cyrillic acronym stays	Tourists.qmm
