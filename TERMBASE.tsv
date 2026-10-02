@@ -681,7 +681,7 @@ lemma.gladiator	гладиатор	gladiator	глядыятар	гладыята
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
 lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам/камунікатараў		loan already used in Provoda	—
-lemma.reboot	перезагрузка	reboot	перазагрузка/перазагрузку/перазагрузкі		same word as Дамінатары: Перазагрузка	—
+lemma.reboot	перезагрузка	reboot	перазагрузка/Перазагрузка/перазагрузку/перазагрузкі		same word as Дамінатары: Перазагрузка; button title Перазагрузка	—
 lemma.repair	починка	repair	рамонт	пачынка	G рамонту; пачынка means a beginning	https://starnik.by/pravapis/63736
 lemma.fix	починить	to repair	направіць		machine sense, as направіць станок	https://starnik.by/pravapis/190300
 lemma.bloodlet	кровопускательный	bloodletting	кровапускальны/кровапускальнай	крывепускальны	adj of кровапусканьне; hunspell -ньне	https://starnik.by/pravapis/36916
@@ -769,3 +769,6 @@ lemma.kettle_greenhorn	Чайник Салагин	Kettle Salagin	Чайнік/�
 lemma.osya	Ося Б.	Osya B.	Ося/Осі		Ostap Bender parody; the novel is 12 табурэтак	Park.qmm
 lemma.linerist	лайнеристы-пиктористы	linerist-pictorist	лайнэрысты/піктарысты		joke job after the failed auction	Park.qmm
 lemma.yagusya	Бабуся-Ягуся	Granny Yagusya	Бабуля/Ягуся	Бабуся	cute rhyme on Баба-Яга; hunspell бабуля	Park.qmm
+lemma.sivka	Сивка-Бурка	Sivka-Burka	Сіўка/Бурка/Каурка/Вешчы		horse spell; Вешчы Каурка	Park.qmm
+lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра		door spell split as Абра - Кадабра	Park.qmm
+lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/Скарыкі/Морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word	Park.qmm
