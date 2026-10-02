@@ -672,19 +672,26 @@ What do you do next?"	"Quest,Pachvarash"	"Пасьпееш — усіх нась
 
 Что будем делать дальше?"	"Quest Pachvarash.qmm: locations.18.texts.0.text. Preserve every <tag> exactly. English reference: On the way back to your burrow you suddenly slipped and fell. The weight of [p14] hg makes a pachvarash rather clumsy. It took [p6]% of your health.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Вяртаючыся ў нару, вы выпадкова пасьлізнуліся і ўпалі. Усё ж вага ў [p14] чг робіць пачвараша даволі нязграбным. Гэта каштавала вам [p6]% здароўя.
+
+Што будзем рабіць далей?"
 "/quests/Pachvarash.qmm/locations/18/texts/1/text"	"Хороший уровень уважения ([p12]%) не помешает опытному пачварашу - это вы поняли, когда увидели, что к вам боятся подходить. Лишь иногда позорно кидают камнями и быстро сматываются. Так вышло и в этот раз: трусливый пачвараш кинул камень и убежал. Вы не стали преследовать противника, показывая, что вас такие мелочи нисколько не беспокоят. Подобная крутизна весьма впечатлила пачварашей.
 
 Вы потеряли [p6]% здоровья.
 Ваш поступок принес вам уважение {-[p7]}% пачварашей."	"Quest Pachvarash.qmm: locations.18.texts.1.text. Preserve every <tag> exactly. English reference: A considerable level of respect ([p12]%) is good for an experienced pachvarash - you realised it when you noticed that the others are afraid to approach you. They only dare to throw a stone at you sometimes and run away. That's what happened this time: a cowardly pachvarash threw a stone and fled. You did not follow him to express that such a nuisance does not bother you. Such coolness impressed other pachvarashes a great deal. 
 
 You lost [p6]% of health.
-Your act gained you respect among {-[p7]}% of pachvarashes."	"Quest,Pachvarash"	""
+Your act gained you respect among {-[p7]}% of pachvarashes."	"Quest,Pachvarash"	"Добры ўзровень павагі ([p12]%) не перашкодзіць дасьведчанаму пачварашу — гэта вы зразумелі, калі ўбачылі, што да вас баяцца падыходзіць. Толькі часам ганебна кідаюць камянямі і хутка ўцякаюць. Так выйшла і гэтым разам: палахлівы пачвараш кінуў камень і ўцёк. Вы не сталі перасьледаваць саперніка, паказваючы, што вас такія дробязі ніколькі не турбуюць. Падобная дзёрзкасьць вельмі ўразіла пачварашаў.
+
+Вы страцілі [p6]% здароўя.
+Ваш учынак прынёс вам павагу {-[p7]}% пачварашаў."
 "/quests/Pachvarash.qmm/locations/18/texts/2/text"	"Вы легко добили беспомощного пачвараша и сняли с него скальп. Это [p5]-й скальп в вашей коллекции! Однако ваш подлый поступок вызвал у других пачварашей лишь презрение - ваш уровень уважения упал на [p7]%.
 
 Чем вы займетесь теперь?"	"Quest Pachvarash.qmm: locations.18.texts.2.text. Preserve every <tag> exactly. English reference: You easily finished the helpless pachvarash and took his scalp. It is the [p5]- scalp in your inventory! However your low act produced only disgust among other pachvarashes - your level of respect dropped by [p7]%.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Вы лёгка дабілі бездапаможнага пачвараша і зьнялі зь яго скальп. Гэта [p5]-ы скальп у вашай калекцыі! Аднак ваш подлы ўчынак выклікаў у іншых пачварашаў толькі пагарду — ваш узровень павагі ўпаў на [p7]%.
+
+Чым вы зоймецеся цяпер?"
 "/quests/Pachvarash.qmm/locations/18/texts/3/text"	"Вы наклонились над беспомощным пачварашем, но тот вдруг резко дернулся и укусил вас за ногу! И тут же из близлежащих кустов выскочили другие пачвараши и набросились на вас. Это была ловушка!!!
 
 С огромным трудом вы сумели вырваться и убежать в свою нору.
@@ -697,22 +704,34 @@ You finally managed to escape and run to your burrow.
 
 This cost you [p6]% of health, [p7]% of respect and [p9] hg of weight.
 
-You sat in your burrow healing your wounds, but you must take some decisive actions."	"Quest,Pachvarash"	""
+You sat in your burrow healing your wounds, but you must take some decisive actions."	"Quest,Pachvarash"	"Вы нахіліліся над бездапаможным пачварашам, але той раптам рэзка тузануўся і ўкусіў вас за нагу! І адразу з бліжэйшых кустоў выскачылі іншыя пачварашы і накінуліся на вас. Гэта была пастка!!!
+
+З вялікай цяжкасьцю вы змаглі вырвацца і ўцячы ў сваю нару.
+
+Гэты эпізод каштаваў вам [p6]% здароўя, [p7]% павагі і [p9] чг вагі.
+
+Вы сядзелі ў нары і залізвалі раны. Аднак трэба распачаць і больш рашучыя дзеяньні."
 "/quests/Pachvarash.qmm/locations/18/texts/4/text"	"Вы не стали добивать беспомощного пачвараша, показывая, что у вас нет недостатка в скальпах, и вы предпочитаете добывать их в честном бою. Такая крутизна очень впечатлила других пачварашей, и их уважение к вам выросло на {-[p7]}%.
 
 Не стоит останавливаться на достигнутом! Сидя в норе ритуал не пройти. Пора действовать!"	"Quest Pachvarash.qmm: locations.18.texts.4.text. Preserve every <tag> exactly. English reference: You decided against finishing the helpless pachvarash to show that you have enough scalps and prefer to extract them in a straight fight. Such coolness impressed other pachvarashes a great deal and their respect for you increased by {-[p7]}%.
 
-You should not stop at what has been achieved! You won't pass the ritual by staying in your burrow. It is time to act!"	"Quest,Pachvarash"	""
+You should not stop at what has been achieved! You won't pass the ritual by staying in your burrow. It is time to act!"	"Quest,Pachvarash"	"Вы не сталі дабіваць бездапаможнага пачвараша, паказваючы, што ў вас няма нястачы ў скальпах, і вы аддаяцё перавагу здабываць іх у чэсным баі. Такая дзёрзкасьць вельмі ўразіла іншых пачварашаў, і іх павага да вас вырасла на {-[p7]}%.
+
+Ня варта спыняцца на дасягнутым! Седзячы ў нары, рытуал не прайсьці. Пара дзейнічаць!"
 "/quests/Pachvarash.qmm/locations/18/texts/5/text"	"Вернувшись в нору, вы обнаружили, что у вас <clr>украли один скальп<clrEnd>!!! Видать, уровень уважения в [p12]% не испугал воров, а обыскать нору длиной в [p13] ар труда не составляло...
 
 Вы были вне себя от ярости! Что бы такое теперь сделать?!"	"Quest Pachvarash.qmm: locations.18.texts.5.text. Preserve every <tag> exactly. English reference: Once you returned to the burrow you discovered that a <clr>scalp was stolen <clrEnd>!!! It looks like the respect of [p12]% did not keep away the thief, while it was not hard to search a burrow [p13] ar deep...
 
-You were filled with rage! What should be done now?!"	"Quest,Pachvarash"	""
+You were filled with rage! What should be done now?!"	"Quest,Pachvarash"	"Калі вы вярнуліся ў нару, вы выявілі, што ў вас <clr>скралі адзін скальп<clrEnd>!!! Відаць, узровень павагі ў [p12]% не напалохаў зладзеяў, а абшукаць нару даўжынёй у [p13] ар працы не складала...
+
+Вы былі па-за сабой ад шаленства! Што б такое цяпер зрабіць?!"
 "/quests/Pachvarash.qmm/locations/18/texts/6/text"	"Вернувшись в нору, вы застали ужасную картину - все было перевернуто вверх дном! Пока вы отсутствовали, кто-то явно проник в вашу нору с целью похитить один из ваших скальпов. Должно быть, уровня уважения в [p12]% недостаточно, чтобы отпугнуть воров... К счастью, воры не смогли найти тайник в вашей огромной норе ([p13] ар, как-никак!), но из-за их поисков нора осыпалась на {-[p8]} ар.
 
 Может, стоит пойти побить пару-другую пачварашей, чтобы им неповадно было так поступать?"	"Quest Pachvarash.qmm: locations.18.texts.6.text. Preserve every <tag> exactly. English reference: Upon you return to the burrow you discovered everything was upside down! While you were away, someone broke into your burrow to steal one of your scalps. It looks like the level of respect of [p12]% is not enough to keep thieves away... Fortunately the thieves could not find the hiding in your huge burrow ([p13] ar, is really something!), but due to the search, the burrow crumbled by {-[p8]} ar.
 
-Probably you should go and beat up some pachvarashes to make them stay away from you burrow?"	"Quest,Pachvarash"	""
+Probably you should go and beat up some pachvarashes to make them stay away from you burrow?"	"Quest,Pachvarash"	"Калі вы вярнуліся ў нару, вы засьпелі жахлівую карціну — усё было перакуленае дагары дном! Пакуль вы адсутнічалі, хтосьці відавочна пранік у вашу нару, каб выкрасьці адзін з вашых скальпаў. Мусіць, узроўню павагі ў [p12]% недастаткова, каб адпудзіць зладзеяў... На шчасьце, зладзеі не змаглі знайсьці схованку ў вашай вялізнай нары ([p13] ар, як-ніяк!), але праз іхнія пошукі нара асыпалася на {-[p8]} ар.
+
+Можа, варта пайсьці пабіць пару-другую пачварашаў, каб яны больш так не рабілі?"
 "/quests/Pachvarash.qmm/locations/18/texts/7/text"	"Мимо вашей норы пробегал напуганный пачвараш. Он увидел, что вы появились на его пути, и бросился с палкой на вас. Вы постарались сдержать палку и поймали ее лапами, но пачвараш ловко повернулся и укусил вас острыми зубами в плечо. Резкая боль пронзила мышцы плеча. Вы взревели. Рев был достаточно громкий, он напугал соперника, тот нервно оглянулся и бросился бежать.
 
 Вы потеряли [p6]% здоровья и [p9] чг веса.
@@ -723,17 +742,26 @@ Probably you should go and beat up some pachvarashes to make them stay away from
 You lost [p6]% of health and [p9] hg of weight.
 The others' respect for you increased by {-[p7]}%.
 
-You will have to heal your wounds and tolerate attacks of enemies until the others' respect for you is higher."	"Quest,Pachvarash"	""
+You will have to heal your wounds and tolerate attacks of enemies until the others' respect for you is higher."	"Quest,Pachvarash"	"Міма вашай нары прабягаў спалоханы пачвараш. Ён убачыў, што вы зьявіліся на ягоным шляху, і кінуўся з палкай на вас. Вы пастараліся стрымаць палку і злавілі яе лапамі, але пачвараш спрытна павярнуўся і ўкусіў вас вострымі зубамі ў плячо. Рэзкі боль пранізаў мышцы пляча. Вы зараўлі. Роў быў дастаткова гучны, ён напалохаў саперніка, той нэрвова азірнуўся і кінуўся бегчы.
+
+Вы страцілі [p6]% здароўя і [p9] чг вагі.
+Павага да вас вырасла на {-[p7]}%.
+
+Пакуль павага навакольных не стане вышэйшай, вам давядзецца цярпець напады ворагаў і залізваць раны!"
 "/quests/Pachvarash.qmm/locations/18/texts/8/text"	"Уровень уважения к вам равен [p12]%! Это отличный показатель. Окружающие боятся вас. Когда вы возвращались в свою нору, все старались как можно быстрее спрятаться, чтобы не нарваться на неприятности. Вам это очень нравилось. От хорошего настроения ваше здоровье увеличилось на {-[p6]}%.
 
 Чем вы займетесь теперь?"	"Quest Pachvarash.qmm: locations.18.texts.8.text. Preserve every <tag> exactly. English reference: The level of the others' respect for you is [p12]%! It is an excellent result. They are afraid of you. While you returned to your burrow everybody tried to hide to avoid problems. You liked it a lot! Thanks to the great mood your heals increased by {-[p6]}%.
 
-What do you do now?"	"Quest,Pachvarash"	""
+What do you do now?"	"Quest,Pachvarash"	"Узровень павагі да вас роўны [p12]%! Гэта выдатны паказьнік. Навакольныя баяцца вас. Калі вы вярталіся ў сваю нару, усе стараліся як мага хутчэй схавацца, каб не наскочыць на непрыемнасьці. Вам гэта вельмі падабалася. Ад добрага настрою ваша здароўе павялічылася на {-[p6]}%.
+
+Чым вы зоймецеся цяпер?"
 "/quests/Pachvarash.qmm/locations/18/texts/9/text"	"Подходя к норе, вы вдруг услышали страшный грохот. Оказывается, дальняя часть норы не выдержала веса почвы и обвалилась. Сказалась слишком большая длина норы, аж [p13] ар. Теперь, правда, ваша нора стала на {-[p8]} ар короче.
 
 Что будем делать?"	"Quest Pachvarash.qmm: locations.18.texts.9.text. Preserve every <tag> exactly. English reference: While approaching the burrow you head a terrible rumble. It turned out that the far end of the burrow collapsed under the weight of the soil. The burrow was too deep - the whole [p13] ar. But now your burrow is shallower by {-[p8]} ar.
 
-What are you going to do?"	"Quest,Pachvarash"	""
+What are you going to do?"	"Quest,Pachvarash"	"Падыходзячы да нары, вы раптам пачулі страшэнны грукат. Аказваецца, далёкая частка нары не вытрымала вагі глебы і абвалілася. Адбілася занадта вялікая даўжыня нары, аж [p13] ар. Цяпер, праўда, ваша нара стала на {-[p8]} ар карацейшай.
+
+Што будзем рабіць?"
 "/quests/Pachvarash.qmm/locations/19/texts/0/text"	"Начинаешь копать - сразу в голове возникают философские мысли, если их так можно назвать. Зачем пачварашу копать яму размером <clr>50 ар<clrEnd>? Неужели там надо будет растить детей? Ну да ладно, не стоит отвлекаться. Вы рыли, стараясь, чтобы каждое ваше движение было точным и эффективным. Работа шла легко и весело.
 
 Вы углубили нору на [p8] ар.
