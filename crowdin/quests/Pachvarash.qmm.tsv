@@ -772,12 +772,19 @@ What are you going to do?"	"Quest,Pachvarash"	"Падыходзячы да на�
 You deepened the burrow by [p8] ar.
 The others' respect for you decreased by [p7]%.
 
-It's time to move on."	"Quest,Pachvarash"	""
+It's time to move on."	"Quest,Pachvarash"	"Пачынаеш капаць — адразу ў галаве ўзьнікаюць філязофскія думкі, калі іх так можна назваць. Навошта пачварашу капаць яму памерам <clr>50 ар<clrEnd>? Няўжо там трэба будзе гадаваць дзяцей? Ну ды добра, ня варта адцягвацца. Вы рылі, стараючыся, каб кожны ваш рух быў дакладны і эфэктыўны. Праца ішла лёгка і весела.
+
+Вы паглыбілі нару на [p8] ар.
+Павага да вас панізілася на [p7]%.
+
+Пара дзейнічаць далей."
 "/quests/Pachvarash.qmm/locations/19/texts/1/text"	"Масса тела не всегда играет положительную роль в жизни пачвараша. Только вы начали рыть, как под давлением вашего грузного тела из недр почвы на вас хлынула вязкая жидкость - болото теперь в вашей норе. Хорошо, что вы рыли аккуратно, и успели уйти ближе к выходу до того, как завалило {-[p8]} ар вашей норы. Вам предстоит рыть в другом направлении. Убегая вы повредили ногу, {-[p6]}% здоровья.
 
 Что будем делать?"	"Quest Pachvarash.qmm: locations.19.texts.1.text. Preserve every <tag> exactly. English reference: The role of the weight is not always positive in a pachvarach's life. Once you began to dig, under your heavy body sticky liquid flushed from beneath, your burrow turned into a swamp. Fortunately you were careful and were just in time to move closer to the exit when {-[p8]} ar of your burrow collapsed. You will have to dig in another direction. While escaping, you hurt your leg, {-[p6]}% of health.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Маса цела не заўсёды грае станоўчую ролю ў жыцьці пачвараша. Толькі вы пачалі рыць, як пад ціскам вашага грузнага цела з нетраў глебы на вас хлынула глейкая вадкасьць — балота цяпер у вашай нары. Добра, што вы рылі акуратна і пасьпелі адысьці бліжэй да выхаду да таго, як заваліла {-[p8]} ар вашай нары. Вам трэба будзе рыць у іншым кірунку. Уцякаючы, вы пашкодзілі нагу, {-[p6]}% здароўя.
+
+Што будзем рабіць?"
 "/quests/Pachvarash.qmm/locations/19/texts/2/text"	"Вы копали медленно, не торопясь. Конечно, такими темпами много не накопаешь, но зато вы и совсем не устали!
 
 Вы углубили нору на [p8] ар.
@@ -788,7 +795,12 @@ What do you do next?"	"Quest,Pachvarash"	""
 You deepened the burrow by [p8] ar.
 The others' respect for you decreased by [p7]%.
 
-Let's move on!"	"Quest,Pachvarash"	""
+Let's move on!"	"Quest,Pachvarash"	"Вы капалі паволі, не сьпяшаючыся. Вядома, такімі тэмпамі шмат не накапаеш, але затое вы зусім не стаміліся!
+
+Вы паглыбілі нару на [p8] ар.
+Павага да вас панізілася на [p7]%.
+
+Працягнем!"
 "/quests/Pachvarash.qmm/locations/19/texts/3/text"	"Вы принялись неторопливо рыть нору. Да и не побегаешь особо, если ваш вес составляет [p14] чг! От каждого движения пот катился с вас градом.
 
 Вы углубили нору на [p8] ар.
@@ -801,12 +813,20 @@ You deepened the burrow by [p8] ar.
 Due to the hard work you lost [p9] hg of weight.
 The others' respect for you decreased by [p7]%.
 
-What do you do now?"	"Quest,Pachvarash"	""
+What do you do now?"	"Quest,Pachvarash"	"Вы ўзяліся нетаропка рыць нару. Ды і не пабегаеш асабліва, калі ваша вага складае [p14] чг! Ад кожнага руху пот каціўся з вас градам.
+
+Вы паглыбілі нару на [p8] ар.
+Ад фізычнай працы вы схуднелі на [p9] чг вагі.
+Павага да вас панізілася на [p7]%.
+
+Што ж зрабіць зараз?"
 "/quests/Pachvarash.qmm/locations/19/texts/4/text"	"Когда копаешь такую маленькую нору, как у вас, можно особо не напрягаться. Вы и не напрягались, но при этом скоро углубили свою нору на целых [p8] ар. Правда, другие пачвараши видели, какая у вас маленькая нора, и это никак не могло повысить их уважение к вам. Скорее наоборот - оно понизилось на [p7]%.
 
 Что будем делать теперь?"	"Quest Pachvarash.qmm: locations.19.texts.4.text. Preserve every <tag> exactly. English reference: There's no need to work hard while digging such a small burrow. You did not, but soon deepened your burrow by [p8] ar. However, other pachvarashes saw how shallow is your burrow and that did not add to their respect for you. Quite the opposite - it dropped by [p7]%.
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Калі капаеш такую маленькую нару, як у вас, можна асабліва не напружвацца. Вы і не напружваліся, але пры гэтым хутка паглыбілі сваю нару на цэлых [p8] ар. Праўда, іншыя пачварашы бачылі, якая ў вас маленькая нара, і гэта ніяк не магло павысіць іхнюю павагу да вас. Хутчэй наадварот — яна панізілася на [p7]%.
+
+Што будзем рабіць цяпер?"
 "/quests/Pachvarash.qmm/locations/19/texts/5/text"	"Вы начали аккуратно рыть нору, вынося лишнюю землю наружу, но другие пачвараши из озорства принялись забрасывать ее обратно! Несколько комков земли больно ударили вас по голове. Почему-то пачвараши нисколько вас не боялись. Видать, ваш уровень уважения в [p12]% и вес в [p14] чг совсем этому не способствовали. Вы были вынуждены прекратить рытье норы.
 
 Вам все-таки удалось углубить нору на [p8] ар.
@@ -819,7 +839,13 @@ You finally managed to deepen the burrow by [p8] ar.
 The others' respect for you decreased by [p7]%.
 Your health got worse by [p6]%.
 
-It is time to increase your authority!"	"Quest,Pachvarash"	""
+It is time to increase your authority!"	"Quest,Pachvarash"	"Вы пачалі акуратна рыць нару, выносячы лішнюю зямлю вонкі, але іншыя пачварашы дзеля свавольства ўзяліся закідваць яе назад! Некалькі камякоў зямлі балюча ўдарылі вас па галаве. Чамусьці пачварашы ніколькі вас не баяліся. Відаць, ваш узровень павагі ў [p12]% і вага ў [p14] чг зусім гэтаму не спрыялі. Вы былі вымушаныя спыніць рыцьцё нары.
+
+Вам усё ж удалося паглыбіць нару на [p8] ар.
+Павага да вас панізілася на [p7]%.
+Здароўе пагоршылася на [p6]%.
+
+Пара павышаць свой аўтарытэт!"
 "/quests/Pachvarash.qmm/locations/19/texts/6/text"	"Вы копали нору аккуратно и методично, и так этим увлеклись, что не заметили, как вам на голову с потолка норы свалился большой булыжник. Разозлившись, вы решили немедленно прекратить копку.
 
 Вы углубили нору на [p8] ар.
@@ -832,7 +858,13 @@ You deepened the burrow by [p8] ar.
 The other's respect for you decreased by [p7]%.
 After the hit in the head the health got worse by [p6]%.
 
-What should you do?"	"Quest,Pachvarash"	""
+What should you do?"	"Quest,Pachvarash"	"Вы капалі нару акуратна і мэтадычна, і так гэтым захапіліся, што не заўважылі, як вам на галаву са столі нары зваліўся вялікі валун. Раззлаваўшыся, вы вырашылі неадкладна спыніць капаньне.
+
+Вы паглыбілі нару на [p8] ар.
+Павага да вас панізілася на [p7]%.
+Праз удар па галаве здароўе пагоршылася на [p6]%.
+
+Чым бы заняцца?"
 "/quests/Pachvarash.qmm/locations/19/texts/7/text"	"Хорошо, когда тебя уважают [p12]% пачварашей! Вы копали нору целый день, и вам никто не посмел помешать. Правда, под конец вы почувствовали себя слегка разбитым, но зато какой объем работы вы сегодня проделали!
 
 Вы углубили нору на [p8] ар.
@@ -843,7 +875,12 @@ What should you do?"	"Quest,Pachvarash"	""
 You deepened the burrow by [p8] ar.
 Due to the heavy work you lost [p9] hg of weight.
 You got tired and lost [p6]% of health.
-The others' respect for you decreased by [p7]%."	"Quest,Pachvarash"	""
+The others' respect for you decreased by [p7]%."	"Quest,Pachvarash"	"Добра, калі цябе паважаюць [p12]% пачварашаў! Вы капалі нару цэлы дзень, і вам ніхто не пасьмеў перашкодзіць. Праўда, пад канец вы адчулі сябе зьлёгку разьбітым, але затое які аб'ём працы вы сёньня зрабілі!
+
+Вы паглыбілі нару на [p8] ар.
+Ад доўгай працы вы скінулі [p9] чг вагі.
+Стома каштавала вам [p6]% здароўя.
+Павага да вас панізілася на [p7]%."
 "/quests/Pachvarash.qmm/locations/19/texts/8/text"	"Ваша нора была такая длинная ([p13] ар!), что вам приходилось долго таскать на себе тяжелые комья земли к выходу. Это далеко не лучшим образом сказалось на вашем состоянии.
 
 Вы углубили нору на [p8] ар.
@@ -858,12 +895,21 @@ Due to the heavy work you lost [p9] hg of weight.
 You lost [p6]% of health.
 The others' respect for you decreased by [p7]%.
 
-Probably you should switch to something different?"	"Quest,Pachvarash"	""
+Probably you should switch to something different?"	"Quest,Pachvarash"	"Ваша нара была такая доўгая ([p13] ар!), што вам даводзілася доўга цягаць на сабе цяжкія камякі зямлі да выхаду. Гэта далёка не найлепшым чынам адбілася на вашым стане.
+
+Вы паглыбілі нару на [p8] ар.
+Ад цяжкай працы вы скінулі [p9] чг вагі.
+Вы страцілі [p6]% здароўя.
+Павага да вас панізілася на [p7]%.
+
+Можа, варта заняцца чымсьці іншым?"
 "/quests/Pachvarash.qmm/locations/19/texts/9/text"	"Аккуратная работа и хорошее здоровье способствуют наблюдательности! Вы вдруг обратили внимание, что слева почва имеет более светлый оттенок. Это же наслоение подземного песчаника! Копать его значительно проще, чем обычную почву. Вы стали рыть в том направлении, и без особых усилий увеличили длину своей норы на [p8] ар!
 
 Что дальше?"	"Quest Pachvarash.qmm: locations.19.texts.9.text. Preserve every <tag> exactly. English reference: A careful work and good health ensure a quick eye! You suddenly noticed that soil to the left has a lighter tint. That was a layer of sandstone! It is easier to dig than common soil. You began digging in that direction and easily deepened your burrow by [p8] ar!
 
-What's next?"	"Quest,Pachvarash"	""
+What's next?"	"Quest,Pachvarash"	"Акуратная праца і добрае здароўе спрыяюць назіральнасьці! Вы раптам зьвярнулі ўвагу, што зьлева глеба мае сьвятлейшае адценьне. Гэта ж напластаваньне падземнага пясчаніку! Капаць яго значна прасьцей, чым звычайную глебу. Вы сталі рыць у тым кірунку і без асаблівых намаганьняў павялічылі даўжыню сваёй нары на [p8] ар!
+
+Што далей?"
 "/quests/Pachvarash.qmm/locations/29/texts/0/text"	"Это просто самоубийство - вызывать на бой крутых пачварашей, когда ваш вес составляет всего [p14] чг! Первым же ударом ваш могучий соперник повалил вас на землю, после чего принялся жестоко вас избивать. Он пинал вас ногами и кусал, вырывая из вашего тела большие куски мяса. От смерти и снятия скальпа вас спасло только то, что вашего соперника вызвал на поединок какой-то другой пачвараш, и вы смогли уползти с поля боя и немного отлежаться.
 
 Вы лишились [p6]% здоровья.
