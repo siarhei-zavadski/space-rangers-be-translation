@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі/МАЛОКАЎ		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца/Гаалец/гаальская/гаальскай/Гаальцы/Гаальскі/Гаальскія		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -1125,12 +1125,13 @@ lemma.yu	Ю	Yu	Ю		name token in Хи Ю Ань	Gaidnet.qmm
 lemma.stokator	стокаторный	stokator	стакатарны/стакатарнага		coined device in the bulletin	Gaidnet.qmm
 lemma.zhizhometer	жижометр	zhizhometer	жыжамэтар/жыжамэтра		coined device in the bulletin	Gaidnet.qmm
 lemma.dropdead	Выньдабрось	Dropdeadfred	Вымідыкінь	Выньдабрось	fused вымі ды кінь; home planet	Robots.qmm
-lemma.fan	фанат	fan	фанат/фанаты/фанатаў	фантаў	supporter; hunspell suggests a different word	https://starnik.by/pravapis/79472
+lemma.fan	фанат	fan	фанат/фанаты/фанатаў/Фанаты	фантаў	supporter; hunspell suggests a different word	https://starnik.by/pravapis/79472
 lemma.enemy_hud	БП	enemy ammo	БП/РП/ТП		short HUD labels; initials still read блястэр, ракеты, тарпэды	Robots.qmm
 lemma.terminator	Терминатор	Terminator	Тэрмінатар		quest NPC; Starnik sense is the day-night line, same loanword spelling	https://starnik.by/pravapis/77352
 lemma.jaklo	Жакло	Jaklo	Жакло		fighter name; English joke is a different name	Robots.qmm
 lemma.kaakdam	КаакДам	Kaakdam	КаакДам/КаакДама/КаакДамам		fighter name token	Robots.qmm
 lemma.dzen	Дзен	Dzen	Дзэн	Дзен	fighter name; Zen pun stays the Russian name	Robots.qmm
 lemma.kachan	Кочан	Kochan	Качан/Качана/Качанам	Кочан	cabbage pun in the fighter name	Robots.qmm
-lemma.sylvester	Сильвестр	Silvester	Сыльвэстар/Сыльвэстрам	Сільвестр	Steel Silvester; hunspell suggestions are other words	Robots.qmm
-lemma.battlemech	БаттлМех	BattleMech	БатлМэх/БатлМэха	БаттлМех	combat robot class	Robots.qmm
+lemma.sylvester	Сильвестр	Silvester	Сыльвэстар/Сыльвэстрам/Сыльвэстра	Сільвестр	Steel Silvester; hunspell suggestions are other words	Robots.qmm
+lemma.battlemech	БаттлМех	BattleMech	БатлМэх/БатлМэха/БатлМэхам/БатлМэху/БатлМэхах	БаттлМех	combat robot class	Robots.qmm
+lemma.kachan_pun	оКОЧАНел	okochanel	аКАЧАНеў	акачанеў	heard joke; the highlight still selects Качан	Robots.qmm
