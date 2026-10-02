@@ -1174,7 +1174,12 @@ Now you can take the trophy to your burrow."	"Quest,Pachvarash"	""
 You gained [p9] hg of weight and lost [p7]% of respect.
 The burrow crumbled by [p8] ar.
 
-It is time to move on."	"Quest,Pachvarash"	""
+It is time to move on."	"Quest,Pachvarash"	"Вы перакусілі першай травой, што трапілася. Было не вельмі смачна, але затое ніхто вас не патрывожыў.
+
+Дадалося [p9] чг вагі і зьнікла [p7]% павагі.
+Нара асыпалася на [p8] ар.
+
+Пара дзейнічаць далей."
 "/quests/Pachvarash.qmm/locations/31/texts/1/text"	"Трава возле вашего дома имела странный желтоватый оттенок. Должно быть, она была не первой свежести. Тем не менее, вы принялись набивать ей свое брюхо, пока вас не начало пучить. Вскоре вас стошнило прямо возле норы, и вам сразу же стало легче.
 
 Тем не менее, вы потяжелели на [p9] чг.
@@ -1187,7 +1192,13 @@ Nevertheless you gained [p9] hg.
 You lost [p7]% of respect and [p6]% of health.
 The burrow crumbled a little - by [p8] ar.
 
-What's next?"	"Quest,Pachvarash"	""
+What's next?"	"Quest,Pachvarash"	"Трава каля вашай нары мела дзіўнае жаўтаватае адценьне. Мусіць, яна была не першай сьвежасьці. Тым ня менш, вы ўзяліся набіваць ёю свой жывот, пакуль вас не пачало пучыць. Неўзабаве вас званітавала проста каля нары, і вам адразу стала лягчэй.
+
+Тым ня менш, вы пацяжэлі на [p9] чг.
+Зьнікла [p7]% павагі і [p6]% здароўя.
+Нара зьлёгку асыпалася і стала карацейшай на [p8] ар.
+
+Што далей?"
 "/quests/Pachvarash.qmm/locations/31/texts/2/text"	"Плохо, когда вас уважают лишь [p12]% пачварашей! Вот и теперь - только вы, никого не трогая, приступили к скромной трапезе возле своей норы, как на вас набросился какой-то агрессивный пачвараш и принялся кусать вас! Хорошо, что ваша нора была рядом - вы юркнули туда и принялись закидывать обидчика комками земли, пока тот не был вынужден убраться восвояси.
 
 Вы успели набрать [p9] чг веса.
@@ -1198,7 +1209,12 @@ What's next?"	"Quest,Pachvarash"	""
 You gained [p9] hg of weight.
 Your health worsened by [p6]%.
 The courageous repulsion won you respect of {-[p7]}% pachvarashes.
-Your actions led to a small landslide in your burrow, which got shallower by [p8] ar."	"Quest,Pachvarash"	""
+Your actions led to a small landslide in your burrow, which got shallower by [p8] ar."	"Quest,Pachvarash"	"Кепска, калі вас паважаюць толькі [p12]% пачварашаў! Вось і цяпер — толькі вы, нікога не чапаючы, узяліся да сьціплай трапэзы каля сваёй нары, як на вас накінуўся нейкі агрэсіўны пачвараш і ўзяўся кусаць вас! Добра, што ваша нара была побач — вы шмыгнулі туды і ўзяліся закідваць крыўдзіцеля камякамі зямлі, пакуль той не быў вымушаны забрацца прэч.
+
+Вы пасьпелі набраць [p9] чг вагі.
+Здароўе пагоршылася на [p6]%.
+Сьмелы адпор ворагу прынёс вам павагу {-[p7]}% пачварашаў.
+Праз вашыя дзеяньні ў нары здарыўся невялікі абвал, які скараціў яе даўжыню на [p8] ар."
 "/quests/Pachvarash.qmm/locations/31/texts/3/text"	"Зачем вам далеко ходить, если ваш вес и так составляет [p14] чг? Вы улеглись прямо возле норы и принялись набивать рот первой же попавшейся травой. Другие пачвараши, видя, какой вы жирный и ленивый, исполнились презрения к вам. Наконец один из них не выдержал и запустил в вас камнем. Вы решили, что пора прекратить трапезу, и спрятались в норе.
 
 Вы прибавили [p9] чг.
@@ -1213,7 +1229,14 @@ The respect dropped by [p7]%.
 The hit of the stone in your head cost you [p6]% of health.
 The burrow crumbled by [p8] ar
 
-What do you do next?"	"Quest,Pachvarash"	""
+What do you do next?"	"Quest,Pachvarash"	"Навошта вам далёка хадзіць, калі ваша вага і так складае [p14] чг? Вы ўлегліся проста каля нары і ўзяліся набіваць рот першай травой, што трапілася. Іншыя пачварашы, бачачы, які вы тлусты і лянівы, напоўніліся пагардай да вас. Нарэшце адзін з іх не вытрываў і шпурнуў у вас камень. Вы вырашылі, што пара спыніць трапэзу, і схаваліся ў нары.
+
+Вы дадалі [p9] чг.
+Павага ўпала на [p7]%.
+Удар каменем па галаве каштаваў вам [p6]% здароўя.
+Нара за гэты час асыпалася на [p8] ар.
+
+Што будзем рабіць цяпер?"
 "/quests/Pachvarash.qmm/locations/31/texts/4/text"	"Когда ваш вес всего [p14] чг, а уважение - лишь [p12]%, то тут уже не до деликатесов. Вы выбежали из норы, нарвали первой же попавшейся травы и юркнули обратно, пока вас никто не заметил. Вам повезло, и никто вам не помешал. Сидя в норе, вы наспех сжевали добытую охапку травы, даже нора не успела осыпаться.
 
 Вы прибавили [p9] чг веса.
@@ -1224,7 +1247,12 @@ What do you do next?"	"Quest,Pachvarash"	""
 You gained [p9] hg of weight.
 The stress took [p6]% of health.
 
-It is time for more decisive actions!"	"Quest,Pachvarash"	""
+It is time for more decisive actions!"	"Quest,Pachvarash"	"Калі ваша вага ўсяго [p14] чг, а павага — толькі [p12]%, то тут ужо не да ласункаў. Вы выбеглі з нары, нарвалі першай травы, што трапілася, і шмыгнулі назад, пакуль вас ніхто не заўважыў. Вам пашанцавала, і ніхто вам не перашкодзіў. Седзячы ў нары, вы насьпех зжавалі здабыты снапок травы, нават нара не пасьпела асыпацца.
+
+Вы дадалі [p9] чг вагі.
+Нэрвовы стрэс каштаваў вам [p6]% здароўя.
+
+Пара дзейнічаць больш рашуча!"
 "/quests/Pachvarash.qmm/locations/31/texts/5/text"	"Вы спокойно ели возле своей норы, и вас никто не беспокоил. Как вдруг из глубины норы раздался страшный грохот - похоже, в вашей длинной норе (аж [p13] ар!) случился обвал...
 
 Вы стали тяжелее на [p9] чг.
@@ -1237,7 +1265,13 @@ You gained [p9] hg.
 The burrow crumbled by [p3] ar.
 The others' respect for you decreased by [p7]%.
 
-What do you plan to do next?"	"Quest,Pachvarash"	""
+What do you plan to do next?"	"Quest,Pachvarash"	"Вы спакойна елі каля сваёй нары, і вас ніхто не турбаваў. Як раптам з глыбіні нары пачуўся страшэнны грукат — мусіць, у вашай доўгай нары (аж [p13] ар!) здарыўся абвал...
+
+Вы сталі цяжэйшыя на [p9] чг.
+Нара абвалілася на [p3] ар.
+Павага навакольных паменшылася на [p7]%.
+
+Якія вашыя далейшыя пляны?"
 "/quests/Pachvarash.qmm/locations/31/texts/6/text"	"Вы выбрались из норы. Справа отличное место перекусить водянистой и противной травой. На вид она, конечно, противная, а вот на вкус ничего так. Вам повезло! Но, кажется, разум и чувства цивилизованного гуманоида начали совсем покидать вас.
 
 Тремя глазами вы следили за тем, что ели, а оставшиеся три следили за окружающей обстановкой. Да уж, шесть глаз не помешали бы и в реальной жизни!
@@ -1254,12 +1288,22 @@ You gained [p9] hg of weight.
 You should not relax, you lost [p7]% of respect. 
 The burrow crumbled by [p8] ar.
 
-Somewhere nearby you heard shrieks of other pachvarashes and had to stop your meal and retreat to the burrow. What do you do next?"	"Quest,Pachvarash"	""
+Somewhere nearby you heard shrieks of other pachvarashes and had to stop your meal and retreat to the burrow. What do you do next?"	"Quest,Pachvarash"	"Вы выбраліся з нары. Справа выдатнае месца перакусіць вадзяністай і агіднай травой. На выгляд яна, вядома, агідная, а вось на смак зусім нічога. Вам пашанцавала! Але, здаецца, розум і пачуцьці цывілізаванага гуманоіда пачалі зусім пакідаць вас.
+
+Трыма вачыма вы сачылі за тым, што елі, а астатнія тры сачылі за навакольнай абстаноўкай. Ды ўжо, шэсьць вачэй не перашкодзілі б і ў рэальным жыцьці!
+
+Дадалося [p9] чг вагі.
+Не расслабляйцеся, вы страцілі [p7]% павагі. 
+Нара асыпалася на [p8] ар.
+
+Недзе побач вы пачулі віск іншых пачварашаў, таму давялося скончыць з трапэзай і сысьці ў сховішча. Што будзем рабіць цяпер?"
 "/quests/Pachvarash.qmm/locations/31/texts/7/text"	"В этот раз настроение у вас было приподнятое, чему способствовало здоровье в [p11]%. Как раз рядом с норой выросла сочная питательная трава. Вы решили далеко не ходить и съели ее, не обратив внимания на странноватый привкус.
 
 Боль в животе - этого еще не хватало! Вы доползли до пещеры, пролезли через вход и теперь, плохо понимая, что происходит, лежали в ней и бредили. Неизвестно, сколько это продолжалось, но вы потеряли [p6]% здоровья. Через какое-то время снова захотелось есть, а боль в животе прошла. Вы потеряли {-[p9]} чг веса. Нора обвалилась на [p8] ар."	"Quest Pachvarash.qmm: locations.31.texts.7.text. Preserve every <tag> exactly. English reference: This time you had a cheerful mood thanks to the health of [p11]%. Juicy and nutritious grass grew right next to your burrow. You decided against going far and ate it, not noticing a strange taste. 
 
-A pain in the stomach - that would be the last straw! You crawled to the burrow and lied down delirious, hardly understanding what was going on. You don't know how much time had passed, but you lost [p6]% of health. As time went by you felt hungry again and there was no pain in the stomach anymore. You lost {-[p9]} of weight. The burrow crumbled by [p8] ar."	"Quest,Pachvarash"	""
+A pain in the stomach - that would be the last straw! You crawled to the burrow and lied down delirious, hardly understanding what was going on. You don't know how much time had passed, but you lost [p6]% of health. As time went by you felt hungry again and there was no pain in the stomach anymore. You lost {-[p9]} of weight. The burrow crumbled by [p8] ar."	"Quest,Pachvarash"	"Гэтым разам настрой у вас быў падвышаны, чаму спрыяла здароўе ў [p11]%. Якраз побач з нарай вырасла сакавітая пажыўная трава. Вы вырашылі далёка не хадзіць і зьелі яе, не зьвярнуўшы ўвагі на дзіўнаваты прысмак.
+
+Боль у жываце — гэтага яшчэ не хапала! Вы дапаўзьлі да пячоры, пралезьлі праз уваход і цяпер, кепска разумеючы, што адбываецца, ляжалі ў ёй і трызьнілі. Невядома, колькі гэта цягнулася, але вы страцілі [p6]% здароўя. Праз нейкі час зноў захацелася есьці, а боль у жываце прайшоў. Вы страцілі {-[p9]} чг вагі. Нара абвалілася на [p8] ар."
 "/quests/Pachvarash.qmm/locations/31/texts/8/text"	"Только вы вышли из норы, чтобы перекусить жухлой травкой, как вдруг заметили, что в вашу нору быстро забежал какой-то другой пачвараш! Видимо, ваш вес в [p14] чг и уровень уважения в [p12]% не испугали его, и он решил поживиться одним из ваших скальпов!!! Вы в ярости бросились в нору и стали избивать противника. Тот тоже оказался неслабым бойцом, но вы все же смогли его одолеть! Так незадачливый охотник за чужими скальпами пополнил вашу коллекцию своим. 
 
 ""<clr>Кто к нам за скальпом придет, тот без скальпа останется!<clrEnd>"" - сочинили вы афоризм. Жаль, что неспособность говорить не дает вам поделиться этой глубокой мыслью с остальными пачварашами...
@@ -1276,8 +1320,16 @@ The fight cost you [p6]% of health and {-[p9]} hg of weight.
 During the fight, the burrow crumbled by [p8] ar.
 The respect for you increased by {-[p7]}%.
 
-What to do next?"	"Quest,Pachvarash"	""
-"/quests/Pachvarash.qmm/locations/31/texts/9/text"	"Вы вылезли из своей маленькой норы и поели жухлую травку недалеко от входа. Вы прибавили [p9] чг веса, а ваша нора даже не осыпалась. Зато другие пачвараши, увидев вашу жалкую нору длиной всего в [p13] ар, стали уважать вас на [p7]% меньше."	"Quest Pachvarash.qmm: locations.31.texts.9.text. Preserve every <tag> exactly. English reference: You climbed out of your small burrow and ate some stale grass near the entrance. You gained [p9] hg of weight and you borrow did not crumble. As other pachvarashes noticed how shallow your burrow was (only [p13] ar, they lost respect for you by [p7]%."	"Quest,Pachvarash"	""
+What to do next?"	"Quest,Pachvarash"	"Толькі вы выйшлі з нары, каб перакусіць пажухлай траўкай, як раптам заўважылі, што ў вашу нару хутка забег нейкі іншы пачвараш! Відаць, ваша вага ў [p14] чг і ўзровень павагі ў [p12]% не напалохалі яго, і ён вырашыў пажывіцца адным з вашых скальпаў!!! Вы ў шаленстве кінуліся ў нару і сталі зьбіваць саперніка. Той таксама аказаўся дужым байцом, але вы ўсё ж змаглі яго адолець! Так няўдалы паляўнічы на чужыя скальпы папоўніў вашу калекцыю сваім. 
+
+""<clr>Хто да нас па скальп прыйдзе, той без скальпа застанецца!<clrEnd>"" — склалі вы афарызм. Шкада, што няздольнасьць гаварыць не дае вам падзяліцца гэтай глыбокай думкай з астатнімі пачварашамі...
+
+Бойка каштавала вам [p6]% здароўя і {-[p9]} чг вагі.
+Праз бойку нара асыпалася на [p8] ар.
+Павага да вас вырасла на {-[p7]}%.
+
+Чым бы заняцца цяпер?"
+"/quests/Pachvarash.qmm/locations/31/texts/9/text"	"Вы вылезли из своей маленькой норы и поели жухлую травку недалеко от входа. Вы прибавили [p9] чг веса, а ваша нора даже не осыпалась. Зато другие пачвараши, увидев вашу жалкую нору длиной всего в [p13] ар, стали уважать вас на [p7]% меньше."	"Quest Pachvarash.qmm: locations.31.texts.9.text. Preserve every <tag> exactly. English reference: You climbed out of your small burrow and ate some stale grass near the entrance. You gained [p9] hg of weight and you borrow did not crumble. As other pachvarashes noticed how shallow your burrow was (only [p13] ar, they lost respect for you by [p7]%."	"Quest,Pachvarash"	"Вы вылезьлі са сваёй маленькай нары і паелі пажухлую траўку недалёка ад уваходу. Вы дадалі [p9] чг вагі, а ваша нара нават не асыпалася. Затое іншыя пачварашы, убачыўшы вашу жаласьлівую нару даўжынёй усяго ў [p13] ар, сталі паважаць вас на [p7]% менш."
 "/quests/Pachvarash.qmm/locations/32/texts/0/text"	"Вы пришли на отличный лужок в центре деревни и с удивлением обнаружили, что там никого нет! Вам определенно везет. Вы вволю наелись отличной травы, и никто вас не потревожил.
 
 Добавилось [p9] чг веса.
