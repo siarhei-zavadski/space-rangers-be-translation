@@ -101,7 +101,7 @@ lemma.defend	защищать	defend	бараніць		Starnik: ён барон�
 lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
-lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/пілоты/пілотам		Starnik: пілот, not пілёт	—
+lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт	—
 lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
@@ -137,7 +137,7 @@ lemma.appear	появиться	appear	з'явіцца		user lock: apostrophe, n
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
-lemma.keller	Келлер	Keller	Келлер/Келлеру		proper name lock; G Келлера; series келероід	—
+lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
@@ -271,7 +271,7 @@ lemma.snitch	стукач	snitch	даносчык/даносчыцтва	сту�
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
 lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
-lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба		pirate plot weapon; hunspell leftover adj	—
+lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба/кваркавай		pirate plot weapon; hunspell leftover adj	—
 lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/Пачвараш/пачварашамі/пачварашу		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
 lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
@@ -557,7 +557,7 @@ lemma.dirty_schnapps	Грязный Шнапс	Dirty Schnapps	Брудны Шн�
 lemma.bambai_crowd	Бамбаи	Bambais	Бамбаі		crowd shout; LOCK parody extras	—
 lemma.arality	Аралиты	Aralitas	Араліты		crowd shout	—
 lemma.kargas	Каргасы	Kargases	Каргасы		crowd shout	—
-lemma.foncer	Фонсер	foncer	Фонсэр	воін / робат	invented racing mech; keep name, tarask э after consonant (PlanetQuest Фонсэры, UselessItems Фонсэр-999). G фонсэра I фонсэрам pl фонсэры Gpl фонсэраў L фонсэрах	—
+lemma.foncer	Фонсер	foncer	Фонсэр/Фонсэры	воін / робат	invented racing mech; keep name, tarask э after consonant (PlanetQuest Фонсэры, UselessItems Фонсэр-999). G фонсэра I фонсэрам pl фонсэры Gpl фонсэраў L фонсэрах	—
 lemma.foncer_racer	гонщик	racer	гоншчык		foncer pilot; G гоншчыка pl гоншчыкі	—
 lemma.foncer_slyboots	Проныра	Slyboots	Праныра		quest nickname of the planet representative	—
 lemma.foncer_hurricane	Ураган	Hurricane	Ураган		quoted foncer model	—
@@ -1065,3 +1065,11 @@ lemma.booel	Боо-эль	Boo-el	Баа/стыяан/Боо	Баб/стыкан�
 lemma.cheater	Читер	Cheater	Чытэр	Крытэр	Michael Cheater joke	Rally.qmm
 lemma.gummi	Гамми	Gummy	Гамі	Гам	ranger Gamma joke	Rally.qmm
 lemma.hamlet	Гамлет	Hamlet	Гамлет	Амлет	literary name in the Betta ad	Rally.qmm
+lemma.spoiler	спойлер	spoiler	спойлер/спойлеры/Спойлеры	бройлер	wing on a car; hunspell suggestion is a broiler	https://starnik.by/pravapis/71517
+lemma.chakra	чакра	chakra	Чакра/Чакры	чашка	crystal-chakra wheel joke; genitive Чакры	https://starnik.by/pravapis/83781
+lemma.slick	слик	slick	сьлік/сьлікі	сьліп	treadless racing tire; not the shipway сліп	Rally.qmm
+lemma.saab	Сааб	Saab	Сааб/Сааба	сабака	Order of Saab joke	Rally.qmm
+lemma.pelenghack	ПеленгХак	PelengHack	ПеленгХак	Пеленг	illegal parts firm; one token	Rally.qmm
+lemma.superstart	СуперСтарт	SuperStart	СупэрСтарт	старт	oil additive; one token	Rally.qmm
+lemma.pitboard	пит-борд	pit board	піт/борд	піт	pit board; hyphen splits the tokens	Rally.qmm
+lemma.fermaxon	Фер-Максон	Fer-Maxon	Фэр/Максан	ферма	MacPherson joke; hyphen splits the tokens	Rally.qmm
