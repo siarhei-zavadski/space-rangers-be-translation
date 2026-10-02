@@ -14,6 +14,7 @@ Authoritative project files:
 - `TERMBASE.tsv` — canonical terminology. Reuse exact terms.
 - `STYLE.md` — language and presentation rules.
 - `ORTHO.md` — classical Belarusian (`be-tarask`) spelling policy.
+- `TRANSLATION.md` — per-line procedure and quest puzzles that break if rewritten.
 - `FONT.md` — menu-image font and license.
 - `PLAN.md` — wider project scope.
 

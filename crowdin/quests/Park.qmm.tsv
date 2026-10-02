@@ -1,14 +1,16 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Park.qmm/parameters/0/name"	"Монеты"	"Quest Park.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/0/lines/0/content"	"У вас <> монет"	"Quest Park.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Park.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/1/name"	"Здоровье"	"Quest Park.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/1/lines/0/content"	"Здоровье рейнджера <>"	"Quest Park.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/parameters/0/name"	"Монеты"	"Quest Park.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Park"	"Манэты"
+"/quests/Park.qmm/parameters/0/lines/0/content"	"У вас <> монет"	"Quest Park.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	"У вас <> манэтаў"
+"/quests/Park.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Park.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Park"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 1"
+"/quests/Park.qmm/parameters/1/name"	"Здоровье"	"Quest Park.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Park"	"Здароўе"
+"/quests/Park.qmm/parameters/1/lines/0/content"	"Здоровье рейнджера <>"	"Quest Park.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	"Здароўе рэйнджэра <>"
 "/quests/Park.qmm/parameters/1/crit_text"	"Что происходит с рейнджером, когда уровень его здоровья равен нулю?..
 Правильно! Отправляется играть на золотой арфе или лире, получив два крыла и нимб в придачу. Как говорится, был рейнджер, а теперь его нету. 
-(По крайней мере, вашей семье достанется страховка.)"	"Quest Park.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/2/name"	"Красный кубик"	"Quest Park.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/parameters/2/lines/0/content"	"Красный кубик"	"Quest Park.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	""
+(По крайней мере, вашей семье достанется страховка.)"	"Quest Park.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Park"	"Што адбываецца з рэйнджэрам, калі ўзровень ягонага здароўя роўны нулю?..
+Правільна! Адпраўляецца граць на залатой арфе ці ліры, атрымаўшы два крылы і німб у прыдачу. Як кажуць, быў рэйнджэр, а цяпер яго няма.
+(Прынамсі, вашай сям'і дастанецца страхоўка.)"
+"/quests/Park.qmm/parameters/2/name"	"Красный кубик"	"Quest Park.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Park"	"Чырвоны кубік"
+"/quests/Park.qmm/parameters/2/lines/0/content"	"Красный кубик"	"Quest Park.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	"Чырвоны кубік"
 "/quests/Park.qmm/parameters/2/crit_text"	"Сообщение достижения критического значения параметром 3"	"Quest Park.qmm: parameters.2.crit_text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/parameters/3/name"	"Голубой кубик"	"Quest Park.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/parameters/3/lines/0/content"	"Параметр номер 4: <>"	"Quest Park.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Park"	""
