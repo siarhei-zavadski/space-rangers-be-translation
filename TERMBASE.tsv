@@ -692,8 +692,8 @@ lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграй
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
 lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі		slot reel; N pl after 3	Park.qmm
-lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/квакажабры		slot reel; akanie	Park.qmm
-lemma.khokhlach	Хохлач	Khokhlach	Хахлач/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
+lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/Квакажабры/квакажабры		slot reel; akanie	Park.qmm
+lemma.khokhlach	Хохлач	Khokhlach	Хахлач/Хахлачы/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
 lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
 lemma.razdolbaev	Раздолбаев-средний	Razdolbaev the Middle	Раздалбаеў-сярэдні/Раздалбаева		joke author; G Раздалбаева-сярэдняга	Park.qmm
 lemma.streak	череда	streak	чарада		a run of wins; I чарадой	https://starnik.by/pravapis/83867
@@ -701,3 +701,9 @@ lemma.directions	налево / направо / прямо	left / right / strai
 lemma.horse	конь	horse	конь		G каня; signpost	https://starnik.by/pravapis/36513
 lemma.lose	потерять	to lose	згубіць		2sg згубіш; past згубілі	https://starnik.by/pravapis/184114
 lemma.torture	пытка	torture	катаваньне	пытка	proverb Спроба — не катаваньне; hunspell -ньне	https://starnik.by/pravapis/34514
+lemma.baba_yaga	Баба-Яга	Baba Yaga	Баба-Яга		fairy-tale witch; G Бабы-Ягі	https://starnik.by/pravapis/8295
+lemma.bagel	бублик	bagel	абаранак		дзірка ад абаранка	https://starnik.by/pravapis/128
+lemma.thicket	чаща	thicket	гушчар		G гушчару	https://starnik.by/pravapis/21380
+lemma.alyonushki	Аленушки	Alyonushki	Алёнушкі		pop-group name; keep International	Park.qmm
+lemma.ivanushka	Иванушка-дурачок	Ivan the Fool	Іванушка-дурань/Іванушку		D Іванушку	Park.qmm
+lemma.laugh	Гхы-гха	ghy-gha	Гхы/гха		dragon laugh; keep the hyphens	Park.qmm
