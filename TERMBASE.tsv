@@ -691,3 +691,13 @@ lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from коран
 lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
+lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі		slot reel; N pl after 3	Park.qmm
+lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/квакажабры		slot reel; akanie	Park.qmm
+lemma.khokhlach	Хохлач	Khokhlach	Хахлач/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
+lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
+lemma.razdolbaev	Раздолбаев-средний	Razdolbaev the Middle	Раздалбаеў-сярэдні/Раздалбаева		joke author; G Раздалбаева-сярэдняга	Park.qmm
+lemma.streak	череда	streak	чарада		a run of wins; I чарадой	https://starnik.by/pravapis/83867
+lemma.directions	налево / направо / прямо	left / right / straight	налева / направа / проста		signpost text and jumps 16–18 stay paired	https://starnik.by/pravapis/225973
+lemma.horse	конь	horse	конь		G каня; signpost	https://starnik.by/pravapis/36513
+lemma.lose	потерять	to lose	згубіць		2sg згубіш; past згубілі	https://starnik.by/pravapis/184114
+lemma.torture	пытка	torture	катаваньне	пытка	proverb Спроба — не катаваньне; hunspell -ньне	https://starnik.by/pravapis/34514

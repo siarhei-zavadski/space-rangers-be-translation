@@ -96,24 +96,36 @@
 Пакінуўшы будынак касмапорту, вы ўбачылі электрамабіль <clr>""Бэта-Джульета КК - ІКС""<clrEnd>, што стаяў побач. Сеўшы ў мяккае крэсла кіроўцы, вы найперш паглядзелі мапу, пасьля чаго паехалі да парку. ""Гномік"" з камунікатара вас не падмануў — энэргіі ў электрамабілі хапіла якраз да брамы парку мінус 100 мэтраў, і вашыя надзеі ўехаць на запаведную тэрыторыю з ветрыкам і камфортам лопнулі, як мыльная бурбалка. З жалем пакінуўшы службовую ""Бэту-Джульету"", вы падышлі да брамы парку, каля якой у невялікім павільёне стаяў шэраг гульнявых аўтаматаў. Вы маеце ўнікальную магчымасьць зарабіць у прыдачу да сваіх 15 манэтаў яшчэ цэлы стан. <clr>""Цана адной гульні 10 манэтаў. Імавернасьць выйгрышу — 80%""<clrEnd> — прачыталі вы надпіс. 
 Такім чынам, што вы вырашаеце: паспрабаваць шчасьця ці ісьці далей?"
 "/quests/Park.qmm/locations/2/texts/1/text"	"Вероятность выигрыша ""80%"" - снова прочитали вы надпись, хотя нельзя забывать о том, что главное - это вовремя остановиться и с деньгами смыться.
-Что будете делать: снова попытаете счастья или пойдете дальше?"	"Quest Park.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Что будете делать: снова попытаете счастья или пойдете дальше?"	"Quest Park.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Park"	"Імавернасьць выйгрышу ""80%"" — зноў прачыталі вы надпіс, хоць нельга забываць пра тое, што галоўнае — гэта своечасова спыніцца і з грашыма зьбегчы.
+Што будзеце рабіць: зноў паспрабуеце шчасьця ці пойдзеце далей?"
 "/quests/Park.qmm/locations/2/texts/2/text"	"Вероятность выигрыша ""80%"" - снова прочитали вы надпись. Хотя, как вы знаете: ""с чередой выигрышей вероятность хорошей комбинации уменьшается"" (из сочинений Г. Раздолбаева-среднего).
-Что будете делать: снова попытать счастья или идти дальше?"	"Quest Park.qmm: locations.2.texts.2.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/locations/2/texts/3/text"	"А теперь, может быть, вспомните: что вы здесь делаете?.. Правильно! Выполняете ответственное спецзадание! А в данный момент вы очень рискуете провалить свою миссию."	"Quest Park.qmm: locations.2.texts.3.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Что будете делать: снова попытать счастья или идти дальше?"	"Quest Park.qmm: locations.2.texts.2.text. Preserve every <tag> exactly."	"Quest,Park"	"Імавернасьць выйгрышу ""80%"" — зноў прачыталі вы надпіс. Хоць, як вы ведаеце: ""з чарадой выйгрышаў імавернасьць добрай камбінацыі зьмяншаецца"" (з твораў Г. Раздалбаева-сярэдняга).
+Што будзеце рабіць: зноў паспрабаваць шчасьця ці ісьці далей?"
+"/quests/Park.qmm/locations/2/texts/3/text"	"А теперь, может быть, вспомните: что вы здесь делаете?.. Правильно! Выполняете ответственное спецзадание! А в данный момент вы очень рискуете провалить свою миссию."	"Quest Park.qmm: locations.2.texts.3.text. Preserve every <tag> exactly."	"Quest,Park"	"А цяпер, можа быць, успомніце: што вы тут робіце?.. Правільна! Выконваеце адказнае спэцыяльнае заданьне! А ў гэты момант вы вельмі рызыкуеце праваліць сваю місію."
 "/quests/Park.qmm/locations/3/texts/0/text"	"Диски немного повращались и остановились. Выпала комбинация... 
-<clr>Пенчекряк<clrEnd>---<clr>Пенчекряк<clrEnd>---<clr>Пенчекряк<clrEnd> - три Пенчекряка, вы выиграли <clr>20<clrEnd> монет!"	"Quest Park.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+<clr>Пенчекряк<clrEnd>---<clr>Пенчекряк<clrEnd>---<clr>Пенчекряк<clrEnd> - три Пенчекряка, вы выиграли <clr>20<clrEnd> монет!"	"Quest Park.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Дыскі трохі пакруціліся і спыніліся. Выпала камбінацыя... 
+<clr>Пэнчэкряк<clrEnd>---<clr>Пэнчэкряк<clrEnd>---<clr>Пэнчэкряк<clrEnd> — тры Пэнчэкрякі, вы выйгралі <clr>20<clrEnd> манэтаў!"
 "/quests/Park.qmm/locations/4/texts/0/text"	"Вы шли по аллее парка аттракционов. Вокруг - ни души. Если верить карте, сейчас должен появиться камень-указатель. А вот и он. Вы смотрите на каменную глыбу и читаете надпись на ней:
 <clr>Налево пойдешь - Коня потеряешь<clrEnd>
 <clr>Направо пойдешь - Здоровье потеряешь<clrEnd>
 <clr>Прямо пойдешь - Голову потеряешь<clrEnd>
-Что вы выбираете?"	"Quest Park.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Что вы выбираете?"	"Quest Park.qmm: locations.4.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Вы ішлі па алеі парку атракцыёнаў. Навокал — ні душы. Калі верыць мапе, зараз мусіць зьявіцца камень-паказальнік. А вось і ён. Вы глядзіце на каменную глыбу і чытаеце надпіс на ёй:
+<clr>Налева пойдзеш — каня згубіш<clrEnd>
+<clr>Направа пойдзеш — здароўе згубіш<clrEnd>
+<clr>Проста пойдзеш — галаву згубіш<clrEnd>
+Што вы выбіраеце?"
 "/quests/Park.qmm/locations/4/texts/1/text"	"Вы снова вышли к главной аллее парка аттракционов. А вот и камень-указатель. На каменной глыбе та же надпись:
 <clr>Налево пойдешь - Коня потеряешь
 Направо пойдешь - Здоровье потеряешь
 Прямо пойдешь - Голову потеряешь<clrEnd>
-Что вы выбираете?"	"Quest Park.qmm: locations.4.texts.1.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Что вы выбираете?"	"Quest Park.qmm: locations.4.texts.1.text. Preserve every <tag> exactly."	"Quest,Park"	"Вы зноў выйшлі да галоўнай алеі парку атракцыёнаў. А вось і камень-паказальнік. На каменнай глыбе той самы надпіс:
+<clr>Налева пойдзеш — каня згубіш
+Направа пойдзеш — здароўе згубіш
+Проста пойдзеш — галаву згубіш<clrEnd>
+Што вы выбіраеце?"
 "/quests/Park.qmm/locations/5/texts/0/text"	"Диски немного повращались и остановились. Выпала комбинация... 
-<clr>Пенчекряк<clrEnd>---<clr>Квакожабр<clrEnd>---<clr>Хохлач<clrEnd>  - картинки красивые, но комбинация, увы, проигрышная. <clr>Вы потеряли 10 монет.<clrEnd>"	"Quest Park.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+<clr>Пенчекряк<clrEnd>---<clr>Квакожабр<clrEnd>---<clr>Хохлач<clrEnd>  - картинки красивые, но комбинация, увы, проигрышная. <clr>Вы потеряли 10 монет.<clrEnd>"	"Quest Park.qmm: locations.5.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Дыскі трохі пакруціліся і спыніліся. Выпала камбінацыя... 
+<clr>Пэнчэкряк<clrEnd>---<clr>Квакажабр<clrEnd>---<clr>Хахлач<clrEnd>  — малюнкі прыгожыя, але камбінацыя, на жаль, прайграная. <clr>Вы згубілі 10 манэтаў.<clrEnd>"
 "/quests/Park.qmm/locations/6/texts/0/text"	"""Я теперь крутой, мне все по плечу"", - думали вы, пробираясь сквозь чащу сказочного леса. - ""И где же здесь комфортабельная дорога? Ни одной тропинки!..""
 Вдруг раздался небольшой хлопок, и деревья вместе с другой растительностью исчезли.
 
@@ -121,7 +133,7 @@
 
 Последнее, что вы услышали прежде чем потерять сознание, был громогласный голос с ехидным смешком:
 - <clr>Ну, как самочувствие? Гхы-гха-гха-и-го-го<clrEnd>."	"Quest Park.qmm: locations.6.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/locations/7/texts/0/text"	"Э-эх, тряхнем стариной! Попытка не пытка! Подергаем за лапу одноногого гангстера! Вы дергаете за ручку, а пока вращаются игровые диски, читаете таблицу выигрышных комбинаций: <clr>3 квакожабра - 10 монет, 3 пенчекряка - 20 монет, 3 хохлача - 50 монет, 3 бердяйчика - 777 (!!!) монет<clrEnd>."	"Quest Park.qmm: locations.7.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/locations/7/texts/0/text"	"Э-эх, тряхнем стариной! Попытка не пытка! Подергаем за лапу одноногого гангстера! Вы дергаете за ручку, а пока вращаются игровые диски, читаете таблицу выигрышных комбинаций: <clr>3 квакожабра - 10 монет, 3 пенчекряка - 20 монет, 3 хохлача - 50 монет, 3 бердяйчика - 777 (!!!) монет<clrEnd>."	"Quest Park.qmm: locations.7.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Э-эх, страсянём даўніной! Спроба — не катаваньне! Патузаем за лапу аднаногага гангстэра! Вы тузаеце за ручку, а пакуль круцяцца гульнявыя дыскі, чытаеце табліцу выйгрышных камбінацыяў: <clr>3 квакажабры — 10 манэтаў, 3 пэнчэкрякі — 20 манэтаў, 3 хахлачы — 50 манэтаў, 3 бэрдзяйчыкі — 777 (!!!) манэтаў<clrEnd>."
 "/quests/Park.qmm/locations/8/texts/0/text"	"Диски немного повращались и остановились. Выпала комбинация... 
 <clr>Хохлач<clrEnd>---<clr>Хохлач<clrEnd>---<clr>Хохлач<clrEnd> - три Хохлача, вы выиграли <clr>50<clrEnd> монет! Вам сегодня определенно везет!"	"Quest Park.qmm: locations.8.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/9/texts/0/text"	"Диски немного повращались и остановились. Выпала комбинация... 
@@ -509,9 +521,9 @@
 "/quests/Park.qmm/jumps/13/text"	"Взломать игровой автомат"	"Quest Park.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/14/text"	"Пожалеть игровой автомат"	"Quest Park.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/15/text"	"Продолжить выполнения задания"	"Quest Park.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/16/text"	"Идти направо"	"Quest Park.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/17/text"	"Идти прямо"	"Quest Park.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/18/text"	"Идти налево"	"Quest Park.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/16/text"	"Идти направо"	"Quest Park.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Park"	"Ісьці направа"
+"/quests/Park.qmm/jumps/17/text"	"Идти прямо"	"Quest Park.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Park"	"Ісьці проста"
+"/quests/Park.qmm/jumps/18/text"	"Идти налево"	"Quest Park.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Park"	"Ісьці налева"
 "/quests/Park.qmm/jumps/19/text"	"Не хочу замочить ноги"	"Quest Park.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/20/text"	"Волшебное кольцо"	"Quest Park.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/23/description"	"Не выбежав, а просто вылетев из-за кустов, вы сбиваете с ног другую девушку, которая только делает шаг назад, тогда как вы получаете здоровенную шишку на лоб. ""Это робот"", - логично предположили вы.
