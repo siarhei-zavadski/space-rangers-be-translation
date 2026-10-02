@@ -828,7 +828,7 @@ lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
-lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі/татуіроўку	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
+lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі/татуіроўку/татуіроўцы	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
 lemma.photofit	фоторобот	photofit	фотаробат/фотаробата/фотаробаце		already PlanetQuest genre фотаробата	Photorobot.qmm
 lemma.godzilla	Годзилла	Godzilla	Гадзіла/Гадзілу		mother-in-law joke	Photorobot.qmm
 lemma.nondus	Нондус	Nondus	Нондусы/Эквэнтаровічы		dominator given name and patronymic	Photorobot.qmm
@@ -1208,3 +1208,15 @@ lemma.maniac	Маньяк	de Maniac	Маньяк		marquise de Maniac	Muzon.qmm
 lemma.firework	фейерверк	firework	феерверк/Феерверк/феерверка/феерверкі	фаерверк	Starnik lemma; hunspell suggestion is a different noun	https://starnik.by/pravapis/79826
 lemma.maarli	Маарли	Maarli	Маарлі		billiard contact who sends the keyboardist	Muzon.qmm
 lemma.nefers	Неферс	Nefers	Нэфэрс		parody band Пяцьсот Чылі Нэфэрс	Muzon.qmm
+lemma.maradonga	Марадонга	Maradonga	Марадонга/Марадонгі		hatch-ball stadium name	Muzon.qmm
+lemma.binladen	Бин-Лааден	Bin-Laden	Бін/Лааден		pirate in the laptop news	Muzon.qmm
+lemma.terrortino	Таррантир	Terrortino	Тарранцір		malok film director	Muzon.qmm
+lemma.nostradamus	Нострадамус	Nostradamus	Настрадамус		news joke; hunspell rejects the name	Muzon.qmm
+lemma.egg	Игле Сяся	Eggg Lispius	Ігле/Сяся		faeyan tenor	Muzon.qmm
+lemma.pukem	Дюк Хрюкем Форева	Duke Pukem Forever	Дзюк/Хрукам/Фарэва		game-title parody	Muzon.qmm
+lemma.faeyanette	Фэяночка	Faeyanette	Фэяначка		scientific base	Muzon.qmm
+lemma.muzon	музон	muzak	музон/Музон		slang for the music	Muzon.qmm
+lemma.drambler	драмблер	drambler	драмблер		mailbox domain parody	Muzon.qmm
+lemma.goshi	гоши	Goshi	гошы		lost civilisation; the cipher words stay apart	Muzon.qmm
+lemma.goshi_code	чеза / ти / пнял	Goshi cipher	чеза/ти/пнял		cipher atoms stay byte-identical, including Russian и in ти	Muzon.qmm
+lemma.lamer	ламер	lamer	ламер/ламеры		insult beside the ranger name Лаамер	Muzon.qmm

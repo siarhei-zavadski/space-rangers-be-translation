@@ -196,17 +196,23 @@ The mission budget is <clr>1200<clrEnd> rockarollars - that's the local currency
 
 As soon as you entered the room, you crashed on the cushy bed and fell fast asleep, missing the supper, which was not in your habit. You were in for a hard long day...
 
-Morning crept in and the bright rays of the local sun lit the room."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/1/texts/0/text"	"Вы находитесь в своем номере. Он отделан в традиционном человеческом стиле <clr>""Тяп-ляп и готово""<clrEnd>, очень модном сейчас. Огромное окно выходит на главную площадь. На столе лежит дряхлый гостиничный <clr>лаптоп<clrEnd>. Справа кровать, над ней висит стереовизор, показывающий хэчбол, клипы и рекламу про крутую пушку, которая пробивает любую защиту, и всего за <clr>4999.99<clrEnd> cr (а если позвонить прямо сейчас, то дадут совершенно бесплатно специальный лак, после которого пушка будет блестеть как медный таз)."	"Quest Muzon.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You are in your room, furnished in the traditional Human <clr>""quick-and-dirty""<clrEnd> manner, very fashionable these days. The huge window overlooks the main square. There is an outdated hotel <clr>laptop<clrEnd> on the bedside table. The bed is to the right, with a stereovision hovering above it showing a hatch-ball match, music videos and a commercial, advertising some new cool gun that can penetrate any armour and costs only <clr>4999.99<clrEnd> cr (and if you call straight away you will also get a free bottle of special varnish, which would make the gun shine like a copper basin)."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/1/texts/1/text"	"Вы нехотя проснулись и отправились в ванную, после чего сытно перекусили, сидя на диване и смотря стереовизор."	"Quest Muzon.qmm: locations.1.texts.1.text. Preserve every <tag> exactly. English reference: Lazily you got out of bed, went to the shower, after which you had a stuffy breakfast sitting on the sofa and watching the stereovision."	"Quest,Muzon"	""
+Morning crept in and the bright rays of the local sun lit the room."	"Quest,Muzon"	"Вы прызямліліся на плянэту <ToPlanet> ужо пад вечар. Служба бясьпекі правяла нядоўгую праверку, па ходзе справы запытаўшыся пра мэту вашага прыбыцьця і забраўшы вашу зброю на час побыту тут. Выйшаўшы з касмапорту, вы адзначылі, што тут даволі цёпла, нягледзячы на паўночныя вятры. Пара хвілінаў язды на паветраным таксі — і вы ўжо ў прыгожай залі дарагога гатэлю. Клерк уручыў вам абяцаныя <clr>1200<clrEnd> рокнролераў і даў электронны ключ ад пакою, аплачанага ўрадам плянэты <FromPlanet>.
+
+Зайшоўшы ў пакой, вы ад стомы адразу зваліліся на мяккую пасьцель і заснулі, прапусьціўшы вячэру, што было вам неўласьціва. Наперадзе быў цяжкі дзень...
+
+Неўпрыкмет настала раніца, і яркія прамяні мясцовага сонца асьвятлілі пакой."
+"/quests/Muzon.qmm/locations/1/texts/0/text"	"Вы находитесь в своем номере. Он отделан в традиционном человеческом стиле <clr>""Тяп-ляп и готово""<clrEnd>, очень модном сейчас. Огромное окно выходит на главную площадь. На столе лежит дряхлый гостиничный <clr>лаптоп<clrEnd>. Справа кровать, над ней висит стереовизор, показывающий хэчбол, клипы и рекламу про крутую пушку, которая пробивает любую защиту, и всего за <clr>4999.99<clrEnd> cr (а если позвонить прямо сейчас, то дадут совершенно бесплатно специальный лак, после которого пушка будет блестеть как медный таз)."	"Quest Muzon.qmm: locations.1.texts.0.text. Preserve every <tag> exactly. English reference: You are in your room, furnished in the traditional Human <clr>""quick-and-dirty""<clrEnd> manner, very fashionable these days. The huge window overlooks the main square. There is an outdated hotel <clr>laptop<clrEnd> on the bedside table. The bed is to the right, with a stereovision hovering above it showing a hatch-ball match, music videos and a commercial, advertising some new cool gun that can penetrate any armour and costs only <clr>4999.99<clrEnd> cr (and if you call straight away you will also get a free bottle of special varnish, which would make the gun shine like a copper basin)."	"Quest,Muzon"	"Вы знаходзіцеся ў сваім пакоі. Ён аздоблены ў традыцыйным людзкім стылі <clr>""Абы-як і гатова""<clrEnd>, вельмі модным цяпер. Вялізнае акно выходзіць на галоўную плошчу. На стале ляжыць струхлелы гатэльны <clr>ноўтбук<clrEnd>. Справа ложак, над ім вісіць стэрэавізар, які паказвае хэчбол, кліпы і рэкляму пра крутую гармату, якая прабівае любую абарону, і ўсяго за <clr>4999.99<clrEnd> cr (а калі патэлефанаваць прама цяпер, то дадуць зусім бясплатна адмысловую палітуру, пасьля якой гармата будзе блішчаць, як медны таз)."
+"/quests/Muzon.qmm/locations/1/texts/1/text"	"Вы нехотя проснулись и отправились в ванную, после чего сытно перекусили, сидя на диване и смотря стереовизор."	"Quest Muzon.qmm: locations.1.texts.1.text. Preserve every <tag> exactly. English reference: Lazily you got out of bed, went to the shower, after which you had a stuffy breakfast sitting on the sofa and watching the stereovision."	"Quest,Muzon"	"Вы неахвотна прачнуліся і пайшлі ў ванную, пасьля чаго сытна перакусілі, седзячы на канапе і гледзячы стэрэавізар."
 "/quests/Muzon.qmm/locations/1/texts/2/text"	"Вы так устали, что свалились и уснули прямо там, где были. Настроения вам это, конечно, не прибавило. Хорошо, что это произошло в гостиничном номере, а не на улице! 
 
 Утром вы проснулись, умылись и кое-как привели себя в порядок."	"Quest Muzon.qmm: locations.1.texts.2.text. Preserve every <tag> exactly. English reference: You were so tired that you fell asleep right where you were standing. Most naturally this did not improve your mood much, but it least it was in a hotel, not outside! 
 
-In the morning you woke up, washed your face and tried to pull yourself more or less together."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/1/texts/3/text"	"Вы вернулись в отель. Пройдя по длинному коридору, вы очутились в своем небольшом, но уютном номере."	"Quest Muzon.qmm: locations.1.texts.3.text. Preserve every <tag> exactly. English reference: You went back to the hotel. Passing through a long corridor, you found yourself in a small but rather cosy room."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/1/texts/4/text"	"Как приятно отдохнуть, зная, что все дела уже сделаны! Вот и вы с удовольствием провалялись остаток дня и ночи в своем номере, смотря стереовизор и ни о чем не думая. Такое времяпровождение самым благоприятным образом сказалось на вашем утреннем настроении!"	"Quest Muzon.qmm: locations.1.texts.4.text. Preserve every <tag> exactly. English reference: Boy is it nice to have some rest when you know all business has been taken care of! So you spent the rest of the day and night lying in your room, watching the stereovision and doing nothing. Such a pastime could not but boost your morning spirits!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/1/texts/5/text"	"Вы провалялись в комнате до темноты. Ведь с наступлением ночи в городе начинается совсем другая жизнь!"	"Quest Muzon.qmm: locations.1.texts.5.text. Preserve every <tag> exactly. English reference: You lied in your room till it was dark. After all big city nights offer a completely different life!"	"Quest,Muzon"	""
+In the morning you woke up, washed your face and tried to pull yourself more or less together."	"Quest,Muzon"	"Вы так стаміліся, што зваліліся і заснулі прама там, дзе былі. Настрою вам гэта, вядома, не дадало. Добра, што гэта здарылася ў гатэльным пакоі, а не на вуліцы! 
+
+Уранку вы прачнуліся, умыліся і абы-як прывялі сябе ў парадак."
+"/quests/Muzon.qmm/locations/1/texts/3/text"	"Вы вернулись в отель. Пройдя по длинному коридору, вы очутились в своем небольшом, но уютном номере."	"Quest Muzon.qmm: locations.1.texts.3.text. Preserve every <tag> exactly. English reference: You went back to the hotel. Passing through a long corridor, you found yourself in a small but rather cosy room."	"Quest,Muzon"	"Вы вярнуліся ў гатэль. Прайшоўшы па доўгім калідоры, вы апынуліся ў сваім невялікім, але ўтульным пакоі."
+"/quests/Muzon.qmm/locations/1/texts/4/text"	"Как приятно отдохнуть, зная, что все дела уже сделаны! Вот и вы с удовольствием провалялись остаток дня и ночи в своем номере, смотря стереовизор и ни о чем не думая. Такое времяпровождение самым благоприятным образом сказалось на вашем утреннем настроении!"	"Quest Muzon.qmm: locations.1.texts.4.text. Preserve every <tag> exactly. English reference: Boy is it nice to have some rest when you know all business has been taken care of! So you spent the rest of the day and night lying in your room, watching the stereovision and doing nothing. Such a pastime could not but boost your morning spirits!"	"Quest,Muzon"	"Як прыемна адпачыць, ведаючы, што ўсе справы ўжо зробленыя! Вось і вы з асалодай праваляліся рэшту дня і ночы ў сваім пакоі, гледзячы стэрэавізар і ні пра што не думаючы. Такое баўленьне часу найлепшым чынам адбілася на вашым ранішнім настроі!"
+"/quests/Muzon.qmm/locations/1/texts/5/text"	"Вы провалялись в комнате до темноты. Ведь с наступлением ночи в городе начинается совсем другая жизнь!"	"Quest Muzon.qmm: locations.1.texts.5.text. Preserve every <tag> exactly. English reference: You lied in your room till it was dark. After all big city nights offer a completely different life!"	"Quest,Muzon"	"Вы праваляліся ў пакоі да цемры. Бо з надыходам ночы ў горадзе пачынаецца зусім іншае жыцьцё!"
 "/quests/Muzon.qmm/locations/2/texts/0/text"	"Вы стоите на главной площади планеты <ToPlanet>. Как всегда, на площади довольно много народу, причем людей - больше всего. 
 
 Позади находится <clr>отель<clrEnd>. Впереди - <clr>студия<clrEnd>, предоставляющая разные возможности музыкантам. Слева - обычный <clr>бар<clrEnd>, ничем не отличающийся от других баров на человеческих планетах. Около него расположился <clr>тату-салон<clrEnd>. Вдалеке можно увидеть небольшое здание <clr>рок-клуба<clrEnd>. Также вдоль площади проходит длинная <clr>улица<clrEnd>. Последним, на что вы обратили внимание, был огромный <clr>стадион<clrEnd> для хэчбола, на котором и будет проходить концерт. 
@@ -215,18 +221,25 @@ In the morning you woke up, washed your face and tried to pull yourself more or 
 
 Behind you is the <clr>hotel<clrEnd>, and in front of you is the <clr>studio<clrEnd>, that offers all sorts of opportunities for the musicians. To your left is a regular <clr>pub<clrEnd>, not any different from any other pub on any other Human planet. Next to it there is a <clr>tattoo-parlour<clrEnd>. In the distance there is a small <clr>rock-club<clrEnd>. Across the street runs a long <clr>street<clrEnd>. The last thing that caught your attention was a huge hatch-ball <clr>stadium<clrEnd> where the concert will be held. 
 
-<clr>At night<clrEnd> only the <clr>pool-room<clrEnd> and the <clr>pub<clrEnd>, are open since they work 24x7."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/3/texts/0/text"	"Днем в баре полно народу, некоторые смотрят хэчбол по стереовизору и орут разные кричалки, другие просто расслабляются, сидя на диванах и за столиками. Бармен живой человек, а не робот, как во многих дешевых барах. Вдали сидит какой-то гаалец - видимо, сильно пьяный. Просто поразительно, сколько пьяных гаальцев попадается вам на жизненном пути! Особенно если учесть, что эта раса вовсе не склонна к алкоголизму..."	"Quest Muzon.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: During the daytime the pub is quite crowded, some people would watch hatch-ball cheering and chanting loudly, others would just relax, kicking back on the sofas and behind the tables. The bartender here is a real human being, not a robot, as often is the case in some of the cheaper bars. In the distance you see a Gaalian - apparently drunk. It's amazing how many drunken Gaalians one would see in a lifetime! Especially considering the fact that this race is not inclined to alcoholism..."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/3/texts/1/text"	"Днем в баре полно народу, некоторые смотрят хэчбол по стереовизору и орут разные кричалки, другие просто расслабляются, сидя на диванах и за столиками. Бармен живой человек, а не робот, как во многих дешевых барах."	"Quest Muzon.qmm: locations.3.texts.1.text. Preserve every <tag> exactly. English reference: During the daytime the pub is quite crowded, some people would watch hatch-ball cheering and chanting loudly, others would just relax, kicking back on the sofas and behind the tables. The bartender here is a real human being, not a robot, as often is the case in some of the cheaper bars."	"Quest,Muzon"	""
+<clr>At night<clrEnd> only the <clr>pool-room<clrEnd> and the <clr>pub<clrEnd>, are open since they work 24x7."	"Quest,Muzon"	"Вы стаіце на галоўнай плошчы плянэты <ToPlanet>. Як заўсёды, на плошчы даволі шмат народу, прычым людзей — больш за ўсё. 
+
+Ззаду знаходзіцца <clr>гатэль<clrEnd>. Наперадзе — <clr>студыя<clrEnd>, якая дае музыкам розныя магчымасьці. Зьлева — звычайны <clr>бар<clrEnd>, нічым не адрозны ад іншых бараў на людзкіх плянэтах. Каля яго разьмясьціўся <clr>тату-салён<clrEnd>. Удалечыні можна ўбачыць невялікі будынак <clr>рок-клюбу<clrEnd>. Таксама ўздоўж плошчы праходзіць доўгая <clr>вуліца<clrEnd>. Апошнім, на што вы зьвярнулі ўвагу, быў вялізны <clr>стадыён<clrEnd> для хэчболу, на якім і будзе праходзіць канцэрт. 
+
+<clr>Ноччу<clrEnd> працуе толькі <clr>більярдная<clrEnd> і <clr>бар<clrEnd>, які адчынены кругласутачна."
+"/quests/Muzon.qmm/locations/3/texts/0/text"	"Днем в баре полно народу, некоторые смотрят хэчбол по стереовизору и орут разные кричалки, другие просто расслабляются, сидя на диванах и за столиками. Бармен живой человек, а не робот, как во многих дешевых барах. Вдали сидит какой-то гаалец - видимо, сильно пьяный. Просто поразительно, сколько пьяных гаальцев попадается вам на жизненном пути! Особенно если учесть, что эта раса вовсе не склонна к алкоголизму..."	"Quest Muzon.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: During the daytime the pub is quite crowded, some people would watch hatch-ball cheering and chanting loudly, others would just relax, kicking back on the sofas and behind the tables. The bartender here is a real human being, not a robot, as often is the case in some of the cheaper bars. In the distance you see a Gaalian - apparently drunk. It's amazing how many drunken Gaalians one would see in a lifetime! Especially considering the fact that this race is not inclined to alcoholism..."	"Quest,Muzon"	"Удзень у бары поўна народу, некаторыя глядзяць хэчбол па стэрэавізары і крычаць розныя заклікі, іншыя проста расслабляюцца, седзячы на канапах і за столікамі. Бармэн — жывы чалавек, а не робат, як у шмат якіх танных барах. Удалечыні сядзіць нейкі гаалец, відаць, моцна п'яны. Проста дзіўна, колькі п'яных гаальцаў трапляецца вам на жыцьцёвым шляху! Асабліва калі ўлічыць, што гэтая раса зусім не схільная да алькагалізму..."
+"/quests/Muzon.qmm/locations/3/texts/1/text"	"Днем в баре полно народу, некоторые смотрят хэчбол по стереовизору и орут разные кричалки, другие просто расслабляются, сидя на диванах и за столиками. Бармен живой человек, а не робот, как во многих дешевых барах."	"Quest Muzon.qmm: locations.3.texts.1.text. Preserve every <tag> exactly. English reference: During the daytime the pub is quite crowded, some people would watch hatch-ball cheering and chanting loudly, others would just relax, kicking back on the sofas and behind the tables. The bartender here is a real human being, not a robot, as often is the case in some of the cheaper bars."	"Quest,Muzon"	"Удзень у бары поўна народу, некаторыя глядзяць хэчбол па стэрэавізары і крычаць розныя заклікі, іншыя проста расслабляюцца, седзячы на канапах і за столікамі. Бармэн — жывы чалавек, а не робат, як у шмат якіх танных барах."
 "/quests/Muzon.qmm/locations/4/texts/0/text"	"Вы стоите в большой студии. Здесь можно записать песню или провести репетицию. 
 
 - Чего желаете? - осведомился пеленг за конторкой."	"Quest Muzon.qmm: locations.4.texts.0.text. Preserve every <tag> exactly. English reference: You are standing in the middle of a large studio. Here you can record a song or hold a rehearsal. 
 
-- Can I help you? - asked a Peleng behind the counter."	"Quest,Muzon"	""
+- Can I help you? - asked a Peleng behind the counter."	"Quest,Muzon"	"Вы стаіце ў вялікай студыі. Тут можна запісаць песьню або правесьці рэпэтыцыю. 
+
+- Чаго жадаеце? — запытаўся пеленг за стойкай."
 "/quests/Muzon.qmm/locations/5/texts/0/text"	"Вы подошли к рок-клубу, но вас вдруг остановил охранник-малок с множеством сережек на лице.
 - Чувак, здесь закрыто, сваливай отсюда, или ты что-то хотел?"	"Quest Muzon.qmm: locations.5.texts.0.text. Preserve every <tag> exactly. English reference: You walked over to the rock-club, when a Maloq bouncer with piercing all over his face blocked your way.
-- Hey dude, the place is closed, get lost, or you wanted something?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/6/texts/0/text"	"Вы подошли к бродячему музыканту, который играл на гитаре и что-то пел. Похоже, что эта работа ему по душе и приносит неплохую прибыль (судя по дорогой фирменной гитаре ""Hender"" фэянской сборки, с двадцатью семью струнами)."	"Quest Muzon.qmm: locations.6.texts.0.text. Preserve every <tag> exactly. English reference: You approached a travelling musician who was playing the guitar and singing. Looks like he is getting good money out of this (judging by his expensive custom-made Faeyan ""Hender Destructocaster"" guitar with 27 strings)."	"Quest,Muzon"	""
+- Hey dude, the place is closed, get lost, or you wanted something?"	"Quest,Muzon"	"Вы падышлі да рок-клюбу, але вас раптам спыніў ахоўнік-малок з мноствам завушніц на твары.
+- Хлопец, тут зачынена, звальвай адсюль, ці ты нешта хацеў?"
+"/quests/Muzon.qmm/locations/6/texts/0/text"	"Вы подошли к бродячему музыканту, который играл на гитаре и что-то пел. Похоже, что эта работа ему по душе и приносит неплохую прибыль (судя по дорогой фирменной гитаре ""Hender"" фэянской сборки, с двадцатью семью струнами)."	"Quest Muzon.qmm: locations.6.texts.0.text. Preserve every <tag> exactly. English reference: You approached a travelling musician who was playing the guitar and singing. Looks like he is getting good money out of this (judging by his expensive custom-made Faeyan ""Hender Destructocaster"" guitar with 27 strings)."	"Quest,Muzon"	"Вы падышлі да вандроўнага музыкі, які граў на гітары і нешта сьпяваў. Здаецца, гэтая праца яму да спадобы і прыносіць добры прыбытак (калі меркаваць па дарагой фірмовай гітары ""Hender"" фэянскай зборкі, з 27 струнамі)."
 "/quests/Muzon.qmm/locations/7/texts/0/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -249,7 +262,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>Soon the planet of<clrEnd> <ToPlanet> <clr>is going to host the annual MUZZ-festival. The concert will be organised at the hatch-ball stadium named after Hackhum the Unconquerable. Tickets are available from the stadium and other distributors. Please, do not attempt to draw tickets yourself, ticket forgery is punishable by law..<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Хутка на плянэце<clrEnd> <ToPlanet> <clr>адбудзецца штогадовы MUZZ-фэстываль. Месца правядзеньня: хэчбольны стадыён імя Марадонгі Непераможнага. Білеты ў касах і ў распаўсюднікаў. Умольны запыт не маляваць білеты самім, падробка прасьледуецца па законе.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/1/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -272,7 +296,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>Pirate Bing is once again terrorising the system of <clrEnd> <ToStar><clr>. Please be extremely careful if you go there.<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Пірат Бін-Лааден зноў наводзіць жах у сыстэме<clrEnd> <ToStar><clr>. Будзьце вельмі асьцярожныя, пралятаючы там.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/2/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -295,7 +330,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>A new action movie by the famous Maloq director Quinthor Terrortino. Lots of fights and rivers of blood! Coming to a stereo-theatre near you!!!<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Новы фільм зьняў праслаўлены рэжысэр малокаў Тарранцір. Куча боек і мора крыві! Не прапусьціце прэм'еру ў кінатэатрах!!!<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/3/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -318,7 +364,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>The planet of<clrEnd> <FromPlanet> <clr>is going through a political crisis: the presidential elections there were only attended by <clrEnd> {[10..12]}<clr>% of electorate! If the government does not resolve the situation any time soon, the parliament on<clrEnd><FromPlanet><clr> may cancel the elections altogether.<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>На плянэце<clrEnd> <FromPlanet> <clr>палітычны крызіс: на выбары прэзыдэнта прыйшло ўсяго<clrEnd> {[10..12]}<clr>% электарату! Калі ўрад не разьбярэцца з гэтым, парлямэнт плянэты <clrEnd><FromPlanet><clr> можа паставіць пытаньне пра скасаваньне выбараў як такіх.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/4/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -341,7 +398,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>Attention gamers! The release date of the long-anticipated ""Duke Pukem Forever"" has been postponed once again. The developers swear that the beta-tests are ongoing, and that next year the game will surely appear in the stores, so there is no reason to worry.<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Увага, гульцы! Зноў перанесеная дата выхаду гульні ""Дзюк Хрукам Фарэва"". Распрацоўнікі ўрачыста заяўляюць, што ідзе бэта-тэставаньне, і ў наступным годзе гульня выйдзе ў сьвет, так што няма падставаў для непакою.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/5/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -364,7 +432,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>A new album of cover versions of the famous Faeyan tenor Eggg Lispius performed by Smash&Crash is out now. Available in all stores!<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Выйшаў новы альбом зь песьнямі фэянскага тэнара Ігле Сяся ў выкананьні гурту Smash&Crash. Пытайцеся ва ўсіх музычных кіёсках горада!<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/6/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -387,7 +466,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr> - Section empty - <clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr> - Разьдзел парожні - <clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/7/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -410,7 +500,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <ToPlanet><clr>'s<clrEnd> <clr>hatch-ball team has won its second regular season game, witch allowed it to climb from the bottom of the tournament score table. According to the team's chief coach, we still have a chance of not falling down into the lowest division this year, that is, of course, if we get as lucky with the referees in all the remaining matches, as we were in this one.<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Другую перамогу ў чэмпіянаце атрымала зборная плянэты<clrEnd> <ToPlanet> <clr>па хэчболе, што дазволіла ёй сысьці з апошняга месца ў турнірнай табліцы. Па словах галоўнага трэнэра, у нашай каманды яшчэ ёсьць шанец пазьбегнуць у гэтым сэзоне вылету ў ніжэйшы дывізіён, калі, вядома, у астатніх матчах нам гэтак жа пашанцуе з судзействам, як і гэтым разам.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/8/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -433,7 +534,18 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>Sensation! Nostradamus knew about the Dominators!!! Read all about it at<clrEnd> <ToPlanet><clr>.spam.no<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>Сэнсацыя! Настрадамус прадказваў зьяўленьне дамінатараў!!! Падрабязнасьці на сайце<clrEnd> <ToPlanet><clr>.spama.net<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/7/texts/9/text"	"Laptop <clr>Inter Dendium 5<clrEnd>
 
 Сегодня <CurDate>
@@ -456,17 +568,30 @@ Temperature outside: {[16..18]} degrees
 Latest news: 
 <clr>Due to the resuming of hostilities in the Maloq systems the prices for Maloq stools have been skyrocketing lately. At a recent auction in the system of <clrEnd> <FromStar> <clr> the field-stool of Prince Tardym Ka'Boom has been sold for as much as <clrEnd> {[5000..15000]} <clr>cr.<clrEnd>
 
-<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	""
+<clr>Nondows 3.141592<clrEnd> operation system courtesy of <clr>MacroHard<clrEnd> corporation."	"Quest,Muzon"	"Ноўтбук <clr>Inter Dendium 5<clrEnd>
+
+Сёньня <CurDate>
+
+Дзён да канцэрту: [p2]
+
+Тэмпэратура за акном: {[16..18]} градусаў 
+
+Апошнія навіны: 
+<clr>У сувязі з аднаўленьнем баявых дзеяньняў у сыстэмах малокаў рэзка вырасьлі цэны на табурэткі малокаў. Нядаўна на аўкцыёне ў сыстэме<clrEnd> <FromStar> <clr>паходная табурэтка прынца Тардым ба'Баха была прададзеная за<clrEnd> {[5000..15000]} <clr>cr.<clrEnd>
+
+Апэрацыйная сыстэма <clr>Nondows 3.141592<clrEnd> ласкава дадзеная карпарацыяй <clr>MacroHard<clrEnd>."
 "/quests/Muzon.qmm/locations/8/texts/0/text"	"Поиск завершен.
 
 На данный момент ни одного свободного музыканта не найдено."	"Quest Muzon.qmm: locations.8.texts.0.text. Preserve every <tag> exactly. English reference: Search finished.
 
-No musicians available at this time."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/9/texts/0/text"	"- Мне не нравится, как ты выглядишь, у тебя нету даже ни одной <clr>татуировки<clrEnd>, - ответил гитарист, и больше не обращал на вас внимания."	"Quest Muzon.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: - You don't look cool, you don't even have any <clr>tattoos<clrEnd>, - the guitarist said and did not pay any more attention to you."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/10/texts/0/text"	"Вы оказались в огромном зале. Вокруг играет музыка, дополняемая звуками ударяющихся шаров. Как жаль, что вы <clr>не умеете хорошо играть в бильярд<clrEnd>, а то бы составили кому-нибудь компанию. Но вы можете сделать традиционную ставку в <clr>50<clrEnd> рокнроллеров на исход какой-нибудь партии."	"Quest Muzon.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: You found yourself in a large room. The music is playing accompanied by the sound of knocking billiard-balls. Too bad that you are <clr>a poor pool-player<clrEnd>, otherwise you could play with someone. Although you can still put a traditional stake of <clr>50<clrEnd> rockarollars on the outcome of one of the games."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/10/texts/1/text"	"Вы оказались в огромном зале. Вокруг играет музыка, дополняемая звуками ударяющихся шаров. Благодаря <clr>прочитанной книжке<clrEnd>, вы теперь кое-что смыслите в бильярде. Может, сделать традиционную ставку в <clr>50<clrEnd> рокнроллеров на исход какой-нибудь партии?"	"Quest Muzon.qmm: locations.10.texts.1.text. Preserve every <tag> exactly. English reference: You found yourself in a large room. The music is playing accompanied by the sound of knocking billiard-balls. Thanks to the <clr>book you read<clrEnd>, you now understand pool pretty well. Maybe you should put a traditional stake of <clr>50<clrEnd> rockarollars on the outcome of one of the games."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/11/texts/0/text"	"Можно, конечно, исполнить какую-нибудь старую песню из собственного репертуара. Но можно и заказать профессионалам песню покруче и подлиннее. Какую песню будем исполнять на концерте?"	"Quest Muzon.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: Of course you could sing some old song from your old repertoire. But then again you could ask a professional to right a better and a longer one for you. So what are you going to play at the gig?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/12/texts/0/text"	"Неожиданно вы почувствовали, что теряете сознание. Разве можно так долго сидеть за компьютером? Это же вредно для здоровья!"	"Quest Muzon.qmm: locations.12.texts.0.text. Preserve every <tag> exactly. English reference: Suddenly you felt you were losing consciousness. You really shouldn't be spending so much time at the computer, you know? It's unhealthy!"	"Quest,Muzon"	""
+No musicians available at this time."	"Quest,Muzon"	"Пошук завершаны.
+
+На гэты момант ніводнага вольнага музыкі не знойдзена."
+"/quests/Muzon.qmm/locations/9/texts/0/text"	"- Мне не нравится, как ты выглядишь, у тебя нету даже ни одной <clr>татуировки<clrEnd>, - ответил гитарист, и больше не обращал на вас внимания."	"Quest Muzon.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: - You don't look cool, you don't even have any <clr>tattoos<clrEnd>, - the guitarist said and did not pay any more attention to you."	"Quest,Muzon"	"- Мне не падабаецца, як ты выглядаеш, у цябе няма нават ніводнай <clr>татуіроўкі<clrEnd>, — адказаў гітарыст і больш не зьвяртаў на вас увагі."
+"/quests/Muzon.qmm/locations/10/texts/0/text"	"Вы оказались в огромном зале. Вокруг играет музыка, дополняемая звуками ударяющихся шаров. Как жаль, что вы <clr>не умеете хорошо играть в бильярд<clrEnd>, а то бы составили кому-нибудь компанию. Но вы можете сделать традиционную ставку в <clr>50<clrEnd> рокнроллеров на исход какой-нибудь партии."	"Quest Muzon.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: You found yourself in a large room. The music is playing accompanied by the sound of knocking billiard-balls. Too bad that you are <clr>a poor pool-player<clrEnd>, otherwise you could play with someone. Although you can still put a traditional stake of <clr>50<clrEnd> rockarollars on the outcome of one of the games."	"Quest,Muzon"	"Вы апынуліся ў вялізнай залі. Навокал грае музыка, дапоўненая гукамі шароў, што стукаюцца. Як шкада, што вы <clr>ня ўмееце добра граць у більярд<clrEnd>, а то б склалі каму-небудзь кампанію. Але вы можаце зрабіць традыцыйную стаўку ў <clr>50<clrEnd> рокнролераў на вынік якой-небудзь партыі."
+"/quests/Muzon.qmm/locations/10/texts/1/text"	"Вы оказались в огромном зале. Вокруг играет музыка, дополняемая звуками ударяющихся шаров. Благодаря <clr>прочитанной книжке<clrEnd>, вы теперь кое-что смыслите в бильярде. Может, сделать традиционную ставку в <clr>50<clrEnd> рокнроллеров на исход какой-нибудь партии?"	"Quest Muzon.qmm: locations.10.texts.1.text. Preserve every <tag> exactly. English reference: You found yourself in a large room. The music is playing accompanied by the sound of knocking billiard-balls. Thanks to the <clr>book you read<clrEnd>, you now understand pool pretty well. Maybe you should put a traditional stake of <clr>50<clrEnd> rockarollars on the outcome of one of the games."	"Quest,Muzon"	"Вы апынуліся ў вялізнай залі. Навокал грае музыка, дапоўненая гукамі шароў, што стукаюцца. Дзякуючы <clr>прачытанай кніжцы<clrEnd>, вы цяпер нешта разумееце ў більярдзе. Можа, зрабіць традыцыйную стаўку ў <clr>50<clrEnd> рокнролераў на вынік якой-небудзь партыі?"
+"/quests/Muzon.qmm/locations/11/texts/0/text"	"Можно, конечно, исполнить какую-нибудь старую песню из собственного репертуара. Но можно и заказать профессионалам песню покруче и подлиннее. Какую песню будем исполнять на концерте?"	"Quest Muzon.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: Of course you could sing some old song from your old repertoire. But then again you could ask a professional to right a better and a longer one for you. So what are you going to play at the gig?"	"Quest,Muzon"	"Можна, вядома, выканаць якую-небудзь старую песьню з уласнага рэпэртуару. Але можна і замовіць у прафэсіяналаў песьню лепшую і даўжэйшую. Якую песьню будзем выконваць на канцэрце?"
+"/quests/Muzon.qmm/locations/12/texts/0/text"	"Неожиданно вы почувствовали, что теряете сознание. Разве можно так долго сидеть за компьютером? Это же вредно для здоровья!"	"Quest Muzon.qmm: locations.12.texts.0.text. Preserve every <tag> exactly. English reference: Suddenly you felt you were losing consciousness. You really shouldn't be spending so much time at the computer, you know? It's unhealthy!"	"Quest,Muzon"	"Нечакана вы адчулі, што губляеце прытомнасьць. Хіба можна так доўга сядзець за кампутарам? Гэта ж шкодна для здароўя!"
 "/quests/Muzon.qmm/locations/13/texts/0/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -477,7 +602,12 @@ No musicians available at this time."	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Instrument: <clr>Drums<clrEnd>
 Musicianship: <clr>poor<clrEnd>
-Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бубнач<clrEnd>
+Майстэрства: <clr>Дрэннае<clrEnd>
+Пад'ёмныя: <clr>200<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/13/texts/1/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -488,7 +618,12 @@ Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Instrument: <clr>Drums<clrEnd>
 Musicianship: <clr>average<clrEnd>
-Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бубнач<clrEnd>
+Майстэрства: <clr>Сярэдняе<clrEnd>
+Пад'ёмныя: <clr>300<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/13/texts/2/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -499,17 +634,22 @@ Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Instrument: <clr>Drums<clrEnd>
 Musicianship: <clr>good<clrEnd>
-Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/0/text"	"- О, классные струны, да и татуировка прикольная, когда сделал? Ну, если хочешь, я пойду в твою группу, возьмешь меня?"	"Quest Muzon.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: - Hey, cool strings, and I like your tat too, when did you make it? Well, if you are interested I could join your band, how's that?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/1/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.1.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/2/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.2.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/3/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.3.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/4/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.4.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/5/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.5.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/6/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.6.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/7/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.7.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/8/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.8.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/15/texts/9/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.9.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	""
+Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бубнач<clrEnd>
+Майстэрства: <clr>Добрае<clrEnd>
+Пад'ёмныя: <clr>400<clrEnd> рокнролераў"
+"/quests/Muzon.qmm/locations/15/texts/0/text"	"- О, классные струны, да и татуировка прикольная, когда сделал? Ну, если хочешь, я пойду в твою группу, возьмешь меня?"	"Quest Muzon.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: - Hey, cool strings, and I like your tat too, when did you make it? Well, if you are interested I could join your band, how's that?"	"Quest,Muzon"	"- О, клясныя струны, ды і татуіроўка файная, калі зрабіў? Ну, калі хочаш, я пайду ў твой гурт, возьмеш мяне?"
+"/quests/Muzon.qmm/locations/15/texts/1/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.1.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/2/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.2.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/3/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.3.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/4/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.4.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/5/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.5.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/6/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.6.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/7/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.7.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/8/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.8.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/15/texts/9/text"	"- Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.15.texts.9.text. Preserve every <tag> exactly. English reference: - Did you give it a thought? Are you taking me in?"	"Quest,Muzon"	"- Ну што, перадумаў? Возьмеш?"
 "/quests/Muzon.qmm/locations/20/texts/0/text"	"Стадион был переполнен. У каждого зрителя был в руках прибор для голосования, позволяющий ему выставить оценку каждой из выступающих групп. Все оценки затем усреднялись, и победителем объявлялась группа, набравшая максимум очков.
 
 Рев зрителей, еле уловимый запах травки, пиво в буфете - как же вы все это любили во времена своей бурной молодости! Вы почувствовали легкую ностальгию...
@@ -520,20 +660,27 @@ Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
 The roar of the crowd, the hardly traceable smell of weed, a river of beers in the bar - man, did you just love all that back during the time of your misspent youth! You felt a slight nostalgia...
 
 One of the promoters walked up to you and said that your band was to go first.
-Damn - they are not making it easy, after all they got such famous bands here today as <clr>Alumminica<clrEnd>, <clr>Pink Asteroid<clrEnd> and <clr>Drink 182<clrEnd>. Oh well, ""let's shred them!"" - any ranger would say"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/21/texts/0/text"	"Вы стоите на сцене. Вокруг полно народу, каждый кричит что-то неразборчивое. Надо что-то предпринять."	"Quest Muzon.qmm: locations.21.texts.0.text. Preserve every <tag> exactly. English reference: You are on stage. There is a huge crowd around and everyone is shouting something incoherent. Got to do something about it."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/30/texts/0/text"	"- А кого именно?"	"Quest Muzon.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: - Who exactly?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/30/texts/1/text"	"- Он иногда в <clr>бар<clrEnd> захаживает, можешь там посмотреть, правда он со странностями, так что имей это в виду."	"Quest Muzon.qmm: locations.30.texts.1.text. Preserve every <tag> exactly. English reference: - Sometimes he'd drop by the <clr>pub<clrEnd> so you may want to go and check if he's there, but he sure is a freak, so I warned you."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/30/texts/2/text"	"- Не, гитариста здесь нет."	"Quest Muzon.qmm: locations.30.texts.2.text. Preserve every <tag> exactly. English reference: - No, the guitarist is not here."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/30/texts/3/text"	"Они здесь вообще редко бывают, да и сейчас не исключение."	"Quest Muzon.qmm: locations.30.texts.3.text. Preserve every <tag> exactly. English reference: It's not that often that they are here, and this time is not the exception."	"Quest,Muzon"	""
+Damn - they are not making it easy, after all they got such famous bands here today as <clr>Alumminica<clrEnd>, <clr>Pink Asteroid<clrEnd> and <clr>Drink 182<clrEnd>. Oh well, ""let's shred them!"" - any ranger would say"	"Quest,Muzon"	"Стадыён быў перапоўнены. У кожнага гледача быў у руках прыбор для галасаваньня, які дазваляў яму выставіць адзнаку кожнаму з гуртоў, што выступаюць. Потым выводзілі сярэднюю адзнаку, і пераможцам абвяшчаўся гурт, які набраў максымум балаў.
+
+Роў гледачоў, ледзь улоўны пах траўкі, піва ў буфэце — як жа вы ўсё гэта любілі ў часы сваёй бурнай маладосьці! Вы адчулі лёгкую настальгію...
+
+Да вас падышоў адзін з арганізатараў і сказаў, што вашаму гурту выпала выступаць першым.
+Хай яму чорт — гэта будзе складана, бо сёлета выступаюць такія гранды, як <clr>Letallica<clrEnd>, <clr>Pink Asteroid<clrEnd> і <clr>Blin 182<clrEnd>. Ну нічога, ""прарвёмся"", адкажа рэйнджэр!"
+"/quests/Muzon.qmm/locations/21/texts/0/text"	"Вы стоите на сцене. Вокруг полно народу, каждый кричит что-то неразборчивое. Надо что-то предпринять."	"Quest Muzon.qmm: locations.21.texts.0.text. Preserve every <tag> exactly. English reference: You are on stage. There is a huge crowd around and everyone is shouting something incoherent. Got to do something about it."	"Quest,Muzon"	"Вы стаіце на сцэне. Навокал поўна народу, кожны крычыць нешта неразборлівае. Трэба нешта рабіць."
+"/quests/Muzon.qmm/locations/30/texts/0/text"	"- А кого именно?"	"Quest Muzon.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: - Who exactly?"	"Quest,Muzon"	"- А каго менавіта?"
+"/quests/Muzon.qmm/locations/30/texts/1/text"	"- Он иногда в <clr>бар<clrEnd> захаживает, можешь там посмотреть, правда он со странностями, так что имей это в виду."	"Quest Muzon.qmm: locations.30.texts.1.text. Preserve every <tag> exactly. English reference: - Sometimes he'd drop by the <clr>pub<clrEnd> so you may want to go and check if he's there, but he sure is a freak, so I warned you."	"Quest,Muzon"	"- Ён часам у <clr>бар<clrEnd> заходзіць, можаш там паглядзець, праўда, ён са дзівацтвамі, так што май гэта на ўвазе."
+"/quests/Muzon.qmm/locations/30/texts/2/text"	"- Не, гитариста здесь нет."	"Quest Muzon.qmm: locations.30.texts.2.text. Preserve every <tag> exactly. English reference: - No, the guitarist is not here."	"Quest,Muzon"	"- Не, гітарыста тут няма."
+"/quests/Muzon.qmm/locations/30/texts/3/text"	"Они здесь вообще редко бывают, да и сейчас не исключение."	"Quest Muzon.qmm: locations.30.texts.3.text. Preserve every <tag> exactly. English reference: It's not that often that they are here, and this time is not the exception."	"Quest,Muzon"	"Яны тут наагул рэдка бываюць, ды і цяпер не выключэньне."
 "/quests/Muzon.qmm/locations/30/texts/4/text"	"Знакомый малок-охранник поприветствовал вас:
 
 - А, это ты! Все еще ищешь музыкантов в свою группу?"	"Quest Muzon.qmm: locations.30.texts.4.text. Preserve every <tag> exactly. English reference: The familiar Maloq-bouncer met you with a grin:
 
-- Oh, you again! Still looking for musicians, are you?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/31/texts/0/text"	"Ночью в баре еще больше народу, чем днем, и выпивка дешевле. За барной стойкой сидит пьяный пеленг."	"Quest Muzon.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: At night there's even more people at the pub, than during the daytime, and the booze is cheaper. A drunken Peleng is sitting at the bar-table."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/31/texts/1/text"	"Ночью в баре еще больше народу, чем днем, и выпивка дешевле. На сцене какой-то человек играет на бас-гитаре. За барной стойкой сидит пьяный пеленг."	"Quest Muzon.qmm: locations.31.texts.1.text. Preserve every <tag> exactly. English reference: At night there's even more people at the pub, than during the daytime, and the booze is cheaper. There's a guy on stage playing a bass-guitar. A drunken Peleng is sitting at the bar-table."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/32/texts/0/text"	"Ночью бар обслуживает робот, что, впрочем, не мешает посетителям напиться, устроить драку, чего-нибудь сломать или типа того. Кстати, ночью пиво дешевле, всего <clr>30<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.32.texts.0.text. Preserve every <tag> exactly. English reference: At night they have a robot bartender, which, however, does not prevent the patrons from getting drunk, starting a brawl break something and stuff. By the way, at night the beer is cheaper - just <clr>30<clrEnd> rockarollars."	"Quest,Muzon"	""
+- Oh, you again! Still looking for musicians, are you?"	"Quest,Muzon"	"Знаёмы ахоўнік-малок павітаў вас:
+
+- А, гэта ты! Усё яшчэ шукаеш музыкаў у свой гурт?"
+"/quests/Muzon.qmm/locations/31/texts/0/text"	"Ночью в баре еще больше народу, чем днем, и выпивка дешевле. За барной стойкой сидит пьяный пеленг."	"Quest Muzon.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: At night there's even more people at the pub, than during the daytime, and the booze is cheaper. A drunken Peleng is sitting at the bar-table."	"Quest,Muzon"	"Уначы ў бары яшчэ больш народу, чым удзень, і выпіўка таньнейшая. За стойкай бару сядзіць п'яны пеленг."
+"/quests/Muzon.qmm/locations/31/texts/1/text"	"Ночью в баре еще больше народу, чем днем, и выпивка дешевле. На сцене какой-то человек играет на бас-гитаре. За барной стойкой сидит пьяный пеленг."	"Quest Muzon.qmm: locations.31.texts.1.text. Preserve every <tag> exactly. English reference: At night there's even more people at the pub, than during the daytime, and the booze is cheaper. There's a guy on stage playing a bass-guitar. A drunken Peleng is sitting at the bar-table."	"Quest,Muzon"	"Уначы ў бары яшчэ больш народу, чым удзень, і выпіўка таньнейшая. На сцэне нейкі чалавек грае на бас-гітары. За стойкай бару сядзіць п'яны пеленг."
+"/quests/Muzon.qmm/locations/32/texts/0/text"	"Ночью бар обслуживает робот, что, впрочем, не мешает посетителям напиться, устроить драку, чего-нибудь сломать или типа того. Кстати, ночью пиво дешевле, всего <clr>30<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.32.texts.0.text. Preserve every <tag> exactly. English reference: At night they have a robot bartender, which, however, does not prevent the patrons from getting drunk, starting a brawl break something and stuff. By the way, at night the beer is cheaper - just <clr>30<clrEnd> rockarollars."	"Quest,Muzon"	"Уначы бар абслугоўвае робат, што, зрэшты, не перашкаджае наведнікам напіцца, учыніць бойку, нешта зламаць ці нешта такое. Дарэчы, уначы піва таньнейшае, усяго <clr>30<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/34/texts/0/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>805<clrEnd>,
 хрэн ти-да означает <clr>78<clrEnd>,
@@ -547,7 +694,14 @@ gou-tuu hell means <clr>78<clrEnd>,
 tuu-hell wizzat means <clr>610<clrEnd>, 
 izzat sou means <clr>27<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>805<clrEnd>,
+хрэн ти-да азначае <clr>78<clrEnd>,
+да ладна-та азначае <clr>610<clrEnd>, 
+ти пнял-да азначае <clr>27<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/1/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>607<clrEnd>,
 хрэн ти-да означает <clr>56<clrEnd>,
@@ -561,7 +715,14 @@ gou-tuu hell means <clr>56<clrEnd>,
 tuu-hell wizzat means <clr>810<clrEnd>, 
 izzat sou means <clr>25<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>607<clrEnd>,
+хрэн ти-да азначае <clr>56<clrEnd>,
+да ладна-та азначае <clr>810<clrEnd>, 
+ти пнял-да азначае <clr>25<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/2/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>708<clrEnd>,
 хрэн ти-да означает <clr>67<clrEnd>,
@@ -575,7 +736,14 @@ gou-tuu hell means <clr>67<clrEnd>,
 tuu-hell wizzat means <clr>210<clrEnd>, 
 izzat sou means <clr>56<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>708<clrEnd>,
+хрэн ти-да азначае <clr>67<clrEnd>,
+да ладна-та азначае <clr>210<clrEnd>, 
+ти пнял-да азначае <clr>56<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/3/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>207<clrEnd>,
 хрэн ти-да означает <clr>52<clrEnd>,
@@ -589,7 +757,14 @@ gou-tuu hell means <clr>52<clrEnd>,
 tuu-hell wizzat means <clr>810<clrEnd>, 
 izzat sou means <clr>65<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>207<clrEnd>,
+хрэн ти-да азначае <clr>52<clrEnd>,
+да ладна-та азначае <clr>810<clrEnd>, 
+ти пнял-да азначае <clr>65<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/4/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>208<clrEnd>,
 хрэн ти-да означает <clr>52<clrEnd>,
@@ -603,7 +778,14 @@ gou-tuu hell means <clr>52<clrEnd>,
 tuu-hell wizzat means <clr>710<clrEnd>, 
 izzat sou means <clr>65<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>208<clrEnd>,
+хрэн ти-да азначае <clr>52<clrEnd>,
+да ладна-та азначае <clr>710<clrEnd>, 
+ти пнял-да азначае <clr>65<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/5/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>206<clrEnd>,
 хрэн ти-да означает <clr>82<clrEnd>,
@@ -617,7 +799,14 @@ gou-tuu hell means <clr>82<clrEnd>,
 tuu-hell wizzat means <clr>510<clrEnd>, 
 izzat sou means <clr>78<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>206<clrEnd>,
+хрэн ти-да азначае <clr>82<clrEnd>,
+да ладна-та азначае <clr>510<clrEnd>, 
+ти пнял-да азначае <clr>78<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/6/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>206<clrEnd>,
 хрэн ти-да означает <clr>52<clrEnd>,
@@ -631,7 +820,14 @@ gou-tuu hell means <clr>52<clrEnd>,
 tuu-hell wizzat means <clr>710<clrEnd>, 
 izzat sou means <clr>85<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>206<clrEnd>,
+хрэн ти-да азначае <clr>52<clrEnd>,
+да ладна-та азначае <clr>710<clrEnd>, 
+ти пнял-да азначае <clr>85<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
 "/quests/Muzon.qmm/locations/34/texts/7/text"	"В древнем языке исчезнувшей цивилизации гоши: 
 чеза хрэн-та означает <clr>607<clrEnd>,
 хрэн ти-да означает <clr>56<clrEnd>,
@@ -645,19 +841,28 @@ gou-tuu hell means <clr>56<clrEnd>,
 tuu-hell wizzat means <clr>210<clrEnd>, 
 izzat sou means <clr>85<clrEnd>.
 
-What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/35/texts/0/text"	"Человек ловко играл на бас-гитаре, он переставлял пальцы с лада на лад так быстро, что у вас закружилась голова."	"Quest Muzon.qmm: locations.35.texts.0.text. Preserve every <tag> exactly. English reference: The guy was a bass-guitar god, his fingers were flying across the fret-board so fast that your head started spinning."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/40/texts/0/text"	"- А я и есть ударник, один из лучших в клубе. Но, к твоему сожалению, я отказываюсь идти к тебе в группу. У нас в рок-клубе существует понятие, что <clr>у настоящего рокера должно быть что-то проколото<clrEnd>. А ты, видно, не настоящий рокер, раз так."	"Quest Muzon.qmm: locations.40.texts.0.text. Preserve every <tag> exactly. English reference: - I am the drummer, one of the best in this club. But I got some bad news for you - I am not going to join your band. We have this rule in our rock-club that <clr>a real rocker should have piercing<clrEnd>. And you don't look like a true rocker to me, since you don't have any."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/41/texts/0/text"	"Гаалец немного удивленно предположил, что вы угадали чисто случайно. Но, как и обещал, дал вам возможность выбрать награду: <clr>струны<clrEnd>, <clr>палки<clrEnd> или полезный <clr>совет<clrEnd>."	"Quest Muzon.qmm: locations.41.texts.0.text. Preserve every <tag> exactly. English reference: The Gaalian looked quite surprised and said something about a wild guess, but a promise is a promise, so he offered you to choose one of the following available prizes: <clr>a set of strings<clrEnd>, <clr>drumsticks<clrEnd> or useful <clr>advice<clrEnd>."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/42/texts/0/text"	"Гаалец сказал, что у него нет времени разговаривать со всякими туристами, но если вы отгадаете его загадку, то он наградит вас струнами, барабанными палками или полезным советом - на ваш выбор..."	"Quest Muzon.qmm: locations.42.texts.0.text. Preserve every <tag> exactly. English reference: The Gaalian said he had no time to waste on some tourist, but if you could guess his riddle he would give you a set of strings, drumsticks, or useful advice - whatever you choose yourself..."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/43/texts/0/text"	"В мрачном, оформленном в антиготическом стиле салоне делают недорогие татуировки и прокалывают все, что болтается."	"Quest Muzon.qmm: locations.43.texts.0.text. Preserve every <tag> exactly. English reference: In the grim tattoo-parlour decorated in anti-gothic fashion you could get a cheap tat and pierce anything that dangles."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/45/texts/0/text"	"Открыв каталог, вы выбираете татуировку. После длительного листания, останавливаетесь на красивой татуировке в виде трехгрифовой гитары и красивого разноцветного дракона - древнего обитателя человеческих планет."	"Quest Muzon.qmm: locations.45.texts.0.text. Preserve every <tag> exactly. English reference: You opened the catalogue and started browsing through the available tattoo-flashes. After some time you stopped on a beautiful tat depicting a three-neck guitar and a colourful dragon - an inhabitant of Human planets."	"Quest,Muzon"	""
+What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Muzon"	"У старажытнай мове зьніклай цывілізацыі гошы: 
+чеза хрэн-та азначае <clr>607<clrEnd>,
+хрэн ти-да азначае <clr>56<clrEnd>,
+да ладна-та азначае <clr>210<clrEnd>, 
+ти пнял-да азначае <clr>85<clrEnd>.
+
+Што азначае на мове гошы
+<clr>ладна чеза-да пнял-та<clrEnd>?"
+"/quests/Muzon.qmm/locations/35/texts/0/text"	"Человек ловко играл на бас-гитаре, он переставлял пальцы с лада на лад так быстро, что у вас закружилась голова."	"Quest Muzon.qmm: locations.35.texts.0.text. Preserve every <tag> exactly. English reference: The guy was a bass-guitar god, his fingers were flying across the fret-board so fast that your head started spinning."	"Quest,Muzon"	"Чалавек спрытна граў на бас-гітары, ён перастаўляў пальцы з ладу на лад так хутка, што ў вас закружылася галава."
+"/quests/Muzon.qmm/locations/40/texts/0/text"	"- А я и есть ударник, один из лучших в клубе. Но, к твоему сожалению, я отказываюсь идти к тебе в группу. У нас в рок-клубе существует понятие, что <clr>у настоящего рокера должно быть что-то проколото<clrEnd>. А ты, видно, не настоящий рокер, раз так."	"Quest Muzon.qmm: locations.40.texts.0.text. Preserve every <tag> exactly. English reference: - I am the drummer, one of the best in this club. But I got some bad news for you - I am not going to join your band. We have this rule in our rock-club that <clr>a real rocker should have piercing<clrEnd>. And you don't look like a true rocker to me, since you don't have any."	"Quest,Muzon"	"- А я і ёсьць бубнач, адзін з найлепшых у клюбе. Але, на твой жаль, я адмаўляюся ісьці да цябе ў гурт. У нас у рок-клюбе ёсьць паняцьце, што <clr>у сапраўднага рокера мусіць быць нешта праколатае<clrEnd>. А ты, відаць, не сапраўдны рокер, раз так."
+"/quests/Muzon.qmm/locations/41/texts/0/text"	"Гаалец немного удивленно предположил, что вы угадали чисто случайно. Но, как и обещал, дал вам возможность выбрать награду: <clr>струны<clrEnd>, <clr>палки<clrEnd> или полезный <clr>совет<clrEnd>."	"Quest Muzon.qmm: locations.41.texts.0.text. Preserve every <tag> exactly. English reference: The Gaalian looked quite surprised and said something about a wild guess, but a promise is a promise, so he offered you to choose one of the following available prizes: <clr>a set of strings<clrEnd>, <clr>drumsticks<clrEnd> or useful <clr>advice<clrEnd>."	"Quest,Muzon"	"Гаалец трохі зьдзіўлена выказаў здагадку, што вы адгадалі чыста выпадкова. Але, як і абяцаў, даў вам магчымасьць абраць узнагароду: <clr>струны<clrEnd>, <clr>палачкі<clrEnd> або карысны <clr>парада<clrEnd>."
+"/quests/Muzon.qmm/locations/42/texts/0/text"	"Гаалец сказал, что у него нет времени разговаривать со всякими туристами, но если вы отгадаете его загадку, то он наградит вас струнами, барабанными палками или полезным советом - на ваш выбор..."	"Quest Muzon.qmm: locations.42.texts.0.text. Preserve every <tag> exactly. English reference: The Gaalian said he had no time to waste on some tourist, but if you could guess his riddle he would give you a set of strings, drumsticks, or useful advice - whatever you choose yourself..."	"Quest,Muzon"	"Гаалец сказаў, што ў яго няма часу размаўляць з усялякімі турыстамі, але калі вы адгадаеце яго загадку, то ён узнагародзіць вас струнамі, барабаннымі палачкамі або карыснай парадай — на ваш выбар..."
+"/quests/Muzon.qmm/locations/43/texts/0/text"	"В мрачном, оформленном в антиготическом стиле салоне делают недорогие татуировки и прокалывают все, что болтается."	"Quest Muzon.qmm: locations.43.texts.0.text. Preserve every <tag> exactly. English reference: In the grim tattoo-parlour decorated in anti-gothic fashion you could get a cheap tat and pierce anything that dangles."	"Quest,Muzon"	"У змрочным салёне, аформленым насуперак готыцы, робяць недарагія татуіроўкі і праколваюць усё, што боўтаецца."
+"/quests/Muzon.qmm/locations/45/texts/0/text"	"Открыв каталог, вы выбираете татуировку. После длительного листания, останавливаетесь на красивой татуировке в виде трехгрифовой гитары и красивого разноцветного дракона - древнего обитателя человеческих планет."	"Quest Muzon.qmm: locations.45.texts.0.text. Preserve every <tag> exactly. English reference: You opened the catalogue and started browsing through the available tattoo-flashes. After some time you stopped on a beautiful tat depicting a three-neck guitar and a colourful dragon - an inhabitant of Human planets."	"Quest,Muzon"	"Адчыніўшы каталёг, вы выбіраеце татуіроўку. Пасьля доўгага гартаньня спыняецеся на прыгожай татуіроўцы ў выглядзе гітары з трыма грыфамі і прыгожага рознакаляровага цмока — старажытнага насельніка людзкіх плянэтаў."
 "/quests/Muzon.qmm/locations/47/texts/0/text"	"Вы нашли клавишника, передали ему привет от Маарли и пригласили его к себе в группу... 
 
 - В группу? Че-то не хочется. Хотя ладно, но только если в бильярд меня обыграешь."	"Quest Muzon.qmm: locations.47.texts.0.text. Preserve every <tag> exactly. English reference: You found the keyboardist, said him hello from Maarlie, and invited him to join your band... 
 
-- Band? Nah, I don't feel like it. Then again, if you win a game of pool against me..."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/48/texts/0/text"	"Стартовая страничка библиотеки вечно тормозит - слишком уж популярны у пользователей книги. Через некоторое время она все же загрузилась. Что желаете почитать? Стоимость одной книги <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.48.texts.0.text. Preserve every <tag> exactly. English reference: The start page of the library takes aeons to load - seems like the net-users are really into reading. Finally it loaded. So what will it be? The cost per one book is <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+- Band? Nah, I don't feel like it. Then again, if you win a game of pool against me..."	"Quest,Muzon"	"Вы знайшлі клавішніка, перадалі яму прывітаньне ад Маарлі і запрасілі яго да сябе ў гурт... 
+
+- У гурт? Нешта не хочацца. Хоць добра, але толькі калі ў більярд мяне абыграеш."
+"/quests/Muzon.qmm/locations/48/texts/0/text"	"Стартовая страничка библиотеки вечно тормозит - слишком уж популярны у пользователей книги. Через некоторое время она все же загрузилась. Что желаете почитать? Стоимость одной книги <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.48.texts.0.text. Preserve every <tag> exactly. English reference: The start page of the library takes aeons to load - seems like the net-users are really into reading. Finally it loaded. So what will it be? The cost per one book is <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"Стартавая старонка бібліятэкі вечна тармозіць — занадта ўжо папулярныя ў карыстальнікаў кнігі. Праз нейкі час яна ўсё ж загрузілася. Што жадаеце пачытаць? Кошт адной кнігі <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/48/texts/1/text"	"Некоторые правила человеческого этикета, приведенные в книге, стали для вас откровением. Оказывается, нельзя говорить незнакомому человеку: ""Ты - скотина!"" Воспитанный человек всегда обращается к незнакомцу на ""вы"" и добавляет слово ""сэр"": ""Вы - скотина, сэр!"" И даже если данный человек вас окончательно достал, все равно не надо говорить ему: ""Заткни свою вонючую пасть!!!"" Намного вежливее будет сказать: ""Не откажите в любезности, милостивый государь, благороднейше соизволить заткнуть свою вонючую пасть!""
 
 Прочитав книгу до конца, вы почувствовали, что стали гораздо культурнее, чем раньше.
@@ -666,13 +871,19 @@ What does <clr>tuu-hell hoo di-gou izzat<clrEnd> means in Goshi then?"	"Quest,Mu
 
 When you finished the book you felt you had become a lot more cultured, than before
 
-Spend another <clr>50<clrEnd> rockarollars for reading?"	"Quest,Muzon"	""
+Spend another <clr>50<clrEnd> rockarollars for reading?"	"Quest,Muzon"	"Некаторыя правілы людзкога этыкету, прыведзеныя ў кнізе, сталі для вас адкрыцьцём. Аказваецца, нельга казаць незнаёмаму чалавеку: ""Ты — скаціна!"" Выхаваны чалавек заўсёды зьвяртаецца да незнаёмца на ""вы"" і дадае слова ""сэр"": ""Вы — скаціна, сэр!"" І нават калі гэты чалавек вас канчаткова дастаў, усё адно не трэба казаць яму: ""Заткні сваю смуродную пашчу!!!"" Нашмат больш ветліва будзе сказаць: ""Не адмоўце ў ласцы, міласьцівы гаспадар, шляхетна зволіць заткнуць сваю смуродную пашчу!""
+
+Прачытаўшы кнігу да канца, вы адчулі, што сталі значна больш культурныя, чым раней.
+
+Патрацім яшчэ <clr>50<clrEnd> рокнролераў на чытаньне?"
 "/quests/Muzon.qmm/locations/48/texts/2/text"	"Вопреки вашим ожиданиям, вместо вожделенной эротики, книга оказалась каким-то скучнейшим романом о любви в допотопные времена, с кучей действующих лиц и многочисленными древними терминами, за объяснением которых приходилось лазить в пухлый глоссарий в конце книги. Такое чтение вам быстро надоело. Эх, только время и деньги зря потеряли!
 
 Будете еще что-нибудь читать? Цена одной книги <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.48.texts.2.text. Preserve every <tag> exactly. English reference: In spite of your expectations, instead of the longed-for soft-core, the book turned out to be an ancient boring love story, with a godzillion of characters and multiple ancient terms, to understand the meaning of which you had to consult a thick glossary in the end of the book. Very soon you were tired of this reading. What a waste of time and money!
 
-Anything else you wanted to read? The cost is <clr>50<clrEnd> rockarollars per book."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/48/texts/3/text"	"Книга известного пеленгского бильярдиста содержала массу ценных советов по игре в бильярд: ""Кий нужно держать всеми четырьмя руками"", ""Никогда не зажмуривайтесь перед ударом!"", ""Во время хода соперника расскажите ему анекдот посмешнее"", и т.д. Пожалуй, теперь вы кое-что понимаете в бильярдной игре!"	"Quest Muzon.qmm: locations.48.texts.3.text. Preserve every <tag> exactly. English reference: The book by a famous Peleng pool-player contained a load of valuable advice on the game: ""Hold the cue-stick with all your four hands"", ""Never close your eyes before the shot!"", ""When it is your opponent's turn tell them a funny joke"", etc. Well, after reading this you surely started understanding the game better!"	"Quest,Muzon"	""
+Anything else you wanted to read? The cost is <clr>50<clrEnd> rockarollars per book."	"Quest,Muzon"	"Насуперак таму, чаго вы чакалі, замест жаданай эротыкі кніга аказалася нейкім найнуднейшым раманам пра каханьне ў дапатопныя часы, з кучай дзейных асобаў і шматлікімі старажытнымі тэрмінамі, дзеля тлумачэньня якіх даводзілася лазіць у тоўсты глясарый у канцы кнігі. Такое чытаньне вам хутка надакучыла. Эх, толькі час і грошы марна згубілі!
+
+Будзеце яшчэ нешта чытаць? Цана адной кнігі <clr>50<clrEnd> рокнролераў."
+"/quests/Muzon.qmm/locations/48/texts/3/text"	"Книга известного пеленгского бильярдиста содержала массу ценных советов по игре в бильярд: ""Кий нужно держать всеми четырьмя руками"", ""Никогда не зажмуривайтесь перед ударом!"", ""Во время хода соперника расскажите ему анекдот посмешнее"", и т.д. Пожалуй, теперь вы кое-что понимаете в бильярдной игре!"	"Quest Muzon.qmm: locations.48.texts.3.text. Preserve every <tag> exactly. English reference: The book by a famous Peleng pool-player contained a load of valuable advice on the game: ""Hold the cue-stick with all your four hands"", ""Never close your eyes before the shot!"", ""When it is your opponent's turn tell them a funny joke"", etc. Well, after reading this you surely started understanding the game better!"	"Quest,Muzon"	"Кніга вядомага пеленгскага більярдыста зьмяшчала процьму каштоўных парадаў па гульні ў більярд: ""Кій трэба трымаць усімі чатырма рукамі"", ""Ніколі не заплюшчвайцеся перад ударам!"", ""Падчас ходу саперніка раскажыце яму вясёлы анэкдот"", і г.д. Бадай, цяпер вы нешта разумееце ў більярднай гульні!"
 "/quests/Muzon.qmm/locations/48/texts/4/text"	"Вы открыли книгу на произвольной странице и прочли следующие лирические строки:
 
 В поле, как болванчики,
@@ -695,34 +906,55 @@ However at this the poetic spell was broken with the most annoying pop-up banner
 
 <clr>""CONGRATULATIONS!!! You are the 10000th person reading this book! As a prize you will get a printed copy of it!!!""<clrEnd>
 
-And indeed soon a large and nice-looking volume entitled ""Contemporary Poetry"" and that had a picture of a man holding a skull on the cover was delivered to your room."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/48/texts/5/text"	"Вы прочитали сборник классических пеленгских нецензурных анекдотов. Настроение сразу повысилось!"	"Quest Muzon.qmm: locations.48.texts.5.text. Preserve every <tag> exactly. English reference: You read a collection of classic Peleng obscene jokes, which certainly improved your mood!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/50/texts/0/text"	"Вам пришлось подождать, пока репетиционный зал приведут в порядок после выступления предыдущей группы. Наконец вы заняли его. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.0.text. Preserve every <tag> exactly. English reference: You had to wait before they cleaned up the rehearsal room after the previous band. Finally you were ready to go. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+And indeed soon a large and nice-looking volume entitled ""Contemporary Poetry"" and that had a picture of a man holding a skull on the cover was delivered to your room."	"Quest,Muzon"	"Вы адчынілі кнігу на адвольнай старонцы і прачыталі наступныя лірычныя радкі:
+
+У полі, быццам цацкі,
+Сьпеюць дзьмухаўцы,
+Ніяк ня магу зразумець,
+Чаму ня сьпее мак?!
+
+Але тут ваш паэтычны настрой быў самым празаічным чынам сапсаваны надпісам, што зьявіўся на экране:
+
+<clr>""ВІНШУЕМ!!! Вы сталі дзесяцітысячным чытачом гэтай выдатнай кнігі! У якасьці прыза вам будзе падараваны друкаваны асобнік!!!""<clrEnd>
+
+І сапраўды, неўзабаве ў ваш пакой даставілі вялікую кнігу ""Сучасная лірыка"" ў прыгожай вокладцы, на якой быў намаляваны чалавек з чэрапам у руцэ."
+"/quests/Muzon.qmm/locations/48/texts/5/text"	"Вы прочитали сборник классических пеленгских нецензурных анекдотов. Настроение сразу повысилось!"	"Quest Muzon.qmm: locations.48.texts.5.text. Preserve every <tag> exactly. English reference: You read a collection of classic Peleng obscene jokes, which certainly improved your mood!"	"Quest,Muzon"	"Вы прачыталі зборнік клясычных пеленгскіх нецэнзурных анэкдотаў. Настрой адразу павысіўся!"
+"/quests/Muzon.qmm/locations/50/texts/0/text"	"Вам пришлось подождать, пока репетиционный зал приведут в порядок после выступления предыдущей группы. Наконец вы заняли его. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.0.text. Preserve every <tag> exactly. English reference: You had to wait before they cleaned up the rehearsal room after the previous band. Finally you were ready to go. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"Вам давялося пачакаць, пакуль рэпэтыцыйную залю прывядуць у парадак пасьля выступу папярэдняга гурту. Нарэшце вы занялі яе. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/1/text"	"""А теперь попробуем играть все вместе!"" - сказали вы и принялись петь песню. С каждым разом ваша группа звучала все лучше и лучше - музыканты явно подстраивались друг под друга!
 
 Вы стоите в репетиционном зале. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.1.text. Preserve every <tag> exactly. English reference: ""Now let's try it altogether!"" - you said and started singing a song. With each and every time you played your band sounded better and better - your musicians were definitely getting the knack of it!
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""А цяпер паспрабуем граць усе разам!"" — сказалі вы і ўзяліся сьпяваць песьню. З кожным разам ваш гурт гучаў усё лепей і лепей — музыкі яўна падладжваліся адзін пад аднаго!
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/2/text"	"""Поработай над ритмом!"" - сказали вы ударнику. Тот принялся неистово лупить по барабанам и тарелкам. Через некоторое время вы отметили, что игра ударника стала гораздо лучше.
 
 Вы стоите в репетиционном зале. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.2.text. Preserve every <tag> exactly. English reference: ""Work on the beat!"" - you told the drummer. He responded by totally whaling out at his drums and cymbals. Soon you noticed that the drummer was now sounding much better.
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""Папрацуй над рытмам!"" — сказалі вы бубначу. Той узяўся шалёна лупцаваць па барабанах і талерках. Праз нейкі час вы адзначылі, што гульня бубнача стала значна лепшая.
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/3/text"	"""Отрепетируй классный проигрыш!"" - сказали вы гитаристу. Он принялся исполнять крутые переборы и вскоре нашел мелодию, которая вам понравилась. Мастерство гитариста повысилось!
 
 Вы стоите в репетиционном зале. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.3.text. Preserve every <tag> exactly. English reference: ""Hey that was good riff - practice it!"" - you told the guitarist. He started shredding his guitar until he finally came up with the riff that you all liked. He was definitely improving his skills!
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""Адрэпэтуй клясны рыф!"" — сказалі вы гітарысту. Ён узяўся выконваць крутыя пераборы і неўзабаве знайшоў мэлёдыю, якая вам спадабалася. Майстэрства гітарыста павысілася!
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/4/text"	"""Для песни нужен проигрыш на басах, - обратились вы к бас-гитаристу. - Подбери что-нибудь!"" Музыкант долго терзал ваш слух тяжелыми аккордами, но наконец вы нашли что-то подходящее. Мастерство бас-гитариста выросло!
 
 Вы стоите в репетиционном зале. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.4.text. Preserve every <tag> exactly. English reference: ""I want a more distinct bass-line here, - you told the bass-player. - Try something!"" The guy spent some time torturing your ears with heavy booming sounds, but finally you found something that sounded good enough. He was definitely improving his skills!
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""Для песьні патрэбная партыя на басах, — зьвярнуліся вы да бас-гітарыста. — Падбяры нешта!"" Музыка доўга мучыў ваш слых цяжкімі акордамі, але нарэшце вы знайшлі нешта прыдатнае. Майстэрства бас-гітарыста вырасла!
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/5/text"	"""Ну-ка, сбацай что-нибудь, - попросили вы клавишника. - Мурку можешь?"" Клавишник тут же принялся лабать какой-то мотивчик. Вы отметили, что его игра вам нравится все больше и больше.
 
 Вы стоите в репетиционном зале. Одна репетиция стоит <clr>50<clrEnd> рокнроллеров."	"Quest Muzon.qmm: locations.50.texts.5.text. Preserve every <tag> exactly. English reference: ""Hey, come on, just jam, dude, - you told the keyboardist. - How about ""Smoke On The Water""?"" The keyboardist started playing and you noticed that you liked him more and more.
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""Ну-ка, сыграй нешта, — папрасілі вы клавішніка. — Мурку можаш?"" Клавішнік адразу ўзяўся граць нейкі матыў. Вы адзначылі, што яго гульня вам падабаецца ўсё больш і больш.
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
 "/quests/Muzon.qmm/locations/50/texts/6/text"	"""А теперь все замолчали! - крикнули вы музыкантом. - Я петь буду!""
 
 Вы начали петь и почувствовали, что основательно забыли, как это делается! Но с каждым куплетом ваше умение восстанавливалось, и вот уже вы заметили, как ваша группа перестает затыкать уши, и даже прислушивается к словам. Ваше умение явно повышается!
@@ -731,8 +963,12 @@ You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rock
 
 You started singing and quickly understood you totally forgot how you do it! But with each and every verse your skills were improving, and soon you noticed that your musicians stopped plugging their ears, and even started singing along. You are definitely improving!
 
-You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/52/texts/0/text"	"Здравствуйте, рейнджер <Ranger>, в вашем почтовом ящике ""<clr>самый_крутой_рейнджер_<clrEnd><Ranger><clr>@драмблер.сом<clrEnd>"" есть сообщения в количестве [p47] штук."	"Quest Muzon.qmm: locations.52.texts.0.text. Preserve every <tag> exactly. English reference: Hello, Ranger <Ranger>, you have [p47]  messages in your mailbox ""<Ranger><clr>_the-magnificent_and_the_wonderful<clrEnd><clr>@hotmale.com<clrEnd>""."	"Quest,Muzon"	""
+You are standing in the rehearsal room. One rehearsal costs <clr>50<clrEnd> rockarollars."	"Quest,Muzon"	"""А цяпер усе змоўклі! — крыкнулі вы музыкам. — Я сьпяваць буду!""
+
+Вы пачалі сьпяваць і адчулі, што грунтоўна забылі, як гэта робіцца! Але з кожным куплетам вашае ўменьне вярталася, і вось ужо вы заўважылі, як ваш гурт перастае затыкаць вушы і нават прыслухоўваецца да словаў. Вашае ўменьне яўна павышаецца!
+
+Вы стаіце ў рэпэтыцыйнай залі. Адна рэпэтыцыя каштуе <clr>50<clrEnd> рокнролераў."
+"/quests/Muzon.qmm/locations/52/texts/0/text"	"Здравствуйте, рейнджер <Ranger>, в вашем почтовом ящике ""<clr>самый_крутой_рейнджер_<clrEnd><Ranger><clr>@драмблер.сом<clrEnd>"" есть сообщения в количестве [p47] штук."	"Quest Muzon.qmm: locations.52.texts.0.text. Preserve every <tag> exactly. English reference: Hello, Ranger <Ranger>, you have [p47]  messages in your mailbox ""<Ranger><clr>_the-magnificent_and_the_wonderful<clrEnd><clr>@hotmale.com<clrEnd>""."	"Quest,Muzon"	"Вітаю, рэйнджэр <Ranger>, у вашай паштовай скрыні ""<clr>самы_круты_рэйнджэр_<clrEnd><Ranger><clr>@драмблер.сом<clrEnd>"" ёсьць паведамленьні ў колькасьці [p47] штук."
 "/quests/Muzon.qmm/locations/52/texts/1/text"	"От кого: <clr>Правительство планеты<clrEnd> <FromPlanet>
 Тема: <clr>Задание<clrEnd>
 
@@ -745,7 +981,13 @@ Subject: <clr>Mission<clrEnd>
 Hello, <Ranger>. Here're the details of your mission:
 You have to form a band of <clr>4<clrEnd> musicians, plus you as a <clr>singer<clrEnd>. You will need <clr>a guitarist<clrEnd>, <clr>a keyboardist<clrEnd>, <clr>a bass player<clrEnd> and <clr>a drummer<clrEnd>. Once you complete the lineup, file a <clr>participation request<clrEnd> and buy a <clr>song<clrEnd>, this you can do in the studio. It is also advisable that you <clr>practice<clrEnd> there. The rest of it is up to you, but don't fail us, we have big hopes for you. 
 
-Regards, <FromPlanet> <clr>Govt<clrEnd>"	"Quest,Muzon"	""
+Regards, <FromPlanet> <clr>Govt<clrEnd>"	"Quest,Muzon"	"Ад каго: <clr>Урад плянэты<clrEnd> <FromPlanet>
+Тэма: <clr>Заданьне<clrEnd>
+
+Вітаю, <Ranger>. Расказваем вам падрабязьней пра ваша заданьне:
+Вам трэба набраць гурт з <clr>4<clrEnd> музыкаў, вы ў ім будзеце ў ролі <clr>вакаліста<clrEnd>. Вам патрэбны <clr>гітарыст<clrEnd>, <clr>клавішнік<clrEnd>, <clr>бас-гітарыст<clrEnd> і <clr>бубнач<clrEnd>. Калі знойдзеце музыкаў, падайце <clr>заяву<clrEnd> і купіце <clr>песьню<clrEnd>, гэта можна зрабіць у студыі. Пажадана таксама <clr>парэпэтаваць<clrEnd> там. Усё астатняе на ваш выбар, але не падвядзіце нас, мы на вас ускладаем вялікія надзеі.
+
+З павагай, <clr>Урад плянэты<clrEnd> <FromPlanet>"
 "/quests/Muzon.qmm/locations/52/texts/2/text"	"От кого: <clr>Научная база Фэяночка<clrEnd>
 Тема: <clr>Статья ""Восходящие и нисходящие потоки воздуха""<clrEnd>
 
@@ -760,7 +1002,14 @@ Subject: <clr>Article ""Ascending and descending air streams""<clrEnd>
 
 However the opposite process - that is downstreaming - is not that easy to understand..."" 
 
-For some reason you decided to delete this message."	"Quest,Muzon"	""
+For some reason you decided to delete this message."	"Quest,Muzon"	"Ад каго: <clr>Навуковая база Фэяначка<clrEnd>
+Тэма: <clr>Артыкул ""Узыходныя і сыходныя патокі паветра""<clrEnd>
+
+""Пакуль хуткасьць цячэньня застаецца на сярэднім узроўні — ніжэй, чым у адыябатычным выпадку для сухога паветра, і вышэй, чым у адыябатычным выпадку для паветра, насычанага вадзяной парай, — мы лёгка можам уявіць сабе, што ізаляваная паветраная маса, якая насычаецца да абсалютнай вільготнасьці пры тэмпэратуры, крыху вышэйшай за тэмпэратуру навакольнага паветра, акажацца ў стане пачаць узыходны рух, бо пры пастуляваных умовах яе тэмпэратура на любой дасягнутай вышыні будзе вышэйшая, чым тэмпэратура навакольнага паветра. 
+
+Аднак супрацьлеглы працэс — сыходнае цячэньне — зразумець не так лёгка..."" 
+
+Вы чамусьці вырашылі выдаліць гэтае паведамленьне."
 "/quests/Muzon.qmm/locations/52/texts/3/text"	"От кого: <clr>Секта ""Сыны Господа""<clrEnd>
 Тема: <clr>Святое письмо<clrEnd>
 
@@ -771,7 +1020,12 @@ Subject: <clr>Holy Message<clrEnd>
 
 ""Once you get this letter copy it 33 million times and send it to 33 million addressees from your address book, and receive GOD'S BLESSING! And if you don't do it, you will be CURSED by the devil. A user once deleted this letter, and his computer was infected by a virus. And another user sent this letter to 33 million addressees and never received this spam from us again...""
 
-You decided to delete the letter, preliminarily running a virus-scan..."	"Quest,Muzon"	""
+You decided to delete the letter, preliminarily running a virus-scan..."	"Quest,Muzon"	"Ад каго: <clr>Сэкта ""Сыны Госпада""<clrEnd>
+Тэма: <clr>Сьвяты ліст<clrEnd>
+
+""Атрымаўшы гэты ліст, зрабіце з яго 33 мільёны копіяў і разашліце яго 33 мільёнам адрасатаў, і будзе вам ШЧАСЬЦЕ! А калі вы гэтага не зробіце, то будзе вам НЯШЧАСЬЦЕ. Адзін карыстальнік выдаліў гэты ліст, і яго кампутар заразіўся вірусам. А другі карыстальнік разаслаў гэты ліст 33 мільёнам адрасатаў і больш ніколі не атрымліваў ад нас падобнага ліста...""
+
+Вы вырашылі выдаліць гэты ліст, праўда, спачатку праверыўшы ноўтбук на вірусы..."
 "/quests/Muzon.qmm/locations/52/texts/4/text"	"От кого: <clr>Рейнджер Дохляга<clrEnd>
 Тема: <clr>Кто хочет освободить систему от доминаторов?<clrEnd>
 
@@ -782,7 +1036,12 @@ Subject: <clr>Want to purge a system from Dominators?<clrEnd>
 
 ""Anyone who is interested in teaming up with me and purge some system from the Dominators, ping me! We can discuss the details. One thing - do not steal nodes from each other!""
 
-You deleted the message - right now it is much more important for you to form that band, and the Dominators can wait."	"Quest,Muzon"	""
+You deleted the message - right now it is much more important for you to form that band, and the Dominators can wait."	"Quest,Muzon"	"Ад каго: <clr>Рэйнджэр Кволы<clrEnd>
+Тэма: <clr>Хто хоча вызваліць сыстэму ад дамінатараў?<clrEnd>
+
+""Хто жадае разам вызваліць якую-небудзь сыстэму, пішыце мне на пошту. Абмяркуем дэталі. Толькі нод адзін у аднаго з-пад носа не красьці!""
+
+Вы сьцерлі гэтае паведамленьне — вам цяпер больш важна набраць гурт, а сыстэмы нікуды не ўцякуць."
 "/quests/Muzon.qmm/locations/52/texts/5/text"	"От кого: <clr>Рейнджер Лаамер<clrEnd>
 Тема: <clr>Достали уже эти ламеры!<clrEnd>
 
@@ -793,7 +1052,12 @@ Subject: <clr>Tired of Lamers?<clrEnd>
 
 ""This is the last time I am explaining this: in order to format a hard disk drive and not lose the data stored thereon, you must have at least 51% of free disk space! If this is the case, first you have to transfer all of the information onto the side of the disk, and format the RIGHT side (do not mix it!). When you see the ""Disk C: format complete 50%"" in the dialogue window, then quickly transfer all of the information to the right, and continue formatting the left side of the disk. As a result we are going to get a completely formatted disk with intact data. What's so difficult about this?!""
 
-You removed the message. Right, look at Mr. Adviser here, as if you did not know how to format a disk yourself!"	"Quest,Muzon"	""
+You removed the message. Right, look at Mr. Adviser here, as if you did not know how to format a disk yourself!"	"Quest,Muzon"	"Ад каго: <clr>Рэйнджэр Лаамер<clrEnd>
+Тэма: <clr>Дасталі ўжо гэтыя ламеры!<clrEnd>
+
+""Тлумачу апошні раз: каб фарматаваць дыск, не згубіўшы наяўную на ім інфармацыю, неабходна мець ня менш за 51% дыска вольным! Калі гэта так, то трэба спачатку скінуць усю інфармацыю на левую палову дыска і фарматаваць ПРАВУЮ (не пераблытайце!). Калі вылезе надпіс ""Disk C: format complete 50%"", трэба хуценька перакінуць усю інфармацыю направа і працягнуць фарматаваньне левай паловы дыска. У выніку атрымаем дыск пасьля поўнага фарматаваньня з захаванай на ім інфармацыяй. Што тут незразумелага?!""
+
+Вы выдалілі гэтае паведамленьне. Яшчэ дарадца знайшоўся, можна падумаць, што вы самі ня ўмееце дыскі фарматаваць!"
 "/quests/Muzon.qmm/locations/54/texts/0/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -804,7 +1068,12 @@ You removed the message. Right, look at Mr. Adviser here, as if you did not know
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Guitarist<clrEnd>
 Musicianship: <clr>poor<clrEnd>
-Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Гітарыст<clrEnd>
+Майстэрства: <clr>Дрэннае<clrEnd>
+Пад'ёмныя: <clr>200<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/54/texts/1/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -815,7 +1084,12 @@ Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Guitarist<clrEnd>
 Musicianship: <clr>average<clrEnd>
-Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Гітарыст<clrEnd>
+Майстэрства: <clr>Сярэдняе<clrEnd>
+Пад'ёмныя: <clr>300<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/54/texts/2/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -826,29 +1100,36 @@ Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Guitarist<clrEnd>
 Musicianship: <clr>good<clrEnd>
-Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/62/texts/0/text"	"О, классный у тебя пирсинг, таких гуманоидов я уважаю, с радостью пойду к тебе в группу, да только <clr>палок барабанных<clrEnd> у меня нет."	"Quest Muzon.qmm: locations.62.texts.0.text. Preserve every <tag> exactly. English reference: Hey, I like your piercing, dude, I have total respect for such humanoids and I will gladly join your band, but I don't have <clr>drumsticks<clrEnd>."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/63/texts/0/text"	"- Впервые вижу здесь культурное создание, - сказал бас-гитарист. - Я вижу у вас книгу ""Современная лирика"". Мне давно хотелось почитать ее в бумажном виде, но я нигде не мог ее достать. Если вы подарите ее мне, то я пойду к вам в группу."	"Quest Muzon.qmm: locations.63.texts.0.text. Preserve every <tag> exactly. English reference: - This is the first time I see somebody who is actually cultured in these parts, - the bass-player said - I see you have a book of ""Contemporary Poetry"". I have been longing to read a hard copy of it for a long time now, but I couldn't find it anywhere. If you could present it to me, I'd join your band."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/0/text"	"Вы решили поразить зрителей не хулиганством, а красивой музыкой. Наверное, стоит сделать что-нибудь, что вы выучили на репетиции."	"Quest Muzon.qmm: locations.64.texts.0.text. Preserve every <tag> exactly. English reference: Rather than to impress the audience with your hooliganism, you thought of playing a really beautiful song. Maybe you should use some of the stuff you practised at the rehearsal."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/1/text"	"Каким музыкальным шедевром вы порадуете зрителей?"	"Quest Muzon.qmm: locations.64.texts.1.text. Preserve every <tag> exactly. English reference: What musical masterpiece you are going to deliver to the audience?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/2/text"	"Хорошая музыка в исполнении классных музыкантов - это именно то, что понравится зрителям!"	"Quest Muzon.qmm: locations.64.texts.2.text. Preserve every <tag> exactly. English reference: Good music played by professional musicians is something that the audience is going to like!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/3/text"	"Что бы сыграть? Забацать соляк, или дать зрителям заценить качество звучания группы в целом?"	"Quest Muzon.qmm: locations.64.texts.3.text. Preserve every <tag> exactly. English reference: What should we do? Play a shredding solo or let the audience see what the band as whole can do?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/4/text"	"Вы стоите на сцене перед ревущей толпой зрителей. Сейчас вы покажете им, что такое настоящая музыка!!!"	"Quest Muzon.qmm: locations.64.texts.4.text. Preserve every <tag> exactly. English reference: You are standing on the scene in front of roaring crowd. Let's show them what real music is about!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/5/text"	"Неужели зрители еще не поняли, кто лучше всех на этом концерте?! Так пусть же послушают ваш <clr>музон<clrEnd>!"	"Quest Muzon.qmm: locations.64.texts.5.text. Preserve every <tag> exactly. English reference: Haven't the audience yet understood who is the best at this show tonight?! Well let them listen to your <clr>muzak<clrEnd>!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/64/texts/6/text"	"Надо бы порадовать зрителей своим музыкальным мастерством. Как именно вы собираетесь это сделать?"	"Quest Muzon.qmm: locations.64.texts.6.text. Preserve every <tag> exactly. English reference: Looks like it's time you impressed the audience with your musical professionalism. How are you going to do it?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/0/text"	"Вы решили сделать что-нибудь неординарное. Вот только что именно?"	"Quest Muzon.qmm: locations.65.texts.0.text. Preserve every <tag> exactly. English reference: You decided you should do something extraordinary but what exactly?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/1/text"	"Сейчас вы покажете зрителям кое-что такое, чего они никогда еще не видели! Пусть они отпадут!!!"	"Quest Muzon.qmm: locations.65.texts.1.text. Preserve every <tag> exactly. English reference: And now you are going to show the crowd something they had never seen before! Let's awe them!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/2/text"	"Черт, вы, кажется, забыли слова очередного куплета! Что ж, придется выкручиваться..."	"Quest Muzon.qmm: locations.65.texts.2.text. Preserve every <tag> exactly. English reference: Oh, damn, you forgot the next verse! Well, let's try and work this out somehow..."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/3/text"	"Если бы зрители хотели послушать музыку, они включили бы один из десятка музыкальных каналов стереовизора и сидели бы дома. На концерте же зрители хотят развлекаться! Так что самое время дать им желаемое!"	"Quest Muzon.qmm: locations.65.texts.3.text. Preserve every <tag> exactly. English reference: If the audience wanted to listen to the music, they would have simply switched on one of the dozen music channels on the stereovision and stayed home. When they are coming to a gig they are expecting to be entertained! So, it's about time you gave them what they came for!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/4/text"	"Зрители могут скучать на чьем угодно концерте, но только не на вашем! В этом они сейчас убедятся!"	"Quest Muzon.qmm: locations.65.texts.4.text. Preserve every <tag> exactly. English reference: The audience can feel bored at whoever else's gig, but not at yours! And no mistake!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/5/text"	"Не пора ли развеселить зрителей чем-нибудь необычным? Кажется, самое время!"	"Quest Muzon.qmm: locations.65.texts.5.text. Preserve every <tag> exactly. English reference: Isn't it time you entertained the audience with something? Looks like about time you did!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/6/text"	"Кажется, настало время внести в ваше выступление живительную струю неординарности. А попросту говоря, пора похулиганить!"	"Quest Muzon.qmm: locations.65.texts.6.text. Preserve every <tag> exactly. English reference: Seems, like it's time your performance was mixed with something extraordinary. In other words - let's get naughty!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/65/texts/7/text"	"""Если к хорошей музыке добавить пару-другую приколов, то хуже не будет"", - подумали вы. Чем бы развлечь зрителей?"	"Quest Muzon.qmm: locations.65.texts.7.text. Preserve every <tag> exactly. English reference: ""If you mix a couple of good gimmicks with good music, it's not going to be worse"", - you thought to yourself. What can you possibly do to entertain the audience?"	"Quest,Muzon"	""
+Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Гітарыст<clrEnd>
+Майстэрства: <clr>Добрае<clrEnd>
+Пад'ёмныя: <clr>400<clrEnd> рокнролераў"
+"/quests/Muzon.qmm/locations/62/texts/0/text"	"О, классный у тебя пирсинг, таких гуманоидов я уважаю, с радостью пойду к тебе в группу, да только <clr>палок барабанных<clrEnd> у меня нет."	"Quest Muzon.qmm: locations.62.texts.0.text. Preserve every <tag> exactly. English reference: Hey, I like your piercing, dude, I have total respect for such humanoids and I will gladly join your band, but I don't have <clr>drumsticks<clrEnd>."	"Quest,Muzon"	"О, клясны ў цябе пірсінг, такіх гуманоідаў я паважаю, з радасьцю пайду да цябе ў гурт, ды толькі <clr>палачак барабанных<clrEnd> у мяне няма."
+"/quests/Muzon.qmm/locations/63/texts/0/text"	"- Впервые вижу здесь культурное создание, - сказал бас-гитарист. - Я вижу у вас книгу ""Современная лирика"". Мне давно хотелось почитать ее в бумажном виде, но я нигде не мог ее достать. Если вы подарите ее мне, то я пойду к вам в группу."	"Quest Muzon.qmm: locations.63.texts.0.text. Preserve every <tag> exactly. English reference: - This is the first time I see somebody who is actually cultured in these parts, - the bass-player said - I see you have a book of ""Contemporary Poetry"". I have been longing to read a hard copy of it for a long time now, but I couldn't find it anywhere. If you could present it to me, I'd join your band."	"Quest,Muzon"	"- Упершыню бачу тут культурную істоту, — сказаў бас-гітарыст. — Я бачу ў вас кнігу ""Сучасная лірыка"". Мне даўно хацелася пачытаць яе ў папяровым выглядзе, але я нідзе не мог яе дастаць. Калі вы падаруеце яе мне, то я пайду да вас у гурт."
+"/quests/Muzon.qmm/locations/64/texts/0/text"	"Вы решили поразить зрителей не хулиганством, а красивой музыкой. Наверное, стоит сделать что-нибудь, что вы выучили на репетиции."	"Quest Muzon.qmm: locations.64.texts.0.text. Preserve every <tag> exactly. English reference: Rather than to impress the audience with your hooliganism, you thought of playing a really beautiful song. Maybe you should use some of the stuff you practised at the rehearsal."	"Quest,Muzon"	"Вы вырашылі ўразіць гледачоў не хуліганствам, а прыгожай музыкай. Мусіць, варта зрабіць нешта, чаму вы навучыліся на рэпэтыцыі."
+"/quests/Muzon.qmm/locations/64/texts/1/text"	"Каким музыкальным шедевром вы порадуете зрителей?"	"Quest Muzon.qmm: locations.64.texts.1.text. Preserve every <tag> exactly. English reference: What musical masterpiece you are going to deliver to the audience?"	"Quest,Muzon"	"Якім музычным шэдэўрам вы парадуеце гледачоў?"
+"/quests/Muzon.qmm/locations/64/texts/2/text"	"Хорошая музыка в исполнении классных музыкантов - это именно то, что понравится зрителям!"	"Quest Muzon.qmm: locations.64.texts.2.text. Preserve every <tag> exactly. English reference: Good music played by professional musicians is something that the audience is going to like!"	"Quest,Muzon"	"Добрая музыка ў выкананьні клясных музыкаў — гэта менавіта тое, што спадабаецца гледачам!"
+"/quests/Muzon.qmm/locations/64/texts/3/text"	"Что бы сыграть? Забацать соляк, или дать зрителям заценить качество звучания группы в целом?"	"Quest Muzon.qmm: locations.64.texts.3.text. Preserve every <tag> exactly. English reference: What should we do? Play a shredding solo or let the audience see what the band as whole can do?"	"Quest,Muzon"	"Што б сыграць? Урэзаць сола, ці даць гледачам ацаніць якасьць гучаньня гурту ў цэлым?"
+"/quests/Muzon.qmm/locations/64/texts/4/text"	"Вы стоите на сцене перед ревущей толпой зрителей. Сейчас вы покажете им, что такое настоящая музыка!!!"	"Quest Muzon.qmm: locations.64.texts.4.text. Preserve every <tag> exactly. English reference: You are standing on the scene in front of roaring crowd. Let's show them what real music is about!!!"	"Quest,Muzon"	"Вы стаіце на сцэне перад натоўпам, што рыкае гледачоў. Зараз вы пакажаце ім, што такое сапраўдная музыка!!!"
+"/quests/Muzon.qmm/locations/64/texts/5/text"	"Неужели зрители еще не поняли, кто лучше всех на этом концерте?! Так пусть же послушают ваш <clr>музон<clrEnd>!"	"Quest Muzon.qmm: locations.64.texts.5.text. Preserve every <tag> exactly. English reference: Haven't the audience yet understood who is the best at this show tonight?! Well let them listen to your <clr>muzak<clrEnd>!"	"Quest,Muzon"	"Няўжо гледачы яшчэ не зразумелі, хто найлепшы на гэтым канцэрце?! Дык няхай жа паслухаюць ваш <clr>музон<clrEnd>!"
+"/quests/Muzon.qmm/locations/64/texts/6/text"	"Надо бы порадовать зрителей своим музыкальным мастерством. Как именно вы собираетесь это сделать?"	"Quest Muzon.qmm: locations.64.texts.6.text. Preserve every <tag> exactly. English reference: Looks like it's time you impressed the audience with your musical professionalism. How are you going to do it?"	"Quest,Muzon"	"Трэба б парадаваць гледачоў сваім музычным майстэрствам. Як менавіта вы зьбіраецеся гэта зрабіць?"
+"/quests/Muzon.qmm/locations/65/texts/0/text"	"Вы решили сделать что-нибудь неординарное. Вот только что именно?"	"Quest Muzon.qmm: locations.65.texts.0.text. Preserve every <tag> exactly. English reference: You decided you should do something extraordinary but what exactly?"	"Quest,Muzon"	"Вы вырашылі зрабіць нешта неардынарнае. Вось толькі што менавіта?"
+"/quests/Muzon.qmm/locations/65/texts/1/text"	"Сейчас вы покажете зрителям кое-что такое, чего они никогда еще не видели! Пусть они отпадут!!!"	"Quest Muzon.qmm: locations.65.texts.1.text. Preserve every <tag> exactly. English reference: And now you are going to show the crowd something they had never seen before! Let's awe them!!!"	"Quest,Muzon"	"Зараз вы пакажаце гледачам нешта такое, чаго яны яшчэ ніколі не бачылі! Няхай яны ападуць!!!"
+"/quests/Muzon.qmm/locations/65/texts/2/text"	"Черт, вы, кажется, забыли слова очередного куплета! Что ж, придется выкручиваться..."	"Quest Muzon.qmm: locations.65.texts.2.text. Preserve every <tag> exactly. English reference: Oh, damn, you forgot the next verse! Well, let's try and work this out somehow..."	"Quest,Muzon"	"Чорт, вы, здаецца, забылі словы чарговага куплета! Што ж, давядзецца выкручвацца..."
+"/quests/Muzon.qmm/locations/65/texts/3/text"	"Если бы зрители хотели послушать музыку, они включили бы один из десятка музыкальных каналов стереовизора и сидели бы дома. На концерте же зрители хотят развлекаться! Так что самое время дать им желаемое!"	"Quest Muzon.qmm: locations.65.texts.3.text. Preserve every <tag> exactly. English reference: If the audience wanted to listen to the music, they would have simply switched on one of the dozen music channels on the stereovision and stayed home. When they are coming to a gig they are expecting to be entertained! So, it's about time you gave them what they came for!"	"Quest,Muzon"	"Калі б гледачы хацелі паслухаць музыку, яны ўключылі б адзін з дзясятка музычных каналаў стэрэавізара і сядзелі б дома. На канцэрце ж гледачы хочуць бавіцца! Так што самы час даць ім жаданае!"
+"/quests/Muzon.qmm/locations/65/texts/4/text"	"Зрители могут скучать на чьем угодно концерте, но только не на вашем! В этом они сейчас убедятся!"	"Quest Muzon.qmm: locations.65.texts.4.text. Preserve every <tag> exactly. English reference: The audience can feel bored at whoever else's gig, but not at yours! And no mistake!"	"Quest,Muzon"	"Гледачы могуць нудзіцца на чыім заўгодна канцэрце, але толькі не на вашым! У гэтым яны зараз упэўняцца!"
+"/quests/Muzon.qmm/locations/65/texts/5/text"	"Не пора ли развеселить зрителей чем-нибудь необычным? Кажется, самое время!"	"Quest Muzon.qmm: locations.65.texts.5.text. Preserve every <tag> exactly. English reference: Isn't it time you entertained the audience with something? Looks like about time you did!"	"Quest,Muzon"	"Ці не пара разьвесяліць гледачоў нечым незвычайным? Здаецца, самы час!"
+"/quests/Muzon.qmm/locations/65/texts/6/text"	"Кажется, настало время внести в ваше выступление живительную струю неординарности. А попросту говоря, пора похулиганить!"	"Quest Muzon.qmm: locations.65.texts.6.text. Preserve every <tag> exactly. English reference: Seems, like it's time your performance was mixed with something extraordinary. In other words - let's get naughty!"	"Quest,Muzon"	"Здаецца, настаў час унесьці ў ваш выступ жыватворны струмень неардынарнасьці. А папросту кажучы, пара нахуліганіць!"
+"/quests/Muzon.qmm/locations/65/texts/7/text"	"""Если к хорошей музыке добавить пару-другую приколов, то хуже не будет"", - подумали вы. Чем бы развлечь зрителей?"	"Quest Muzon.qmm: locations.65.texts.7.text. Preserve every <tag> exactly. English reference: ""If you mix a couple of good gimmicks with good music, it's not going to be worse"", - you thought to yourself. What can you possibly do to entertain the audience?"	"Quest,Muzon"	"""Калі да добрай музыкі дадаць пару прыколаў, то горш не будзе"", — падумалі вы. Чым бы разьвесяліць гледачоў?"
 "/quests/Muzon.qmm/locations/65/texts/8/text"	"Вы собрались хулиганить? Но где же <clr>музыкальные<clrEnd> фишки?! Это ведь все-таки концерт, а не стереошоу ""Кто тупее""! Чтобы понравиться зрителям, надо хоть время от времени разбавлять спецэффекты и хулиганские действия музыкальными номерами. Зрители своим посвистыванием недвусмысленно дали вам это понять.
 
 Итак, как будем хулиганить на этот раз?"	"Quest Muzon.qmm: locations.65.texts.8.text. Preserve every <tag> exactly. English reference: You wanted to make a ""show""? But where are all the <clr>musical<clrEnd> gimmicks?! After all this is a live concert, not some stupid stereo-show ""Dumb & Dumber""! In order for the audience appreciate your performance, the special effects and the show have to be mixed with musical numbers. And the booing of the audience was an obvious proof of that.
 
-So what are you going to do now?"	"Quest,Muzon"	""
+So what are you going to do now?"	"Quest,Muzon"	"Вы сабраліся хуліганіць? Але дзе ж <clr>музычныя<clrEnd> фішкі?! Гэта ж усё-ткі канцэрт, а не стэрэа-шоў ""Хто тупей""! Каб спадабацца гледачам, трэба хоць час ад часу разбаўляць адмысловыя эфэкты і хуліганскія дзеяньні музычнымі нумарамі. Гледачы сваім пасьвістваньнем недвухсэнсоўна далі вам гэта зразумець.
+
+Дык як будзем хуліганіць гэтым разам?"
 "/quests/Muzon.qmm/locations/65/texts/9/text"	"Видя, что вместо музыки вы собрались попотчевать их очередной хулиганской выходкой, зрители откровенно вас освистали. 
 
 - Где крутая <clr>музыка<clrEnd>?! Даешь гипер-рок!!! - слышались крики. 
@@ -857,8 +1138,12 @@ So what are you going to do now?"	"Quest,Muzon"	""
 
 - Where's the cool <clr>music<clrEnd>?! Hyper-rock forever!!! - you heard the shout. 
 
-Let's hope that your hooliganism will entertain the audience enough to compensate for your dropping rating, So what are you going to do?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/71/texts/0/text"	"Вы закончили свое выступление. Теперь нужно дожидаться выступлений остальных групп. Что вы будете делать?"	"Quest Muzon.qmm: locations.71.texts.0.text. Preserve every <tag> exactly. English reference: You finished your act. Now you have to wait for the other bands to perform. What are you going to do?"	"Quest,Muzon"	""
+Let's hope that your hooliganism will entertain the audience enough to compensate for your dropping rating, So what are you going to do?"	"Quest,Muzon"	"Бачачы, што замест музыкі вы сабраліся пачаставаць іх чарговым хуліганскім выбрыкам, гледачы адкрыта вас асьвісталі. 
+
+- Дзе крутая <clr>музыка<clrEnd>?! Даеш гіпэр-рок!!! — чуліся крыкі. 
+
+Будзем спадзявацца, што ваша хуліганства павесяліць гледачоў дастаткова, каб кампэнсаваць падзеньне рэйтынгу. Дык чым будзем весяліць гледачоў?"
+"/quests/Muzon.qmm/locations/71/texts/0/text"	"Вы закончили свое выступление. Теперь нужно дожидаться выступлений остальных групп. Что вы будете делать?"	"Quest Muzon.qmm: locations.71.texts.0.text. Preserve every <tag> exactly. English reference: You finished your act. Now you have to wait for the other bands to perform. What are you going to do?"	"Quest,Muzon"	"Вы скончылі свой выступ. Цяпер трэба дачакацца выступаў астатніх гуртоў. Што вы будзеце рабіць?"
 "/quests/Muzon.qmm/locations/75/texts/0/text"	"На табло появились оценки:
 <clr>Ваша группа<clrEnd>: [p39]
 Группа Letallica: [p40]
@@ -875,7 +1160,15 @@ Drink 182: [p42]
 ...
 
 The scores of other bands were considerably lower. There was no doubt about it: <clr>you won<clrEnd>!!!
-The audience roared with cheers and chants. The promoters gave you a prize trophy and a certificate. Having celebrated your victory by throwing a huge bash at one of the best restaurants of this planet you left in the morning."	"Quest,Muzon"	""
+The audience roared with cheers and chants. The promoters gave you a prize trophy and a certificate. Having celebrated your victory by throwing a huge bash at one of the best restaurants of this planet you left in the morning."	"Quest,Muzon"	"На табло зьявіліся адзнакі:
+<clr>Ваш гурт<clrEnd>: [p39]
+Гурт Letallica: [p40]
+Гурт Pink Asteroid: [p41]
+Гурт Blin 182: [p42]
+...
+
+Адзнакі іншых гуртоў былі прыкметна ніжэйшыя. Сумневу не засталося: <clr>вы перамаглі<clrEnd>!!!
+Заля імгненна напоўнілася авацыямі і крыкамі віншаваньняў. Арганізатары ўручылі вам кубак і грамату. З размахам адзначыўшы перамогу ў найлепшым рэстаране гэтай плянэты, вы на наступную раніцу паляцелі адсюль."
 "/quests/Muzon.qmm/locations/76/texts/0/text"	"На табло появились оценки:
 <clr>Ваша группа<clrEnd>: [p39]
 Группа Letallica: [p40]
@@ -894,7 +1187,16 @@ Drink 182: [p42]
 
 The scores of other bands were considerably lower. But to you it did not matter: the winners were <clr>Alumminica<clrEnd>, not you.
 
-Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	""
+Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	"На табло зьявіліся адзнакі:
+<clr>Ваш гурт<clrEnd>: [p39]
+Гурт Letallica: [p40]
+Гурт Pink Asteroid: [p41]
+Гурт Blin 182: [p42]
+...
+
+Адзнакі астатніх гуртоў былі прыкметна ніжэйшыя. Але для вас гэта ўжо было няважна: пераможцам абвешчаны гурт <clr>Letallica<clrEnd>, а не ваш.
+
+У засмучэньні вы паехалі ў касмапорт, нават ні з кім не разьвітаўшыся."
 "/quests/Muzon.qmm/locations/76/texts/1/text"	"На табло появились оценки:
 <clr>Ваша группа<clrEnd>: [p39]
 Группа Letallica: [p40]
@@ -913,7 +1215,16 @@ Drink 182: [p42]
 
 The scores of other bands were considerably lower. But to you it did not matter: the winners were <clr>Pink Asteroid<clrEnd>, not you.
 
-Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	""
+Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	"На табло зьявіліся адзнакі:
+<clr>Ваш гурт<clrEnd>: [p39]
+Гурт Letallica: [p40]
+Гурт Pink Asteroid: [p41]
+Гурт Blin 182: [p42]
+...
+
+Адзнакі астатніх гуртоў былі прыкметна ніжэйшыя. Але для вас гэта ўжо было няважна: пераможцам абвешчаны гурт <clr>Pink Asteroid<clrEnd>, а не ваш.
+
+У засмучэньні вы паехалі ў касмапорт, нават ні з кім не разьвітаўшыся."
 "/quests/Muzon.qmm/locations/76/texts/2/text"	"На табло появились оценки:
 <clr>Ваша группа<clrEnd>: [p39]
 Группа Letallica: [p40]
@@ -932,7 +1243,16 @@ Drink 182: [p42]
 
 The scores of other bands were considerably lower. But to you it did not matter: the winners were <clr>Drink 182<clrEnd>, not you.
 
-Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	""
+Upset by the loss, you went to the spaceport, without even saying goodbye to anyone."	"Quest,Muzon"	"На табло зьявіліся адзнакі:
+<clr>Ваш гурт<clrEnd>: [p39]
+Гурт Letallica: [p40]
+Гурт Pink Asteroid: [p41]
+Гурт Blin 182: [p42]
+...
+
+Адзнакі астатніх гуртоў былі прыкметна ніжэйшыя. Але для вас гэта ўжо было няважна: пераможцам абвешчаны гурт <clr>Blin 182<clrEnd>, а не ваш.
+
+У засмучэньні вы паехалі ў касмапорт, нават ні з кім не разьвітаўшыся."
 "/quests/Muzon.qmm/locations/77/texts/0/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -943,7 +1263,12 @@ Upset by the loss, you went to the spaceport, without even saying goodbye to any
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Keyboardist<clrEnd>
 Musicianship: <clr>poor<clrEnd>
-Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Клавішнік<clrEnd>
+Майстэрства: <clr>Дрэннае<clrEnd>
+Пад'ёмныя: <clr>200<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/77/texts/1/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -954,7 +1279,12 @@ Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Keyboardist<clrEnd>
 Musicianship: <clr>average<clrEnd>
-Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Клавішнік<clrEnd>
+Майстэрства: <clr>Сярэдняе<clrEnd>
+Пад'ёмныя: <clr>300<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/77/texts/2/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -965,7 +1295,12 @@ Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Keyboardist<clrEnd>
 Musicianship: <clr>good<clrEnd>
-Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Клавішнік<clrEnd>
+Майстэрства: <clr>Добрае<clrEnd>
+Пад'ёмныя: <clr>400<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/78/texts/0/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -976,7 +1311,12 @@ Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Bass-player<clrEnd>
 Musicianship: <clr>poor<clrEnd>
-Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бас-гітарыст<clrEnd>
+Майстэрства: <clr>Дрэннае<clrEnd>
+Пад'ёмныя: <clr>200<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/78/texts/1/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -987,7 +1327,12 @@ Start-up fee: <clr>200<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Bass-player<clrEnd>
 Musicianship: <clr>average<clrEnd>
-Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бас-гітарыст<clrEnd>
+Майстэрства: <clr>Сярэдняе<clrEnd>
+Пад'ёмныя: <clr>300<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/78/texts/2/text"	"Поиск завершен.
 
 Найден <clr>1<clrEnd> музыкант:
@@ -998,41 +1343,52 @@ Start-up fee: <clr>300<clrEnd> rockarollars"	"Quest,Muzon"	""
 Found <clr>1<clrEnd> musician:
 Occupation: <clr>Bass-player<clrEnd>
 Musicianship: <clr>good<clrEnd>
-Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	""
+Start-up fee: <clr>400<clrEnd> rockarollars"	"Quest,Muzon"	"Пошук завершаны.
+
+Знойдзены <clr>1<clrEnd> музыка:
+Прафэсія: <clr>Бас-гітарыст<clrEnd>
+Майстэрства: <clr>Добрае<clrEnd>
+Пад'ёмныя: <clr>400<clrEnd> рокнролераў"
 "/quests/Muzon.qmm/locations/80/texts/0/text"	"Вы так и не подали заявку на выступление в концерте. А значит, вы лишний на этом празднике музыки! Пришлось вам ни с чем вернуться в космопорт.
 
 Вы <clr>провалили<clrEnd> свою миссию."	"Quest Muzon.qmm: locations.80.texts.0.text. Preserve every <tag> exactly. English reference: You forgot to check in at the fest. Which means you are not wanted at this celebration of music! You had no other choice but to go back to the spaceport.
 
-You <clr>failed<clrEnd> your mission."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/82/texts/0/text"	"- О, у тебя крутая татуировка, только вот у меня <clr>струны<clrEnd> износились. Если принесешь новые струны, я пойду к тебе в группу."	"Quest Muzon.qmm: locations.82.texts.0.text. Preserve every <tag> exactly. English reference: - Hey, cool tattoo, dude, only that the <clr>strings<clrEnd> on my guitar got all worn out. If you bring me a set of new strings I will join your band."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/0/text"	"- О, у тебя <clr>ухо проколото<clrEnd>, тогда я могу пойти к тебе ударником, только у меня палок нету. Что, у тебя и <clr>палки<clrEnd> есть тоже?! Ну ты молодец! Так что, возьмешь меня?"	"Quest Muzon.qmm: locations.83.texts.0.text. Preserve every <tag> exactly. English reference: - Hey you have <clr>piercing in your ear <clrEnd>, then I can join you as a drummer, only that I don't have drumsticks. What, you have <clr>drumsticks<clrEnd> too?! Geez, man! So can I join your band?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/1/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.1.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/2/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.2.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/3/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.3.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/4/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.4.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/5/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.5.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/6/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.6.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/7/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.7.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/8/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.8.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/83/texts/9/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.9.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	""
+You <clr>failed<clrEnd> your mission."	"Quest,Muzon"	"Вы так і не падалі заяву на выступ у канцэрце. А значыць, вы лішні на гэтым сьвяце музыкі! Давялося вам ні з чым вярнуцца ў касмапорт.
+
+Вы <clr>правалілі<clrEnd> сваю місію."
+"/quests/Muzon.qmm/locations/82/texts/0/text"	"- О, у тебя крутая татуировка, только вот у меня <clr>струны<clrEnd> износились. Если принесешь новые струны, я пойду к тебе в группу."	"Quest Muzon.qmm: locations.82.texts.0.text. Preserve every <tag> exactly. English reference: - Hey, cool tattoo, dude, only that the <clr>strings<clrEnd> on my guitar got all worn out. If you bring me a set of new strings I will join your band."	"Quest,Muzon"	"- О, у цябе крутая татуіроўка, толькі вось у мяне <clr>струны<clrEnd> зносіліся. Калі прынясеш новыя струны, я пайду да цябе ў гурт."
+"/quests/Muzon.qmm/locations/83/texts/0/text"	"- О, у тебя <clr>ухо проколото<clrEnd>, тогда я могу пойти к тебе ударником, только у меня палок нету. Что, у тебя и <clr>палки<clrEnd> есть тоже?! Ну ты молодец! Так что, возьмешь меня?"	"Quest Muzon.qmm: locations.83.texts.0.text. Preserve every <tag> exactly. English reference: - Hey you have <clr>piercing in your ear <clrEnd>, then I can join you as a drummer, only that I don't have drumsticks. What, you have <clr>drumsticks<clrEnd> too?! Geez, man! So can I join your band?"	"Quest,Muzon"	"- О, у цябе <clr>вуха праколатае<clrEnd>, тады я магу пайсьці да цябе бубначом, толькі ў мяне палачак няма. Што, у цябе і <clr>палачкі<clrEnd> ёсьць таксама?! Ну ты малайчына! Дык што, возьмеш мяне?"
+"/quests/Muzon.qmm/locations/83/texts/1/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.1.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/2/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.2.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/3/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.3.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/4/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.4.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/5/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.5.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/6/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.6.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/7/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.7.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/8/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.8.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
+"/quests/Muzon.qmm/locations/83/texts/9/text"	"Ну что, передумал? Возьмешь?"	"Quest Muzon.qmm: locations.83.texts.9.text. Preserve every <tag> exactly. English reference: Did you give it a thought? Will you take me?"	"Quest,Muzon"	"Ну што, перадумаў? Возьмеш?"
 "/quests/Muzon.qmm/locations/89/texts/0/text"	"Вам до смерти надоели все эти музыканты со своими капризами и неимоверными финансовыми запросами. Лучше повоевать с доминаторами, а планета <FromPlanet> пусть ищет себе других лидеров групп.
 
 Вы <clr>провалили<clrEnd> свою миссию."	"Quest Muzon.qmm: locations.89.texts.0.text. Preserve every <tag> exactly. English reference: You were sick to death of all these wannabe rock stars with all their whims and exaggerated financial expectations. Better go and fight some Dominators, and let planet <FromPlanet> find it some other band-leader.
 
-You <clr>failed <clrEnd> your mission."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/0/text"	"Какой гипер-рок-концерт обходится без спецэффектов? Да никакой!!!"	"Quest Muzon.qmm: locations.91.texts.0.text. Preserve every <tag> exactly. English reference: What hyper-rock gig would it be without special effects? No way!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/1/text"	"Зрители хотят шоу? Они его получат! Даешь спецэффекты!!!"	"Quest Muzon.qmm: locations.91.texts.1.text. Preserve every <tag> exactly. English reference: The audience wants a show? Let's give it to them! Bring the FX on!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/2/text"	"Что если добавить малость спецэффектов?"	"Quest Muzon.qmm: locations.91.texts.2.text. Preserve every <tag> exactly. English reference: What if we add some special FX?"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/3/text"	"Немного взрывов еще никому не мешало!!!"	"Quest Muzon.qmm: locations.91.texts.3.text. Preserve every <tag> exactly. English reference: A little explosions never hurt anybody!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/4/text"	"Что-то скучно и темно в зале, добавим огня!!!"	"Quest Muzon.qmm: locations.91.texts.4.text. Preserve every <tag> exactly. English reference: It's kind of dark and dull in here - let's bring the fire!!!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/5/text"	"Кто ходит на концерты ради музыки?! Ну, кое-кто может и ходит, но ведь музыка без спецэффектов - это все равно, что книга без картинок! Пора устроить настоящее шоу!"	"Quest Muzon.qmm: locations.91.texts.5.text. Preserve every <tag> exactly. English reference: Who would possibly come to a gig to listen to the music?! Well, some people might, but music is nothing without special FX - it's like a book without pictures! Time for the real thing!"	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/6/text"	"Знаменитые пеленгские фейерверки - каждый пятый срабатывает удачно! Авось, вам повезет, и спецэффекты не укокошат никого из зрителей."	"Quest Muzon.qmm: locations.91.texts.6.text. Preserve every <tag> exactly. English reference: The famous Peleng fireworks - each fifth of them actually works properly! Hope you get lucky and none of the fans get killed."	"Quest,Muzon"	""
-"/quests/Muzon.qmm/locations/91/texts/7/text"	"Добавим спецэффектов!!! Зажигать, так зажигать!!!"	"Quest Muzon.qmm: locations.91.texts.7.text. Preserve every <tag> exactly. English reference: Let's add some special FX!!! Fire'em up!!!"	"Quest,Muzon"	""
+You <clr>failed <clrEnd> your mission."	"Quest,Muzon"	"Вам да сьмерці абрыдлі ўсе гэтыя музыкі са сваімі капрызамі і неімавернымі фінансавымі запытамі. Лепей паваяваць з дамінатарамі, а плянэта <FromPlanet> няхай шукае сабе іншых лідэраў гуртоў.
+
+Вы <clr>правалілі<clrEnd> сваю місію."
+"/quests/Muzon.qmm/locations/91/texts/0/text"	"Какой гипер-рок-концерт обходится без спецэффектов? Да никакой!!!"	"Quest Muzon.qmm: locations.91.texts.0.text. Preserve every <tag> exactly. English reference: What hyper-rock gig would it be without special effects? No way!!!"	"Quest,Muzon"	"Які гіпэр-рок-канцэрт абыходзіцца без адмысловых эфэктаў? Ды ніякі!!!"
+"/quests/Muzon.qmm/locations/91/texts/1/text"	"Зрители хотят шоу? Они его получат! Даешь спецэффекты!!!"	"Quest Muzon.qmm: locations.91.texts.1.text. Preserve every <tag> exactly. English reference: The audience wants a show? Let's give it to them! Bring the FX on!!!"	"Quest,Muzon"	"Гледачы хочуць шоў? Яны яго атрымаюць! Даеш адмысловыя эфэкты!!!"
+"/quests/Muzon.qmm/locations/91/texts/2/text"	"Что если добавить малость спецэффектов?"	"Quest Muzon.qmm: locations.91.texts.2.text. Preserve every <tag> exactly. English reference: What if we add some special FX?"	"Quest,Muzon"	"Што, калі дадаць трохі адмысловых эфэктаў?"
+"/quests/Muzon.qmm/locations/91/texts/3/text"	"Немного взрывов еще никому не мешало!!!"	"Quest Muzon.qmm: locations.91.texts.3.text. Preserve every <tag> exactly. English reference: A little explosions never hurt anybody!!!"	"Quest,Muzon"	"Трохі выбухаў яшчэ нікому не перашкодзіла!!!"
+"/quests/Muzon.qmm/locations/91/texts/4/text"	"Что-то скучно и темно в зале, добавим огня!!!"	"Quest Muzon.qmm: locations.91.texts.4.text. Preserve every <tag> exactly. English reference: It's kind of dark and dull in here - let's bring the fire!!!"	"Quest,Muzon"	"Нешта нудна і цёмна ў залі, падкінем агню!!!"
+"/quests/Muzon.qmm/locations/91/texts/5/text"	"Кто ходит на концерты ради музыки?! Ну, кое-кто может и ходит, но ведь музыка без спецэффектов - это все равно, что книга без картинок! Пора устроить настоящее шоу!"	"Quest Muzon.qmm: locations.91.texts.5.text. Preserve every <tag> exactly. English reference: Who would possibly come to a gig to listen to the music?! Well, some people might, but music is nothing without special FX - it's like a book without pictures! Time for the real thing!"	"Quest,Muzon"	"Хто ходзіць на канцэрты дзеля музыкі?! Ну, нехта можа і ходзіць, але ж музыка без адмысловых эфэктаў — гэта ўсё адно, што кніга без малюнкаў! Пара ўладкаваць сапраўднае шоў!"
+"/quests/Muzon.qmm/locations/91/texts/6/text"	"Знаменитые пеленгские фейерверки - каждый пятый срабатывает удачно! Авось, вам повезет, и спецэффекты не укокошат никого из зрителей."	"Quest Muzon.qmm: locations.91.texts.6.text. Preserve every <tag> exactly. English reference: The famous Peleng fireworks - each fifth of them actually works properly! Hope you get lucky and none of the fans get killed."	"Quest,Muzon"	"Знакамітыя пеленгскія феерверкі — кожны пяты спрацоўвае ўдала! Можа, вам пашанцуе, і адмысловыя эфэкты нікога з гледачоў не заб'юць."
+"/quests/Muzon.qmm/locations/91/texts/7/text"	"Добавим спецэффектов!!! Зажигать, так зажигать!!!"	"Quest Muzon.qmm: locations.91.texts.7.text. Preserve every <tag> exactly. English reference: Let's add some special FX!!! Fire'em up!!!"	"Quest,Muzon"	"Падкінем адмысловых эфэктаў!!! Запальваць, дык запальваць!!!"
 "/quests/Muzon.qmm/locations/91/texts/8/text"	"Не слишком ли вы увлеклись хулиганством да спецэффектами? Зрители соскучились по крутой <clr>музыке<clrEnd>! Это ведь все-таки концерт, а не полигон для испытаний малокской пиротехники... Чтобы понравиться зрителям, надо хоть время от времени разбавлять спецэффекты и хулиганские действия музыкальными номерами. Зрители своим посвистыванием недвусмысленно дали вам это понять.
 
 Что ж, раз уж вы решили использовать спецэффект, то надо выбрать, какой именно."	"Quest Muzon.qmm: locations.91.texts.8.text. Preserve every <tag> exactly. English reference: Haven't you a bit overdone it with the show and special effects? The audience want to hear cool <clr>music<clrEnd>! After all this is a live concert not the proving ground for Maloq pyro... In order for the audience appreciate your performance, the special effects and the show have to be mixed with musical numbers. And the booing of the audience was an obvious proof of that.
 
-But since you decided you wanted to try some special effect, you have to choose which one."	"Quest,Muzon"	""
+But since you decided you wanted to try some special effect, you have to choose which one."	"Quest,Muzon"	"Ці не занадта вы захапіліся хуліганствам ды адмысловымі эфэктамі? Гледачы сумавалі па крутой <clr>музыцы<clrEnd>! Гэта ж усё-ткі канцэрт, а не палігон для выпрабаваньняў піратэхнікі малокаў... Каб спадабацца гледачам, трэба хоць час ад часу разбаўляць адмысловыя эфэкты і хуліганскія дзеяньні музычнымі нумарамі. Гледачы сваім пасьвістваньнем недвухсэнсоўна далі вам гэта зразумець.
+
+Што ж, раз ужо вы вырашылі ўжыць адмысловы эфэкт, то трэба абраць, які менавіта."
 "/quests/Muzon.qmm/locations/91/texts/9/text"	"Видя, что вместо музыки вы готовите им какой-то спецэффект, зрители пришли в бешенство:
 
 - Задрал уже со своими шоу! Даешь крутую <clr>музыку<clrEnd>!!! Хотим гипер-рок!!! - слышались крики. 
@@ -1041,7 +1397,11 @@ But since you decided you wanted to try some special effect, you have to choose 
 
 - Take your show and shove it! Give us the <clr>music<clrEnd>!!! We want hyper-rock!!! - you heard them shout.
 
-Alright so what special effect we are going to unleash on them now?"	"Quest,Muzon"	""
+Alright so what special effect we are going to unleash on them now?"	"Quest,Muzon"	"Бачачы, што замест музыкі вы рыхтуеце ім нейкі адмысловы эфэкт, гледачы прыйшлі ў шал:
+
+- Задраў ужо са сваімі шоў! Даеш крутую <clr>музыку<clrEnd>!!! Хочам гіпэр-рок!!! — чуліся крыкі. 
+
+Якім адмысловым эфэктам памучым гледачоў?"
 "/quests/Muzon.qmm/jumps/0/text"	"На главную площадь"	"Quest Muzon.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: To the main square"	"Quest,Muzon"	"На галоўную плошчу"
 "/quests/Muzon.qmm/jumps/1/text"	"В студию"	"Quest Muzon.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: To the studio"	"Quest,Muzon"	"У студыю"
 "/quests/Muzon.qmm/jumps/2/text"	"В рок-клуб"	"Quest Muzon.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: To the rock-club"	"Quest,Muzon"	"У рок-клюб"
