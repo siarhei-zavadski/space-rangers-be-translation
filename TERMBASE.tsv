@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы/карпус		Starnik: ship/me
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін		game race; pl клісаны, клісанаў; instrumental клісанамі	—
+lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх		game race; pl клісаны, клісанаў; instrumental клісанамі	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску		race; N пеленг already in lemma.golden_peleng	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -529,7 +529,7 @@ lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Сма
 lemma.laser	лазер	laser	лязэр		equipment lock; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
-lemma.cyborg	киборг	cyborg	кіборг		QMM combat unit; hunspell gap	—
+lemma.cyborg	киборг	cyborg	кіборг/кіборга		QMM combat unit; hunspell gap	—
 lemma.pharaoh	фараон	pharaoh	фараон		Uguptian title; Pharaon.qmm	—
 lemma.ares	Арес	Ares	Арес		letter-set АРЕС; not Арэс (Э vs Е in звер)	—
 lemma.vmaz	Вмаз	Vmaz	Вмаз		letter-set ВМАЗ	—
@@ -942,7 +942,7 @@ lemma.drink_strength	крепость	alcohol strength	мацунак	крапа
 lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
 lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
 lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму/Тардымам		malok prince; Тары is his wife's nickname	Banket.qmm
-lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі		the prince's boom-name; ASCII apostrophe	Banket.qmm
+lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі/Ба'Бах		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
 lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
