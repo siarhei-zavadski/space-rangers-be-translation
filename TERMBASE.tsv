@@ -80,7 +80,7 @@ lemma.game	игра	game	гульня		Crowdin glossary; гульні, гуль�
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў		Crowdin glossary	—
-lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
+lemma.planet	планета	planet	плянэта/Плянэта/плянэты		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
 lemma.save	сохранение	save	захаваньне		Crowdin glossary; захаваньня, захаваньні	—
@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl кар�
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі		game race; pl клісаны, клісанаў; instrumental клісанамі	—
+lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны		game race; pl клісаны, клісанаў; instrumental клісанамі	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -806,7 +806,7 @@ lemma.torment	томить	keep in suspense	таміце	марудзьце	butt
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
 lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
-lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец		Coalition race	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
@@ -867,5 +867,27 @@ lemma.composter	Балдимир Компостер	Baldimir Composter	Баль�
 lemma.kulibchin	Лякуша Кулибчин	Lyakusha Kulibchin	Лякуша/Кулібчын		peleng who invented the rusk sauce	Pizza.qmm
 lemma.taron	таронский	Taron	таронскі/таронскім		stallions rubbed with tarragon	Pizza.qmm
 lemma.petrykivka	петриковский	Petrykivka	петрыкаўскі		folk painting the noodle pattern recalls	https://starnik.by/pravapis/139492
-lemma.zhvirklats	Жвырклац	Zhvirklats	Жвырклац		peleng show-ballet at the palace	Pizza.qmm
+lemma.zhvirklats	Жвырклац	Zhvirklats	Жвырклац/жвырклац		peleng show-ballet at the palace	Pizza.qmm
 lemma.virgin	девственница	virgin	нявінніца/нявінніцы		the ballet's virgin	https://starnik.by/pravapis/49087
+lemma.tequila	текилла	tequila	тэкіла	тэкінка	drink; hunspell suggestion is nonsense	https://starnik.by/pravapis/76889
+lemma.xenomorph	ксеноморф	xenomorph	ксэнаморф/Ксэнаморф/ксэнаморфа/ксэнаморфу/ксэнаморфаў/ксэнаморфам/ксэнаморфамі		park beast; loan	Xenopark.qmm
+lemma.xenopark	ксенопарк	xenopark	ксэнапарк/ксэнапарку/ксэнапарка		the zoo of alien beasts	Xenopark.qmm
+lemma.habbat	хаббат	habbath	хаббат/Хаббат		big beast from Taboth	Xenopark.qmm
+lemma.tabot	Табот	Taboth	Табот		planet of the big habbath	Xenopark.qmm
+lemma.chvak	Чвак	Chvack	Чвак		planet of the swamp zhvirklats	Xenopark.qmm
+lemma.proto_shpock	прото-шпок	proto-shpock	прота/Прота/шпок/Шпок		klissan beast	Xenopark.qmm
+lemma.aishaut	айшаут	aishout	Айшаут/айшаут		noble beast from Faeyaton	Xenopark.qmm
+lemma.faeyaton	Фаяэтон	Faeyaton	Фаяэтон		planet of the aishaut	Xenopark.qmm
+lemma.criambusine	крямбусина	criambusine	крэмбусіна/Крэмбусіна/крэмбусіну/крэмбусіны/крэмбусінай/Вацкая/вацкую/вацкай		tub food; Vazze is the breed	Xenopark.qmm
+lemma.quack_tose	Квак То-Ус	quack-tose	Квак/квак/КВАК/Ус/уса/Уса/УС		thorny sprig the cages eat	Xenopark.qmm
+lemma.haapt	Хаапт	Khahapt	Хаапта/Хаапт		globules named for Haapt	Xenopark.qmm
+lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/Зіркі	зірка	granules; not the star зірка	Xenopark.qmm
+lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша		glandular fodder	Xenopark.qmm
+lemma.aerocar	аэрокар	aerocar	аэракар/аэракара		the ranger's car at the park	Xenopark.qmm
+lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
+lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст		gaal scholar of ііке-баан	Xenopark.qmm
+lemma.kabaan	Ка-баан Здоох	Pestupohn Yer	Ка/Здоох		author of the aishaut note	Xenopark.qmm
+lemma.klyakush	Клякуш Чапацвак	Klyakush Chapazzvack	Клякуш/Чапацвак		archaeologist who wrote up the zhvirklats	Xenopark.qmm
+lemma.garrakh	Гаррах-Сильный	Garrakh the Strong	Гаррах		captain who wrote up the habbath	Xenopark.qmm
+lemma.eitzkhala	Эйцхала Стырило	Eitzkhala Snipe-It	Эйцхала/Стырыла		honest trader who wrote up the sand spike	Xenopark.qmm
+lemma.ranger_eater	рейнджероед	ranger-eater	рэйнджэраед/рэйнджэраеда		the beast that eats rangers	Xenopark.qmm
