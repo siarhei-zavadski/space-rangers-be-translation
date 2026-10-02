@@ -350,7 +350,7 @@
 - А ты тоже хотел испытать разряд электрического стула на себе?
 
 Вы сглотнули."	"Quest Filial.qmm: locations.66.texts.0.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/0/text"	"Поехать в отель на такси"	"Quest Filial.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/0/text"	"Поехать в отель на такси"	"Quest Filial.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паехаць у гатэль на таксі"
 "/quests/Filial.qmm/jumps/0/description"	"- Поехали, - устало сказали вы, садясь на мягкое сиденье гравикара.
 - Устраивайтесь удобнее и пристегните ремень безопасности, - посоветовал человек, после чего, без предупреждения сорвал такси с места. - Так какова цель вашего визита в наши края, мистер?..
 - <Ranger>, - прохрипели вы, стараясь не потерять сознание от таких скоростей.
@@ -361,7 +361,7 @@
 ..через пару минут, вы, пошатываясь и спотыкаясь, зашагали из гравикара, к тысячеэтажному небоскребу с огромной неоново-голографической вывеской ""Отель"" над входом.
 
 - Ну, приятно было поболтать, <Ranger>, - раздался позади вас веселый голос Такума."	"Quest Filial.qmm: jumps.0.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/1/text"	"Осмотреть сейф и лечь спать"	"Quest Filial.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/1/text"	"Осмотреть сейф и лечь спать"	"Quest Filial.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Filial"	"Агледзець сэйф і легчы спаць"
 "/quests/Filial.qmm/jumps/1/description"	"Ну да, конечно, хорошо бы поспать после всего увиденного, однако вам показалось странным наличие сейфа в номере. Хотя вполне могло оказаться, что сейф есть в каждом номере, мозг рейнджера упорно отказывался признавать очевидное. Ведь с вами всегда случаются странные вещи, если вы чего-нибудь не учтете, не правда ли?
  Так или иначе, в сейфе лежала нацарапанное неровным почерком слово, которое приказывало: ""БЕГИ!""
 
@@ -375,8 +375,8 @@
  Вы со вздохом перевернули листок, и уже собирались было положить его на место, как оказалось, что на его обратной стороне всё теми же огромными буквами оказалось карябано: ""ЛЮК В СТЕНЕ!""
 
  Вы уже готовы были сделать однозначный вывод о крайне остром зрении автора записки, как комнату с громким шипением начал заполнять сизый дымок. ""У меня порой складывается ощущение, что в рейнджеры специально берут неудачников"" - меланхолично подумали вы."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/2/param_changes/0/crit_text"	"- Ха... Ха-ха... Ха-ха-ха... А-ХА-ХА-ХА-ХА-ХА-ХА-ХА!!! - вы вдруг стали истерически хохотать, понимая, что окончательно двинулись рассудком. Пейзаж перед глазами поплыл, и в следующий миг вы обнаружили себя в смирительной рубашке, в странной комнате с белыми стенами..."	"Quest Filial.qmm: jumps.2.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/2/text"	"Пройтись до отеля пешком"	"Quest Filial.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/2/param_changes/0/crit_text"	"- Ха... Ха-ха... Ха-ха-ха... А-ХА-ХА-ХА-ХА-ХА-ХА-ХА!!! - вы вдруг стали истерически хохотать, понимая, что окончательно двинулись рассудком. Пейзаж перед глазами поплыл, и в следующий миг вы обнаружили себя в смирительной рубашке, в странной комнате с белыми стенами..."	"Quest Filial.qmm: jumps.2.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Filial"	"- Ха... Ха-ха... Ха-ха-ха... А-ХА-ХА-ХА-ХА-ХА-ХА-ХА!!! — вы раптам сталі гістэрычна рагатаць, разумеючы, што канчаткова зьехалі з розуму. Пэйзаж перад вачыма паплыў, і ў наступны міг вы выявілі сябе ў вар'яцкай кашулі, у дзіўным пакоі з белымі сьценамі."
+"/quests/Filial.qmm/jumps/2/text"	"Пройтись до отеля пешком"	"Quest Filial.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прайсьціся да гатэлю пешшу"
 "/quests/Filial.qmm/jumps/2/description"	"- Мои финансы... Поют романсы, - задумчиво напевали вы, направляясь в сторону отеля, которую благородно подсказал вам таксист.
 
  Несмотря на то, что планета ничем не славилась, а этот город с высоты полета вашего корабля был определен в категорию средне-малых мегаполисов, здесь было... необычно. Вроде бы обычные небоскребы, с гигантскими рекламными голограммами, толпами прохожих, широкими ограниченными воздушными магистралями в несколько этажей, прочими пабами и ультрагипермаркетами.
@@ -384,21 +384,21 @@
  Но если присмотреться, то на поверку оказывалось, что все рекламы вещали о каких-то пучеглазых нарисованных созданиях, с самой разнообразной расцветкой волос на голове; прохожие были одеты в странные одежды, в которых вы частично узнавали наряды существ из рекламы; даже автомобили на магистралях были разрисованы под стать окружению.
  
  Пройдя два квартала, вы поняли, что весьма выделяетесь из общей массы пестрых одежд в своем повседневном комбинезоне. Размышлять на тему того, что мультипликация - основа здешней экономики, вам пришлось порядка часа, пока вы наконец не дошли до здания с говорящим названием: ""Отель"". Присесть бы."	"Quest Filial.qmm: jumps.2.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/3/text"	"Зайти в отель ""Отель"""	"Quest Filial.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/4/text"	"Попытаться открыть дверь"	"Quest Filial.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/3/text"	"Зайти в отель ""Отель"""	"Quest Filial.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Filial"	"Зайсьці ў гатэль ""Гатэль"""
+"/quests/Filial.qmm/jumps/4/text"	"Попытаться открыть дверь"	"Quest Filial.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паспрабаваць адчыніць дзьверы"
 "/quests/Filial.qmm/jumps/5/description"	"Нет, это вполне нормальная реакция. Попытаться выйти там, откуда вы вошли. Но в данных обстоятельствах логично было бы предположить, что пустившие газ люди все-таки предусмотрели такое очевидное действие с вашей стороны. И ваше подергивание дверной ручки и прочие попытки вышибить дверь это только подтвердили."	"Quest Filial.qmm: jumps.5.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/6/text"	"Пошарить в стене в поисках люка"	"Quest Filial.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/7/text"	"Забиться в панике"	"Quest Filial.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/6/text"	"Пошарить в стене в поисках люка"	"Quest Filial.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пашукаць у сьцяне люк"
+"/quests/Filial.qmm/jumps/7/text"	"Забиться в панике"	"Quest Filial.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Filial"	"Забіцца ў паніцы"
 "/quests/Filial.qmm/jumps/7/description"	"Отчаявшись, вы начали метаться по комнате, круша мебель, попавшуюся под ноги, и ударяясь во все стены, пока у вас, наконец, не закончилось дыхание. В последний момент вы все же решились вдохнуть и в скором времени благополучно потеряли сознание."	"Quest Filial.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/8/text"	"Вдохнуть полной грудью"	"Quest Filial.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/8/text"	"Вдохнуть полной грудью"	"Quest Filial.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Filial"	"Удыхнуць поўнымі грудзьмі"
 "/quests/Filial.qmm/jumps/8/description"	"Подумав, что хуже не будет, а иного выхода вам все равно что-то не видно, вы решились на одновременно мужественный и глупый поступок - вдохнуть дым неизвестного происхождения с непонятными побочными эффектами. Вы сделали глубокий вдох и вполне ожидаемо потеряли сознание."	"Quest Filial.qmm: jumps.8.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/9/text"	"Попытаться разбить окно"	"Quest Filial.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/10/text"	"Пошарить в стене в поисках люка"	"Quest Filial.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/11/text"	"Пожалуй, пора сматывать удочки и уносить ноги с этой планеты"	"Quest Filial.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/12/text"	"Ну, раз тут пусто, то почему бы и не поспать? Утро вечера мудренее..."	"Quest Filial.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/9/text"	"Попытаться разбить окно"	"Quest Filial.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паспрабаваць разьбіць акно"
+"/quests/Filial.qmm/jumps/10/text"	"Пошарить в стене в поисках люка"	"Quest Filial.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пашукаць у сьцяне люк"
+"/quests/Filial.qmm/jumps/11/text"	"Пожалуй, пора сматывать удочки и уносить ноги с этой планеты"	"Quest Filial.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Filial"	"Бадай, пара змотваць вудачкі і ўносіць ногі з гэтай плянэты"
+"/quests/Filial.qmm/jumps/12/text"	"Ну, раз тут пусто, то почему бы и не поспать? Утро вечера мудренее..."	"Quest Filial.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ну, раз тут пуста, дык чаму б і не паспаць? Раніца за вечар мудрэйшая..."
 "/quests/Filial.qmm/jumps/12/description"	"Сладко зевнув, вы легли на кровать и тут же провалились в далеко не самый приятный из ваших снов, в котором пучеглазые создания гоняли вас по странному мегаполису, угрожая надушить сизым газом. Затем вы увидели такси и уже думали, что спасены, но таксистом оказался Такум. А еще вас преследовало чувство, что за вами следит кто-то со странными ушами..."	"Quest Filial.qmm: jumps.12.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/13/text"	"Лучше осмотреться. А то мало ли что..."	"Quest Filial.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/14/text"	"Переодеться и идти к лифту"	"Quest Filial.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/13/text"	"Лучше осмотреться. А то мало ли что..."	"Quest Filial.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Filial"	"Лепей агледзецца. А то мала што..."
+"/quests/Filial.qmm/jumps/14/text"	"Переодеться и идти к лифту"	"Quest Filial.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пераапрануцца і ісьці да ліфта"
 "/quests/Filial.qmm/jumps/14/description"	"Как оказалось, ваш неизвестный проводник оставил помимо всего еще и бластер с одной обоймой. Так что вы определенно ощущали уверенность, заходя в лифт. Вы уверенно повернулись лицом к панели, ища кнопку подвального этажа, но кнопки просто не было.
  Вас прошиб холодный пот. Неужели и этот лифт - ловушка? Вы еще раз осмотрели панель, на всякий случай ощупали её со всех сторон и даже попробовали погрызть. Потом едва достали бластер, как вдруг:
  - Ну вот, очередной идиот.
@@ -409,16 +409,16 @@
  - Нет, он еще тупее, чем показался мне в начале. И как таких в рейнджеры берут?
  На этот раз, прежде чем задать очередной вопрос, вы решили внимательно осмотреть свой костюм. 
  - Нет, похоже, если я тебе не подскажу, то ты потратишь на это целый день, - голос печально вздохнул. - Рация в воротнике твоего костюма, там же передатчик. А спуститься в подвал можно, если вставить в щель на панели твой пропуск. И лучше поторапливайся, скоро охрана обнаружит твое отсутствие в номере."	"Quest Filial.qmm: jumps.14.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/15/text"	"Кто же ты?"	"Quest Filial.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/15/text"	"Кто же ты?"	"Quest Filial.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Filial"	"Хто ж ты?"
 "/quests/Filial.qmm/jumps/16/description"	"- Твоя мама, - устало произнес голос.
  - Сомневаюсь, - не поверили вы.
  - Ты что, всегда такой серьезный? Или только по вторникам?
  - Но ты не ответил на вопрос.
  - Конечно. А что, если тебя схватят?
  - Резонно."	"Quest Filial.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/17/text"	"Как ты следишь за мной?"	"Quest Filial.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/18/text"	"И что меня ждет в подвале?"	"Quest Filial.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/19/text"	"Ладно, пора бы уже заняться делом"	"Quest Filial.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/17/text"	"Как ты следишь за мной?"	"Quest Filial.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Filial"	"Як ты сочыш за мной?"
+"/quests/Filial.qmm/jumps/18/text"	"И что меня ждет в подвале?"	"Quest Filial.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Filial"	"І што мяне чакае ў сутарэньні?"
+"/quests/Filial.qmm/jumps/19/text"	"Ладно, пора бы уже заняться делом"	"Quest Filial.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Filial"	"Добра, пара ўжо заняцца справай"
 "/quests/Filial.qmm/jumps/19/description"	"И с этими словами, нашарив в кнопочной панели щель, вы вставили свою карту в неё.
  После этого ничего не произошло.
 
@@ -437,12 +437,12 @@
  Ваш невидимый хранитель кратко рассказал вам, что для получения нужных документов необходимо <clr>попасть в кабинет директора<clrEnd>, который находится в <clr>юго-восточном<clrEnd> крыле офиса. Доступ в это крыло имеет только персонал с картой доступа <clr>красного цвета<clrEnd>. Попытка прорваться с боем заранее обречена - охраны много и в случае тревоги вы едва ли выйдете оттуда живым.
  - Если придумаешь менее самоубийственный способ...
  - Ладно, разберемся."	"Quest Filial.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/22/text"	"Посмотреть на экран"	"Quest Filial.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/22/text"	"Посмотреть на экран"	"Quest Filial.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паглядзець на экран"
 "/quests/Filial.qmm/jumps/22/description"	"- Странная у вас какая-то карта. Напрямую коридорами соединены только посты охраны? Это же неудобно.
 - Зато на случай всяких рейнджеров это относительно надежная гарантия безопасности.
 
 Ситуация напоминала какую-то древнюю человеческую историю: ""Налево пойдешь - офис отыщешь, направо пойдешь - пост охраны увидишь"". Или не было такой сказки?.."	"Quest Filial.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/23/text"	"Пойти направо по коридору, к складам"	"Quest Filial.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/23/text"	"Пойти направо по коридору, к складам"	"Quest Filial.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пайсьці направа па калідоры, да складаў"
 "/quests/Filial.qmm/jumps/23/description"	"Вы не спеша двинулись по восточному коридору, в сторону склада. Вскоре вы достигли двойной металлической двери, за которой оказалось огромное (для подвала) помещение, в котором повсюду работали странного вида роботы-погрузчики.
  - Можешь не прятаться, - сказал ваш невидимый попутчик, - в эту зону допуск у тебя есть. Тебя не тронут, пока ты не начнешь творить глупости
  - А тут есть кто-нибудь, с уровнем допуска выше моего? - спросили вы.
@@ -451,15 +451,15 @@
  - Вроде бы у начальника склада должен быть. Но кто он - я не в курсе.
  - Понятно.
  Вы вздохнули. Кажется, придется искать начальника склада методом тыка, вызывая лишние подозрения. Как бы то ни было, немного побродив по складу, вы отметили <clr>малока<clrEnd>, который ковырялся в своем планшете. <clr>Человека в кепке<clrEnd>, который курил на рабочем месте чуть поодаль от всех. И, наконец, <clr>пеленга<clrEnd>, который стоял за неким пультом управления со скучающим видом."	"Quest Filial.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/24/text"	"Пойти налево по коридору, к офисам"	"Quest Filial.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/24/text"	"Пойти налево по коридору, к офисам"	"Quest Filial.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пайсьці налева па калідоры, да офісаў"
 "/quests/Filial.qmm/jumps/24/description"	"Пройдя мимо двери с надписью ""Камера для допросов"", вы вскоре достигли развилки. Справа были двойные стеклянные двери, за которыми, судя по всему, кипела напряженная деятельность. Слева же была неприметная металлическая дверка, на которой виднелась надпись, которая большими буквами гласила: ""Казарма"". Причем, ""а"" была зачеркнута, а на её месте красовалось ""о"". Даже еще не видя начальника охраны, вы уже могли определить его коэффициент интеллекта.
 
 Ну да хватит стоять как истукан. Не пора бы направиться навстречу подвигам, приключениям и прочим неприятностям? Вот только куда?"	"Quest Filial.qmm: jumps.24.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/25/text"	"Подойти к пеленгу"	"Quest Filial.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/26/text"	"Подойти к курильщику"	"Quest Filial.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/27/text"	"Подойти к малоку с планшетом"	"Quest Filial.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/28/text"	"Подойти к малоку с планшетом"	"Quest Filial.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/29/text"	"Подойти к курильщику"	"Quest Filial.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/25/text"	"Подойти к пеленгу"	"Quest Filial.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да пеленга"
+"/quests/Filial.qmm/jumps/26/text"	"Подойти к курильщику"	"Quest Filial.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да курца"
+"/quests/Filial.qmm/jumps/27/text"	"Подойти к малоку с планшетом"	"Quest Filial.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да малока з пляншэтам"
+"/quests/Filial.qmm/jumps/28/text"	"Подойти к малоку с планшетом"	"Quest Filial.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да малока з пляншэтам"
+"/quests/Filial.qmm/jumps/29/text"	"Подойти к курильщику"	"Quest Filial.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да курца"
 "/quests/Filial.qmm/jumps/30/description"	"Вы решили, что малок тут просто обязан быть начальником. Едва ли он добровольно согласился копаться в планшете. Скорее всего, ему приказал старший по званию. И пригрозил иначе уволить в запас и расстрелять. Так или иначе, вы уверенно подошли к красноватой туше, и бодро рапортовали:
  - Товарищ начальник, разрешите обратиться!
  Малок неторопливо перевел взгляд своих поросячьих глаз от планшета на вас и изрек:
@@ -476,8 +476,8 @@
  Реакция на эту быстро сымпровизированную историю превзошла все ваши ожидания. Малок выпучил глаза, тяжело вдохнул и прорычал
  - ЧТО?! На моем дежурстве?! Ну я его сейчас... - и рванул в сторону, которую вы ему показали.
  Осталось только придумать, как отобрать у него заветную карточку."	"Quest Filial.qmm: jumps.31.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/32/text"	"Проснуться"	"Quest Filial.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/33/text"	"Подойти к пеленгу"	"Quest Filial.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/32/text"	"Проснуться"	"Quest Filial.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прачнуцца"
+"/quests/Filial.qmm/jumps/33/text"	"Подойти к пеленгу"	"Quest Filial.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падысьці да пеленга"
 "/quests/Filial.qmm/jumps/34/description"	"Человек, курящий прямо под знаком: ""<clr>Не курить<clrEnd>"" и при этом ничего не делающий, вызывал смутные ассоциации с вашим инструктором по пилотированию. В любом случае, вы решили проверить его на полномочия.
  - Извините, у вас закурить не найдется?
  Он вопросительно посмотрел на вас и процедил:
@@ -504,16 +504,16 @@
  - За сколько? Нет спасибо, я лучше со стороны посмотрю.
  - Ну как знаешь.
  ""Стало быть, не он"", - подумали вы."	"Quest Filial.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/38/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/38/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прыстрэліць з блястэра"
 "/quests/Filial.qmm/jumps/38/description"	"Вы на бегу достали бластер и сняли с предохранителя.
  - Где же он?! - спросил малок, едва забежав за угол.
  - Явно не здесь, - ответили вы, нацелив бластер ему в голову и нажав на спуск.
  Грузное тело начальника рухнуло на пол."	"Quest Filial.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/39/text"	"Осмотреть тело"	"Quest Filial.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/40/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/39/text"	"Осмотреть тело"	"Quest Filial.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Filial"	"Агледзець цела"
+"/quests/Filial.qmm/jumps/40/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прыстрэліць з блястэра"
 "/quests/Filial.qmm/jumps/40/description"	"Вы решили, что лучше его убить. Чтобы наверняка. Да и не нравился он вам. Вы резко выхватили бластер, но человек тоже оказался не промах и перехватил вашу руку с оружием. Второй рукой вы взяли его за горло, чтобы он не закричал, и в то же время вы ощутили мощный удар в районе живота.
  Но очевидно, что ваши специализации были несколько различны, да и опыта у вас в уличных (и пьяных) разборках больше. Поэтому, через некоторое время, человек ослабил хватку, в результате чего вам удалось навести на него оружие и выстрелить"	"Quest Filial.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/41/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/41/text"	"Пристрелить из бластера"	"Quest Filial.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прыстрэліць з блястэра"
 "/quests/Filial.qmm/jumps/41/description"	"- А может быть и смогу? - загадочно протянули вы, потянувшись рукой к кобуре.
  - Нет, это едва ли, - ответил пеленг. - Поднимите ручки, будьте так добры. 
  Вы подняли взгляд на пеленга, который как оказалось, уже держал в руках бластер. Ситуация кардинальным образом ухудшалась. Пеленг неторопливо подходил к вам, как совершенно неожиданно подал голос ваш знакомый:
@@ -522,14 +522,14 @@
  - Радуйся, всего лишь задело. Дырка в голове - не самый лучший помощник в нашем деле, - сказал голос.
  - Заткнись уже.
  - И эта вся твоя благодарность? Что б я еще раз..."	"Quest Filial.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/42/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/42/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вырубіць голымі рукамі"
 "/quests/Filial.qmm/jumps/42/description"	"Вы на бегу разминали костяшки пальцев.
  - Где же он?! - спросил малок, едва забежав за угол.
  - Явно не здесь, - ответили вы, набросившись на него со спины.
  Уже после того, как вы повисли на шее этого великана, вы поняли, насколько глупой была эта затея. Лезть с кулаками на соперника, который раза в три тяжелее, чем вы сами, по меньшей мере, неосмотрительно. Малок рычал и брыкался, чувствительно пихая вас локтями в бок и ударяя вас о ящики, тем не менее, эффект неожиданности и атака с наименее защищенной позиции принесла свои плоды - спустя непродолжительное время, малок успешно лежал в отключке."	"Quest Filial.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/43/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/43/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вырубіць голымі рукамі"
 "/quests/Filial.qmm/jumps/43/description"	"Без лишних слов, вы со всего размаху влепили кулаком по физиономии наглого человечишки. Тот такого оборота событий явно не ждал, поэтому мгновенно оказался на земле. Для верности, вы провели еще пару ударов - тогда человек окончательно затих."	"Quest Filial.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/44/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/44/text"	"Вырубить голыми руками"	"Quest Filial.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вырубіць голымі рукамі"
 "/quests/Filial.qmm/jumps/44/description"	"- Ну что же вы так категорично, а? - продолжали беседу вы, а сами не спеша подходили поближе.
  - А ну-ка стоять, рядовой! - приказал пеленг, мгновенно выхватив бластер.
  ""Проклятье"", - подумали вы.
@@ -543,9 +543,9 @@
  - Да. Теперь тебе нужна красная карта.
  Все это очень вам напоминало одну старую игру из вашего детства, ""Dom 4D"" кажется. 
 ""Найдите ключ цвета сиреневой зубной пасты, чтобы открыть эту дверь..."" - пробормотали вы про себя. Как же вы ненавидели эту игру."	"Quest Filial.qmm: jumps.45.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/46/text"	"Вернуться к лифту"	"Quest Filial.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/47/text"	"Вернуться к лифту"	"Quest Filial.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/48/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/46/text"	"Вернуться к лифту"	"Quest Filial.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вярнуцца да ліфта"
+"/quests/Filial.qmm/jumps/47/text"	"Вернуться к лифту"	"Quest Filial.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вярнуцца да ліфта"
+"/quests/Filial.qmm/jumps/48/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прайсьці скрозь шкляныя дзьверы"
 "/quests/Filial.qmm/jumps/48/description"	"Пройдя сквозь двойные стеклянные двери, сквозь которые было видно множество комнаток, разделенных белыми перегородками, вы увидели, что люди, сидящие в этих комнатушках, занимаются в основном рисованием. В комнате стоял шум, состоящий из множества перекликающихся голосов, шумящих стереовизоров и гула компьютерной техники.
  - Что за... где мы? - спросили вы у своего помощника.
  - Производственный цех. Ты же ведь был на поверхности?
@@ -555,7 +555,7 @@
  - Угадай, кто их делает и где, - усмехнувшись, произнес голос. - И если вдруг тебе интересно - вход в следующую зону на другом конце помещения.
 
  Вдоволь насмотревшись на чужие труды, вы неспеша направились мимо офисных кабинок прямиком к посту охраны. Там вы обнаружили тонированную будку и двойные тяжелые двери, рядом с которым стояло некое подобие турникета. Вы поднесли к сканеру свою карту и двери на удивление бесшумно и легко раскрылись. Пройдя в них, вы обнаружили, что стоите в <clr>лаборатории<clrEnd>."	"Quest Filial.qmm: jumps.48.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/49/text"	"Посоветоваться с ""голосом"""	"Quest Filial.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/49/text"	"Посоветоваться с ""голосом"""	"Quest Filial.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Filial"	"Параіцца з ""голасам"""
 "/quests/Filial.qmm/jumps/50/description"	"- Ну и где же мне взять последнюю карту? - спросили вы вслух.
  - Знаешь, говорить с собой - один из явных признаков сумасшествия, - ехидно подметил голос.
  - Я вообще-то к тебе обращался, - быстро соврали вы.
@@ -566,7 +566,7 @@
  Тут вы почувствовали на себе чей-то взгляд и обернулись. Позади вас стоял человек и смотрел на вас странным взглядом. С невозмутимым видом вы решили, что самое время завязать ботинки узлом потуже, чем вы и занимались вплоть до момента, пока работник не скрылся в стеклянных дверях.
 
  Завязав наспех шнурок, вы выпрямились и снова принялись обдумывать дальнейший план действий"	"Quest Filial.qmm: jumps.50.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/51/text"	"Направиться сквозь дверь в ""козарму"""	"Quest Filial.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/51/text"	"Направиться сквозь дверь в ""козарму"""	"Quest Filial.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Filial"	"Скіравацца скрозь дзьверы ў ""казарму"""
 "/quests/Filial.qmm/jumps/51/description"	"Вы вставили карточку допуска в щель приемника с надписью над ней: ""Вставьте пропуск"". Дверь бесшумно отъехала в сторону, и как только вы вступили во тьму, так же бесшумно закрылась.
  И тут звук громогласного храпа буквально оглушил вас.
  - Да ты, должно быть, шутишь! - шепотом возмутились вы.
@@ -577,29 +577,29 @@
  - Ты как никогда любезен.
  - А во-вторых, громкий храп за авторством начальника исходит из дальнего угла и, вполне вероятно, что где начальник - там и его личные вещи.
  Вы аккуратно, наощупь пробрались вдоль кроватей к источнику самого мощного храпа. Горько пожалев о том, что у вас нет берушей, вы нащупали шкафчик."	"Quest Filial.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/52/text"	"Ударить по шкафчику"	"Quest Filial.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/53/text"	"Скорее уйти отсюда, пока начальник не проснулся"	"Quest Filial.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/54/text"	"1"	"Quest Filial.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/55/text"	"2"	"Quest Filial.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/56/text"	"3"	"Quest Filial.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/57/text"	"4"	"Quest Filial.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/58/text"	"5"	"Quest Filial.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/59/text"	"6"	"Quest Filial.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/60/text"	"7"	"Quest Filial.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/61/text"	"8"	"Quest Filial.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/62/text"	"9"	"Quest Filial.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/63/text"	"0"	"Quest Filial.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/64/text"	"1"	"Quest Filial.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/65/text"	"2"	"Quest Filial.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/66/text"	"3"	"Quest Filial.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/67/text"	"4"	"Quest Filial.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/68/text"	"5"	"Quest Filial.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/69/text"	"6"	"Quest Filial.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/70/text"	"7"	"Quest Filial.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/71/text"	"8"	"Quest Filial.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/72/text"	"9"	"Quest Filial.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/73/text"	"0"	"Quest Filial.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/74/text"	"Подтвердить"	"Quest Filial.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/52/text"	"Ударить по шкафчику"	"Quest Filial.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ударыць па шафцы"
+"/quests/Filial.qmm/jumps/53/text"	"Скорее уйти отсюда, пока начальник не проснулся"	"Quest Filial.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Filial"	"Хутчэй сысьці адсюль, пакуль начальнік не прачнуўся"
+"/quests/Filial.qmm/jumps/54/text"	"1"	"Quest Filial.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Filial"	"1"
+"/quests/Filial.qmm/jumps/55/text"	"2"	"Quest Filial.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Filial"	"2"
+"/quests/Filial.qmm/jumps/56/text"	"3"	"Quest Filial.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Filial"	"3"
+"/quests/Filial.qmm/jumps/57/text"	"4"	"Quest Filial.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Filial"	"4"
+"/quests/Filial.qmm/jumps/58/text"	"5"	"Quest Filial.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Filial"	"5"
+"/quests/Filial.qmm/jumps/59/text"	"6"	"Quest Filial.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Filial"	"6"
+"/quests/Filial.qmm/jumps/60/text"	"7"	"Quest Filial.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Filial"	"7"
+"/quests/Filial.qmm/jumps/61/text"	"8"	"Quest Filial.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Filial"	"8"
+"/quests/Filial.qmm/jumps/62/text"	"9"	"Quest Filial.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Filial"	"9"
+"/quests/Filial.qmm/jumps/63/text"	"0"	"Quest Filial.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Filial"	"0"
+"/quests/Filial.qmm/jumps/64/text"	"1"	"Quest Filial.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Filial"	"1"
+"/quests/Filial.qmm/jumps/65/text"	"2"	"Quest Filial.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Filial"	"2"
+"/quests/Filial.qmm/jumps/66/text"	"3"	"Quest Filial.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Filial"	"3"
+"/quests/Filial.qmm/jumps/67/text"	"4"	"Quest Filial.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Filial"	"4"
+"/quests/Filial.qmm/jumps/68/text"	"5"	"Quest Filial.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Filial"	"5"
+"/quests/Filial.qmm/jumps/69/text"	"6"	"Quest Filial.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Filial"	"6"
+"/quests/Filial.qmm/jumps/70/text"	"7"	"Quest Filial.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Filial"	"7"
+"/quests/Filial.qmm/jumps/71/text"	"8"	"Quest Filial.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Filial"	"8"
+"/quests/Filial.qmm/jumps/72/text"	"9"	"Quest Filial.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Filial"	"9"
+"/quests/Filial.qmm/jumps/73/text"	"0"	"Quest Filial.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Filial"	"0"
+"/quests/Filial.qmm/jumps/74/text"	"Подтвердить"	"Quest Filial.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пацьвердзіць"
 "/quests/Filial.qmm/jumps/74/description"	"Кажется, вы что-то сделали не так. Нет, ну конечно, если шкафчик так и должен издавать пронзительный вой сирен и не открываться при правильно введенном коде, то тогда вы своего добились. Но едва ли это тот случай.
  А пока вы об этом думали, личный наряд охраны, кажется, начал просыпаться. Кое-кто с недоумением смотрел на вас, но вроде бы в сознание полностью никто из них не пришел. Вы решили не дожидаться, пока они сообразят, что же здесь произошло, и быстро покинули помещение.
  И вовремя.
@@ -610,28 +610,28 @@
  - О, вы должно быть новенький лаборант? - вежливо спросил он.
  - Нет, я... э-э... - промычали вы.
  Феянин вежливо покивал головой."	"Quest Filial.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/76/text"	"Нет, я начальник охраны вообще-то. Мне бы к главному"	"Quest Filial.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/76/text"	"Нет, я начальник охраны вообще-то. Мне бы к главному"	"Quest Filial.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Filial"	"Не, я начальнік аховы наогул. Мне б да галоўнага"
 "/quests/Filial.qmm/jumps/76/description"	"- Ах, вот оно что. Тогда конечно, проходите.
 - Спасибо, - поблагодарили вы, и направились к противоположной стене, где виднелись такие же большие железные двери, как и те, через которые вы недавно вошли.
 
 ""Итак"", - подумали вы, когда двери за вами захлопнулись, - осталось только дойти до кабинета директора""."	"Quest Filial.qmm: jumps.76.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/77/text"	"Нет, я кажется, дверью ошибся. Пойду-ка я подобру-поздорову"	"Quest Filial.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/77/text"	"Нет, я кажется, дверью ошибся. Пойду-ка я подобру-поздорову"	"Quest Filial.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Filial"	"Не, я, здаецца, дзьвярыма памыліўся. Пайду-ка я пакуль цэлы"
 "/quests/Filial.qmm/jumps/77/description"	"И с этими словами вы двинулись сквозь двери и офис в коридор."	"Quest Filial.qmm: jumps.77.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/78/text"	"Вернуться к развилке"	"Quest Filial.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/79/text"	"Вообще-то нет, я начальник склада. Но тут такое дело..."	"Quest Filial.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/80/text"	"По поводу моей зарплаты"	"Quest Filial.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/78/text"	"Вернуться к развилке"	"Quest Filial.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вярнуцца да раздарожжа"
+"/quests/Filial.qmm/jumps/79/text"	"Вообще-то нет, я начальник склада. Но тут такое дело..."	"Quest Filial.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Filial"	"Наогул не, я начальнік складу. Але тут такая справа..."
+"/quests/Filial.qmm/jumps/80/text"	"По поводу моей зарплаты"	"Quest Filial.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Filial"	"Наконт маёй зарплаты"
 "/quests/Filial.qmm/jumps/80/description"	"- А что с вашей зарплатой? - удивленно спросил он.
 - Мала. Крайне мала. 
 - Да неужели?
 - Знаете, какой адский труд, следить за этими раздолбаями, которые как один ничего не делают! - вы прямо-таки вошли во вкус. - И при этом мне платят какие-то копейки! Надоело. Я собираюсь ему жаловаться.
 Ученый вздохнул, и потер переносицу.
 - Ладно, что бы у вас там ни было, я-то чем могу помочь? - устало спросил он."	"Quest Filial.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/81/text"	"По поводу груза со склада"	"Quest Filial.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/81/text"	"По поводу груза со склада"	"Quest Filial.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Filial"	"Наконт грузу са складу"
 "/quests/Filial.qmm/jumps/81/description"	"- Насколько я знаю, с грузом на складе все в порядке.
 - Мало вы знаете, - высокомерно сказали вы. - Этот груз заказывал директор лично, значит и я должен обговорить с ним этот вопрос лично.
 Ученый вздохнул, и потер переносицу.
 - Ладно, что бы у вас там ни было, я-то чем могу помочь? - устало спросил он."	"Quest Filial.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/82/text"	"По личному вопросу"	"Quest Filial.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/82/text"	"По личному вопросу"	"Quest Filial.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Filial"	"У асабістай справе"
 "/quests/Filial.qmm/jumps/82/description"	"- Что, простите? - удивился он.
 - По личному вопросу, - отчеканили вы.
 - А причем здесь директор?
@@ -640,7 +640,7 @@
 - А причем тут лично вы?
 Ученый вздохнул, и потер переносицу.
 - Ладно, что бы у вас там ни было, я-то чем могу помочь? - устало спросил он."	"Quest Filial.qmm: jumps.82.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/83/text"	"Как это ""чем""? У вас же есть допуск"	"Quest Filial.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/83/text"	"Как это ""чем""? У вас же есть допуск"	"Quest Filial.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Filial"	"Як гэта ""чым""? У вас жа ёсьць допуск"
 "/quests/Filial.qmm/jumps/83/description"	"- И что?
 - Как это ""что""? Раз у вас есть допуск, значит, вы можете спокойно проходить к нему, минуя ворота.
 Феянин удивленно вытаращился на вас.
@@ -649,59 +649,59 @@
 - Наглости вам не занимать.
 Феянин снова вздохнул:
 - И все-таки, как вы себе это представляете? Вы же не думаете, что я просто так возьму и отдам пропуск какому-нибудь незнакомцу из другого отдела, правда?"	"Quest Filial.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/84/text"	"Вы могли бы мне устроить эту встречу"	"Quest Filial.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/84/text"	"Вы могли бы мне устроить эту встречу"	"Quest Filial.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Filial"	"Вы маглі б мне ўладкаваць гэтую сустрэчу"
 "/quests/Filial.qmm/jumps/84/description"	"- А вы сами не могли её устроить?
 - Видите ли, в чем дело. Мне скоро в отпуск и я бы хотел переговорить с ним прямо сейчас.
 - И в чем же проблема?
 - В отсутствии допуска.
 - Хм... - протянул феянин задумчиво. - И все-таки, как вы себе это представляете? Вы же не думаете, что я просто так возьму и отдам пропуск какому-нибудь незнакомцу из другого отдела, правда?"	"Quest Filial.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/85/text"	"Видите ли, секретарь мне выдал временный пропуск, и..."	"Quest Filial.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/85/text"	"Видите ли, секретарь мне выдал временный пропуск, и..."	"Quest Filial.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Filial"	"Бачыце, сакратар мне выдаў часовы пропуск, і..."
 "/quests/Filial.qmm/jumps/85/description"	"- И вы его потеряли, - понимающе покивал головой профессор.
 - Э-э, да.
 - Ну что же, со всяким бывает. И вы хотите, что бы я каким-то образом вас к нему провел?
 - Ну, да... - робко сказали вы.
 Феянин снова вздохнул:
 - И все-таки, как вы себе это представляете? Вы же не думаете, что я просто так возьму и отдам пропуск какому-нибудь незнакомцу из другого отдела, правда?"	"Quest Filial.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/86/text"	"Ну да"	"Quest Filial.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/86/text"	"Ну да"	"Quest Filial.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ну так"
 "/quests/Filial.qmm/jumps/86/description"	"- Исключено, - отрезал ученый, - если что - спрашивать будут с меня. А вдруг вы вообще шпион?
 - Ш-шпион? Ни в коем случае! - воскликнули вы. Правда, испарина на лбу вас с головой выдавала.
 - Кто знает, - пожал плечами ученый. - Все возможно.
 - Да-да, точно..."	"Quest Filial.qmm: jumps.86.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/87/text"	"Ну, вы могли бы меня провести..."	"Quest Filial.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/87/text"	"Ну, вы могли бы меня провести..."	"Quest Filial.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ну, вы маглі б мяне правесьці..."
 "/quests/Filial.qmm/jumps/87/description"	"- Конечно, мог бы. А еще я мог бы попить с вами кофе и поговорить о погоде.
 - Причем тут...
 - Такая же трата времени."	"Quest Filial.qmm: jumps.87.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/88/text"	"Действительно, не стоило надеяться"	"Quest Filial.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/88/text"	"Действительно, не стоило надеяться"	"Quest Filial.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Filial"	"Сапраўды, не варта было спадзявацца"
 "/quests/Filial.qmm/jumps/88/description"	"Вы грустно вздохнули и опустили плечи.
 - Ну-ну, не расстраивайтесь. Возможно, потом у вас еще будет шанс поговорить с ним.
 ""Нет, не может быть. И это ученый?"" - подумали вы, все еще изображая удрученность."	"Quest Filial.qmm: jumps.88.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/89/text"	"И что же мне теперь делать? Меня наверняка уволят..."	"Quest Filial.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/89/text"	"И что же мне теперь делать? Меня наверняка уволят..."	"Quest Filial.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Filial"	"І што ж мне цяпер рабіць? Мяне напэўна звольняць..."
 "/quests/Filial.qmm/jumps/89/description"	"- Ну, наверное, я мог бы с этим помочь, - медленно произнес профессор.
 - Правда? - обрадовались вы.
 - Пойдемте, - с этими словами он направился к пункту охраны.
 - Вот лопух, - сказал голос. - И как таких на закрытые объекты на работу берут?
 - Тсс.
 Спустя пару мгновений, вы уже стояли по ту сторону двери в последнюю зону. Ну что же, осталось только дойти до кабинета директора, забрать документы и выбраться отсюда."	"Quest Filial.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/90/text"	"И что же мне теперь делать? Меня наверняка уволят..."	"Quest Filial.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/90/text"	"И что же мне теперь делать? Меня наверняка уволят..."	"Quest Filial.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Filial"	"І што ж мне цяпер рабіць? Мяне напэўна звольняць..."
 "/quests/Filial.qmm/jumps/90/description"	"- Придете к нему как-нибудь в другой раз, - сказал феянин, пожав плечами.
 - Но...
 - Никаких ""но"", - отрезал он. - Разговор окончен.
 Затем он развернулся и ушел.
 - Хорошо, если он тревогу не поднимет, - сказал голос.
 - Оптимист, - буркнули вы, провожая его взглядом."	"Quest Filial.qmm: jumps.90.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/91/text"	"Идти прямо по коридору"	"Quest Filial.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/91/text"	"Идти прямо по коридору"	"Quest Filial.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ісьці проста па калідоры"
 "/quests/Filial.qmm/jumps/91/description"	"Вы, не спеша, направились по единственно-возможному пути - прямо. Гладкий коридор, без дверей и без каких либо признаков наблюдения вас слегка насторожил, но не более того.
 В конце - концов, коридор уперся в деревянную двойную дверь, табличка на которой гласила ""Директор"". Ниже, шрифтом поменьше было отпечатано: 
 ""Страховку не выплачиваю. Зарплату не поднимаю.""
  - Вот же скупердяй, - вслух произнесли вы."	"Quest Filial.qmm: jumps.91.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/92/text"	"Твоего кабинета?"	"Quest Filial.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/93/text"	"Осмотреться"	"Quest Filial.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/92/text"	"Твоего кабинета?"	"Quest Filial.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Filial"	"Твайго кабінэта?"
+"/quests/Filial.qmm/jumps/93/text"	"Осмотреться"	"Quest Filial.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Filial"	"Агледзецца"
 "/quests/Filial.qmm/jumps/93/description"	"Вы подбежали к столу и начали лихорадочно перетряхивать его в поисках... чего угодно. Хотя бы бумаги с кодом. Или задачки, из которой можно извлечь код. Эти злые гении всегда как-нибудь так ошибаются.
 
 Спустя некоторое время, все, что вы смогли обнаружить - это кучу финансовых отчетов, какие-то графики, гель для волос и портативный стереоэкран с <clr>инструкцией по взведению детонатора замедленного действия<clrEnd>. 
 
 Вы схватили инструкцию и вернулись на исходную, к циферблату бомбы."	"Quest Filial.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/94/text"	"Посмотреть инструкцию"	"Quest Filial.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/94/text"	"Посмотреть инструкцию"	"Quest Filial.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паглядзець інструкцыю"
 "/quests/Filial.qmm/jumps/95/description"	"...
 Спасибо, что воспользовались нашим оборудованием фирмы ""Гай Накс""! Чтобы активировать бомбу, нажмите...
 ...
@@ -710,21 +710,21 @@
 Если же вы не помните код деактивации, а до взрыва осталось меньше двух минут, то вы можете воспользоваться нашей фирменной функцией ""<clr>Восстановление пароля<clrEnd>"". Для этого, нажмите <clr>кнопку Ввода<clrEnd>, на голографическом дисплее, ничего не набирая. Загорится число. Запомните или запишите его, это число является <clr>кодом деактивации<clrEnd>. После следующего нажатия ввода высветится ваше <clr>текущее число<clrEnd>. С этого момента, после каждого нажатия ввода будет появляться <clr>пять чисел<clrEnd> и <clr>знак<clrEnd>. Вам необходимо выбирать из этих пяти чисел <clr>одно<clrEnd>. Таким образом, совершая арифметические преобразования, вам необходимо будет <clr>сравнять ваше текущее число с кодом деактивации<clrEnd>. Внимание! Код не может быть отрицательным числом.
 
 Компания ""Гай Накс"" желает вам приятного дня и удачных взрывов!"	"Quest Filial.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/96/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/96/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Filial"	"Націснуць увод"
 "/quests/Filial.qmm/jumps/96/description"	"Следуя инструкции, вы нажали ввод на циферблате. Числа, показывающие время, уменьшились и отодвинулись в уголок, уступив место другому - [p13]. Вы нажали ввод еще раз - предыдущее число сменилось на [p14]. После следующего нажатия ввода, экран предложил вам на выбор числа [p15], [p16], [p17], [p18], [p46] со знаком <clr>+<clrEnd>."	"Quest Filial.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/97/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/97/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Filial"	"Націснуць увод"
 "/quests/Filial.qmm/jumps/97/description"	"Следуя инструкции, вы нажали ввод на циферблате. Числа, показывающие время, уменьшились и отодвинулись в уголок, уступив место другому - [p13]. Вы нажали ввод еще раз - предыдущее число сменилось на [p14]. После следующего нажатия ввода, экран предложил вам на выбор числа [p15], [p16], [p17], [p18], [p46] со знаком <clr>*<clrEnd>."	"Quest Filial.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/98/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/98/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Filial"	"Націснуць увод"
 "/quests/Filial.qmm/jumps/98/description"	"Следуя инструкции, вы нажали ввод на циферблате. Числа, показывающие время, уменьшились и отодвинулись в уголок, уступив место другому - [p13]. Вы нажали ввод еще раз - предыдущее число сменилось на [p14]. После следующего нажатия ввода, экран предложил вам на выбор числа [p15], [p16], [p17], [p18], [p46] со знаком <clr>-<clrEnd>."	"Quest Filial.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/99/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/99/text"	"Нажать ввод"	"Quest Filial.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Filial"	"Націснуць увод"
 "/quests/Filial.qmm/jumps/99/description"	"Следуя инструкции, вы нажали ввод на циферблате. Числа, показывающие время, уменьшились и отодвинулись в уголок, уступив место другому - [p13]. Вы нажали ввод еще раз - предыдущее число сменилось на [p14]. После следующего нажатия ввода, экран предложил вам на выбор числа [p15], [p16], [p17], [p18], [p46] со знаком <clr>/<clrEnd>."	"Quest Filial.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/100/text"	"Выбрать [p15]"	"Quest Filial.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/101/text"	"Выбрать [p16]"	"Quest Filial.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/102/text"	"Выбрать [p17]"	"Quest Filial.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/103/text"	"Выбрать [p18]"	"Quest Filial.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/113/text"	"Схватить документы и сматываться отсюда"	"Quest Filial.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/114/text"	"Ба, какие люди!"	"Quest Filial.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/115/text"	"Конечно"	"Quest Filial.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/100/text"	"Выбрать [p15]"	"Quest Filial.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выбраць [p15]"
+"/quests/Filial.qmm/jumps/101/text"	"Выбрать [p16]"	"Quest Filial.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выбраць [p16]"
+"/quests/Filial.qmm/jumps/102/text"	"Выбрать [p17]"	"Quest Filial.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выбраць [p17]"
+"/quests/Filial.qmm/jumps/103/text"	"Выбрать [p18]"	"Quest Filial.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выбраць [p18]"
+"/quests/Filial.qmm/jumps/113/text"	"Схватить документы и сматываться отсюда"	"Quest Filial.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Filial"	"Схапіць дакумэнты і змотвацца адсюль"
+"/quests/Filial.qmm/jumps/114/text"	"Ба, какие люди!"	"Quest Filial.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Filial"	"О, якія людзі!"
+"/quests/Filial.qmm/jumps/115/text"	"Конечно"	"Quest Filial.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Filial"	"Канечне"
 "/quests/Filial.qmm/jumps/115/description"	"Итак, если верить статистике вашего робота, то у вас было около <clr>пяти<clrEnd> минут летного времени, [p26] торпеды, [p27] зарядов бластеров, [p28] пулеметных лент и что-то вроде короткого ножа для ближнего боя. Негусто, но лучше что-то, чем ничего.
 
 Возле каждого оружия горел красный индикатор, кроме <clr>торпед<clrEnd>. Видимо, чтобы воспользоваться всем остальным, необходимо подлететь <clr>поближе<clrEnd>.
@@ -732,44 +732,44 @@
 Итак, вы - в роботе, робот - в ангаре, а ангар - малоподходящее место для драки двух больших человекоподобных роботов. Хотя бы даже потому, что места в нём, прямо скажем, маловато. Шаг влево, шаг вправо - вот и весь ваш простор для маневра. Ну и еще, конечно же, десяток-другой метров вперед вплоть до робота врага. Впрочем, вы в этом плане находитесь в равных условиях.
  
 Что предпримем?"	"Quest Filial.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/116/text"	"Выстрелить торпедой"	"Quest Filial.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/117/text"	"Дать очередь из пулемета"	"Quest Filial.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/118/text"	"Выстрелить из бластера"	"Quest Filial.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/119/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/120/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/121/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/122/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/123/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/124/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/125/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/126/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/127/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/128/text"	"Отлететь назад"	"Quest Filial.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/129/text"	"Подлететь поближе"	"Quest Filial.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/130/text"	"Остаться на месте"	"Quest Filial.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/116/text"	"Выстрелить торпедой"	"Quest Filial.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць тарпэдай"
+"/quests/Filial.qmm/jumps/117/text"	"Дать очередь из пулемета"	"Quest Filial.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Filial"	"Даць чаргу з кулямёта"
+"/quests/Filial.qmm/jumps/118/text"	"Выстрелить из бластера"	"Quest Filial.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць з блястэра"
+"/quests/Filial.qmm/jumps/119/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць у робата"
+"/quests/Filial.qmm/jumps/120/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць перад робатам"
+"/quests/Filial.qmm/jumps/121/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць ззаду робата"
+"/quests/Filial.qmm/jumps/122/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць ззаду робата"
+"/quests/Filial.qmm/jumps/123/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць у робата"
+"/quests/Filial.qmm/jumps/124/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць перад робатам"
+"/quests/Filial.qmm/jumps/125/text"	"Выстрелить позади робота"	"Quest Filial.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць ззаду робата"
+"/quests/Filial.qmm/jumps/126/text"	"Выстрелить в робота"	"Quest Filial.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць у робата"
+"/quests/Filial.qmm/jumps/127/text"	"Выстрелить перед роботом"	"Quest Filial.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выстраліць перад робатам"
+"/quests/Filial.qmm/jumps/128/text"	"Отлететь назад"	"Quest Filial.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Filial"	"Адляцець назад"
+"/quests/Filial.qmm/jumps/129/text"	"Подлететь поближе"	"Quest Filial.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Filial"	"Падляцець бліжэй"
+"/quests/Filial.qmm/jumps/130/text"	"Остаться на месте"	"Quest Filial.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Filial"	"Застацца на месцы"
 "/quests/Filial.qmm/jumps/131/description"	"Вы попытались уклониться, и... получили мощный удар в корпус. Вас нехило встряхнуло, однако, вы вроде бы все еще на ногах. Самое время контратаковать..."	"Quest Filial.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/132/text"	"Кажется, вы победили!"	"Quest Filial.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/132/text"	"Кажется, вы победили!"	"Quest Filial.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Filial"	"Здаецца, вы перамаглі!"
 "/quests/Filial.qmm/jumps/136/description"	"Благодаря удачному маневру противника, выстрел всего лишь вскользь прошелся по его роботу."	"Quest Filial.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/137/description"	"Точное попадание! Из вражеского робота посыпались искры, и даже, кажется, что-то взорвалось."	"Quest Filial.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/138/description"	"Вы попытались уклониться, и... вам это удалось! Выстрел пришелся буквально в паре метров от вашей текущей позиции. Самое время нанести ответный удар..."	"Quest Filial.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/139/description"	"Вы выстрелили, но противник успешно уклонился."	"Quest Filial.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/146/text"	"Заплатили? Нет, не слышал..."	"Quest Filial.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/147/text"	"Кто?"	"Quest Filial.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/148/text"	"Никто мне не платил!"	"Quest Filial.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/149/text"	"Да"	"Quest Filial.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/150/text"	"Нет, пенчекряк вас побери, Бар Бара Стрейзанд"	"Quest Filial.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/151/text"	"А вам не все равно?"	"Quest Filial.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/152/text"	"У вас тут такие чудесные места! Как я мог пролететь мимо?"	"Quest Filial.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/153/text"	"Поспать в отеле конечно, зачем же еще?"	"Quest Filial.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/154/text"	"По делам, суть которых вас едва ли касается"	"Quest Filial.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/155/text"	"Нет"	"Quest Filial.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/156/text"	"Да"	"Quest Filial.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/157/text"	"Нет"	"Quest Filial.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/158/text"	"Да"	"Quest Filial.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/159/text"	"Отойти в сторону"	"Quest Filial.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/160/text"	"Поставить подножку"	"Quest Filial.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/161/text"	"Нанести ответный удар"	"Quest Filial.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/162/text"	"Выйти из камеры"	"Quest Filial.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/146/text"	"Заплатили? Нет, не слышал..."	"Quest Filial.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Filial"	"Заплацілі? Не, не чуў..."
+"/quests/Filial.qmm/jumps/147/text"	"Кто?"	"Quest Filial.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Filial"	"Хто?"
+"/quests/Filial.qmm/jumps/148/text"	"Никто мне не платил!"	"Quest Filial.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ніхто мне не плаціў!"
+"/quests/Filial.qmm/jumps/149/text"	"Да"	"Quest Filial.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Filial"	"Так"
+"/quests/Filial.qmm/jumps/150/text"	"Нет, пенчекряк вас побери, Бар Бара Стрейзанд"	"Quest Filial.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Filial"	"Не, Пэнчэкряк вас забяры, Бар Бара Стрэйзанд"
+"/quests/Filial.qmm/jumps/151/text"	"А вам не все равно?"	"Quest Filial.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Filial"	"А вам не ўсё роўна?"
+"/quests/Filial.qmm/jumps/152/text"	"У вас тут такие чудесные места! Как я мог пролететь мимо?"	"Quest Filial.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Filial"	"У вас тут такія цудоўныя мясьціны! Як я мог праляцець міма?"
+"/quests/Filial.qmm/jumps/153/text"	"Поспать в отеле конечно, зачем же еще?"	"Quest Filial.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паспаць у гатэлі, канечне, навошта ж яшчэ?"
+"/quests/Filial.qmm/jumps/154/text"	"По делам, суть которых вас едва ли касается"	"Quest Filial.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Filial"	"У справах, сутнасьць якіх вас наўрад ці тычыцца"
+"/quests/Filial.qmm/jumps/155/text"	"Нет"	"Quest Filial.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Filial"	"Не"
+"/quests/Filial.qmm/jumps/156/text"	"Да"	"Quest Filial.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Filial"	"Так"
+"/quests/Filial.qmm/jumps/157/text"	"Нет"	"Quest Filial.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Filial"	"Не"
+"/quests/Filial.qmm/jumps/158/text"	"Да"	"Quest Filial.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Filial"	"Так"
+"/quests/Filial.qmm/jumps/159/text"	"Отойти в сторону"	"Quest Filial.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Filial"	"Адысьці ўбок"
+"/quests/Filial.qmm/jumps/160/text"	"Поставить подножку"	"Quest Filial.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Filial"	"Паставіць падножку"
+"/quests/Filial.qmm/jumps/161/text"	"Нанести ответный удар"	"Quest Filial.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Filial"	"Нанесьці адказны ўдар"
+"/quests/Filial.qmm/jumps/162/text"	"Выйти из камеры"	"Quest Filial.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выйсьці з камэры"
 "/quests/Filial.qmm/jumps/162/description"	"Вы решили не дожидаться, пока кто-нибудь решит вас проведать, и решили срочно ретироваться из камеры, закрыв ее на всякий случай на ключ, чтобы тело никто не нашел.
 
 - Во, правильно делаешь! - подал голос передатчик.
@@ -783,34 +783,34 @@
 - И ты думаешь так я тебе все и расскажу? А если ты меня сдашь? – после нескольких секунд молчания, голос продолжил, - То-то же.  И да, если тебя вдруг посетила мысль о героическом походе сквозь комплекс, с убийством всех неугодных – то лучше забудь. Охраны здесь больше, чем в здании Дзухаллага.
 
 Тем временем, вы дошли до информационной панели, на которой демонстрировались рекламные ролики. В перерывах между ними на экране возникала карта, услужливо сообщавшая о ""Маршрутах эвакуации в случае глобальной катастрофы планетарного масштаба"". Эвакуация вам сейчас была не очень нужна, но вот расположение кабинетов и коридоров оказалось весьма полезным."	"Quest Filial.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/163/text"	"Пойти направо по коридору, к складам"	"Quest Filial.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/163/text"	"Пойти направо по коридору, к складам"	"Quest Filial.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пайсьці направа па калідоры, да складаў"
 "/quests/Filial.qmm/jumps/163/description"	"Вы не спеша двинулись по восточному коридору, в район склада. Вскоре вы достигли двойной металлической двери, за которой оказалось огромное (для подвала) помещение, в котором повсюду работали странного вида роботы-погрузчики."	"Quest Filial.qmm: jumps.163.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/164/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/164/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прайсьці скрозь шкляныя дзьверы"
 "/quests/Filial.qmm/jumps/164/description"	"Пройдя сквозь двойные стеклянные двери, вы очутились в знакомой комнате, в которой по-прежнему стоял шум, состоящий из множества перекликающихся голосов, шумящих стереовизоров и гула компьютерной техники. Пройдя сквозь неё, вы достигли двойных тяжелых дверей, рядом с которыми стояло некое подобие турникета. Вы поднесли к сканеру свою карту и двери на удивление бесшумно и легко раскрылись. Пройдя через них, вы обнаружили, что оказались в <clr>лаборатории<clrEnd>."	"Quest Filial.qmm: jumps.164.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/165/description"	"Пока вы растерянно стояли на месте, к вам подошел феянин с надетыми поверх головы кроличьими ушами.
  - Снова вы? Может вы все-таки лаборант? - вежливо спросил он.
  - Нет, я... э-э... - промычали вы.
  Феянин вежливо покивал головой."	"Quest Filial.qmm: jumps.165.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/166/text"	"Направиться к входу в закрытую зону"	"Quest Filial.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/166/text"	"Направиться к входу в закрытую зону"	"Quest Filial.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Filial"	"Скіравацца да ўваходу ў закрытую зону"
 "/quests/Filial.qmm/jumps/166/description"	"Спустя пару мгновений, вы уже стояли по ту сторону двери в последнюю зону. Ну что же, осталось только дойти до кабинета директора, забрать документы и выбраться отсюда."	"Quest Filial.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/167/text"	"Осмотреть дверь в ""козарму"""	"Quest Filial.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/167/text"	"Осмотреть дверь в ""козарму"""	"Quest Filial.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Filial"	"Агледзець дзьверы ў ""казарму"""
 "/quests/Filial.qmm/jumps/168/description"	"Дверь. Обычная, металлическая. С надписью даже. Только вот не открывается."	"Quest Filial.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/171/text"	"Ударить ножом"	"Quest Filial.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/171/text"	"Ударить ножом"	"Quest Filial.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Filial"	"Ударыць нажом"
 "/quests/Filial.qmm/jumps/172/description"	"Активировав штык-нож, вы занесли манипулятор для удара и... тут же чуть было его не лишились. Выстрел буквально скользнул по вашей броне, так ничего толком на ней и не зацепив. В то же время, вы завершили начатое, вонзив нож между двумя участками брони и, судя по снопу искр и дыму, повалившими оттуда - ваш маневр имел успех. Робот противника дернулся назад, однако, у вас есть еще время на выстрел..."	"Quest Filial.qmm: jumps.172.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/173/description"	"Активировав штык-нож, вы занесли манипулятор для удара и... получили мощный удар в бок. Экран на секунду погас, но вскоре снова включился. Впрочем, какой-то жалкий экран не способен удержать великого рейнджера от нанесения тяжких повреждений супостату, и вы со всей оставшейся силой вонзили нож во врага. Робот противника дернулся назад, однако, у вас есть еще время на выстрел..."	"Quest Filial.qmm: jumps.173.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/174/description"	"Дождавшись, пока начальник опять захрапит, вы от души ударили по шкафчику ногой. Однако без толку. Только нога разболелась."	"Quest Filial.qmm: jumps.174.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/175/text"	"Что-то я рановато сюда. Нужно сначала допуск нужный получить..."	"Quest Filial.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/175/text"	"Что-то я рановато сюда. Нужно сначала допуск нужный получить..."	"Quest Filial.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Filial"	"Нешта я ранавата сюды. Трэба спачатку патрэбны допуск атрымаць..."
 "/quests/Filial.qmm/jumps/175/description"	"И с этими словами вы двинулись сквозь двери и офис обратно в коридор."	"Quest Filial.qmm: jumps.175.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/182/text"	"Лучше подождать лучшего момента для выстрела"	"Quest Filial.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/182/text"	"Лучше подождать лучшего момента для выстрела"	"Quest Filial.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Filial"	"Лепей пачакаць лепшага моманту для стрэлу"
 "/quests/Filial.qmm/jumps/183/description"	"Вы со смехом смотрели на маневры противника, который пытался увернуться от выстрела, который никогда не последует. Впрочем, он быстро догадался, что стрелять вы вовсе не собираетесь."	"Quest Filial.qmm: jumps.183.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/184/text"	"Отменить"	"Quest Filial.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/184/text"	"Отменить"	"Quest Filial.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Filial"	"Скасаваць"
 "/quests/Filial.qmm/jumps/184/description"	"Набранный код стерся. Еще разок?"	"Quest Filial.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/185/description"	"Вспомнив послание в записки, вы стали шарить рукой по стене, в надежде отыскать спасительный люк. Однако, потратив некоторое количество времени, вы так ничего и не обнаружили."	"Quest Filial.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/186/description"	"Неплохая мысль. Но в современных окнах ставят пуленепробиваемо-теплоизолирующее стекло, а вы отнюдь не в пеленгской ночлежке. Более того, даже форточка тут не предусмотрена в связи с системой климат - контроля, размещенной в каждом номере. А вы все еще не в пеленгской ночлежке. Так что попытка пробить стекло подвернувшимся под руку стулом была заранее обречена на провал.
  Но, во всяком случае, вы попытались."	"Quest Filial.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/187/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/187/text"	"Пройти сквозь стеклянные двери"	"Quest Filial.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Filial"	"Прайсьці скрозь шкляныя дзьверы"
 "/quests/Filial.qmm/jumps/188/description"	"А вот и нет. То есть, карты доступа нужного цвета у вас нет."	"Quest Filial.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/189/text"	"Потыкать кнопки ввода"	"Quest Filial.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/189/text"	"Потыкать кнопки ввода"	"Quest Filial.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Filial"	"Патыкаць кнопкі ўводу"
 "/quests/Filial.qmm/jumps/189/description"	"Вы нащупали панель с кодовым замком и начали нажимать на ней все подряд. Над ней тут же высветился голографический экран, требовательно вымогающий у вас пароль.
  - И какой тут пароль?
  - Пенчекряк меня возьми, если я знаю, - ответил голос.
@@ -825,13 +825,13 @@
  - Похоже, что он просто заводские настройки не менял, - давясь смехом сказал голос. 
 
  Итак..."	"Quest Filial.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/190/text"	"Подтвердить"	"Quest Filial.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/190/text"	"Подтвердить"	"Quest Filial.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Filial"	"Пацьвердзіць"
 "/quests/Filial.qmm/jumps/190/description"	"Шкафчик радостно лязгнул, распахивая вам дверцу. Немного порывшись в нем, вы отыскали зажигалку, набор непристойных рисунков с обнаженными самками малоков и <clr>красную карту допуска<clrEnd>. Спрятав карту в карман, вы затворили шкафчик и спешно ретировались из этой камеры пыток обратно в коридор."	"Quest Filial.qmm: jumps.190.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/191/description"	"Тем не менее, люк находиться совсем не желал. Может, кто-то просто решил поиздеваться над вами?"	"Quest Filial.qmm: jumps.191.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/192/description"	"Немного обдумав своё положение, вы решили поискать люк. В конце концов, зачем было бы автору записки вас обманывать? Через пару минут тщетных усилий вы, наконец, отыскали некую нишу в стене. Обрадовавшись, вы сунули туда голову... и тут же больно ударились головой о заднюю стенку сейфа. Едва не выпустив из себя воздух, вы отошли от стены, потирая голову и ругаясь про себя."	"Quest Filial.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/193/description"	"""Ну, попытка не пытка!"" - и с этой мыслью вы решили уделить несколько минут поиску люка, который очень советовал найти автор записки. Однако, наткнувшись на пару картин, стереовизор и тумбочку, энтузиазма в вас заметно поубавилось."	"Quest Filial.qmm: jumps.193.description. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/194/text"	"Войти, не постучав"	"Quest Filial.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Filial"	""
-"/quests/Filial.qmm/jumps/197/text"	"Выбрать [p46]"	"Quest Filial.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Filial"	""
+"/quests/Filial.qmm/jumps/194/text"	"Войти, не постучав"	"Quest Filial.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Filial"	"Увайсьці, не пастукаўшы"
+"/quests/Filial.qmm/jumps/197/text"	"Выбрать [p46]"	"Quest Filial.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Filial"	"Выбраць [p46]"
 "/quests/Filial.qmm/jumps/198/description"	"На экране высветились следующие числа: [p15], [p16], [p17], [p18], [p46] и знак <clr>*<clrEnd>."	"Quest Filial.qmm: jumps.198.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/199/description"	"На экране высветились следующие числа: [p15], [p16], [p17], [p18], [p46] и знак <clr>/<clrEnd>."	"Quest Filial.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Filial"	""
 "/quests/Filial.qmm/jumps/200/description"	"На экране высветились следующие числа: [p15], [p16], [p17], [p18], [p46] и знак <clr>+<clrEnd>."	"Quest Filial.qmm: jumps.200.description. Preserve every <tag> exactly."	"Quest,Filial"	""
