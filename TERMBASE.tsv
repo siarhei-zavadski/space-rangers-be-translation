@@ -585,7 +585,7 @@ lemma.hekok	ХЕ-КОК	HEH-KOK	ХЭ-КОК		joke hunting method from карта
 lemma.fotanka	фотонка	photon pistol	фатонка		slang photon gun in malok chronicle joke	—
 lemma.shneger	Шварц Шнегер	Schwarz Sheneger	Шварц Шнэгер		parody bodybuilder; keep joke surname	—
 lemma.drevochan	Древочан	Drevochan	Дрэвачан		parody action-hero name	—
-lemma.borzuhan	Борзухан	Borzuhan	Борзухан/Борзухана		peleng NPC in Sortirovka1; G Борзухана; keep as Pharaon/PlanetQuest	—
+lemma.borzuhan	Борзухан	Borzuhan	Борзухан/Борзухана/Борзуханам		peleng NPC in Sortirovka1; G Борзухана; keep as Pharaon/PlanetQuest	—
 lemma.locotractor	тягач	locotractor	цягач		yard engine that pulls railcars; G цягача pl цягачы Gpl цягачоў	—
 lemma.rail_consist	состав	train consist	склад	састаў	coupled railcars (not warehouse); G складу pl склады Gpl складоў	railway sense of склад
 lemma.sorter	сортировщик	sorter	сартавальнік		chief cargo sorter; G сартавальніка; PlanetQuest already	—
@@ -757,7 +757,7 @@ lemma.bioplasmoid	биоплазмоидный	bioplasmoid	біяплязмоі�
 lemma.looking_glass	Зазеркалье	Looking-Glass	Залюстэрка/ЗАЛЮСТЭРКА/Залюстэрку/ЗАЛЮСТЭРКУ		park garden; L Залюстэрку	https://starnik.by/pravapis/40350
 lemma.mirror_booth	БЮРО СПРАВОЧНОЕ	reversed booth sign	ОРЮБ/ЕАНЧАДЕВАД		each word reversed; unreads as БЮРО ДАВЕДАЧНАЕ	https://starnik.by/pravapis/107687
 lemma.dog_soda	Бом Гав-Гав-УЁН	woof soda	Гаў/УЁН		empty-bottle brand; Бом stays	Park.qmm
-lemma.flyer	флаер	flier	флаер/флаера/Флаер		atmospheric craft; G флаера; hunspell suggestions are unrelated	https://starnik.by/pravapis/80414
+lemma.flyer	флаер	flier	флаер/флаера/Флаер/флаеры		atmospheric craft; G флаера; hunspell suggestions are unrelated	https://starnik.by/pravapis/80414
 lemma.hairpin	заколка	hairpin	заколка/заколкі		Alyonushka souvenir; G заколкі	https://starnik.by/pravapis/26908
 lemma.shard	осколок	shard	аскепак/аскепка		crystal-bridge fragment; G аскепка	https://starnik.by/pravapis/6520
 lemma.bump	шишка	bump	шышка/шышку/шышкай		lump on the head; Starnik sense гуз	https://starnik.by/pravapis/86291
@@ -1012,4 +1012,4 @@ lemma.alioth	Алиот	Alioth	Аліот		star name; hunspell splits it	Borzukh
 lemma.rastaban	Растабан	Rastaban	Растабан		star name	Borzukhan.qmm
 lemma.linux_planet	Линукс	Linux	Лінукс		joke planet; hunspell suggests Лінус	Borzukhan.qmm
 lemma.rambo	Джон Рембо	John Rambo	Рэмба		ranger name; hunspell maps to Рэмбрант	Borzukhan.qmm
-lemma.stunner	станнер	stunner	станэр/Станэр		handheld stun weapon; hunspell maps to сканэр	Borzukhan.qmm
+lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам		handheld stun weapon; hunspell maps to сканэр	Borzukhan.qmm
