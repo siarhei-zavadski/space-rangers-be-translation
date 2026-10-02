@@ -187,7 +187,7 @@ lemma.liner	лайнер	liner	лайнэр		passenger ship class; already FormR
 lemma.diplomat	дипломат	diplomat	дыплямат		ship class + person; already FormRuins	hunspell-be-tarask
 lemma.flagship	флагман	flagship	флягман		already FormRuins флягмана	hunspell-be-tarask
 lemma.battleship	линкор	battleship	лінкар	лінкор	short UI for лінейны карабель. hunspell лінкар; Starnik both	https://starnik.by/pravapis/39589
-lemma.hauler	дальнобойщик	hauler	дальнабойшчык		People transport class; long-haul driver joke. G дальнабойшчыка	https://starnik.by/pravapis/21860
+lemma.hauler	дальнобойщик	hauler	дальнабойшчык/дальнабойшчыка/дальнабойшчыкі		People transport class; long-haul driver joke. G дальнабойшчыка; N pl дальнабойшчыкі	https://starnik.by/pravapis/21860
 lemma.dominion	доминион	dominion	дамініён		pirate CB station; already FormRuins	—
 lemma.consul	консул	consul	консул		People diplomat hull	hunspell-be-tarask
 lemma.corsair	корсар	corsair	карсар	корсар	sea robber + pirate hull (Starnik). G карсара; already FormGameSet2	https://starnik.by/pravapis/34073
@@ -756,3 +756,16 @@ lemma.bioplasmoid	биоплазмоидный	bioplasmoid	біяплязмоі�
 lemma.looking_glass	Зазеркалье	Looking-Glass	Залюстэрка/ЗАЛЮСТЭРКА/Залюстэрку/ЗАЛЮСТЭРКУ		park garden; L Залюстэрку	https://starnik.by/pravapis/40350
 lemma.mirror_booth	БЮРО СПРАВОЧНОЕ	reversed booth sign	ОРЮБ/ЕАНЧАДЕВАД		each word reversed; unreads as БЮРО ДАВЕДАЧНАЕ	https://starnik.by/pravapis/107687
 lemma.dog_soda	Бом Гав-Гав-УЁН	woof soda	Гаў/УЁН		empty-bottle brand; Бом stays	Park.qmm
+lemma.flyer	флаер	flier	флаер/флаера		atmospheric craft; G флаера; hunspell suggestions are unrelated	https://starnik.by/pravapis/80414
+lemma.hairpin	заколка	hairpin	заколка/заколкі		Alyonushka souvenir; G заколкі	https://starnik.by/pravapis/26908
+lemma.shard	осколок	shard	аскепак/аскепка		crystal-bridge fragment; G аскепка	https://starnik.by/pravapis/6520
+lemma.bump	шишка	bump	шышка/шышку/шышкай		lump on the head; Starnik sense гуз	https://starnik.by/pravapis/86291
+lemma.egg_case	футляр	case	футляр/футляры		Kashchei egg case; L футляры	https://starnik.by/pravapis/81232
+lemma.feather	перышко	little feather	пярынка/пярынкі	пярышка	invisible-cap feather; hunspell пярынка	https://starnik.by/pravapis/62079
+lemma.invisibility_cap	шапка-невидимка	invisibility cap	шапка-невідзімка/невідзімкі		G невідзімкі	https://starnik.by/pravapis/47064
+lemma.painting	картина	painting	карціна/карціны		souvenir portrait; G карціны	https://starnik.by/pravapis/34177
+lemma.fuflic	Фуфлик Зафиндяйло	Fuflic the dauber	Фуфлік/Фуфліка/Зафіндзяйла		joke painter; Зафіндзяйла stays indeclinable	Park.qmm
+lemma.kettle_greenhorn	Чайник Салагин	Kettle Salagin	Чайнік/Салагін/Салагіна		newbie ranger; G Салагіна	Park.qmm
+lemma.osya	Ося Б.	Osya B.	Ося/Осі		Ostap Bender parody; the novel is 12 табурэтак	Park.qmm
+lemma.linerist	лайнеристы-пиктористы	linerist-pictorist	лайнэрысты/піктарысты		joke job after the failed auction	Park.qmm
+lemma.yagusya	Бабуся-Ягуся	Granny Yagusya	Бабуля/Ягуся	Бабуся	cute rhyme on Баба-Яга; hunspell бабуля	Park.qmm
