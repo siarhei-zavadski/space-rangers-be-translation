@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы		peleng clerical rank used before a name	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -816,7 +816,7 @@ lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/он�
 lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
 lemma.extruder	экструдер	extruder	экструдар/Экструдар/экструдары/экструдараў/экстрударах		faeyan dessert on a stick	Photorobot.qmm
 lemma.makhpella	Махпелла	Makhpella	Махпэла/Махпэлу/Махпэлы/Лайт/Дарк		beer brand; curse and Dark variety	Photorobot.qmm
-lemma.slime	слизь	slime	слізь		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
+lemma.slime	слизь	slime	слізь/сліззю		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
 lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Photorobot.qmm
 lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
 lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorobot.qmm
@@ -858,7 +858,7 @@ lemma.vkus	Вкусь Выкусь	Vkus Vykus	Вкусь/Выкусь		peleng co
 lemma.pisa	Пиза	Pisa	Піза/Пізе		leaning tower; the pizza collapses	Pizza.qmm
 lemma.ham	окорок	ham	кумпяк	акорак	hip of a carcass; sliced Tambov ham	https://starnik.by/pravapis/37857
 lemma.tambov	тамбовский	Tambov	Тамбоўскі/тамбоўскі		city ham; proper adjective	Pizza.qmm
-lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы/вугляводаў		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
+lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы/вугляводаў/вугляводамі		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
 lemma.arnarique	Арнарик Гаудад	Arnarique Goudad	Арнарык/Гаўдад/Гаўдада		planet of the jerbooster; genitive Гаўдада	Pizza.qmm
 lemma.portobello	портобелло	portobello	Партабэла		mushroom; proper name	Pizza.qmm
 lemma.pizza_hack	Пицца-хак	Pizza-Hack	Піца/хак		restaurant chain sponsoring the contest	Pizza.qmm
@@ -882,7 +882,7 @@ lemma.criambusine	крямбусина	criambusine	крэмбусіна/Крэм
 lemma.quack_tose	Квак То-Ус	quack-tose	Квак/квак/КВАК/Ус/уса/Уса/УС		thorny sprig the cages eat	Xenopark.qmm
 lemma.haapt	Хаапт	Khahapt	Хаапта/Хаапт		globules named for Haapt	Xenopark.qmm
 lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/Зіркі	зірка	granules; not the star зірка	Xenopark.qmm
-lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша		glandular fodder	Xenopark.qmm
+lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша/лаап/шу/Шу		glandular fodder	Xenopark.qmm
 lemma.aerocar	аэрокар	aerocar	аэракар/аэракара		the ranger's car at the park	Xenopark.qmm
 lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
 lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст		gaal scholar of ііке-баан	Xenopark.qmm
@@ -891,3 +891,11 @@ lemma.klyakush	Клякуш Чапацвак	Klyakush Chapazzvack	Клякуш/�
 lemma.garrakh	Гаррах-Сильный	Garrakh the Strong	Гаррах		captain who wrote up the habbath	Xenopark.qmm
 lemma.eitzkhala	Эйцхала Стырило	Eitzkhala Snipe-It	Эйцхала/Стырыла		honest trader who wrote up the sand spike	Xenopark.qmm
 lemma.ranger_eater	рейнджероед	ranger-eater	рэйнджэраед/рэйнджэраеда		the beast that eats rangers	Xenopark.qmm
+lemma.vtequila	Втыкилла	Vtequila	Втыкіла/Втыкілу/Втыкілы		ranger drink pressed from quack-tose	Xenopark.qmm
+lemma.sploshling	шпецокляк	sploshling	шпецокляк/шпецокляка		peleng who swaps the tub tablets	Xenopark.qmm
+lemma.samaldok	Самалдокский нюфтюлин	Samaldock niuphtiuline	Самалдокскі/нюфцюлін		a taste the criambusine recalls	Xenopark.qmm
+lemma.svaikov	Свайков и банда	Svaikoff and Ga	Свайкаў/Свайкава		dentist who guaranteed the filling	Xenopark.qmm
+lemma.lyaptsva	Ляпцва Хиц	Brigee Bardozze	Ляпцва/Ляпцвы/Хіц/Хіца		owner of the xenopark	Xenopark.qmm
+lemma.popfeed	Поп-корм	Pop-feed	Поп/поп		peleng name for the teenager snack	Xenopark.qmm
+lemma.coca	Кока-Кола	Cola	Кока/Кола		the hydrocarbon tub is ordinary cola	Xenopark.qmm
+lemma.lsd	ЛСД-400	LSD-400	ЛСД		the drug the ranger did not take	Xenopark.qmm
