@@ -101,7 +101,7 @@ lemma.defend	защищать	defend	бараніць		Starnik: ён барон�
 lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
-lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў		Starnik: пілот, not пілёт	—
+lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/пілоты/пілотам		Starnik: пілот, not пілёт	—
 lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
@@ -435,7 +435,7 @@ lemma.oveon	овеон	oveon	авеон		gaal ship type KillShip/15	—
 lemma.hatchball	хэчбол	hatchball	хэчбол/хэчбольны/хэчболу/хэчболе/хэчбольным		sport; keep loan	—
 lemma.don_pelengone	Дон Пеленгоне	Don Pelengone	Дон Пеленгоне		peleng premier; E-бабкі cards	—
 lemma.bail_gan	Бейл Ган	Bail Gan	Бейл Ган		keep in <clr>; faeyan hacker	—
-lemma.malokosoft	Малокософт	Malokosoft	Малокософт		quoted malok software firm	—
+lemma.malokosoft	Малокософт	Malokosoft	Малокософт/Малокософта		quoted malok software firm	—
 lemma.jazy_bydlo	Джазы Быдло	Jazy Bydlo	Джазы Быдло		keep in <clr>; malok pirate in drills	—
 lemma.keini_mitnok	Кейни Митнок	Keini Mitnok	Кейні Мітнок		keep in <clr>; Galanet hacker	—
 lemma.astroin	астроин	astroin	астраін		keep in <clr>; gaal cheap narcotic	—
@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -1046,11 +1046,22 @@ lemma.frnkin	Фрнкин-Бок	Frnkin-Bok	Фрнкин	Франк	grandmother'
 lemma.urupinsk	Урюпинск	Uryupinsk	Урупінск/Урупінска	Русінска	the sticks; hunspell suggestion is another place	Ministry.qmm
 lemma.stereophone	стереофон	stereophone	стэрэафон/стэрэафона	стэрэафанія	secretary's phone; hunspell suggestion is stereophony	Ministry.qmm
 lemma.acetate	ацетаты	acetates	ацэтатамі	мэтацэнтрамі	instrumental plural; Starnik ацэтат; hunspell keeps only the singular	https://starnik.by/pravapis/8009
-lemma.klim	Клим	Klim	Клім/Кліма	Кім	team mechanic; hunspell suggestions are other names	Rally.qmm
-lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча	Горыч	patronymic nickname of Ягор	https://starnik.by/pravapis/91472
+lemma.klim	Клим	Klim	Клім/Кліма/Клімам/Клімушка	Кім	team mechanic; hunspell suggestions are other names	Rally.qmm
+lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча/Ягорычам	Горыч	patronymic nickname of Ягор	https://starnik.by/pravapis/91472
 lemma.svyatogor	Святогор	Svyatogor	Сьвятагор/Сьвятагора	Сьвятар	lead driver; epic name; hunspell splits it into other words	Rally.qmm
 lemma.suubaru	Суу-баару	Suu-baaru	Суу/баару	Суб	joke Subaru; Latin WRX STI SBR VO stays	Rally.qmm
 lemma.zhupii	жупии	zhupii	Жупіі/жупіяў	жукі	iron body colony; coined part	Rally.qmm
 lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід	нанэтамі	repair robot; coined part	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
+lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман	Міхальчук/Кульман	Schumacher joke	Rally.qmm
+lemma.korchenitsa	Корченица	Korchenitsa	Карчаніца	Караніцца	lead driver's surname	Rally.qmm
+lemma.dudochkin	Дудочкин	Dudochkin	Дудочкін	Дубочкі	young driver; from дудка	Rally.qmm
+lemma.pollonso	Поллонсо	Pollonso	Поллонса	Спонсара	Alonso joke; double л stays	Rally.qmm
+lemma.fae_rari	рарри	Ferrari	рары	пары	Ferrari joke after ФЭЙ; ФЭЙ passes hunspell	Rally.qmm
+lemma.bemzhe	Бэ-Эм-Жэ	BMU	Бээмжэ	Бэсэмэр	BMW letter-name joke; one token so the letters are not leftovers	Rally.qmm
+lemma.sitrojan	Сии-троян	Seetrojan	Сіі/траян	Кіі/траяк	Citroen joke; hyphen splits the tokens	Rally.qmm
+lemma.booel	Боо-эль	Boo-el	Баа/стыяан/Боо	Баб/стыканы/Бор	Vettel joke; hyphen splits the tokens; эль passes hunspell	Rally.qmm
+lemma.cheater	Читер	Cheater	Чытэр	Крытэр	Michael Cheater joke	Rally.qmm
+lemma.gummi	Гамми	Gummy	Гамі	Гам	ranger Gamma joke	Rally.qmm
+lemma.hamlet	Гамлет	Hamlet	Гамлет	Амлет	literary name in the Betta ad	Rally.qmm
