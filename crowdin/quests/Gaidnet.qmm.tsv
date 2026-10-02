@@ -274,581 +274,853 @@ HackSense падказвае, што вузел, у якім вы зараз з�
 "/quests/Gaidnet.qmm/locations/58/texts/0/text"	"<clr>Узел 4 1<clrEnd>.
 По всем признакам выходило, что вы находитесь в охранном узле. Сюда стекалась информация о всяких ошибках и сбоях в системе. Где-то здесь находится запись и о вашем уровне тревоги. Правда, сомнительно, что до нее можно так просто добраться."	"Quest Gaidnet.qmm: locations.58.texts.0.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Вузел 4 1<clrEnd>.
 Па ўсіх прыкметах выходзіла, што вы знаходзіцеся ў ахоўным вузьле. Сюды сьцякалася інфармацыя пра ўсялякія памылкі і збоі ў сыстэме. Дзесьці тут знаходзіцца запіс і пра ваш узровень трывогі. Праўда, сумнеўна, што да яе можна так проста дабрацца."
-"/quests/Gaidnet.qmm/jumps/0/text"	"Проникнуть в -> Восточный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/0/text"	"Проникнуть в -> Восточный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/0/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.0.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/1/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.0.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/1/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/1/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.1.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/2/text"	"Проникнуть в -> Восточный мост :: третий порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.1.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/2/text"	"Проникнуть в -> Восточный мост :: третий порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: трэці порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/2/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear 5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.2.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/3/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear 5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.2.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear 5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/3/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/3/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.3.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/4/text"	"Проникнуть в -> Восточный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.3.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/4/text"	"Проникнуть в -> Восточный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/4/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.4.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/5/text"	"Проникнуть в -> Восточный мост :: третий порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.4.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/5/text"	"Проникнуть в -> Восточный мост :: третий порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: трэці порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/5/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.5.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/7/text"	"Проникнуть в -> Южный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.5.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/7/text"	"Проникнуть в -> Южный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/7/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra <clrEnd>... Mirror 1.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/8/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra <clrEnd>... Mirror 1.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra <clrEnd>... Mirror 1.0 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/8/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/8/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.8.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/9/text"	"Проникнуть в -> Южный мост :: третий порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.8.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/9/text"	"Проникнуть в -> Южный мост :: третий порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: трэці порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/9/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.9.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/11/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.9.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/11/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/11/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.11.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/12/text"	"Проникнуть в -> Южный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.11.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/12/text"	"Проникнуть в -> Южный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/12/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.12.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/13/text"	"Проникнуть в -> Южный мост :: третий порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.12.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/13/text"	"Проникнуть в -> Южный мост :: третий порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: трэці порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/13/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.13.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/14/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/16/text"	"Проникнуть в -> Северный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.13.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/14/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/16/text"	"Проникнуть в -> Северный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/16/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/17/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/17/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/17/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.17.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/18/text"	"Проникнуть в -> Северный мост :: третий порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.17.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/18/text"	"Проникнуть в -> Северный мост :: третий порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: трэці порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/18/description"	"<clr>Gunner-7 <clrEnd>... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.18.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/19/text"	"Проникнуть в -> Восточный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.18.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7 <clrEnd>... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/19/text"	"Проникнуть в -> Восточный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/19/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.19.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/20/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.19.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/20/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/20/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/21/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/21/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/21/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/22/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/22/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/22/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/23/text"	"Проникнуть в -> Северный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/23/text"	"Проникнуть в -> Северный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/23/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/24/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/24/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/24/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.24.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/25/text"	"Проникнуть в -> Северный мост :: третий порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.24.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/25/text"	"Проникнуть в -> Северный мост :: третий порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: трэці порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/25/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.25.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/26/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.25.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/26/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/26/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/27/text"	"Проникнуть в -> Восточный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/27/text"	"Проникнуть в -> Восточный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/27/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.27.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/28/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.27.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/28/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/28/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/29/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/29/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/29/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.29.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/30/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/31/text"	"Проникнуть в -> Северный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.29.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/30/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/31/text"	"Проникнуть в -> Северный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/31/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.31.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/32/text"	"Проникнуть в -> Северный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.31.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/32/text"	"Проникнуть в -> Северный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/32/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.32.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/33/text"	"Проникнуть в -> Восточный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.32.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/33/text"	"Проникнуть в -> Восточный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/33/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/34/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/34/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/34/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/35/text"	"Проникнуть в -> Северный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/35/text"	"Проникнуть в -> Северный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/35/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/36/text"	"Проникнуть в -> Северный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/36/text"	"Проникнуть в -> Северный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/36/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/37/text"	"Проникнуть в -> Восточный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/37/text"	"Проникнуть в -> Восточный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/37/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/38/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/38/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/38/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/39/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/41/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/39/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/41/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/41/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/42/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/42/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/42/description"	"<clr>Gunner-7 <clrEnd>... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/43/text"	"Проникнуть в -> Западный мост :: третий порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7 <clrEnd>... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/43/text"	"Проникнуть в -> Западный мост :: третий порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: трэці порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/43/description"	"<clr>Ivy-13<clrEnd> ... Shear 5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/44/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear 5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/44/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/44/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.44.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/45/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.44.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/45/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/45/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.45.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/46/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.45.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/46/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/46/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.46.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/47/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.46.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/47/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/47/description"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.47.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/48/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.47.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/48/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/48/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7 <clrEnd>... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.48.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/49/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7 <clrEnd>... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.48.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7 <clrEnd>... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/49/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/49/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.49.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/50/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.49.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/50/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/50/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.50.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/51/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.50.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/51/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/51/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/52/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/52/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/52/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.52.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/53/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.52.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/53/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/53/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/54/text"	"Проникнуть в -> Западный мост :: третий порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/54/text"	"Проникнуть в -> Западный мост :: третий порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: трэці порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/54/description"	"<clr>Ivy-13<clrEnd> ... Shear 5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/55/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/56/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear 5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/55/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/56/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/56/description"	"<clr>StoneWall <clrEnd>... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4 <clrEnd>... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.56.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/57/text"	"Проникнуть в -> Северный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4 <clrEnd>... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.56.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall <clrEnd>... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4 <clrEnd>... Sword 2.9 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/57/text"	"Проникнуть в -> Северный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/57/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/58/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/58/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/58/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.58.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/59/text"	"Проникнуть в -> Восточный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.58.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/59/text"	"Проникнуть в -> Восточный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/59/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/60/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/60/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/60/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/61/text"	"Проникнуть в -> Южный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/61/text"	"Проникнуть в -> Южный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/61/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/62/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/62/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/62/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/63/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/63/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/63/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/64/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/64/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/64/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/65/text"	"Проникнуть в -> Северный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/65/text"	"Проникнуть в -> Северный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/65/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/66/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/66/text"	"Проникнуть в -> Восточный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/66/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/67/text"	"Проникнуть в -> Восточный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/67/text"	"Проникнуть в -> Восточный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/67/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/68/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/68/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/68/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/69/text"	"Проникнуть в -> Южный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/69/text"	"Проникнуть в -> Южный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/69/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.69.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/70/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.69.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/70/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/70/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.70.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/71/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.70.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/71/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/71/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.71.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/72/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/73/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/74/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.71.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/72/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/73/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/74/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/74/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.74.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/75/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.74.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/75/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/75/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/76/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/76/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/76/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.76.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/77/text"	"Проникнуть в -> Восточный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.76.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/77/text"	"Проникнуть в -> Восточный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/77/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.77.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/78/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.77.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/78/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/78/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.78.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/79/text"	"Проникнуть в -> Западный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.78.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/79/text"	"Проникнуть в -> Западный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/79/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.79.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/80/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.79.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/80/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/80/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/81/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/81/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/81/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/82/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/82/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/82/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.82.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/83/text"	"Проникнуть в -> Восточный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.82.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/83/text"	"Проникнуть в -> Восточный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/83/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/84/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/84/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/84/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/85/text"	"Проникнуть в -> Западный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/85/text"	"Проникнуть в -> Западный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/85/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/86/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/87/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/86/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/87/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/87/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.87.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/88/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.87.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/88/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/88/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.88.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/89/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.88.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/89/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/89/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/90/text"	"Проникнуть в -> Западный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/90/text"	"Проникнуть в -> Западный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/90/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.90.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/91/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.90.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/91/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/91/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.91.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/92/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.91.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/92/text"	"Проникнуть в -> Южный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/92/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.92.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/93/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.92.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/93/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/93/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/94/text"	"Проникнуть в -> Западный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/94/text"	"Проникнуть в -> Западный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/94/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/95/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/96/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/95/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/96/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/96/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/97/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/97/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/97/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/98/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/98/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/98/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/99/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/99/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/99/description"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/100/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/100/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/100/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/101/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/101/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/101/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/102/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/102/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/102/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/103/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/103/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/103/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/104/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/104/text"	"Проникнуть в -> Южный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/104/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/105/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/105/text"	"Проникнуть в -> Южный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/105/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/106/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/106/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/106/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/107/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/107/text"	"Проникнуть в -> Западный мост :: второй порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/107/description"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/108/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/109/text"	"Проникнуть в -> Северный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4 <clrEnd>... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/108/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/109/text"	"Проникнуть в -> Северный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/109/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3 <clrEnd>... Mirror 1.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.109.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/110/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3 <clrEnd>... Mirror 1.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.109.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3 <clrEnd>... Mirror 1.0 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/110/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/110/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/111/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/111/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/111/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/112/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/112/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/112/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/113/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/113/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/113/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/114/text"	"Проникнуть в -> Южный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/114/text"	"Проникнуть в -> Южный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/114/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/115/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/115/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/115/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/116/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/116/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/116/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/117/text"	"Проникнуть в -> Северный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/117/text"	"Проникнуть в -> Северный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/117/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/118/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/118/text"	"Проникнуть в -> Северный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/118/description"	"<clr>Hydra-3 <clrEnd>... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/119/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3 <clrEnd>... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/119/text"	"Проникнуть в -> Восточный мост :: первый порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/119/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/120/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/120/text"	"Проникнуть в -> Восточный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/120/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/121/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/122/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/121/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/122/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/122/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/123/text"	"Проникнуть в -> Южный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/123/text"	"Проникнуть в -> Южный мост :: второй порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/123/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/124/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/124/text"	"Проникнуть в -> Западный мост :: первый порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/124/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/125/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/125/text"	"Проникнуть в -> Западный мост :: второй порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/125/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/126/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/127/text"	"Проникнуть в -> Южный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/126/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/127/text"	"Проникнуть в -> Южный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/127/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4 <clrEnd>... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.127.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/128/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4 <clrEnd>... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.127.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4 <clrEnd>... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/128/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/128/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.128.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/129/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.128.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/129/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/129/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.129.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/130/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.129.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/130/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/130/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.130.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/131/text"	"Проникнуть в -> Южный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.130.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... Shear v5.5 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/131/text"	"Проникнуть в -> Южный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/131/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/132/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/132/text"	"Проникнуть в -> Южный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/132/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.132.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/133/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.132.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/133/text"	"Проникнуть в -> Западный мост :: первый порт :: Gunner-7"	"Quest Gaidnet.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Gunner-7"
 "/quests/Gaidnet.qmm/jumps/133/description"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/134/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Gunner-7<clrEnd> ... Blind 5.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/134/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/134/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/135/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/136/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Ivy-13<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Ivy-13<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/135/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/136/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/136/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/137/text"	"Проникнуть в -> Северный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/137/text"	"Проникнуть в -> Северный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/137/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/138/text"	"Проникнуть в -> Восточный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/138/text"	"Проникнуть в -> Восточный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/138/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/139/text"	"Проникнуть в -> Восточный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/139/text"	"Проникнуть в -> Восточный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/139/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/140/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/140/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/140/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/141/text"	"Проникнуть в -> Северный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/141/text"	"Проникнуть в -> Северный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/141/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.141.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/142/text"	"Проникнуть в -> Восточный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.141.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/142/text"	"Проникнуть в -> Восточный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/142/description"	"<clr>Dragon-4<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/143/text"	"Проникнуть в -> Восточный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/143/text"	"Проникнуть в -> Восточный мост :: второй порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: другі порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/143/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/144/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/145/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ...<clr> Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ...<clr> Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/144/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/145/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/145/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.145.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/146/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.145.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... Blind 5.0 ...<clr> Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/146/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/146/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/147/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/147/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/147/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.147.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/148/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.147.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/148/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/148/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/149/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/149/text"	"Проникнуть в -> Северный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/149/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/150/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Gunner-7<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Gunner-7<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/150/text"	"Проникнуть в -> Северный мост :: второй порт :: Ivy-13"	"Quest Gaidnet.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: другі порт :: Ivy-13"
 "/quests/Gaidnet.qmm/jumps/150/description"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/151/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Hydra-3<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Ivy-13<clrEnd> ... Shear v5.5 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Hydra-3<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/151/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/151/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd>  ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/152/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd>  ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd>  ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/152/text"	"Проникнуть в -> Западный мост :: второй порт :: Hydra-3"	"Quest Gaidnet.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: другі порт :: Hydra-3"
 "/quests/Gaidnet.qmm/jumps/152/description"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/153/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/154/text"	"Компьютеры-шмопьютеры - дрянь все это. Я люблю на гашетку нажимать, а не мозгами шевелить. Да и взломы - опасное это дело (и противозаконное). Так что пора сваливать, пока не стало слишком поздно"	"Quest Gaidnet.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/155/text"	"Что ж. Пора приступать. Кажется дверь с вывеской ""ГайдНет"" - то, что мне нужно"	"Quest Gaidnet.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/156/text"	"Сесть в кресло"	"Quest Gaidnet.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/157/text"	"Спросить, как найти информацию о разработках MacroHard"	"Quest Gaidnet.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/158/text"	"Сесть в кресло"	"Quest Gaidnet.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/159/text"	"Оглядеться"	"Quest Gaidnet.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/160/text"	"Работать с жестким диском"	"Quest Gaidnet.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/161/text"	"Закончить работу с диском"	"Quest Gaidnet.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/162/text"	"Читать описание сети"	"Quest Gaidnet.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Hydra-3<clrEnd> ... Mirror 1.0 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/153/text"	"Взлом не удался! Вернуться"	"Quest Gaidnet.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Узлом не ўдаўся! Вярнуцца"
+"/quests/Gaidnet.qmm/jumps/154/text"	"Компьютеры-шмопьютеры - дрянь все это. Я люблю на гашетку нажимать, а не мозгами шевелить. Да и взломы - опасное это дело (и противозаконное). Так что пора сваливать, пока не стало слишком поздно"	"Quest Gaidnet.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Кампутары-шмапутары — дрэнь усё гэта. Я люблю на гашэтку ціснуць, а не мазгамі варушыць. Ды і ўзлом — небясьпечная гэта справа (і супрацьзаконная). Так што пара змывацца, пакуль не стала занадта позна"
+"/quests/Gaidnet.qmm/jumps/155/text"	"Что ж. Пора приступать. Кажется дверь с вывеской ""ГайдНет"" - то, что мне нужно"	"Quest Gaidnet.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Што ж. Пара брацца. Здаецца, дзьверы з шыльдай ""ГайдНэт"" — тое, што мне трэба"
+"/quests/Gaidnet.qmm/jumps/156/text"	"Сесть в кресло"	"Quest Gaidnet.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Сесьці ў крэсла"
+"/quests/Gaidnet.qmm/jumps/157/text"	"Спросить, как найти информацию о разработках MacroHard"	"Quest Gaidnet.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Спытаць, як знайсьці інфармацыю пра распрацоўкі MacroHard"
+"/quests/Gaidnet.qmm/jumps/158/text"	"Сесть в кресло"	"Quest Gaidnet.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Сесьці ў крэсла"
+"/quests/Gaidnet.qmm/jumps/159/text"	"Оглядеться"	"Quest Gaidnet.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Агледзецца"
+"/quests/Gaidnet.qmm/jumps/160/text"	"Работать с жестким диском"	"Quest Gaidnet.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Працаваць з жорсткім дыскам"
+"/quests/Gaidnet.qmm/jumps/161/text"	"Закончить работу с диском"	"Quest Gaidnet.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Скончыць працу з дыскам"
+"/quests/Gaidnet.qmm/jumps/162/text"	"Читать описание сети"	"Quest Gaidnet.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Чытаць апісаньне сеткі"
 "/quests/Gaidnet.qmm/jumps/162/description"	"Отчет № 142 : Сведения об информационной сети сервера (ИСС) MacroHard.
 
 По нашим данным ИСС MacroHard представляет собой структуру сетки размером 4X4. Пользовательский узел, то есть узел, в котором находится демонстрационный макет (Дворец v13.2), имеет номер <clr>1:1<clrEnd>. Пути в соседние узлы из него закрыты защитниками или стражниками. Но, как говорит информатор, возможности обойти стражников есть. Для этого используются специальные программы, называемые эксплоитами. Еще нам удалось узнать, что закрытые разработки находятся в узле <clr>4 4<clrEnd>. Доступ к данным из этого узла могут получить только пользователи со статусом ""Разработчик"".
 
 Замечание: 
 Программы для обхода стражников сети MacroHard приложены к данному отчету. Они находятся в разделе Эксплоиты."	"Quest Gaidnet.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/163/text"	"Далее"	"Quest Gaidnet.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/164/text"	"Читать FAQ по взлому"	"Quest Gaidnet.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/163/text"	"Далее"	"Quest Gaidnet.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Далей"
+"/quests/Gaidnet.qmm/jumps/164/text"	"Читать FAQ по взлому"	"Quest Gaidnet.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Чытаць FAQ па ўзломе"
 "/quests/Gaidnet.qmm/jumps/164/description"	"В этом документе собраны часто задаваемые вопросы (FAQ) по взломам. Автор надеется, что данный документ поможет разобраться в некоторых вопросах взлома.
 
 В: Что такое ГайдНет?
@@ -874,108 +1146,120 @@ HackSense падказвае, што вузел, у якім вы зараз з�
 
 В: Что делать, если я не нашел ответ на свой вопрос?
 О: Нужно почитать какую-нибудь другую литературу или попытаться самому найти ответ на свой вопрос. Путем проб и ошибок. :)"	"Quest Gaidnet.qmm: jumps.164.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/165/text"	"Осмотреть раздел эксплоитов"	"Quest Gaidnet.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/166/text"	"Перейти в хакерский режим"	"Quest Gaidnet.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/165/text"	"Осмотреть раздел эксплоитов"	"Quest Gaidnet.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Агледзець разьдзел эксплёйтаў"
+"/quests/Gaidnet.qmm/jumps/166/text"	"Перейти в хакерский режим"	"Quest Gaidnet.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перайсьці ў рэжым хакера"
 "/quests/Gaidnet.qmm/jumps/166/description"	"Понять, как вы можете перейти в режим HackSense, вам не составило труда. Как будто вы этим всегда только и занимались.
 Концентрация - и все вокруг тут же начало изменяться. Стены начали плавиться, видоизменяться и неожиданно помещение, в котором вы только что находились, превратилось в шар. Серый шар, располосованный зелеными линиями. Вы начали ощущать новые объекты, стали видеть иначе. В голову лезут всякие цифры и идентификаторы. Собравшись, вы, наконец, освоились с новой средой."	"Quest Gaidnet.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/167/text"	"Перейти в хакерский режим"	"Quest Gaidnet.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/168/text"	"Перейти в пользовательский режим"	"Quest Gaidnet.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/167/text"	"Перейти в хакерский режим"	"Quest Gaidnet.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перайсьці ў рэжым хакера"
+"/quests/Gaidnet.qmm/jumps/168/text"	"Перейти в пользовательский режим"	"Quest Gaidnet.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перайсьці ў рэжым карыстальніка"
 "/quests/Gaidnet.qmm/jumps/168/description"	"Вернуться в пользовательский режим для вас не составило труда. Мгновение - и перед вами начали восстанавливаться очертания прекрасного дворца."	"Quest Gaidnet.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/169/text"	"Перейти в пользовательский режим"	"Quest Gaidnet.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/170/text"	"Загрузить Shear 5.5 (эксплоит против Ivy-13)"	"Quest Gaidnet.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/171/text"	"Загрузить Sword 2.9 (эксплоит против Dragon-4)"	"Quest Gaidnet.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/172/text"	"Загрузить Jumper 3.8 (эксплоит против StoneWall)"	"Quest Gaidnet.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/173/text"	"Загрузить Mirror 1.0 (эксплоит против Hydra-3)"	"Quest Gaidnet.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/174/text"	"Загрузить Blind 5.0 (эксплоит против Gunner-7)"	"Quest Gaidnet.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/175/text"	"Загрузить Graft 7.1 (эксплоит против Guardian-92)"	"Quest Gaidnet.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/177/text"	"Удалить Shear 5.5 (эксплоит против Ivy-13)"	"Quest Gaidnet.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/178/text"	"Удалить Sword 2.9 (эксплоит против Dragon-4)"	"Quest Gaidnet.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/179/text"	"Удалить Jumper 3.8 (эксплоит против StoneWall)"	"Quest Gaidnet.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/180/text"	"Удалить Mirror 1.0 (эксплоит против Hydra-3)"	"Quest Gaidnet.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/181/text"	"Удалить Blind 5.0 (эксплоит против Gunner-7)"	"Quest Gaidnet.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/182/text"	"Удалить Graft 7.1 (эксплоит против Guardian-92)"	"Quest Gaidnet.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/184/text"	"Закончить"	"Quest Gaidnet.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/185/text"	"Работать с жестким диском"	"Quest Gaidnet.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/186/text"	"Закончить работу с диском"	"Quest Gaidnet.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/187/text"	"Проникнуть в -> Post-AutoBot"	"Quest Gaidnet.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/188/text"	"Отсоединиться от порта"	"Quest Gaidnet.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/189/text"	"Сообщить данные ""наобум"""	"Quest Gaidnet.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/169/text"	"Перейти в пользовательский режим"	"Quest Gaidnet.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перайсьці ў рэжым карыстальніка"
+"/quests/Gaidnet.qmm/jumps/170/text"	"Загрузить Shear 5.5 (эксплоит против Ivy-13)"	"Quest Gaidnet.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Shear 5.5 (эксплёйт супраць Ivy-13)"
+"/quests/Gaidnet.qmm/jumps/171/text"	"Загрузить Sword 2.9 (эксплоит против Dragon-4)"	"Quest Gaidnet.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Sword 2.9 (эксплёйт супраць Dragon-4)"
+"/quests/Gaidnet.qmm/jumps/172/text"	"Загрузить Jumper 3.8 (эксплоит против StoneWall)"	"Quest Gaidnet.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Jumper 3.8 (эксплёйт супраць StoneWall)"
+"/quests/Gaidnet.qmm/jumps/173/text"	"Загрузить Mirror 1.0 (эксплоит против Hydra-3)"	"Quest Gaidnet.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Mirror 1.0 (эксплёйт супраць Hydra-3)"
+"/quests/Gaidnet.qmm/jumps/174/text"	"Загрузить Blind 5.0 (эксплоит против Gunner-7)"	"Quest Gaidnet.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Blind 5.0 (эксплёйт супраць Gunner-7)"
+"/quests/Gaidnet.qmm/jumps/175/text"	"Загрузить Graft 7.1 (эксплоит против Guardian-92)"	"Quest Gaidnet.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць Graft 7.1 (эксплёйт супраць Guardian-92)"
+"/quests/Gaidnet.qmm/jumps/177/text"	"Удалить Shear 5.5 (эксплоит против Ivy-13)"	"Quest Gaidnet.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Shear 5.5 (эксплёйт супраць Ivy-13)"
+"/quests/Gaidnet.qmm/jumps/178/text"	"Удалить Sword 2.9 (эксплоит против Dragon-4)"	"Quest Gaidnet.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Sword 2.9 (эксплёйт супраць Dragon-4)"
+"/quests/Gaidnet.qmm/jumps/179/text"	"Удалить Jumper 3.8 (эксплоит против StoneWall)"	"Quest Gaidnet.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Jumper 3.8 (эксплёйт супраць StoneWall)"
+"/quests/Gaidnet.qmm/jumps/180/text"	"Удалить Mirror 1.0 (эксплоит против Hydra-3)"	"Quest Gaidnet.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Mirror 1.0 (эксплёйт супраць Hydra-3)"
+"/quests/Gaidnet.qmm/jumps/181/text"	"Удалить Blind 5.0 (эксплоит против Gunner-7)"	"Quest Gaidnet.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Blind 5.0 (эксплёйт супраць Gunner-7)"
+"/quests/Gaidnet.qmm/jumps/182/text"	"Удалить Graft 7.1 (эксплоит против Guardian-92)"	"Quest Gaidnet.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Выдаліць Graft 7.1 (эксплёйт супраць Guardian-92)"
+"/quests/Gaidnet.qmm/jumps/184/text"	"Закончить"	"Quest Gaidnet.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Скончыць"
+"/quests/Gaidnet.qmm/jumps/185/text"	"Работать с жестким диском"	"Quest Gaidnet.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Працаваць з жорсткім дыскам"
+"/quests/Gaidnet.qmm/jumps/186/text"	"Закончить работу с диском"	"Quest Gaidnet.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Скончыць працу з дыскам"
+"/quests/Gaidnet.qmm/jumps/187/text"	"Проникнуть в -> Post-AutoBot"	"Quest Gaidnet.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Post-AutoBot"
+"/quests/Gaidnet.qmm/jumps/188/text"	"Отсоединиться от порта"	"Quest Gaidnet.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Адлучыцца ад порту"
+"/quests/Gaidnet.qmm/jumps/189/text"	"Сообщить данные ""наобум"""	"Quest Gaidnet.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Паведаміць дадзеныя ""наўздагад"""
 "/quests/Gaidnet.qmm/jumps/189/description"	"- Неизвестная учетная запись, - прозвучал голос. - Сообщение о сбое отослано вверх по иерархии."	"Quest Gaidnet.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/190/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/190/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перадаць ID-13 і пароль"
 "/quests/Gaidnet.qmm/jumps/190/description"	"- Учетная запись опознана. Пароль подтвержден. Доступ к почтовой области <clr>ID-13<clrEnd> разрешен, - прозвенел голос.
 Ура! Получив доступ, вы просмотрели всю почту, но ничего полезного не нашли. Лишь немного рекламы да пара бестолковых писем, из которых следовало, что получатель почты - работник инженерного отдела и разработчик новейшего оборудования. Жаль только, что он не имел обыкновения в письмах пересылать чертежи и описания закрытых разработок..."	"Quest Gaidnet.qmm: jumps.190.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/191/text"	"Увековечить свое имя на каком-нибудь объекте"	"Quest Gaidnet.qmm: jumps.191.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/191/text"	"Увековечить свое имя на каком-нибудь объекте"	"Quest Gaidnet.qmm: jumps.191.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Увекавечыць сваё імя на якім-небудзь аб'екце"
 "/quests/Gaidnet.qmm/jumps/191/description"	"Выбрав весьма красивую колонну, вы попробовали прикоснуться к ней. На объекте осталась вмятина. Еще несколько несложных движений - и вот уже на колонне красуется надпись: ""<clr>Здесь был<clrEnd> <Ranger>"". Смотрится хорошо!"	"Quest Gaidnet.qmm: jumps.191.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/193/text"	"Сосредоточится на потоке с графикой"	"Quest Gaidnet.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/193/text"	"Сосредоточится на потоке с графикой"	"Quest Gaidnet.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Сканцэнтравацца на патоку з графікай"
 "/quests/Gaidnet.qmm/jumps/193/description"	"Вы сконцентрировались на потоке и смогли вычленить несколько видеонитей. Каждая из них представляла собой сигнал от видеокамеры. Всего нитей было более 20. Но ничего особенного на них вам увидеть не удалось. Лишь автостоянка в нескольких ракурсах, парадный вход, задний вход, лифт и регистратура - все это съемки охранных камер.
 Вы попытались как-нибудь изменить поток с графикой, но ничего кроме незначительных помех создать не смогли - информация шла непрерывно. Решив не создавать лишний шум, вы бросили это занятие."	"Quest Gaidnet.qmm: jumps.193.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/194/text"	"Далее"	"Quest Gaidnet.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/195/text"	"Изучить временные файлы"	"Quest Gaidnet.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/194/text"	"Далее"	"Quest Gaidnet.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Далей"
+"/quests/Gaidnet.qmm/jumps/195/text"	"Изучить временные файлы"	"Quest Gaidnet.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Вывучыць часовыя файлы"
 "/quests/Gaidnet.qmm/jumps/195/description"	"Вы начали просматривать по порядку все файлы. В основном в них хранились всякие недоделанные трехмерные объекты. Но в одном файле вы нашли временный файл чьего-то дневника с интересной записью: ""Нужно собраться и, наконец, изменить свою учетную запись ""Вовка"" на ""Василий Васильевич Пупкин"". Жаль только, что <clr>идентификатор<clrEnd> не сменишь. Хотя <clr>ID-13<clrEnd>, тоже счастливый. <clr>Пароль<clrEnd> нужно ставить: 5Er@12ErTTS. Как на моем домашнем компьютере"". Вы тут же закачали эту запись себе (благо занимала она минимальный объем). Все же надо помнить непреложную истину - удалять временные файлы следует постоянно."	"Quest Gaidnet.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/197/text"	"Прочитать сообщение"	"Quest Gaidnet.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/197/text"	"Прочитать сообщение"	"Quest Gaidnet.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Прачытаць паведамленьне"
 "/quests/Gaidnet.qmm/jumps/197/description"	"""В  3 2 тихо, так что оставлю здесь сообщение - может, кому поможет. Вчера долго мучился, но все же добрался до узла <clr>4 4<clrEnd>. И только, значит, начал информацию просматривать, как админы меня и вычислили. Разумеется, сразу шок пустили, и я вырубился. Наутро подключаюсь к Гайду, а какие эксплоиты для взлома использовал - забыл. :( Помню только, что <clr>Mirror 1.0<clrEnd> был, и все. Долго мучился, но дальше 3 2 не ушел. Если кто сломает сервер - залепите на форуме ХакСенса мессагу с описанием взлома""."	"Quest Gaidnet.qmm: jumps.197.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/199/text"	"Исследовать данные узла"	"Quest Gaidnet.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/199/text"	"Исследовать данные узла"	"Quest Gaidnet.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Дасьледаваць дадзеныя вузла"
 "/quests/Gaidnet.qmm/jumps/199/description"	"Вы с благоговением принялись изучать всевозможные таблицы. Здесь и зарплаты сотрудников, и сметы на покупку оборудования, и объемы продаж. Но, по большому счету, ничего существенного - ни компромата, ни чертежей. Даже изменять ничего не получается."	"Quest Gaidnet.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/201/text"	"Послать запрос на получение денег"	"Quest Gaidnet.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/202/text"	"Игнорировать запрос"	"Quest Gaidnet.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/201/text"	"Послать запрос на получение денег"	"Quest Gaidnet.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Паслаць запыт на атрыманьне грошай"
+"/quests/Gaidnet.qmm/jumps/202/text"	"Игнорировать запрос"	"Quest Gaidnet.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Праігнараваць запыт"
 "/quests/Gaidnet.qmm/jumps/202/description"	"- Время ожидания ответа окончено. Диалог завершен."	"Quest Gaidnet.qmm: jumps.202.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/203/text"	"Послать информацию ""наобум"""	"Quest Gaidnet.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/203/text"	"Послать информацию ""наобум"""	"Quest Gaidnet.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Паслаць інфармацыю ""наўздагад"""
 "/quests/Gaidnet.qmm/jumps/203/description"	"- Неверный идентификатор - счет не обнаружен. Сообщение о сбое отослано вверх по иерархии."	"Quest Gaidnet.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/204/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/205/text"	"Перечислить все деньги на свой счет"	"Quest Gaidnet.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/204/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перадаць ID-13 і пароль"
+"/quests/Gaidnet.qmm/jumps/205/text"	"Перечислить все деньги на свой счет"	"Quest Gaidnet.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пералічыць усе грошы на свой рахунак"
 "/quests/Gaidnet.qmm/jumps/205/description"	"- Перевод на имя <Ranger> осуществлен.
 Теперь ваш счет составляет [p24] cr. Увеличился ненамного, но все же приятно."	"Quest Gaidnet.qmm: jumps.205.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/206/text"	"Не стоит светить свое имя где не попадя. Так что лучше оставить счет без изменений"	"Quest Gaidnet.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/207/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/208/text"	"Загрузить всю информацию в мозг и начать выбираться из узла"	"Quest Gaidnet.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/206/text"	"Не стоит светить свое имя где не попадя. Так что лучше оставить счет без изменений"	"Quest Gaidnet.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Ня варта сьвяціць сваім імем абы-дзе. Так што лепш пакінуць рахунак без зьменаў"
+"/quests/Gaidnet.qmm/jumps/207/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перадаць ID-13 і пароль"
+"/quests/Gaidnet.qmm/jumps/208/text"	"Загрузить всю информацию в мозг и начать выбираться из узла"	"Quest Gaidnet.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Загрузіць усю інфармацыю ў мозг і пачаць выбірацца з вузла"
 "/quests/Gaidnet.qmm/jumps/208/description"	"За несколько секунд вы скопировали всю информацию себе. Теперь нужно добраться до узла <clr>1.1<clrEnd> - пользовательской области, - где можно будет без подозрений со стороны системы <clr>подключится к жесткому диску<clrEnd> и скопировать на него информацию."	"Quest Gaidnet.qmm: jumps.208.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/209/text"	"Напрямую обратиться к жесткому диску и закачать на него информацию"	"Quest Gaidnet.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/210/text"	"Переместить информацию о разработках на жесткий диск и выйти из сети"	"Quest Gaidnet.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/211/text"	"Начнем по маленькой, то есть по часу"	"Quest Gaidnet.qmm: jumps.211.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/212/text"	"Эх, беру два часа"	"Quest Gaidnet.qmm: jumps.212.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/213/text"	"Переместиться в кабинку и заплатить еще за час"	"Quest Gaidnet.qmm: jumps.213.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/209/text"	"Напрямую обратиться к жесткому диску и закачать на него информацию"	"Quest Gaidnet.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Зьвярнуцца наўпрост да жорсткага дыска і закачаць на яго інфармацыю"
+"/quests/Gaidnet.qmm/jumps/210/text"	"Переместить информацию о разработках на жесткий диск и выйти из сети"	"Quest Gaidnet.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перамясьціць інфармацыю пра распрацоўкі на жорсткі дыск і выйсьці з сеткі"
+"/quests/Gaidnet.qmm/jumps/211/text"	"Начнем по маленькой, то есть по часу"	"Quest Gaidnet.qmm: jumps.211.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пачнём з малога, гэта значыць з гадзіны"
+"/quests/Gaidnet.qmm/jumps/212/text"	"Эх, беру два часа"	"Quest Gaidnet.qmm: jumps.212.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Эх, бяру дзьве гадзіны"
+"/quests/Gaidnet.qmm/jumps/213/text"	"Переместиться в кабинку и заплатить еще за час"	"Quest Gaidnet.qmm: jumps.213.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перамясьціцца ў кабінку і заплаціць яшчэ за гадзіну"
 "/quests/Gaidnet.qmm/jumps/213/description"	"- Перевод <clr>50 cr<clrEnd> с вашего счета осуществлен. Лимит времени увеличен на <clr>60 минут<clrEnd>. Приятного путешествия в ГайдНет! - прозвучал мягкий женский голос."	"Quest Gaidnet.qmm: jumps.213.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/214/text"	"Вернуться назад, на место вашего появления"	"Quest Gaidnet.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/215/text"	"Переместиться в кабинку и заплатить еще за час"	"Quest Gaidnet.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/214/text"	"Вернуться назад, на место вашего появления"	"Quest Gaidnet.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Вярнуцца назад, на месца вашага зьяўленьня"
+"/quests/Gaidnet.qmm/jumps/215/text"	"Переместиться в кабинку и заплатить еще за час"	"Quest Gaidnet.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перамясьціцца ў кабінку і заплаціць яшчэ за гадзіну"
 "/quests/Gaidnet.qmm/jumps/215/description"	"Вы зашли в кабинку, но вместо ставшего привычным женского голоса раздался какой-то прокуренный бас.
 - Слушай, хватит докупать время! Мы уже скоро закрываемся, так что досиживай свое время, и я тебя отрубаю."	"Quest Gaidnet.qmm: jumps.215.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/216/text"	"Исследовать дворец"	"Quest Gaidnet.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/216/text"	"Исследовать дворец"	"Quest Gaidnet.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Дасьледаваць палац"
 "/quests/Gaidnet.qmm/jumps/216/description"	"Вы путешествовали по извилистым коридорам, переходя из одного зала в другой. В некоторых помещениях можно было пообщаться с посетителями, в прочих - осмотреть различные продукты фирмы MacroHard (сканеры, стереоприставки, новейшие компьютеры и комплектующие). В целом, весь дворец представлял собой гигантский выставочный комплекс компании. Здесь было все, за исключением информации о разработках иллюзионных проекторов и микровидеокамер. И правда - кто выложит свои секреты на обозрение публики."	"Quest Gaidnet.qmm: jumps.216.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/217/text"	"Надоело мне ползать по сетке. Отключусь-ка я и вернусь в главный космопорт планеты"	"Quest Gaidnet.qmm: jumps.217.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/218/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/217/text"	"Надоело мне ползать по сетке. Отключусь-ка я и вернусь в главный космопорт планеты"	"Quest Gaidnet.qmm: jumps.217.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Надакучыла мне поўзаць па сетцы. Адключуся-ка я і вярнуся ў галоўны касмапорт плянэты"
+"/quests/Gaidnet.qmm/jumps/218/text"	"Передать ID-13 и пароль"	"Quest Gaidnet.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перадаць ID-13 і пароль"
 "/quests/Gaidnet.qmm/jumps/218/description"	"- Идентификатор и пароль подтверждены. Доступ разрешен... Сейчас на счете ID-13 находится <clr>0<clrEnd> cr, - уведомил вас стальной голос.
 Денег на счете нет. Интересно - и куда это они делись?"	"Quest Gaidnet.qmm: jumps.218.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/219/text"	"Осмотреть надпись на колонне"	"Quest Gaidnet.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/219/text"	"Осмотреть надпись на колонне"	"Quest Gaidnet.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Агледзець надпіс на калёне"
 "/quests/Gaidnet.qmm/jumps/219/description"	"Подлетев поближе, вы увидели переливающуюся всеми цветами радуги надпись на колонне: ""<clr>Здесь был <clrEnd><Ranger>"". Ну не приятно ли!"	"Quest Gaidnet.qmm: jumps.219.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/220/text"	"А чего мелочиться? Возьму сразу три часа"	"Quest Gaidnet.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/221/text"	"Гулять так гулять - заплачу за четыре часа!"	"Quest Gaidnet.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/222/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/220/text"	"А чего мелочиться? Возьму сразу три часа"	"Quest Gaidnet.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"А чаго дробніцца? Вазьму адразу тры гадзіны"
+"/quests/Gaidnet.qmm/jumps/221/text"	"Гулять так гулять - заплачу за четыре часа!"	"Quest Gaidnet.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Гуляць дык гуляць — заплачу за чатыры гадзіны!"
+"/quests/Gaidnet.qmm/jumps/222/text"	"Проникнуть в -> Западный мост :: первый порт :: Guardian-21"	"Quest Gaidnet.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Заходні мост :: першы порт :: Guardian-21"
 "/quests/Gaidnet.qmm/jumps/222/description"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.222.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/223/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.222.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Guardian-21<clrEnd> ... Graft 7.1 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/223/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/223/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.223.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/224/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.223.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... Graft 7.1 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/224/text"	"Проникнуть в -> Восточный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Усходні мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/224/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.224.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/225/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Guardian-21<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.224.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Guardian-21<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/225/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/225/description"	"<clr>Dragon<clrEnd>-4 ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/226/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.226.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon<clrEnd>-4 ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... Jumper 3.8 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/226/text"	"Проникнуть в -> Северный мост :: первый порт :: StoneWall"	"Quest Gaidnet.qmm: jumps.226.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўночны мост :: першы порт :: StoneWall"
 "/quests/Gaidnet.qmm/jumps/226/description"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.226.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/227/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ разрешен<clrEnd>."	"Quest Gaidnet.qmm: jumps.226.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>StoneWall<clrEnd> ... Jumper 3.8 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>Dragon-4<clrEnd> ... Sword 2.9 ... <clr>Доступ дазволены<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/227/text"	"Проникнуть в -> Южный мост :: первый порт :: Dragon-4"	"Quest Gaidnet.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Пранікнуць у -> Паўднёвы мост :: першы порт :: Dragon-4"
 "/quests/Gaidnet.qmm/jumps/227/description"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ разрешен.
 Проникнув в поток порта, вы дошли до защитника входа в узел назначения.
-<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/228/text"	"Попробовать найти и изменить запись о своих ошибках (это может занять около  часа)"	"Quest Gaidnet.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+<clr>StoneWall<clrEnd> ... <clr>Метод обхода неизвестен<clrEnd>."	"Quest Gaidnet.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	"<clr>Dragon-4<clrEnd> ... Sword 2.9 ... Доступ дазволены.
+Пранікшы ў паток порту, вы дайшлі да абаронцы ўваходу ў вузел прызначэньня.
+<clr>StoneWall<clrEnd> ... <clr>Мэтад абыходу невядомы<clrEnd>."
+"/quests/Gaidnet.qmm/jumps/228/text"	"Попробовать найти и изменить запись о своих ошибках (это может занять около  часа)"	"Quest Gaidnet.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Паспрабаваць знайсьці і зьмяніць запіс пра свае памылкі (гэта можа заняць каля  гадзіны)"
 "/quests/Gaidnet.qmm/jumps/228/description"	"Вы стали сантиметр за сантиметром изучать узел. Большинство информации было недоступно, что-то было защищено неизвестными программами. Но вы не сдавались. Изменяли одни параметры, открывая заслоны... И, наконец, вы добрались до нее - вашей записи! Теперь можно изменять уровень тревоги, удаляя ошибки. Но лишь только вы начали этот процесс, как система обрубила все каналы доступа к информации. Видимо, сработал какой-то механизм защиты. Но вам все же удалось <clr>снизить уровень тревоги<clrEnd>. Жаль, что такое повторить больше не удастся."	"Quest Gaidnet.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/229/text"	"Читать файл"	"Quest Gaidnet.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/229/text"	"Читать файл"	"Quest Gaidnet.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Чытаць файл"
 "/quests/Gaidnet.qmm/jumps/229/description"	"При ближайшем рассмотрении оказалось, что на этой доске объявлений шеф отдела разработки дает наставления своим подчиненным. Доступными оказались лишь несколько самых свежих сообщений.
 
 Давность: 5 дней. Хи Ю Ань! Срочно закончи разработку фазотрона и передай его в отдел тестирования.
@@ -985,6 +1269,6 @@ HackSense падказвае, што вузел, у якім вы зараз з�
 Давность: 4 дня. Выплата зарплаты переносится на два дня по вине администраторов сервера. Они какую-то новую систему защиты ставят на бухгалтерский узел. Но говорят, что пароли доступа к счету и схема выплат <clr>в бухгалтерском узле 4.3<clrEnd> останется прежней.
 
 Давность: 2 дня. В 17:00 сбор в актовом зале. На повестке дня обсуждение идеи стокаторного жижометра. Автор - Га Ноцри-Боо. Готовимся к конструктивной критике."	"Quest Gaidnet.qmm: jumps.229.description. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/230/text"	"Далее"	"Quest Gaidnet.qmm: jumps.230.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/231/text"	"Далее"	"Quest Gaidnet.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
-"/quests/Gaidnet.qmm/jumps/232/text"	"Перекачать информацию из мозга на жесткий диск"	"Quest Gaidnet.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	""
+"/quests/Gaidnet.qmm/jumps/230/text"	"Далее"	"Quest Gaidnet.qmm: jumps.230.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Далей"
+"/quests/Gaidnet.qmm/jumps/231/text"	"Далее"	"Quest Gaidnet.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Далей"
+"/quests/Gaidnet.qmm/jumps/232/text"	"Перекачать информацию из мозга на жесткий диск"	"Quest Gaidnet.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Gaidnet"	"Перакачаць інфармацыю з мозгу на жорсткі дыск"
