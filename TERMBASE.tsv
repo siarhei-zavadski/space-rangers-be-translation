@@ -1051,7 +1051,7 @@ lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча/Ягорычам	
 lemma.svyatogor	Святогор	Svyatogor	Сьвятагор/Сьвятагора/Сьвятагору	Сьвятар	lead driver; epic name; hunspell splits it into other words	Rally.qmm
 lemma.suubaru	Суу-баару	Suu-baaru	Суу/баару	Суб	joke Subaru; Latin WRX STI SBR VO stays	Rally.qmm
 lemma.zhupii	жупии	zhupii	Жупіі/жупіяў	жукі	iron body colony; coined part	Rally.qmm
-lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід	нанэтамі	repair robot; coined part	Rally.qmm
+lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда	нанэтамі	repair robot; coined part	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
 lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман	Міхальчук/Кульман	Schumacher joke	Rally.qmm
@@ -1075,3 +1075,6 @@ lemma.pitboard	пит-борд	pit board	піт/борд	піт	pit board; hyphe
 lemma.fermaxon	Фер-Максон	Fer-Maxon	Фэр/Максан	ферма	MacPherson joke; hyphen splits the tokens	Rally.qmm
 lemma.neo	Нео	Neo	Нэа	Нэп	Matrix joke; hunspell suggestions are other names	Rally.qmm
 lemma.hyperlift	гиперлифт	hyperlift	гіпэрліфт	гіпэртрафія	stadium lift; coined	Rally.qmm
+lemma.graalgar	Граалгар	Graalgar	Граалгар/Граалгара	Гарал	district the missing driver ran to; coined	Rally.qmm
+lemma.looeb	Лоо-эб	Loho-Eb	Лоо/эб	Лео	name left behind on the track; hyphen splits the tokens	Rally.qmm
+lemma.vertix	вертикс	vertix	Вэртыкс/вэртыкс/вэртыксамі	вэртыкал	dominator weapon; Items already spells Вэртыкс	Rally.qmm
