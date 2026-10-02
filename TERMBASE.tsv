@@ -299,7 +299,7 @@ lemma.cologne	Тройной одеколон	Triple cologne	Тройны адэ
 lemma.vonilin	Вонилин-ФУ	Stinkillin-FU	Вонілін-ФУ		Faruk +10% stink ampule; keep joke stem	—
 lemma.stink_unit	вонь / ВОНь	stink units	вань / ВОНь		Faruk Величина Относительной Неароматности; keep ВОНь cap unit	—
 lemma.orangerie	оранжерея	orangery	аранжарэя		Faruk; G аранжарэі A аранжарэю	—
-lemma.case	кейс	case	кэйс		Faruk fruit case; hunspell leftover OK like сэйф	—
+lemma.case	кейс	case	кэйс/Кэйс		Faruk fruit case; hunspell leftover OK like сэйф	—
 lemma.ski_lift_chair	кресельный подъемник	chairlift	крэсельны пад'ёмнік		Ski.qmm	—
 lemma.ski_lift_cabin	кабиночный подъемник	gondola lift	кабінны пад'ёмнік		Ski.qmm; hunspell кабінны	—
 lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort deputy; not спадарожнік	—
@@ -792,3 +792,9 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна		Coalition race	Photorobot.qmm
+lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган		faeyan in the photofit quest	Photorobot.qmm
+lemma.zina	Зина	Zina	Зіна		photofit label; и to і	Photorobot.qmm
+lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
+lemma.narrow_eyed	узкоглазый	narrow-eyed	вузкавокі/Вузкавокі	завузкі	Starnik adjective; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/103039
+lemma.mega	мега	mega	Мэга/мэга		prefix; already in мэга-бур; capital label Мега-рокер	Photorobot.qmm
