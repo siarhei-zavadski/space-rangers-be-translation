@@ -101,7 +101,7 @@ lemma.defend	защищать	defend	бараніць		Starnik: ён барон�
 lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
-lemma.pilot	пилот	pilot	пілот		Starnik: пілот, not пілёт	—
+lemma.pilot	пилот	pilot	пілот/пілота		Starnik: пілот, not пілёт	—
 lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
@@ -266,7 +266,7 @@ lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr>
 lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
-lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў		pirate slur for goody ranger; invented	—
+lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак		pirate slur for goody ranger; invented	—
 lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
@@ -806,7 +806,7 @@ lemma.torment	томить	keep in suspense	таміце	марудзьце	butt
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
 lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
-lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца/Гаалец/гаальская		Coalition race	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца/Гаалец/гаальская/гаальскай		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
@@ -1040,8 +1040,9 @@ lemma.rachekhanovna	Рачехановна	Rachehanovna	Рачэханаўна/�
 lemma.ga_notsri	Га-Ноцри	Ga-Notsri	Ноцры	Норцы	schoolmate's name; hunspell suggestion is a different word	Ministry.qmm
 lemma.dunya	Дуня	Dunia	Дуня	Дуля	secretary's first name; hunspell suggestions are other words	Ministry.qmm
 lemma.marmyshkin	Мормышкин	Marmyshkine	Мармышкін	Мармышка	fishing-lure surname on the basement rod	https://starnik.by/pravapis/41875
-lemma.bobchinsky	Бобчинский / Добчинский	Bobchinsky / Dobchinsky	Бабчынскі/Дабчынскі	Абісынскі	Gogol pair; the housemaster offers both names	Ministry.qmm
+lemma.bobchinsky	Бобчинский / Добчинский	Bobchinsky / Dobchinsky	Бабчынскі/Дабчынскі/Бабчынскага	Абісынскі	Gogol pair; the housemaster offers both names	Ministry.qmm
 lemma.rurikid	Рюриковичи	Rurikids	Рурыкавічы	Рукавічны	dynasty answer; Starnik has Рурык; hunspell suggestion is another word	https://starnik.by/pravapis/90631
 lemma.frnkin	Фрнкин-Бок	Frnkin-Bok	Фрнкин	Франк	grandmother's joke name; Бок passes hunspell	Ministry.qmm
 lemma.urupinsk	Урюпинск	Uryupinsk	Урупінск/Урупінска	Русінска	the sticks; hunspell suggestion is another place	Ministry.qmm
 lemma.stereophone	стереофон	stereophone	стэрэафон/стэрэафона	стэрэафанія	secretary's phone; hunspell suggestion is stereophony	Ministry.qmm
+lemma.acetate	ацетаты	acetates	ацэтатамі	мэтацэнтрамі	instrumental plural; Starnik ацэтат; hunspell keeps only the singular	https://starnik.by/pravapis/8009
