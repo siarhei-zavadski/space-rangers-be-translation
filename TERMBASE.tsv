@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую/Пеленг/пеленгах/пеленгша/пеленгшы/пеленгшу/пеленгскі/Пеленгша/Пеленгскі		race; N пеленг already in lemma.golden_peleng	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую/Пеленг/пеленгах/пеленгша/пеленгшы/пеленгшу/пеленгскі/Пеленгша/Пеленгскі/Пеленга		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -1050,7 +1050,7 @@ lemma.klim	Клим	Klim	Клім/Кліма/Клімам/Клімушка	Кі�
 lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча/Ягорычам	Горыч	patronymic nickname of Ягор	https://starnik.by/pravapis/91472
 lemma.svyatogor	Святогор	Svyatogor	Сьвятагор/Сьвятагора/Сьвятагору	Сьвятар	lead driver; epic name; hunspell splits it into other words	Rally.qmm
 lemma.suubaru	Суу-баару	Suu-baaru	Суу/баару	Суб	joke Subaru; Latin WRX STI SBR VO stays	Rally.qmm
-lemma.zhupii	жупии	zhupii	Жупіі/жупіяў	жукі	iron body colony; coined part	Rally.qmm
+lemma.zhupii	жупии	zhupii	Жупіі/жупіяў/жупіі	жукі	iron body colony; coined part	Rally.qmm
 lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда	нанэтамі	repair robot; coined part	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
@@ -1078,3 +1078,4 @@ lemma.hyperlift	гиперлифт	hyperlift	гіпэрліфт	гіпэртра
 lemma.graalgar	Граалгар	Graalgar	Граалгар/Граалгара	Гарал	district the missing driver ran to; coined	Rally.qmm
 lemma.looeb	Лоо-эб	Loho-Eb	Лоо/эб	Лео	name left behind on the track; hyphen splits the tokens	Rally.qmm
 lemma.vertix	вертикс	vertix	Вэртыкс/вэртыкс/вэртыксамі	вэртыкал	dominator weapon; Items already spells Вэртыкс	Rally.qmm
+lemma.bumper	бампер	bumper	бампэр/бампэрам/бампэры	бампер	hunspell writes э; Starnik spells бампер	https://starnik.by/pravapis/8970
