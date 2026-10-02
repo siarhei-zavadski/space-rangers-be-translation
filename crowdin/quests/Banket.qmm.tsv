@@ -1640,7 +1640,18 @@ The Peleng snatched the money from you and rolled his eyes obviously overdoing i
 - Wha'? - you gaped.
 - Oh, bummer! I said if you want to get answer you have to pay. And make it quick, I ain't got all day to stand and chat here with you. 
 
-That's civilised interracial market relations for you. You still have the time for <clr>one<clrEnd> question but what should it be?"	"Quest,Banket"	""
+That's civilised interracial market relations for you. You still have the time for <clr>one<clrEnd> question but what should it be?"	"Quest,Banket"	"- Выдатна! Вось, калі ласка. Рэцэпт вельмі просты — бяром <clr>сьветлае отжуйскае віно<clrEnd> і дадаём у яго столькі ж іншых складнікаў так, каб спалучэньне асноўных паказьнікаў было аптымальным. Ах так, я забыўся згадаць, што якасьць сьпіртных напояў малокскія самагоншчыкі вызначаюць спалучэньнем <clr>трох<clrEnd> паказьнікаў — <clr>мацунак<clrEnd>, або ўтрыманьне алькаголю, ступень <clr>празрыстасьці<clrEnd> і ўдзельнае ўтрыманьне <clr>шыпучасьці<clrEnd>. 
+
+Напрыклад, якасная кінза мае МАЦУНАК <clr>55 градусаў<clrEnd> ці крыху больш, ПРАЗРЫСТАСЬЦЬ ня менш за <clr>80%<clrEnd> і ШЫПУЧАСЬЦЬ ня больш за <clr>10 адзінак<clrEnd>.
+
+Для прыгатаваньня выкарыстоўваюцца:
+
+ - дымэтылхлоранавы рэпузатар, або проста <clr>рэпузатар<clrEnd>, ён выкарыстоўваецца для растварэньня бурбалак паветра;
+- пастэрызаваны аксыд вадароду, так званая <clr>вада кіпячоная<clrEnd> — ёю разбаўляюць моцныя і цёмныя напоі;
+- настойка кораня хухмелю, званая проста <clr>хухмель<clrEnd> — сок расьліны, які ўтрымлівае алькаголь, мае цёмнае адценьне;
+- абсорбуляторны пірабутанпропах, або, скарочана, <clr>абсорбуль<clrEnd> — зьнішчае асадак і дамешкі мінэралаў.
+
+Больш падрабязна дзеяньне пазначана ў рэцэпце, які я вам дам, але там не пазначана патрэбная іх колькасьць — сказана толькі, што на 10 кубікаў віна трэба столькі ж іншых кампанэнтаў, гэта значыць у суме <clr>10<clrEnd> кубікаў. Але я думаю, што вы справіцеся. Улічыце — у мяне ёсьць <clr>па 5<clrEnd> кубікаў кожнага кампанэнта. Гэтага цалкам павінна хапіць, але толькі на <clr>адну<clrEnd> порцыю кінзы, так што лепей не памыляцца."
 "/quests/Banket.qmm/locations/42/texts/1/text"	"- Отлично! Вот, пожалуйста. Рецепт очень прост - берем забродивший <clr>сок фарюков<clrEnd> и добавляем в него столько же других составляющих таким образом, чтобы сочетание основных показателей было оптимальным. Ах да, я забыл упомянуть, что качество спиртных напитков малокские самогонщики определяют сочетанием <clr>трех<clrEnd> показателей - <clr>крепость<clrEnd>, или содержание алкоголя, степень <clr>прозрачности<clrEnd> и удельное содержание <clr>пузырьков<clrEnd>. 
 
 Например, качественная кинза имеет КРЕПОСТЬ <clr>55 градусов<clrEnd> или чуть больше, ПРОЗРАЧНОСТЬ не менее <clr>80%<clrEnd> и ПУЗЫРИСТОСТЬ не более <clr>10 единиц<clrEnd>.
@@ -1651,7 +1662,17 @@ That's civilised interracial market relations for you. You still have the time f
 - настойка хухмельного корня, называемая просто <clr>хухмель<clrEnd> - сок растения, содержащий алкоголь, имеет темный оттенок;
 - дисцилловый пиробутанпропах, или сокращенно <clr>дисциллятик<clrEnd> - уничтожает осадок и примеси минералов.
 
-Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков сока нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков сока нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.1.text. Preserve every <tag> exactly."	"Quest,Banket"	"- Выдатна! Вось, калі ласка. Рэцэпт вельмі просты — бяром зброджаны <clr>сок фарюкаў<clrEnd> і дадаём у яго столькі ж іншых складнікаў так, каб спалучэньне асноўных паказьнікаў было аптымальным. Ах так, я забыўся згадаць, што якасьць сьпіртных напояў малокскія самагоншчыкі вызначаюць спалучэньнем <clr>трох<clrEnd> паказьнікаў — <clr>мацунак<clrEnd>, або ўтрыманьне алькаголю, ступень <clr>празрыстасьці<clrEnd> і ўдзельнае ўтрыманьне <clr>шыпучасьці<clrEnd>. 
+
+Напрыклад, якасная кінза мае МАЦУНАК <clr>55 градусаў<clrEnd> ці крыху больш, ПРАЗРЫСТАСЬЦЬ ня менш за <clr>80%<clrEnd> і ШЫПУЧАСЬЦЬ ня больш за <clr>10 адзінак<clrEnd>.
+
+Для прыгатаваньня выкарыстоўваюцца:
+- дымэтылхлоранавы рэпузатар, або проста <clr>рэпузатар<clrEnd>, ён выкарыстоўваецца для растварэньня бурбалак паветра;
+- пастэрызаваны аксыд вадароду, так званая <clr>вада кіпячоная<clrEnd> — ёю разбаўляюць моцныя і цёмныя напоі;
+- настойка кораня хухмелю, званая проста <clr>хухмель<clrEnd> — сок расьліны, які ўтрымлівае алькаголь, мае цёмнае адценьне;
+- дысцылавы пірабутанпропах, або скарочана <clr>дысцылятык<clrEnd> — зьнішчае асадак і дамешкі мінэралаў.
+
+Больш падрабязна дзеяньне пазначана ў рэцэпце, які я вам дам, але там не пазначана патрэбная іх колькасьць — сказана толькі, што на 10 кубікаў соку трэба столькі ж іншых кампанэнтаў, гэта значыць у суме <clr>10<clrEnd> кубікаў. Але я думаю, што вы справіцеся. Улічыце — у мяне ёсьць <clr>па 5<clrEnd> кубікаў кожнага кампанэнта. Гэтага цалкам павінна хапіць, але толькі на <clr>адну<clrEnd> порцыю кінзы, так што лепей не памыляцца."
 "/quests/Banket.qmm/locations/42/texts/2/text"	"- Отлично! Вот, пожалуйста. Рецепт очень прост - берем <clr>самогон<clrEnd> и добавляем в него столько же других составляющих таким образом, чтобы сочетание основных показателей было оптимальным. Ах да, я забыл упомянуть, что качество спиртных напитков малокские самогонщики определяют сочетанием <clr>трех<clrEnd> показателей - <clr>крепость<clrEnd>, или содержание алкоголя, степень <clr>прозрачности<clrEnd> и удельное содержание <clr>пузырьков<clrEnd>. 
 
 Например, качественная кинза имеет КРЕПОСТЬ <clr>55 градусов<clrEnd> или чуть больше, ПРОЗРАЧНОСТЬ не менее <clr>80%<clrEnd> и ПУЗЫРИСТОСТЬ не более <clr>10 единиц<clrEnd>.
@@ -1662,7 +1683,17 @@ That's civilised interracial market relations for you. You still have the time f
 - настойка хухмельного корня, называемая просто <clr>хухмель<clrEnd> - сок растения, содержащий алкоголь, имеет темный оттенок;
 - дисцилловый пиробутанпропах, или сокращенно <clr>дисциллятик<clrEnd> - уничтожает осадок и примеси минералов.
 
-Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков самогонки нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.2.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков самогонки нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.2.text. Preserve every <tag> exactly."	"Quest,Banket"	"- Выдатна! Вось, калі ласка. Рэцэпт вельмі просты — бяром <clr>самагон<clrEnd> і дадаём у яго столькі ж іншых складнікаў так, каб спалучэньне асноўных паказьнікаў было аптымальным. Ах так, я забыўся згадаць, што якасьць сьпіртных напояў малокскія самагоншчыкі вызначаюць спалучэньнем <clr>трох<clrEnd> паказьнікаў — <clr>мацунак<clrEnd>, або ўтрыманьне алькаголю, ступень <clr>празрыстасьці<clrEnd> і ўдзельнае ўтрыманьне <clr>шыпучасьці<clrEnd>. 
+
+Напрыклад, якасная кінза мае МАЦУНАК <clr>55 градусаў<clrEnd> ці крыху больш, ПРАЗРЫСТАСЬЦЬ ня менш за <clr>80%<clrEnd> і ШЫПУЧАСЬЦЬ ня больш за <clr>10 адзінак<clrEnd>.
+
+Для прыгатаваньня выкарыстоўваюцца:
+- дымэтылхлоранавы рэпузатар, або проста <clr>рэпузатар<clrEnd>, ён выкарыстоўваецца для растварэньня бурбалак паветра;
+- пастэрызаваны аксыд вадароду, так званая <clr>вада кіпячоная<clrEnd> — ёю разбаўляюць моцныя і цёмныя напоі;
+- настойка кораня хухмелю, званая проста <clr>хухмель<clrEnd> — сок расьліны, які ўтрымлівае алькаголь, мае цёмнае адценьне;
+- дысцылавы пірабутанпропах, або скарочана <clr>дысцылятык<clrEnd> — зьнішчае асадак і дамешкі мінэралаў.
+
+Больш падрабязна дзеяньне пазначана ў рэцэпце, які я вам дам, але там не пазначана патрэбная іх колькасьць — сказана толькі, што на 10 кубікаў самагонкі трэба столькі ж іншых кампанэнтаў, гэта значыць у суме <clr>10<clrEnd> кубікаў. Але я думаю, што вы справіцеся. Улічыце — у мяне ёсьць <clr>па 5<clrEnd> кубікаў кожнага кампанэнта. Гэтага цалкам павінна хапіць, але толькі на <clr>адну<clrEnd> порцыю кінзы, так што лепей не памыляцца."
 "/quests/Banket.qmm/locations/42/texts/3/text"	"- Отлично! Вот, пожалуйста. Рецепт очень прост - берем самую <clr>обычную воду<clrEnd> и добавляем в нее столько же других составляющих таким образом, чтобы сочетание основных показателей было оптимальным. Ах да, я забыл упомянуть, что качество спиртных напитков малокские самогонщики определяют сочетанием <clr>трех<clrEnd> показателей - <clr>крепость<clrEnd>, или содержание алкоголя, степень <clr>прозрачности<clrEnd> и удельное содержание <clr>пузырьков<clrEnd>. 
 
 Например, качественная кинза имеет КРЕПОСТЬ <clr>55 градусов<clrEnd> или чуть больше, ПРОЗРАЧНОСТЬ не менее <clr>80%<clrEnd> и ПУЗЫРИСТОСТЬ не более <clr>10 единиц<clrEnd>.
@@ -1673,7 +1704,17 @@ That's civilised interracial market relations for you. You still have the time f
 - настойка хухмельного корня, называемая просто <clr>хухмель<clrEnd> - сок растения, содержащий алкоголь, имеет темный оттенок;
 - дисцилловый пиробутанпропах, или сокращенно <clr>дисциллятик <clrEnd>- уничтожает осадок и примеси минералов.
 
-Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков воды нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.3.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+Более подробно действие указано в рецепте, который я вам дам, но там не указано необходимое их количество - сказано только, что на 10 кубиков воды нужно столько же других компонентов, то есть в сумме <clr>10<clrEnd> кубиков. Но я думаю, что вы справитесь. Учтите - у меня есть <clr>по 5<clrEnd> кубиков каждого компонента. Этого вполне должно хватить, но только на <clr>одну<clrEnd> порцию кинзы, так что лучше не ошибаться."	"Quest Banket.qmm: locations.42.texts.3.text. Preserve every <tag> exactly."	"Quest,Banket"	"- Выдатна! Вось, калі ласка. Рэцэпт вельмі просты — бяром самую <clr>звычайную ваду<clrEnd> і дадаём у яе столькі ж іншых складнікаў так, каб спалучэньне асноўных паказьнікаў было аптымальным. Ах так, я забыўся згадаць, што якасьць сьпіртных напояў малокскія самагоншчыкі вызначаюць спалучэньнем <clr>трох<clrEnd> паказьнікаў — <clr>мацунак<clrEnd>, або ўтрыманьне алькаголю, ступень <clr>празрыстасьці<clrEnd> і ўдзельнае ўтрыманьне <clr>шыпучасьці<clrEnd>. 
+
+Напрыклад, якасная кінза мае МАЦУНАК <clr>55 градусаў<clrEnd> ці крыху больш, ПРАЗРЫСТАСЬЦЬ ня менш за <clr>80%<clrEnd> і ШЫПУЧАСЬЦЬ ня больш за <clr>10 адзінак<clrEnd>.
+
+Для прыгатаваньня выкарыстоўваюцца:
+- дымэтылхлоранавы рэпузатар, або проста <clr>рэпузатар<clrEnd>, ён выкарыстоўваецца для растварэньня бурбалак паветра;
+- пастэрызаваны аксыд вадароду, так званая <clr>вада кіпячоная<clrEnd> — ёю разбаўляюць моцныя і цёмныя напоі;
+- настойка кораня хухмелю, званая проста <clr>хухмель<clrEnd> — сок расьліны, які ўтрымлівае алькаголь, мае цёмнае адценьне;
+- дысцылавы пірабутанпропах, або скарочана <clr>дысцылятык <clrEnd>- зьнішчае асадак і дамешкі мінэралаў.
+
+Больш падрабязна дзеяньне пазначана ў рэцэпце, які я вам дам, але там не пазначана патрэбная іх колькасьць — сказана толькі, што на 10 кубікаў вады трэба столькі ж іншых кампанэнтаў, гэта значыць у суме <clr>10<clrEnd> кубікаў. Але я думаю, што вы справіцеся. Улічыце — у мяне ёсьць <clr>па 5<clrEnd> кубікаў кожнага кампанэнта. Гэтага цалкам павінна хапіць, але толькі на <clr>адну<clrEnd> порцыю кінзы, так што лепей не памыляцца."
 "/quests/Banket.qmm/locations/43/texts/0/text"	"Итак, у вас есть: 
 - абсорбуль: [p20] куб. см; 
 - хухмель: [p21] куб. см; 
@@ -1700,7 +1741,22 @@ The used components are:
 - hiphops root tincture, also known as <clr>hiphops<clrEnd> - the alcohol-containing juice of this plant is dark in colour;
 - absorbulator pyrobutaneprostench, or simply <clr>absorblob<clrEnd> - destroys sediments and mineral addends.
 
-The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	""
+The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	"Такім чынам, у вас ёсьць: 
+- абсорбуль: [p20] куб. см; 
+- хухмель: [p21] куб. см; 
+- рэпузатар: [p22] куб. см; 
+- вада: [p23] куб. см. 
+
+Яны дзейнічаюць наступным чынам:
+А.  Мацунак: <clr>-5<clrEnd>. Празрыстасьць: <clr>+12<clrEnd>. Шыпучасьць: <clr>-5<clrEnd>.
+Х.  Мацунак: <clr>+15<clrEnd>. Празрыстасьць: <clr>-7<clrEnd>. Шыпучасьць: <clr>+3<clrEnd>.
+Р.  Мацунак: <clr>+3<clrEnd>. Празрыстасьць: <clr>-2<clrEnd>. Шыпучасьць: <clr>-8<clrEnd>.
+В.  Мацунак: <clr>-10<clrEnd>. Празрыстасьць: <clr>+10<clrEnd>. Шыпучасьць: <clr>+1<clrEnd>.
+
+Дадаўшы ў віно <clr>10 кубікаў<clrEnd> гэтых кампанэнтаў, вы мусіце прыгатаваць кінзу, якая адпавядае наступным патрабаваньням:
+Мацунак: ня менш за <clr>55<clrEnd> градусаў
+Празрыстасьць: ня менш за <clr>80<clrEnd>%
+Шыпучасьць: ня больш за <clr>10<clrEnd> адзінак"
 "/quests/Banket.qmm/locations/43/texts/1/text"	"Итак, у вас есть: 
 - абсорбуль: [p20] куб. см; 
 - хухмель: [p21] куб. см; 
@@ -1727,7 +1783,22 @@ The used components are:
 - hiphops root tincture, also known as <clr>hiphops<clrEnd> - the alcohol-containing juice of this plant is dark in colour;
 - absorbulator pyrobutaneprostench, or simply <clr>absorblob<clrEnd> - destroys sediments and mineral addends.
 
-The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	""
+The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	"Такім чынам, у вас ёсьць: 
+- абсорбуль: [p20] куб. см; 
+- хухмель: [p21] куб. см; 
+- рэпузатар: [p22] куб. см; 
+- вада: [p23] куб. см. 
+
+Яны дзейнічаюць наступным чынам:
+А.  Мацунак: <clr>-5<clrEnd>. Празрыстасьць: <clr>+12<clrEnd>. Шыпучасьць: <clr>-5<clrEnd>.
+Х.  Мацунак: <clr>+15<clrEnd>. Празрыстасьць: <clr>-7<clrEnd>. Шыпучасьць: <clr>+3<clrEnd>.
+Р.  Мацунак: <clr>+3<clrEnd>. Празрыстасьць: <clr>-2<clrEnd>. Шыпучасьць: <clr>-8<clrEnd>.
+В.  Мацунак: <clr>-10<clrEnd>. Празрыстасьць: <clr>+10<clrEnd>. Шыпучасьць: <clr>+1<clrEnd>.
+
+Дадаўшы ў сок <clr>10 кубікаў<clrEnd> гэтых кампанэнтаў, вы мусіце прыгатаваць кінзу, якая адпавядае наступным патрабаваньням:
+Мацунак: ня менш за <clr>55<clrEnd> градусаў
+Празрыстасьць: ня менш за <clr>80<clrEnd>%
+Шыпучасьць: ня больш за <clr>10<clrEnd> адзінак"
 "/quests/Banket.qmm/locations/43/texts/2/text"	"Итак, у вас есть: 
 - абсорбуль: [p20] куб. см; 
 - хухмель: [p21] куб. см; 
@@ -1754,7 +1825,22 @@ The used components are:
 - hiphops root tincture, also known as <clr>hiphops<clrEnd> - the alcohol-containing juice of this plant is dark in colour;
 - absorbulator pyrobutaneprostench, or simply <clr>absorblob<clrEnd> - destroys sediments and mineral addends.
 
-The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	""
+The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	"Такім чынам, у вас ёсьць: 
+- абсорбуль: [p20] куб. см; 
+- хухмель: [p21] куб. см; 
+- рэпузатар: [p22] куб. см; 
+- вада: [p23] куб. см. 
+
+Яны дзейнічаюць наступным чынам: 
+А.  Мацунак: <clr>-5<clrEnd>. Празрыстасьць: <clr>+12<clrEnd>. Шыпучасьць: <clr>-5<clrEnd>.
+Х.  Мацунак: <clr>+15<clrEnd>. Празрыстасьць: <clr>-7<clrEnd>. Шыпучасьць: <clr>+3<clrEnd>.
+Р.  Мацунак: <clr>+3<clrEnd>. Празрыстасьць: <clr>-2<clrEnd>. Шыпучасьць: <clr>-8<clrEnd>.
+В.  Мацунак: <clr>-10<clrEnd>. Празрыстасьць: <clr>+10<clrEnd>. Шыпучасьць: <clr>+1<clrEnd>.
+
+Дадаўшы ў самагон <clr>10 кубікаў<clrEnd> гэтых кампанэнтаў, вы мусіце прыгатаваць кінзу, якая адпавядае наступным патрабаваньням:
+Мацунак: ня менш за <clr>55<clrEnd> градусаў
+Празрыстасьць: ня менш за <clr>80<clrEnd>%
+Шыпучасьць: ня больш за <clr>10<clrEnd> адзінак"
 "/quests/Banket.qmm/locations/43/texts/3/text"	"Итак, у вас есть: 
 - абсорбуль: [p20] куб. см; 
 - хухмель: [p21] куб. см; 
@@ -1780,7 +1866,22 @@ The used components are:
 - hiphops root tincture, also known as <clr>hiphops<clrEnd> - the alcohol-containing juice of this plant is dark in colour;
 - absorbulator pyrobutaneprostench, or simply <clr>absorblob<clrEnd> - destroys sediments and mineral addends.
 
-The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	""
+The recipe that I am going to give you has a more detailed description but sadly enough it does not specify the quantities, it only says that for 10 cubes of wine you should use the same amount of all other components, that is a total of <clr>10<clrEnd> cubes. But I think you gonna do just fine. Mark it, I have only <clr>5<clrEnd> cubes of each component, which should be sufficient but only for <clr>one<clrEnd> portion of Chins so choose carefully."	"Quest,Banket"	"Такім чынам, у вас ёсьць: 
+- абсорбуль: [p20] куб. см; 
+- хухмель: [p21] куб. см; 
+- рэпузатар: [p22] куб. см; 
+- вада: [p23] куб. см. 
+
+Яны дзейнічаюць наступным чынам:
+А.  Мацунак: <clr>-5<clrEnd>. Празрыстасьць: <clr>+12<clrEnd>. Шыпучасьць: <clr>-5<clrEnd>. 
+Х.  Мацунак: <clr>+15<clrEnd>. Празрыстасьць: <clr>-7<clrEnd>. Шыпучасьць: <clr>+3<clrEnd>. 
+Р.  Мацунак: <clr>+3<clrEnd>. Празрыстасьць: <clr>-2<clrEnd>. Шыпучасьць: <clr>-8<clrEnd>.
+В.  Мацунак: <clr>-10<clrEnd>. Празрыстасьць: <clr>+10<clrEnd>. Шыпучасьць: <clr>+1<clrEnd>.
+
+Дадаўшы ў ваду <clr>10 кубікаў<clrEnd> гэтых кампанэнтаў, вы мусіце прыгатаваць кінзу, якая адпавядае наступным патрабаваньням:
+Мацунак: ня менш за <clr>55<clrEnd> градусаў
+Празрыстасьць: ня менш за <clr>80<clrEnd>%
+Шыпучасьць: ня больш за <clr>10<clrEnd> адзінак"
 "/quests/Banket.qmm/locations/45/texts/0/text"	"Повар взял приготовленный вами ""коктейль"" и капнул немного на анализатор. На табло загорелись цифры, судя по которым ваша кинза далека от идеальной, да и вообще от кинзы.
  - Мне очень жаль, но вам не удалось этого сделать, только перевели напрасно большую часть реагентов. А мне, между прочим, стоило большого труда их достать, особенно пастеризованный оксид водорода.
 
