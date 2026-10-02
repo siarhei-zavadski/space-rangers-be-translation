@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -137,7 +137,7 @@ lemma.appear	появиться	appear	з'явіцца		user lock: apostrophe, n
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер		proper name lock; series блазероід	—
-lemma.keller	Келлер	Keller	Келлер		proper name lock; G Келлера; series келероід	—
+lemma.keller	Келлер	Keller	Келлер/Келлеру		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -942,7 +942,7 @@ lemma.drink_strength	крепость	alcohol strength	мацунак	крапа
 lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
 lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
 lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму		malok prince; Тары is his wife's nickname	Banket.qmm
-lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха		the prince's boom-name; ASCII apostrophe	Banket.qmm
+lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
 lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
@@ -959,3 +959,5 @@ lemma.teodam	Теодам	Teodam	Теодам		Hanna's crunch-name; proper-name 
 lemma.vandall	Ван-Далл	Van-Dall	Ван-Далл/Ван-Дала		malok emperor; proper-name lock	Banket.qmm
 lemma.puakhava	пуахава	puakhawa	пуахава		Menzol cloak name	Banket.qmm
 lemma.meal	трапеза	meal	трапэза	трапеза	a sitting meal; hunspell spelling	https://starnik.by/pravapis/75618
+lemma.piezo_wallpaper	пьезообои	piezo wallpaper	п'езашпалерамі/п'езашпалеры		coined cave-style palace wallpaper	Banket.qmm
+lemma.butler	дворецкий	butler	дварэцкі/дварэцкага		senior household servant	https://starnik.by/pravapis/22377
