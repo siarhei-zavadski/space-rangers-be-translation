@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -1054,14 +1054,14 @@ lemma.zhupii	жупии	zhupii	Жупіі/жупіяў/жупіі	жукі	iron 
 lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда	нанэтамі	repair robot; coined part	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
-lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман	Міхальчук/Кульман	Schumacher joke	Rally.qmm
+lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман/Міхаэля/Шульмана	Міхальчук/Кульман	Schumacher joke	Rally.qmm
 lemma.korchenitsa	Корченица	Korchenitsa	Карчаніца/Карчаніцы/Карчаніцам/Карчаніцу	Караніцца	lead driver's surname	Rally.qmm
 lemma.dudochkin	Дудочкин	Dudochkin	Дудочкін	Дубочкі	young driver; from дудка	Rally.qmm
 lemma.pollonso	Поллонсо	Pollonso	Поллонса	Спонсара	Alonso joke; double л stays	Rally.qmm
 lemma.fae_rari	рарри	Ferrari	рары	пары	Ferrari joke after ФЭЙ; ФЭЙ passes hunspell	Rally.qmm
 lemma.bemzhe	Бэ-Эм-Жэ	BMU	Бээмжэ	Бэсэмэр	BMW letter-name joke; one token so the letters are not leftovers	Rally.qmm
 lemma.sitrojan	Сии-троян	Seetrojan	Сіі/траян	Кіі/траяк	Citroen joke; hyphen splits the tokens	Rally.qmm
-lemma.booel	Боо-эль	Boo-el	Баа/стыяан/Боо	Баб/стыканы/Бор	Vettel joke; hyphen splits the tokens; эль passes hunspell	Rally.qmm
+lemma.booel	Боо-эль	Boo-el	Баа/стыяан/Боо/стыяана/эля	Баб/стыканы/Бор	Vettel joke; hyphen splits the tokens; эль passes hunspell	Rally.qmm
 lemma.cheater	Читер	Cheater	Чытэр	Крытэр	Michael Cheater joke	Rally.qmm
 lemma.gummi	Гамми	Gummy	Гамі	Гам	ranger Gamma joke	Rally.qmm
 lemma.hamlet	Гамлет	Hamlet	Гамлет	Амлет	literary name in the Betta ad	Rally.qmm
