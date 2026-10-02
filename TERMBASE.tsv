@@ -638,7 +638,7 @@ lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; �
 lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
 lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
-lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх		race adj from гаальцы	LOCK
+lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
 lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
 lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
@@ -1322,3 +1322,4 @@ lemma.karra_bbah	Карра Ббах	Karra Bach	Карра/Ббах		malok journ
 lemma.bulbu	Бульбу Льбуль	Blub Lubb	Бульбу/Льбуль/Льбулем		faeyan journalist	Election.qmm
 lemma.hexagenotoluol	гексагенотолуол	hexagenotoluol	гексагенотолуол/гексагенотолуолам		explosive name; keep the spelling	Election.qmm
 lemma.buch	обер-майор Бух	Arch-Major Booze	обэр-маёр/Бух		Gralgar veteran; English Booze	Election.qmm
+lemma.barryha	Баррыха	Barrack	Баррыха		malok sergeant	Election.qmm
