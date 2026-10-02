@@ -652,7 +652,7 @@ lemma.iiii	ИИИИ	IIII	ІІІІ		Institute acronym; и→і	Jumper.qmm
 lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
 lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
-lemma.quanga	кванга	quanga	кванга		invented fruit; A квангу	Jumper.qmm
+lemma.quanga	кванга	quanga	кванга/квангі		invented fruit; A квангу	Jumper.qmm
 lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў		invented folk; G мэнзола	Jumper.qmm
 lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
 lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў		peleng clerical rank used before a name	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -1028,3 +1028,4 @@ lemma.shitzka	Шицка	Shitzka	Шыцка/Шыцку		album name; hunspell has
 lemma.guanava	гуанава	guanava	гуанава/гуанавы		bar drink; hunspell has no such word	Badday.qmm
 lemma.quaka	Квака минерале	Mineral Quaka	Квака		mineral-water brand on the bottle	Badday.qmm
 lemma.aipentak	Эйпентак	Aipentak	Эйпэнтак		faeyan planet; hunspell maps the name elsewhere	Badday.qmm
+lemma.aliada	Алиада Ансата	Aliada Ansata	Аліяда/Ансата		unreadable book title; hunspell maps it to the Iliad	Badday.qmm
