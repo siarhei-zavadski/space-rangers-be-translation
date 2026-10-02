@@ -325,7 +325,16 @@ The mistress of the stamp and coffee-machine pays absolutely no attention to you
 - Don't you get embarrassed, pal. It won't take long, just one little game, - the secretary said and put a pack of cards on the table.
 That was a great weight off your mind.
 - What do we play?
-- Let's play 21."	"Quest,Ministry"	""
+- Let's play 21."	"Quest,Ministry"	"- Дуня Рачэханаўна! — адчаканіла грузная сакратарка.
+- Якое прыгожае імя.
+- Паспрабаваў бы сказаць іначай. Раскалола б галаву, як какосавы арэх. Гы-гы-гы, — ненатуральна зарагатала грузная жанчына.
+- Ды кіньце, — нейкае сьвяшчэннае трапятаньне перад гэтай велізарнай жанчынай не дазваляла вам перайсьці на ты. — Мусіць, нудна так сядзець тут цэлымі днямі?
+- Нудна? Так, нудна бывае. А што, касманаўт. Чаго вакол ды каля хадзіць. Давай, ці што, разьвесялімся, так бы мовіць? — сакратарка вымавіла апошнія свае словы з нейкім загадкавым бляскам у вачах.
+- Э-э-э. Я не думаю, што варта падганяць падзеі, — замяліся вы.
+- Ня саромейся, хлапец. Мы хуценька, адну партыю, — сказала сакратарка і паклала на стол калоду картаў.
+У вас быццам камень з душы зваліўся.
+- А ў што гуляем?
+- Давай у 21."
 "/quests/Ministry.qmm/locations/29/texts/0/text"	"""Правила? Да простые правила, - отозвалась секретарша. - Играют колодой из 36 карт. Раздается по две карты, и игроки считают очки. Принцип подсчета простой: шестерка считается за шесть очков, семерка за семь и так далее до десятки, которая считается за десять очков. Валет считается за два очка, дама за три, король за четыре, а туз за одиннадцать. 
 
 Если у меня на руках после первой раздачи оказывается 21 очко, то я автоматически выигрываю, несмотря на то, сколько очков наберешь ты. Извини, приятель: моя колода - у меня и привилегии. Но если я с двух карт не наберу 21 очко, а ты наберешь, то победа автоматически за тобой. Однако обычно оба игрока не набирают 21 с двух карт, тогда можно брать из колоды еще по одной карте. Кстати, дополнительно можно брать не более пяти карт. Вот. И тут уже есть возможность набрать 21 очко. Ситуация, когда на руках у игрока оказывается более 21 очка, называется перебором. Но от взятия дополнительной карты можно и отказаться, если опасаешься набрать более 21 очка. 
@@ -340,33 +349,50 @@ If after the first deal I have 21 points, I automatically win, no matter how man
 After both of us stop taking cards, the game is over. We show our cards to each other and compare collected points. If the numbers of points are equal, then it is drawn. If anyone has more points and there is no overshoot, that one is the winner. That's it. 
 
 In general, the rules are not complicated, but sometimes it's hard to realise them at once. You'll get it when you play.
-So, are we playing?"""	"Quest,Ministry"	""
+So, are we playing?"""	"Quest,Ministry"	"""Правілы? Ды простыя правілы, — адазвалася сакратарка. — Гуляюць калодай з 36 картаў. Раздаецца па дзьве карты, і гульцы лічаць ачкі. Прынцып падліку просты: шасьцёрка лічыцца за шэсьць ачкоў, сямёрка за сем і гэтак далей да дзясяткі, якая лічыцца за дзесяць ачкоў. Валет лічыцца за два ачкі, дама за тры, кароль за чатыры, а туз за адзінаццаць. 
+
+Калі ў мяне на руках пасьля першай раздачы аказваецца 21 ачко, то я аўтаматычна выйграю, нягледзячы на тое, колькі ачкоў набярэш ты. Выбачай, сябар: мая калода — у мяне і прывілеі. Але калі я з дзьвюх картаў не набяру 21 ачко, а ты набярэш, то перамога аўтаматычна за табой. Аднак звычайна абодва гульцы не набіраюць 21 з дзьвюх картаў, тады можна браць з калоды яшчэ па адной карце. Дарэчы, дадаткова можна браць не больш за пяць картаў. Вось. І тут ужо ёсьць магчымасьць набраць 21 ачко. Сытуацыя, калі на руках у гульца аказваецца больш за 21 ачко, называецца пераборам. Але ад узяцьця дадатковай карты можна і адмовіцца, калі баісься набраць больш за 21 ачко. 
+
+Пасьля таго, як мы абодва спынім браць карты, гульня завяршаецца. Мы паказваем адно аднаму свае карты і параўноўваем колькасьць ачкоў. Калі ачкоў пароўну, то нічыя. Калі ў кагосьці больш ачкоў, і ў яго няма перабору, то ён перамог. Гэта ўсё.
+
+Увогуле, правілы не складаныя, але іх часам цяжка ўсьвядоміць адразу. Дык згуляеш — зразумееш.
+Ну дык што — гуляем?"""
 "/quests/Ministry.qmm/locations/30/texts/0/text"	"- Хорошо. Ну, что там у тебя? - небрежно сказала Рачехановна.
 Вы медленно открыли свои карты - у вас [p13]. Секретарша усмехнулась и вскрыла свои - у нее [p15]. Что ж. <clr>Вы проиграли<clrEnd>. Но, может, вам повезет в следующий раз?
 
 - Проигрываешь - что-нибудь отдаешь. А точнее, что-нибудь из <clr>одежды<clrEnd>. Таковы правила, - потирая руки, проговорила Рачехановна."	"Quest Ministry.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: - Alright, what have you got? - Rachehanovna said casually. 
 You opened your cards slowly - you've got [p13]. The secretary smiled and opened hers - she had [p15]. Well. <clr>You've lost <clrEnd>. Maybe you will be lucky next time?
 
-- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	""
+- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	"- Добра. Ну, што там у цябе? — нядбайна сказала Рачэханаўна.
+Вы павольна адкрылі свае карты — у вас [p13]. Сакратарка ўсьміхнулася і ўскрыла свае — у яе [p15]. Што ж. <clr>Вы прайгралі<clrEnd>. Але, можа, вам пашанцуе наступным разам?
+
+- Прайграеш — нешта аддаеш. А дакладней, нешта з <clr>адзежы<clrEnd>. Такія правілы, — паціраючы рукі, прамовіла Рачэханаўна."
 "/quests/Ministry.qmm/locations/30/texts/1/text"	"- Хорошо. Ну, что там у тебя? - небрежно сказала Рачехановна.
 Вы медленно открыли свои карты - у вас [p13] - перебор. Секретарша усмехнулась и вскрыла свои - у нее [p15]. Что ж. <clr>Вы проиграли<clrEnd>. Но, может, вам повезет в следующий раз?
 
 - Проигрываешь - что-нибудь отдаешь. А точнее, что-нибудь из <clr>одежды<clrEnd>. Таковы правила, - потирая руки, проговорила Рачехановна."	"Quest Ministry.qmm: locations.30.texts.1.text. Preserve every <tag> exactly. English reference: - Alright, what have you got? - Rachehanovna said casually.
 You opened your cards slowly - you've got [p13] - overshoot. The secretary smiled and opened hers - she had [p15]. Well. <clr>You've lost <clrEnd>. Maybe you will be lucky next time?
 
-- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	""
+- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	"- Добра. Ну, што там у цябе? — нядбайна сказала Рачэханаўна.
+Вы павольна адкрылі свае карты — у вас [p13] — перабор. Сакратарка ўсьміхнулася і ўскрыла свае — у яе [p15]. Што ж. <clr>Вы прайгралі<clrEnd>. Але, можа, вам пашанцуе наступным разам?
+
+- Прайграеш — нешта аддаеш. А дакладней, нешта з <clr>адзежы<clrEnd>. Такія правілы, — паціраючы рукі, прамовіла Рачэханаўна."
 "/quests/Ministry.qmm/locations/30/texts/2/text"	"- Продул ты, крылатый. У меня 21 с двух карт! - показывая карты, воскликнула секретарша. 
 
 - Проигрываешь - что-нибудь отдаешь. А точнее, что-нибудь из <clr>одежды<clrEnd>. Таковы правила, - потирая руки, проговорила Рачехановна."	"Quest Ministry.qmm: locations.30.texts.2.text. Preserve every <tag> exactly. English reference: - You have lost, birdie. I have 21 with two cards! - the secretary exclaimed and showed her cards. 
 
-- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	""
+- Once you loose - you give something away. I mean your <clr>clothes<clrEnd>. That's the rules, - said Rachehanovna rubbing her hands."	"Quest,Ministry"	"- Прайграў ты, крылаты. У мяне 21 з дзьвюх картаў! — паказваючы карты, усклікнула сакратарка. 
+
+- Прайграеш — нешта аддаеш. А дакладней, нешта з <clr>адзежы<clrEnd>. Такія правілы, — паціраючы рукі, прамовіла Рачэханаўна."
 "/quests/Ministry.qmm/locations/31/texts/0/text"	"""А гвоздей тебе не пожарить? Вещи давай!"" - секретарша была настроена решительно.
 
 Видимо, все же придется расставаться с дорогими сердцу вещами. Или нет?"	"Quest Ministry.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: ""Shouldn't I fry some nails for you instead? Give me the clothes!"" - the secretary was in a decisive mood.
 
-Looks like you will have to give away your dear clothes. Or not?"	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/32/texts/0/text"	"- Ладно. Давай, так и быть, - прозвучал ответ."	"Quest Ministry.qmm: locations.32.texts.0.text. Preserve every <tag> exactly. English reference: - Fine, give it to me, - she replied."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/33/texts/0/text"	"Реакция на ваш необдуманный ответ последовала незамедлительно: секретарша вскочила с места, перемахнула через стол и мощным апперкотом свалила вас на пол. Такого количества звезд вы не видели даже в самых живописных уголках галактики. Встряхнув головой, вы поднялись на ноги и увидели секретаршу, двигавшуюся в вашу сторону с двумя ножками от стула в руках. В панике вы бросились на улицу, где стоял ваш корабль. Благо, Рачехановна бегала из рук вон плохо, и вы успели добежать до звездолета. Помахав картежнице ручкой, вы отбыли с места событий."	"Quest Ministry.qmm: locations.33.texts.0.text. Preserve every <tag> exactly. English reference: She reacted to your careless answer in a flash - the secretary jumped up from her chair, hopped over the table and brought you down on the floor with a powerful uppercut. You have not seen so many stars before, even in the most picturesque locations of the galaxy. You shook your head, stood up and saw the secretary moving in your direction with two legs of a chair in her hands. You panicked and run outside to your ship. Fortunately, Rachehanovna did not run so well and you had time to reach your starship. After you waived your hand to the card player, you left the location."	"Quest,Ministry"	""
+Looks like you will have to give away your dear clothes. Or not?"	"Quest,Ministry"	"""А цьвікоў табе не падсмажыць? Рэчы давай!"" — сакратарка была настроеная рашуча.
+
+Відаць, усё ж давядзецца разьвітвацца з рэчамі, дарагімі сэрцу. Ці не?"
+"/quests/Ministry.qmm/locations/32/texts/0/text"	"- Ладно. Давай, так и быть, - прозвучал ответ."	"Quest Ministry.qmm: locations.32.texts.0.text. Preserve every <tag> exactly. English reference: - Fine, give it to me, - she replied."	"Quest,Ministry"	"- Добра. Давай, ужо так і быць, — прагучаў адказ."
+"/quests/Ministry.qmm/locations/33/texts/0/text"	"Реакция на ваш необдуманный ответ последовала незамедлительно: секретарша вскочила с места, перемахнула через стол и мощным апперкотом свалила вас на пол. Такого количества звезд вы не видели даже в самых живописных уголках галактики. Встряхнув головой, вы поднялись на ноги и увидели секретаршу, двигавшуюся в вашу сторону с двумя ножками от стула в руках. В панике вы бросились на улицу, где стоял ваш корабль. Благо, Рачехановна бегала из рук вон плохо, и вы успели добежать до звездолета. Помахав картежнице ручкой, вы отбыли с места событий."	"Quest Ministry.qmm: locations.33.texts.0.text. Preserve every <tag> exactly. English reference: She reacted to your careless answer in a flash - the secretary jumped up from her chair, hopped over the table and brought you down on the floor with a powerful uppercut. You have not seen so many stars before, even in the most picturesque locations of the galaxy. You shook your head, stood up and saw the secretary moving in your direction with two legs of a chair in her hands. You panicked and run outside to your ship. Fortunately, Rachehanovna did not run so well and you had time to reach your starship. After you waived your hand to the card player, you left the location."	"Quest,Ministry"	"Рэакцыя на ваш неабдуманы адказ рушыла ўсьлед адразу: сакратарка ускочыла з месца, перамахнула праз стол і магутным ударам зьнізу зваліла вас на падлогу. Такой колькасьці зорак вы ня бачылі нават у самых маляўнічых кутках галяктыкі. Страсянуўшы галавой, вы падняліся на ногі і ўбачылі сакратарку, якая рухалася ў ваш бок з дзьвюма ножкамі ад крэсла ў руках. У паніцы вы кінуліся на вуліцу, дзе стаяў ваш карабель. На шчасьце, Рачэханаўна бегала зусім кепска, і вы пасьпелі дабегчы да зорнага карабля. Памахаўшы карцёжніцы рукой, вы паляцелі прэч."
 "/quests/Ministry.qmm/locations/35/texts/0/text"	"- Ну, давай. Что там у тебя? - серьезно спросила секретарша.
 Вы медленно открыли свои карты - у вас [p13]. Секретарша с обидой бросила свои картишки на столешницу. У нее лишь [p15]. <clr>Вы выиграли!<clrEnd>!
 
