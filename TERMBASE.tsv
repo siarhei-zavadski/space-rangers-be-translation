@@ -1073,3 +1073,5 @@ lemma.pelenghack	ПеленгХак	PelengHack	ПеленгХак	Пеленг	i
 lemma.superstart	СуперСтарт	SuperStart	СупэрСтарт	старт	oil additive; one token	Rally.qmm
 lemma.pitboard	пит-борд	pit board	піт/борд	піт	pit board; hyphen splits the tokens	Rally.qmm
 lemma.fermaxon	Фер-Максон	Fer-Maxon	Фэр/Максан	ферма	MacPherson joke; hyphen splits the tokens	Rally.qmm
+lemma.neo	Нео	Neo	Нэа	Нэп	Matrix joke; hunspell suggestions are other names	Rally.qmm
+lemma.hyperlift	гиперлифт	hyperlift	гіпэрліфт	гіпэртрафія	stadium lift; coined	Rally.qmm
