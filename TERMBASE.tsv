@@ -432,7 +432,7 @@ lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
 lemma.streemers	Стрямеры	Streemers	Стрямеры		keep in <clr>; magazine Стрямъ-коммерсантъ keep ъ	—
 lemma.oveon	овеон	oveon	авеон		gaal ship type KillShip/15	—
-lemma.hatchball	хэчбол	hatchball	хэчбол		sport; keep loan	—
+lemma.hatchball	хэчбол	hatchball	хэчбол/хэчбольны		sport; keep loan	—
 lemma.don_pelengone	Дон Пеленгоне	Don Pelengone	Дон Пеленгоне		peleng premier; E-бабкі cards	—
 lemma.bail_gan	Бейл Ган	Bail Gan	Бейл Ган		keep in <clr>; faeyan hacker	—
 lemma.malokosoft	Малокософт	Malokosoft	Малокософт		quoted malok software firm	—
@@ -1016,3 +1016,5 @@ lemma.stunner	станнер	stunner	станэр/Станэр/станэра/с
 lemma.lvpb	ЛВПБ	CRLG	ЛВПБ		sniper rifle code on the Baron2 HUD	STQ_Baron2.qmm
 lemma.boog	буг	boog	буг		cargo unit; hunspell suggestions are unrelated	STQ_Baron2.qmm
 lemma.kinetator	кинетатор	kinetisizer	кінетатар/кінетатара		coined charge device; hunspell maps it to a cinema	STQ_Baron2.qmm
+lemma.nyru	ныря	nyru	ныра/ныру/ныры/ныраў		space rodent on the pirate base; hunspell maps the name elsewhere	STQ_Baron2.qmm
+lemma.jumpmeter	Джамперметр	Jumpmeter	Джампэрмэтар/Джампэрмэтра/Джампэрмэтрам		transporter jump device; hunspell maps it to an ammeter	STQ_Baron2.qmm
