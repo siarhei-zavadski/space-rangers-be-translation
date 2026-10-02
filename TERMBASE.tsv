@@ -272,7 +272,7 @@ lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; k
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
 lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба		pirate plot weapon; hunspell leftover adj	—
-lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/пачварашамі		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
+lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/пачварашамі/пачварашу		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
 lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
@@ -414,7 +414,7 @@ lemma.great_thinker	Великий мыслитель	Great Thinker	Вялікі
 lemma.pirate_clans_ds	Сорвиклювы / Смачные парни / Дерзкие зыри	clans	Сарвіклювы / Смачныя хлопцы / Дзёрзкія зыры		quoted pirate clans DefSystem/52	—
 lemma.ga_principles	принципы Га	Ga principles	прынцыпы Га		gaal pirate philosophy; тры правы	—
 lemma.razrab_finger	Палец Раазраба	Dev's Finger	Палец Раазраба		quoted artefact; Геймдэвэлепэры зары already	—
-lemma.ragobam_frogs	рогобамские жабы	Ragobam frogs	рагобамскія жабы		KillShip venom trade; RobotsMap already	—
+lemma.ragobam_frogs	рогобамские жабы	Ragobam frogs	рагобамскія жабы/рагобамская		KillShip venom trade; RobotsMap already	—
 lemma.hire_a_friend	Закажи другу друга	Hire a Pal a Pal	Замоў сябру сябра		malok hitman agency; keep quotes inside <clr>	—
 lemma.vovik_zhyry	Вовик Жирый	Vovik Zhyry	Вовік Жырый		keep in <clr>; malok diplomat insult quest	—
 lemma.guanta	гуанта-бартабаны	guanta-bartabans	гуанта-бартабаны		malok origin parody fauna	—
@@ -791,3 +791,4 @@ lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бю�
 lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
+lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
