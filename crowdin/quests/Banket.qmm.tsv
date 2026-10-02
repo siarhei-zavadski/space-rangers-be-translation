@@ -1885,12 +1885,19 @@ The recipe that I am going to give you has a more detailed description but sadly
 "/quests/Banket.qmm/locations/45/texts/0/text"	"Повар взял приготовленный вами ""коктейль"" и капнул немного на анализатор. На табло загорелись цифры, судя по которым ваша кинза далека от идеальной, да и вообще от кинзы.
  - Мне очень жаль, но вам не удалось этого сделать, только перевели напрасно большую часть реагентов. А мне, между прочим, стоило большого труда их достать, особенно пастеризованный оксид водорода.
 
-- Не знаю, как насчет этого оксида, но меня ты точно достал..."	"Quest Banket.qmm: locations.45.texts.0.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+- Не знаю, как насчет этого оксида, но меня ты точно достал..."	"Quest Banket.qmm: locations.45.texts.0.text. Preserve every <tag> exactly."	"Quest,Banket"	"Кухар узяў прыгатаваны вамі ""кактэйль"" і капнуў крыху на аналізатар. На табло загараліся лічбы, паводле якіх ваша кінза далёкая ад ідэальнай, ды і наогул ад кінзы.
+ - Мне вельмі шкада, але вам не ўдалося гэтага зрабіць, толькі марна перавялі большую частку рэагентаў. А мне, між іншым, каштавала вялікай працы іх дастаць, асабліва пастэрызаваны аксыд вадароду.
+
+- Не ведаю, як наконт гэтага аксыду, але мяне ты дакладна дастаў..."
 "/quests/Banket.qmm/locations/45/texts/1/text"	"Повар взял приготовленный вами ""коктейль"" и капнул немного на анализатор. На табло загорелись цифры, судя по которым ваш экспромт оказался довольно неплохой кинзой.
 
 - Разрешите поздравить вас, рейнджер, с успешным завершением эксперимента! - повар прямо-таки приплясывал от восторга. Он сразу же отлил треть себе и протянул вам <clr>500<clrEnd> cr. - Остальное я лично отнесу принцу Тардыму и, разумеется, не забуду упомянуть создателя этого шедевра. Думаю, малок оценит ваше творение...
 
-Он выскочил из кухни, что-то бормоча себе под нос - то ли пытался не забыть, как вас зовут, то ли учил ""техпроцесс"" наизусть."	"Quest Banket.qmm: locations.45.texts.1.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+Он выскочил из кухни, что-то бормоча себе под нос - то ли пытался не забыть, как вас зовут, то ли учил ""техпроцесс"" наизусть."	"Quest Banket.qmm: locations.45.texts.1.text. Preserve every <tag> exactly."	"Quest,Banket"	"Кухар узяў прыгатаваны вамі ""кактэйль"" і капнуў крыху на аналізатар. На табло загараліся лічбы, паводле якіх ваш экспромт аказаўся даволі някепскай кінзай.
+
+- Дазвольце павіншаваць вас, рэйнджэр, з пасьпяховым завяршэньнем экспэрымэнту! — кухар аж прытанцоўваў ад захапленьня. Ён адразу ж адліў трэць сабе і працягнуў вам <clr>500<clrEnd> cr. — Астатняе я асабіста аднясу прынцу Тардыму і, вядома, не забуду згадаць, хто стварыў гэты шэдэўр. Думаю, малок ацэніць ваша тварэньне...
+
+Ён выскачыў з кухні, нешта мармычучы сабе пад нос — ці то спрабаваў не забыцца, як вас завуць, ці то вучыў ""тэхналягічны працэс"" на памяць."
 "/quests/Banket.qmm/locations/46/texts/0/text"	"Вы в цветастых выражениях предложили ему посетить планету <FromPlanet>, где ему будет оказан самый теплый прием. Принц задумался, а его жену ваше предложение привело в восторг:
 
 - Тари, дорогой, я бы очень хотела побывать там. Этот рейнджер показался мне весьма неординарным и интересным.
@@ -1901,7 +1908,14 @@ The recipe that I am going to give you has a more detailed description but sadly
 Вы <clr>провалили<clrEnd> задание."	"Quest Banket.qmm: locations.46.texts.0.text. Preserve every <tag> exactly. English reference: The cook took the ""cocktail"" you just made and let several droplets of it drip into the analyser. Judging by the numbers that appeared on the display your Chins was far from ideal, or - to be more exact - far from any kind of Chins.
  - I am very sorry, but as it appears you did not make it, you just wasted the better part of my reagents. Which, by the way, were very hard for me to get especially the pasteurised hydrogen oxide.
 
-- I don't know about this oxide but you got me - that's a fact..."	"Quest,Banket"	""
+- I don't know about this oxide but you got me - that's a fact..."	"Quest,Banket"	"Вы ў квяцістых выразах прапанавалі яму наведаць плянэту <FromPlanet>, дзе яму акажуць самы цёплы прыём. Прынц задумаўся, а ягоную жонку ваша прапанова прывяла ў захапленьне:
+
+- Тары, дарагі, я б вельмі хацела пабываць там. Гэты рэйнджэр падаўся мне вельмі неардынарным і цікавым.
+
+- Не, — адказ малокскага прынца быў адназначны. — Мне ён наадварот падаўся на рэдкасьць непрыемным тыпам, які ня мае ні найменшага ўяўленьня пра вайсковы гонар. І я не хачу апынуцца ў атачэньні падобных недарэчных тыпаў. Тым больш што ты мусіш мне дапамагчы ў перамовах з урадам суседняй сыстэмы. І там я зважу цябе на баі пэнчэкрякаў.
+
+Апошні аргумэнт канчаткова пераканаў Ханну, і больш яна не настойвала.
+Вы <clr>правалілі<clrEnd> заданьне."
 "/quests/Banket.qmm/locations/46/texts/1/text"	"Вы в цветастых выражениях предложили ему посетить планету <FromPlanet>, где ему будет оказан самый теплый прием. Принц задумался, а потом поинтересовался, когда ему будет удобнее посетить эту планету. Но тут вмешалась принцесса Ханна:
 
 - Тари, дорогой, неужели ты собираешься лететь на эту ужасную планету? Лично я смотреть не могу на инопланетников, которые пытаются вести себя как малоки. Это выглядит просто нелепо и смешно, я буду там себя неуютно чувствовать. Давай лучше слетаем в соседнюю систему на бои пенчекряков - ты ведь обещал. А еще я хочу посмотреть на мензолов. Представляешь, говорят, что эти мохнатые крохи способны выторговать все что угодно даже у самого прижимистого пеленга!
@@ -1910,7 +1924,11 @@ The recipe that I am going to give you has a more detailed description but sadly
 
 - Ranger, please accept my congratulations on the successful completion of this experiment! - the cook was dancing a delighted jig. He poured one third of it for himself and handed you <clr>500<clrEnd> cr. - I will take the rest of this straight to Prince Tardym, and of course I will mention the name of the maker of this masterpiece. I think the Maloq will appreciate your creation...
 
-He jumped out of the kitchen, mumbling something under his breath - either trying not to forget your name, or attempting to memorise the ""process""."	"Quest,Banket"	""
+He jumped out of the kitchen, mumbling something under his breath - either trying not to forget your name, or attempting to memorise the ""process""."	"Quest,Banket"	"Вы ў квяцістых выразах прапанавалі яму наведаць плянэту <FromPlanet>, дзе яму акажуць самы цёплы прыём. Прынц задумаўся, а потым запытаўся, калі яму будзе зручней наведаць гэтую плянэту. Але тут умяшалася прынцэса Ханна:
+
+- Тары, дарагі, няўжо ты зьбіраесься ляцець на гэтую жахлівую плянэту? Асабіста я глядзець ня магу на іншаплянэцянаў, якія спрабуюць паводзіць сябе як малокі. Гэта выглядае проста недарэчна і сьмешна, я буду там адчуваць сябе няўтульна. Давай лепей зьлётаем у суседнюю сыстэму на баі пэнчэкрякаў — ты ж абяцаў. А яшчэ я хачу паглядзець на мэнзолаў. Уяўляеш, кажуць, што гэтыя калматыя крошкі здольныя вытаргоўваць усё што заўгодна нават у самага скупога пеленга!
+
+Тардым ба'Бах не ўстаяў перад націскам сваёй жонкі і <clr>адмовіў<clrEnd> вам."
 "/quests/Banket.qmm/locations/46/texts/2/text"	"Вы в цветастых выражениях предложили ему посетить планету <FromPlanet>, где ему будет оказан самый теплый прием. 
 
 - Нет, - ответ малокского принца был однозначен. - Я не хочу оказаться в окружении подобных вам недоразумений, не имеющих никакого понятия о воинской чести. Тем более что у меня намечены переговоры с правительством соседней системы.
@@ -1919,7 +1937,15 @@ He jumped out of the kitchen, mumbling something under his breath - either tryin
 
 - Уж лучше я схожу на бои пенчекряков, проводимых на соседней планете - это зрелище гораздо более увлекательное, чем ведение переговоров со скучными политиками, которые прислали такого никчемного представителя.
 
-Вы <clr>провалили<clrEnd> задание."	"Quest Banket.qmm: locations.46.texts.2.text. Preserve every <tag> exactly."	"Quest,Banket"	""
+Вы <clr>провалили<clrEnd> задание."	"Quest Banket.qmm: locations.46.texts.2.text. Preserve every <tag> exactly."	"Quest,Banket"	"Вы ў квяцістых выразах прапанавалі яму наведаць плянэту <FromPlanet>, дзе яму акажуць самы цёплы прыём. 
+
+- Не, — адказ малокскага прынца быў адназначны. — Я не хачу апынуцца ў атачэньні падобных вам недарэчных тыпаў, якія ня маюць ніякага ўяўленьня пра вайсковы гонар. Тым больш што ў мяне прызначаныя перамовы з урадам суседняй сыстэмы.
+ 
+Вы паспрабавалі зьвярнуцца да Ханны, але яна толькі фыркнула:
+
+- Ужо лепей я схаджу на баі пэнчэкрякаў, якія ладзяць на суседняй плянэце — гэта відовішча куды больш захапляльнае, чым вядзеньне перамоваў са сумнымі палітыкамі, якія прыслалі такога нікчэмнага прадстаўніка.
+
+Вы <clr>правалілі<clrEnd> заданьне."
 "/quests/Banket.qmm/locations/47/texts/0/text"	"От греха подальше, вы зарылись в кучу тряпья за ближайшей дверью. Но в самый неожиданный момент куча тряпья вдруг завопила пронзительным голосом - она оказалась надетой на какую-то пеленгскую матрону и, собственно говоря, была ее одеждой.
 
 На вопли несчастной сбежалась охрана. Десятки стволов оказались направлены в вашу сторону:
@@ -1936,7 +1962,16 @@ He jumped out of the kitchen, mumbling something under his breath - either tryin
 - No, - the response of the Maloq Prince was finite. - I on the contrary have got the impression that he is an especially nasty type who is absolutely clueless about the honour of a warrior. And I do not want to find myself surrounded by a lot of such embarrassments. Besides I need you to help me negotiate with the government of a neighbouring system. And there I promise to take you to a penchekryak-fight.
 
 This last argument seemed to have done it for Hanna and she insisted no more.
-You <clr>failed<clrEnd> your mission."	"Quest,Banket"	""
+You <clr>failed<clrEnd> your mission."	"Quest,Banket"	"Ад грэху падалей, вы зарыліся ў кучу рызьзя за бліжэйшымі дзьвярыма. Але ў самы нечаканы момант куча рызьзя раптам заенчыла пранізьлівым голасам — яна аказалася надзетая на нейкую пеленгскую кабеціну і, уласна кажучы, была яе адзеньнем.
+
+На лямант няшчаснай зьбеглася ахова. Дзясяткі ствалоў аказаліся скіраваныя ў ваш бок:
+- А што — пасол ужо сышоў? — адважыўшыся, запыталіся вы.
+- А вы хто такі? — адказаў пытаньнем на пытаньне адзін з ахоўнікаў, на ўсялякі выпадак спрабуючы аглушыць вас ударам прыклада.
+- Рэйнджэр я... вядомы... вельмі, — адказалі вы, ухіляючыся ад прыклада — таксама на ўсялякі выпадак.
+
+- <Ranger>! — прыбег задыханы цырымоніймайстар і заступіўся за вас. Цяпер вы ўдвух ухіляліся ад прыклада, спрабуючы патлумачыць, хто вы такія і што тут робіце.
+
+Нарэшце цырымоніймайстра пазнаў хтосьці з аховы, і ён патлумачыў, хто вы такі, хоць так і не змог зразумець, што вы тут робіце. Вы таксама патлумачылі ахове, што ніхто не зьбіраецца замахвацца ні на пасла, ні на кучу рызьзя, гэта значыць шаноўную спадарыню Хрынду Моргуль. У рэшце рэшт вас вывалаклі да выхаду, дзе паставілі на ногі перад малокскім прынцам. — Вось ужо не думаў, што вы такі баязьлівец... — адчытваў вас цырымоніймайстар, і, пачуўшы гэтыя словы, прынц Тардым насупіўся."
 "/quests/Banket.qmm/locations/48/texts/0/text"	"Выхватив бластеры, вы внезапно выскочили из-за поворота и громко крикнули ""Бум!!!"", пытаясь удивить прибывших послов.
 ""Бах, бабах"" - рявкнули и выбросили лучи пламени бластеры в руках телохранителей принца, сам же он, ничуть не удивленный, деловито швырял в вас метательные термоножи, три из которых уже торчали из вашей груди...
 
@@ -1949,7 +1984,10 @@ Hearing the shrieks of the poor matron the guard came running. You found yoursel
 
 - <Ranger>! - the master of ceremony rushed in just in time to stick up for you. Now you both were dodging the butt of the rifle trying to explain who you were and what you were doping there.
 
-Finally one of the guards did recognise the master of ceremony and he in turn managed to explain your persona, although still no one could understand what business you had there. You also did you best to explain to the guards that no one was trying to attempt at the life of the envoy or the pile of rags, I mean, respected Mrs. Khrynda Morghul. Finally you were dragged out to the exit where you were put in front of the Maloq Prince - I would never have thought you were such a coward! - the master of ceremony lectured you. Hearing these words Prince Tardym frowned."	"Quest,Banket"	""
+Finally one of the guards did recognise the master of ceremony and he in turn managed to explain your persona, although still no one could understand what business you had there. You also did you best to explain to the guards that no one was trying to attempt at the life of the envoy or the pile of rags, I mean, respected Mrs. Khrynda Morghul. Finally you were dragged out to the exit where you were put in front of the Maloq Prince - I would never have thought you were such a coward! - the master of ceremony lectured you. Hearing these words Prince Tardym frowned."	"Quest,Banket"	"Выхапіўшы блястэры, вы раптам выскачылі з-за павароту і голасна крыкнулі ""Бум!!!"", спрабуючы зьдзівіць паслоў, якія прыбылі.
+""Бах, бабах"" — раўнулі і выкінулі промні полымя блястэры ў руках целаахоўнікаў прынца, сам жа ён, ніколькі не зьдзіўлены, дзелавіта шпурляў у вас кідальныя тэрманжы, тры зь якіх ужо тырчалі з вашых грудзей...
+
+Ну ніякага пачуцьця гумару ў гэтых малокаў. Вось менавіта таму <clr>вы і загінулі<clrEnd>, а зусім не праз свой ідыёцкі выбрык, толькі пра гэта ніхто не даведаецца..."
 "/quests/Banket.qmm/jumps/0/text"	"Пожалуй, у меня нет вопросов, я выберу себе костюм"	"Quest Banket.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: I don't think, I have any questions, let me pick my suit"	"Quest,Banket"	"Бадай, у мяне няма пытаньняў, я выберу сабе касьцюм"
 "/quests/Banket.qmm/jumps/2/text"	"Почему правительство планеты <ToPlanet> выбрало именно меня?"	"Quest Banket.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Why did the <ToPlanet> government choose me?"	"Quest,Banket"	"Чаму ўрад плянэты <ToPlanet> выбраў менавіта мяне?"
 "/quests/Banket.qmm/jumps/3/text"	"Что можете рассказать о жене принца?"	"Quest Banket.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: What can you tell me about the Prince's wife?"	"Quest,Banket"	"Што можаце расказаць пра жонку прынца?"
@@ -2084,5 +2122,10 @@ Finally one of the guards did recognise the master of ceremony and he in turn ma
 Однако, выяснив все обстоятельства, малокский принц стиснул горло ябеды:
 - Скажи спасибо, что он тебя инвалидом не сделал - и хватило же у тебя наглости просить помощи в приготовлении кинзы! И какой же ты после этого ваккати, кто у тебя кинзу будет брать, которую ты даже приготовить не в состоянии?
 
-Из всех малоков только принцесса Ханна пожалела несправедливо обиженного ""маленького ваккати"". Как вы поняли, так назывались у малоков не то винокуры, не то самогонщики."	"Quest Banket.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Banket"	""
+Из всех малоков только принцесса Ханна пожалела несправедливо обиженного ""маленького ваккати"". Как вы поняли, так назывались у малоков не то винокуры, не то самогонщики."	"Quest Banket.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Banket"	"Аказалася, што зь некаторых кухараў атрымаліся б выдатныя спрынтэры — вы толькі ўвайшлі з напоямі ў залю, а гэты паскуднік ужо заканчваў расказваць паслам, што іх за сталом бавіць зусім не высакародны рэйнджэр, а хам і задзіра.
+
+Аднак, высьветліўшы ўсе акалічнасьці, малокскі прынц сьціснуў горла нагаворшчыка:
+- Скажы дзякуй, што ён цябе інвалідам не зрабіў — і хапіла ж у цябе нахабства прасіць дапамогі ў прыгатаваньні кінзы! І які ж ты пасьля гэтага ваккаці, хто ў цябе кінзу будзе браць, якую ты нават прыгатаваць ня ў стане?
+
+З усіх малокаў толькі прынцэса Ханна пашкадавала несправядліва пакрыўджанага ""маленькага ваккаці"". Як вы зразумелі, так зваліся ў малокаў не то вінакуры, не то самагоншчыкі."
 "/quests/Banket.qmm/jumps/136/text"	"А впрочем, я передумал, можешь идти"	"Quest Banket.qmm: jumps.136.text. Preserve every <tag> exactly. English reference: Jab the cook on the jaw, so that he learns to take care of himself, and not wait for the others to help him"	"Quest,Banket"	"А зрэшты, я перадумаў, можаш ісьці"

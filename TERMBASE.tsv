@@ -653,7 +653,7 @@ lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
 lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга		invented fruit; A квангу	Jumper.qmm
-lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай		invented folk; G мэнзола	Jumper.qmm
+lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў		invented folk; G мэнзола	Jumper.qmm
 lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
 lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
 lemma.jumpawaian	прыгавайцы	jumpawaiians	скакавайцы		invented jump-insect	Jumper.qmm
@@ -944,7 +944,7 @@ lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell sugg
 lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму/Тардымам		malok prince; Тары is his wife's nickname	Banket.qmm
 lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі/Ба'Бах/ба'Бахам		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
-lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
+lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу/кінзай	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
 lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю/Хухмель	хмель	joke hops; keep the extra syllable	Banket.qmm
 lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm
@@ -996,3 +996,6 @@ lemma.dimethylchlorane	диметилхлорановый	dimethylchlorane	ды�
 lemma.pyrobutane	пиробутанпропах	pyrobutane	пірабутанпропах		coined chemical shared by absorbal and the discil short name	Banket.qmm
 lemma.absorbulator	абсорбуляторный	absorbulator	абсорбуляторны		coined adjective of абсорбуль	Banket.qmm
 lemma.discilly	дисциллятик	discilly	дысцылавы/дысцылятык		coined discil chemical and its short name	Banket.qmm
+lemma.khrynda	Хрында	Khrynda	Хрында/Хрынду		peleng matron whose clothes the ranger hides in	Banket.qmm
+lemma.morgul	Моргуль	Morghul	Моргуль		surname of the peleng matron Хрында	Banket.qmm
+lemma.thermoknife	термонож	thermoknife	тэрманжы		throwing knives the prince uses when the ranger shouts boom	Banket.qmm
