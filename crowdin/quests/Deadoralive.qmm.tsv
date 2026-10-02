@@ -1218,15 +1218,15 @@
 - Мой партнёр в Нолоо... ммм...
 
 Он помотал головой, стряхивая навалившееся оцепенение."	"Quest Deadoralive.qmm: locations.115.texts.0.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/0/text"	"Направиться к стойке"	"Quest Deadoralive.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/1/text"	"Кто оставил мне эти деньги?"	"Quest Deadoralive.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/2/text"	"Да вы хоть понимаете, с кого вы сейчас пытаетесь выжать взятку? Я - герой галактики!"	"Quest Deadoralive.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/3/text"	"Что ж, давайте их сюда"	"Quest Deadoralive.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/4/text"	"Триста так триста"	"Quest Deadoralive.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/5/text"	"Сухой язык цифр! Двести - моё первое и последнее слово"	"Quest Deadoralive.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/6/text"	"Наличными"	"Quest Deadoralive.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/7/text"	"На карточку"	"Quest Deadoralive.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/8/text"	"Поставить свою настоящую подпись"	"Quest Deadoralive.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/0/text"	"Направиться к стойке"	"Quest Deadoralive.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Накіравацца да стойкі"
+"/quests/Deadoralive.qmm/jumps/1/text"	"Кто оставил мне эти деньги?"	"Quest Deadoralive.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Хто пакінуў мне гэтыя грошы?"
+"/quests/Deadoralive.qmm/jumps/2/text"	"Да вы хоть понимаете, с кого вы сейчас пытаетесь выжать взятку? Я - герой галактики!"	"Quest Deadoralive.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ды вы хоць разумееце, з каго вы зараз спрабуеце выціснуць хабар? Я — герой галяктыкі!"
+"/quests/Deadoralive.qmm/jumps/3/text"	"Что ж, давайте их сюда"	"Quest Deadoralive.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ну што ж, давайце іх сюды"
+"/quests/Deadoralive.qmm/jumps/4/text"	"Триста так триста"	"Quest Deadoralive.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Трыста дык трыста"
+"/quests/Deadoralive.qmm/jumps/5/text"	"Сухой язык цифр! Двести - моё первое и последнее слово"	"Quest Deadoralive.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Сухая мова лічбаў! Дзьвесьце — маё першае і апошняе слова"
+"/quests/Deadoralive.qmm/jumps/6/text"	"Наличными"	"Quest Deadoralive.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Наяўнымі"
+"/quests/Deadoralive.qmm/jumps/7/text"	"На карточку"	"Quest Deadoralive.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"На картку"
+"/quests/Deadoralive.qmm/jumps/8/text"	"Поставить свою настоящую подпись"	"Quest Deadoralive.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паставіць свой сапраўдны подпіс"
 "/quests/Deadoralive.qmm/jumps/8/description"	"Вы потратили минуту, чтобы красиво вывести ""<Ranger>"" готическим шрифтом, и даже добавили что-то вроде вензеля. Даже если б вы решили продать душу дьяволу, тому пришлось бы подождать, пока вы сосредоточенно вымажете своей кровью договор. А уж работник космопорта подождёт тем более.
 
 Вы не знали наверняка, что такое вензель (равно как и готический шрифт), но таким же образом были подписаны ваши документы на корабль, рейнджерский контракт и многие другие важные бумаги. Будем надеяться, это вам никак не навредит, хотя что-то внутри вас сжалось, когда вы оставили образец своей родной подписи в руках незнакомца.
@@ -1236,16 +1236,16 @@
 Вы не знали наверняка, что такое вензель (равно как и готический шрифт), но таким же образом были подписаны ваши документы на корабль, рейнджерский контракт и многие другие важные бумаги. Будем надеяться, это вам никак не навредит, хотя что-то внутри вас сжалось, когда вы оставили образец своей родной подписи в руках незнакомца.
 
 Вы вышли на улицу походной обеспеченного, но вполне беспечного человека. Всё-таки вас здесь ждала работа, причём весьма нелёгкая. Пришло время заняться делом... или?.."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/9/text"	"Поставить поддельную подпись"	"Quest Deadoralive.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/9/text"	"Поставить поддельную подпись"	"Quest Deadoralive.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паставіць фальшывы подпіс"
 "/quests/Deadoralive.qmm/jumps/9/description"	"Вы помедлили секунду и накарябали что-то вроде ""ЫЛырвалКстж"". Всё равно никто не пытается разобрать эти подписи. Для пущей уверенности в себе вы ещё обвели эти иероглифы в кружочек и поставили сбоку чёрточку. То, что надо. Это обезопасит вас от лишних проблем и каких-нибудь рейдерских захватов. С другой стороны, подделка подписей - это, вроде бы, незаконно?
 
 Вы вышли на улицу походкой обеспеченного, но вполне беспечного человека. Всё-таки вас здесь ждала работа, причём весьма нелёгкая. Пришло время заняться делом... или?.."	"Quest Deadoralive.qmm: jumps.9.description. Preserve every <tag> exactly. English reference: Вы помедлили секунду и накарябали что-то вроде ""ЫЛырвалКстж"". Всё равно никто не пытается разобрать эти подписи. Для пущей уверенности в себе вы ещё обвели эти иероглифы в кружочек и поставили сбоку чёрточку. То, что надо. Это обезопасит вас от лишних проблем и каких-нибудь рейдерских захватов. С другой стороны, подделка подписей - это, вроде бы, незаконно?
 
 Вы вышли на улицу походной обеспеченного, но вполне беспечного человека. Всё-таки вас здесь ждала работа, причём весьма нелёгкая. Пришло время заняться делом... или?.."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/10/text"	"Незамедлительно отправиться в отель"	"Quest Deadoralive.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/11/text"	"Зайти в бар ""Тессерактовый Корень"""	"Quest Deadoralive.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/12/text"	"Оглядеться по сторонам как следует"	"Quest Deadoralive.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/13/text"	"Отважиться на дегустацию местного янвелба (150 нолоо)"	"Quest Deadoralive.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/10/text"	"Незамедлительно отправиться в отель"	"Quest Deadoralive.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Неадкладна адправіцца ў гатэль"
+"/quests/Deadoralive.qmm/jumps/11/text"	"Зайти в бар ""Тессерактовый Корень"""	"Quest Deadoralive.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зайсьці ў бар ""Тэссэрактавы Корань"""
+"/quests/Deadoralive.qmm/jumps/12/text"	"Оглядеться по сторонам как следует"	"Quest Deadoralive.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Агледзецца наўкола як сьлед"
+"/quests/Deadoralive.qmm/jumps/13/text"	"Отважиться на дегустацию местного янвелба (150 нолоо)"	"Quest Deadoralive.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адважыцца пакаштаваць мясцовы янвэлб (150 нолоо)"
 "/quests/Deadoralive.qmm/jumps/13/description"	"Вы откровенно не понимали, зачем в очередной раз взялись пить эту мерзкую жижицу. Возможно, такие же ощущения преследовали всех, кто когда-либо пил янвелб. Он лениво проваливается по пищеводу в сжавшийся от ужаса желудок, а в голове пульсирует один только вопрос - ЗАЧЕМ?
 
 Неведомая сила скрутила ваше тело судорогой. Вы закашлялись и обрушились с барного стула на пол, непроизвольно опрокинув один из пустых столиков.
@@ -1253,7 +1253,7 @@
 - Не привыкли? - с сочувствием спросил бармен-фэянин, заметив выступившие на ваших глазах слёзы. - У нас он густоват, на любителя. Вот, возьмите, братуха, от чистого сердца.
 
 Вы машинально приняли бутылочку с какой-то жидкостью внутри. Судя по всему, это было какое-то слабительное. Вы поблагодарили бармена (хотя принимать не стали), посидели в баре ещё часик, приходя в себя, и нетвёрдой походкой отправились в отель."	"Quest Deadoralive.qmm: jumps.13.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/14/text"	"Поболтать с барменом"	"Quest Deadoralive.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/14/text"	"Поболтать с барменом"	"Quest Deadoralive.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пабалбатаць з бармэнам"
 "/quests/Deadoralive.qmm/jumps/14/description"	"Бармен был добродушного вида фэянином, и эти две сущности как бы боролись в нём.
 
 - Как идут дела? - начали вы.
@@ -1269,47 +1269,47 @@
 - Рокторнак, малок, - продолжал словоохотливый бармен, протирая стаканы. - Ну, вы сами понимаете, не особенно умный. Обвиняют в убийстве пары важных ребят. Я думаю, клевещут, и вообще всё куда сложнее.
 
 Вы поблагодарили фэянина за информацию и отправились в отель."	"Quest Deadoralive.qmm: jumps.14.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/15/text"	"Подойти к таинственному пеленгу в углу"	"Quest Deadoralive.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/16/text"	"Купить ""транспонирование"" (150 нолоо)"	"Quest Deadoralive.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/15/text"	"Подойти к таинственному пеленгу в углу"	"Quest Deadoralive.qmm: jumps.15.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падысьці да таямнічага пеленга ў куце"
+"/quests/Deadoralive.qmm/jumps/16/text"	"Купить ""транспонирование"" (150 нолоо)"	"Quest Deadoralive.qmm: jumps.16.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""транспанаваньне"" (150 нолоо)"
 "/quests/Deadoralive.qmm/jumps/16/description"	"""Транспонирование"" было тёмным порошком, плотно спрессованным в палочку и завёрнутым в папиросную бумагу.
 
 Вы спрятали его в карман и попрощались с пеленгом, направляясь в отель."	"Quest Deadoralive.qmm: jumps.16.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/17/text"	"Купить ""абстрагирование"" (250 нолоо)"	"Quest Deadoralive.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/17/text"	"Купить ""абстрагирование"" (250 нолоо)"	"Quest Deadoralive.qmm: jumps.17.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""абстрагаваньне"" (250 нолоо)"
 "/quests/Deadoralive.qmm/jumps/17/description"	"""Абстрагирование"" оказалось пилюлей в желатиновой оболочке. Внутри можно было разглядеть таинственные гранулы.
 
 Вы спрятали наркотик в карман и попрощались с пеленгом, отправляясь в отель."	"Quest Deadoralive.qmm: jumps.17.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/18/text"	"Купить ""экстраполяцию"" (350 нолоо)"	"Quest Deadoralive.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/18/text"	"Купить ""экстраполяцию"" (350 нолоо)"	"Quest Deadoralive.qmm: jumps.18.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""экстрапаляцыю"" (350 нолоо)"
 "/quests/Deadoralive.qmm/jumps/18/description"	"""Экстраполяция"" представляла из себя желтоватую жидкость в стеклянной ампуле. Пеленг бережно и с благоговением передал её вам, сообщив, что для действия достаточно контакта с любой слизистой оболочкой, но и глотать препарат не возбраняется.
 
 - Сам ещё не пробовал и толком не знаю, что это такое, - признался он. - Говорят, штука кратковременная, но мощнейшая.
 
 Вы спрятали ампулу в карман и попрощались с пеленгом, направляясь в отель."	"Quest Deadoralive.qmm: jumps.18.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/19/text"	"Пока ничего не покупать"	"Quest Deadoralive.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/20/text"	"Напасть на него"	"Quest Deadoralive.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/19/text"	"Пока ничего не покупать"	"Quest Deadoralive.qmm: jumps.19.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакуль нічога не купляць"
+"/quests/Deadoralive.qmm/jumps/20/text"	"Напасть на него"	"Quest Deadoralive.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Напасьці на яго"
 "/quests/Deadoralive.qmm/jumps/20/description"	"Зафиксировав тяжёлый взгляд на гаальце, вы с рыком взяли на него разгон. Вы успели заметить удивление на его лице, а спустя мгновение он бросился наутёк. Или даже дал стрекача.
 
 Когда вам показалось, что вы настигаете его, он перешёл к удиранию, а затем и драпанью. Чувствуя приближение усталости, вы всё-таки постарались ещё немного ускориться, но гаалец начал уже откровенно рвать когти. В конце-концов ему удалось смотать удочки, а вы отправились в отель выжатый, как лимон."	"Quest Deadoralive.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/21/text"	"Попытаться сбросить хвост"	"Quest Deadoralive.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/21/text"	"Попытаться сбросить хвост"	"Quest Deadoralive.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць скінуць хвост"
 "/quests/Deadoralive.qmm/jumps/21/description"	"Вы совершенно не знали город, но опыт в сбрасывании хвоста у вас имелся солидный. Через час загадочный гаалец исчез - либо потерял вас из виду, либо просто устал петлять по закоулкам и махнул на это рукой. Вы спокойно отправились в отель."	"Quest Deadoralive.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/22/text"	"Незаметно наблюдать за ним в ответ"	"Quest Deadoralive.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/22/text"	"Незаметно наблюдать за ним в ответ"	"Quest Deadoralive.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Незаўважна сачыць за ім у адказ"
 "/quests/Deadoralive.qmm/jumps/22/description"	"Пусть думает, что следит за вами, а вы в то же время будете следить за ним! Блестяще.
 
 Вы неспешно прогуливались по городу, иногда останавливаясь поглазеть на что-нибудь или посидеть на скамеечке. Периодически гаалец с кем-то связывался по переговорному устройству - скорее всего, кратко отчитывался. Он был высоким, физически развитым и имел что-то похожее на шрам сбоку на шее. Вы хорошо запомнили его внешность и поведение на будущее - вдруг встретитесь снова.
 
 Затем вы решили больше не тянуть резину и отправились в отель."	"Quest Deadoralive.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/23/text"	"Расщедриться на 200 нооло"	"Quest Deadoralive.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/23/text"	"Расщедриться на 200 нооло"	"Quest Deadoralive.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расшчадрыцца на 200 нолоо"
 "/quests/Deadoralive.qmm/jumps/23/description"	"От щедрых чаевых портье пришёл в полный восторг и пообещал всегда быть рядом с вашим номером, на случай, если вам что-то понадобится. Вначале вы пожалели о подобной расточительности, но затем обдумали всё и пришли к выводу, что он может оказаться полезным. Кто знает?"	"Quest Deadoralive.qmm: jumps.23.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/24/text"	"Не давать"	"Quest Deadoralive.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/25/text"	"И вы хотите, чтобы я освободил его из тюрьмы легально, через суд?"	"Quest Deadoralive.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/26/text"	"И я должен устранить Рокторнака?"	"Quest Deadoralive.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/27/text"	"И мне надо вызволить его штурмом?"	"Quest Deadoralive.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/29/text"	"Мне потребуются деньги и снаряжение"	"Quest Deadoralive.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/30/text"	"За мной велась слежка"	"Quest Deadoralive.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/31/text"	"Сам не знаю, просто чувствую, что следят, и всё тут!"	"Quest Deadoralive.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/32/text"	"Какой-то гаалец, я толком его не разглядел"	"Quest Deadoralive.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/33/text"	"Высокий крепкий гаалец со шрамом сбоку на шее"	"Quest Deadoralive.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/35/text"	"Это вы оставили мне тысячу нолоо в космопорту?"	"Quest Deadoralive.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/36/text"	"Думаю, что теперь всё предельно ясно, я готов приступать"	"Quest Deadoralive.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/24/text"	"Не давать"	"Quest Deadoralive.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Не даваць"
+"/quests/Deadoralive.qmm/jumps/25/text"	"И вы хотите, чтобы я освободил его из тюрьмы легально, через суд?"	"Quest Deadoralive.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"І вы хочаце, каб я вызваліў яго з турмы легальна, праз суд?"
+"/quests/Deadoralive.qmm/jumps/26/text"	"И я должен устранить Рокторнака?"	"Quest Deadoralive.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"І я мушу зьнішчыць Рокторнака?"
+"/quests/Deadoralive.qmm/jumps/27/text"	"И мне надо вызволить его штурмом?"	"Quest Deadoralive.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"І мне трэба вызваліць яго штурмам?"
+"/quests/Deadoralive.qmm/jumps/29/text"	"Мне потребуются деньги и снаряжение"	"Quest Deadoralive.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Мне спатрэбяцца грошы і рыштунак"
+"/quests/Deadoralive.qmm/jumps/30/text"	"За мной велась слежка"	"Quest Deadoralive.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"За мной вялося сачэньне"
+"/quests/Deadoralive.qmm/jumps/31/text"	"Сам не знаю, просто чувствую, что следят, и всё тут!"	"Quest Deadoralive.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Сам ня ведаю, проста адчуваю, што сочаць, і ўсё тут!"
+"/quests/Deadoralive.qmm/jumps/32/text"	"Какой-то гаалец, я толком его не разглядел"	"Quest Deadoralive.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Нейкі гаалец, я толкам яго не разгледзеў"
+"/quests/Deadoralive.qmm/jumps/33/text"	"Высокий крепкий гаалец со шрамом сбоку на шее"	"Quest Deadoralive.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Высокі дужы гаалец са шнарам збоку на шыі"
+"/quests/Deadoralive.qmm/jumps/35/text"	"Это вы оставили мне тысячу нолоо в космопорту?"	"Quest Deadoralive.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Гэта вы пакінулі мне тысячу нолоо ў касмапорце?"
+"/quests/Deadoralive.qmm/jumps/36/text"	"Думаю, что теперь всё предельно ясно, я готов приступать"	"Quest Deadoralive.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Думаю, што цяпер усё цалкам ясна, я гатовы пачынаць"
 "/quests/Deadoralive.qmm/jumps/36/description"	"- Вот и прекрасно, - кивнул Хаар-На. - У вас есть вся необходимая информация, и вы вольны выбирать любой удобный образ действий. Нас волнует лишь конечный результат - Рокторнак не должен остаться в их лапах.
 
 - Каковы сроки? - спросили вы.
@@ -1333,47 +1333,47 @@
 - и универсальная отмычка, выполненная в форм-факторе складного ножа!
 
 По крайней мере, будет, на что нанять адвоката. Потому что вы отчётливо поняли, что с имеющимися данными сами защитником выступить не сможете."	"Quest Deadoralive.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/37/text"	"Где сейчас Рокторнак?"	"Quest Deadoralive.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/38/text"	"Поработать за компьютером"	"Quest Deadoralive.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/39/text"	"Покинуть отель"	"Quest Deadoralive.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/40/text"	"Вернуться в отель"	"Quest Deadoralive.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/41/text"	"Принять наркотик"	"Quest Deadoralive.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/42/text"	"Заняться чем-нибудь другим"	"Quest Deadoralive.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/44/text"	"Изучить досье Рокторнака"	"Quest Deadoralive.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/47/text"	"Поискать адвоката"	"Quest Deadoralive.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/48/text"	"Попробовать заработать немного нолоо"	"Quest Deadoralive.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/50/text"	"Пока никого не нанимать"	"Quest Deadoralive.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/51/text"	"Отдохнуть пару часов"	"Quest Deadoralive.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/37/text"	"Где сейчас Рокторнак?"	"Quest Deadoralive.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дзе зараз Рокторнак?"
+"/quests/Deadoralive.qmm/jumps/38/text"	"Поработать за компьютером"	"Quest Deadoralive.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Папрацаваць за кампутарам"
+"/quests/Deadoralive.qmm/jumps/39/text"	"Покинуть отель"	"Quest Deadoralive.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць гатэль"
+"/quests/Deadoralive.qmm/jumps/40/text"	"Вернуться в отель"	"Quest Deadoralive.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца ў гатэль"
+"/quests/Deadoralive.qmm/jumps/41/text"	"Принять наркотик"	"Quest Deadoralive.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прыняць наркотык"
+"/quests/Deadoralive.qmm/jumps/42/text"	"Заняться чем-нибудь другим"	"Quest Deadoralive.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Заняцца чым-небудзь іншым"
+"/quests/Deadoralive.qmm/jumps/44/text"	"Изучить досье Рокторнака"	"Quest Deadoralive.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вывучыць дасье Рокторнака"
+"/quests/Deadoralive.qmm/jumps/47/text"	"Поискать адвоката"	"Quest Deadoralive.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць адваката"
+"/quests/Deadoralive.qmm/jumps/48/text"	"Попробовать заработать немного нолоо"	"Quest Deadoralive.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць зарабіць трохі нолоо"
+"/quests/Deadoralive.qmm/jumps/50/text"	"Пока никого не нанимать"	"Quest Deadoralive.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакуль нікога не наймаць"
+"/quests/Deadoralive.qmm/jumps/51/text"	"Отдохнуть пару часов"	"Quest Deadoralive.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адпачыць пару гадзінаў"
 "/quests/Deadoralive.qmm/jumps/51/description"	"Вы коротаете время за пасьянсами на экране компьютера и смотрите видеоролики с котами, ощущая, как ваша жизнь проходит зря. Может быть, пора заняться чем-то полезным, наконец?"	"Quest Deadoralive.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/52/text"	"Поиграть на местном рынке акций с помощью карточки ""Шиза Голд"""	"Quest Deadoralive.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/53/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/54/text"	"Пойти в супермаркет"	"Quest Deadoralive.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/55/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/56/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/57/text"	"1000 нолоо"	"Quest Deadoralive.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/58/text"	"200 нолоо"	"Quest Deadoralive.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/59/text"	"500 нолоо"	"Quest Deadoralive.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/60/text"	"Отложить биржевые махинации на потом"	"Quest Deadoralive.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/61/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/62/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/63/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/64/text"	"Поискать банкомат"	"Quest Deadoralive.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/65/text"	"Снять 250 нолоо"	"Quest Deadoralive.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/66/text"	"Оставить банкомат"	"Quest Deadoralive.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/67/text"	"Положить на счёт 250 нолоо"	"Quest Deadoralive.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/68/text"	"Оставить зарабатывание денег до худших времён"	"Quest Deadoralive.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/69/text"	"Поискать банкомат"	"Quest Deadoralive.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/70/text"	"Снять 250 нолоо"	"Quest Deadoralive.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/71/text"	"Оставить банкомат"	"Quest Deadoralive.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/72/text"	"Положить на счёт 250 нолоо"	"Quest Deadoralive.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/73/text"	"Зайти в бар ""Тессерактовый Корень"""	"Quest Deadoralive.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/74/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/75/text"	"Прогуляться по городу"	"Quest Deadoralive.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/76/text"	"Направиться к тюрьме"	"Quest Deadoralive.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/77/text"	"Направиться к зданию суда"	"Quest Deadoralive.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/78/text"	"Вернуться к отелю"	"Quest Deadoralive.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/79/text"	"Вернуться к отелю"	"Quest Deadoralive.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/81/text"	"Отважиться на дегустацию местного янвелба (150 нолоо)"	"Quest Deadoralive.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/52/text"	"Поиграть на местном рынке акций с помощью карточки ""Шиза Голд"""	"Quest Deadoralive.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пагуляць на мясцовым рынку акцыяў з дапамогай карткі ""Шыза Голд"""
+"/quests/Deadoralive.qmm/jumps/53/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Узяць крэдыт"
+"/quests/Deadoralive.qmm/jumps/54/text"	"Пойти в супермаркет"	"Quest Deadoralive.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці ў супэрмаркет"
+"/quests/Deadoralive.qmm/jumps/55/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца на вуліцу"
+"/quests/Deadoralive.qmm/jumps/56/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца на вуліцу"
+"/quests/Deadoralive.qmm/jumps/57/text"	"1000 нолоо"	"Quest Deadoralive.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"1000 нолоо"
+"/quests/Deadoralive.qmm/jumps/58/text"	"200 нолоо"	"Quest Deadoralive.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"200 нолоо"
+"/quests/Deadoralive.qmm/jumps/59/text"	"500 нолоо"	"Quest Deadoralive.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"500 нолоо"
+"/quests/Deadoralive.qmm/jumps/60/text"	"Отложить биржевые махинации на потом"	"Quest Deadoralive.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адкласьці біржавыя махінацыі на потым"
+"/quests/Deadoralive.qmm/jumps/61/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Узяць крэдыт"
+"/quests/Deadoralive.qmm/jumps/62/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Узяць крэдыт"
+"/quests/Deadoralive.qmm/jumps/63/text"	"Взять кредит"	"Quest Deadoralive.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Узяць крэдыт"
+"/quests/Deadoralive.qmm/jumps/64/text"	"Поискать банкомат"	"Quest Deadoralive.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць банкамат"
+"/quests/Deadoralive.qmm/jumps/65/text"	"Снять 250 нолоо"	"Quest Deadoralive.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зьняць 250 нолоо"
+"/quests/Deadoralive.qmm/jumps/66/text"	"Оставить банкомат"	"Quest Deadoralive.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць банкамат"
+"/quests/Deadoralive.qmm/jumps/67/text"	"Положить на счёт 250 нолоо"	"Quest Deadoralive.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакласьці на рахунак 250 нолоо"
+"/quests/Deadoralive.qmm/jumps/68/text"	"Оставить зарабатывание денег до худших времён"	"Quest Deadoralive.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць спробы зарабіць да горшых часоў"
+"/quests/Deadoralive.qmm/jumps/69/text"	"Поискать банкомат"	"Quest Deadoralive.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць банкамат"
+"/quests/Deadoralive.qmm/jumps/70/text"	"Снять 250 нолоо"	"Quest Deadoralive.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зьняць 250 нолоо"
+"/quests/Deadoralive.qmm/jumps/71/text"	"Оставить банкомат"	"Quest Deadoralive.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць банкамат"
+"/quests/Deadoralive.qmm/jumps/72/text"	"Положить на счёт 250 нолоо"	"Quest Deadoralive.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакласьці на рахунак 250 нолоо"
+"/quests/Deadoralive.qmm/jumps/73/text"	"Зайти в бар ""Тессерактовый Корень"""	"Quest Deadoralive.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зайсьці ў бар ""Тэссэрактавы Корань"""
+"/quests/Deadoralive.qmm/jumps/74/text"	"Вернуться на улицу"	"Quest Deadoralive.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца на вуліцу"
+"/quests/Deadoralive.qmm/jumps/75/text"	"Прогуляться по городу"	"Quest Deadoralive.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пагуляць па горадзе"
+"/quests/Deadoralive.qmm/jumps/76/text"	"Направиться к тюрьме"	"Quest Deadoralive.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Накіравацца да турмы"
+"/quests/Deadoralive.qmm/jumps/77/text"	"Направиться к зданию суда"	"Quest Deadoralive.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Накіравацца да будынка суду"
+"/quests/Deadoralive.qmm/jumps/78/text"	"Вернуться к отелю"	"Quest Deadoralive.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца да гатэлю"
+"/quests/Deadoralive.qmm/jumps/79/text"	"Вернуться к отелю"	"Quest Deadoralive.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца да гатэлю"
+"/quests/Deadoralive.qmm/jumps/81/text"	"Отважиться на дегустацию местного янвелба (150 нолоо)"	"Quest Deadoralive.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адважыцца пакаштаваць мясцовы янвэлб (150 нолоо)"
 "/quests/Deadoralive.qmm/jumps/81/description"	"Вы откровенно не понимали, зачем в очередной раз взялись пить эту мерзкую жижицу, да ещё и так дорого. Возможно, такие же ощущения преследовали всех, кто когда-либо пил янвелб. Он лениво проваливается по пищеводу в сжавшийся от ужаса желудок, а в голове пульсирует один только вопрос - ЗАЧЕМ?
 
 Неведомая сила скрутила ваше тело судорогой. Вы закашлялись и обрушились с барного стула на пол, непроизвольно опрокинув один из пустых столиков.
@@ -1381,178 +1381,178 @@
 - ВАШЕ БЛАГОПОЛУЧИЕ ПОД УГРОЗОЙ, - прогудел робот-бармен, заметив выступившие на ваших глазах слёзы. - АКТИВИРУЮ КОМПЕНСАТОРНЫЕ АЛГОРИТМЫ.
 
 Манипулятор бармена протянул вам бутылочку с какой-то жидкостью внутри. Судя по всему, это было слабительное. Вы с благодарностью приняли её, но решили превозмочь невзгоду самостоятельно. И действительно, через час вы снова обрели полный контроль над своим телом и духом."	"Quest Deadoralive.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/83/text"	"Подойти к таинственному пеленгу в углу"	"Quest Deadoralive.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/84/text"	"Купить ""транспонирование"" (150 нолоо)"	"Quest Deadoralive.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/85/text"	"Купить ""абстрагирование"" (250 нолоо)"	"Quest Deadoralive.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/86/text"	"Купить ""экстраполяцию"" (350 нолоо)"	"Quest Deadoralive.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/87/text"	"Пока ничего не покупать"	"Quest Deadoralive.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/88/text"	"Прогуляться по городу"	"Quest Deadoralive.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/89/text"	"А ну-ка выкладывай всё начистоту!"	"Quest Deadoralive.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/90/text"	"Вернуться в номер"	"Quest Deadoralive.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/91/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/92/text"	"Попрощаться"	"Quest Deadoralive.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/93/text"	"Купить флакончик со спиртом (400 нолоо)"	"Quest Deadoralive.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/94/text"	"Расплатиться наличными"	"Quest Deadoralive.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/95/text"	"Расплатиться карточкой"	"Quest Deadoralive.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/96/text"	"Поискать интересных вещей в сети"	"Quest Deadoralive.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/83/text"	"Подойти к таинственному пеленгу в углу"	"Quest Deadoralive.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падысьці да таямнічага пеленга ў куце"
+"/quests/Deadoralive.qmm/jumps/84/text"	"Купить ""транспонирование"" (150 нолоо)"	"Quest Deadoralive.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""транспанаваньне"" (150 нолоо)"
+"/quests/Deadoralive.qmm/jumps/85/text"	"Купить ""абстрагирование"" (250 нолоо)"	"Quest Deadoralive.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""абстрагаваньне"" (250 нолоо)"
+"/quests/Deadoralive.qmm/jumps/86/text"	"Купить ""экстраполяцию"" (350 нолоо)"	"Quest Deadoralive.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць ""экстрапаляцыю"" (350 нолоо)"
+"/quests/Deadoralive.qmm/jumps/87/text"	"Пока ничего не покупать"	"Quest Deadoralive.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакуль нічога не купляць"
+"/quests/Deadoralive.qmm/jumps/88/text"	"Прогуляться по городу"	"Quest Deadoralive.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пагуляць па горадзе"
+"/quests/Deadoralive.qmm/jumps/89/text"	"А ну-ка выкладывай всё начистоту!"	"Quest Deadoralive.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ану, выкладай усё начыста!"
+"/quests/Deadoralive.qmm/jumps/90/text"	"Вернуться в номер"	"Quest Deadoralive.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца ў нумар"
+"/quests/Deadoralive.qmm/jumps/91/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падсесьці да сумнага фэяніна з татуяваньнем на руцэ"
+"/quests/Deadoralive.qmm/jumps/92/text"	"Попрощаться"	"Quest Deadoralive.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Разьвітацца"
+"/quests/Deadoralive.qmm/jumps/93/text"	"Купить флакончик со спиртом (400 нолоо)"	"Quest Deadoralive.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць флякончык са сьпіртам (400 нолоо)"
+"/quests/Deadoralive.qmm/jumps/94/text"	"Расплатиться наличными"	"Quest Deadoralive.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расплаціцца наяўнымі"
+"/quests/Deadoralive.qmm/jumps/95/text"	"Расплатиться карточкой"	"Quest Deadoralive.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расплаціцца карткай"
+"/quests/Deadoralive.qmm/jumps/96/text"	"Поискать интересных вещей в сети"	"Quest Deadoralive.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць цікавых рэчаў у сетцы"
 "/quests/Deadoralive.qmm/jumps/96/description"	"Вы наткнулись на сайт местного общества любителей рыбалки, 10% которого было отведено ловле мертиний, а 90% - статьям об алкогольных напитках.
 
 Вам запомнился рецепт коктейля ""Зона-52"", или, сокращённо, ""З-52"". Для него требовалась вода, спирт, почему-то капля слабительного и пара часов сосредоточенного перемешивания. При этом пользователь-фэянин, рассказавший про этот рецепт, хитро подмигнул смайликом и намекнул, что вода нужна особенная ""с душой Нолоо"". Иначе ничего не выйдет. Другие фэяне в комментариях тоже подмигивали изо всех сил. Кажется, у них этот напиток особенно котировался."	"Quest Deadoralive.qmm: jumps.96.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/98/text"	"Приготовить коктейль ""З-52"""	"Quest Deadoralive.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/98/text"	"Приготовить коктейль ""З-52"""	"Quest Deadoralive.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прыгатаваць кактэйль ""З-52"""
 "/quests/Deadoralive.qmm/jumps/98/description"	"Вы смешали все ингредиенты коктейля в точности так, как описывалось в инструкции, и наполнили этой жидкостью бутылочку из-под спирта. Под рукой была только обыкновенная чистая вода из-под крана, так что воспользоваться пришлось ею. Интересно, есть ли в централизованном водоснабжении душа Нолоо?"	"Quest Deadoralive.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/99/text"	"Добавить к коктейлю ""З-52"" дождевой воды"	"Quest Deadoralive.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/99/text"	"Добавить к коктейлю ""З-52"" дождевой воды"	"Quest Deadoralive.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць да кактэйлю ""З-52"" дажджавой вады"
 "/quests/Deadoralive.qmm/jumps/99/description"	"Вас осенило: должно быть, ""вода с душой Нолоо"" - это та, что льётся с неба и медленно разъедает вашу кожу! Вы беззастенчиво подставили бутылочку под водосток, порядком разъеденный за годы. Всё равно вы не собирались это пить."	"Quest Deadoralive.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/100/text"	"Нанять дешёвого адвоката (500 нолоо)"	"Quest Deadoralive.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/101/text"	"Нанять дорогого адвоката (5000 нолоо)"	"Quest Deadoralive.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/104/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/106/text"	"Заложить взрывчатку на пути следования"	"Quest Deadoralive.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/100/text"	"Нанять дешёвого адвоката (500 нолоо)"	"Quest Deadoralive.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Наняць таннага адваката (500 нолоо)"
+"/quests/Deadoralive.qmm/jumps/101/text"	"Нанять дорогого адвоката (5000 нолоо)"	"Quest Deadoralive.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Наняць дарагога адваката (5000 нолоо)"
+"/quests/Deadoralive.qmm/jumps/104/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падсесьці да сумнага фэяніна з татуяваньнем на руцэ"
+"/quests/Deadoralive.qmm/jumps/106/text"	"Заложить взрывчатку на пути следования"	"Quest Deadoralive.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Закласьці выбухоўку на шляху руху"
 "/quests/Deadoralive.qmm/jumps/106/description"	"Проследив будущий путь тюремного фургона, вы вычислили место в глухом переулке, где взрыв причинит минимум незапланированного вреда. Машины здесь практически не ездили, и дорога была порядком изношена, не пользуясь вниманием властей.
 
 Оглядевшись, вы сосредоточенно вмазали взрывчатое вещество в дорожную трещину и пристроили в глубине детонатор. Чистая работа."	"Quest Deadoralive.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/107/text"	"Вылить канистру клея на дорогу"	"Quest Deadoralive.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/107/text"	"Вылить канистру клея на дорогу"	"Quest Deadoralive.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выліць каністру клею на дарогу"
 "/quests/Deadoralive.qmm/jumps/107/description"	"Идея, конечно, безумная, но что ещё делать с канистрой клея? Вы вычислили место в глухом переулке на пути следования тюремного фургона. Машины здесь практически не ездили, а дорога была порядком изношена, не пользуясь вниманием властей.
 
 Разумеется, вы всерьёз не мечтали, что фургон прилипнет к асфальту. Просто завязнет и затормозится. Хорошо, что клей долгосохнущий - он как раз приобретёт необходимую вязкость.
 
 За этими мыслями вы не заметили, как чуть не увязли сами."	"Quest Deadoralive.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/108/text"	"Купить канистру суперклея (600 нолоо)"	"Quest Deadoralive.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/109/text"	"Расплатиться наличными"	"Quest Deadoralive.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/110/text"	"Расплатиться карточкой"	"Quest Deadoralive.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/112/text"	"Нанять их для операции по освобождению Рокторнака (3000 нолоо)"	"Quest Deadoralive.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/113/text"	"Предложить им наркотики... да подороже"	"Quest Deadoralive.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/114/text"	"Ретироваться"	"Quest Deadoralive.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/108/text"	"Купить канистру суперклея (600 нолоо)"	"Quest Deadoralive.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Купіць каністру клею, які доўга сохне (600 нолоо)"
+"/quests/Deadoralive.qmm/jumps/109/text"	"Расплатиться наличными"	"Quest Deadoralive.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расплаціцца наяўнымі"
+"/quests/Deadoralive.qmm/jumps/110/text"	"Расплатиться карточкой"	"Quest Deadoralive.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расплаціцца карткай"
+"/quests/Deadoralive.qmm/jumps/112/text"	"Нанять их для операции по освобождению Рокторнака (3000 нолоо)"	"Quest Deadoralive.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Наняць іх для апэрацыі па вызваленьні Рокторнака (3000 нолоо)"
+"/quests/Deadoralive.qmm/jumps/113/text"	"Предложить им наркотики... да подороже"	"Quest Deadoralive.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць ім наркотыкі... ды даражэй"
+"/quests/Deadoralive.qmm/jumps/114/text"	"Ретироваться"	"Quest Deadoralive.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даць драла"
 "/quests/Deadoralive.qmm/jumps/114/description"	"- Я так, просто гуляю, - сообщили вы и быстрым шагом вприпрыжку направились в отель.
 
 - И чтоб мы тебя тут больше не видели! - вежливо попрощались бандиты.
 
 Действительно, больше вам лучше с ними не встречаться и вообще по городу зря не гулять, храбро подумали вы."	"Quest Deadoralive.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/115/text"	"Продать слабительное"	"Quest Deadoralive.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/115/text"	"Продать слабительное"	"Quest Deadoralive.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць слабіцельнае"
 "/quests/Deadoralive.qmm/jumps/115/description"	"- Вот это, короче, - вы наморщили лоб, - релаксант. Да. Это когда очень напряжён, когда не выходит что-то... в общем, принимаешь, и сразу облегчение.
 
 - Знаем такое, давай сюда, - кивнул пеленг.
 
 Вы не знали, о чём он подумал, но шелест пачки банкнот заглушил ваши мысли. Хорошо, что когда они поймут что к чему, вы уже будете далеко. Ведь будете же?"	"Quest Deadoralive.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/116/text"	"Продать настоящий наркотик"	"Quest Deadoralive.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/116/text"	"Продать настоящий наркотик"	"Quest Deadoralive.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць сапраўдны наркотык"
 "/quests/Deadoralive.qmm/jumps/116/description"	"- Про абстрагирование слыхал когда-нибудь? А про экстраполяцию? А про транспонирование? - вы гордо ухмыльнулись. - Так вот это из той самой оперы.
 
 - Ух тыыы, - восхищённо протянул пеленг. - Элитная вещь! Нас в такие места отродясь не пускали, где она водится."	"Quest Deadoralive.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/117/text"	"Продать сыворотку правды"	"Quest Deadoralive.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/117/text"	"Продать сыворотку правды"	"Quest Deadoralive.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць сыроватку праўды"
 "/quests/Deadoralive.qmm/jumps/117/description"	"- О, чувак, вот это, я тебе скажу, вещь! - воскликнули вы. - Замедляет время закрытия ГАМК-зависимых каналов на постсинаптической мембране нейронов головного мозга. Как тебе?
 
 - БЕРУ, - мигом отреагировал пеленг, пока вы думали, откуда внезапно в глубинах вашей памяти всплыли эти странные слова."	"Quest Deadoralive.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/118/text"	"Приказать атаковать тюремный фургон во время поездки в суд"	"Quest Deadoralive.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/118/text"	"Приказать атаковать тюремный фургон во время поездки в суд"	"Quest Deadoralive.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Загадаць атакаваць турэмны фургон падчас паездкі ў суд"
 "/quests/Deadoralive.qmm/jumps/118/description"	"Вы разъяснили детали оформляющегося в вашей голове плана. Представители банды покивали по очереди.
 
 Всё произойдёт в глухом переулке, через который лежит путь фургона. Сам фургон надо как-то остановить, но тут они бессильны - говорят, бронированы машины неплохо. Это ложится на ваши плечи, а они обеспечат огневое прикрытие и безопасный побег. Если вы не сможете остановить фургон - они не атакуют."	"Quest Deadoralive.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/119/text"	"Приказать атаковать здание суда во время процесса"	"Quest Deadoralive.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/119/text"	"Приказать атаковать здание суда во время процесса"	"Quest Deadoralive.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Загадаць атакаваць будынак суду падчас працэсу"
 "/quests/Deadoralive.qmm/jumps/119/description"	"Вы разъяснили детали оформляющегося в вашей голове плана. Представители банды покивали по очереди.
 
 Во время судебного процесса они ворвутся в здание суда и учинят бесчинства, прикрывая ваше с Рокторнаком отступление. Превосходно."	"Quest Deadoralive.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/120/text"	"Продать снотворное"	"Quest Deadoralive.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/120/text"	"Продать снотворное"	"Quest Deadoralive.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць снатворнае"
 "/quests/Deadoralive.qmm/jumps/120/description"	"- Это, в общем, такой транквилизатор мягкий, - нашлись вы. - Отходняка никакого, действует ровно, мягко.
 
 Пеленг посомневался секунду, но переглянулся со своими подопечными, и решил таки взять."	"Quest Deadoralive.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/121/text"	"Закругляться с наркоторговлей"	"Quest Deadoralive.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/121/text"	"Закругляться с наркоторговлей"	"Quest Deadoralive.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Завяршаць гандаль наркотыкамі"
 "/quests/Deadoralive.qmm/jumps/121/description"	"- У меня пока всё, пацаны! - жизнерадостно объявили вы и дополнили лицемерие ложью: - Потом ещё свидимся, вообще чумовой дури припру.
 
 - Ну бывай, - попрощались бандиты.
 
 Быстрым шагом уходя из подворотни, вы поклялись больше никогда не гулять ночью. Даже по кораблю. И, наверное, ближайшее время будете спать при свете."	"Quest Deadoralive.qmm: jumps.121.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/123/text"	"Продать настоящий наркотик"	"Quest Deadoralive.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/123/text"	"Продать настоящий наркотик"	"Quest Deadoralive.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць сапраўдны наркотык"
 "/quests/Deadoralive.qmm/jumps/123/description"	"- Про абстрагирование слыхал когда-нибудь? А про экстраполяцию? А про транспонирование? - вы гордо ухмыльнулись. - Так вот это из той самой оперы.
 
 - Ух тыыы, - восхищённо протянул пеленг. - Элитная вещь! Нас в такие места отродясь не пускали, где она водится."	"Quest Deadoralive.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/124/text"	"Продать слабительное"	"Quest Deadoralive.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/124/text"	"Продать слабительное"	"Quest Deadoralive.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць слабіцельнае"
 "/quests/Deadoralive.qmm/jumps/124/description"	"- Вот это, короче, - вы наморщили лоб, - релаксант. Да. Это когда очень напряжён, когда не выходит что-то... в общем, принимаешь, и сразу облегчение.
 
 - Знаем такое, давай сюда, - кивнул пеленг.
 
 Вы не знали, о чём он подумал, но шелест пачки банкнот заглушил ваши мысли. Хорошо, что когда они поймут что к чему, вы уже будете далеко. Ведь будете же?"	"Quest Deadoralive.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/125/text"	"Продать сыворотку правды"	"Quest Deadoralive.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/125/text"	"Продать сыворотку правды"	"Quest Deadoralive.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць сыроватку праўды"
 "/quests/Deadoralive.qmm/jumps/125/description"	"- О, чувак, вот это, я тебе скажу, вещь! - воскликнули вы. - Замедляет время закрытия ГАМК-зависимых каналов на постсинаптической мембране нейронов головного мозга. Как тебе?
 
 - БЕРУ, - мигом отреагировал пеленг, пока вы думали, откуда внезапно в глубинах вашей памяти всплыли эти странные слова."	"Quest Deadoralive.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/126/text"	"Продать снотворное"	"Quest Deadoralive.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/126/text"	"Продать снотворное"	"Quest Deadoralive.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць снатворнае"
 "/quests/Deadoralive.qmm/jumps/126/description"	"- Это, в общем, такой транквилизатор мягкий, - нашлись вы. - Отходняка никакого, действует ровно, мягко.
 
 Пеленг посомневался секунду, но переглянулся со своими подопечными, и решил таки взять."	"Quest Deadoralive.qmm: jumps.126.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/127/text"	"Вернуться в отель"	"Quest Deadoralive.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/128/text"	"Только штурм, только хардкор! Я атакую тюремный фургон"	"Quest Deadoralive.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/129/text"	"Я законопослушно отправлюсь в суд, а там уже буду действовать по ситуации"	"Quest Deadoralive.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/130/text"	"Печально отправляться к кораблю"	"Quest Deadoralive.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/131/text"	"Выжидать, пока действует адвокат"	"Quest Deadoralive.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/132/text"	"Проверить электронную почту"	"Quest Deadoralive.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/134/text"	"Подорвать взрывчатку, как только фургон наедет на неё"	"Quest Deadoralive.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/135/text"	"Выжидать"	"Quest Deadoralive.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/136/text"	"Выжидать"	"Quest Deadoralive.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/137/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/138/text"	"Продать бластер"	"Quest Deadoralive.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/127/text"	"Вернуться в отель"	"Quest Deadoralive.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вярнуцца ў гатэль"
+"/quests/Deadoralive.qmm/jumps/128/text"	"Только штурм, только хардкор! Я атакую тюремный фургон"	"Quest Deadoralive.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Толькі штурм, толькі хардкор! Я атакую турэмны фургон"
+"/quests/Deadoralive.qmm/jumps/129/text"	"Я законопослушно отправлюсь в суд, а там уже буду действовать по ситуации"	"Quest Deadoralive.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Я законапаслухмяна адпраўлюся ў суд, а там ужо буду дзейнічаць па сытуацыі"
+"/quests/Deadoralive.qmm/jumps/130/text"	"Печально отправляться к кораблю"	"Quest Deadoralive.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Сумна адпраўляцца да карабля"
+"/quests/Deadoralive.qmm/jumps/131/text"	"Выжидать, пока действует адвокат"	"Quest Deadoralive.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вычакаць, пакуль дзее адвакат"
+"/quests/Deadoralive.qmm/jumps/132/text"	"Проверить электронную почту"	"Quest Deadoralive.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Праверыць электронную пошту"
+"/quests/Deadoralive.qmm/jumps/134/text"	"Подорвать взрывчатку, как только фургон наедет на неё"	"Quest Deadoralive.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падарваць выбухоўку, як толькі фургон наедзе на яе"
+"/quests/Deadoralive.qmm/jumps/135/text"	"Выжидать"	"Quest Deadoralive.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вычакаць"
+"/quests/Deadoralive.qmm/jumps/136/text"	"Выжидать"	"Quest Deadoralive.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вычакаць"
+"/quests/Deadoralive.qmm/jumps/137/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
+"/quests/Deadoralive.qmm/jumps/138/text"	"Продать бластер"	"Quest Deadoralive.qmm: jumps.138.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць блястэр"
 "/quests/Deadoralive.qmm/jumps/138/description"	"- А волына не нужна, часом? - спросили вы, осторожно продемонстрировав казённый бластер. - ""Мухобойка Марк V"", элитная вещь. Три тысячи - и ваша.
 
 - Хорошая, - с завистью сказал пеленг. - Ну что, пацаны, как думаете? Возьму, наверное.
 
 Вы довольно ухмыльнулись, стараясь не думать о последствиях этой сделки для общества и для вас лично."	"Quest Deadoralive.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/139/text"	"Продать бластер"	"Quest Deadoralive.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/139/text"	"Продать бластер"	"Quest Deadoralive.qmm: jumps.139.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прадаць блястэр"
 "/quests/Deadoralive.qmm/jumps/139/description"	"- А волына не нужна, часом? - спросили вы, осторожно продемонстрировав казённый бластер. - ""Мухобойка Марк V"", элитная вещь. Три тысячи - и ваша.
 
 - Хорошая, - с завистью сказал пеленг. - Ну что, пацаны, как думаете? Возьму, наверное.
 
 Вы довольно ухмыльнулись, стараясь не думать о последствиях этой сделки для общества и для вас лично."	"Quest Deadoralive.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/140/text"	"Подождать помощи своих головорезов"	"Quest Deadoralive.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/141/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/142/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/140/text"	"Подождать помощи своих головорезов"	"Quest Deadoralive.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пачакаць дапамогі сваіх галаварэзаў"
+"/quests/Deadoralive.qmm/jumps/141/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
+"/quests/Deadoralive.qmm/jumps/142/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прыкрыць адступленьне дымавой гранатай і змывацца"
 "/quests/Deadoralive.qmm/jumps/142/description"	"Видя бластер в ваших руках, Рокторнак безропотно повиновался. Уходя решительным шагом с места происшествия, вы уронили под ноги дымовую гранату, и вскоре целый квартал заволокло густым, непрозрачным, удушливым дымом.
 
 За пределами облака вас уже ждали - машина с затемнёнными стёклами притормозила прямо перед вами, и задняя дверь призывно открылась. Сквозь слёзы на глазах от едкого дыма вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же отсюда сматываться."	"Quest Deadoralive.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/143/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/143/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
 "/quests/Deadoralive.qmm/jumps/143/description"	"Превосходное решение, демонстрирующее всю мощь должностных инструкций. Инструкции водителя фургона гласили: если из-за мусорных баков выскакивает двуногое существо с оружием, прибавьте газу.
 
 Водитель так и сделал, просто проехав мимо, пока вы пытались поцарапать выстрелами краску на бронированном фургоне."	"Quest Deadoralive.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/144/text"	"Дать фургону проехать мимо"	"Quest Deadoralive.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/144/text"	"Дать фургону проехать мимо"	"Quest Deadoralive.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даць фургону праехаць міма"
 "/quests/Deadoralive.qmm/jumps/144/description"	"Вы проводили фургон печальным взглядом, никак не обнаруживая своего присутствия. Да, надо было готовиться лучше."	"Quest Deadoralive.qmm: jumps.144.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/145/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/145/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
 "/quests/Deadoralive.qmm/jumps/145/description"	"Превосходное решение, демонстрирующее всю мощь должностных инструкций. Инструкции водителя фургона гласили: если из-за мусорных баков выскакивает двуногое существо с оружием, прибавьте газу.
 
 Водитель так и сделал, хотя ваша невероятная транспонентная меткость и позволила вам подстрелить его сквозь приоткрытое боковое стекло. Сидевший рядом конвоир тут же перехватил руль, пригнувшись, и фургон просто проехал мимо. Вы успели сделать пару выстрелов по покрышкам, но те были защищены не хуже корпуса."	"Quest Deadoralive.qmm: jumps.145.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/146/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/146/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прыкрыць адступленьне дымавой гранатай і змывацца"
 "/quests/Deadoralive.qmm/jumps/146/description"	"Видя бластер в ваших руках, Рокторнак безропотно повиновался. Уходя решительным шагом с места происшествия, вы уронили под ноги дымовую гранату, и вскоре целый квартал заволокло густым, непрозрачным, удушливым дымом."	"Quest Deadoralive.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/147/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/147/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
 "/quests/Deadoralive.qmm/jumps/147/description"	"Ваша невероятная транспонентная меткость позволила вам подстрелить водителя сквозь приоткрытое боковое стекло. Но сидевший рядом конвоир тут же перехватил руль, пригнувшись, и фургон в итоге просто проехал мимо, пока вы царапали на нём краску беспорядочной пальбой. Вы также успели сделать пару выстрелов и по покрышкам, но те были защищены не хуже корпуса."	"Quest Deadoralive.qmm: jumps.147.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/148/text"	"Подождать помощи своих головорезов"	"Quest Deadoralive.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/149/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/148/text"	"Подождать помощи своих головорезов"	"Quest Deadoralive.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пачакаць дапамогі сваіх галаварэзаў"
+"/quests/Deadoralive.qmm/jumps/149/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
 "/quests/Deadoralive.qmm/jumps/149/description"	"Единственной брешью в обороне фургона было приоткрытое боковое стекло, но вы никак не могли попасть через него в водителя. А если бы и смогли - толком ничего бы не изменилось, управление перехватил бы другой конвоир.
 
 Фургон высвободился из власти клея и просто проехал мимо."	"Quest Deadoralive.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/150/text"	"Бросить дымовую гранату и подобраться к фургону сзади"	"Quest Deadoralive.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/150/text"	"Бросить дымовую гранату и подобраться к фургону сзади"	"Quest Deadoralive.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Кінуць дымавую гранату і падкрасьціся да фургона ззаду"
 "/quests/Deadoralive.qmm/jumps/150/description"	"Вы зрелищно катнули гранату по асфальту. Подпрыгивая на неровностях, она начала источать облака удушливого густого дыма, застряв в клею где-то у кабины фургона. То, что надо.
 
 Единственная проблема - стоило вам войти в клубы дыма, как вы совершенно потеряли ориентацию. Десяток метров до дверей фургона вслепую, увязая в клейкой массе, оказался непреодолимым препятствием. Если б только ваше восприятие было чуть острее...
 
 Когда дым начал рассеиваться, вы обнаружили, что прошли мимо фургона. Ничего не оставалось, кроме как с позором сматываться."	"Quest Deadoralive.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/151/text"	"Бросить дымовую гранату и подобраться к фургону сзади"	"Quest Deadoralive.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/152/text"	"Сматывать удочки"	"Quest Deadoralive.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/151/text"	"Бросить дымовую гранату и подобраться к фургону сзади"	"Quest Deadoralive.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Кінуць дымавую гранату і падкрасьціся да фургона ззаду"
+"/quests/Deadoralive.qmm/jumps/152/text"	"Сматывать удочки"	"Quest Deadoralive.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зматаць вуды"
 "/quests/Deadoralive.qmm/jumps/152/description"	"За пределами облака вас уже ждали - машина с затемнёнными стёклами притормозила прямо перед вами, и задняя дверь призывно открылась. Сквозь слёзы на глазах от едкого дыма вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же отсюда сматываться."	"Quest Deadoralive.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/153/text"	"Сматывать удочки"	"Quest Deadoralive.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/153/text"	"Сматывать удочки"	"Quest Deadoralive.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зматаць вуды"
 "/quests/Deadoralive.qmm/jumps/153/description"	"Всё по плану! С визгом покрышек в переулок вырулил видавший виды джип ваших ребят. Ваших ребят! Как всё-таки это сладко звучит. Вам следовало бы почаще нанимать отъявленных бандитов для грязных дел.
 
 Ваши ребята высунулись из окон, ощерясь стволами, и буквально изрешетили кабину фургона сквозь дым. Вы решили не говорить им, что уже сделали всю работу."	"Quest Deadoralive.qmm: jumps.153.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/154/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/154/text"	"Прикрыть отступление дымовой гранатой и сваливать"	"Quest Deadoralive.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прыкрыць адступленьне дымавой гранатай і змывацца"
 "/quests/Deadoralive.qmm/jumps/154/description"	"Всё по плану! С визгом покрышек в переулок вырулил видавший виды джип ваших ребят. Ваших ребят! Как всё-таки это сладко звучит. Вам следовало бы почаще нанимать отъявленных бандитов для грязных дел.
 
 Ваши ребята высунулись из окон, ощерясь стволами, и буквально изрешетили кабину фургона сквозь дым. Вы решили не говорить им, что уже сделали всю работу."	"Quest Deadoralive.qmm: jumps.154.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/155/text"	"Это ты послал мне деньги?"	"Quest Deadoralive.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/155/text"	"Это ты послал мне деньги?"	"Quest Deadoralive.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Гэта ты даслаў мне грошы?"
 "/quests/Deadoralive.qmm/jumps/155/description"	"- Разумеется, - ответил гаалец. - Вижу, пригодились.
 
 - Но зачем?
 
 - Во-первых, помочь делу. Так или иначе, ты работал на нас, сам того не ведая. Во-вторых, поселить в тебя здоровое подозрение относительно сути этого дела, напустив лишнего туману. Ты ведь вовсе не дурак, верно?"	"Quest Deadoralive.qmm: jumps.155.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/157/text"	"Зачем ты следил за мной?"	"Quest Deadoralive.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/157/text"	"Зачем ты следил за мной?"	"Quest Deadoralive.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Навошта ты сачыў за мной?"
 "/quests/Deadoralive.qmm/jumps/157/description"	"- А что ещё с тобой делать прикажешь, <Ranger>? - пожал плечами Даасу. - Персона ты здесь новая, вполне возможно, что подставная. Я знал, что тебя попытаются перехватить, вопрос был только в том, когда и где. Самому палиться было нельзя, но ты молодец, что заметил слежку."	"Quest Deadoralive.qmm: jumps.157.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/158/text"	"И что теперь?"	"Quest Deadoralive.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/158/text"	"И что теперь?"	"Quest Deadoralive.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"І што цяпер?"
 "/quests/Deadoralive.qmm/jumps/158/description"	"- Самое интересное, - Даасу позволил себе зловещую улыбку в зеркало заднего вида. - Возвращаетесь в отель вместе с Рокторнаком и делаете вид, что всё по плану. Если бы мы с тобой, <Ranger> пересеклись бы раньше - парни из ""Эгемонии"" бы это заметили, и план бы сорвался. За тобой была установлена слежка. Только сейчас, в суматохе, они её сняли, чтобы не попасть под грядущую облаву.
 
 Машина свернула на знакомую улицу. Отель был всё ближе.
@@ -1560,18 +1560,18 @@
 - Поэтому Хаар-На и Церзаш будут тихонько ждать вас в твоём номере. Ты - наживка. Они нужны мне - живыми или мёртвыми. А ещё больше - нужна информация о тех ниточках, за которые они подёргали, чтобы посадить моего напарника. Имена, суммы. Сможешь добыть сам - обеспечу премию. В любом случае просто придите туда и действуйте по ситуации, а я прикрою.
 
 Вы посмотрели на малока, а тот подмигнул. Что ж, по крайней мере всё встало на свои места. Вы преисполнились уверенности в успехе."	"Quest Deadoralive.qmm: jumps.158.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/159/text"	"Предложить кофе, подмешав в него сыворотку правды"	"Quest Deadoralive.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/160/text"	"Предложить кофе, подмешав в него снотворное"	"Quest Deadoralive.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/161/text"	"Пожелать удачи (неискренне) и откланяться"	"Quest Deadoralive.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/162/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/163/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/164/text"	"Обойтись своими силами"	"Quest Deadoralive.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/165/text"	"Попытаться вмешаться в драку, не имея никаких шансов на успех"	"Quest Deadoralive.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/166/text"	"Только штурм, только хардкор! Я атакую тюремный фургон"	"Quest Deadoralive.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/167/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/168/text"	"Снять 1000 нолоо"	"Quest Deadoralive.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/169/text"	"Положить на счёт 1000 нолоо"	"Quest Deadoralive.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/170/text"	"Вы, ребята, настоящие профессионалы. У вас наверняка тоже есть свои люди в правительственном аппарате?"	"Quest Deadoralive.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/159/text"	"Предложить кофе, подмешав в него сыворотку правды"	"Quest Deadoralive.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць каву, падмяшаўшы ў яе сыроватку праўды"
+"/quests/Deadoralive.qmm/jumps/160/text"	"Предложить кофе, подмешав в него снотворное"	"Quest Deadoralive.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць каву, падмяшаўшы ў яе снатворнае"
+"/quests/Deadoralive.qmm/jumps/161/text"	"Пожелать удачи (неискренне) и откланяться"	"Quest Deadoralive.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пажадаць посьпеху (няшчыра) і адкланяцца"
+"/quests/Deadoralive.qmm/jumps/162/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць у калідоры парцье, каб клікнуць на дапамогу"
+"/quests/Deadoralive.qmm/jumps/163/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць у калідоры парцье, каб клікнуць на дапамогу"
+"/quests/Deadoralive.qmm/jumps/164/text"	"Обойтись своими силами"	"Quest Deadoralive.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Абысьціся сваімі сіламі"
+"/quests/Deadoralive.qmm/jumps/165/text"	"Попытаться вмешаться в драку, не имея никаких шансов на успех"	"Quest Deadoralive.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць умяшацца ў бойку, ня маючы ніякіх шанцаў на посьпех"
+"/quests/Deadoralive.qmm/jumps/166/text"	"Только штурм, только хардкор! Я атакую тюремный фургон"	"Quest Deadoralive.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Толькі штурм, толькі хардкор! Я атакую турэмны фургон"
+"/quests/Deadoralive.qmm/jumps/167/text"	"Покинуть укрытие и пустить в ход бластер"	"Quest Deadoralive.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць сховішча і пусьціць у ход блястэр"
+"/quests/Deadoralive.qmm/jumps/168/text"	"Снять 1000 нолоо"	"Quest Deadoralive.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Зьняць 1000 нолоо"
+"/quests/Deadoralive.qmm/jumps/169/text"	"Положить на счёт 1000 нолоо"	"Quest Deadoralive.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакласьці на рахунак 1000 нолоо"
+"/quests/Deadoralive.qmm/jumps/170/text"	"Вы, ребята, настоящие профессионалы. У вас наверняка тоже есть свои люди в правительственном аппарате?"	"Quest Deadoralive.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вы, хлопцы, сапраўдныя прафэсіяналы. У вас напэўна таксама ёсьць свае людзі ва ўрадавым апараце?"
 "/quests/Deadoralive.qmm/jumps/170/description"	"Церзаш внимательно следил за вами с Рокторнаком, а Хаар-На расслабленно улыбался. Сыворотка действовала.
 
 - А то, - добродушно ответил гаалец. - Например, заместитель мэра, или, скажем, городской прокурор...
@@ -1583,7 +1583,7 @@
 - Стоп! Хаар-На, он что-то добавил тебе в кофе! Кончаем балаган.
 
 Гаалец скосил глаза в кружку, не в силах сфокусироваться. Главное, что информацию вы получить успели."	"Quest Deadoralive.qmm: jumps.170.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/171/text"	"Мне не даёт покоя вопрос: всё же, кем, кому и сколько было заплачено за поимку Рокторнака?"	"Quest Deadoralive.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/171/text"	"Мне не даёт покоя вопрос: всё же, кем, кому и сколько было заплачено за поимку Рокторнака?"	"Quest Deadoralive.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Мне не дае спакою пытаньне: усё ж, кім, каму і колькі было заплачана за тое, што схапілі Рокторнака?"
 "/quests/Deadoralive.qmm/jumps/171/description"	"Церзаш внимательно следил за вами с Рокторнаком, а Хаар-На расслабленно улыбался. Сыворотка действовала.
 
 - Так, ну... - начал гаалец. - Кем - нами, конечно. Кому... хм...
@@ -1595,7 +1595,7 @@
 - Стоп! Хаар-На, он что-то добавил тебе в кофе. Кончаем балаган.
 
 Гаалец скосил глаза в кружку, не в силах сфокусироваться."	"Quest Deadoralive.qmm: jumps.171.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/172/text"	"Вы знаете, кто конкретно из местных чиновников работает на ""Эгемонию""?"	"Quest Deadoralive.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/172/text"	"Вы знаете, кто конкретно из местных чиновников работает на ""Эгемонию""?"	"Quest Deadoralive.qmm: jumps.172.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вы ведаеце, хто канкрэтна з мясцовых чыноўнікаў працуе на ""Эгемонію""?"
 "/quests/Deadoralive.qmm/jumps/172/description"	"Церзаш внимательно следил за вами с Рокторнаком, а Хаар-На расслабленно улыбался. Сыворотка действовала.
 
 - Ну как вам сказать, - миролюбиво начал он. - Нельзя наверняка утверждать, что они прямо-таки работают на ""Эгемонию"". Они работают за деньги, как и все. А деньги, как известно, не пахнут.
@@ -1609,84 +1609,84 @@
 - Стоп! Подозрительные ты вопросы задаёшь, <Ranger>. Хаар-На, он что-то добавил тебе в кофе.
 
 Гаалец скосил глаза в кружку, не в силах сфокусироваться."	"Quest Deadoralive.qmm: jumps.172.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/173/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/174/text"	"Обойтись своими силами"	"Quest Deadoralive.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/175/text"	"Вколоть Церзашу ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/176/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/177/text"	"Ну что, рад спасению?"	"Quest Deadoralive.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/178/text"	"Так тебя перевербовали или нет?"	"Quest Deadoralive.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/179/text"	"Тебе что-нибудь говорить имя ""Даасу""?"	"Quest Deadoralive.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/180/text"	"Приказать быть готовыми вломиться в номер 87349 отеля ""Осмос"" по вашему сигналу"	"Quest Deadoralive.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/173/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць у калідоры парцье, каб клікнуць на дапамогу"
+"/quests/Deadoralive.qmm/jumps/174/text"	"Обойтись своими силами"	"Quest Deadoralive.qmm: jumps.174.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Абысьціся сваімі сіламі"
+"/quests/Deadoralive.qmm/jumps/175/text"	"Вколоть Церзашу ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.175.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Укалоць Церзашу ""экстрапаляцыю"""
+"/quests/Deadoralive.qmm/jumps/176/text"	"Поискать в коридоре портье, чтобы позвать на помощь"	"Quest Deadoralive.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пашукаць у калідоры парцье, каб клікнуць на дапамогу"
+"/quests/Deadoralive.qmm/jumps/177/text"	"Ну что, рад спасению?"	"Quest Deadoralive.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ну што, рады ратаваньню?"
+"/quests/Deadoralive.qmm/jumps/178/text"	"Так тебя перевербовали или нет?"	"Quest Deadoralive.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дык цябе перавэрбавалі ці не?"
+"/quests/Deadoralive.qmm/jumps/179/text"	"Тебе что-нибудь говорить имя ""Даасу""?"	"Quest Deadoralive.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Табе нешта кажа імя ""Даасу""?"
+"/quests/Deadoralive.qmm/jumps/180/text"	"Приказать быть готовыми вломиться в номер 87349 отеля ""Осмос"" по вашему сигналу"	"Quest Deadoralive.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Загадаць быць гатовымі ўварвацца ў нумар 87349 гатэлю ""Асмос"" па вашым сыгнале"
 "/quests/Deadoralive.qmm/jumps/180/description"	"Вы разъяснили детали оформляющегося в вашей голове плана. Представители банды покивали по очереди.
 
 В день ""Д"" они будут начеку и поблизости от номера, готовые в любой момент оказаться рядом и выручить вас. Как они незаметно проникнут в отель - их проблемы! За сигнал вы решили обозначить брачный крик алкариса."	"Quest Deadoralive.qmm: jumps.180.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/181/text"	"Изобразить брачный крик алкариса"	"Quest Deadoralive.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/182/text"	"Я - друг, можешь мне довериться!"	"Quest Deadoralive.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/183/text"	"Назвать номер счёта, с которого вам перевели 1000 нолоо"	"Quest Deadoralive.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/184/text"	"Рассказать, что он агент планеты <FromPlanet>"	"Quest Deadoralive.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/185/text"	"Ничего не рассказывать, а просто сдать малока нанимателям"	"Quest Deadoralive.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/186/text"	"Следовать плану"	"Quest Deadoralive.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/187/text"	"Лечь спать"	"Quest Deadoralive.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/181/text"	"Изобразить брачный крик алкариса"	"Quest Deadoralive.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адлюстраваць шлюбны крык алкарыса"
+"/quests/Deadoralive.qmm/jumps/182/text"	"Я - друг, можешь мне довериться!"	"Quest Deadoralive.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Я — сябар, можаш мне даверыцца!"
+"/quests/Deadoralive.qmm/jumps/183/text"	"Назвать номер счёта, с которого вам перевели 1000 нолоо"	"Quest Deadoralive.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Назваць нумар рахунку, зь якога вам перавялі 1000 нолоо"
+"/quests/Deadoralive.qmm/jumps/184/text"	"Рассказать, что он агент планеты <FromPlanet>"	"Quest Deadoralive.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Расказаць, што ён агент плянэты <FromPlanet>"
+"/quests/Deadoralive.qmm/jumps/185/text"	"Ничего не рассказывать, а просто сдать малока нанимателям"	"Quest Deadoralive.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Нічога не расказваць, а проста здаць малока наймальнікам"
+"/quests/Deadoralive.qmm/jumps/186/text"	"Следовать плану"	"Quest Deadoralive.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Трымацца пляну"
+"/quests/Deadoralive.qmm/jumps/187/text"	"Лечь спать"	"Quest Deadoralive.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Легчы спаць"
 "/quests/Deadoralive.qmm/jumps/187/description"	"Давно пора! Вы с наслаждением погружаетесь в объятия здорового ночного сна, чтобы наутро, лучась энергией, вновь приняться за работу."	"Quest Deadoralive.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/190/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/192/text"	"Заложить взрывчатку в квартале от здания суда"	"Quest Deadoralive.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/190/text"	"Подсесть к печальному фэянину с татуировкой на руке"	"Quest Deadoralive.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падсесьці да сумнага фэяніна з татуяваньнем на руцэ"
+"/quests/Deadoralive.qmm/jumps/192/text"	"Заложить взрывчатку в квартале от здания суда"	"Quest Deadoralive.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Закласьці выбухоўку за квартал ад будынка суду"
 "/quests/Deadoralive.qmm/jumps/192/description"	"Использовать взрывчатое вещество как отвлекающий манёвр - почему бы и нет?
 
 Вы бросили опасный комочек с детонатором в большой мусорный бак в подворотне. Вряд ли его разнесёт на куски, скорее всего взрыв оформится в этакий гулкий ""выстрел"" в воздух из всех отверстий бака. То-то порадуются прохожие дождю из объедков и использованных... нет, вы даже не хотели думать о том, что полетит на бедняг."	"Quest Deadoralive.qmm: jumps.192.description. Preserve every <tag> exactly. English reference: Использовать взрывчатое вещество как отвлекающий манёвр - почему бы ы и нет?
 
 Вы бросили опасный комочек с детонатором в большой мусорный бак в подворотне. Вряд ли его разнесёт на куски, скорее всего взрыв оформится в этакий гулкий ""выстрел"" в воздух из всех отверстий бака. То-то порадуются прохожие дождю из объедков и использованных... нет, вы даже не хотели думать о том, что полетит на бедняг."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/194/text"	"Подорвать взрывчатку"	"Quest Deadoralive.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/195/text"	"Подождать вмешательства своей банды"	"Quest Deadoralive.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/196/text"	"Выхватить оружие и прибегнуть к силовому способу решения проблем"	"Quest Deadoralive.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/197/text"	"Покраснеть и попытаться обратить всё в шутку"	"Quest Deadoralive.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/198/text"	"Добавить одному из присяжных что-нибудь в напиток"	"Quest Deadoralive.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/199/text"	"Добавить одному из присяжных что-нибудь в напиток"	"Quest Deadoralive.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/200/text"	"Выбрать чашку малока"	"Quest Deadoralive.qmm: jumps.200.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/201/text"	"Выбрать чашку фэянина"	"Quest Deadoralive.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/202/text"	"Выбрать чашку гаальца"	"Quest Deadoralive.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/203/text"	"Добавить ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/204/text"	"Добавить слабительное"	"Quest Deadoralive.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/205/text"	"Добавить снотворное"	"Quest Deadoralive.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/206/text"	"Добавить сыворотку правды"	"Quest Deadoralive.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/207/text"	"Добавить коктейль ""З-52"""	"Quest Deadoralive.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/208/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/209/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/210/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/211/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.211.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/212/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.212.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/213/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.213.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/214/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/215/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/216/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/217/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.217.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/218/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/219/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/220/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/221/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/222/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/223/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/224/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/225/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/226/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.226.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/227/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/228/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/229/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/230/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.230.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/231/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/232/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/233/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/234/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/235/text"	"Ехать в отель"	"Quest Deadoralive.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/236/text"	"Вести себя как ни в чём не бывало"	"Quest Deadoralive.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/237/text"	"Вести себя как ни в чём не бывало"	"Quest Deadoralive.qmm: jumps.237.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/238/text"	"Добавить суматохи дымовой гранатой"	"Quest Deadoralive.qmm: jumps.238.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/239/text"	"Добавить суматохи дымовой гранатой"	"Quest Deadoralive.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/240/text"	"Попытаться выиграть процесс без боевых действий"	"Quest Deadoralive.qmm: jumps.240.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/241/text"	"Вывести Рокторнака через чёрный ход, разливая за собой клей"	"Quest Deadoralive.qmm: jumps.241.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/242/text"	"Вывести Рокторнака через чёрный ход"	"Quest Deadoralive.qmm: jumps.242.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/243/text"	"Вывести Рокторнака через чёрный ход"	"Quest Deadoralive.qmm: jumps.243.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/244/text"	"Попытаться быстро развернуться и застрелить обоих"	"Quest Deadoralive.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/245/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/194/text"	"Подорвать взрывчатку"	"Quest Deadoralive.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Падарваць выбухоўку"
+"/quests/Deadoralive.qmm/jumps/195/text"	"Подождать вмешательства своей банды"	"Quest Deadoralive.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пачакаць умяшаньня сваёй банды"
+"/quests/Deadoralive.qmm/jumps/196/text"	"Выхватить оружие и прибегнуть к силовому способу решения проблем"	"Quest Deadoralive.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выхапіць зброю і ўдацца да сілавога спосабу разьвязаньня праблемаў"
+"/quests/Deadoralive.qmm/jumps/197/text"	"Покраснеть и попытаться обратить всё в шутку"	"Quest Deadoralive.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пачырванець і паспрабаваць зьвесьці ўсё да жарту"
+"/quests/Deadoralive.qmm/jumps/198/text"	"Добавить одному из присяжных что-нибудь в напиток"	"Quest Deadoralive.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць аднаму з прысяжных нешта ў напой"
+"/quests/Deadoralive.qmm/jumps/199/text"	"Добавить одному из присяжных что-нибудь в напиток"	"Quest Deadoralive.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць аднаму з прысяжных нешта ў напой"
+"/quests/Deadoralive.qmm/jumps/200/text"	"Выбрать чашку малока"	"Quest Deadoralive.qmm: jumps.200.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выбраць філіжанку малока"
+"/quests/Deadoralive.qmm/jumps/201/text"	"Выбрать чашку фэянина"	"Quest Deadoralive.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выбраць філіжанку фэяніна"
+"/quests/Deadoralive.qmm/jumps/202/text"	"Выбрать чашку гаальца"	"Quest Deadoralive.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выбраць філіжанку гаальца"
+"/quests/Deadoralive.qmm/jumps/203/text"	"Добавить ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць ""экстрапаляцыю"""
+"/quests/Deadoralive.qmm/jumps/204/text"	"Добавить слабительное"	"Quest Deadoralive.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць слабіцельнае"
+"/quests/Deadoralive.qmm/jumps/205/text"	"Добавить снотворное"	"Quest Deadoralive.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць снатворнае"
+"/quests/Deadoralive.qmm/jumps/206/text"	"Добавить сыворотку правды"	"Quest Deadoralive.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць сыроватку праўды"
+"/quests/Deadoralive.qmm/jumps/207/text"	"Добавить коктейль ""З-52"""	"Quest Deadoralive.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць кактэйль ""З-52"""
+"/quests/Deadoralive.qmm/jumps/208/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дачакацца зыходу справы"
+"/quests/Deadoralive.qmm/jumps/209/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дачакацца зыходу справы"
+"/quests/Deadoralive.qmm/jumps/210/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/211/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.211.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/212/text"	"Дождаться исхода дела"	"Quest Deadoralive.qmm: jumps.212.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дачакацца зыходу справы"
+"/quests/Deadoralive.qmm/jumps/213/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.213.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/214/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/215/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/216/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/217/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.217.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/218/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/219/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/220/text"	"Выслушать следующего присяжного"	"Quest Deadoralive.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выслухаць наступнага прысяжнага"
+"/quests/Deadoralive.qmm/jumps/221/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/222/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/223/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/224/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/225/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/226/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.226.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/227/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/228/text"	"Слушать дальше"	"Quest Deadoralive.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Слухаць далей"
+"/quests/Deadoralive.qmm/jumps/229/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/230/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.230.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/231/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/232/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/233/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/234/text"	"Узнать вердикт"	"Quest Deadoralive.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Даведацца пра вэрдыкт"
+"/quests/Deadoralive.qmm/jumps/235/text"	"Ехать в отель"	"Quest Deadoralive.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ехаць у гатэль"
+"/quests/Deadoralive.qmm/jumps/236/text"	"Вести себя как ни в чём не бывало"	"Quest Deadoralive.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паводзіць сябе як ні ў чым не бывала"
+"/quests/Deadoralive.qmm/jumps/237/text"	"Вести себя как ни в чём не бывало"	"Quest Deadoralive.qmm: jumps.237.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паводзіць сябе як ні ў чым не бывала"
+"/quests/Deadoralive.qmm/jumps/238/text"	"Добавить суматохи дымовой гранатой"	"Quest Deadoralive.qmm: jumps.238.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць мітусьні дымавой гранатай"
+"/quests/Deadoralive.qmm/jumps/239/text"	"Добавить суматохи дымовой гранатой"	"Quest Deadoralive.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Дадаць мітусьні дымавой гранатай"
+"/quests/Deadoralive.qmm/jumps/240/text"	"Попытаться выиграть процесс без боевых действий"	"Quest Deadoralive.qmm: jumps.240.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць выйграць працэс без баявых дзеяньняў"
+"/quests/Deadoralive.qmm/jumps/241/text"	"Вывести Рокторнака через чёрный ход, разливая за собой клей"	"Quest Deadoralive.qmm: jumps.241.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вывесьці Рокторнака праз чорны ход, разьліваючы за сабой клей"
+"/quests/Deadoralive.qmm/jumps/242/text"	"Вывести Рокторнака через чёрный ход"	"Quest Deadoralive.qmm: jumps.242.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вывесьці Рокторнака праз чорны ход"
+"/quests/Deadoralive.qmm/jumps/243/text"	"Вывести Рокторнака через чёрный ход"	"Quest Deadoralive.qmm: jumps.243.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вывесьці Рокторнака праз чорны ход"
+"/quests/Deadoralive.qmm/jumps/244/text"	"Попытаться быстро развернуться и застрелить обоих"	"Quest Deadoralive.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць хутка разьвярнуцца і застрэліць абодвух"
+"/quests/Deadoralive.qmm/jumps/245/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць ім хабар наяўнымі"
 "/quests/Deadoralive.qmm/jumps/245/description"	"- Сколько? - кратко спросили вы, поворачиваясь с поднятыми руками и глядя в глаза преследователям.
 
 Те переглянулись, сразу смекнув, о чём речь.
@@ -1702,8 +1702,8 @@
 Там вас уже ждали - машина с затемнёнными стёклами притормозила прямо перед вами, и задняя дверь призывно открылась. Сквозь слёзы на глазах от едкого дыма вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же отсюда сматываться."	"Quest Deadoralive.qmm: jumps.245.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/246/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/247/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/246/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць ім хабар наяўнымі"
+"/quests/Deadoralive.qmm/jumps/247/text"	"Предложить им взятку наличными"	"Quest Deadoralive.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Прапанаваць ім хабар наяўнымі"
 "/quests/Deadoralive.qmm/jumps/247/description"	"- Сколько? - кратко спросили вы, поворачиваясь с поднятыми руками и глядя в глаза преследователям.
 
 Те переглянулись, сразу смекнув, о чём речь.
@@ -1719,16 +1719,16 @@
 Перед вами, взвизгнув тормозами, остановился видавший виды джип со свежими дырками от выстрелов.
 
 - Запрыгивай, босс! - крикнул пеленг с переднего сиденья, главарь нанятой вами банды. - Давненько такой веселухи не было!"	"Quest Deadoralive.qmm: jumps.247.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/248/text"	"Сваливать!"	"Quest Deadoralive.qmm: jumps.248.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/249/text"	"Честно проиграть"	"Quest Deadoralive.qmm: jumps.249.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/250/text"	"Попытаться выиграть процесс без боевых действий"	"Quest Deadoralive.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/248/text"	"Сваливать!"	"Quest Deadoralive.qmm: jumps.248.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Змывацца!"
+"/quests/Deadoralive.qmm/jumps/249/text"	"Честно проиграть"	"Quest Deadoralive.qmm: jumps.249.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Сумленна прайграць"
+"/quests/Deadoralive.qmm/jumps/250/text"	"Попытаться выиграть процесс без боевых действий"	"Quest Deadoralive.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць выйграць працэс без баявых дзеяньняў"
 "/quests/Deadoralive.qmm/jumps/250/description"	"Гиблый номер. Ваш умственно отсталый адвокат только и был способен, что затягивать процесс. Вы задремали и проснулись уже на зачитывании приговора, который, естественно, оказался обвинительным."	"Quest Deadoralive.qmm: jumps.250.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/251/text"	"Пойти выпить с судьёй, подлив ему сыворотки правды"	"Quest Deadoralive.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/252/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/251/text"	"Пойти выпить с судьёй, подлив ему сыворотки правды"	"Quest Deadoralive.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, падліўшы яму сыроваткі праўды"
+"/quests/Deadoralive.qmm/jumps/252/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, каб зьбіць цану"
 "/quests/Deadoralive.qmm/jumps/252/description"	"Беседа прошла в тёплой атмосфере. Вы душевно поболтали и порядком нализались. Стоило вам заикнуться о деньгах, как судья добродушно скинул цену оправдательного приговора до 5000 нолоо.
 
 До пяти тысяч вам тоже порядочно недоставало, так что пьяный и весёлый судья бодро осудил Рокторнака по всей строгости."	"Quest Deadoralive.qmm: jumps.252.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/253/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/253/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, каб зьбіць цану"
 "/quests/Deadoralive.qmm/jumps/253/description"	"Беседа прошла в тёплой атмосфере. Вы душевно поболтали и порядком нализались. Стоило вам заикнуться о деньгах, как судья добродушно скинул цену оправдательного приговора до пяти тысяч нолоо.
 
 Со вздохом вы отсчитали требуемое количество и отчалили. Остаток процесса судья отпускал весёлые пошлые шуточки, но Рокторнак, в самом деле, оказался оправдан присяжными. Победа!
@@ -1736,11 +1736,11 @@
 Снаружи вас уже ждала машина с затемнёнными стёклами, и задняя дверь призывно открылась, как только вы победоносно вышли из здания суда. Вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же топать в отель."	"Quest Deadoralive.qmm: jumps.253.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/254/text"	"Пойти выпить с судьёй, подлив ему сыворотки правды"	"Quest Deadoralive.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/255/text"	"Ехать в отель"	"Quest Deadoralive.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/256/text"	"Попытаться вмешаться в драку, не имея никаких шансов на успех"	"Quest Deadoralive.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/257/text"	"Вколоть Церзашу ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/258/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/254/text"	"Пойти выпить с судьёй, подлив ему сыворотки правды"	"Quest Deadoralive.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, падліўшы яму сыроваткі праўды"
+"/quests/Deadoralive.qmm/jumps/255/text"	"Ехать в отель"	"Quest Deadoralive.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Ехаць у гатэль"
+"/quests/Deadoralive.qmm/jumps/256/text"	"Попытаться вмешаться в драку, не имея никаких шансов на успех"	"Quest Deadoralive.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Паспрабаваць умяшацца ў бойку, ня маючы ніякіх шанцаў на посьпех"
+"/quests/Deadoralive.qmm/jumps/257/text"	"Вколоть Церзашу ""экстраполяцию"""	"Quest Deadoralive.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Укалоць Церзашу ""экстрапаляцыю"""
+"/quests/Deadoralive.qmm/jumps/258/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, каб зьбіць цану"
 "/quests/Deadoralive.qmm/jumps/258/description"	"Беседа прошла в тёплой атмосфере. Вы душевно поболтали и порядком нализались. Стоило вам заикнуться о деньгах, как судья добродушно скинул цену оправдательного приговора до 5000 нолоо.
 
 До этой суммы у вас не хватало совсем чуть-чуть, но пьяному судье эти гроши были до лампочки, так что он согласился и на неполную сумму. Остаток процесса судья отпускал весёлые пошлые шуточки, но Рокторнак, в самом деле, оказался оправдан присяжными. Победа!
@@ -1748,11 +1748,11 @@
 Снаружи вас уже ждала машина с затемнёнными стёклами, и задняя дверь призывно открылась, как только вы победоносно вышли из здания суда. Вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же топать в отель."	"Quest Deadoralive.qmm: jumps.258.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/259/text"	"Отстреливаться!"	"Quest Deadoralive.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/260/text"	"Отстреливаться!"	"Quest Deadoralive.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/259/text"	"Отстреливаться!"	"Quest Deadoralive.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адстрэльвацца!"
+"/quests/Deadoralive.qmm/jumps/260/text"	"Отстреливаться!"	"Quest Deadoralive.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Адстрэльвацца!"
 "/quests/Deadoralive.qmm/jumps/260/description"	"Несколько метких выстрелов по колёсам - и ваши преследователи съехали на обочину и свалились в кювет. Да здравствует транспонирование!"	"Quest Deadoralive.qmm: jumps.260.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/261/text"	"Сваливать!"	"Quest Deadoralive.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/262/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/261/text"	"Сваливать!"	"Quest Deadoralive.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Змывацца!"
+"/quests/Deadoralive.qmm/jumps/262/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, каб зьбіць цану"
 "/quests/Deadoralive.qmm/jumps/262/description"	"Беседа прошла в тёплой атмосфере. Вы душевно поболтали и порядком нализались. Стоило вам заикнуться о деньгах, как судья добродушно скинул цену оправдательного приговора до 5000 нолоо.
 
 До этой суммы у вас не хватало совсем чуть-чуть, но пьяному судье эти гроши были до лампочки, так что он согласился и на неполную сумму. Остаток процесса судья отпускал весёлые пошлые шуточки, но Рокторнак, в самом деле, оказался оправдан присяжными. Победа!
@@ -1760,7 +1760,7 @@
 Снаружи вас уже ждала машина с затемнёнными стёклами, и задняя дверь призывно открылась, как только вы победоносно вышли из здания суда. Вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же топать в отель."	"Quest Deadoralive.qmm: jumps.262.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/263/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/263/text"	"Пойти выпить с судьёй, чтобы сбить цену"	"Quest Deadoralive.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пайсьці выпіць з судзьдзём, каб зьбіць цану"
 "/quests/Deadoralive.qmm/jumps/263/description"	"Беседа прошла в тёплой атмосфере. Вы душевно поболтали и порядком нализались. Стоило вам заикнуться о деньгах, как судья добродушно скинул цену оправдательного приговора до пяти тысяч нолоо.
 
 Со вздохом вы отсчитали требуемое количество и отчалили. Остаток процесса судья отпускал весёлые пошлые шуточки, но Рокторнак, в самом деле, оказался оправдан присяжными. Победа!
@@ -1768,13 +1768,13 @@
 Снаружи вас уже ждала машина с затемнёнными стёклами, и задняя дверь призывно открылась, как только вы победоносно вышли из здания суда. Вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же топать в отель."	"Quest Deadoralive.qmm: jumps.263.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/264/text"	"Вывести Рокторнака через чёрный ход, разливая за собой клей"	"Quest Deadoralive.qmm: jumps.264.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/265/text"	"Оставить малока в покое и просто сдать нанимателям"	"Quest Deadoralive.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/266/text"	"Вколоть ему сыворотку правды"	"Quest Deadoralive.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/267/text"	"И вместе вы боретесь против ""Эгемонии""?"	"Quest Deadoralive.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/268/text"	"Спросить, знает ли он Даасу"	"Quest Deadoralive.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/269/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/270/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/264/text"	"Вывести Рокторнака через чёрный ход, разливая за собой клей"	"Quest Deadoralive.qmm: jumps.264.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Вывесьці Рокторнака праз чорны ход, разьліваючы за сабой клей"
+"/quests/Deadoralive.qmm/jumps/265/text"	"Оставить малока в покое и просто сдать нанимателям"	"Quest Deadoralive.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Пакінуць малока ў спакоі і проста здаць наймальнікам"
+"/quests/Deadoralive.qmm/jumps/266/text"	"Вколоть ему сыворотку правды"	"Quest Deadoralive.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Укалоць яму сыроватку праўды"
+"/quests/Deadoralive.qmm/jumps/267/text"	"И вместе вы боретесь против ""Эгемонии""?"	"Quest Deadoralive.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"І разам вы змагаецеся супраць ""Эгемоніі""?"
+"/quests/Deadoralive.qmm/jumps/268/text"	"Спросить, знает ли он Даасу"	"Quest Deadoralive.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Спытаць, ці ведае ён Даасу"
+"/quests/Deadoralive.qmm/jumps/269/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выхапіць блястэр"
+"/quests/Deadoralive.qmm/jumps/270/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выхапіць блястэр"
 "/quests/Deadoralive.qmm/jumps/270/description"	"Ваша хвалёная меткость сыграла на руку. Оба охранника рухнули как подкошенные.
 
 Вы выдохнули и вместе с Рокторнаком, наконец, выбежали наружу.
@@ -1782,7 +1782,7 @@
 Там вас уже ждали - машина с затемнёнными стёклами притормозила прямо перед вами, и задняя дверь призывно открылась. Сквозь слёзы на глазах от едкого дыма вы увидели затылок гаальца за рулём - наверняка это был Хаар-На. Нашёл вас сразу, как и обещал.
 
 В любом случае ничего не оставалось, кроме как сесть в машину. Не на своих двоих же отсюда сматываться."	"Quest Deadoralive.qmm: jumps.270.description. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
-"/quests/Deadoralive.qmm/jumps/271/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.271.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	""
+"/quests/Deadoralive.qmm/jumps/271/text"	"Выхватить бластер"	"Quest Deadoralive.qmm: jumps.271.text. Preserve every <tag> exactly."	"Quest,Deadoralive"	"Выхапіць блястэр"
 "/quests/Deadoralive.qmm/jumps/271/description"	"Ваша хвалёная меткость сыграла на руку. Оба охранника рухнули как подкошенные.
 
 Вы выдохнули и вместе с Рокторнаком, наконец, выбежали наружу.
