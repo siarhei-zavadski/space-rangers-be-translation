@@ -680,7 +680,7 @@ lemma.gorynych	Горыныч	Gorynych	Гарыныч		proper name; akanie	Park.
 lemma.gladiator	гладиатор	gladiator	глядыятар	гладыятар	D глядыятару	hunspell-be-tarask
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
-lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам		loan already used in Provoda	—
+lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам/камунікатараў		loan already used in Provoda	—
 lemma.reboot	перезагрузка	reboot	перазагрузка/перазагрузку/перазагрузкі		same word as Дамінатары: Перазагрузка	—
 lemma.repair	починка	repair	рамонт	пачынка	G рамонту; пачынка means a beginning	https://starnik.by/pravapis/63736
 lemma.fix	починить	to repair	направіць		machine sense, as направіць станок	https://starnik.by/pravapis/190300
@@ -707,3 +707,17 @@ lemma.thicket	чаща	thicket	гушчар		G гушчару	https://starnik.by
 lemma.alyonushki	Аленушки	Alyonushki	Алёнушкі		pop-group name; keep International	Park.qmm
 lemma.ivanushka	Иванушка-дурачок	Ivan the Fool	Іванушка-дурань/Іванушку		D Іванушку	Park.qmm
 lemma.laugh	Гхы-гха	ghy-gha	Гхы/гха		dragon laugh; keep the hyphens	Park.qmm
+lemma.kashchei	Кощей Бессмертный	Kashchei the Deathless	Кашчэй Несьмяротны	Кашчей	quiz option and jump	https://starnik.by/pravapis/89722
+lemma.frog_princess	Царевна-Лягушка	Frog Princess	Царэўна-Жаба		G Царэўны-Жабы; Васіліса	Park.qmm
+lemma.vasilisa	Василиса Премудрая	Vasilisa the Wise	Васіліса Прамудрая		G Васілісы	https://starnik.by/pravapis/141412
+lemma.magic_ring	Волшебное кольцо	The Magic Ring	Чароўны пярсьцёнак	пярсцёнак	tale title and jump; spell stays магічны	https://starnik.by/pravapis/62060
+lemma.humpback	Конёк-Горбунок	The Humpbacked Horse	Канёк-Гарбунок		tale title and jump	Park.qmm
+lemma.fedot	Федот-стрелец	Fedot the Archer	Фядот-стралец		G Фядота-стральца	Park.qmm
+lemma.nesmeyana	Царевна-Несмеяна	Princess Nesmeyana	Царэўна-Несьмяяна	Нясьмеяна	hunspell Несьмяяна	hunspell-be-tarask
+lemma.pike	По щучьему велению	By the Pike's Command	Па шчупаковым загадзе		tale title and jump	https://starnik.by/pravapis/86073
+lemma.jacket	пиджак	jacket	пінжак		Пінжак з кішэнямі	https://starnik.by/pravapis/56660
+lemma.kadesh	Кадыш с плясунами	Kadysh with dancers	Кадыш/танцорамі	плясун	nonsense quiz option	Park.qmm
+lemma.martynka	Мартынко	Martynko	Мартынка		hero of the ring tale	Park.qmm
+lemma.ivan_tsarevich	Иван-Царевич	Ivan Tsarevich	Іван-Царэвіч		quiz option and jump	https://starnik.by/pravapis/82571
+lemma.ivan_fool	Иван-дурак	Ivan the Fool	Іван-дурань		quiz option and jump	Park.qmm
+lemma.ruble	рубль	ruble	рубель		Gpl рублёў	hunspell-be-tarask
