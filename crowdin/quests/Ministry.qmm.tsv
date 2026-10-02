@@ -111,15 +111,18 @@
 "/quests/Ministry.qmm/locations/0/texts/9/text"	"Ура! Свершилось! Вы вернули себе вашу гордость - <clr>рейнджерский значок<clrEnd>. Довольный собой, вы пришпилили его себе на комбинезон. Теперь все девчонки галактики снова ваши."	"Quest Ministry.qmm: locations.0.texts.9.text. Preserve every <tag> exactly. English reference: Hurray! You made it! You won back your pride - the <clr>ranger badge<clrEnd>. Satisfied, you pinned it to your overalls. All galaxy girls are yours again!"	"Quest,Ministry"	"Ура! Зьдзейсьнілася! Вы вярнулі сабе свой гонар — <clr>рэйнджэрскі значок<clrEnd>. Задаволены сабой, вы прышпілілі яго сабе на камбінэзон. Цяпер усе дзяўчаты галяктыкі зноў вашыя."
 "/quests/Ministry.qmm/locations/4/texts/0/text"	"С серьезной физиономией секретарша взяла себе карту с верха колоды.
 Затем, ухмыляясь, секретарша отделила от колоды еще одну карту и протянула вам. Кажется, она не желает вам победы. Кстати говоря, вы ей тоже."	"Quest Ministry.qmm: locations.4.texts.0.text. Preserve every <tag> exactly. English reference: With a serious expression on her face, the secretary took a card from the top of the pack. 
-Then she took another card from the pack and handed it to you with a grin. Looks like she does not wish you victory. By the way, you don't wish it to her either."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/4/texts/1/text"	"Ухмыляясь, секретарша отделила карту от колоды и протянула вам. Кажется, она не желает вам победы. Кстати говоря, вы ей тоже."	"Quest Ministry.qmm: locations.4.texts.1.text. Preserve every <tag> exactly. English reference: With a grin, the secretary took a card from the pack and handed it to you. Looks like she does not wish you victory. By the way, you don't wish it to her either."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/9/texts/0/text"	"- Что, пилотик. Еще или хватит? - сказала секретарша, выпустив вам в лицо клуб сизого дыма."	"Quest Ministry.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: - Another one, pilot? Or is that enough? - she said with a blow of smoke into your face."	"Quest,Ministry"	""
+Then she took another card from the pack and handed it to you with a grin. Looks like she does not wish you victory. By the way, you don't wish it to her either."	"Quest,Ministry"	"З сур'ёзным тварам сакратарка ўзяла сабе карту з верху калоды.
+Затым, ухмыляючыся, сакратарка аддзяліла ад калоды яшчэ адну карту і працягнула вам. Здаецца, яна не жадае вам перамогі. Дарэчы, вы ёй таксама."
+"/quests/Ministry.qmm/locations/4/texts/1/text"	"Ухмыляясь, секретарша отделила карту от колоды и протянула вам. Кажется, она не желает вам победы. Кстати говоря, вы ей тоже."	"Quest Ministry.qmm: locations.4.texts.1.text. Preserve every <tag> exactly. English reference: With a grin, the secretary took a card from the pack and handed it to you. Looks like she does not wish you victory. By the way, you don't wish it to her either."	"Quest,Ministry"	"Ухмыляючыся, сакратарка аддзяліла карту ад калоды і працягнула вам. Здаецца, яна не жадае вам перамогі. Дарэчы, вы ёй таксама."
+"/quests/Ministry.qmm/locations/9/texts/0/text"	"- Что, пилотик. Еще или хватит? - сказала секретарша, выпустив вам в лицо клуб сизого дыма."	"Quest Ministry.qmm: locations.9.texts.0.text. Preserve every <tag> exactly. English reference: - Another one, pilot? Or is that enough? - she said with a blow of smoke into your face."	"Quest,Ministry"	"- Што, пілот. Яшчэ ці хопіць? — сказала сакратарка, пусьціўшы вам у твар клуб шызага дыму."
 "/quests/Ministry.qmm/locations/10/texts/0/text"	"- Хорошо. Ну, что там у тебя? - небрежно сказала Рачехановна.
 Вы медленно открыли свои карты - у вас [p13]. Напряжение нарастает. Посмотрев на ваши карты, секретарша, сделав неудовлетворенную мину, показала свои - у нее тоже [p15]! <clr>Ничья<clrEnd>."	"Quest Ministry.qmm: locations.10.texts.0.text. Preserve every <tag> exactly. English reference: - Alright, what have you got? - Rachehanovna said casually. 
-You opened your cards slowly - you've got [p13]. The tension rose. After looking at your cards, the secretary showed hers, with a discontent expression. She also has [p15]! <clr>Drawn<clrEnd>."	"Quest,Ministry"	""
+You opened your cards slowly - you've got [p13]. The tension rose. After looking at your cards, the secretary showed hers, with a discontent expression. She also has [p15]! <clr>Drawn<clrEnd>."	"Quest,Ministry"	"- Добра. Ну, што там у цябе? — нядбайна сказала Рачэханаўна.
+Вы павольна адкрылі свае карты — у вас [p13]. Напружаньне нарастае. Паглядзеўшы на вашыя карты, сакратарка, зрабіўшы незадаволеную міну, паказала свае — у яе таксама [p15]! <clr>Нічыя<clrEnd>."
 "/quests/Ministry.qmm/locations/11/texts/0/text"	"- Ну, давай. Что там у тебя? - серьезно спросила секретарша.
 Вы медленно, одна за другой, перевернули все свои карты - у вас [p13]. Перебор. Вслед за вами карты открыла секретарша - и, о счастье, у нее тоже перебор - [p15]! <clr>Ничья<clrEnd>."	"Quest Ministry.qmm: locations.11.texts.0.text. Preserve every <tag> exactly. English reference: - Alright, what have you got? - the secretary said seriously. 
-You slowly turned your cards one by one - you've got [p13]. Overshoot. Then the secretary opened her cards - she also overshot - [p15]! <clr>Drawn<clrEnd>."	"Quest,Ministry"	""
+You slowly turned your cards one by one - you've got [p13]. Overshoot. Then the secretary opened her cards - she also overshot - [p15]! <clr>Drawn<clrEnd>."	"Quest,Ministry"	"- Ну, давай. Што там у цябе? — сур'ёзна спытала сакратарка.
+Вы павольна, адна за адной, перавярнулі ўсе свае карты — у вас [p13]. Перабор. Усьлед за вамі карты адкрыла сакратарка — і, ох шчасьце, у яе таксама перабор — [p15]! <clr>Нічыя<clrEnd>."
 "/quests/Ministry.qmm/locations/13/texts/0/text"	"Вы стоите в холле, оклеенном розовыми в крапинку обоями. 
 
 Слева по борту команданте грозит вам пальцем и хмурит брови. 
@@ -132,7 +135,13 @@ To the left the commandant stands, frowning and wagging his finger at you.
 In front of you - the corridor.
 To the left there are small stares doing down. There is a sign above it - ""The Registry"".
 To the back - the exit
-Right below you... Wow, here are your boots. One of the laces is untied, what a shame! But you're too lazy to tie it..."	"Quest,Ministry"	""
+Right below you... Wow, here are your boots. One of the laces is untied, what a shame! But you're too lazy to tie it..."	"Quest,Ministry"	"Вы стаіце ў холе, абклееным ружовымі ў крапінку шпалерамі. 
+
+Зьлева па борце камэндант грозіць вам пальцам і хмурыць бровы. 
+Проста па курсе калідор.
+Справа невялікая лесьвіца сыходзіць уніз. Над ёй надпіс: ""Канцылярыя"".
+За сьпінай — выхад на вуліцу.
+Проста пад вамі... Ого! Ды гэта ж вашыя чаравікі. Адзін шнурок разьвязаны — ай-ай-ай. Але завязваць лянота..."
 "/quests/Ministry.qmm/locations/13/texts/1/text"	"Вы стоите в холле, оклеенном розовыми в крапинку обоями. 
 
 Слева по борту команданте. Кажется, он глядит на вас и улыбается.
@@ -145,7 +154,13 @@ To the left of you the commandant stands. He smiles at you.
 In front of you - the corridor.
 To the left there are small stares doing down. There is a sign above it - ""The Registry"".
 To the back - the exit
-Right below you... Wow, here are your boots. One of the laces is untied, what a shame! But you're too lazy to tie it..."	"Quest,Ministry"	""
+Right below you... Wow, here are your boots. One of the laces is untied, what a shame! But you're too lazy to tie it..."	"Quest,Ministry"	"Вы стаіце ў холе, абклееным ружовымі ў крапінку шпалерамі. 
+
+Зьлева па борце камэндант. Здаецца, ён глядзіць на вас і ўсьміхаецца.
+Проста па курсе калідор.
+Справа невялікая лесьвіца сыходзіць уніз. Над ёй надпіс: ""Канцылярыя"".
+За сьпінай выхад на вуліцу.
+Проста пад вамі. Ого! Ды гэта ж вашыя чаравікі. Адзін шнурок разьвязаны — ай-ай-ай. Але завязваць лянота..."
 "/quests/Ministry.qmm/locations/14/texts/0/text"	"Мрачный обшарпанный подвал. Со стен свисают оборванные обои. Пол весь в царапинах, похоже, что кто-то активно передвигал тяжелую мебель. Но больше всего поражала воображение огромная дыра в полу, заполненная водой. Хотя, стоп - в дальней стене есть небольшая дверца."	"Quest Ministry.qmm: locations.14.texts.0.text. Preserve every <tag> exactly. English reference: A gloomy ragged basement. Torn wallpaper hangs from the walls. The floor is scratched, it looks like somebody was moving a lot of heavy furniture. But the most amazing thing was a huge hole in the floor, filled with water. But wait; there is a small door in the opposite wall."	"Quest,Ministry"	""
 "/quests/Ministry.qmm/locations/14/texts/1/text"	"""Погодите-ка, - сказали вы сами себе, - ничего не кончено. Просто синяк на лбу будет...""
 
@@ -162,7 +177,8 @@ The fish was on its side and did not move. Suddenly it started eating the line. 
 "/quests/Ministry.qmm/locations/14/texts/7/text"	"Вы аккуратно заглянули в дыру. Кажется, там что-то шевелится. И вы предположили самое страшное - это Бабай! А может, это просто рябь на воде? В любом случае, лучше держаться от дыры на расстоянии."	"Quest Ministry.qmm: locations.14.texts.7.text. Preserve every <tag> exactly. English reference: You carefully looked into the hole. Something moved there. You assumed the worse - it was Babai! But can it be just ripple on the water? Anyway you should better stay away from the hole."	"Quest,Ministry"	""
 "/quests/Ministry.qmm/locations/15/texts/0/text"	"Смело подойдя к двери, вы дернули за ручку. Дверь не поддалась. Вы дернули сильнее, ручка оторвалась, выскользнула из ладони и угодила вам прямо в лоб!
 ""Все кончилось, - подумали вы. - Теперь моя семья получит страховку в <clr>10000<clrEnd> cr, а слава освободителя галактики достанется другим рейнджерам..."""	"Quest Ministry.qmm: locations.15.texts.0.text. Preserve every <tag> exactly. English reference: You bravely came up to the door and pulled the handle. The door did not open. You pulled harder; the handle came off, slipped from your hand and hit you right in the forehead!
-""It's all over, - you thought. - My family will receive an insurance of <clr>10000<clrEnd> cr, and the fame of the galaxy liberator will go to other rangers..."""	"Quest,Ministry"	""
+""It's all over, - you thought. - My family will receive an insurance of <clr>10000<clrEnd> cr, and the fame of the galaxy liberator will go to other rangers..."""	"Quest,Ministry"	"Сьмела падышоўшы да дзьвярэй, вы тузанулі за клямку. Дзьверы не паддаліся. Вы тузанулі мацней, клямка адарвалася, высьлізнула з далоні і ўгадзіла вам проста ў лоб!
+""Усё скончылася, — падумалі вы. — Цяпер мая сям'я атрымае страхоўку ў <clr>10000<clrEnd> cr, а славу вызваліцеля галяктыкі атрымаюць іншыя рэйнджэры."""
 "/quests/Ministry.qmm/locations/17/texts/0/text"	"Грациозно посадив свой корабль, вы вышли на твердь Прямокишечного острова, и надо ж такому случиться - тут же наступили в коровью лепеху. Хорошо день начинается, однако... Потряхивая оскверненной ногой, вы поскакали в сторону административного здания. Странно, но оно было окрашено в розовый цвет.
 
 Внутри все было оклеено (опять!) розовыми обоями. Даже будка вахтера. Вот он-то вам и нужен! Подойдя к окошку 9 X 12 см, вы было раскрыли рот, как вдруг...
@@ -175,10 +191,17 @@ The walls inside were covered with (again!) pink wallpaper. Even the watchman's 
 ""What the hell, strictly speaking, you came here for, your highness?"" - asked the watchman. 
 You were so confused that you did not know how to respond. 
 ""Remember this, punk. They call me commandant Ge Chevara here. Or simply commandant. And now - batten down!""
-Then the window spectacularly shut right before your nose. Hm... Who's going to tell me now how I can agree the lease of Hillside?"	"Quest,Ministry"	""
+Then the window spectacularly shut right before your nose. Hm... Who's going to tell me now how I can agree the lease of Hillside?"	"Quest,Ministry"	"Грацыёзна пасадзіўшы свой карабель, вы выйшлі на зямлю Вострава Прамой кішкі, і трэба ж такому здарыцца — тут жа наступілі ў каровіны кізяк. Добра дзень пачынаецца, аднак... Патрэсваючы апаганенай нагой, вы паскакалі ў бок адміністрацыйнага будынка. Дзіўна, але ён быў пафарбаваны ў ружовы колер.
+
+Усярэдзіне ўсё было абклеенае (зноў!) ружовымі шпалерамі. Нават будка вахтара. Вось ён вам і патрэбны! Падышоўшы да акенца 9 X 12 см, вы было растулілі рот, як раптам...
+""З чым, уласна, прыперліся да нас, ваша высакародзьдзе?"" — запытаўся вахтар.
+Вы нават не знайшліся, што адказаць.
+""Запомні адно, шчанюк. Тут мяне клічуць камэндант Ко Чэгара. Можна проста камэндант. А цяпер — задраіць люкі!""
+Пасьля чаго акенца эфэктна ляснула проста перад вашым носам. Эх... І ў каго ж цяпер даведвацца, як аформіць арэнду Узгор'я?"
 "/quests/Ministry.qmm/locations/18/texts/0/text"	"""Команданте, извините за беспокойство, но..."" - начали было вы.
 ""Да как ты смеешь говорить со мной, салага. Когда я с врагами галактики боролся, ты еще пешком под стол ходил..."""	"Quest Ministry.qmm: locations.18.texts.0.text. Preserve every <tag> exactly. English reference: ""Commandant, sorry to disturb you, but..."" - you began.
-""How you dare to speak with me, punk? When I fought enemies of the galaxy, you were in pinafores..."""	"Quest,Ministry"	""
+""How you dare to speak with me, punk? When I fought enemies of the galaxy, you were in pinafores..."""	"Quest,Ministry"	"""Камэндант, прабачце за непакой, але..."" — пачалі было вы.
+""Ды як ты сьмееш гаварыць са мной, шчанюк. Калі я змагаўся з ворагамі галяктыкі, ты яшчэ пад сталом поўзаў..."""
 "/quests/Ministry.qmm/locations/20/texts/0/text"	"Чистый и ухоженный коридор, залитый светом из окна, расположенного в конце. По обе стороны от вас двери, двери и еще раз двери. Кажется, на них прибиты таблички.
 
 ""Главдом (Главный в Домике)""
@@ -191,7 +214,13 @@ Then the window spectacularly shut right before your nose. Hm... Who's going to 
 ""Secretariat""
 ""Head of the transportation shop""
 ""Brush and Hammer Manager""
-""WC"""	"Quest,Ministry"	""
+""WC"""	"Quest,Ministry"	"Чысты і дагледжаны калідор, заліты сьвятлом з акна, разьмешчанага ў канцы. Па абодва бакі ад вас дзьверы, дзьверы і яшчэ раз дзьверы. Здаецца, на іх прыбітыя таблічкі.
+
+""Загадчык дома (Галоўны ў доміку)""
+""Сакратарыят""
+""Начальнік транспартнага цэху""
+""Мэнэджар па пэндзліках і малатках""
+""WC (туалет тыпу сартыр)"""
 "/quests/Ministry.qmm/locations/21/texts/0/text"	"Вы стоите у грязного окна, ведущего на улицу. А в голову лезут глупые мысли: ""Кто я?"", ""Зачем я?"", ""Почему я?"". Да! ""Почему в школе дежурным по отлову блох пинцетом был именно я? Ведь кормить рыбок было куда интереснее, но это делал всегда этот желтолицый Га-Ноцри! О мое тяжелое детство... Ой. О чем это я"", - одернули вы себя."	"Quest Ministry.qmm: locations.21.texts.0.text. Preserve every <tag> exactly. English reference: You stand at a dirty window looking outside. Silly thoughts come to your mind: ""Who am I?"" ""What is my purpose?"" Exactly! ""Why I was responsible for catching flies with forceps at school? It was much more exciting to feed fish, but yellow-faced Ga-Notsri always did that! What a tough childhood... Wait, what is that nonsense I'm thinking about"" - you called yourself down."	"Quest,Ministry"	""
 "/quests/Ministry.qmm/locations/21/texts/1/text"	"А за окном тишь, гладь да гаальская благодать. Ляпота!"	"Quest Ministry.qmm: locations.21.texts.1.text. Preserve every <tag> exactly. English reference: It's peace and quiet outside. It's so good!"	"Quest,Ministry"	""
 "/quests/Ministry.qmm/locations/21/texts/2/text"	"А окошечко-то грязное. Не мешало бы помыть! Да еще надпись какая-то: ""А главдом-то хам. Хам! Он мне зарплату третий месяц не платит!!!"" Ниже еще одна: ""Пусть и хам, зато виллу на Венере имею. И кушаю три раза в день""."	"Quest Ministry.qmm: locations.21.texts.2.text. Preserve every <tag> exactly. English reference: The window is dirty by the way. Why don't you wash it? There is something written on it: ""The housemaster is bounder! What a bounder! He hasn't paid my salary for three months!!!"" And another one below: ""OK, a bounder, but I have a villa on Venus. And have meal three times a day""."	"Quest,Ministry"	""
