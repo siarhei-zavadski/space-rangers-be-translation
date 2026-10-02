@@ -91,7 +91,7 @@ lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; �
 lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора/гіпэрпрастору/гіпэрпрасторы		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
 lemma.cr	ЦР	RD	ЦР		spoken: цэнтр рэйнджэраў (Starnik цэнтр, L у цэнтры). keep abbr	https://starnik.by/pravapis/83436
 lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not English RT	—
-lemma.government	правительство	government	урад/ўрада		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
+lemma.government	правительство	government	урад/ўрада/урада		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
 lemma.cursor	курсор	cursor	курсор		Starnik: родны курсора, not курсору	—
 lemma.center	центр	center	цэнтр		Starnik: родны цэнтра; да цэнтра	—
 lemma.resolution	разрешение	resolution	разрознасьць		Kamputerm 2010: разрознасць, not разрозненне	—
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -823,7 +823,7 @@ lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorob
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
-lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
+lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае/вегетарыянцамі		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
@@ -941,7 +941,7 @@ lemma.banquet	банкет	banquet	банкет/банкеце/банкету	б
 lemma.drink_strength	крепость	alcohol strength	мацунак	крапасць	degrees of a drink; the kvass example	https://starnik.by/pravapis/42399
 lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
 lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
-lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму		malok prince; Тары is his wife's nickname	Banket.qmm
+lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму/Тардымам		malok prince; Тары is his wife's nickname	Banket.qmm
 lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
 lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
@@ -974,3 +974,5 @@ lemma.pyrotitanium	пиротитан	pyrotitanium	піратытан/пірат
 lemma.tsiga	Цыга	Tsiga	Цыга		peleng know-all; given name, not the fortune-teller	Banket.qmm
 lemma.romalych	Ромалыч	Romalych	Ромалыч		patronymic of the peleng know-all Цыга	Banket.qmm
 lemma.peetiquette	путикет	peetiquette	пуцікет/пуцікеце	этыкет	son's malapropism of этыкет	Banket.qmm
+lemma.kutuzau	Кутузау	Kutuzau	Кутузау		name the ranger shouts while stabbing the heir's eye	Banket.qmm
+lemma.dryn	Дрын	Dryn	Дрын/Дрыне/дрынлянін		when in Dryn, do as the Drynians	Banket.qmm
