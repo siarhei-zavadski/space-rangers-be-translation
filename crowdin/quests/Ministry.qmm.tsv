@@ -536,55 +536,74 @@ You heard a click and the cubicle door opened. The floor of the cubicle was cove
 "/quests/Ministry.qmm/locations/51/texts/3/text"	"- Нет. Печати нет. Бумага есть, а вот печати как раз и нету."	"Quest Ministry.qmm: locations.51.texts.3.text. Preserve every <tag> exactly. English reference: - No. I don't have the stamp. I have paper, but no stamp."	"Quest,Ministry"	"- Не. Пячаткі няма. Папера ёсьць, а вось пячаткі якраз і няма."
 "/quests/Ministry.qmm/locations/51/texts/4/text"	"- У вас ещё что-нибудь? - спросил клерк."	"Quest Ministry.qmm: locations.51.texts.4.text. Preserve every <tag> exactly. English reference: - Do you have anything else? - the clerk asked."	"Quest,Ministry"	"- У вас яшчэ нешта? — спытаў клерк."
 "/quests/Ministry.qmm/locations/53/texts/0/text"	"- Нет проблем. Сейчас все оформим в лучшем виде, - сказал клерк и зарядил новенький бланк. - Так. Графа №1: Пол."	"Quest Ministry.qmm: locations.53.texts.0.text. Preserve every <tag> exactly. English reference: - No problem. We're going to perfect it perfectly, the clerk said and inserted a new blank. - Here we go, field 1 - Sex."	"Quest,Ministry"	"- Няма праблемаў. Зараз усё аформім у найлепшым выглядзе, — сказаў клерк і заправіў новенькі блянк. — Так. Графа №1: Пол."
-"/quests/Ministry.qmm/locations/54/texts/0/text"	"- Понятненько. Так и запишем, - пальцы застучали по клавишам. - Теперь графа №2: национальность."	"Quest Ministry.qmm: locations.54.texts.0.text. Preserve every <tag> exactly. English reference: - I see. That's what I fill in, - his fingers hit the keys. - Now field 2: nationality."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/55/texts/0/text"	"- Предельно понятно. Записал. Пункты 3, 4 и 5 заполняются служащим. Готово. Пункт № 6: для чего будет использована арендуемая земля."	"Quest Ministry.qmm: locations.55.texts.0.text. Preserve every <tag> exactly. English reference: - Absolutely clear. Filled in. Fields 3, 4 and 5 are to be filled in by the official. Field 6: for what purposes the land will be used."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/56/texts/0/text"	"- Так и запишем. Имя физического или юридического лица, на которое оформляется аренда Холмогорья"	"Quest Ministry.qmm: locations.56.texts.0.text. Preserve every <tag> exactly. English reference: - Alright. Name of company or individual that will be the lessee of the Hillside."	"Quest,Ministry"	""
+"/quests/Ministry.qmm/locations/54/texts/0/text"	"- Понятненько. Так и запишем, - пальцы застучали по клавишам. - Теперь графа №2: национальность."	"Quest Ministry.qmm: locations.54.texts.0.text. Preserve every <tag> exactly. English reference: - I see. That's what I fill in, - his fingers hit the keys. - Now field 2: nationality."	"Quest,Ministry"	"- Ясна. Так і запішам, — пальцы застукалі па клявішах. — Цяпер графа №2: нацыянальнасьць."
+"/quests/Ministry.qmm/locations/55/texts/0/text"	"- Предельно понятно. Записал. Пункты 3, 4 и 5 заполняются служащим. Готово. Пункт № 6: для чего будет использована арендуемая земля."	"Quest Ministry.qmm: locations.55.texts.0.text. Preserve every <tag> exactly. English reference: - Absolutely clear. Filled in. Fields 3, 4 and 5 are to be filled in by the official. Field 6: for what purposes the land will be used."	"Quest,Ministry"	"- Надзвычай зразумела. Запісаў. Пункты 3, 4 і 5 запаўняюцца службоўцам. Гатова. Пункт № 6: для чаго будзе выкарыстаная зямля, што бярэцца ў арэнду."
+"/quests/Ministry.qmm/locations/56/texts/0/text"	"- Так и запишем. Имя физического или юридического лица, на которое оформляется аренда Холмогорья"	"Quest Ministry.qmm: locations.56.texts.0.text. Preserve every <tag> exactly. English reference: - Alright. Name of company or individual that will be the lessee of the Hillside."	"Quest,Ministry"	"- Так і запішам. Імя фізычнай або юрыдычнай асобы, на якую афармляецца арэнда Узгор'я"
 "/quests/Ministry.qmm/locations/57/texts/0/text"	"- Готово, - радостно сказал клерк, извлекая бумагу из печатной машинки и передавая вам.
 Теперь у вас есть бумаги на аренду Холмогорья. Какие-никакие, но все-таки. Осталось заверить их в секретариате - и к главдому."	"Quest Ministry.qmm: locations.57.texts.0.text. Preserve every <tag> exactly. English reference: - Ready, - the clerk said joyfully, taking out the paper from the typewriter and handing it over to you.
-Now you have the lending papers for Hillside. At least something. All you have to do is stamp them in the Secretariat and go to the housemaster."	"Quest,Ministry"	""
+Now you have the lending papers for Hillside. At least something. All you have to do is stamp them in the Secretariat and go to the housemaster."	"Quest,Ministry"	"- Гатова, — радасна сказаў клерк, дастаючы паперу з друкарскай машынкі і перадаючы вам.
+Цяпер у вас ёсьць паперы на арэнду Узгор'я. Якія-ніякія, але ўсё ж. Засталося заверыць іх у сакратарыяце — і да загадчыка дома."
 "/quests/Ministry.qmm/locations/58/texts/0/text"	"Только вы переступили порог, как по вашим слуховым органам ударил густой бас:
 - Вам заказано? - спросил человек, сидящий в шикарном кресле за резным столом.
 - Конечно. Я по вопросу аренды Холмогорья, - отозвались вы.
 - А! Ну конечно. Проходите. Присаживайтесь, - сказал главдом, приглашая вас сесть на небольшой мягкий стул. - Для начала представлюсь, меня зовут Бобчинский. Но можно и проще - Добчинский. Очень рад, что правительство <FromPlanet> заинтересовано в аренде Холмогорья. Но я думаю, вы понимаете, что мы не можем выдать все нужные бумаги человеку незнакомому. Мало ли, как он распорядится столь важным документом: продаст пиратам или, не дай бог, использует в туалете невесть каким образом. Поэтому вам придется пройти тест на здравое мышление, по результатам которого я буду определять вашу благонадежность."	"Quest Ministry.qmm: locations.58.texts.0.text. Preserve every <tag> exactly. English reference: As soon as you entered the room, a thick bass hit your ears:
 - Is it reserved for you? - asked a man sitting in a luxurious armchair at a carved table. 
 - Of course. I came regarding the lease of Hillside, - you replied.
-- Ah, certainly. Please come in. Have a seat, - the housemaster said, inviting you to sit on a small soft chair. - Let me introduce myself first, my name is Bobchinsky. You can call me Dobchinsky. I am glad that the government of <FromPlanet> is interested in leasing Hillside. But I believe you understand that we can not issue all the required documents to a stranger. Who knows how he may deal with such important document: he may sell it to pirates or use it in a toilet for some mysterious purpose. Thus you will have to take a test of credibility, the results of which will let me decide whether you are trustworthy."	"Quest,Ministry"	""
+- Ah, certainly. Please come in. Have a seat, - the housemaster said, inviting you to sit on a small soft chair. - Let me introduce myself first, my name is Bobchinsky. You can call me Dobchinsky. I am glad that the government of <FromPlanet> is interested in leasing Hillside. But I believe you understand that we can not issue all the required documents to a stranger. Who knows how he may deal with such important document: he may sell it to pirates or use it in a toilet for some mysterious purpose. Thus you will have to take a test of credibility, the results of which will let me decide whether you are trustworthy."	"Quest,Ministry"	"Толькі вы пераступілі парог, як па вашых слыхавых органах ударыў густы бас:
+- Вам замоўлена? — спытаў чалавек, які сядзіць у шыкоўным фатэлі за разьбяным сталом.
+- Вядома. Я ў справе арэнды Узгор'я, — адазваліся вы.
+- А! Ну вядома. Заходзьце. Прысаджвайцеся, — сказаў загадчык дома, запрашаючы вас сесьці на невялікае мяккае крэсла. — Для пачатку прадстаўлюся, мяне клічуць Бабчынскі. Але можна і прасьцей — Дабчынскі. Вельмі рады, што ўрад <FromPlanet> зацікаўлены ў арэндзе Узгор'я. Але я думаю, вы разумееце, што мы не можам выдаць усе патрэбныя паперы чалавеку незнаёмаму. Мала што, як ён распарадзіцца такім важным дакумэнтам: прадасьць піратам або, барані божа, скарыстае ў туалеце невядома якім чынам. Таму вам давядзецца прайсьці тэст на здаровае мысьленьне, па выніках якога я буду вызначаць, наколькі вам можна давяраць."
 "/quests/Ministry.qmm/locations/59/texts/0/text"	"- Кажется, мы с вами не поняли друг друга. Покиньте помещение и больше никогда не заходите сюда. Слышите - никогда, НИКОГДА! - заорал главдом.
 
 Покинув кабинет, вы осознали, что, поссорившись с главдомом, вы свели все ваши шансы получить сертификат на аренду к нулю. В расстроенных чувствах вы улетели с острова. Эх. Говорила вам мама - нельзя спорить с бюрократами..."	"Quest Ministry.qmm: locations.59.texts.0.text. Preserve every <tag> exactly. English reference: - I guess we misunderstood each other. Leave the premises and never come back here! Do you hear me - never, NEVER!!! - shouted the housemaster.
 
-After you left the room you realised that by arguing with the housemaster you lost the opportunity to obtain the lease certificate. Disappointed you left the island. You mother taught you not to argue with authorities..."	"Quest,Ministry"	""
+After you left the room you realised that by arguing with the housemaster you lost the opportunity to obtain the lease certificate. Disappointed you left the island. You mother taught you not to argue with authorities..."	"Quest,Ministry"	"- Здаецца, мы з вамі не зразумелі адно аднаго. Пакіньце памяшканьне і больш ніколі сюды не заходзьце. Чуеце — ніколі, ніколі! — зароў загадчык дома.
+
+Пакінуўшы кабінэт, вы ўсьвядомілі, што, пасварыўшыся з загадчыкам дома, вы зьвялі ўсе вашыя шанцы атрымаць сэртыфікат на арэнду да нуля. У засмучаных пачуцьцях вы паляцелі з вострава. Эх. Казала вам мама — нельга спрачацца з бюракратамі..."
 "/quests/Ministry.qmm/locations/60/texts/0/text"	"- Ок... Поехали, - сказал главдом и достал какую-то тетрадь с карандашом.
 <clr>Что нужно, чтобы запустить звездолет?<clrEnd>"	"Quest Ministry.qmm: locations.60.texts.0.text. Preserve every <tag> exactly. English reference: - OK... Here we go, - the housemaster said and took out a notebook with a pencil. 
-<clr>What is required to start a starship?<clrEnd>"	"Quest,Ministry"	""
+<clr>What is required to start a starship?<clrEnd>"	"Quest,Ministry"	"- Добра... Паехалі, — сказаў загадчык дома і дастаў нейкі сшытак з алоўкам.
+<clr>Што трэба, каб завесьці зорны карабель?<clrEnd>"
 "/quests/Ministry.qmm/locations/61/texts/0/text"	"Неужели так и нужно? Я сообщу в органы, выдавшие вам права на межзвездные полеты. Нет-нет, изменить ответ уже нельзя!!!
 
 Ладно. Следующий вопрос:
 <clr>Как надо жарить пенчекряка?<clrEnd>"	"Quest Ministry.qmm: locations.61.texts.0.text. Preserve every <tag> exactly. English reference: Are you sure about that? I will inform the authorities that issued you the permission for space travel. No way, you can't change your answer!!!
 
 Alright. Next question:
-<clr>How do you fry a penchekryak?<clrEnd>"	"Quest,Ministry"	""
+<clr>How do you fry a penchekryak?<clrEnd>"	"Quest,Ministry"	"Няўжо так і трэба? Я паведамлю ў органы, якія выдалі вам правы на міжзоркавыя палёты. Не-не, зьмяніць адказ ужо нельга!!!
+
+Добра. Наступнае пытаньне:
+<clr>Як трэба смажыць пэнчэкрака?<clrEnd>"
 "/quests/Ministry.qmm/locations/62/texts/0/text"	"Да что вы говорите? А мне один фэянин сказал, что готовить пенчекряков нельзя ни в каком виде. Нужно есть минеральные удобрения и пить янвелб! Впрочем, может быть, у составителей теста другое мнение на этот счет. Потом разберемся.
 
 Так. Еще один вопрос:
 <clr>Не лает, не кусает, а в дом не пускает. Кто это?<clrEnd>"	"Quest Ministry.qmm: locations.62.texts.0.text. Preserve every <tag> exactly. English reference: What do you say? A Faeyan told me that penchekryaks are not suitable for eating in any form. One has to eat mineral fertilisers and drink ekup! But the authors of the test may have a different opinion. We will see later. 
 
 Alright, another question:
-<clr>It does not howl, does not bite, but does not let you inside the house. What is it? <clrEnd>"	"Quest,Ministry"	""
+<clr>It does not howl, does not bite, but does not let you inside the house. What is it? <clrEnd>"	"Quest,Ministry"	"Што вы кажаце? А мне адзін фэянін сказаў, што гатаваць пэнчэкракаў нельга ні ў якім выглядзе. Трэба есьці мінэральныя ўгнаеньні і піць янвэлб! Зрэшты, можа, у ўкладальнікаў тэсту іншая думка на гэты конт. Потым разьбяромся.
+
+Так. Яшчэ адно пытаньне:
+<clr>Не брэша, не кусае, а ў дом не пускае. Хто гэта?<clrEnd>"
 "/quests/Ministry.qmm/locations/63/texts/0/text"	"А, чёрт, не в ту колонку крестик поставил! Ну и ладно...
 
 Четвертый вопрос:
 <clr>Закончите фразу: ""Все политики...""<clrEnd>"	"Quest Ministry.qmm: locations.63.texts.0.text. Preserve every <tag> exactly. English reference: Ah, damn it, I ticked off in a wrong column! Does not matter...
 
 The fourth question:
-<clr>Finish the phrase: ""All politicians are...""<clrEnd>"	"Quest,Ministry"	""
+<clr>Finish the phrase: ""All politicians are...""<clrEnd>"	"Quest,Ministry"	"А, чорт, не ў тую калёнку крыжык паставіў! Ну і добра...
+
+Чацьвёртае пытаньне:
+<clr>Закончыце фразу: ""Усе палітыкі...""<clrEnd>"
 "/quests/Ministry.qmm/locations/64/texts/0/text"	"Кстати, спешу вас предупредить, что мой кабинет находится на постоянном прослушивании спецслужбами правительства <ToPlanet>. Но вас ведь это не беспокоит, верно?
 
 Ладно. И, наконец, последний вопрос:
 <clr>Какой малок не любит...<clrEnd>"	"Quest Ministry.qmm: locations.64.texts.0.text. Preserve every <tag> exactly. English reference: By the way, I would like to warn you that all conversations in this room are constantly recorded by the secret service of the government of <ToPlanet>. But it does not worry you, does it? 
 
 Alright. And now - the last question:
-<clr>Every Maloq loves to...<clrEnd>"	"Quest,Ministry"	""
+<clr>Every Maloq loves to...<clrEnd>"	"Quest,Ministry"	"Дарэчы, сьпяшаюся вас папярэдзіць, што мой кабінэт знаходзіцца на пастаянным праслухоўваньні спэцслужбамі ўрада <ToPlanet>. Але вас жа гэта не турбуе, праўда?
+
+Добра. І, нарэшце, апошняе пытаньне:
+<clr>Які малок не любіць...<clrEnd>"
 "/quests/Ministry.qmm/locations/66/texts/0/text"	"- Так. Значит, тест вы прошли, - продолжил Бобчинский.
 - И теперь вы подпишете мне бумаги на аренду Холмогорья? - осведомились вы.
 - Нет.

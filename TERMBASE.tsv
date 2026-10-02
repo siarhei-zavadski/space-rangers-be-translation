@@ -266,7 +266,7 @@ lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr>
 lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
-lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак		pirate slur for goody ranger; invented	—
+lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў		pirate slur for goody ranger; invented	—
 lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
@@ -1040,3 +1040,4 @@ lemma.rachekhanovna	Рачехановна	Rachehanovna	Рачэханаўна/�
 lemma.ga_notsri	Га-Ноцри	Ga-Notsri	Ноцры	Норцы	schoolmate's name; hunspell suggestion is a different word	Ministry.qmm
 lemma.dunya	Дуня	Dunia	Дуня	Дуля	secretary's first name; hunspell suggestions are other words	Ministry.qmm
 lemma.marmyshkin	Мормышкин	Marmyshkine	Мармышкін	Мармышка	fishing-lure surname on the basement rod	https://starnik.by/pravapis/41875
+lemma.bobchinsky	Бобчинский / Добчинский	Bobchinsky / Dobchinsky	Бабчынскі/Дабчынскі	Абісынскі	Gogol pair; the housemaster offers both names	Ministry.qmm
