@@ -678,3 +678,16 @@ lemma.magic	волшебный	magical	магічны	чароўны	spell sense
 lemma.dragon	змей	dragon	цмок	змей	fairy-tale dragon; G цмока	https://starnik.by/pravapis/82903
 lemma.gorynych	Горыныч	Gorynych	Гарыныч		proper name; akanie	Park.qmm
 lemma.gladiator	гладиатор	gladiator	глядыятар	гладыятар	D глядыятару	hunspell-be-tarask
+lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
+lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
+lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам		loan already used in Provoda	—
+lemma.reboot	перезагрузка	reboot	перазагрузка/перазагрузку/перазагрузкі		same word as Дамінатары: Перазагрузка	—
+lemma.repair	починка	repair	рамонт	пачынка	G рамонту; пачынка means a beginning	https://starnik.by/pravapis/63736
+lemma.fix	починить	to repair	направіць		machine sense, as направіць станок	https://starnik.by/pravapis/190300
+lemma.bloodlet	кровопускательный	bloodletting	кровапускальны/кровапускальнай	крывепускальны	adj of кровапусканьне; hunspell -ньне	https://starnik.by/pravapis/36916
+lemma.professor	профессор	professor	прафэсар	прафесар	hunspell wins	hunspell-be-tarask
+lemma.grinya	Гриня Загрино	Grinya Zagrino	Грыня Загрыно		children's-literature joke names	Park.qmm
+lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from корань	Park.qmm
+lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
+lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
+lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
