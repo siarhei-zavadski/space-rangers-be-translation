@@ -239,23 +239,29 @@ You stand on a beach of a swamped lake. A warm wind blows into your pink-cheeked
 
 Вы стаіце на беразе забалочанага азярка. Цёплы вецер абдзімае ваш ружовашчокі твар, трысьнёг варушыцца ў такт хвалям. Прыгажосьць, адным словам!"
 "/quests/Ministry.qmm/locations/23/texts/5/text"	"Крючка на удочке не оказалось, и вы попросту обвязали пиявку леской. Теперь не соскочит!"	"Quest Ministry.qmm: locations.23.texts.5.text. Preserve every <tag> exactly. English reference: There was no hook with the fishing rod and you just wrapped the bloodsucker with the line. It won't come off this time!"	"Quest,Ministry"	"Кручка на вудзе не аказалася, і вы папросту абвязалі п'яўку жылкай. Цяпер не саскочыць!"
-"/quests/Ministry.qmm/locations/25/texts/0/text"	"Секретарша сверлит взглядом стол. Очевидно, сейчас она не занята, и ее можно о чем-нибудь спросить."	"Quest Ministry.qmm: locations.25.texts.0.text. Preserve every <tag> exactly. English reference: The secretary is staring at the table. She is obviously not busy and you can ask her about something."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/25/texts/1/text"	"- Как знаешь, - сказала секретарша."	"Quest Ministry.qmm: locations.25.texts.1.text. Preserve every <tag> exactly. English reference: - As you wish, - the secretary said."	"Quest,Ministry"	""
+"/quests/Ministry.qmm/locations/25/texts/0/text"	"Секретарша сверлит взглядом стол. Очевидно, сейчас она не занята, и ее можно о чем-нибудь спросить."	"Quest Ministry.qmm: locations.25.texts.0.text. Preserve every <tag> exactly. English reference: The secretary is staring at the table. She is obviously not busy and you can ask her about something."	"Quest,Ministry"	"Сакратарка сьвідруе позіркам стол. Відавочна, цяпер яна не занятая, і яе можна пра нешта спытаць."
+"/quests/Ministry.qmm/locations/25/texts/1/text"	"- Как знаешь, - сказала секретарша."	"Quest Ministry.qmm: locations.25.texts.1.text. Preserve every <tag> exactly. English reference: - As you wish, - the secretary said."	"Quest,Ministry"	"- Як ведаеш, — сказала сакратарка."
 "/quests/Ministry.qmm/locations/25/texts/2/text"	"- Рыба? Фи! Какая гадость. Рыба меня полнит.
 Как говорится, тебя не рыба полнит, а то, что ты ешь по семь раз на дню."	"Quest Ministry.qmm: locations.25.texts.2.text. Preserve every <tag> exactly. English reference: - Fish? Auh! Disgusting! Fish makes me fat. 
-Well, it's not fish, but the fact that you eat seven times a day."	"Quest,Ministry"	""
+Well, it's not fish, but the fact that you eat seven times a day."	"Quest,Ministry"	"- Рыба? Фу! Якая агіда. Ад рыбы я таўсьцею.
+Як кажуць, ты таўсьцееш не ад рыбы, а ад таго, што ясі па сем разоў на дзень."
 "/quests/Ministry.qmm/locations/25/texts/3/text"	"- Спасибо. Добрый рейнджер, хороший. Хочешь, я тебя за доброту твою поцелую? - сладенько пролепетала Рачехановна.
 - Нет уж. Спасибо.
 - Ну как хочешь."	"Quest Ministry.qmm: locations.25.texts.3.text. Preserve every <tag> exactly. English reference: - Thank you. What a kind ranger. Would you like me to kiss you for your kindness? - gabbled Rachehanovna sweetly.
 - No thanks.
-- As you wish."	"Quest,Ministry"	""
+- As you wish."	"Quest,Ministry"	"- Дзякуй. Добры рэйнджэр, мілы. Хочаш, я цябе за дабрыню тваю пацалую? — салодка пралепятала Рачэханаўна.
+- Не ўжо. Дзякуй.
+- Ну як хочаш."
 "/quests/Ministry.qmm/locations/25/texts/4/text"	"- В смысле, нет? Вы вообще в том подвале смотрели? Идите в холл, а оттуда по лестнице вниз, - прозвучал ответ.
 - Спускался я уже по лестнице. Канцелярии там нет.
 - Любезный, вы начинаете меня раздражать. Я же вам сказала, она находится в подвале. Повторить?
 Определенно, секретарша не в курсе, что канцелярии уже там нет. Но доказывать ей это не стоит - здоровее будешь. Так учил вас ваш дедушка."	"Quest Ministry.qmm: locations.25.texts.4.text. Preserve every <tag> exactly. English reference: - What do you mean no? Have you checked the right basement? Go to the lobby and then downstairs, - she said.
 - I did go down the stairs, the Registry was not there. 
 - Dear sir, you are beginning to annoy me. I told you that it is in the basement. Should I repeat? 
-The secretary is obviously unaware that the registry is not there anymore. But you'd better not prove it to her. You'd save some health, as your grandfather said."	"Quest,Ministry"	""
+The secretary is obviously unaware that the registry is not there anymore. But you'd better not prove it to her. You'd save some health, as your grandfather said."	"Quest,Ministry"	"- У сэнсе, не? Вы ўвогуле ў тым сутарэньні глядзелі? Ідзіце ў хол, а адтуль па лесьвіцы ўніз, — прагучаў адказ.
+- Спускаўся я ўжо па лесьвіцы. Канцылярыі там няма.
+- Ласкавы, вы пачынаеце мяне раздражняць. Я ж вам сказала, яна знаходзіцца ў сутарэньні. Паўтарыць?
+Відавочна, сакратарка ня ведае, што канцылярыі ўжо там няма. Але даводзіць ёй гэта не варта — здаравей будзеш. Так вучыў вас ваш дзядуля."
 "/quests/Ministry.qmm/locations/25/texts/5/text"	"""Правила? Ну хорошо, - отозвалась секретарша. - Играют колодой из 36 карт. Раздается по две карты, и игроки считают очки. Принцип подсчета простой: шестерка считается за шесть очков, семерка за семь и так далее до десятки, которая считается за десять очков. Валет считается за два очка, дама за три, король за четыре, а туз за одиннадцать. 
 
 Если у меня на руках после первой раздачи оказывается 21 очко, то я автоматически выигрываю, несмотря на то, сколько очков наберешь ты. Извини, приятель: моя колода - у меня и привилегии. Но если я с двух карт не наберу 21 очко, а ты наберешь, то победа автоматически за тобой. Однако обычно оба игрока не набирают 21 с двух карт, тогда можно брать из колоды еще по одной карте. Кстати, дополнительно можно брать не более пяти карт. Вот. И тут уже есть возможность набрать 21 очко. Ситуация, когда на руках у игрока оказывается более 21 очка, называется перебором. Но от взятия дополнительной карты можно и отказаться, если опасаешься набрать более 21 очка. 
@@ -268,9 +274,15 @@ If after the first deal I have 21 points, I automatically win, no matter how man
 
 After both of us stop taking cards, the game is over. We show our cards to each other and compare collected points. If the numbers of points are equal, then it is drawn. If anyone has more points and there is no overshoot, that one is the winner. That's it. 
 
-In general, the rules are not complicated, but sometimes it's hard to realise them at once. You'll get it when you play."""	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/25/texts/6/text"	"""В холле, спуститесь по лестнице - и вы на месте"", - прозвучал ответ."	"Quest Ministry.qmm: locations.25.texts.6.text. Preserve every <tag> exactly. English reference: ""In the lobby, take the stairs down - and you are there"", - she replied."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/25/texts/7/text"	"- Оформите бумаги в канцелярии, затем приходите сюда. Я вам их заверю. А дальше к главдому. Он рассмотрит заявку, установит квоты, состыкует параграфы и подпункты, - отчеканила секретарша, даже не оторвав взгляда от столешницы."	"Quest Ministry.qmm: locations.25.texts.7.text. Preserve every <tag> exactly. English reference: - Obtain the papers from the Registry and come back here. I will stamp them. Then you will have to go to the housemaster. He will review the application, define quotes, align points and sub-points, - the secretary uttered still staring at the table."	"Quest,Ministry"	""
+In general, the rules are not complicated, but sometimes it's hard to realise them at once. You'll get it when you play."""	"Quest,Ministry"	"""Правілы? Ну добра, — адазвалася сакратарка. — Гуляюць калодай з 36 картаў. Раздаецца па дзьве карты, і гульцы лічаць ачкі. Прынцып падліку просты: шасьцёрка лічыцца за шэсьць ачкоў, сямёрка за сем і гэтак далей да дзясяткі, якая лічыцца за дзесяць ачкоў. Валет лічыцца за два ачкі, дама за тры, кароль за чатыры, а туз за адзінаццаць. 
+
+Калі ў мяне на руках пасьля першай раздачы аказваецца 21 ачко, то я аўтаматычна выйграю, нягледзячы на тое, колькі ачкоў набярэш ты. Выбачай, сябар: мая калода — у мяне і прывілеі. Але калі я з дзьвюх картаў не набяру 21 ачко, а ты набярэш, то перамога аўтаматычна за табой. Аднак звычайна абодва гульцы не набіраюць 21 з дзьвюх картаў, тады можна браць з калоды яшчэ па адной карце. Дарэчы, дадаткова можна браць не больш за пяць картаў. Вось. І тут ужо ёсьць магчымасьць набраць 21 ачко. Сытуацыя, калі на руках у гульца аказваецца больш за 21 ачко, называецца пераборам. Але ад узяцьця дадатковай карты можна і адмовіцца, калі баісься набраць больш за 21 ачко. 
+
+Пасьля таго, як мы абодва спынім браць карты — гульня завяршаецца. Мы паказваем адно аднаму свае карты і параўноўваем колькасьць ачкоў. Калі ачкоў пароўну, то нічыя. Калі ў кагосьці больш ачкоў, і ў яго няма перабору, то ён перамог. Гэта ўсё.
+
+Увогуле, правілы не складаныя, але іх часам цяжка ўсьвядоміць адразу. Дык згуляеш — зразумееш."""
+"/quests/Ministry.qmm/locations/25/texts/6/text"	"""В холле, спуститесь по лестнице - и вы на месте"", - прозвучал ответ."	"Quest Ministry.qmm: locations.25.texts.6.text. Preserve every <tag> exactly. English reference: ""In the lobby, take the stairs down - and you are there"", - she replied."	"Quest,Ministry"	"""У холе, спусьціцеся па лесьвіцы — і вы на месцы"", — прагучаў адказ."
+"/quests/Ministry.qmm/locations/25/texts/7/text"	"- Оформите бумаги в канцелярии, затем приходите сюда. Я вам их заверю. А дальше к главдому. Он рассмотрит заявку, установит квоты, состыкует параграфы и подпункты, - отчеканила секретарша, даже не оторвав взгляда от столешницы."	"Quest Ministry.qmm: locations.25.texts.7.text. Preserve every <tag> exactly. English reference: - Obtain the papers from the Registry and come back here. I will stamp them. Then you will have to go to the housemaster. He will review the application, define quotes, align points and sub-points, - the secretary uttered still staring at the table."	"Quest,Ministry"	"- Аформіце паперы ў канцылярыі, потым прыходзьце сюды. Я вам іх заверу. А далей да загадчыка дома. Ён разгледзіць заяўку, усталюе квоты, стыкуе параграфы і падпункты, — адчаканіла сакратарка, нават не адарваўшы позірку ад стальніцы."
 "/quests/Ministry.qmm/locations/25/texts/8/text"	"- Ладно. Держи вот <clr>очки<clrEnd>, - сказала секретарша.
 - Спасибочки.
 - Э! Стой. Я ж без них почти ничего не вижу. Отдай!
@@ -281,13 +293,20 @@ In general, the rules are not complicated, but sometimes it's hard to realise th
 - Hey, wait! I can hardly see without them. Give them back at once! 
 - Yeah, you wish. You lost the game and you had to pay, - you said and for some reason put your tongue out.
 - Fine. But I'm not going to play with you anymore, you cheater! 
-Hurt, the secretary put the cards away in the drawer. The game is really cancelled."	"Quest,Ministry"	""
+Hurt, the secretary put the cards away in the drawer. The game is really cancelled."	"Quest,Ministry"	"- Добра. Трымай вось <clr>акуляры<clrEnd>, — сказала сакратарка.
+- Дзякуй.
+- Э! Стой. Я ж без іх амаль нічога не бачу. Аддай!
+- Зараз. Прагуляла, дык і расплачвайся, — сказалі вы і чамусьці паказалі Рачэханаўне язык.
+- Добра. Бог табе судзьдзя. Але гуляць я з табой, прахвостам, больш не буду.
+Сакратарка з крыўдай у вачах прыбрала карты ў стол. Здаецца, гульня сапраўды скасоўваецца."
 "/quests/Ministry.qmm/locations/27/texts/0/text"	"Вы стоите посреди квадратного помещения, освещенного зеленой люстрой. Блики света бегают по всей комнате, мешая сосредоточиться.
 За столом сидит внушительного вида секретарша, необъятная как наша галактика. Одета в какое-то разноцветное платье с подсолнухами. А на носу большие очки с толстыми линзами. Довершает картину большая дымящаяся сигара в зубах.
 На вас служительница печати и кофеварки не обращает ровным счетом никакого внимания. Осмотревшись еще раз, вы заметили в углу небольшую урну для мусора - полезная штука, если нужно что-то выбросить."	"Quest Ministry.qmm: locations.27.texts.0.text. Preserve every <tag> exactly. English reference: You stand in the middle of a square room, illuminated with a green chandelier. Light flares around the room prevent you from focusing. 
 A secretary of a considerable size, immense as our galaxy, sits at a table. She is dressed in a weird multicoloured dress imprinted with sunflowers. She has huge glasses with thick lenses. There is a large lit cigar in her mouth. 
-The mistress of the stamp and coffee-machine pays absolutely no attention to you. After another quick look around, you noticed a small trash can in the corner - a useful thing when one has to throw away something."	"Quest,Ministry"	""
-"/quests/Ministry.qmm/locations/27/texts/1/text"	"Все как обычно. Люстра, мусорка, секретарша за столом. Вот только <clr>очков теперь на ней нет<clrEnd>."	"Quest Ministry.qmm: locations.27.texts.1.text. Preserve every <tag> exactly. English reference: The setting is usual. A chandelier, trash can, secretary at a table. Only <clr>she does not have glasses on<clrEnd>."	"Quest,Ministry"	""
+The mistress of the stamp and coffee-machine pays absolutely no attention to you. After another quick look around, you noticed a small trash can in the corner - a useful thing when one has to throw away something."	"Quest,Ministry"	"Вы стаіце пасярод квадратнага памяшканьня, асьветленага зялёнай люстрай. Блікі сьвятла бегаюць па ўсім пакоі, замінаючы засяродзіцца.
+За сталом сядзіць важнага выгляду сакратарка, неабсяжная, як наша галяктыка. Апранутая ў нейкую стракатую сукню з сланечнікамі. А на носе вялікія акуляры з тоўстымі лінзамі. Давяршае карціну вялікая дымная цыгара ў зубах.
+На вас служка пячаткі і кававаркі не зьвяртае роўна ніякай увагі. Агледзеўшыся яшчэ раз, вы заўважылі ў куце невялікую сьметніцу — карысная рэч, калі трэба нешта выкінуць."
+"/quests/Ministry.qmm/locations/27/texts/1/text"	"Все как обычно. Люстра, мусорка, секретарша за столом. Вот только <clr>очков теперь на ней нет<clrEnd>."	"Quest Ministry.qmm: locations.27.texts.1.text. Preserve every <tag> exactly. English reference: The setting is usual. A chandelier, trash can, secretary at a table. Only <clr>she does not have glasses on<clrEnd>."	"Quest,Ministry"	"Усё як звычайна. Люстра, сьметніца, сакратарка за сталом. Вось толькі <clr>акуляраў цяпер на ёй няма<clrEnd>."
 "/quests/Ministry.qmm/locations/28/texts/0/text"	"- Дуня Рачехановна! - отчеканила грузная секретарша.
 - Какое красивое имя.
 - Попробовал бы сказать иначе. Расколола бы башку, как кокосовый орех. Гы-гы-гы, - неестественно захохотала грузная женщина.
