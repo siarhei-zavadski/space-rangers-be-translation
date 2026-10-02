@@ -489,19 +489,30 @@
 "/quests/Park.qmm/locations/42/texts/0/text"	"Все тело ноет, а работать надо! Торги-то идут полным ходом!
 
 - Итак, лот последний: сувенир <clr>""СИНИЙ КУБИК с монограммой председателя совета директоров парка""<clrEnd>, начальная цена <clr>10 монет<clrEnd> - проорала Баба-Яга в зал и продолжила
-- Кто даст <clr>15 монет<clrEnd>?"	"Quest Park.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+- Кто даст <clr>15 монет<clrEnd>?"	"Quest Park.qmm: locations.42.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Усё цела ные, а працаваць трэба! Таргі ідуць поўным ходам!
+
+- Дык вось, лот апошні: сувэнір <clr>""СІНІ КУБІК з манаграмай старшыні рады дырэктараў парку""<clrEnd>, пачатковая цана <clr>10 манэтаў<clrEnd> — пракрычала Баба-Яга ў залю і працягнула
+- Хто дасьць <clr>15 манэтаў<clrEnd>?"
 "/quests/Park.qmm/locations/43/texts/0/text"	"Вы облазили этот квадрат сада вдоль и поперек, но ничего, кроме пустой бутылки из-под <clr>""Бом Гав-Гав-УЁН""<clrEnd> разлива 2950 года, найдено не было. Вы сильно устали и несолоно хлебавши вернулись к справочному бюро, чтобы еще раз, но уже внимательнее прочитать послание."	"Quest Park.qmm: locations.43.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Вы аблазілі гэты квадрат саду ўздоўж і ўпоперак, але нічога, акрамя пустой бутэлькі з-пад <clr>""Бом Гаў-Гаў-УЁН""<clrEnd> разьліву 2950 году, знойдзена не было. Вы моцна стаміліся і вярнуліся да даведачнага бюро ні з чым, каб яшчэ раз, але ўжо ўважлівей, прачытаць пасланьне."
 "/quests/Park.qmm/locations/44/texts/0/text"	"Вы встали и крикнули: 
 - ПЯТНАДЦАТЬ! 
 Но вас перекричал еще более зычный голос: 
 - ДАЮ ДВАДЦАТЬ МОНЕТ!
-- Кто даст за этот лот <clr>25 монет<clrEnd>? - снова крикнула Баба-Яга."	"Quest Park.qmm: locations.44.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+- Кто даст за этот лот <clr>25 монет<clrEnd>? - снова крикнула Баба-Яга."	"Quest Park.qmm: locations.44.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Вы ўсталі і крыкнулі:
+- ПЯТНАЦЦАЦЬ!
+Але вас перакрычаў яшчэ больш зычны голас:
+- ДАЮ ДВАЦЦАЦЬ МАНЭТАЎ!
+- Хто дасьць за гэты лот <clr>25 манэтаў<clrEnd>? — зноў крыкнула Баба-Яга."
 "/quests/Park.qmm/locations/45/texts/0/text"	"С особой осторожностью вы приблизились ко входу в пещеру. Толстые ворота плотно закрыты, и открыть их без тяжелой ракетной установки представляется проблематичным. Отсутствует даже малейшее подобие какого-либо пульта управления дверью. Что же делать? Здесь, как никогда более, необходимо будет принять умное решение."	"Quest Park.qmm: locations.45.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/46/texts/0/text"	"""Тише едешь - дальше будешь"", - решили вы, но всего лишь через несколько секунд чей-то зычный голос крикнул:
 - ДАЮ ДВАДЦАТЬ!
 - Кто даст <clr>25 монет<clrEnd>? - снова крикнула в зал Баба-Яга.
 
-Ваши действия?"	"Quest Park.qmm: locations.46.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Ваши действия?"	"Quest Park.qmm: locations.46.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"""Цішэй едзеш — далей будзеш"", — вырашылі вы, але ўсяго праз некалькі сэкундаў чыйсьці зычны голас крыкнуў:
+- ДАЮ ДВАЦЦАЦЬ!
+- Хто дасьць <clr>25 манэтаў<clrEnd>? — зноў крыкнула ў залю Баба-Яга.
+
+Вашы дзеяньні?"
 "/quests/Park.qmm/locations/47/texts/0/text"	"""У-у-у-у-ё-ё-ё-ё-х-х-х-у-у-у!!!!"" - издали вы радостный боевой клич древних ацтоев - народа, некогда жившего на главной планете людей - Земле. А тем временем двери пещеры плавно и бесшумно раздвинулись. Посмотрев по сторонам и заглянув внутрь, вы осторожно вошли в пещеру, которая представляла собой небольшой зал с биотическими компьютерами. В центре, на небольшом возвышении, под надписью <clr>Центральный Пост Управления<clrEnd>, находился самой большой биотический компьютер. На одном из экранов демонстрировались ваши попытки открыть дверь. Вся техника была, на первый взгляд, в рабочем состоянии: горели терминалы, гудели озонаторы, на центральном экране транслировался отчет о работе роботов из фанера-попсовой группы ""Аленушки International"", концерт которых был в данный момент в самом разгаре... Одним словом подходи, садись в мягкое кресло, надевай перчатку управления и работай. Вы подошли ближе к ЦПУ и... О ЧУДО! В третьей ячейке из семи для установки парольных кубиков вы обнаружили <clr>ЖЕЛТЫЙ КУБИК<clrEnd>!!! Осмотрев внимательно это ""чудо техники"" с семью одинаковыми квадратными ячейками для кубиков и надписью на древнем языке ацтоев, напоминающее по внешнему виду <clr>""RAINBOW""<clrEnd>, вы вытащили из мешочка и вставили, как вам говорили в начале вашего путешествия, в первую ячейку, под буквой ""Я - зеркальная"" <clr>КРАСНЫЙ КУБИК<clrEnd>, а в последнюю - <clr>ФИОЛЕТОВЫЙ КУБИК<clrEnd>, под буквой <clr>""М - перевернутая""<clrEnd>. Осталось приспособить остальные четыре кубика. ""Гномик"" что-то мычал про какое-то красивое явление, как вы помните. Итак, какой кубик будем запихивать во вторую ячейку, под буквой <clr>""А - Русская""<clrEnd>?"	"Quest Park.qmm: locations.47.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/47/texts/1/text"	"""Повторение - мать учения"". Вспомнив эту нехитрую истину, вы приступаете к новой попытке, сначала вытащив, а затем снова вставив, в первую ячейку, под буквой ""Я - зеркальная"", КРАСНЫЙ КУБИК, а в последнюю - ""ФИОЛЕТОВЫЙ КУБИК"", под буквой ""М - перевернутая"", не трогая ЖЕЛТЫЙ КУБИК. Осталось приспособить остальные четыре кубика. ""Гномик"" что-то мычал про какое-то красивое явление ""РЭЙНБОУ"". Может это вам сейчас поможет? Итак, какой кубик будем запихивать во вторую ячейку, под буквой ""А - Русская""?"	"Quest Park.qmm: locations.47.texts.1.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/47/texts/2/text"	"""Врагу не сдается наш рейнджер-хиляк"", - вспомнили вы строки из популярной рейнджерской песни. С чувством огромного энтузиазма вы в очередной раз приступаете к новой попытке, сначала вытащив, а затем снова вставив, в первую ячейку, под буквой ""Я - зеркальная"", КРАСНЫЙ КУБИК, а в последнюю - ""ФИОЛЕТОВЫЙ КУБИК"", под буквой ""М - перевернутая"", не трогая ЖЕЛТЫЙ КУБИК. Осталось приспособить остальные четыре кубика. ""Гномик"", определенно, не зря что-то мычал про какое-то красивое явление ""РЭЙНБОУ"". Итак, какой кубик будем запихивать во вторую ячейку, под буквой ""А - Русская""?"	"Quest Park.qmm: locations.47.texts.2.text. Preserve every <tag> exactly."	"Quest,Park"	""
@@ -512,14 +523,21 @@
 - Я ДАМ ДВАДЦАТЬ ПЯТЬ МОНЕТ! - почти сразу последовал ответ.
 - Кто даст <clr>30 монет<clrEnd>? - снова крикнула в зал Баба-Яга.
 
-Ваши действия?"	"Quest Park.qmm: locations.48.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+Ваши действия?"	"Quest Park.qmm: locations.48.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"Не ўстаючы з месца, вы ўскінулі ўгору абедзьве рукі і закрычалі:
+- ДАЮ ДВАЦЦАЦЬ МАНЭТАЎ!
+- Хто дасьць 25 манэтаў? — строга і пытальна крыкнула Баба-Яга.
+- Я ДАМ ДВАЦЦАЦЬ ПЯЦЬ МАНЭТАЎ! — амаль адразу прагучаў адказ.
+- Хто дасьць <clr>30 манэтаў<clrEnd>? — зноў крыкнула ў залю Баба-Яга.
+
+Вашы дзеяньні?"
 "/quests/Park.qmm/locations/49/texts/0/text"	"Вы осторожно вставили кубик и... ничего не произошло. И не должно было произойти. Вы ведь вставили еще не все кубики. Посмотрев внимательно на <clr>ЖЕЛТЫЙ КУБИК<clrEnd>, вы обнаружили надпись: <clr>""Не трогать, высокое напряжение!""<clrEnd>, которая отбила у вас всю охоту трогать, а уж тем более пытаться вытащить его из третьей ячейки. Придя к мнению, что <clr>ЖЕЛТЫЙ КУБИК<clrEnd> на месте, вы перешли к следующему этапу.
 Итак, какой кубик будем вставлять в четвертую ячейку, под буквой <clr>""И - зеркальная""<clrEnd>?"	"Quest Park.qmm: locations.49.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/50/texts/0/text"	"НАЧАЛСЯ КОНЦЕРТ...
 Он вам так понравился, что вы забыли про все на свете. А когда концерт закончился, то в вашем мешочке не было ни денег, ни кубиков.
 Помните - <clr>""прямо пойдешь - голову потеряешь""<clrEnd>? Чтобы эта фраза не переросла в реальность, вам пришлось убраться с этой планеты подобру-поздорову несолоно хлебавши, поминая недобрыми словами злополучный аукцион, а особенными словами - концерт фанера-попсовой группы ""Аленушки International""."	"Quest Park.qmm: locations.50.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/locations/51/texts/0/text"	"- <clr>ДАЮ 35 МОНЕТ!<clrEnd> - на ходу перебивая вашу цену, прокричал кто-то с голосом человека, которому что-то дверью прищемили.
-- Кто предложит <clr>40 монет<clrEnd>? - громогласно осведомилась Баба-Яга"	"Quest Park.qmm: locations.51.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	""
+- Кто предложит <clr>40 монет<clrEnd>? - громогласно осведомилась Баба-Яга"	"Quest Park.qmm: locations.51.texts.0.text. Preserve every <tag> exactly."	"Quest,Park"	"- <clr>ДАЮ 35 МАНЭТАЎ!<clrEnd> — на хаду перабіваючы вашу цану, пракрычаў нехта голасам чалавека, якому нешта прышчамілі дзьвярыма.
+- Хто прапануе <clr>40 манэтаў<clrEnd>? — грымотным голасам спытала Баба-Яга"
 "/quests/Park.qmm/locations/52/texts/0/text"	"Верный своей тактике, вы крикнули свою новую цену.
 
 Не успела Баба - Яга прокричать свою дежурную фразу, как за этот лот начали предлагать все большую цену, рост которой остановился на отметке в <clr>ДВЕСТИ ПЯТЬДЕСЯТ ПЯТЬ монет<clrEnd>. Денег, чтобы перебить эту цену у вас, увы, не было и <clr>СИНИЙ КУБИК<clrEnd> ушел к другому покупателю.
@@ -716,7 +734,7 @@
 "/quests/Park.qmm/jumps/45/text"	"Одноручный меч-кладенец и щит"	"Quest Park.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Park"	"Аднаручны меч-кладзянец і шчыт"
 "/quests/Park.qmm/jumps/46/text"	"Копье с электрошоковым наконечником"	"Quest Park.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Park"	"Дзіда з электрашокавым наканечнікам"
 "/quests/Park.qmm/jumps/46/description"	"Схватив копье, вы тут же, не теряя ни секунды, метнули его со всей силы в Змея Горыныча. Увидев, что копье попало в среднюю голову птички, вы радостно вскинули руки вверх, подкрепив действие радостным вскриком..."	"Quest Park.qmm: jumps.46.description. Preserve every <tag> exactly."	"Quest,Park"	"Схапіўшы дзіду, вы адразу, не губляючы ні сэкунды, шпурнулі яе з усёй сілы ў Цмока Гарыныча. Убачыўшы, што дзіда трапіла ў сярэднюю галаву птушачкі, вы радасна ўскінулі рукі ўгору, падмацаваўшы ўчынак радасным крыкам..."
-"/quests/Park.qmm/jumps/47/text"	"Не расслабляться! Ждать начала аукциона и азартно торговаться за каждый лот"	"Quest Park.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/47/text"	"Не расслабляться! Ждать начала аукциона и азартно торговаться за каждый лот"	"Quest Park.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Park"	"Не расслабляцца! Чакаць пачатку аўкцыёну і азартна таргавацца за кожны лот"
 "/quests/Park.qmm/jumps/48/text"	"Длинный тяжелый двуручный меч с ультразвуковой гардой"	"Quest Park.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Park"	"Доўгі цяжкі двухручны меч з ультрагукавым эфэсам"
 "/quests/Park.qmm/jumps/49/text"	"Двуствольный арбалет с реактивными стрелами"	"Quest Park.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Park"	"Двухствольны арбалет з рэактыўнымі стрэламі"
 "/quests/Park.qmm/jumps/50/text"	"Поискать где-нибудь поблизости дополнительные источники финансирования"	"Quest Park.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Park"	""
@@ -736,7 +754,7 @@
 "/quests/Park.qmm/jumps/66/text"	"Подпустить ""птичку"" поближе, отпрыгнув в сторону в нужный момент, нанести удар"	"Quest Park.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Park"	"Падпусьціць ""птушачку"" бліжэй, адскочыўшы ўбок у патрэбны момант, нанесьці ўдар"
 "/quests/Park.qmm/jumps/67/text"	"Спрятаться за рекламным щитом и нанести удар из засады"	"Quest Park.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Park"	"Схавацца за рэклямным шчытом і нанесьці ўдар з засады"
 "/quests/Park.qmm/jumps/71/text"	"Из этих изречений одно является ложным"	"Quest Park.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Park"	"З гэтых выслоўяў адно — ілжывае"
-"/quests/Park.qmm/jumps/72/text"	"Надбавить до 45 монет"	"Quest Park.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/72/text"	"Надбавить до 45 монет"	"Quest Park.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Park"	"Надбавіць да 45 манэтаў"
 "/quests/Park.qmm/jumps/73/text"	"Перекусить хот-догом"	"Quest Park.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Park"	"Перакусіць хот-догам"
 "/quests/Park.qmm/jumps/74/text"	"Взять комплексный обед"	"Quest Park.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Park"	"Узяць комплексны абед"
 "/quests/Park.qmm/jumps/75/text"	"Арендовать банкетный зал"	"Quest Park.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Park"	"Арандаваць банкетную залю"
@@ -750,25 +768,25 @@
 "/quests/Park.qmm/jumps/80/description"	"Как говорилось в одной очень мудрой книге, <clr>""НЕ ВОРУЙ""<clrEnd>. Может, забыли об этом? А может, вы ее открывали в местах, где из-за недостатка освещения совсем невозможно было читать. Но ничего страшного: два фонарика под глазами, поставленные вам роботом - Бабой-Ягой в комплекте с очередной шишкой ""мудрости"" решат вопрос о наличии достаточного света при прочтении той мудрой книги и перед принятием других ""умных"" решений. А сейчас вам предоставляется уникальная возможность: будучи в горизонтальном положении посмотреть какое-нибудь кино на халяву...
  В себя вы пришли только к началу торгов по последнему лоту аукциона - <clr>""СИНЕМУ КУБИКУ с монограммой председателя совета директоров парка""<clrEnd>. Радуйтесь, что вас не дисквалифицировали."	"Quest Park.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/81/text"	"Идти в пещеру главного компьютера"	"Quest Park.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/82/text"	"Поднять цену до 15 монет"	"Quest Park.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/82/text"	"Поднять цену до 15 монет"	"Quest Park.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Park"	"Падняць цану да 15 манэтаў"
 "/quests/Park.qmm/jumps/83/text"	"Пока не высовываться"	"Quest Park.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/84/text"	"Поднять цену до 20 монет"	"Quest Park.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/85/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/86/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/87/text"	"Дать 25 монет"	"Quest Park.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/88/text"	"Дать 25 монет"	"Quest Park.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/89/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/90/text"	"Накинуть до 45 монет"	"Quest Park.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/91/text"	"Набавить до 40 монет"	"Quest Park.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/92/text"	"Повысить до 50 монет"	"Quest Park.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/84/text"	"Поднять цену до 20 монет"	"Quest Park.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Park"	"Падняць цану да 20 манэтаў"
+"/quests/Park.qmm/jumps/85/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Park"	"Павысіць да 30 манэтаў"
+"/quests/Park.qmm/jumps/86/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Park"	"Павысіць да 30 манэтаў"
+"/quests/Park.qmm/jumps/87/text"	"Дать 25 монет"	"Quest Park.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Park"	"Даць 25 манэтаў"
+"/quests/Park.qmm/jumps/88/text"	"Дать 25 монет"	"Quest Park.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Park"	"Даць 25 манэтаў"
+"/quests/Park.qmm/jumps/89/text"	"Повысить до 30 монет"	"Quest Park.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Park"	"Павысіць да 30 манэтаў"
+"/quests/Park.qmm/jumps/90/text"	"Накинуть до 45 монет"	"Quest Park.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Park"	"Накінуць да 45 манэтаў"
+"/quests/Park.qmm/jumps/91/text"	"Набавить до 40 монет"	"Quest Park.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Park"	"Набавіць да 40 манэтаў"
+"/quests/Park.qmm/jumps/92/text"	"Повысить до 50 монет"	"Quest Park.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Park"	"Павысіць да 50 манэтаў"
 "/quests/Park.qmm/jumps/93/text"	"Послушать концерт"	"Quest Park.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/94/text"	"Продолжить выполнение задания"	"Quest Park.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/95/text"	"Послушать концерт"	"Quest Park.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/96/text"	"Послушать концерт"	"Quest Park.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/97/text"	"Повысить до 50 монет"	"Quest Park.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/97/text"	"Повысить до 50 монет"	"Quest Park.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Park"	"Павысіць да 50 манэтаў"
 "/quests/Park.qmm/jumps/98/text"	"Продолжить выполнение задания"	"Quest Park.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/99/text"	"Продолжить выполнение задания"	"Quest Park.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/100/text"	"Дать 35 монет"	"Quest Park.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/100/text"	"Дать 35 монет"	"Quest Park.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Park"	"Даць 35 манэтаў"
 "/quests/Park.qmm/jumps/101/text"	"md"	"Quest Park.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Park"	"md"
 "/quests/Park.qmm/jumps/102/text"	"am"	"Quest Park.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Park"	"am"
 "/quests/Park.qmm/jumps/103/text"	"bm"	"Quest Park.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Park"	"bm"
@@ -819,10 +837,10 @@
 "/quests/Park.qmm/jumps/148/text"	"Перезагрузка системы"	"Quest Park.qmm: jumps.148.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/149/text"	"Из этих изречений три являются ложными"	"Quest Park.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Park"	"З гэтых выслоўяў тры — ілжывыя"
 "/quests/Park.qmm/jumps/150/text"	"Из этих изречений два являются ложными"	"Quest Park.qmm: jumps.150.text. Preserve every <tag> exactly."	"Quest,Park"	"З гэтых выслоўяў два — ілжывыя"
-"/quests/Park.qmm/jumps/152/text"	"Накинуть до 40 монет"	"Quest Park.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/153/text"	"Поднять цену до 50 монет"	"Quest Park.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/154/text"	"Поднять цену до 50 монет"	"Quest Park.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Park"	""
-"/quests/Park.qmm/jumps/155/text"	"Немного отдохнуть и просто принять участие в торгах"	"Quest Park.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Park"	""
+"/quests/Park.qmm/jumps/152/text"	"Накинуть до 40 монет"	"Quest Park.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Park"	"Накінуць да 40 манэтаў"
+"/quests/Park.qmm/jumps/153/text"	"Поднять цену до 50 монет"	"Quest Park.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Park"	"Падняць цану да 50 манэтаў"
+"/quests/Park.qmm/jumps/154/text"	"Поднять цену до 50 монет"	"Quest Park.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Park"	"Падняць цану да 50 манэтаў"
+"/quests/Park.qmm/jumps/155/text"	"Немного отдохнуть и просто принять участие в торгах"	"Quest Park.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Park"	"Трохі адпачыць і проста ўзяць удзел у таргах"
 "/quests/Park.qmm/jumps/155/description"	"Отдых иногда бывает очень полезен. Немного погуляв в находящемся неподалеку скверике вы немного восстановили силы и едва не потеряли голову от открывшегося вам вида на огромный фонтан, но, случайно вспомнив, что вы на этой планете на самом деле делаете, были вынуждены бежать к месту проведения аукциона сломя голову и как раз успели к началу торгов по <clr>СИНЕМУ КУБИКУ<clrEnd>."	"Quest Park.qmm: jumps.155.description. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/156/text"	"Попытаться еще разок ответить на глупый вопросик"	"Quest Park.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Park"	""
 "/quests/Park.qmm/jumps/157/text"	"Попытаться еще разок ответить на глупый вопросик"	"Quest Park.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Park"	""
