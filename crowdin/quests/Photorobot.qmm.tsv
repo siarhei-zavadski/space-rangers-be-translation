@@ -325,45 +325,67 @@
 "/quests/Photorobot.qmm/locations/41/texts/0/text"	"Бэнкс загадочно улыбнулся, и словно по волшебству в его руках появился тот самый кейс, что украли у вас.
 - Вуаля! Получите, распишитесь. Ваш фоторобот оказался настолько точен, что мы сумели поймать негодяя буквально через пару часов. Кстати, это еще не все хорошие новости на сегодня, - Бэнкс загадочно подмигнул вам. - Благодаря его поимке мы смогли выйти и на его заказчиков. Конечно же, это были люди из ""Авалон Инк."" Теперь мы их затаскаем по судам... А вам, <Ranger>, за то, что помогли нам с ними разобраться, прилагается небольшая премия. Проверьте на досуге свой счет в банке, - сказав это, Бэнкс засмеялся.
 Вы забрали кейс и попрощались с детективами. Теперь <Money> cr уже почти у вас в кармане - осталось только вернуться на планету <FromPlanet> с этим треклятым кейсом..."	"Quest Photorobot.qmm: locations.41.texts.0.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/0/text"	"Нажать ""1"""	"Quest Photorobot.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/1/text"	"Проснуться"	"Quest Photorobot.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/26/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/27/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/28/text"	"Нажать ""2"""	"Quest Photorobot.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/29/text"	"Набрать ""140190"""	"Quest Photorobot.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/32/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/33/text"	"Идти куда глаза глядят"	"Quest Photorobot.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/34/text"	"Спросить дорогу у прохожих"	"Quest Photorobot.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/35/text"	"...проклятый таксист увез меня в другую часть города"	"Quest Photorobot.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+"/quests/Photorobot.qmm/jumps/0/text"	"Нажать ""1"""	"Quest Photorobot.qmm: jumps.0.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Націснуць ""1"""
+"/quests/Photorobot.qmm/jumps/1/text"	"Проснуться"	"Quest Photorobot.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Прачнуцца"
+"/quests/Photorobot.qmm/jumps/26/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"
+"/quests/Photorobot.qmm/jumps/27/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"
+"/quests/Photorobot.qmm/jumps/28/text"	"Нажать ""2"""	"Quest Photorobot.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Націснуць ""2"""
+"/quests/Photorobot.qmm/jumps/29/text"	"Набрать ""140190"""	"Quest Photorobot.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Набраць ""140190"""
+"/quests/Photorobot.qmm/jumps/32/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пайсьці да стаянкі таксі"
+"/quests/Photorobot.qmm/jumps/33/text"	"Идти куда глаза глядят"	"Quest Photorobot.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Ісьці куды вочы глядзяць"
+"/quests/Photorobot.qmm/jumps/34/text"	"Спросить дорогу у прохожих"	"Quest Photorobot.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Спытаць дарогу ў пешаходаў"
+"/quests/Photorobot.qmm/jumps/35/text"	"...проклятый таксист увез меня в другую часть города"	"Quest Photorobot.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"...пракляты таксіст завёз мяне ў іншую частку горада"
 "/quests/Photorobot.qmm/jumps/35/description"	"- Очень странно, <Ranger>, - фэянин покачал головой. - Обычно таксисты у нас работают хорошо. Вы точно сказали правду? Ну ладно, раз так, пройдемте внутрь. Дела прежде всего.
 Вы зашли в ресторан и сели за столик; официант принес вам меню.
 - Выбирайте сами, <Ranger>, я полагаюсь на ваш вкус. 
 Вы открыли меню, и ваши глаза медленно поползли вверх.
 - Не пугайтесь, <Ranger>, платить вы не будете, этот ресторан принадлежит нашей корпорации.
-Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/36/text"	"...я просто забыл о времени, когда осматривал космопорт - столько в нем интересных технических решений!"	"Quest Photorobot.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Photorobot"	"— Вельмі дзіўна, <Ranger>, — фэянін пахістаў галавой. — Звычайна таксісты ў нас працуюць добра. Вы сапраўды сказалі праўду? Ну добра, калі так, увойдзем. Справы перш за ўсё.
+Вы зайшлі ў рэстаран і селі за столік; афіцыянт прынёс вам мэню.
+- Выбірайце самі, <Ranger>, я давяраю вашаму густу. 
+Вы адкрылі мэню, і вашыя вочы паволі папаўзьлі ўверх.
+- Ня палохайцеся, <Ranger>, плаціць вы ня будзеце, гэты рэстаран належыць нашай карпарацыі.
+Вы з палёгкай уздыхнулі (думка заплаціць за адну страву 150 000 cr вам яўна не ўсьміхалася) і працягнулі вывучаць мэню. Фэянін яўна правярае ваш густ, таму ў выбары стравы трэба быць асьцярожным. Што ж вы замовіце ў якасьці першага?"
+"/quests/Photorobot.qmm/jumps/36/text"	"...я просто забыл о времени, когда осматривал космопорт - столько в нем интересных технических решений!"	"Quest Photorobot.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"...я проста забыў пра час, калі аглядаў касмапорт — столькі ў ім цікавых тэхнічных рашэньняў!"
 "/quests/Photorobot.qmm/jumps/36/description"	"- Правда, <Ranger>? Действительно, космопорт нашей планеты оборудован самой новой техникой. Кстати, технику эту создала наша корпорация... - фэянин улыбнулся. - Ну что ж, раз так, пройдемте внутрь. Дела прежде всего.
 Вы зашли в ресторан и сели за столик; официант принес вам меню.
 - Выбирайте сами, <Ranger>, я полагаюсь на ваш вкус. 
 Вы открыли меню, и ваши глаза медленно поползли вверх.
 - Не пугайтесь, <Ranger>, платить вы не будете, этот ресторан принадлежит нашей корпорации.
-Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/37/text"	"...я помогал старушке перейти через дорогу"	"Quest Photorobot.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Photorobot"	"— Праўда, <Ranger>? Сапраўды, касмапорт нашай плянэты абсталяваны найноўшай тэхнікай. Дарэчы, тэхніку гэтую стварыла наша карпарацыя... — фэянін усьміхнуўся. — Ну што ж, калі так, увойдзем. Справы перш за ўсё.
+Вы зайшлі ў рэстаран і селі за столік; афіцыянт прынёс вам мэню.
+- Выбірайце самі, <Ranger>, я давяраю вашаму густу. 
+Вы адкрылі мэню, і вашыя вочы паволі папаўзьлі ўверх.
+- Ня палохайцеся, <Ranger>, плаціць вы ня будзеце, гэты рэстаран належыць нашай карпарацыі.
+Вы з палёгкай уздыхнулі (думка заплаціць за адну страву 150 000 cr вам яўна не ўсьміхалася) і працягнулі вывучаць мэню. Фэянін яўна правярае ваш густ, таму ў выбары стравы трэба быць асьцярожным. Што ж вы замовіце ў якасьці першага?"
+"/quests/Photorobot.qmm/jumps/37/text"	"...я помогал старушке перейти через дорогу"	"Quest Photorobot.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"...я дапамагаў бабульцы перайсьці цераз дарогу"
 "/quests/Photorobot.qmm/jumps/37/description"	"- Какие еще старушки, <Ranger>?! Не мелите чушь!
 Вы начали оправдываться, будто вы просто пошутили, но фэянин был неумолим. К счастью, спустя несколько минут вы все-таки смогли уговорить его выслушать вас. 
 Вы зашли в ресторан и сели за столик; официант принес вам меню.
 - Выбирайте сами, <Ranger>, я полагаюсь на ваш вкус. 
 Вы открыли меню, и ваши глаза медленно поползли вверх.
 - Не пугайтесь, <Ranger>, платить вы не будете, этот ресторан принадлежит нашей корпорации.
-Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/38/text"	"...по дороге я встретил своего знакомого рейнджера, и он затащил меня в местный бар"	"Quest Photorobot.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.37.description. Preserve every <tag> exactly."	"Quest,Photorobot"	"— Якія яшчэ бабулькі, <Ranger>?! Не мяліце лухту!
+Вы пачалі апраўдвацца, быццам вы проста пажартавалі, але фэянін быў няўмольны. На шчасьце, праз некалькі хвілінаў вы ўсё ж змаглі ўгаварыць яго выслухаць вас. 
+Вы зайшлі ў рэстаран і селі за столік; афіцыянт прынёс вам мэню.
+- Выбірайце самі, <Ranger>, я давяраю вашаму густу. 
+Вы адкрылі мэню, і вашыя вочы паволі папаўзьлі ўверх.
+- Ня палохайцеся, <Ranger>, плаціць вы ня будзеце, гэты рэстаран належыць нашай карпарацыі.
+Вы з палёгкай уздыхнулі (думка заплаціць за адну страву 150 000 cr вам яўна не ўсьміхалася) і працягнулі вывучаць мэню. Фэянін яўна правярае ваш густ, таму ў выбары стравы трэба быць асьцярожным. Што ж вы замовіце ў якасьці першага?"
+"/quests/Photorobot.qmm/jumps/38/text"	"...по дороге я встретил своего знакомого рейнджера, и он затащил меня в местный бар"	"Quest Photorobot.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"...па дарозе я сустрэў свайго знаёмага рэйнджэра, і ён зацягнуў мяне ў мясцовы бар"
 "/quests/Photorobot.qmm/jumps/38/description"	"- Даже так, <Ranger>?! Тогда мне вообще не о чем с вами разговаривать!
 Вы начали оправдываться, будто вы просто пошутили, но фэянин был неумолим. К счастью, спустя несколько минут вы все-таки смогли уговорить его выслушать вас. 
 Вы зашли в ресторан и сели за столик; официант принес вам меню.
 - Выбирайте сами, <Ranger>, я полагаюсь на ваш вкус. 
 Вы открыли меню, и ваши глаза медленно поползли вверх.
 - Не пугайтесь, <Ranger>, платить вы не будете, этот ресторан принадлежит нашей корпорации.
-Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+Вы облегченно вздохнули (идея заплатить за одно блюдо 150 000 cr явно не улыбалась вам) и продолжили изучать меню. Фэянин явно проверяет ваш вкус, так что нужно соблюдать осторожность в выборе блюда. Что же вы закажете в качестве первого?"	"Quest Photorobot.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Photorobot"	"— Нават так, <Ranger>?! Тады мне ўвогуле няма пра што з вамі гаварыць!
+Вы пачалі апраўдвацца, быццам вы проста пажартавалі, але фэянін быў няўмольны. На шчасьце, праз некалькі хвілінаў вы ўсё ж змаглі ўгаварыць яго выслухаць вас. 
+Вы зайшлі ў рэстаран і селі за столік; афіцыянт прынёс вам мэню.
+- Выбірайце самі, <Ranger>, я давяраю вашаму густу. 
+Вы адкрылі мэню, і вашыя вочы паволі папаўзьлі ўверх.
+- Ня палохайцеся, <Ranger>, плаціць вы ня будзеце, гэты рэстаран належыць нашай карпарацыі.
+Вы з палёгкай уздыхнулі (думка заплаціць за адну страву 150 000 cr вам яўна не ўсьміхалася) і працягнулі вывучаць мэню. Фэянін яўна правярае ваш густ, таму ў выбары стравы трэба быць асьцярожным. Што ж вы замовіце ў якасьці першага?"
 "/quests/Photorobot.qmm/jumps/39/text"	"Гобзавр в яблоках"	"Quest Photorobot.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
 "/quests/Photorobot.qmm/jumps/39/description"	"Вы сделали заказ, и официант убежал на кухню. Вернулся он уже со своими друзьями, которые помогали ему нести громадную тушу гобзавра, во рту которого аппетитно торчало яблоко. Едва не упав на пол, блюдо все же оказалось на вашем столе.
 - Какая гадость! <Ranger>, вы что, не знали, что все фэяне - вегетарианцы? Официант, быстрее уберите этот ужас с нашего стола!
@@ -443,14 +465,14 @@
 "/quests/Photorobot.qmm/jumps/57/text"	"Знание строения ксетвоизлучателей серьезно продвинет нас в изучении строения доминаторов"	"Quest Photorobot.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
 "/quests/Photorobot.qmm/jumps/57/description"	"- Вот именно! - фэянин закивал головой. - Я всегда говорил, что ксетвоизлучатели и доминаторы построены схожими способами, так что дальнейшие исследования в этой области... Но стоп, я отвлекся. Я узнал все, что хотел. Подождите меня здесь, <Ranger>, я скоро вернусь и сообщу вам свое решение.
 С этими словами Эйса-Ган встал со своего места и вышел из главного зала."	"Quest Photorobot.qmm: jumps.57.description. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/58/text"	"Идея такая: получив патент, мы продадим все секретные чертежи пеленгам и заработаем кучу денег"	"Quest Photorobot.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/59/text"	"Знаете, вы правы. Никаких контрактов, я передумал"	"Quest Photorobot.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/60/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/61/text"	"Нет, все в порядке"	"Quest Photorobot.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/62/text"	"Нет, все в порядке"	"Quest Photorobot.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/63/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/66/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/67/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+"/quests/Photorobot.qmm/jumps/58/text"	"Идея такая: получив патент, мы продадим все секретные чертежи пеленгам и заработаем кучу денег"	"Quest Photorobot.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Ідэя такая: атрымаўшы патэнт, мы прададзім усе сакрэтныя чарцяжы пеленгам і заробім кучу грошай"
+"/quests/Photorobot.qmm/jumps/59/text"	"Знаете, вы правы. Никаких контрактов, я передумал"	"Quest Photorobot.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Ведаеце, вы маеце рацыю. Ніякіх кантрактаў, я перадумаў"
+"/quests/Photorobot.qmm/jumps/60/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Глядзець вакол"
+"/quests/Photorobot.qmm/jumps/61/text"	"Нет, все в порядке"	"Quest Photorobot.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не, усё ў парадку"
+"/quests/Photorobot.qmm/jumps/62/text"	"Нет, все в порядке"	"Quest Photorobot.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не, усё ў парадку"
+"/quests/Photorobot.qmm/jumps/63/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пакінуць рэстаран"
+"/quests/Photorobot.qmm/jumps/66/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"
+"/quests/Photorobot.qmm/jumps/67/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"
 "/quests/Photorobot.qmm/jumps/68/text"	"Очнуться"	"Quest Photorobot.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Апрытомнець"
 "/quests/Photorobot.qmm/jumps/69/text"	"Кто вы?"	"Quest Photorobot.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Хто вы?"
 "/quests/Photorobot.qmm/jumps/70/text"	"Я не запомнил его фигуры"	"Quest Photorobot.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Я не запомніў ягонай фігуры"
@@ -494,11 +516,11 @@
 "/quests/Photorobot.qmm/jumps/108/text"	"Что можно сказать о его носе? Нос как нос, обычный, такой вот, как у меня"	"Quest Photorobot.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Што можна сказаць пра ягоны нос? Нос як нос, звычайны, вось такі, як у мяне"
 "/quests/Photorobot.qmm/jumps/109/text"	"Мне кажется, что у него был большой нос"	"Quest Photorobot.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Мне здаецца, што ў яго быў вялікі нос"
 "/quests/Photorobot.qmm/jumps/110/text"	"Нос преступника был заклеен пластырем - видимо, сломал где-то"	"Quest Photorobot.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Нос злачынца быў заклеены плястарам — відаць, зламаў дзесьці"
-"/quests/Photorobot.qmm/jumps/111/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/112/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/113/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/114/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/115/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/116/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/117/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
-"/quests/Photorobot.qmm/jumps/118/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Photorobot"	""
+"/quests/Photorobot.qmm/jumps/111/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"
+"/quests/Photorobot.qmm/jumps/112/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пайсьці да стаянкі таксі"
+"/quests/Photorobot.qmm/jumps/113/text"	"Отправиться к стоянке такси"	"Quest Photorobot.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пайсьці да стаянкі таксі"
+"/quests/Photorobot.qmm/jumps/114/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Глядзець вакол"
+"/quests/Photorobot.qmm/jumps/115/text"	"Смотреть вокруг"	"Quest Photorobot.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Глядзець вакол"
+"/quests/Photorobot.qmm/jumps/116/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пакінуць рэстаран"
+"/quests/Photorobot.qmm/jumps/117/text"	"Покинуть ресторан"	"Quest Photorobot.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Пакінуць рэстаран"
+"/quests/Photorobot.qmm/jumps/118/text"	"Не томите - вы поймали его?"	"Quest Photorobot.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Photorobot"	"Не таміце — вы злавілі яго?"

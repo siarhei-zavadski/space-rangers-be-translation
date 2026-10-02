@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна		Coalition race	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін		Coalition race; capital at sentence start	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган		faeyan in the photofit quest	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна		photofit label; и to і	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -801,3 +801,7 @@ lemma.mega	мега	mega	Мэга/мэга		prefix; already in мэга-бур; 
 lemma.jerome	Джером	Jerome	Джэром		detective Jerome Banks	Photorobot.qmm
 lemma.banks	Бэнкс	Banks	Бэнкс		detective Jerome Banks	Photorobot.qmm
 lemma.photo_lisp	ногмальный	r-to-g speech	Нагмальны/нагмальных/кагтавы		witness swaps р for г while denying he is картавы	Photorobot.qmm
+lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects меню	Photorobot.qmm
+lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
+lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
+lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
