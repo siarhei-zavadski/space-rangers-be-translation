@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -946,7 +946,7 @@ lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі		
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
 lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
-lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю	хмель	joke hops; keep the extra syllable	Banket.qmm
+lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю/Хухмель	хмель	joke hops; keep the extra syllable	Banket.qmm
 lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm
 lemma.absorbal	абсорбуль	absorbal	абсорбуль/абсорбуля		coined banquet cube	Banket.qmm
 lemma.hanna	Ханна	Hanna	Ханна/Ханне/Ханнай/Ханны		malok princess	Banket.qmm
@@ -965,3 +965,12 @@ lemma.khnyts	Хныц	Khitz	Хныц/Хныца		peleng friend who invents malok
 lemma.proida	Пройдоха	Slicker	Пройда/Пройды		nickname of the peleng Khitz	Banket.qmm
 lemma.rvakusach	Рвакусач	Tearbity	Рвакусач/Рвакусачу		the malok puppy Hanna wants a suit for	Banket.qmm
 lemma.dermong	дермонг	dermong	дэрмонг/дэрмонгі		creatures of one brood; Hanna's likeness joke	Banket.qmm
+lemma.popykhun	Попыхун	Popykhoon	Попыхун/Попыхуна/Попыхунам		prince's son; temporary name, epithet Суровы Нос	Banket.qmm
+lemma.topykak	Топыкак	Topykak	Топыкак		prince's son; temporary name, epithet Тры Зялёныя Мышцы	Banket.qmm
+lemma.makhoka	Маххока	Makhoka	Маххока/Маххокі		leaf in the malok meat salad	Banket.qmm
+lemma.yoickster	уйлюлюк	yoickster	уйлюлюк/уйлюлюка		khanai animal; sour milk is a nomad-malok drink	Banket.qmm
+lemma.khanai	ханайский	khanai	ханайскага/ханайскі		adjective of the yoickster, not the улюлюкскі fungus	Banket.qmm
+lemma.pyrotitanium	пиротитан	pyrotitanium	піратытан/піратытанавага		blade metal of the rented malok knives	Banket.qmm
+lemma.tsiga	Цыга	Tsiga	Цыга		peleng know-all; given name, not the fortune-teller	Banket.qmm
+lemma.romalych	Ромалыч	Romalych	Ромалыч		patronymic of the peleng know-all Цыга	Banket.qmm
+lemma.peetiquette	путикет	peetiquette	пуцікет/пуцікеце	этыкет	son's malapropism of этыкет	Banket.qmm
