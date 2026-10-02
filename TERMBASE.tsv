@@ -1106,10 +1106,14 @@ lemma.technico	Технико	Technico	Тэхніко	Тэхніка	star system
 lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сіліконавая	hunspell сыліконавы; silicone planet	https://starnik.by/pravapis/149650
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
 lemma.ambush_star	Засадная	Ambush	Засадная		star name, feminine of засада	https://starnik.by/pravapis/27696
-lemma.guidenet	ГайдНет	GuideNet	ГайдНэт	ГайдНет	internal network name	Gaidnet.qmm
+lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту	ГайдНет	internal network name	Gaidnet.qmm
 lemma.hacker	хакер	hacker	хакер/хакера	гакер	G хакера	https://starnik.by/pravapis/81345
 lemma.shocker	шокер	shocker	шокер/шокерам	шокэр	stun gun; I шокерам	https://starnik.by/pravapis/85477
-lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
+lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
 lemma.mental	ментал	mental	мэнтал/мэнталаў		brain-load unit; G pl мэнталаў	Gaidnet.qmm
 lemma.cyberflea	киберблоха	cyberflea	кіберблыха/кіберблыхі	кібэрблыха	spy bug; G кіберблыхі; кібер https://starnik.by/pravapis/35243	https://starnik.by/pravapis/10994
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
+lemma.initializer	инициализация	initialization	ініцыялізацыя/ініцыялізатар/Ініцыялізацыя	сацыялізацыя	boot log; ініцыялізатар https://starnik.by/pravapis/30816	https://starnik.by/pravapis/30817
+lemma.interactive	интерактивный	interactive	інтэрактыўны/інтэрактыўныя	інтраспэктыўныя	models you can handle	https://starnik.by/pravapis/115967
+lemma.microcamera	микровидеокамера	micro video camera	мікравідэакамэра/мікравідэакамэраў	мікрамілімэтраў	spy camera; відэакамэра https://starnik.by/pravapis/14402	Gaidnet.qmm
+lemma.gravbot	гравибот	gravbot	гравібот/гравіботах		porter craft at the spaceport; coined	Gaidnet.qmm
