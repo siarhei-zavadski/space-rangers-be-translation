@@ -267,12 +267,12 @@ lemma.memory_module	модуль памяти	memory module	модуль пам�
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
 lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак		pirate slur for goody ranger; invented	—
-lemma.snitch	стукач	snitch	даносчык	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144	hunspell-be-tarask
+lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
 lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба		pirate plot weapon; hunspell leftover adj	—
-lemma.pachvaraus	пачвараш	pachvaraus	пачвараш		invented pirate creature; keep	—
+lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
 lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
@@ -426,6 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -780,3 +781,6 @@ lemma.biotic	биотический	biotic	біятычны/біятычныя/�
 lemma.rainbow	РЭЙНБОУ	rainbow hint	РЭЙНБОУ/И		cave password; Latin RAINBOW stays; И is the mirrored glyph for N, not Belarusian І	Park.qmm
 lemma.kakatreba	Какатреба	Kakatreba	Какатрэба		banquet pills; hunspell suggestions are unrelated	Park.qmm
 lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры		galaxy weightlifting champion	Park.qmm
+lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
+lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
+lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
