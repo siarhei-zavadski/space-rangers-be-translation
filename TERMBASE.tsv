@@ -828,7 +828,7 @@ lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
-lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
+lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі/татуіроўку	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
 lemma.photofit	фоторобот	photofit	фотаробат/фотаробата/фотаробаце		already PlanetQuest genre фотаробата	Photorobot.qmm
 lemma.godzilla	Годзилла	Godzilla	Гадзіла/Гадзілу		mother-in-law joke	Photorobot.qmm
 lemma.nondus	Нондус	Nondus	Нондусы/Эквэнтаровічы		dominator given name and patronymic	Photorobot.qmm
@@ -1194,8 +1194,15 @@ lemma.sober	трезвый	sober	цьвярозы/Цьвярозы	цвяроз�
 lemma.rehearsal	репетиция	rehearsal	рэпэтыцыя/рэпэтыцыі/рэпэтыцыю	рэпетыцыя	hunspell э; Starnik lists е	https://starnik.by/pravapis/66061
 lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэя	hunspell я; Starnik lists а	https://starnik.by/pravapis/38734
 lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
-lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
+lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
 lemma.hyper_prefix	гипер	hyper	гіпэр	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
 lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
 lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
+lemma.maxiphone	максифон	maxiphone	максіфон		stage mic the crowd can sing into	Muzon.qmm
+lemma.laamer	Лаамер	Laamer	Лаамер		ranger name	Muzon.qmm
+lemma.feebling	Дохляга	Feebling	Кволы	дохляк	frail ranger name	https://starnik.by/pravapis/118666
+lemma.hippie_author	Хипарь	Hippie	Хіпар		book author O. Hippie	Muzon.qmm
+lemma.grim	Мутный	Grim	Мутны		romance author E. Grim	Muzon.qmm
+lemma.maniac	Маньяк	de Maniac	Маньяк		marquise de Maniac	Muzon.qmm
+lemma.firework	фейерверк	firework	феерверк/Феерверк	фаерверк	Starnik lemma; hunspell suggestion is a different noun	https://starnik.by/pravapis/79826
