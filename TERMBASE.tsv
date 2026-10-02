@@ -529,7 +529,7 @@ lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Сма
 lemma.laser	лазер	laser	лязэр		equipment lock; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
-lemma.cyborg	киборг	cyborg	кіборг/кіборга		QMM combat unit; hunspell gap	—
+lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі		QMM combat unit; hunspell gap	—
 lemma.pharaoh	фараон	pharaoh	фараон		Uguptian title; Pharaon.qmm	—
 lemma.ares	Арес	Ares	Арес		letter-set АРЕС; not Арэс (Э vs Е in звер)	—
 lemma.vmaz	Вмаз	Vmaz	Вмаз		letter-set ВМАЗ	—
@@ -1142,7 +1142,7 @@ lemma.artellon	Артэллон	Artellon	Артэллон/Артэллона/А�
 lemma.hypnoblock	гипноблок	hypnoblock	гіпнаблок		coined device inside the monocle	Evilgenius.qmm
 lemma.am	АМ	AM	АМ		project label; the abbreviation stays	Evilgenius.qmm
 lemma.pobash	Побаш Ке	Pobash Ke	Побаш/Ке		malok general	Evilgenius.qmm
-lemma.ninja	ниндзя	ninja	Ніндзя/ніндзя/ніндзі/ніндзю		clan of noble assassins; hunspell suggestions are unrelated	Evilgenius.qmm
+lemma.ninja	ниндзя	ninja	Ніндзя/ніндзя/ніндзі/ніндзю/ніндзяў		clan of noble assassins; hunspell suggestions are unrelated	Evilgenius.qmm
 lemma.katana	катана	katana	катана/катану/катанай/катаны		sword; hunspell nominative suggestions are unrelated	Evilgenius.qmm
 lemma.mongoose	мангуст	mongoose	Мангуст/мангуст/Мангуста		ninja-school animal; hunspell lacks the nominative	https://starnik.by/pravapis/41517
 lemma.sequoia	секвойя	sequoia	секвоя/секвоі	секвойі	bedpost wood; Starnik spelling, hunspell suggestions are unrelated	https://starnik.by/pravapis/68453
@@ -1162,8 +1162,13 @@ lemma.ulyapik	Уляпик	Ulyapik	Уляпік/Уляпіка		disqualified Cit
 lemma.brog	Брог	Brog	Брог/Брога		Citadels player	Citadels.qmm
 lemma.bzdyshek	Бздышек	Bzdyshek	Бздышак		Citadels player; joke name	Citadels.qmm
 lemma.golovaa	Головаа	Golovaa	Галаваа		Citadels champion who boycotts	Citadels.qmm
-lemma.garik	Гарик	Garik	Гарык		Citadels envoy	Citadels.qmm
+lemma.garik	Гарик	Garik	Гарык/Гарыка		Citadels envoy	Citadels.qmm
 lemma.nalivaiko	Наливайко	Nalivaiko	Налівайка/Налівайку		surname of the Citadels envoy	https://starnik.by/pravapis/90264
 lemma.shmyak	Шмяк	Shmyak	Шмяк/Шмякоўка		Citadels planet and system	Citadels.qmm
 lemma.bumburovka	Бумбуровка	Bumburovka	Бумбуроўка		home system of the Citadels	Citadels.qmm
 lemma.ragnar	Рагнар	Ragnar	Рагнар		default ranger name in the briefing	Citadels.qmm
+lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны		coined tracked gunship; hunspell has no entry	Citadels.qmm
+lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус	струс зямлі	Starnik lemma; hunspell rejects the word	https://starnik.by/pravapis/29049
+lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў	шахтар	mine worker; Starnik spelling, hunspell rejects the forms	https://starnik.by/pravapis/84972
+lemma.adore	обожать	adore	абажаю/Абажаю		1sg of абажаць; hunspell suggestions are unrelated	https://starnik.by/pravapis/164532
+lemma.citadel_abbr	Эн	En	Эн/Ме		Citadels stock abbreviations for energy and metal; the help line quotes them	Citadels.qmm
