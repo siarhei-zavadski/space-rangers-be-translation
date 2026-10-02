@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -980,3 +980,6 @@ lemma.gebemoth	жебемот	gebemoth	жэбэмот/жэбэмота		beast wh
 lemma.discipline_gag	дистыпли	garbled discipline	дысцыплі/дыпліці	дысцыплінавана	Tardym cannot finish дысцыплінавана	Banket.qmm
 lemma.kumassan	кумассанский	Kumassan	кумассанскі/кумассанскія	басурманскі	silks of a game people; hunspell maps the adjective to the wrong ethnicity	Banket.qmm
 lemma.pyropodius	пироподиус захламидус	Pyropodius chlamydus	піраподыюс/захлямідус		coined banquet plant; one seed is worth a fortune	Banket.qmm
+lemma.paloma	Палома Ундерсон	Paloma Underson	Палома/Паломы/Ундэрсан		human actress; the maloqs do not share the compliment	Banket.qmm
+lemma.keroplast	керопластовая	keroplast	керапляставая/Керапляставая		coined armor; practical next to cloth	Banket.qmm
+lemma.vakkati	ваккати	vakkati	ваккаці	вінакур	malok distillers; the prince's word for who brews the festive drink	Banket.qmm
