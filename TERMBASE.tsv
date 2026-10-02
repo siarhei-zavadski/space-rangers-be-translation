@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам		peleng clerical rank used before a name	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -1282,7 +1282,7 @@ lemma.plasmaflyer	плазмолет	plasma flyer	плязмалёт/плязм�
 lemma.betelgeuse	Бельгейзе	Betelgeuse	Бэтэльгейзэ		star name	Vulkan.qmm
 lemma.seliostr	Селиостр	Seliostr	Сэліостр		star name	Vulkan.qmm
 lemma.dzhuhallag	Дзухаллаг	Dzhuhallag	Дзухаллаг/Дзухаллага/Дзухаллагу		station builders	Vulkan.qmm
-lemma.ranzavr	ранзавр	ranzavr	ранзаўр/ранзаўры/ранзаўра		island beast	Vulkan.qmm
+lemma.ranzavr	ранзавр	ranzavr	ранзаўр/ранзаўры/ранзаўра/ранзаўру/Ранзаўр		island beast	Vulkan.qmm
 lemma.volcano	вулкан	volcano	вулькан/вулькана		hunspell ў; Starnik вулкан	https://starnik.by/pravapis/15423
 lemma.hashish	гашиш	hashish	Гашыш		planet and peleng name	Vulkan.qmm
 lemma.zhlopops	Жлопопс	Zhlopops	Жлопопс/Жлопопса/Жлопопсам		passenger name	Vulkan.qmm
@@ -1290,4 +1290,6 @@ lemma.ushava	Ушава	Ushava	Ушава/Ушаву/Ушавы		base commander	
 lemma.nikhrenantes	Нихренантес	Nikhrenantes	Нихренантес		spoken password; keep Russian и	Vulkan.qmm
 lemma.salon	салон	cabin	салён/салёну	салон	aircraft cabin; hunspell ё; Starnik салон	https://starnik.by/pravapis/66773
 lemma.hashishvam	Гашиш-Вам	Hashish-Vam	Гашыш-Вам/Вамам/Вама		peleng employer	Vulkan.qmm
-lemma.sammath	Саммат-Наур	Sammath Naur	Саммат/Наур		gate name on the volcano	Vulkan.qmm
+lemma.sammath	Саммат-Наур	Sammath Naur	Саммат/Наур/Наура/Наурам		gate name on the volcano	Vulkan.qmm
+lemma.abramgutan	Абрамгутаны	Abramgutans	Абрамгутаны/Абрамгутанаў		island tribe	Vulkan.qmm
+lemma.abubub	Абубубубубубухаявра	Abubub	Абубубубубубухаявра		guard shout; keep byte-identical	Vulkan.qmm
