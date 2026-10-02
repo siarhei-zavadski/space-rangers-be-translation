@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl кар�
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан/клісанаў		game race; pl клісаны, клісанаў	—
+lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі		game race; pl клісаны, клісанаў; instrumental клісанамі	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -313,7 +313,7 @@ lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G аш�
 lemma.partner	напарник	partner	напарнік		hired wingman; NOT спадарожнік (hangar Satellite only)	—
 lemma.bubblist	пузырист	bubblist	пузырыст		hyperspace prank-cult; already ShipGreetings/421 пузырызм	—
 lemma.chekumash	чекумаш	chekumash	чэкумаш		invented pirate disease; Talk PirateClan	—
-lemma.petushkan	петушкан	petushkan	петушкан/петушкана		invented beast; genitive on the tenderloin; Dpl петушканам	—
+lemma.petushkan	петушкан	petushkan	петушкан/петушкана/петушканамі/петушканаў		invented beast; genitive on the tenderloin; Dpl петушканам	—
 lemma.rahish	рахишский	Rahish	рахіскі		invented citizen-poet homeland; Talk PirateClan	—
 lemma.linuxian	линуксианский	Linuxian	лінуксіянскі		pirate wine joke; G лінуксіянскага	—
 lemma.submodem	Сабмодем	Submodem	Сабмодэм		Terron plot program in <clr>; Script MS_Terron shape (not Programms/SabCrack Сабмадэм)	—
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаалец		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -859,7 +859,11 @@ lemma.pisa	Пиза	Pisa	Піза/Пізе		leaning tower; the pizza collapses	P
 lemma.ham	окорок	ham	кумпяк	акорак	hip of a carcass; sliced Tambov ham	https://starnik.by/pravapis/37857
 lemma.tambov	тамбовский	Tambov	Тамбоўскі/тамбоўскі		city ham; proper adjective	Pizza.qmm
 lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
-lemma.arnarique	Арнарик Гаудад	Arnarique Goudad	Арнарык/Гаўдад		planet of the jerbooster	Pizza.qmm
+lemma.arnarique	Арнарик Гаудад	Arnarique Goudad	Арнарык/Гаўдад/Гаўдада		planet of the jerbooster; genitive Гаўдада	Pizza.qmm
 lemma.portobello	портобелло	portobello	Партабэла		mushroom; proper name	Pizza.qmm
 lemma.pizza_hack	Пицца-хак	Pizza-Hack	Піца/хак		restaurant chain sponsoring the contest	Pizza.qmm
 lemma.sauce	соус	sauce	соўс	соус	culinary sauce; Starnik school spelling, hunspell wins	https://starnik.by/pravapis/70839
+lemma.composter	Балдимир Компостер	Baldimir Composter	Бальдзімір/Кампостэр		reporter at the pizza palace	Pizza.qmm
+lemma.lyakusha	Лякуша Кулибчин	Lyakusha Kulibchin	Лякуша/Кулібчын		peleng who invented the rusk sauce	Pizza.qmm
+lemma.taron	таронский	Taron	таронскі/таронскім		stallions rubbed with tarragon	Pizza.qmm
+lemma.petrykivka	петриковский	Petrykivka	петрыкаўскі		fok painting the noodle pattern recalls	https://starnik.by/pravapis/139492
