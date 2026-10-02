@@ -1109,25 +1109,28 @@ t - 4 і яшчэ нейкі, не памятаю. <clrEnd>
 "/quests/Tourists.qmm/jumps/67/description"	"Этот мост-дорога пролег над прекрасной саванной. Сухая земля, редкие могучие деревца и местная фауна. Внизу бегали какие-то страусовидные животные, медленно ходили крупные хвостатые твари, размером больше земного слона. Туристы все с удовольствием снимали на электронные накопители."	"Quest Tourists.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Tourists"	"Гэтая дарога-мост пралегла над цудоўнай саваннай. Сухая зямля, рэдкія магутныя дрэўцы і мясцовая фаўна. Унізе бегалі нейкія жывёлы, падобныя да страўсаў, павольна хадзілі буйныя хвастатыя пачвары, памерам большыя за зямнога слана. Турысты ўсе з задавальненьнем здымалі на электронныя носьбіты."
 "/quests/Tourists.qmm/jumps/68/text"	"6 - Дорога Голубых гор на Скалу Деревянную"	"Quest Tourists.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Tourists"	"6 - Дарога Блакітных Гор на Скалу Драўляную"
 "/quests/Tourists.qmm/jumps/68/description"	"Мост-дорога пролегал над Голубыми горами. Весьма красивый горный хребет. Горы были подернуты дымкой, и поэтому смотрелись очень загадочно и прекрасно. Туристы восхищались и снимали чудесные виды. А вы упорно жали на ускорение, дабы к ужину успеть проехать по всем мостам."	"Quest Tourists.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Tourists"	"Дарога-мост пралягала над Блакітнымі горамі. Вельмі прыгожы горны хрыбет. Горы былі атуленыя смугой, і таму выглядалі вельмі загадкава і прыгожа. Турысты захапляліся і здымалі цудоўныя віды. А вы ўпарта ціснулі на паскарэньне, каб да вячэры пасьпець праехаць па ўсіх мастах."
-"/quests/Tourists.qmm/jumps/69/text"	"Я согласен! Где только наша не пропадала!"	"Quest Tourists.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/70/text"	"По мосту Г на 2-ой островок"	"Quest Tourists.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/71/text"	"По мосту Г на 3-ий островок"	"Quest Tourists.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/72/text"	"По мосту В на 4-ый островок"	"Quest Tourists.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/73/text"	"По мосту В на 1-ый островок"	"Quest Tourists.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/74/text"	"Да, с удовольствием!"	"Quest Tourists.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/75/text"	"Подняться на первую площадку"	"Quest Tourists.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/75/description"	"Вы поднялись на первую площадку. Рано или поздно она станет и последней... Отсюда идут <clr>синий и красный<clrEnd> мосты. Куда потащим бедных туристов?"	"Quest Tourists.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/76/text"	"Спуститься, наконец!"	"Quest Tourists.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/77/text"	"Я с удовольствием покатаюсь!"	"Quest Tourists.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/78/text"	"В гостиницу, хочу спать!"	"Quest Tourists.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/79/text"	"Проснуться"	"Quest Tourists.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/80/text"	"Ехать на Остров Желтых Песков"	"Quest Tourists.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+"/quests/Tourists.qmm/jumps/69/text"	"Я согласен! Где только наша не пропадала!"	"Quest Tourists.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Я згодны! Дзе толькі наша не прападала!"
+"/quests/Tourists.qmm/jumps/70/text"	"По мосту Г на 2-ой островок"	"Quest Tourists.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Па мосьце Г на другі астравок"
+"/quests/Tourists.qmm/jumps/71/text"	"По мосту Г на 3-ий островок"	"Quest Tourists.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Па мосьце Г на трэці астравок"
+"/quests/Tourists.qmm/jumps/72/text"	"По мосту В на 4-ый островок"	"Quest Tourists.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Па мосьце В на чацьвёрты астравок"
+"/quests/Tourists.qmm/jumps/73/text"	"По мосту В на 1-ый островок"	"Quest Tourists.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Па мосьце В на першы астравок"
+"/quests/Tourists.qmm/jumps/74/text"	"Да, с удовольствием!"	"Quest Tourists.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Так, з задавальненьнем!"
+"/quests/Tourists.qmm/jumps/75/text"	"Подняться на первую площадку"	"Quest Tourists.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Падняцца на першую пляцоўку"
+"/quests/Tourists.qmm/jumps/75/description"	"Вы поднялись на первую площадку. Рано или поздно она станет и последней... Отсюда идут <clr>синий и красный<clrEnd> мосты. Куда потащим бедных туристов?"	"Quest Tourists.qmm: jumps.75.description. Preserve every <tag> exactly."	"Quest,Tourists"	"Вы падняліся на першую пляцоўку. Рана ці позна яна стане і апошняй... Адсюль ідуць <clr>сіні і чырвоны<clrEnd> масты. Куды пацягнем бедных турыстаў?"
+"/quests/Tourists.qmm/jumps/76/text"	"Спуститься, наконец!"	"Quest Tourists.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Спусьціцца, нарэшце!"
+"/quests/Tourists.qmm/jumps/77/text"	"Я с удовольствием покатаюсь!"	"Quest Tourists.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Я з задавальненьнем пакатаюся!"
+"/quests/Tourists.qmm/jumps/78/text"	"В гостиницу, хочу спать!"	"Quest Tourists.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Tourists"	"У гасьцініцу, хачу спаць!"
+"/quests/Tourists.qmm/jumps/79/text"	"Проснуться"	"Quest Tourists.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Прачнуцца"
+"/quests/Tourists.qmm/jumps/80/text"	"Ехать на Остров Желтых Песков"	"Quest Tourists.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Ехаць на Востраў Жоўтых пяскоў"
 "/quests/Tourists.qmm/jumps/80/description"	"Вы находитесь на острове Желтых песков, отсюда идут три моста. Какой из них выберем?
 <fix>{1}: Дорогу Джунглей
 {2}: Дорогу Большой Реки
-{5}: Пустынную Дорогу</fix>"	"Quest Tourists.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/81/text"	"Ехать в город!"	"Quest Tourists.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/82/text"	"Сделать ставку"	"Quest Tourists.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+{5}: Пустынную Дорогу</fix>"	"Quest Tourists.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Tourists"	"Вы знаходзіцеся на востраве Жоўтых пяскоў, адсюль ідуць тры масты. Які зь іх абяром?
+<fix>{1}: Дарогу Джунгляў
+{2}: Дарогу Вялікай Ракі
+{5}: Пустэльную Дарогу</fix>"
+"/quests/Tourists.qmm/jumps/81/text"	"Ехать в город!"	"Quest Tourists.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Ехаць у горад!"
+"/quests/Tourists.qmm/jumps/82/text"	"Сделать ставку"	"Quest Tourists.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Зрабіць стаўку"
 "/quests/Tourists.qmm/jumps/83/description"	"На табло высветилось:
 Ваша цифра - {([p41] mod 100)}
 Цифра компьютера - {([p41] div 100)}
@@ -1135,7 +1138,14 @@ t - 4 і яшчэ нейкі, не памятаю. <clrEnd>
 <clr>Ничья<clrEnd>
 
 Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
-<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Tourists"	"На табло высьветлілася:
+Ваша лічба - {([p41] mod 100)}
+Лічба кампутара - {([p41] div 100)}
+
+<clr>Нічыя<clrEnd>
+
+Вы ля гульнявога аўтамата. Правілы: вы робіце стаўку, кампутар выдае дзьве лічбы. Калі ""ваша"" лічба большая, то вы забіраеце выйгрыш, калі меншая — вы прайграеце. Калі лічбы роўныя, то вам вяртаецца стаўка. 
+<clr>Стаўка гульні - 100 cr.<clrEnd>"
 "/quests/Tourists.qmm/jumps/84/description"	"На табло высветилось:
 Ваша цифра - {([p41] mod 100)}
 Цифра компьютера - {([p41] div 100)}
@@ -1143,7 +1153,14 @@ t - 4 і яшчэ нейкі, не памятаю. <clrEnd>
 <clr>Вы проиграли...<clrEnd>
 
 Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
-<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Tourists"	"На табло высьветлілася:
+Ваша лічба - {([p41] mod 100)}
+Лічба кампутара - {([p41] div 100)}
+
+<clr>Вы прайгралі...<clrEnd>
+
+Вы ля гульнявога аўтамата. Правілы: вы робіце стаўку, кампутар выдае дзьве лічбы. Калі ""ваша"" лічба большая, то вы забіраеце выйгрыш, калі меншая — вы прайграеце. Калі лічбы роўныя, то вам вяртаецца стаўка. 
+<clr>Стаўка гульні - 100 cr.<clrEnd>"
 "/quests/Tourists.qmm/jumps/85/description"	"На табло высветилось:
 Ваша цифра - {([p41] mod 100)}
 Цифра компьютера - {([p41] div 100)}
@@ -1151,15 +1168,23 @@ t - 4 і яшчэ нейкі, не памятаю. <clrEnd>
 <clr>Вы выиграли!!!<clrEnd>
 
 Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
-<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/86/text"	"Отойти от автомата"	"Quest Tourists.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/87/text"	"Проснуться"	"Quest Tourists.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/88/text"	"Давайте в казино!"	"Quest Tourists.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/89/text"	"Идти к аппарату"	"Quest Tourists.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Tourists"	"На табло высьветлілася:
+Ваша лічба - {([p41] mod 100)}
+Лічба кампутара - {([p41] div 100)}
+
+<clr>Вы выйгралі!!!<clrEnd>
+
+Вы ля гульнявога аўтамата. Правілы: вы робіце стаўку, кампутар выдае дзьве лічбы. Калі ""ваша"" лічба большая, то вы забіраеце выйгрыш, калі меншая — вы прайграеце. Калі лічбы роўныя, то вам вяртаецца стаўка. 
+<clr>Стаўка гульні - 100 cr.<clrEnd>"
+"/quests/Tourists.qmm/jumps/86/text"	"Отойти от автомата"	"Quest Tourists.qmm: jumps.86.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Адысьці ад аўтамата"
+"/quests/Tourists.qmm/jumps/87/text"	"Проснуться"	"Quest Tourists.qmm: jumps.87.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Прачнуцца"
+"/quests/Tourists.qmm/jumps/88/text"	"Давайте в казино!"	"Quest Tourists.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Хадзем у казіно!"
+"/quests/Tourists.qmm/jumps/89/text"	"Идти к аппарату"	"Quest Tourists.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Ісьці да аўтамата"
 "/quests/Tourists.qmm/jumps/89/description"	"Вы у игрального автомата. Правила: вы делаете ставку, компьютер выдает две цифры. Если ""ваша"" цифра больше, то вы забираете выигрыш, если меньше - вы проигрываете. Если цифры равны, то вам возвращается ставка. 
-<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/90/text"	"Ехать в номер и спать"	"Quest Tourists.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
-"/quests/Tourists.qmm/jumps/91/text"	"В ресторан!"	"Quest Tourists.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
+<clr>Ставка игры - 100 cr.<clrEnd>"	"Quest Tourists.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Tourists"	"Вы ля гульнявога аўтамата. Правілы: вы робіце стаўку, кампутар выдае дзьве лічбы. Калі ""ваша"" лічба большая, то вы забіраеце выйгрыш, калі меншая — вы прайграеце. Калі лічбы роўныя, то вам вяртаецца стаўка. 
+<clr>Стаўка гульні - 100 cr.<clrEnd>"
+"/quests/Tourists.qmm/jumps/90/text"	"Ехать в номер и спать"	"Quest Tourists.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Tourists"	"Ехаць у нумар і спаць"
+"/quests/Tourists.qmm/jumps/91/text"	"В ресторан!"	"Quest Tourists.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Tourists"	"У рэстаран!"
 "/quests/Tourists.qmm/jumps/92/text"	"По синему мосту на вторую площадку"	"Quest Tourists.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
 "/quests/Tourists.qmm/jumps/92/description"	"Вы повели туристов по мосту. Те глазели по сторонам, жевали попкорн и плевали сверху вниз. Внизу проплывал величественный и огромный, сверкающий бликами пластиковый купол космопорта. Где-то в недрах этого громадного сооружения стоит и ваш кораблик. Туристы заинтересованно начали тыкать пальцами туда, о чем-то разговаривая. Пеленги снимали все на стереокамеры. ""Неужто шпионы"", - подумали вы. Через несколько минут космопорт остался позади, и впереди стала видна вторая площадка..."	"Quest Tourists.qmm: jumps.92.description. Preserve every <tag> exactly."	"Quest,Tourists"	""
 "/quests/Tourists.qmm/jumps/93/text"	"По синему мосту на первую площадку"	"Quest Tourists.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Tourists"	""
