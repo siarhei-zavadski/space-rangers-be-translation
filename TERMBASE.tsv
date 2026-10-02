@@ -116,7 +116,7 @@ lemma.airlock	шлюз	airlock	шлюз		Starnik	—
 lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
-lemma.hull_pl	корпуса	hulls	карпусы/карпус		Starnik: ship/mech pl карпусы, родны карпусоў	—
+lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса		Starnik: ship/mech pl карпусы, родны карпусоў	—
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -999,3 +999,4 @@ lemma.discilly	дисциллятик	discilly	дысцылавы/дысцыля
 lemma.khrynda	Хрында	Khrynda	Хрында/Хрынду		peleng matron whose clothes the ranger hides in	Banket.qmm
 lemma.morgul	Моргуль	Morghul	Моргуль		surname of the peleng matron Хрында	Banket.qmm
 lemma.thermoknife	термонож	thermoknife	тэрманжы		throwing knives the prince uses when the ranger shouts boom	Banket.qmm
+lemma.guy_nax	Гай Накс	Guy Nax	Гай/Накс		corporation that owns the branch the ranger is sent to	Filial.qmm
