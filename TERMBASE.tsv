@@ -88,7 +88,7 @@ lemma.engine	двигатель	engine	рухавік		Crowdin glossary; рух�
 lemma.gripper	захват	gripper	захоп		Crowdin glossary; not seizure	—
 lemma.merchant	торговец	merchant	гандляр	гандлёвец	Crowdin glossary; гандляра, гандляру	—
 lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; Кааліцыі, Кааліцыяй	—
-lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора/гіпэрпрастору/гіпэрпрасторы		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
+lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора/гіпэрпрастору/гіпэрпрасторы/гіпэрпрасторавых		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
 lemma.cr	ЦР	RD	ЦР		spoken: цэнтр рэйнджэраў (Starnik цэнтр, L у цэнтры). keep abbr	https://starnik.by/pravapis/83436
 lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not English RT	—
 lemma.government	правительство	government	урад/ўрада/урада		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам		Coalition race; diminutive фэяшкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -1195,7 +1195,7 @@ lemma.rehearsal	репетиция	rehearsal	рэпэтыцыя/рэпэтыцы
 lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэя	hunspell я; Starnik lists а	https://starnik.by/pravapis/38734
 lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
 lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
-lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
+lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр/гіпэры	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
 lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
 lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
