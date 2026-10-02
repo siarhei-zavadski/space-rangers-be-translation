@@ -1110,11 +1110,17 @@ lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту	Гайд�
 lemma.hacker	хакер	hacker	хакер/хакера	гакер	G хакера	https://starnik.by/pravapis/81345
 lemma.shocker	шокер	shocker	шокер/шокерам	шокэр	stun gun; I шокерам	https://starnik.by/pravapis/85477
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
-lemma.mental	ментал	mental	мэнтал/мэнталаў		brain-load unit; G pl мэнталаў	Gaidnet.qmm
+lemma.mental	ментал	mental	мэнтал/мэнталаў/мэнталы/Мэнтал		brain-load unit; G pl мэнталаў	Gaidnet.qmm
 lemma.cyberflea	киберблоха	cyberflea	кіберблыха/кіберблыхі	кібэрблыха	spy bug; G кіберблыхі; кібер https://starnik.by/pravapis/35243	https://starnik.by/pravapis/10994
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
 lemma.initializer	инициализация	initialization	ініцыялізацыя/ініцыялізатар/Ініцыялізацыя	сацыялізацыя	boot log; ініцыялізатар https://starnik.by/pravapis/30816	https://starnik.by/pravapis/30817
-lemma.interactive	интерактивный	interactive	інтэрактыўны/інтэрактыўныя	інтраспэктыўныя	models you can handle	https://starnik.by/pravapis/115967
+lemma.interactive	интерактивный	interactive	інтэрактыўны/інтэрактыўныя/інтэрактыўная	інтраспэктыўныя	models you can handle	https://starnik.by/pravapis/115967
 lemma.microcamera	микровидеокамера	micro video camera	мікравідэакамэра/мікравідэакамэраў	мікрамілімэтраў	spy camera; відэакамэра https://starnik.by/pravapis/14402	Gaidnet.qmm
 lemma.gravbot	гравибот	gravbot	гравібот/гравіботах		porter craft at the spaceport; coined	Gaidnet.qmm
 lemma.shmputer	шмопьютеры	shmcomputers	шмапутары		rhyme of кампутары in the refusal button	Gaidnet.qmm
+lemma.pupkin	Пупкин	Pupkin	Пупкін		joke surname on the diary account	Gaidnet.qmm
+lemma.notsri	Ноцри	Notsri	Ноцры		name token in Га Ноцри-Боо	Gaidnet.qmm
+lemma.boo	Боо	Boo	Боо		name token in Га Ноцри-Боо	Gaidnet.qmm
+lemma.yu	Ю	Yu	Ю		name token in Хи Ю Ань	Gaidnet.qmm
+lemma.stokator	стокаторный	stokator	стакатарны/стакатарнага		coined device in the bulletin	Gaidnet.qmm
+lemma.zhizhometer	жижометр	zhizhometer	жыжамэтар/жыжамэтра		coined device in the bulletin	Gaidnet.qmm
