@@ -77,10 +77,10 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў		Crowdin glossary	—
-lemma.planet	планета	planet	плянэта/Плянэта/плянэты		Crowdin glossary; плянэты, плянэце; pl плянэт	—
+lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
 lemma.save	сохранение	save	захаваньне		Crowdin glossary; захаваньня, захаваньні	—
@@ -91,7 +91,7 @@ lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; �
 lemma.hyper	гиперпространство	hyperspace	гіпэрпрастора/гіпэрпрастору/гіпэрпрасторы		Crowdin glossary; у гіпэрпрасторы, not гіпер-	—
 lemma.cr	ЦР	RD	ЦР		spoken: цэнтр рэйнджэраў (Starnik цэнтр, L у цэнтры). keep abbr	https://starnik.by/pravapis/83436
 lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not English RT	—
-lemma.government	правительство	government	урад		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
+lemma.government	правительство	government	урад/ўрада		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
 lemma.cursor	курсор	cursor	курсор		Starnik: родны курсора, not курсору	—
 lemma.center	центр	center	цэнтр		Starnik: родны цэнтра; да цэнтра	—
 lemma.resolution	разрешение	resolution	разрознасьць		Kamputerm 2010: разрознасць, not разрозненне	—
@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -937,3 +937,14 @@ lemma.coapsular	коапсулярный	coapsular	каапсулярны/каа
 lemma.singular	сингулярный	singular	сінгулярны/сінгулярнай/сінгулярную		book jargon; hunspell suggestions are the wrong sense	Xenopark.qmm
 lemma.fluctual	флуктуальный	fluctual	флуктуальнай		malapropism in the aishaut book	Xenopark.qmm
 lemma.schizoadv	шизофренически	schizophrenically	шызафрэнічна		adverb; hunspell has only the adjective	Xenopark.qmm
+lemma.banquet	банкет	banquet	банкет/банкеце/банкету	бяседа	formal dinner, Starnik sense 1	https://starnik.by/pravapis/9048
+lemma.drink_strength	крепость	alcohol strength	мацунак	крапасць	degrees of a drink; the kvass example	https://starnik.by/pravapis/42399
+lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
+lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
+lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары		malok prince; Тары is his wife's nickname	Banket.qmm
+lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах		the prince's boom-name; ASCII apostrophe	Banket.qmm
+lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
+lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
+lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
+lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю	хмель	joke hops; keep the extra syllable	Banket.qmm
+lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm

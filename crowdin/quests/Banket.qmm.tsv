@@ -1,15 +1,15 @@
 "identifier"	"source_phrase"	"context"	"labels"	"be"
-"/quests/Banket.qmm/parameters/0/name"	"Отношение"	"Quest Banket.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Relation"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/0/lines/0/content"	"ОТНОШЕНИЕ К ВАМ:"	"Quest Banket.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: RELATION TO YOU:"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Banket.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/name"	"Принца"	"Quest Banket.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Prince"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/0/content"	"Принца Тардыма: <clr>раздражение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>irritated<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/1/content"	"Принца Тардыма: <clr>презрение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>despise<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/2/content"	"Принца Тардыма: <clr>недоверие<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>distrust<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/3/content"	"Принца Тардыма: <clr>нормальное<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>normal<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/4/content"	"Принца Тардыма: <clr>хорошее<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>good<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/5/content"	"Принца Тардыма: <clr>симпатия<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.5.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>liking<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/1/lines/6/content"	"Принца Тардыма: <clr>уважение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.6.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>respect<clrEnd>"	"Quest,Banket"	""
+"/quests/Banket.qmm/parameters/0/name"	"Отношение"	"Quest Banket.qmm: parameters.0.name. Preserve every <tag> exactly. English reference: Relation"	"Quest,Banket"	"Стаўленьне"
+"/quests/Banket.qmm/parameters/0/lines/0/content"	"ОТНОШЕНИЕ К ВАМ:"	"Quest Banket.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly. English reference: RELATION TO YOU:"	"Quest,Banket"	"СТАЎЛЕНЬНЕ ДА ВАС:"
+"/quests/Banket.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 1"	"Quest Banket.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 1"
+"/quests/Banket.qmm/parameters/1/name"	"Принца"	"Quest Banket.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Prince"	"Quest,Banket"	"Прынца"
+"/quests/Banket.qmm/parameters/1/lines/0/content"	"Принца Тардыма: <clr>раздражение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>irritated<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>раздражненьне<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/1/content"	"Принца Тардыма: <clr>презрение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>despise<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>пагарда<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/2/content"	"Принца Тардыма: <clr>недоверие<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>distrust<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>недавер<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/3/content"	"Принца Тардыма: <clr>нормальное<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>normal<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>нармальнае<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/4/content"	"Принца Тардыма: <clr>хорошее<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>good<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>добрае<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/5/content"	"Принца Тардыма: <clr>симпатия<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.5.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>liking<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>сымпатыя<clrEnd>"
+"/quests/Banket.qmm/parameters/1/lines/6/content"	"Принца Тардыма: <clr>уважение<clrEnd>"	"Quest Banket.qmm: parameters.1.lines.6.content. Preserve every <tag> exactly. English reference: Prince Tardym: <clr>respect<clrEnd>"	"Quest,Banket"	"Прынца Тардыма: <clr>павага<clrEnd>"
 "/quests/Banket.qmm/parameters/1/crit_text"	"Неожиданно малокский принц презрительно скривился и указал в вашу сторону:
 - Уберите этого несчастного задохлика подальше от меня, пока я его плевком не перешиб... И никогда больше не подпускайте ко мне этого ничтожного червяка...
 
@@ -20,15 +20,20 @@
 
 The bodyguards took you by the arms, and solemnly carried your desperately jerking and fighting body out of the Government Palace.
 
-<clr>You failed your mission.<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/name"	"Жены принца Тардыма"	"Quest Banket.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Prince Tardym's wife"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/0/content"	"Жены принца: <clr>раздражение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>irritated<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/1/content"	"Жены принца: <clr>презрение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>despise<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/2/content"	"Жены принца: <clr>недоверие<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.2.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>distrust<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/3/content"	"Жены принца: <clr>нормальное<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.3.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>normal<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/4/content"	"Жены принца: <clr>интерес<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.4.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>interest<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/5/content"	"Жены принца: <clr>симпатия<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.5.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>liking<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/2/lines/6/content"	"Жены принца: <clr>уважение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.6.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>respect<clrEnd>"	"Quest,Banket"	""
+<clr>You failed your mission.<clrEnd>"	"Quest,Banket"	"Нечакана малокскі прынц пагардліва скрывіўся і паказаў у ваш бок:
+— Прыбярыце гэтага няшчаснага слабака далей ад мяне, пакуль я яго пляўком не пераб'ю... І ніколі больш не падпускайце да мяне гэтага нікчэмнага чарвяка...
+
+Целаахоўнікі схапілі вас пад рукі, і адбыўся ўрачысты вынас вашага цела, якое адчайна брыкалася, з Палаца ўрада.
+
+<clr>Вы правалілі заданьне.<clrEnd>"
+"/quests/Banket.qmm/parameters/2/name"	"Жены принца Тардыма"	"Quest Banket.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Prince Tardym's wife"	"Quest,Banket"	"Жонкі прынца Тардыма"
+"/quests/Banket.qmm/parameters/2/lines/0/content"	"Жены принца: <clr>раздражение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>irritated<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>раздражненьне<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/1/content"	"Жены принца: <clr>презрение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>despise<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>пагарда<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/2/content"	"Жены принца: <clr>недоверие<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.2.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>distrust<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>недавер<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/3/content"	"Жены принца: <clr>нормальное<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.3.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>normal<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>нармальнае<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/4/content"	"Жены принца: <clr>интерес<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.4.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>interest<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>цікавасьць<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/5/content"	"Жены принца: <clr>симпатия<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.5.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>liking<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>сымпатыя<clrEnd>"
+"/quests/Banket.qmm/parameters/2/lines/6/content"	"Жены принца: <clr>уважение<clrEnd>"	"Quest Banket.qmm: parameters.2.lines.6.content. Preserve every <tag> exactly. English reference: Tardym's wife: <clr>respect<clrEnd>"	"Quest,Banket"	"Жонкі прынца: <clr>павага<clrEnd>"
 "/quests/Banket.qmm/parameters/2/crit_text"	"Малокская принцесса вдруг тяжело вздохнула и капризно дернула своего мужа за портупею:
 - Тари, я ведь просила что-то необычное, сугубо традиционное, но не малокское. А мне подсунули какого-то звереныша, воспитанного в семье воина-малока. Где экзотика, варварские обычаи и инопланетная романтика? Видеть больше эту нелепую пародию на малока не хочу.
 
@@ -39,87 +44,96 @@ The bodyguards took you by the arms, and solemnly carried your desperately jerki
 
 The bodyguards took you by the arms, and solemnly carried your desperately jerking and fighting body out of the Government Palace.
 
-<clr>You failed your mission.<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/3/name"	"НА ВАС НАДЕТО:"	"Quest Banket.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: YOU ARE DRESSED IN:"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/3/lines/0/content"	"НА ВАС НАДЕТО:"	"Quest Banket.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: YOU ARE DRESSED IN:"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Banket.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/name"	"Тип одежды"	"Quest Banket.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Clothes type"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/0/content"	"Ремни, портупеи, оружие"	"Quest Banket.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Belts, sword-belts, weapons"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/1/content"	"Защитный панцирь"	"Quest Banket.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Defense panzer"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/2/content"	"Костюм рейнджера"	"Quest Banket.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly. English reference: Ranger suit"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/3/content"	"Костюм лакея"	"Quest Banket.qmm: parameters.4.lines.3.content. Preserve every <tag> exactly. English reference: Butler suit"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/4/content"	"Нарядный смокинг"	"Quest Banket.qmm: parameters.4.lines.4.content. Preserve every <tag> exactly. English reference: Neat tuxedo"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/lines/5/content"	"Богатый вычурный наряд"	"Quest Banket.qmm: parameters.4.lines.5.content. Preserve every <tag> exactly. English reference: Rich and flamboyant suit"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Banket.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/5/name"	"Подарки (вин/рак/ран)"	"Quest Banket.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Presents (rfl/shll/bpck)"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/5/lines/0/content"	"Параметр номер 11: <>"	"Quest Banket.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 11: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Banket.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/6/name"	"деньга"	"Quest Banket.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: money"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/6/lines/0/content"	"Ваши деньги: <> cr"	"Quest Banket.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Your money: <> cr"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Banket.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/7/name"	"Деньги"	"Quest Banket.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/7/lines/0/content"	"Ваши деньги: <>"	"Quest Banket.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Banket.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/8/name"	"Взял подсказку"	"Quest Banket.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Hint used"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Banket.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Banket.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/9/name"	"Параметр номер 10"	"Quest Banket.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Banket.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Banket.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/name"	"Самочувствие"	"Quest Banket.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/0/content"	"Cамочувствие: <clr>ложись и помирай<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/1/content"	"Cамочувствие: <clr>плохое<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/2/content"	"Cамочувствие: <clr>бывало и лучше<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/3/content"	"Cамочувствие: <clr>неважнецкое<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/4/content"	"Cамочувствие: <clr>умеренное<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/5/content"	"Cамочувствие: <clr>хорошее<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.5.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/10/lines/6/content"	"Cамочувствие: <clr>полон сил и наглости<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.6.content. Preserve every <tag> exactly."	"Quest,Banket"	""
+<clr>You failed your mission.<clrEnd>"	"Quest,Banket"	"Малокская прынцэса раптам цяжка ўздыхнула і капрызна тузанула свайго мужа за партупэю:
+— Тары, я ж прасіла нешта незвычайнае, выключна традыцыйнае, але не малокскае. А мне падсунулі нейкага зьвярка, выхаванага ў сям'і воіна-малока. Дзе экзотыка, барбарскія звычаі і іншаплянэтная рамантыка? Бачыць больш гэтую недарэчную пародыю на малока не хачу.
+
+Целаахоўнікі схапілі вас пад рукі, і адбыўся ўрачысты вынас вашага цела, якое адчайна брыкалася, з Палаца ўрада.
+
+<clr>Вы правалілі заданьне.<clrEnd>"
+"/quests/Banket.qmm/parameters/3/name"	"НА ВАС НАДЕТО:"	"Quest Banket.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: YOU ARE DRESSED IN:"	"Quest,Banket"	"НА ВАС НАДЗЕТА:"
+"/quests/Banket.qmm/parameters/3/lines/0/content"	"НА ВАС НАДЕТО:"	"Quest Banket.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: YOU ARE DRESSED IN:"	"Quest,Banket"	"НА ВАС НАДЗЕТА:"
+"/quests/Banket.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 5"	"Quest Banket.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 5"
+"/quests/Banket.qmm/parameters/4/name"	"Тип одежды"	"Quest Banket.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Clothes type"	"Quest,Banket"	"Тып адзежы"
+"/quests/Banket.qmm/parameters/4/lines/0/content"	"Ремни, портупеи, оружие"	"Quest Banket.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Belts, sword-belts, weapons"	"Quest,Banket"	"Рамяні, партупэі, зброя"
+"/quests/Banket.qmm/parameters/4/lines/1/content"	"Защитный панцирь"	"Quest Banket.qmm: parameters.4.lines.1.content. Preserve every <tag> exactly. English reference: Defense panzer"	"Quest,Banket"	"Ахоўны панцыр"
+"/quests/Banket.qmm/parameters/4/lines/2/content"	"Костюм рейнджера"	"Quest Banket.qmm: parameters.4.lines.2.content. Preserve every <tag> exactly. English reference: Ranger suit"	"Quest,Banket"	"Рэйнджэрскі касьцюм"
+"/quests/Banket.qmm/parameters/4/lines/3/content"	"Костюм лакея"	"Quest Banket.qmm: parameters.4.lines.3.content. Preserve every <tag> exactly. English reference: Butler suit"	"Quest,Banket"	"Касьцюм лакея"
+"/quests/Banket.qmm/parameters/4/lines/4/content"	"Нарядный смокинг"	"Quest Banket.qmm: parameters.4.lines.4.content. Preserve every <tag> exactly. English reference: Neat tuxedo"	"Quest,Banket"	"Сьвяточны смокінг"
+"/quests/Banket.qmm/parameters/4/lines/5/content"	"Богатый вычурный наряд"	"Quest Banket.qmm: parameters.4.lines.5.content. Preserve every <tag> exactly. English reference: Rich and flamboyant suit"	"Quest,Banket"	"Багаты вычварны ўбор"
+"/quests/Banket.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Banket.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 6"
+"/quests/Banket.qmm/parameters/5/name"	"Подарки (вин/рак/ран)"	"Quest Banket.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Presents (rfl/shll/bpck)"	"Quest,Banket"	"Падарункі (він/рак/ран)"
+"/quests/Banket.qmm/parameters/5/lines/0/content"	"Параметр номер 11: <>"	"Quest Banket.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 11: <>"	"Quest,Banket"	"Парамэтар нумар 11: <>"
+"/quests/Banket.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Banket.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 11"
+"/quests/Banket.qmm/parameters/6/name"	"деньга"	"Quest Banket.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: money"	"Quest,Banket"	"грош"
+"/quests/Banket.qmm/parameters/6/lines/0/content"	"Ваши деньги: <> cr"	"Quest Banket.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly. English reference: Your money: <> cr"	"Quest,Banket"	"Вашыя грошы: <> cr"
+"/quests/Banket.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Banket.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 2"
+"/quests/Banket.qmm/parameters/7/name"	"Деньги"	"Quest Banket.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Banket"	"Грошы"
+"/quests/Banket.qmm/parameters/7/lines/0/content"	"Ваши деньги: <>"	"Quest Banket.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Вашыя грошы: <>"
+"/quests/Banket.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Banket.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 8"
+"/quests/Banket.qmm/parameters/8/name"	"Взял подсказку"	"Quest Banket.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Hint used"	"Quest,Banket"	"Узяў падказку"
+"/quests/Banket.qmm/parameters/8/lines/0/content"	"Параметр номер 9: <>"	"Quest Banket.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 9: <>"
+"/quests/Banket.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Banket.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 9"
+"/quests/Banket.qmm/parameters/9/name"	"Параметр номер 10"	"Quest Banket.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 10"
+"/quests/Banket.qmm/parameters/9/lines/0/content"	"Параметр номер 10: <>"	"Quest Banket.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 10: <>"
+"/quests/Banket.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Banket.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 10"
+"/quests/Banket.qmm/parameters/10/name"	"Самочувствие"	"Quest Banket.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне"
+"/quests/Banket.qmm/parameters/10/lines/0/content"	"Cамочувствие: <clr>ложись и помирай<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>кладзіся і памірай<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/1/content"	"Cамочувствие: <clr>плохое<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>дрэннае<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/2/content"	"Cамочувствие: <clr>бывало и лучше<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>бывала і лепей<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/3/content"	"Cамочувствие: <clr>неважнецкое<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>неважнецкае<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/4/content"	"Cамочувствие: <clr>умеренное<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>умеранае<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/5/content"	"Cамочувствие: <clr>хорошее<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.5.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>добрае<clrEnd>"
+"/quests/Banket.qmm/parameters/10/lines/6/content"	"Cамочувствие: <clr>полон сил и наглости<clrEnd>"	"Quest Banket.qmm: parameters.10.lines.6.content. Preserve every <tag> exactly."	"Quest,Banket"	"Самаадчуваньне: <clr>поўны сілаў і нахабства<clrEnd>"
 "/quests/Banket.qmm/parameters/10/crit_text"	"Это надо же такому случиться! Бравый рейнджер погиб не под огнем влота Доминаторов и не от предательского залпа пирата, а на праздничном банкете в честь малокского принца.
 
-Ну и что теперь прикажете на вашем памятнике писать?"	"Quest Banket.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/11/name"	"Диалоговая"	"Quest Banket.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: Dialogue"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest Banket.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 12: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Banket.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/12/name"	"КИНЗА"	"Quest Banket.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: KINZA"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/12/lines/0/content"	"<clr>КИНЗА:<clrEnd>"	"Quest Banket.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: <clr>KINZA:<clrEnd>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Banket.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/13/name"	"Крепость:"	"Quest Banket.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Alcohol:"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/13/lines/0/content"	"Крепость: <> град."	"Quest Banket.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: Alcohol: <> percent."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Banket.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/14/name"	"Прозрачность"	"Quest Banket.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Transparency"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/14/lines/0/content"	"Прозрачность: <>%"	"Quest Banket.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Transparency: <>%"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Banket.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/15/name"	"Пузыристость"	"Quest Banket.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: Carbonation"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/15/lines/0/content"	"Пузыристость: <> ед."	"Quest Banket.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Carbonation: <> units."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Banket.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/16/name"	"Попыток"	"Quest Banket.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Attempts"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/16/lines/0/content"	"___<br>Кубиков еще нужно: <>"	"Quest Banket.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: ======================<br>Cubes more needed: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Banket.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/17/name"	"Параметр номер 18"	"Quest Banket.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest Banket.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Banket.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/18/name"	"Параметр номер 19"	"Quest Banket.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest Banket.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Banket.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/19/name"	"Дисцил"	"Quest Banket.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Discil"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Banket.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 20: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Banket.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/20/name"	"хухмель"	"Quest Banket.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: hukhmel"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Banket.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 21: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Banket.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/21/name"	"репузатор"	"Quest Banket.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: repusator"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Banket.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 22: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Banket.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/22/name"	"вода"	"Quest Banket.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: water"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Banket.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 23: <>"	"Quest,Banket"	""
-"/quests/Banket.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Banket.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	""
-"/quests/Banket.qmm/toplanet"	"Радушная"	"Quest Banket.qmm: toplanet. Preserve every <tag> exactly. English reference: Cordial"	"Quest,Banket"	""
-"/quests/Banket.qmm/ranger"	"Лизоблюд"	"Quest Banket.qmm: ranger. Preserve every <tag> exactly. English reference: Foot-licker"	"Quest,Banket"	""
+Ну и что теперь прикажете на вашем памятнике писать?"	"Quest Banket.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Трэба ж такому здарыцца! Хвацкі рэйнджэр загінуў не пад агнём флёту дамінатараў і не ад здрадніцкага залпу пірата, а на сьвяточным банкеце ў гонар малокскага прынца.
+
+Ну і што цяпер загадаеце на вашым помніку пісаць?"
+"/quests/Banket.qmm/parameters/11/name"	"Диалоговая"	"Quest Banket.qmm: parameters.11.name. Preserve every <tag> exactly. English reference: Dialogue"	"Quest,Banket"	"Гутарковая"
+"/quests/Banket.qmm/parameters/11/lines/0/content"	"Параметр номер 12: <>"	"Quest Banket.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 12: <>"	"Quest,Banket"	"Парамэтар нумар 12: <>"
+"/quests/Banket.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Banket.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 12"
+"/quests/Banket.qmm/parameters/12/name"	"КИНЗА"	"Quest Banket.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: KINZA"	"Quest,Banket"	"КІНЗА"
+"/quests/Banket.qmm/parameters/12/lines/0/content"	"<clr>КИНЗА:<clrEnd>"	"Quest Banket.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly. English reference: <clr>KINZA:<clrEnd>"	"Quest,Banket"	"<clr>КІНЗА:<clrEnd>"
+"/quests/Banket.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Banket.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 16"
+"/quests/Banket.qmm/parameters/13/name"	"Крепость:"	"Quest Banket.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Alcohol:"	"Quest,Banket"	"Мацунак:"
+"/quests/Banket.qmm/parameters/13/lines/0/content"	"Крепость: <> град."	"Quest Banket.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly. English reference: Alcohol: <> percent."	"Quest,Banket"	"Мацунак: <> град."
+"/quests/Banket.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Banket.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 13"
+"/quests/Banket.qmm/parameters/14/name"	"Прозрачность"	"Quest Banket.qmm: parameters.14.name. Preserve every <tag> exactly. English reference: Transparency"	"Quest,Banket"	"Празрыстасьць"
+"/quests/Banket.qmm/parameters/14/lines/0/content"	"Прозрачность: <>%"	"Quest Banket.qmm: parameters.14.lines.0.content. Preserve every <tag> exactly. English reference: Transparency: <>%"	"Quest,Banket"	"Празрыстасьць: <>%"
+"/quests/Banket.qmm/parameters/14/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Banket.qmm: parameters.14.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 14"
+"/quests/Banket.qmm/parameters/15/name"	"Пузыристость"	"Quest Banket.qmm: parameters.15.name. Preserve every <tag> exactly. English reference: Carbonation"	"Quest,Banket"	"Шыпучасьць"
+"/quests/Banket.qmm/parameters/15/lines/0/content"	"Пузыристость: <> ед."	"Quest Banket.qmm: parameters.15.lines.0.content. Preserve every <tag> exactly. English reference: Carbonation: <> units."	"Quest,Banket"	"Шыпучасьць: <> адз."
+"/quests/Banket.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Banket.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 15"
+"/quests/Banket.qmm/parameters/16/name"	"Попыток"	"Quest Banket.qmm: parameters.16.name. Preserve every <tag> exactly. English reference: Attempts"	"Quest,Banket"	"Спробаў"
+"/quests/Banket.qmm/parameters/16/lines/0/content"	"___<br>Кубиков еще нужно: <>"	"Quest Banket.qmm: parameters.16.lines.0.content. Preserve every <tag> exactly. English reference: ======================<br>Cubes more needed: <>"	"Quest,Banket"	"___<br>Кубікаў яшчэ трэба: <>"
+"/quests/Banket.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Banket.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 17"
+"/quests/Banket.qmm/parameters/17/name"	"Параметр номер 18"	"Quest Banket.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 18"
+"/quests/Banket.qmm/parameters/17/lines/0/content"	"Параметр номер 18: <>"	"Quest Banket.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 18: <>"
+"/quests/Banket.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Banket.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 18"
+"/quests/Banket.qmm/parameters/18/name"	"Параметр номер 19"	"Quest Banket.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 19"
+"/quests/Banket.qmm/parameters/18/lines/0/content"	"Параметр номер 19: <>"	"Quest Banket.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Banket"	"Парамэтар нумар 19: <>"
+"/quests/Banket.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Banket.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 19"
+"/quests/Banket.qmm/parameters/19/name"	"Дисцил"	"Quest Banket.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Discil"	"Quest,Banket"	"Дысцыл"
+"/quests/Banket.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Banket.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 20: <>"	"Quest,Banket"	"Парамэтар нумар 20: <>"
+"/quests/Banket.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Banket.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 20"
+"/quests/Banket.qmm/parameters/20/name"	"хухмель"	"Quest Banket.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: hukhmel"	"Quest,Banket"	"хухмель"
+"/quests/Banket.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Banket.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 21: <>"	"Quest,Banket"	"Парамэтар нумар 21: <>"
+"/quests/Banket.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Banket.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 21"
+"/quests/Banket.qmm/parameters/21/name"	"репузатор"	"Quest Banket.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: repusator"	"Quest,Banket"	"рэпузатар"
+"/quests/Banket.qmm/parameters/21/lines/0/content"	"Параметр номер 22: <>"	"Quest Banket.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 22: <>"	"Quest,Banket"	"Парамэтар нумар 22: <>"
+"/quests/Banket.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Banket.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 22"
+"/quests/Banket.qmm/parameters/22/name"	"вода"	"Quest Banket.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: water"	"Quest,Banket"	"вада"
+"/quests/Banket.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Banket.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 23: <>"	"Quest,Banket"	"Парамэтар нумар 23: <>"
+"/quests/Banket.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Banket.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 23"
+"/quests/Banket.qmm/toplanet"	"Радушная"	"Quest Banket.qmm: toplanet. Preserve every <tag> exactly. English reference: Cordial"	"Quest,Banket"	"Радушная"
+"/quests/Banket.qmm/ranger"	"Лизоблюд"	"Quest Banket.qmm: ranger. Preserve every <tag> exactly. English reference: Foot-licker"	"Quest,Banket"	"Лізаблюд"
 "/quests/Banket.qmm/success_text"	"Замечательная работа, <Ranger>! Мы уже получили уведомление о скором визите малокских дипломатов, подготовка к торжественному приему идет полным ходом. Вы честно отработали свои <Money> cr, которые, кстати, уже переведены на ваш счет.
 
 Если вдруг вам захочется снова испытать свое везение в дипломатических переговорах - милости просим. В крайнем случае, кофейку попьем."	"Quest Banket.qmm: success_text. Preserve every <tag> exactly. English reference: Excellent work, <Ranger>! We have already received a notification on the coming visit of the Maloq diplomats.  The preparations for a grand reception are in full swing. You have honestly earned your fee of <Money> cr, which, by the way, has already been transferred to your account.
 
-If by any chance you feel that you want to once again test your luck in diplomacy - please, be our guest. And if not, just drop by for a cup of coffee."	"Quest,Banket"	""
+If by any chance you feel that you want to once again test your luck in diplomacy - please, be our guest. And if not, just drop by for a cup of coffee."	"Quest,Banket"	"Выдатная праца, <Ranger>! Мы ўжо атрымалі паведамленьне пра хуткі візыт малокскіх дыпляматаў, падрыхтоўка да ўрачыстага прыёму ідзе поўным ходам. Вы сумленна адпрацавалі свае <Money> cr, якія, дарэчы, ужо пераведзеныя на ваш рахунак.
+
+Калі раптам вам захочацца зноў выпрабаваць сваё шчасьце ў дыпляматычных перамовах — калі ласка. У крайнім выпадку кавы пап'ём."
 "/quests/Banket.qmm/task_text"	"Ну что же, у нас как раз есть один заказ. В систему <ToStar> с дружеским визитом прилетает сын одного из малокских монархов - принц Тардым ба'Бах со своей семьей. Он также является Военнокомандующим космических сил своей родной системы. Наше правительство заинтересовано в установлении дружеских отношений с принцем - мы рассчитываем получить военную помощь в охране наших планет от Доминаторов. 
 
 Правительство планеты <ToPlanet> устраивает торжественный прием в честь малокского принца, и мы предлагаем вам обслуживать семью наследного принца на этом банкете - принц Тардым не терпит возле себя штатских, но в то же время с уважением относится к рейнджерам, а ведь вам пришлось немало понюхать оружейной смазки. К тому же, у вас есть опыт общения с малоками. 
@@ -128,7 +142,11 @@ If by any chance you feel that you want to once again test your luck in diplomac
 
 The government of the <ToPlanet> system is organising a grand reception to honour the Maloq Prince, and we suggest that you become the escort of the Prince and his family at this banquet. Tardym does not tolerate any civilians by his side, but at the same time he respects the rangers, and with your combat experience we couldn't find a better candidate. Besides you already had some experience in dealing with the Maloqs. 
 
-If you manage to make a good impression on the Prince and invite him to visit our planet, we will pay you a reward of <Money> credits. The banquet is scheduled in <Day> days, so you must arrive to the planet of <ToPlanet> on time."	"Quest,Banket"	""
+If you manage to make a good impression on the Prince and invite him to visit our planet, we will pay you a reward of <Money> credits. The banquet is scheduled in <Day> days, so you must arrive to the planet of <ToPlanet> on time."	"Quest,Banket"	"Ну што ж, у нас якраз ёсьць адна замова. У сыстэму <ToStar> з сяброўскім візытам прылятае сын аднаго з малокскіх манархаў — прынц Тардым ба'Бах са сваёй сям'ёй. Ён таксама зьяўляецца галоўнакамандуючым касьмічных сілаў сваёй роднай сыстэмы. Наш урад зацікаўлены ва ўсталяваньні сяброўскіх дачыненьняў з прынцам — мы разьлічваем атрымаць вайсковую дапамогу ў ахове нашых плянэтаў ад дамінатараў. 
+
+Урад плянэты <ToPlanet> ладзіць урачысты прыём у гонар малокскага прынца, і мы прапануем вам абслугоўваць сям'ю насьледнага прынца на гэтым банкеце — прынц Тардым не трывае каля сябе цывільных, але ў той жа час з павагай ставіцца да рэйнджэраў, а вам жа давялося нямала панюхаць збройнай змазкі. Да таго ж у вас ёсьць досьвед зносінаў з малокамі. 
+
+Калі вам удасца зрабіць на прынца добрае ўражаньне і запрасіць яго ў госьці на нашу плянэту, то мы выплацім вам <Money> крэдытаў. Банкет пачнецца праз <Day> дзён, так што вы мусіце прыбыць на плянэту <ToPlanet> своечасова."
 "/quests/Banket.qmm/locations/0/texts/0/text"	"Вы прибыли на планету <ToPlanet> ранним утром и приземлили свой корабль на посадочной площадке Дворца Правительства. Судя по царившему оживлению, подготовка к встрече малокского принца была в самом разгаре. К вам подбежал запыхавшийся церемониймейстер:
 - <Ranger>? Вы как раз вовремя. Похоже, что принц Тардым ба'Бах изменил свои планы и прибыл раньше, чем его ожидали. Этакий каприз будущего наследника, хотя сам он это назвал ""предварительной разведкой с элементом внезапности"". Так что банкет начнется через час. Вам нужно переодеться и получить инструкции...
 
