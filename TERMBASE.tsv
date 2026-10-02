@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -942,7 +942,7 @@ lemma.drink_strength	крепость	alcohol strength	мацунак	крапа
 lemma.bootlick	лизоблюд	bootlick	Лізаблюд/лізаблюд	падліза	the ranger's name in this quest; hunspell suggestions are nonsense	https://starnik.by/pravapis/39435
 lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell suggestions are nonsense	https://starnik.by/pravapis/38451
 lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму/Тардымам		malok prince; Тары is his wife's nickname	Banket.qmm
-lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі/Ба'Бах		the prince's boom-name; ASCII apostrophe	Banket.qmm
+lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі/Ба'Бах/ба'Бахам		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
 lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
@@ -983,3 +983,7 @@ lemma.pyropodius	пироподиус захламидус	Pyropodius chlamydus	
 lemma.paloma	Палома Ундерсон	Paloma Underson	Палома/Паломы/Ундэрсан		human actress; the maloqs do not share the compliment	Banket.qmm
 lemma.keroplast	керопластовая	keroplast	керапляставая/Керапляставая		coined armor; practical next to cloth	Banket.qmm
 lemma.vakkati	ваккати	vakkati	ваккаці	вінакур	malok distillers; the prince's word for who brews the festive drink	Banket.qmm
+lemma.kraki	краки	kraki	Кракі/кракі		the prince's snack-name for the shells; he eats them	Banket.qmm
+lemma.gravtank	гравитанк	gravtank	гравітанк/гравітанка		combat vehicle; hunspell has no form	Banket.qmm
+lemma.destructor_beam	деструкторный	destructor	дэструктарны		beam weapon the father wanted for his sons	Banket.qmm
+lemma.holodisk	голо-диск	holodisk	голадыск	гола-дыск	a disk with a ladies' romance; one token so it is not read as naked	Banket.qmm
