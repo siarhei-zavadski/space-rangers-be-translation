@@ -299,7 +299,7 @@ lemma.cologne	Тройной одеколон	Triple cologne	Тройны адэ
 lemma.vonilin	Вонилин-ФУ	Stinkillin-FU	Вонілін-ФУ		Faruk +10% stink ampule; keep joke stem	—
 lemma.stink_unit	вонь / ВОНь	stink units	вань / ВОНь		Faruk Величина Относительной Неароматности; keep ВОНь cap unit	—
 lemma.orangerie	оранжерея	orangery	аранжарэя		Faruk; G аранжарэі A аранжарэю	—
-lemma.case	кейс	case	кэйс/Кэйс		Faruk fruit case; hunspell leftover OK like сэйф	—
+lemma.case	кейс	case	кэйс/Кэйс/кэйсам/кэйсе		Faruk fruit case; hunspell leftover OK like сэйф	—
 lemma.ski_lift_chair	кресельный подъемник	chairlift	крэсельны пад'ёмнік		Ski.qmm	—
 lemma.ski_lift_cabin	кабиночный подъемник	gondola lift	кабінны пад'ёмнік		Ski.qmm; hunspell кабінны	—
 lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort deputy; not спадарожнік	—
@@ -681,7 +681,7 @@ lemma.gorynych	Горыныч	Gorynych	Гарыныч/Гарыныча/Гары�
 lemma.gladiator	гладиатор	gladiator	глядыятар	гладыятар	D глядыятару	hunspell-be-tarask
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
-lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам/камунікатараў		loan already used in Provoda	—
+lemma.communicator	коммуникатор	communicator	камунікатар/камунікатара/камунікатарам/камунікатараў/камунікатары		loan already used in Provoda	—
 lemma.reboot	перезагрузка	reboot	перазагрузка/Перазагрузка/перазагрузку/перазагрузкі/ПЕРАЗАГРУЗКА		same word as Дамінатары: Перазагрузка; button title Перазагрузка; cave screen is all caps	—
 lemma.repair	починка	repair	рамонт	пачынка	G рамонту; пачынка means a beginning	https://starnik.by/pravapis/63736
 lemma.fix	починить	to repair	направіць		machine sense, as направіць станок	https://starnik.by/pravapis/190300
@@ -785,15 +785,15 @@ lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Ляк
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
 lemma.lyakusha	лякуша	lyakusha	лякуша		peleng clerical rank used before a name	Pachvarash.qmm
-lemma.gravicar	гравикар	gravicar	гравікар/гравікараў		peleng ground craft; Starnik has no entry	Pachvarash.qmm
+lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
 lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі		Coalition race; diminutive фэяшкі	Photorobot.qmm
-lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну		Coalition race; diminutive фэяшкі	Photorobot.qmm
+lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
 lemma.narrow_eyed	узкоглазый	narrow-eyed	вузкавокі/Вузкавокі	завузкі	Starnik adjective; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/103039
@@ -821,7 +821,7 @@ lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Phot
 lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
 lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorobot.qmm
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
-lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
+lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
 lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы		plural; hunspell misses Starnik	https://starnik.by/pravapis/13693
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
@@ -829,10 +829,22 @@ lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
 lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
-lemma.photofit	фоторобот	photofit	фотаробат/фотаробата		already PlanetQuest genre фотаробата	Photorobot.qmm
+lemma.photofit	фоторобот	photofit	фотаробат/фотаробата/фотаробаце		already PlanetQuest genre фотаробата	Photorobot.qmm
 lemma.godzilla	Годзилла	Godzilla	Гадзіла/Гадзілу		mother-in-law joke	Photorobot.qmm
 lemma.nondus	Нондус	Nondus	Нондусы/Эквэнтаровічы		dominator given name and patronymic	Photorobot.qmm
 lemma.petrosyan	петросян	Petrosyan	пэтрасяны/пэтрасянамі		bad comedian, as a common noun	Photorobot.qmm
 lemma.notiksov	Эндрю Нотиксов	Andrew Notiksov	Эндру/Ноціксаў		Banks's assistant	Photorobot.qmm
 lemma.pacifist	Боб Пацифист	Bob Pacifist	Боб/Пацыфіст/Пацыфістам		Citadel player with a mohawk	Photorobot.qmm
 lemma.citadel	Цитадель	Citadel	Цытадэль		game the pacifist plays	Photorobot.qmm
+lemma.paganets	поганец	scoundrel	паганец/паганца		Starnik sense 1, a vile person	https://starnik.by/pravapis/49996
+lemma.thrice_cursed	треклятый	thrice-cursed	трыкляты/трыклятым	пракляты	emphatic cursed case; hunspell only splits the word	https://starnik.by/pravapis/155071
+lemma.brain_shake	сотрясение	concussion	страсеньне		organ sense мозга; hunspell soft sign	https://starnik.by/pravapis/72231
+lemma.sleeping	снотворное	sleeping draught	снатворнае		Starnik noun sense	https://starnik.by/pravapis/150824
+lemma.voila	вуаля	voilà	Вуаля/вуаля		French interjection on the returned case	Photorobot.qmm
+lemma.gravitsapa	гравицапа	gravitsapa	гравіцапа		Kin-dza-dza engine joke; one п as in the Russian line	Photorobot.qmm
+lemma.essen	Эсэн и Ко	Essen and Co	Эсэн/Ко		corporation on the patent tender	Photorobot.qmm
+lemma.avalon	Авалон Инк.	Avalon Inc.	Авалон/Інк		rival that stole the case	Photorobot.qmm
+lemma.ayona	Ани Айона	Ani Aiona	Ані/Айона		restaurant where the contract is signed	Photorobot.qmm
+lemma.areni	Святой Арени	Saint Areni	Арэні/Сьвятой		clinic, genitive of the name	Photorobot.qmm
+lemma.dalani	Далани	Dalani	Далані		faeyan deity in Слава Далані	Photorobot.qmm
+lemma.receiver	трубка	handset	слухаўка/слухаўкі/слухаўцы/слухаўку	трубка	Starnik handset; hunspell suggests the listener	https://starnik.by/pravapis/70373
