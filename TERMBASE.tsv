@@ -1128,3 +1128,9 @@ lemma.dropdead	Выньдабрось	Dropdeadfred	Вымідыкінь	Вынь
 lemma.fan	фанат	fan	фанат/фанаты/фанатаў	фантаў	supporter; hunspell suggests a different word	https://starnik.by/pravapis/79472
 lemma.enemy_hud	БП	enemy ammo	БП/РП/ТП		short HUD labels; initials still read блястэр, ракеты, тарпэды	Robots.qmm
 lemma.terminator	Терминатор	Terminator	Тэрмінатар		quest NPC; Starnik sense is the day-night line, same loanword spelling	https://starnik.by/pravapis/77352
+lemma.jaklo	Жакло	Jaklo	Жакло		fighter name; English joke is a different name	Robots.qmm
+lemma.kaakdam	КаакДам	Kaakdam	КаакДам/КаакДама/КаакДамам		fighter name token	Robots.qmm
+lemma.dzen	Дзен	Dzen	Дзэн	Дзен	fighter name; Zen pun stays the Russian name	Robots.qmm
+lemma.kachan	Кочан	Kochan	Качан/Качана/Качанам	Кочан	cabbage pun in the fighter name	Robots.qmm
+lemma.sylvester	Сильвестр	Silvester	Сыльвэстар/Сыльвэстрам	Сільвестр	Steel Silvester; hunspell suggestions are other words	Robots.qmm
+lemma.battlemech	БаттлМех	BattleMech	БатлМэх/БатлМэха	БаттлМех	combat robot class	Robots.qmm
