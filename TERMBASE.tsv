@@ -152,7 +152,7 @@ lemma.deposit	депозит	deposit	дэпазыт	дэпазіт	bank deposit;
 lemma.fighter	истребитель	fighter	зьнішчальнік	істрэбіцель	1 person who destroys; 2 fighter aircraft; 3 fighter pilot. Rank Leader uses 1+3. G зьнішчальніка	https://starnik.by/pravapis/29600
 lemma.cadet	кадет	cadet	кадэт		military-school pupil, not political ка-дэ. G кадэта, L кадэце	https://starnik.by/pravapis/31744
 lemma.commodore	командор	commander	камандор	камандзір	yacht/squadron title, not камандзір. G камандора	https://starnik.by/pravapis/32384
-lemma.opponent	противник	opponent	праціўнік	супернік	Starnik 3=armed enemy. супернік=contest rival only (соперник). Migrated combat UI.	https://starnik.by/pravapis/59618
+lemma.opponent	противник	opponent	праціўнік/праціўніка	супернік	Starnik 3=armed enemy. супернік=contest rival only (соперник). Migrated combat UI.	https://starnik.by/pravapis/59618
 lemma.under_cmd	под началом	under the command of	пад кіраўніцтвам	пад пачаткам	Skarnik: быть под началом → пад кіраўніцтвам / у падначаленні. пачатак=beginning	https://www.skarnik.by/rusbel/45371
 lemma.alone	в одиночку	single-handed	у адзіночку	у адзінку	адзінка=unit/one item, not 'alone'	—
 lemma.offend	обидеть	offend	пакрыўдзіць		perfective for 'могут и обидеть'; imperfective крыўдзіць=ongoing	—
@@ -1124,3 +1124,7 @@ lemma.boo	Боо	Boo	Боо		name token in Га Ноцри-Боо	Gaidnet.qmm
 lemma.yu	Ю	Yu	Ю		name token in Хи Ю Ань	Gaidnet.qmm
 lemma.stokator	стокаторный	stokator	стакатарны/стакатарнага		coined device in the bulletin	Gaidnet.qmm
 lemma.zhizhometer	жижометр	zhizhometer	жыжамэтар/жыжамэтра		coined device in the bulletin	Gaidnet.qmm
+lemma.dropdead	Выньдабрось	Dropdeadfred	Вымідыкінь	Выньдабрось	fused вымі ды кінь; home planet	Robots.qmm
+lemma.fan	фанат	fan	фанат/фанаты/фанатаў	фантаў	supporter; hunspell suggests a different word	https://starnik.by/pravapis/79472
+lemma.enemy_hud	БП	enemy ammo	БП/РП/ТП		short HUD labels; initials still read блястэр, ракеты, тарпэды	Robots.qmm
+lemma.terminator	Терминатор	Terminator	Тэрмінатар		quest NPC; Starnik sense is the day-night line, same loanword spelling	https://starnik.by/pravapis/77352
