@@ -806,7 +806,7 @@ lemma.torment	томить	keep in suspense	таміце	марудзьце	butt
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
 lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай		race; adjective keeps the малок stem	Photorobot.qmm
-lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі		Coalition race	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаалец		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
@@ -848,3 +848,11 @@ lemma.ayona	Ани Айона	Ani Aiona	Ані/Айона		restaurant where the 
 lemma.areni	Святой Арени	Saint Areni	Арэні/Сьвятой		clinic, genitive of the name	Photorobot.qmm
 lemma.dalani	Далани	Dalani	Далані		faeyan deity in Слава Далані	Photorobot.qmm
 lemma.receiver	трубка	handset	слухаўка/слухаўкі/слухаўцы/слухаўку	трубка	Starnik handset; hunspell suggests the listener	https://starnik.by/pravapis/70373
+lemma.judge	судья	judge	судзьдзя	суддзя	competition judge, Starnik sense 2; hunspell soft sign	https://starnik.by/pravapis/72970
+lemma.rival	соперник	rival	сапернік/сапернікі	супернік	one who tries to win the same contest	https://starnik.by/pravapis/67604
+lemma.pizza_meat	животность	meatiness	жывёльнасьць/Жывёльнасьць		coined pizza stat, animal share	Pizza.qmm
+lemma.pizza_fish	рыбность	fishiness	рыбнасьць/Рыбнасьць		coined pizza stat, fish share	Pizza.qmm
+lemma.viro	Виро Нульф	Viro Nulf	Віро/Нульф		human contestant	Pizza.qmm
+lemma.gluck	Глюк О'Наат	Gluck O'Naat	Глюк/О'Наат		gaal contestant; apostrophe stays	Pizza.qmm
+lemma.vkus	Вкусь Выкусь	Vkus Vykus	Вкусь/Выкусь		peleng contestant; tasty-name joke kept by sound	Pizza.qmm
+lemma.pisa	Пиза	Pisa	Піза/Пізе		leaning tower; the pizza collapses	Pizza.qmm
