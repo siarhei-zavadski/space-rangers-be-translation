@@ -676,7 +676,7 @@ lemma.scroll	свиток	scroll	скрутак	сувой, сьвітак	parch
 lemma.spell	заклинание	spell	заклінаньне	заклінанне	I заклінаньнем; hunspell -ньне	https://starnik.by/pravapis/26896
 lemma.magic	волшебный	magical	магічны	чароўны	spell sense; Starnik «магічныя заклінанні»	https://starnik.by/pravapis/122175
 lemma.dragon	змей	dragon	цмок	змей	fairy-tale dragon; G цмока	https://starnik.by/pravapis/82903
-lemma.gorynych	Горыныч	Gorynych	Гарыныч/Гарыныча		proper name; akanie; G Гарыныча	Park.qmm
+lemma.gorynych	Горыныч	Gorynych	Гарыныч/Гарыныча/Гарынычу		proper name; akanie; G Гарыныча D Гарынычу	Park.qmm
 lemma.gladiator	гладиатор	gladiator	глядыятар	гладыятар	D глядыятару	hunspell-be-tarask
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
@@ -736,7 +736,7 @@ lemma.liner	Галюня Блянка	Halyunya Blyanka	Галюня/Блянка
 lemma.hotdog	хот-дог	hot dog	хот-догам		menu item and jump 73	Park.qmm
 lemma.kladenets	меч-кладенец	magic sword	меч-кладзянец/кладзянец		fairy-tale sword; jump 45; hunspell lacks the compound	https://starnik.by/pravapis/43238
 lemma.one_handed	одноручный	one-handed	аднаручны		sword and shield	https://starnik.by/pravapis/93910
-lemma.two_handed	двуручный	two-handed	двухручны	двуручны, двурушны	sword for both hands; двурушны is two-faced	https://starnik.by/pravapis/108776
+lemma.two_handed	двуручный	two-handed	двухручны/двухручнага	двуручны, двурушны	sword for both hands; G двухручнага; двурушны is two-faced	https://starnik.by/pravapis/108776
 lemma.hilt	гарда	hilt	эфэс	гарда	hilt of a cold weapon; hunspell эфэс over Starnik эфес	https://starnik.by/pravapis/88010
 lemma.spear	копье	spear	дзіда		G дзіды; tail simile uses the same word	https://starnik.by/pravapis/22770
 lemma.mace	палица	mace	паліца		weapon; the shelf is the same spelling	https://starnik.by/pravapis/52120
@@ -748,3 +748,5 @@ lemma.shooting	стреляющий	shooting	страляльны/стралял
 lemma.ilya	Илья Муромский	Ilya of Murom	Ільля/Мурамскі		arena judge; parody spelling	Park.qmm
 lemma.dobrynya	Добряня Никитин	Dobrynya Nikitin	Дабраня/Мікіцін	Дабрыня, Нікіцін	joke spelling, not the dictionary name	Park.qmm
 lemma.alyosha	Алеха Поповин	Alyosha Popovin	Алёха/Паповін	Паповіч	joke spelling, not Паповіч	Park.qmm
+lemma.kvass	квас	kvass	квас		bread drink; G квасу	https://starnik.by/pravapis/34973
+lemma.syun_khryun	СЮНЬ-ХРЮНЬ	Syun-Khryun	СЮНЬ/ХРЮНЬ		eastern camp joke; keep the hyphen	Park.qmm
