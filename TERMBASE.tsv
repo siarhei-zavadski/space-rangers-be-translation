@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -601,7 +601,7 @@ lemma.sirtet	Сиртет	Sirtet	Сіртет		Tetris parody game title; keep re
 lemma.lyanchak_peyhats	Лянчак-Пейхац	Lyanchak-Peykhats	Лянчак-Пейхац		invented train route; keep	—
 lemma.sortir_outhouse	сортир	outhouse	сартыр/сартыры		village toilet pun with сартаваньне; ShipGreetings already сартыры	—
 lemma.nonsmoking_ban	некурение	non-smoking	некурэньне		peleng-law joke (smoking required)	—
-lemma.macrohard_doors	Макрохард Дорс	Macrohard Doors	Макрахард Дорс		OS parody; adj макрахардаўскі; quoted Дорс	—
+lemma.macrohard_doors	Макрохард Дорс	Macrohard Doors	Макрахард Дорс/Макрахарда		OS parody; adj макрахардаўскі; quoted Дорс	—
 lemma.watchman	вахтер	watchman	вахтар	вахцёр	hangar gate sentry; hunspell вахтар not вахцёр. G вахтара I вахтарам	hunspell-be-tarask
 lemma.beyvzub	Бейвзуб	Kicktooth	Бейвзуб		malok private; keep joke surname	—
 lemma.vzgryz	Взгрыз	Vzgryz	Взгрыз		malok captain; keep joke surname	—
@@ -1286,7 +1286,7 @@ lemma.ranzavr	ранзавр	ranzavr	ранзаўр/ранзаўры/ранза�
 lemma.volcano	вулкан	volcano	вулькан/вулькана		hunspell ў; Starnik вулкан	https://starnik.by/pravapis/15423
 lemma.hashish	гашиш	hashish	Гашыш		planet and peleng name	Vulkan.qmm
 lemma.zhlopops	Жлопопс	Zhlopops	Жлопопс/Жлопопса/Жлопопсам/Жлопопсу		passenger name	Vulkan.qmm
-lemma.ushava	Ушава	Ushava	Ушава/Ушаву/Ушавы		base commander	Vulkan.qmm
+lemma.ushava	Ушава	Ushava	Ушава/Ушаву/Ушавы/Ушавай		base commander	Vulkan.qmm
 lemma.nikhrenantes	Нихренантес	Nikhrenantes	Нихренантес		spoken password; keep Russian и	Vulkan.qmm
 lemma.salon	салон	cabin	салён/салёну	салон	aircraft cabin; hunspell ё; Starnik салон	https://starnik.by/pravapis/66773
 lemma.hashishvam	Гашиш-Вам	Hashish-Vam	Гашыш-Вам/Вамам/Вама		peleng employer	Vulkan.qmm
