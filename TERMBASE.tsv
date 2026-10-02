@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/непеленгі		race; N пеленг already in lemma.golden_peleng	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -785,7 +785,7 @@ lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Ляк
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
 lemma.lyakusha	лякуша	lyakusha	лякуша		peleng clerical rank used before a name	Pachvarash.qmm
-lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў		peleng ground craft; Starnik has no entry	Pachvarash.qmm
+lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
 lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
@@ -805,12 +805,12 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
-lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаалец		Coalition race	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
-lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана		gaal flower dessert	Photorobot.qmm
+lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана/ііке/баан		gaal flower dessert; Pizza cooking school	Photorobot.qmm
 lemma.svarokok	сварокок	svarokok	сваракока		chocolate paws	Photorobot.qmm
 lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/оннарайкі		blue pineapple; one farm	Photorobot.qmm
 lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
@@ -823,7 +823,7 @@ lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorob
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
-lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянская/Вегетарыянская		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
+lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
@@ -858,12 +858,14 @@ lemma.vkus	Вкусь Выкусь	Vkus Vykus	Вкусь/Выкусь		peleng co
 lemma.pisa	Пиза	Pisa	Піза/Пізе		leaning tower; the pizza collapses	Pizza.qmm
 lemma.ham	окорок	ham	кумпяк	акорак	hip of a carcass; sliced Tambov ham	https://starnik.by/pravapis/37857
 lemma.tambov	тамбовский	Tambov	Тамбоўскі/тамбоўскі		city ham; proper adjective	Pizza.qmm
-lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
+lemma.carbohydrate	углеводы	carbohydrates	вугляводы/Вугляводы/вугляводаў		plural; hunspell only knows the singular	https://starnik.by/pravapis/15332
 lemma.arnarique	Арнарик Гаудад	Arnarique Goudad	Арнарык/Гаўдад/Гаўдада		planet of the jerbooster; genitive Гаўдада	Pizza.qmm
 lemma.portobello	портобелло	portobello	Партабэла		mushroom; proper name	Pizza.qmm
 lemma.pizza_hack	Пицца-хак	Pizza-Hack	Піца/хак		restaurant chain sponsoring the contest	Pizza.qmm
 lemma.sauce	соус	sauce	соўс	соус	culinary sauce; Starnik school spelling, hunspell wins	https://starnik.by/pravapis/70839
 lemma.composter	Балдимир Компостер	Baldimir Composter	Бальдзімір/Кампостэр		reporter at the pizza palace	Pizza.qmm
-lemma.lyakusha	Лякуша Кулибчин	Lyakusha Kulibchin	Лякуша/Кулібчын		peleng who invented the rusk sauce	Pizza.qmm
+lemma.kulibchin	Лякуша Кулибчин	Lyakusha Kulibchin	Лякуша/Кулібчын		peleng who invented the rusk sauce	Pizza.qmm
 lemma.taron	таронский	Taron	таронскі/таронскім		stallions rubbed with tarragon	Pizza.qmm
-lemma.petrykivka	петриковский	Petrykivka	петрыкаўскі		fok painting the noodle pattern recalls	https://starnik.by/pravapis/139492
+lemma.petrykivka	петриковский	Petrykivka	петрыкаўскі		folk painting the noodle pattern recalls	https://starnik.by/pravapis/139492
+lemma.zhvirklats	Жвырклац	Zhvirklats	Жвырклац		peleng show-ballet at the palace	Pizza.qmm
+lemma.virgin	девственница	virgin	нявінніца/нявінніцы		the ballet's virgin	https://starnik.by/pravapis/49087
