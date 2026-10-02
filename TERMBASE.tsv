@@ -692,7 +692,7 @@ lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from коран
 lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
-lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
+lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў/пэнчэкряк		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
 lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/Квакажабры/квакажабры		slot reel; akanie	Park.qmm
 lemma.khokhlach	Хохлач	Khokhlach	Хахлач/Хахлачы/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
 lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
@@ -806,7 +806,7 @@ lemma.torment	томить	keep in suspense	таміце	марудзьце	butt
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
 lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
-lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі		Coalition race	Photorobot.qmm
+lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца		Coalition race	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
@@ -1001,3 +1001,8 @@ lemma.morgul	Моргуль	Morghul	Моргуль		surname of the peleng matron
 lemma.thermoknife	термонож	thermoknife	тэрманжы		throwing knives the prince uses when the ranger shouts boom	Banket.qmm
 lemma.guy_nax	Гай Накс	Guy Nax	Гай/Накс		corporation that owns the branch the ranger is sent to	Filial.qmm
 lemma.streisand	Стрейзанд	Streisand	Бар/Бара/Стрэйзанд		the bar-name joke Бар Бара Стрейзанд	Filial.qmm
+lemma.odneg	Однег	Odneg	Однег/Однега		Gaal director of the Guy Nax branch	Filial.qmm
+lemma.gunsome	Гансам	Gunsome	Гансам/гансама		Guy Nax humanoid combat robot	Filial.qmm
+lemma.superplastid	сверхпластид	superplastid	звышпластыд/звышпластыдам		explosive in the crate that must not be tipped; coined	Filial.qmm
+lemma.filial_radio	обрывок радио	garbled radio	рэйнджэ/абцапле/ны/піль		Filial cutoff fragments, radio and the stare line; do not complete them	Filial.qmm
+lemma.selamat	Селамат паги	Selamat pagi	Селамат/пагі		peleng customs greeting; keep the mangled sound	Filial.qmm
