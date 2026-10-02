@@ -1241,7 +1241,7 @@ lemma.narcotic	наркотик	narcotic	наркотык/наркотыку/н�
 lemma.vial	флакон	vial	флякон/флякончык	флакон/флакончык	hunspell wins	https://starnik.by/pravapis/80420
 lemma.porter	портье	hotel porter	парцье	порцье	indeclinable hotel porter	https://starnik.by/pravapis/53429
 lemma.nolo	Нолоо	Noloo	Нолоо/нолоо		city and its currency	Deadoralive.qmm
-lemma.roktornak	Рокторнак	Roktornak	Рокторнак/Рокторнака/Рокторнаку		malok agent on trial	Deadoralive.qmm
+lemma.roktornak	Рокторнак	Roktornak	Рокторнак/Рокторнака/Рокторнаку/Рокторнакам		malok agent on trial	Deadoralive.qmm
 lemma.shiza	Шиза Голд	Shiza Gold	Шыза/Голд	Шиза	credit-card brand	Deadoralive.qmm
 lemma.barman	бармен	bartender	бармэн/бармэнам	бармен	hunspell wins	https://starnik.by/pravapis/9250
 lemma.cup	чашка	cup	філіжанка/філіжанку/філіжанкі		hunspell suggests філіпінка	https://starnik.by/pravapis/80176
@@ -1252,3 +1252,8 @@ lemma.osmos	Осмос	Osmos	Асмос		hotel; osmosis pun	Deadoralive.qmm
 lemma.cerzash	Церзаш	Cerzash	Церзаш/Церзаша/Церзашу		peleng contact	Deadoralive.qmm
 lemma.daasu	Даасу	Daasu	Даасу		gaal name, indeclinable	Deadoralive.qmm
 lemma.alkaris	алкарис	alkaris	алкарыс/алкарыса		creature	Deadoralive.qmm
+lemma.scribble	ЫЛырвалКстж	illegible signature	ЫЛырвалКстж		fake signature; keep byte-identical	Deadoralive.qmm
+lemma.haarna	Хаар-На	Haar-Na	Хаар		gaal contact; the hyphen splits the name	Deadoralive.qmm
+lemma.mertinia	мертиния	mertinia	мертынія/мертыніяў/мертыній		coined fish	Deadoralive.qmm
+lemma.flyswatter	Мухобойка	Flyswatter	Мухабойка/мухабойка		blaster nickname Mark V	Deadoralive.qmm
+lemma.gaba	ГАМК	GABA	ГАМК		acronym in the fake lecture	Deadoralive.qmm
