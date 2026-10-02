@@ -1189,3 +1189,13 @@ lemma.begonia	бегония	begonia	Бягонія	Бегонія	ship name	htt
 lemma.dervish	дервиш	dervish	Дэрвіш	Дервіш	ship name	https://starnik.by/pravapis/25018
 lemma.kozlowski	козловский	kozlowski	Казлоўскі	Козловскій	ship name	https://starnik.by/pravapis/116511
 lemma.olympus	олимп	olympus	Алімп	Олімп	ship name	https://starnik.by/pravapis/3997
+lemma.keyboardist	клавишник	keyboardist	клавішнік/клавішніка/Клавішнік/Клавішніка	клявішнік	hunspell suggestions are unrelated	https://starnik.by/pravapis/35802
+lemma.sober	трезвый	sober	цьвярозы/Цьвярозы	цвярозы	hunspell soft sign; Starnik headword omits it	https://starnik.by/pravapis/159909
+lemma.rehearsal	репетиция	rehearsal	рэпэтыцыя/рэпэтыцыі/рэпэтыцыю	рэпетыцыя	hunspell э; Starnik lists е	https://starnik.by/pravapis/66061
+lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэя	hunspell я; Starnik lists а	https://starnik.by/pravapis/38734
+lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
+lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
+lemma.hyper_prefix	гипер	hyper	гіпэр	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
+lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
+lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
+lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
