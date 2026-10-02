@@ -1308,3 +1308,13 @@ lemma.tolyan	Толян	Tolyan	Толян		drunk pilot	Vulkan.qmm
 lemma.loshkam	Лошкамч впаримч	Loshkamch	Лошкамч/впаримч		bottle brand; keep Russian и	Vulkan.qmm
 lemma.islandspeech	Абвуарнанна	island speech	Абвуарнанна/бармахренна/Бархарар/Имбицилобус/дебилос/Хуахар/Барарах/Нымбадурла/Захренос		spoken islander lines; keep Russian и	Vulkan.qmm
 lemma.plasmatank	плазмотанк	plasma tank	плязматанк/плязматанка/плязматанку		combat vehicle; already Sortirovka	Election.qmm
+lemma.alcohol	алкоголь	alcohol	алькаголь	алкаголь	hunspell spelling; Starnik алкаголь	https://starnik.by/pravapis/4022
+lemma.philosophy	философия	philosophy	філязофія/філязофію	філасофія	hunspell spelling; Starnik філасофія	https://starnik.by/pravapis/80147
+lemma.anecdote	анекдот	anecdote	анэкдот/анэкдотаў	анекдот	hunspell spelling; Starnik анекдот	https://starnik.by/pravapis/4758
+lemma.composition	композиция	composition	кампазыцыя	кампазіцыя	hunspell spelling; Starnik кампазіцыя	https://starnik.by/pravapis/32599
+lemma.technology	технология	technology	тэхналёгія/тэхналёгіі	тэхналогія	hunspell spelling; Starnik тэхналогія	https://starnik.by/pravapis/77494
+lemma.mammal	млекопитающее	mammal	сысун/сысуноў		plural is the mammal class	https://starnik.by/pravapis/74084
+lemma.cynicism	цинизм	cynicism	цынізм/цынізму		contempt for moral rules	https://starnik.by/pravapis/83155
+lemma.greed	аппетит	appetite	прагнасьць/прагнасьці	апетыт	bribe-hunger; апетыт fails hunspell	https://starnik.by/pravapis/58402
+lemma.shcha_daam	Ща Даам	Shooch Yaa	Шча/Даам		gaal journalist	Election.qmm
+lemma.nuka	Нука Цыц	Hush Baba	Нука		peleng journalist; Цыц passes hunspell	Election.qmm
