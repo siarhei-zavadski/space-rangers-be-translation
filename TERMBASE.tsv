@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl кар�
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан		game race; pl клісаны, клісанаў	—
+lemma.klissan	клисан	klissan	клісан/клісанаў		game race; pl клісаны, клісанаў	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -306,7 +306,7 @@ lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort de
 lemma.pension	пенсия	pension	пэнсія		2005/hunspell пэнсія (hard п). Starnik пенсія rejected; user lock э	https://starnik.by/pravapis/54858
 lemma.gaalmedok	гаалмедок	gaalhoney	гаальмэдок		maloq joke food; keep race stem гааль-	—
 lemma.narkopis	наркопись	narcossism	наркопісь		art movement on anarchic planets; ShipGreetings/138	—
-lemma.rachehan	Рачехан	Rachehan	Рачэхан		pirate overlord; G Рачэхана, I Рачэханам	—
+lemma.rachehan	Рачехан	Rachehan	Рачэхан/Рачэханаўны		pirate overlord; G Рачэхана; patronymic Рачэханаўна	—
 lemma.tranclucator	транклюкатор	tranclucator	транклюкатар		player-owned combat robot; G транклюкатара	—
 lemma.yanvelb	янвелб	ekup	янвэлб		gaal drink; I янвэлбам; with втыкіла	—
 lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G ашмёткаў; not абломкі (generic wreckage)	—
@@ -446,7 +446,7 @@ lemma.tikhaya	Тихая заводь	Quiet Backwater	Ціхая затока		q
 lemma.zhizhevanny	жижеванны	ooze-baths	жыжаваны		peleng mud baths	—
 lemma.lyakhovaya	ляховая правдолюбка	Lyakh truth-flu	ляховая праўдалюбка		quoted peleng truth-disease	—
 lemma.labean	Лабеан	Labean	Лабеан		quoted peleng camouflage pirate ship	—
-lemma.vasya	Вася Хитрющий	Vasya Sly	Вася Хітрушчы		body-swap ruler; kinza drink кіндза	—
+lemma.vasya	Вася Хитрющий	Vasya Sly	Вася Хітрушчы/Васяў		body-swap ruler; G pl of the tattoo name Вася	—
 lemma.vymo	Вымо Гаатель	Vymo Gaatel	Вымо Гаатель		keep; gaal diplomat-pirate	—
 lemma.malokaiser	Мал-о-Крайзер	Mal-o-Kaiser	Мал-о-Крайзер		quoted malok battery plant	—
 lemma.kalpon	калпонические элементы	calponic cells	калпанічныя элемэнты		faeyan battery tech	—
@@ -792,9 +792,9 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай		Coalition race; capital at sentence start	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі		Coalition race; diminutive фэяшкі	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
-lemma.zina	Зина	Zina	Зіна		photofit label; и to і	Photorobot.qmm
+lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
 lemma.narrow_eyed	узкоглазый	narrow-eyed	вузкавокі/Вузкавокі	завузкі	Starnik adjective; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/103039
 lemma.mega	мега	mega	Мэга/мэга		prefix; already in мэга-бур; capital label Мега-рокер	Photorobot.qmm
@@ -828,6 +828,11 @@ lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
+lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
+lemma.photofit	фоторобот	photofit	фотаробат/фотаробата		already PlanetQuest genre фотаробата	Photorobot.qmm
+lemma.godzilla	Годзилла	Godzilla	Гадзіла/Гадзілу		mother-in-law joke	Photorobot.qmm
+lemma.nondus	Нондус	Nondus	Нондусы/Эквэнтаровічы		dominator given name and patronymic	Photorobot.qmm
+lemma.petrosyan	петросян	Petrosyan	пэтрасяны/пэтрасянамі		bad comedian, as a common noun	Photorobot.qmm
 lemma.notiksov	Эндрю Нотиксов	Andrew Notiksov	Эндру/Ноціксаў		Banks's assistant	Photorobot.qmm
 lemma.pacifist	Боб Пацифист	Bob Pacifist	Боб/Пацыфіст/Пацыфістам		Citadel player with a mohawk	Photorobot.qmm
 lemma.citadel	Цитадель	Citadel	Цытадэль		game the pacifist plays	Photorobot.qmm
