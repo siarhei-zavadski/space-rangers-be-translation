@@ -95,7 +95,22 @@ You sat into the car and it sailed up into the cloud rushing to the east with th
 
 With that he handed you two electronic booklets:
 <clr> Food for Xenomorphs of our Galaxy <clrEnd>
-<clr>Behaviour and Brief Description of Xenomorphs <clrEnd>"	"Quest,Xenopark"	""
+<clr>Behaviour and Brief Description of Xenomorphs <clrEnd>"	"Quest,Xenopark"	"Ледзь рухавікі вашага зорнага карабля змоўклі, да карабля пад'ехаў аэракар даволі прыстойнага выгляду з надпісам <clr>Ксэнапарк Ляпцвы Хіца<clrEnd> на баку. Падобна, што гэта той, хто вас сустракае. Вы выйшлі з карабля і падышлі да аэракара. Пасьля стандартнай для пеленгскіх плянэтаў працэдуры вобшуку/прасьвятленьня/прамыўкі ўсяго, што толькі можна, вы адчувалі сябе даволі няўтульна.
+
+— Вы <Ranger>? Вас прыслаў Вацха? — спытаў малады пеленг, які выскачыў з аэракара. Было відаць, што ён вельмі ўсхваляваны. Пачуўшы сьцьвярджальны адказ, ён узрадаваўся.
+— Нарэшце! Мы ўжо думалі, што вы не прыедзеце. Жывёлам стала зусім блага. Хутчэй!!! Зарад аўтаматычнага карміцеля скончыўся два дні таму, і мы ўжо зусім адчаяліся.
+
+Вы селі ў аэракар, і ён узьвіўся ў паветра, на найбольшай хуткасьці кіруючыся на ўсход. 
+    
+— Ксэнапарк знаходзіцца за гарадзкой мяжой — самі разумееце, жывёлы розныя бываюць, — тлумачыў ваш праважаты.
+— А ў вас што, няшчасныя выпадкі былі?
+— Не, што вы — проста мы на плянэце <ToPlanet> шануем спакой сваіх суседзяў, а суседзтва з ксэ...
+— Будуць... — перапынілі вы пеленга, які запнуўся на паўслове, — А ты, значыць, памочнік Вацхі Шпіцука?
+— Так-так. Вось — ён са мной зьвязаўся і папрасіў перадаць вам гэтыя кнігі...
+
+З гэтымі словамі ён працягнуў вам дзьве тонкія электронныя кніжачкі:
+<clr> Ежа рэдкіх  жывёлаў нашай Галяктыкі <clrEnd>
+<clr> Звычкі і кароткае апісаньне рэдкіх ксэнаморфаў <clrEnd>"
 "/quests/Xenopark.qmm/locations/1/texts/0/text"	"Вы полистали книги, что дал вам помощник кормильца ксенопарка. ""Пища животных..."" оказалась чем-то вроде инструкции по приготовлению корма для инопланетных животных, а ""Повадки..."" были заметками охотников и ученых, описывающих историю нахождения ценных экземпляров и их описание. Зачем вам голову забивать этой гадостью?
 
 Вы отложили книги и остаток полета таращились в окно. Мимо вас проносились разноцветные смазанные пятна, в которые превратились пейзажи планеты <ToPlanet> на дважды сверхзвуковой скорости.
@@ -118,7 +133,18 @@ A pale, or...rather, a light-green, well...even a light-yellow Peleng appeared f
 
 - Are you the promised xenomorph-feeding expert? - the something's master asked. - I'm happy you've come at last - the animals feel completely awful already... And I'm afraid, it all became even more complicated now. This young sploshling, - he pointed to the strange creature in his hands that stopped squealing but was diffusing the same reek, unfortunately, - he decided to play a little bit and disarranged all the tablets on the cages. So now we don't know which feed should go where. Not to make the matter worse, we left everything as it was - may be some of the tablets had remained on their places...
 - What do you mean? Don't you even know what animal lives in what cage?!!
-- Unfortunately, we have just one xenomorph expert. And we are just clerks and traders. Mr. Bardozze is hep to all these freaks as well but he left for Cvanarians a week ago and we don't expect him back soon. And you know, we hate to bother him with such trifles - we heard you are a competent expert. So, are you ready?"	"Quest,Xenopark"	""
+- Unfortunately, we have just one xenomorph expert. And we are just clerks and traders. Mr. Bardozze is hep to all these freaks as well but he left for Cvanarians a week ago and we don't expect him back soon. And you know, we hate to bother him with such trifles - we heard you are a competent expert. So, are you ready?"	"Quest,Xenopark"	"Вы пагарталі кнігі, што даў вам памочнік карміцеля ксэнапарку. ""Ежа жывёлаў..."" аказалася чымсьці накшталт інструкцыі па прыгатаваньні корму для іншаплянэтных жывёлаў, а ""Звычкі..."" былі нататкамі паляўнічых і навукоўцаў, якія апісваюць гісторыю знаходжаньня каштоўных асобнікаў і іх апісаньне. Навошта вам галаву забіваць гэтай гадасьцю?
+
+Вы адклалі кнігі і рэшту палёту вытарашчыліся ў акно. Міма вас праносіліся разнаколерныя размазаныя плямы, у якія ператварыліся краявіды плянэты <ToPlanet> на двойчы звышгукавой хуткасьці.
+
+Нарэшце аэракар апусьціўся на лужку перад вялізным будынкам. Вы выйшлі з машыны, і памочнік карміцеля расчыніў дзьверы, што вядуць у двор:
+— Калі ласка сюды, паважаны <Ranger>...
+
+З бакавых дзьвярэй выйшаў бледны, ну або сьветла-зялёны, нават сьветла-жоўты, пеленг, які сьціскаў у руках... нешта. Гэта нешта адчайна вішчала і пахла, падобна, гэта быў адзін з гадаванцаў ксэнапарку.
+
+— Вы і ёсьць абяцаны спэцыяліст па кармленьні ксэнаморфаў? — пацікавіўся гаспадар пачвары. — Рады бачыць вас — жывёлам ужо зусім блага... Баюся, у нас дадатковыя цяжкасьці. Гэты юны шпецокляк, — ён паказаў на дзіўнае нешта, якое перастала вішчаць, але, на жаль, не перастала сьмярдзець, — ён вырашыў трохі пагуляць і пераблытаў таблічкі на клетках, таму мы ня ведаем, у якую клетку які корм кідаць. Каб не пагоршыць справу, мы пакінулі ўсё, як ёсьць — можа, частка таблічак і засталася на сваіх месцах...
+— Як, вы нават ня ведаеце, у якой клетцы хто сядзіць?!!
+— На жаль, у нас толькі адзін спэцыяліст па ксэнаморфах. А мы так — дробныя служкі і гандляры. Праўда, яшчэ сам спадар Хіц добра разьбіраецца ва ўсіх гэтых вырадках, але ён ужо тыдзень як адпачывае на Кванарах і зьявіцца ня хутка. І, ведаеце, нам бы вельмі не хацелася турбаваць яго па такіх дробязях. Бо пра вас адклікаюцца як пра кампэтэнтнага спэцыяліста. Ну як, вы гатовыя?"
 "/quests/Xenopark.qmm/locations/1/texts/1/text"	"Весь остаток полета вы таращились в окно, хотя рассмотреть на такой скорости вам ничего не удалось - пейзажи планеты <ToPlanet>  слились в одно цветное пятно. От подобного зрелища у вас только разболелась голова.
 
 Наконец аэрокар опустился на лужайке перед огромным зданием. Вы вышли из машины, и помощник кормильца распахнул двери, ведущие во двор:
@@ -137,7 +163,16 @@ A pale, or...rather, a light-green, well...even a light-yellow Peleng appeared f
 
 - Are you the promised xenomorph-feeding expert? - the something's master asked. - I'm happy you've come at last - the animals feel completely awful already... And I'm afraid, the things are even more complicated now. This young sploshling, - he pointed to the strange creature in his hands that stopped squealing but was diffusing the same reek, unfortunately, - he decided to play a little bit and disarranged all the tablets on the cages. So now we don't know which feed should go where. Not to make the matter worse, we left everything as it was - may be some of the tablets had remained on their places...
 - What do you mean? Don't you even know what animal lives in what cage?!!
-- Unfortunately, we have just one xenomorph expert. And we are just clerks and traders. Mr. Bardozze is hep to all these freaks as well but he left for Cvanarians a week ago and we don't expect him back soon. And you know, we hate to bother him with such trifles - we heard you are a competent expert. So, are you ready?"	"Quest,Xenopark"	""
+- Unfortunately, we have just one xenomorph expert. And we are just clerks and traders. Mr. Bardozze is hep to all these freaks as well but he left for Cvanarians a week ago and we don't expect him back soon. And you know, we hate to bother him with such trifles - we heard you are a competent expert. So, are you ready?"	"Quest,Xenopark"	"Увесь рэшту палёту вы вытарашчыліся ў акно, хоць разгледзець на такой хуткасьці вам нічога не ўдалося — краявіды плянэты <ToPlanet>  зьліліся ў адну каляровую пляму. Ад падобнага відовішча ў вас толькі разбалелася галава.
+
+Нарэшце аэракар апусьціўся на лужку перад вялізным будынкам. Вы выйшлі з машыны, і памочнік карміцеля расчыніў дзьверы, што вядуць у двор:
+— Калі ласка сюды, паважаны <Ranger>...
+
+З бакавых дзьвярэй выйшаў бледны, ну або сьветла-зялёны, нават сьветла-жоўты, пеленг, які сьціскаў у руках... нешта. Гэта нешта адчайна вішчала і пахла, падобна, гэта быў адзін з гадаванцаў ксэнапарку.
+
+— Вы і ёсьць абяцаны спэцыяліст па кармленьні ксэнаморфаў? — пацікавіўся гаспадар пачвары. — Рады бачыць вас — жывёлам ужо зусім блага... Баюся, у нас дадатковыя цяжкасьці. Гэты юны шпецокляк, — ён паказаў на дзіўнае нешта, якое перастала вішчаць, але, на жаль, не перастала сьмярдзець, — ён вырашыў трохі пагуляць і пераблытаў таблічкі на клетках, таму мы ня ведаем, у якую клетку які корм кідаць. Каб не пагоршыць справу, мы пакінулі ўсё, як ёсьць — можа, частка таблічак і засталася на сваіх месцах...
+— Як, вы нават ня ведаеце, у якой клетцы хто сядзіць?!!
+— На жаль, у нас толькі адзін спэцыяліст па ксэнаморфах. А мы так — дробныя служкі і гандляры. Праўда, яшчэ сам спадар Хіц добра разьбіраецца ва ўсіх гэтых вырадках, але ён ужо тыдзень як адпачывае на Кванарах і зьявіцца ня хутка. І, ведаеце, нам бы вельмі не хацелася турбаваць яго па такіх дробязях. Бо пра вас адклікаюцца як пра кампэтэнтнага спэцыяліста. Ну як, вы гатовыя?"
 "/quests/Xenopark.qmm/locations/2/texts/0/text"	"Вы сунули служащему в руки книги и широким шагом направились к аэрокару, бормоча себе под нос:
 
 Мало того, что я должен всяких тварей кормить, так еще и в ""угадай животное"" играть. Я угадаю эту зверюгу с первого укуса... Тьфу! Вот вернусь на планету <FromPlanet>, я этому специалисту по кормлению ксеноморфов устрою лекцию!!!
@@ -150,7 +185,13 @@ No way! It's not just feeding these beasts but playing that damn ""Nick the anim
 
 The feeder's assistant drew up with you right at the car:
 - What a pity! It looks like poor creatures will starve to death, and we'll take the knock... Good bye. I think you better stay away from <ToPlanet> - the locals won't have any desire to deal with the individual who deprived them of such an entertainment and doomed these harmless xenomorphs to dying of hunger... Good bye, harmless animal blighter - all the population of our sector will know that due to you, <Ranger>, there appeared several more items in the Incarnadine Talmud.
-- Wipe your light-green ass with this Incarnadine Talmud! Go find another expert!"	"Quest,Xenopark"	""
+- Wipe your light-green ass with this Incarnadine Talmud! Go find another expert!"	"Quest,Xenopark"	"Вы сунулі служку ў рукі кнігі і шырокім крокам накіраваліся да аэракара, мармычучы сабе пад нос:
+
+Мала таго, што я мушу ўсялякіх пачвараў карміць, дык яшчэ і ў ""адгадай жывёлу"" гуляць. Я адгадаю гэтую зьвяругу з першага ўкусу... Тфу! Вось вярнуся на плянэту <FromPlanet>, я гэтаму спэцыялісту па кармленьні ксэнаморфаў уладкую лекцыю!!!
+
+Ля самага аэракара вас дагнаў памочнік карміцеля:
+— Шкада, падобна, што няшчасных зьвяроў чакае галодная сьмерць, а нас — разарэньне... Да пабачэньня. Я думаю, вам ня варта зьяўляцца на нашай плянэце — жыхарам плянэты <ToPlanet> не спадабаецца мець справу з чалавекам, які пазбавіў іх такой забавы і пакінуў паміраць з голаду ні ў чым не вінаватых ксэнаморфаў... Да пабачэньня, згубіцель бясьсільных зьвяроў — усё насельніцтва нашага сэктару даведаецца, што дзякуючы вам, <Ranger>, у Бледна-Чырвоным талмудзе стала на некалькі істотаў больш.
+— Ды падзяры ты сваім Бледна-Чырвоным талмудам свой бледна-зялёны зад! Шукайце іншага спэцыяліста!"
 "/quests/Xenopark.qmm/locations/3/texts/0/text"	"Вы прошли в просторное помещение. Слева стоят пять клеток с различными тварями. Справа - семь чанов с неаппетитными субстанциями, похоже, предназначенными для кормления ксеноморфов.
 
 Что делать? Таблички-то перепутаны, а нужно накормить тварей правильно... Одно радует - еды в чанах навалом. И на чанах все таблички на месте, по крайней мере, так заверил смотритель... По меньшей мере странно - если не вспоминать про подлость и извращенное чувство юмора пеленгов."	"Quest Xenopark.qmm: locations.3.texts.0.text. Preserve every <tag> exactly. English reference: You entered a big room. There are five cages with all kinds of beasts to your left. And seven tubs with some hockey, which probably was the food for the xenomorphs.
@@ -356,7 +397,13 @@ What you saw was huge - at least, it was the biggest animal you had met there. A
 
 The creature was slowly shifting from one foot to the other. The floor of the cage was covered by small gravel-stone, in the corners there stood rock spalls. The light of a small yellow sun-imitator was severe and almost blinded you. ""A high-powered thing, damn it"", - you thought.
 
-Suddenly the animal turned its heat to you and... spat directly into your face! ""Hrrr"", - the beast snorted. Shouting you rushed to the washstand to wash that sure as death dangerous substance off your face. Well, at least, the creature doesn't suffer from the deficiency of liquid in it."	"Quest,Xenopark"	""
+Suddenly the animal turned its heat to you and... spat directly into your face! ""Hrrr"", - the beast snorted. Shouting you rushed to the washstand to wash that sure as death dangerous substance off your face. Well, at least, the creature doesn't suffer from the deficiency of liquid in it."	"Quest,Xenopark"	"Вы падышлі бліжэй да клеткі і пачалі назіраць за яе насельнікам.
+
+Тое, што вы ўбачылі, было вялізнае — прынамсі, гэта была самая вялікая з усіх жывёлаў, якіх вы тут бачылі. Вышынёй мэтры два, монстар быў пакрыты кароткай і жорсткай рыжай шэрсьцю, якая колерам нагадвала буры камень. Гэтае падабенства ўзмацнялі бугрыстыя мышцы жывёлы. Доўгая магутная шыя зьлёгку выгнутая — ганарыстая жывёла нетаропка азіраецца, заўважаючы любую дэталь, і пры гэтым ягоныя вялікія вусны варушацца, быццам яно нешта шэпча або перажоўвае. Жывёла паволі праходжваецца па клетцы, упэўненая ў сваёй сіле, цалкам ігнаруючы вашу прысутнасьць. Моцныя мускулістыя ногі заканчваюцца шырокай і  цьвёрдай пяткай, напэўна здольнай крышыць камень. Узмацняюць жа ўражаньне нязломнай моцы два скурныя нарасты на сьпіне, якія, мяркуючы па іх таўшчыні (яны ледзь не вышэйшыя за галаву), абараняюць ня горш за рагавы панцыр.
+
+Істота паволі пераступала з нагі на нагу. Дно клеткі было ўсыпана дробнай галькай, па кутах стаялі абломкі скалаў. Невялікі жоўты імітатар сонца біў сваім сьвятлом проста вам у твар. ""Магутны, аднак"", — падумалі вы.
+
+Раптам жывёла павярнула да вас галаву і... плюнула вам проста ў твар! ""Хр-хр"", — такі храп выдала пачвара. З крыкам вы кінуліся да ўмывальніка, адмыць напэўна небясьпечную для вас субстанцыю. Ну што ж, затое вадкасьці ў гэтай істоты яўна з лішкам."
 "/quests/Xenopark.qmm/locations/19/texts/0/text"	"В укрытой грозным полумраком клетке сидело странное существо пурпурного цвета. Его большая голова на длиннющей тонкой шее, практически без утолщения переходящей в тело, словно локатор поворачивалась в вашу сторону. Четыре широких плоских... щупальца непрерывно шевелились, даже те два из них, на которые существо опиралось, чтобы удерживать вертикальное положение.
 
 Широкая, усеянная мелкими, но очень острыми зубами пасть и пара крупных черных бусин, вероятно, служивших глазами, лишь усиливали устрашающее воздействие, оказываемое внешним видом твари. Шершавая кожа непрерывно потрескивала при каждом движении ксеноморфа, нагоняя еще больший страх. 
@@ -365,7 +412,11 @@ Suddenly the animal turned its heat to you and... spat directly into your face! 
 
 Wide chaps full of small but very sharp teeth and a couple of big black beads serving as eyes redoubled the dreadful impression of the beast's appearance. Its rough skin crackled after each move putting you in more fear. 
 
-The creature's limbs dipped into the cloudy puddle nearby and it took the xenomorph some time to move them there as if trying to catch something. Then it took them out with a loud smack. The beast didn't make a sound and remained motionless all that time; only quiet crackling of the rough skin could be heard in the shaded cage."	"Quest,Xenopark"	""
+The creature's limbs dipped into the cloudy puddle nearby and it took the xenomorph some time to move them there as if trying to catch something. Then it took them out with a loud smack. The beast didn't make a sound and remained motionless all that time; only quiet crackling of the rough skin could be heard in the shaded cage."	"Quest,Xenopark"	"У клетцы, схаванай грозным змрокам, сядзела дзіўная істота пурпурнага колеру. Яе вялікая галава на даўжэзнай тонкай шыі, якая практычна без патаўшчэньня пераходзіць у цела, быццам лякатар паварочвалася ў ваш бок. Чатыры шырокія плоскія... шчупальцы бесьперапынна варушыліся, нават тыя два зь іх, на якія істота абапіралася, каб трымаць вэртыкальнае становішча.
+
+Шырокая, усеяная дробнымі, але вельмі вострымі зубамі пашча і пара буйных чорных пацерак, якія, мусіць, служылі вачыма, толькі ўзмацнялі страшэннае ўражаньне ад зьнешняга выгляду пачвары. Шурпатая скура бесьперапынна патрэсквала пры кожным руху ксэнаморфа, наганяючы яшчэ большы страх.
+ 
+Канечнасьці істоты апусьціліся ў мутную лужыну, побач зь якой яна знаходзілася, і некаторы час ксэнаморф вадзіў імі пад вадой, быццам нешта вылоўліваў, а потым выцягнуў з гучным чвяканьнем. За ўвесь гэты час пачвара не выдала ні гуку і нават не варухнулася, толькі ціхае патрэскваньне шурпатай скуры напаўняла цёмную клетку."
 "/quests/Xenopark.qmm/locations/21/texts/0/text"	"Вы подошли поближе к клетке. В ней неподвижно сидит странное существо. Внешне оно больше всего похоже на гранитную глыбу голубого цвета, высотой вам примерно по пояс. Огромные темно-синие глаза-тарелки пристально смотрели на вас. Существо не двигалось и не издавало ни звука, даже когда вы скорчили страшную рожу.
 
 Неожиданно вы чихнули - существо свернулось, укатилось в дальний угол клетки и... уснуло. До вас даже донесся храп этого удивительного существа. Как вы ни вглядывались, ни рук, ни ног заметить не удалось. Даже непонятно, что это за живой камень такой - животное или диковинное растение? 
@@ -374,7 +425,11 @@ The creature's limbs dipped into the cloudy puddle nearby and it took the xenomo
 
 Suddenly you sneezed - the creature coiled itself into a ball, rolled away to the far corner of the cage and... fell asleep. You could even hear that amazing creature's snoring. Try as you would to distinguish its arms or legs, you failed. It wasn't even clear if it was an animal or a strange plant.
 
-You spat on the sand covering the floor of the cage and turned away. The ominous red sun created some imminent atmosphere. You approached the mirror and made a face again - it was really scary! You even started looking about after each sound and didn't come up to the mirror again."	"Quest,Xenopark"	""
+You spat on the sand covering the floor of the cage and turned away. The ominous red sun created some imminent atmosphere. You approached the mirror and made a face again - it was really scary! You even started looking about after each sound and didn't come up to the mirror again."	"Quest,Xenopark"	"Вы падышлі бліжэй да клеткі. У ёй нерухома сядзіць дзіўная істота. Вонкава яна больш за ўсё падобная на гранітную глыбу блакітнага колеру, вышынёй вам прыкладна па пояс. Вялізныя цёмна-сінія вочы-талеркі пільна глядзелі на вас. Істота не рухалася і не выдавала ні гуку, нават калі вы скрывілі страшную грымасу.
+
+Нечакана вы чхнулі — істота згарнулася, адкацілася ў дальні кут клеткі і... заснула. Да вас нават данеслася храп гэтай дзіўнай істоты. Як вы ні ўглядаліся, ні рук, ні ног заўважыць не ўдалося. Нават незразумела, што гэта за жывы камень такі — жывёла ці дзівоснае расьліна?
+
+Плюнуўшы на блакітны пясок, які пакрываў падлогу клеткі, вы адвярнуліся. Да таго ж пагрозьлівае чырвонае сонца стварала адчуваньне пагрозы, што навісла. Вы падышлі да люстэрка і зноў скрывілі грымасу — атрымалася сапраўды страшна! Вы нават пачалі спалохана азірацца пры кожным гуку і больш да люстэрка не падыходзілі."
 "/quests/Xenopark.qmm/locations/25/texts/0/text"	"Зажмурив глаза, вы зачерпнули горсть крямбусины и сунули в рот. Попытались прожевать, но зубы слиплись, на них захрустел песок. Отчаянным усилием вы проглотили эту гадость, но попавшийся комок застрял у вас в горле, мешая дышать. Задыхаясь, вы доползли до кнопки тревоги и что есть силы ударили по ней.
 
 Сбежавшийся персонал обнаружил вас корчащимся на полу. Оказавшийся на месте санитар, вернее, ветеринар, быстро понял, в чем дело, и дал вам флягу со спиртом. 99% зелье обожгло вам гортань, но и застрявшая в горле крямбусина растворилась, открыв вам прелесть вкуса несвежего воздуха ксенопарка.
@@ -385,7 +440,12 @@ You spat on the sand covering the floor of the cage and turned away. The ominous
 The cluttered staff found you writhing in agony on the floor. The local aide, the veterinarian, to be more precise, quickly understood what was going on and gave you a flask with spirit. The 99% potion burnt your throat but the clot dissolved letting you enjoy the stale air of the xenopark.
 
 After that vexatious incident they put you in the hospital and you failed to help the poor xenomorphs. While you were there, the owner of the xenopark, mister Bardozze, visited you himself and hinted that your future staying on <ToPlanet> might tell on your health because the only xenopark in the whole <ToStar> system and its owner went down drain. His last phrase was the last straw that broke the camel's back and made you laugh hysterically:
-- You are a right one scoffing criambusine... Do you know what it is? I guess, you don't! This is food for the swamp phatklink: 30% of kurayaba, or swamp heather, and 70% of swamp mess itself."	"Quest,Xenopark"	""
+- You are a right one scoffing criambusine... Do you know what it is? I guess, you don't! This is food for the swamp phatklink: 30% of kurayaba, or swamp heather, and 70% of swamp mess itself."	"Quest,Xenopark"	"Заплюшчыўшы вочы, вы зачарпнулі жменю крэмбусіны і сунулі ў рот. Паспрабавалі пражаваць, але зубы зьліпліся, на іх захрусьцеў пясок. Адчайным высілкам вы праглынулі гэтую гадасьць, але камяк, што трапіўся, захрас у вас у горле, замінаючы дыхаць. Задыхаючыся, вы дапаўзьлі да кнопкі трывогі і што ёсьць сілы ўдарылі па ёй.
+
+Пэрсанал, які зьбегся, знайшоў вас, як вы качаліся на падлозе. Санітар, які апынуўся на месцы, дакладней, вэтэрынар, хутка зразумеў, у чым справа, і даў вам пляшку са сьпіртам. 99% напой абпёк вам гартань, але і крэмбусіна, што захрасла ў горле, растварылася, адкрыўшы вам прыгажосьць смаку нясьвежага паветра ксэнапарку.
+
+Пасьля гэтага прыкрага здарэньня вас паклалі ў шпіталь, так і не здолеўшы дапамагчы няшчасным ксэнаморфам. Ужо ў шпіталі вас наведаў сам уладальнік ксэнапарку, спадар Хіц, і намякнуў, што ваша знаходжаньне на плянэце <ToPlanet> можа моцна адбіцца на вашым здароўі, бо адзіны ксэнапарк ва ўсёй сыстэме <ToStar> зачынены, а яго ўладальнік разараны. Фраза, кінутая ім напасьледак, была апошняй кропляй і выклікала ў вас гістэрычны сьмех:
+— І ўцяло ж вас нажэрціся крэмбусіны... Вы хоць ведаеце, што гэта? Бачу, што не! Гэта корм балотнага жвырклаца: 30% кураябы, або балотнага верасу, і 70% уласна самой балотнай жыжы."
 "/quests/Xenopark.qmm/locations/26/texts/0/text"	"На чане №1 написано: 
 <clr>ВАЦКАЯ КРЯМБУСИНА<clrEnd> 
 
@@ -396,7 +456,12 @@ After that vexatious incident they put you in the hospital and you failed to hel
 
 This criambusine looks very unappetising. Actually... like excrements. Half-liquid clotted heterogeny, grey, brown, and green in colour, mixed with some light-green plants. Every 2-3 minutes fist-sized bubbles swelled and burst on the surface. After you looked at the mess, the half-digested patty with penchekryak stuffing moved in your stomach.
 
-Venturing upon a trailblazing experiment, you smelled the criambusine. Its smell reminded you of carrion straw with a faint tincture of rotten eggs or saliva of Gaelinian mibser. You went farther and placed your finger into it. Really, it was the vazze criambusine (though honestly you had no idea what criambusina was made of). Warm, half-liquid... rather sticky and can hardly be removed, especially, from the shirt. And from the trousers too, as it turned out later. But obviously not excrements, judging from the smell."	"Quest,Xenopark"	""
+Venturing upon a trailblazing experiment, you smelled the criambusine. Its smell reminded you of carrion straw with a faint tincture of rotten eggs or saliva of Gaelinian mibser. You went farther and placed your finger into it. Really, it was the vazze criambusine (though honestly you had no idea what criambusina was made of). Warm, half-liquid... rather sticky and can hardly be removed, especially, from the shirt. And from the trousers too, as it turned out later. But obviously not excrements, judging from the smell."	"Quest,Xenopark"	"На чане №1 напісана: 
+<clr>ВАЦКАЯ КРЭМБУСІНА<clrEnd> 
+
+На выгляд гэтая крэмбусіна — нешта зусім агіднае. Яна падобная на... фэкаліі. Напаўвадкая неаднародная маса шэра-бура-зялёнага колеру, уперамешку з нейкімі бледна-зялёнымі расьлінамі. Часам у гэтай масе трапляюцца камякі, а на паверхні з інтэрвалам 2-3 хвіліны набракаюць і лопаюцца бурбалкі памерам з кулак. Пры выглядзе гэтай агіднай масы ў вас у страўніку заварушыўся піражок з начыньнем з пэнчэкряка.
+
+Адважыўшыся на сьмелы экспэрымэнт, вы панюхалі крэмбусіну. Яе пах нагадаў вам прэлую салому са слабай дамешкай тухлых яек або сьліны гаэлбінскага жбота. Ужо зусім асьмялеўшы, вы сунулі туды палец. Сапраўды, — вацкая, як самая звычайная крэмбусіна (ведаць бы яшчэ, што гэта такое). Цёплая, напаўвадкая... даволі ліпкая і кепска адціраецца, асабліва ад кашулі. Хоць і ад штаноў, як аказалася, таксама кепска адціраецца. Але ўсё ж гэта дакладна не фэкаліі, мяркуючы па паху."
 "/quests/Xenopark.qmm/locations/26/texts/1/text"	"Набравшись смелости, вы облизали палец. Попытались разжевать эту массу, но когда песок захрустел у вас на зубах, поняли, что лучше ее проглотить. Хуже вам от этого не стало, но и лучше тоже. Вкус - что-то между куском парафина и песком, только сдобренного прелой травой. Определенно не питательно и не приятно на вкус."	"Quest Xenopark.qmm: locations.26.texts.1.text. Preserve every <tag> exactly. English reference: You recollected your courage and licked your finger. Then you tried to chew that mass but when you felt sand on your teeth, you decided to better swallow it. It made neither worse, nor better. Its taste was a strange mixture of paraffin and sand with carrion grass. It obviously was neither nutritious nor tasty."	"Quest,Xenopark"	"Набраўшыся сьмеласьці, вы аблізалі палец. Паспрабавалі разжаваць гэтую масу, але калі пясок захрумсьцеў у вас на зубах, зразумелі, што лепш яе праглынуць. Горш вам ад гэтага не стала, але і лепш таксама. Смак — нешта між кавалкам парафіну і пяском, толькі прыпраўленага прэлай травою. Выразна не пажыўна і непрыемна на смак."
 "/quests/Xenopark.qmm/locations/26/texts/2/text"	"Неуверенно вы слегка лизнули кончик пальца. Слегка теплая масса, на вкус... парафин? Самалдокский нюфтюлин? Слишком мало, чтобы распробовать. Однако и не ядовито для вас."	"Quest Xenopark.qmm: locations.26.texts.2.text. Preserve every <tag> exactly. English reference: You slightly licked your fingertip feeling insecure. A slightly warm mass tasted like... paraffin? Samaldock niuphtiuline? It was not enough to figure out. However, it was not poisonous for you."	"Quest,Xenopark"	"Няўпэўнена вы зьлёгку лізнулі кончык пальца. Зьлёгку цёплая маса, на смак... парафін? Самалдокскі нюфцюлін? Занадта мала, каб рассмакаваць. Аднак і яна не атрута для вас."
 "/quests/Xenopark.qmm/locations/27/texts/0/text"	"На чане №2 написано:
@@ -409,7 +474,12 @@ Venturing upon a trailblazing experiment, you smelled the criambusine. Its smell
 
 These Quacks are obviously plants and look very much like mercipane oleasterous, an ornamental popular with Maloq housewives. Though the latter doesn't have such thorns. Furthermore, Quack turned out to be shrilly green, which is rather rare among plants (or animals?). Whatever it was, but the animal, which is able to eat THAT together with the thorns, should have a tin throat and a tin stomach. Though probably, it has an external digestive system and it just dissolves thorns.
 
-That warped plant with few dry leaves strewed with sharp thorns didn't seem tasty to you though you obviously knew the smell... where from, you wondered?"	"Quest,Xenopark"	""
+That warped plant with few dry leaves strewed with sharp thorns didn't seem tasty to you though you obviously knew the smell... where from, you wondered?"	"Quest,Xenopark"	"На чане №2 напісана:
+<clr>КВАК ТО-УС колеру скуры<clrEnd>
+
+Гэтыя Квакі яўна расьліннага паходжаньня, вельмі падобныя на мэрцыпану лахаўдрую, дэкаратыўную расьліну, папулярную сярод малокскіх гаспадыняў. Хоць у мэрцыпаны няма такіх калючак. Да таго ж Квак аказаўся (ці аказалася?) ядавіта-зялёнага колеру, што сярод расьлінаў даволі вялікая рэдкасьць. Як бы там ні было, але каб зьесьці ТАКОЕ, не абдзіраючы з яго калючак, трэба мець бляшаную глотку і страўнік. Хоць, магчыма, у істоты, якая імі сілкуецца, вонкавая сыстэма страваваньня, і яна растварае Квакі?
+
+Гэтая скрыўленая расьліна, з сухаватым нешматлікім лісьцем, багата ўсыпаным вострымі калючкамі, не падалася вам апэтытнай, хоць пах вызначана вам знаёмы... толькі дзе вы маглі яго панюхаць?"
 "/quests/Xenopark.qmm/locations/27/texts/1/text"	"Вы взяли небольшую веточку, на которой не было шипов, и осторожно разжевали. На вас нахлынули воспоминания. Конечно! Вы прекрасно знаете этот вкус! Теперь вы точно знаете, как выглядит растение, из которого делают вашу любимую Втыкиллу. Лучшее пойло во всей Галактике! Ай спасибо, Квак То-Ус, за то, что ты есть на свете!"	"Quest Xenopark.qmm: locations.27.texts.1.text. Preserve every <tag> exactly. English reference: You took a small sprig without thorns on it and chewed it. Memories rushed upon you. Of course! You knew that taste very well! Now you knew for sure how the plant they make your favourite Vtequila of looks like. The best wash-belly all over the Galaxy! Oh, thank you very much, dear Quack-Tose, for what you are!"	"Quest,Xenopark"	"Вы ўзялі невялікую галінку, на якой не было шыпоў, і асьцярожна разжавалі. На вас нахлынулі ўспаміны. Вядома! Вы выдатна ведаеце гэты смак! Цяпер вы дакладна ведаеце, як выглядае расьліна, з якой робяць вашу любімую Втыкілу. Найлепшы хмельны напой ва ўсёй Галяктыцы! Ай дзякуй, Квак То-Ус, за тое, што ты ёсьць на сьвеце!"
 "/quests/Xenopark.qmm/locations/27/texts/2/text"	"Вы отломили маленькую веточку, и лизнули...
 О БОЖЕ!!! Какая боль! Острый длинный шип впился вам в язык, который тут же распух.
@@ -451,7 +521,22 @@ He handed a copy of the local newspaper to you. There was a huge headline starin
 - What do you want? Amends?
 - No, the xenopark was insured. I just don't want the reputation of a person who let the crowd tear you to pieces. It might create problems with the insurance. I'll help you to disappear from our planet and hope I'll never see you again.
 
-With the help of Bardozze's assistants you got to your ship and forgot about the accident in an hour while preparing for the take off."	"Quest,Xenopark"	""
+With the help of Bardozze's assistants you got to your ship and forgot about the accident in an hour while preparing for the take off."	"Quest,Xenopark"	"Радуючыся знойдзенай вамі ўласьцівасьці гэтай расьліны, вы накінуліся на яе і елі за абедзьве шчакі. Калі спачатку вы яшчэ абломвалі калючкі, то пасьля пэўнай колькасьці ўсмактанага соку вам ужо стала не да таго.
+
+Па-дурному хіхікаючы, вы скакалі па памяшканьні, робячы грымасы няшчасным зьвярам, якіх цяпер у кожнай клетцы было чамусьці двое. Вострыя калючкі ўпіваліся вам у язык, гартань і напэўна ўжо падрапалі страўнік, але болю вы не адчувалі — толькі дзіўную лёгкасьць ва ўсім целе і салодкую эўфарыю. Ну і што, што заплятаюцца язык і ногі, прычым адно аб адно? Ну і што, што зьбегліся служкі і пачалі страляць у вас стрэльбамі з транквілізатарам. Падобна, яны прынялі вас за хворага на касьмічную ліхаманку.
+
+Калі вы апрытомнелі ў шпіталі, вы выявілі побач з сабой хмурага пеленга. На кропельніцы, падключанай да вашай крывяноснай сыстэмы, быў надпіс ""Вельмі моцны агурочны расол"". Галава жудасна расколвалася, да таго ж ваш хмуры наведнік увесь час нарываўся раздвоіцца і разьбегчыся па розных кутах палаты.
+  
+— Добры дзень, <Ranger>, я — Хіц, доктар Хіц. Былы, з вашага дазволу, уладальнік адзінага ксэнапарку ў сыстэме <ToStar>.
+— А, здароў, можа ў вас піва знойдзецца?
+— Баюся, што навіны, якія я вам прынёс, вас не ўзрадуюць. 
+
+Ён працягнуў вам мясцовую газэту. Першая старонка стракацела загалоўкам: ""П'яны ўшчэнт <Ranger> зьнішчыў цудоўны ксэнапарк Хіца"". Вы прачыталі артыкул, і вам захацелася нарадзіцца наноў — у іншай сыстэме і ў іншым стагодзьдзі. Да таго ж, прыслухаўшыся, вы зразумелі, што незадаволеныя мясцовыя жыхары даўно чакаюць вас пад вокнамі шпіталя.
+
+— Чаго вы ад мяне хочаце? Кампэнсацыі шкоды?
+— Не, ксэнапарк быў застрахаваны. Я проста не хачу, каб пра мяне казалі, што я аддаў вас натоўпу, каб вас разарвалі. Гэта можа ўскладніць атрыманьне страхоўкі. Я дапамагу вам зьнікнуць з нашай плянэты і спадзяюся вас больш ніколі не ўбачыць.
+
+З дапамогай людзей Хіца вы дабраліся да свайго зорнага карабля і ўжо праз гадзіну забыліся пра непрыемны інцыдэнт, рыхтуючыся да ўзьлёту з плянэты."
 "/quests/Xenopark.qmm/locations/30/texts/0/text"	"Вы схватили несколько веток растения, осторожно очистили от колючек и откусили приличный кусок. Густой сок с терпким кисловатым вкусом обильно потек вам в рот.
  
 Черт! Да это же Втыкилла - ваш любимый горячительный напиток!"	"Quest Xenopark.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: You grabbed several sprigs of the plant, carefully unthorned them and took a dollop. Thick slightly sour and acerb juice flushed into your mouth.
@@ -483,7 +568,19 @@ You answered with no enthusiasm dreaming just of getting back to your ship, taki
 - Have a look...
 You opened the container and shut it tightly again. The very sploshling was looking prankishly at you.
 - This is the last one, - the Peleng commented with a happy smile and added as if reading your thoughts: - And returning a gift back is considered bad manners... Good bye. And don't forget to feed it properly.
-- What kind of food... - you didn't finish the phrase because he disappeared the next moment."	"Quest,Xenopark"	""
+- What kind of food... - you didn't finish the phrase because he disappeared the next moment."	"Quest,Xenopark"	"Вы націснулі кнопку выкліку, і ў пакой адразу ж увайшоў даглядчык разам з нейкім незнаёмым пеленгам у дарагім касьцюме.
+
+— Пазнаёмцеся — уладальнік ксэнапарку Ляпцва Хіц уласнай асобай. Самы паважаны і найбуйнейшы гандляр на плянэце <ToPlanet>, — прадставіў даглядчык саліднага пеленга. — А гэта наш ратаўнік, вялікі рэйнджэр <Ranger>.
+— Рады знаёмству, спадар Хіц, як прайшоў адпачынак на Кварыбах? — выдушылі вы зь сябе.
+— Дзякуй, цудоўна адпачыў, толькі не на Кварыбах, а на Кванарах. За выратаваньне маіх любімцаў дзякую вам ад усяго сэрца , — з усьмешкай паціснуў вам руку Хіц, — і ад кашалька таксама, вядома. Спадзяюся, мой сьціплы дар у <Money> cr кампэнсуе вам страчаны час і нэрвы. На жаль, па ўзнагароду вы мусіце ляцець назад на плянэту <FromPlanet> — гэтыя бюракраты патрабуюць, каб усе фінансавыя мерапрыемствы, зьвязаныя з вашым наймам, праходзілі праз іхні банк. Ну а я буду рады бачыць вас зноў у сваім ксэнапарку. Прыходзьце, спэцыяльна для вас будзе скідка ў... скажам 10%! Не, што гэта я, бо вы ж мой ратаўнік — цэлых 11% скідкі!!!
+
+Вы млява адказалі на словы падзякі, марачы толькі пра адно — хутчэй вярнуцца на зорны карабель, прыняць душ і паспаць. З гэтай думкай вы пайшлі да выхаду, калі вас дагнаў даглядчык.
+— Вось, — ён працягнуў вам невялікі кантэйнэр, хітра пры гэтым усьміхаючыся, — сьціплы падарунак на памяць, ад спадара Хіца.
+— Што там? — насьцярожана спыталі вы.
+— Зірніце...
+Вы адкрылі кантэйнэр і адразу зачынілі. Зь яго на вас свавольна глядзеў той самы шпецокляк.
+— Апошняга аддаю, — са шчасьлівай усьмешкай пракамэнтаваў пеленг і адразу, быццам прачытаўшы вашыя думкі, дадаў: — А падарункі не вяртаюць... Да пабачэньня. І карміце яго добранька.
+— А чым... — спыталі былі вы, але нікога ўжо не было побач."
 "/quests/Xenopark.qmm/locations/33/texts/0/text"	"На третьем чане висит табличка <clr>""Шарики Хаапта""<clrEnd>. 
 
 Под крышкой оказалось корыто, доверху засыпанное шариками, правда, самого Хаапта вы не увидели. Ну что ж, тогда он не будет возражать, если вы попробуете немного.
@@ -536,7 +633,16 @@ Fire blades issued forward from the barrels and stuck into your chest. On your w
 - Well, one more A feed hunter killed. 
 - May his energy essence go to Tzvackian Swales, sooner or later all of us will be there. Here, Khachick-Khan, do you know what animal are these diamonds for?..
 
-Darkness fell upon you..."	"Quest,Xenopark"	""
+Darkness fell upon you..."	"Quest,Xenopark"	"Вы схапілі цэлую жменю зірак і адправілі ў рот. Цьвёрды, як алмаз, корм ужо каштаваў вам некалькіх зубоў, калі дзьверы ў памяшканьне для жывёлаў з грукатам расчыніліся, і ў іх з шумам уваліўся натоўп пеленгаў у форме, якія сьціскалі ў руках зброю.
+
+Адзін зь іх выхапіў рацыю, тады як астатнія наставілі на вас страшнага выгляду ствалы.
+— Гаворыць капітан атрада пазаведамаснай аховы Квакша Цыпік, інфармацыю пра выклік пацьвярджаю. Месца выкліку — ксэнапарк паважанага спадара Хіца. Прычына выкліку — неадпаведнасьць траекторыі перамяшчэньня корму пад кодам ""А"" прадпісанай сыстэмай бясьпекі. Вэрсія — невядомы рэйнджэр спрабуе выкрасьці корм ""А"", схаваўшы ў ротавай поласьці. Меры па спыненьні — зьнішчэньне аб'екту.
+
+Вогненныя ляза вырваліся са ствалоў  і ўпіліся ў вашыя грудзі. Ужо калі сьвядомасьць згасала, вы чулі галасы ахоўнікаў:
+— Ну вось, чарговага паляўнічага за кормам ""А"" прышылі. 
+— Хай адправіцца ягоная энэргетычная сутнасьць у Цвацкія Топі, дзе ўсе мы рана ці позна апынёмся. Слухай, Хачык-Хан, а ты ня ведаеш, для якой жывёлы яны нарыхтавалі гэтыя алмазы?..
+
+Цемра апусьцілася на вас..."
 "/quests/Xenopark.qmm/locations/39/texts/0/text"	"<clr>""Железистая Лаап-Ша""<clrEnd> - надпись на чане №5. 
 
 Множество длинных тонких прутиков, скорее похожих на шнурки разного цвета, лежало в этом чане. Гладкая поверхность всевозможных цветов казалась слишком уж идеальной для стебля растения. Возможно, это была вытяжка желез неведомого зверя, как и указано на табличке."	"Quest Xenopark.qmm: locations.39.texts.0.text. Preserve every <tag> exactly. English reference: <clr>""Glandulous Noohoo-Dle""<clrEnd> was on Tub №5.
@@ -755,7 +861,15 @@ Suddenly the creature opened its both eyes and stared at you. The xenomorph open
 
 It fell unconscious because of the bang and let your hand go. But in a couple of minutes the creature's shapeless body lazily crawled to the shade. Its eyes were closed again. 
   
-You properly washed your hands rubbing the slime off. The spots where it got were burning but there was no visible harm and after a while the itch was gone too."	"Quest,Xenopark"	""
+You properly washed your hands rubbing the slime off. The spots where it got were burning but there was no visible harm and after a while the itch was gone too."	"Quest,Xenopark"	"Пад яркім блакітным сьвятлом імітатара сонца клубіліся густыя несапраўдныя воблакі. Дзіўна, але пачвара, што сядзела ў клетцы, падобна, адчувала сябе тут няўтульна — яна зябка дрыжэла, а на цёмна-зялёнай скуры зьяўляліся і адразу зьнікалі пухіры. Здавалася, што па скуры істоты ідзе рабізна. Абодва вокі яе былі шчыльна прыкрытыя.
+
+Плямы агіднай на выгляд зялёнай сьлізі пакрывалі падлогу і плавалі па паверхні шматлікіх лужын. Але істота толькі з агідай адцірала сьлізь, што трапіла на скуру, і паволі паўзла па клетцы, ідучы за ценем несапраўдных воблакаў. Ледзь яно трапляла ў цень, як афарбоўка яго цьмянела, і ксэнаморф практычна зьліваўся зь ценем. Дзьве пары лапаў заканчваліся шырокімі плоскімі ""далонямі"", якія маглі быць аднолькава добра прыстасаваныя як для плаваньня, так і для хаджэньня па вязкім пяску. На кончыках ""пальцаў"" былі відаць маленькія прысоскі. У паўзмроку вам так і не ўдалося разгледзець, падціснула пачвара пад сябе пятую лапу, ці проста абапіралася на кароткі хвост.
+
+Нечакана пачвара адкрыла абодва вокі і ўтаропілася на вас. Ксэнаморф шырока расшчапіў пашчу, густа ўсеяную дробнымі зубамі ў тры рады. Ад гэтага здавалася, што плоская галава стварэньня расколвалася надвое. З пашчы маланкай выстраліў доўгі сіні язык і абвіўся вакол вашай рукі. Прысоска на канцы языка расшчапілася, быццам бутон кветкі, і ўпілася вам у далонь. З праклёнам вы кінуліся прэч ад клеткі. Прывязаная да вас пачвара праляцела два мэтры па паветры і ўдарылася аб сілавую крату свайго загону.
+
+Ад удару пачвара страціла прытомнасьць і адпусьціла вашу руку. Але ўжо праз пару хвілінаў цела без формы пачвары ляніва перапаўзала ў цень. Абодва вокі зноў былі шчыльна прыкрытыя.
+  
+Вы старанна вымылі рукі, адціраючы іх ад сьлізі. Там, дзе яна трапіла на скуру, адчувальна пякло, але бачных пашкоджаньняў не было, а неўзабаве прайшоў і сьверб."
 "/quests/Xenopark.qmm/jumps/43/text"	"Рассмотреть ксеноморфа поближе"	"Quest Xenopark.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Examine the xenomorph"	"Quest,Xenopark"	"Разгледзець ксэнаморфа бліжэй"
 "/quests/Xenopark.qmm/jumps/44/text"	"Рассмотреть ксеноморфа поближе"	"Quest Xenopark.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Examine the xenomorph"	"Quest,Xenopark"	"Разгледзець ксэнаморфа бліжэй"
 "/quests/Xenopark.qmm/jumps/44/description"	"Животное в последней клетке оказалось приятнее на вид, чем его собратья по неволе. Длинное приземистое тело на шести коротких и кривых лапах было покрыто тусклой чешуей. Плоская заостренная мордочка повернулась в вашу сторону, едва вы приблизились. Хвост ксеноморфа был длиннее почти в два раза, чем тело - создавалось впечатление опасной стремительности существа, несмотря на короткие лапы.
@@ -770,7 +884,13 @@ The white shine of eight long lamps was reflected in the floor, which looked lik
 
 Its shining surface seemed like polished by vehement winds but the air in the cage was completely quiet, dry, rather warm and flavourless. Out of mere play you stepped on the tip of the tail that was lopping through the grid. The tail went off. 
 
-You were extremely surprised when the xenomorph slowly moved away from you almost ignoring the fact of losing its organ. May be, it didn't notice anything? It looked like the beast felt no pain... To keep out of mischief you decided not to take hazards..."	"Quest,Xenopark"	""
+You were extremely surprised when the xenomorph slowly moved away from you almost ignoring the fact of losing its organ. May be, it didn't notice anything? It looked like the beast felt no pain... To keep out of mischief you decided not to take hazards..."	"Quest,Xenopark"	"Жывёла ў апошняй клетцы аказалася прыемней на выгляд, чым яе сабраты па няволі. Доўгае прысадзістае цела на шасьці кароткіх і крывых лапах было пакрытае цьмянай луской. Плоская завостраная пыса павярнулася ў ваш бок, ледзь вы наблізіліся. Хвост ксэнаморфа быў даўжэйшы амаль у два разы, чым цела — стваралася ўражаньне небясьпечнай імклівасьці істоты, нягледзячы на кароткія лапы.
+
+Сьвятло васьмі доўгіх лямпаў, якія выпраменьвалі чыстае белае зьзяньне, адбівалася ў глыбіні падлогі. Падлога была быццам пакрытая мармурам або падобным каменьнем. Яе бліскучая паверхня здавалася адпаліраванай ураганнымі вятрамі, але паветра ў клетцы было зусім нерухомае. Сухое і без паху, тэмпэратура яго была даволі высокая.
+
+Дзеля жарту вы наступілі на кончык хваста, што зьвешваўся скрозь сілавую крату. Хвост адарваўся. Якое ж было ваша зьдзіўленьне, калі ксэнаморф не сьпяшаючыся адышоў далей ад вас, практычна не адрэагаваўшы на страту свайго органа. А можа, яно і не заўважыла? Падобна, што болю пачвара не адчувала...
+
+Ад граху далей вы вырашылі больш не рызыкаваць..."
 "/quests/Xenopark.qmm/jumps/45/text"	"Мы тоже гордые. Отвернуться с высоко поднятой головой"	"Quest Xenopark.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: We are proud too. Turn away with your head high"	"Quest,Xenopark"	"Мы таксама ганарлівыя. Адвярнуцца з высока паднятай галавой"
 "/quests/Xenopark.qmm/jumps/46/text"	"Нечего пялиться - пора делом заниматься"	"Quest Xenopark.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Stop staring - it's time to work"	"Quest,Xenopark"	"Няма чаго вылуплівацца — пара заняцца справай"
 "/quests/Xenopark.qmm/jumps/47/text"	"Да ну эту тварь - злая она"	"Quest Xenopark.qmm: jumps.47.text. Preserve every <tag> exactly. English reference: To hell with the beast - it's evil"	"Quest,Xenopark"	"Ды ну гэтую пачвару — злая яна"
@@ -1035,14 +1155,18 @@ Well, <clr>the monster is filled <clrEnd>..."	"Quest,Xenopark"	"Ледзь аг�
 
 Пятна противной на вид зеленой слизи покрывали пол и плавали по поверхности многочисленных луж. Но существо лишь брезгливо оттирало попавшую на кожу слизь и медленно ползло по клетке, следуя за тенью псевдооблаков. Едва она попадала в тень, как окраска ее тускнела, ксеноморф практически сливался с тенью. Две пары лап оканчивались широкими плоскими ""ладонями"", которые могли быть одинаково хорошо приспособлены как для плавания, так и для хождения по вязкому песку. На кончиках ""пальцев"" были видны маленькие присоски. В полумраке вам так и не удалось разглядеть, поджала тварь под себя пятую лапу, или просто опиралась на короткий хвост."	"Quest Xenopark.qmm: jumps.163.description. Preserve every <tag> exactly. English reference: Thick pseudoclouds were wreathing in the bright blue light of the sun-imitator. It was strange but the beast in the cage felt comfortless there - it quivered chilly and blebs were appearing and disappearing on its dark green skin and looked like ripple. Its both eyes were closed.
 
-Spots of disgustingly looking slime covered the floor and drifted on the surface of multiple puddles. The creature fastidiously wiped the slime off its skin and crawled along the cage following the shade of the pseudoclouds. When it got in the shadow, it almost merged there. Two pairs of its paws finished in wide flat ""palms"" which could be suitable for either swimming or walking on the quick-sand. Small ""suckers"" could be seen on the ""fingertips"". You failed to distinguish in the shade if it tucked its fifth leg under it or just leaned on its tail."	"Quest,Xenopark"	""
+Spots of disgustingly looking slime covered the floor and drifted on the surface of multiple puddles. The creature fastidiously wiped the slime off its skin and crawled along the cage following the shade of the pseudoclouds. When it got in the shadow, it almost merged there. Two pairs of its paws finished in wide flat ""palms"" which could be suitable for either swimming or walking on the quick-sand. Small ""suckers"" could be seen on the ""fingertips"". You failed to distinguish in the shade if it tucked its fifth leg under it or just leaned on its tail."	"Quest,Xenopark"	"Пад яркім блакітным сьвятлом імітатара сонца клубіліся густыя несапраўдныя воблакі. Дзіўна, але пачвара, што сядзела ў клетцы, падобна, адчувала сябе тут няўтульна — яна зябка дрыжэла, а на цёмна-зялёнай скуры зьяўляліся і адразу зьнікалі пухіры. Здавалася, што па скуры істоты ідзе рабізна. Абодва вокі яе былі шчыльна прыкрытыя.
+
+Плямы агіднай на выгляд зялёнай сьлізі пакрывалі падлогу і плавалі па паверхні шматлікіх лужын. Але істота толькі з агідай адцірала сьлізь, што трапіла на скуру, і паволі паўзла па клетцы, ідучы за ценем несапраўдных воблакаў. Ледзь яна трапляла ў цень, як афарбоўка яе цьмянела, ксэнаморф практычна зьліваўся зь ценем. Дзьве пары лапаў заканчваліся шырокімі плоскімі ""далонямі"", якія маглі быць аднолькава добра прыстасаваныя як для плаваньня, так і для хаджэньня па вязкім пяску. На кончыках ""пальцаў"" былі відаць маленькія прысоскі. У паўзмроку вам так і не ўдалося разгледзець, падціснула пачвара пад сябе пятую лапу, ці проста абапіралася на кароткі хвост."
 "/quests/Xenopark.qmm/jumps/164/text"	"Оставить злобное животное в покое"	"Quest Xenopark.qmm: jumps.164.text. Preserve every <tag> exactly. English reference: Leave the baleful xenomorph alone"	"Quest,Xenopark"	"Пакінуць зласьлівую жывёлу ў спакоі"
 "/quests/Xenopark.qmm/jumps/165/text"	"Еще раз изучить обитателя клетки"	"Quest Xenopark.qmm: jumps.165.text. Preserve every <tag> exactly. English reference: Examine the cage inhabitant once again"	"Quest,Xenopark"	"Яшчэ раз вывучыць насельніка клеткі"
 "/quests/Xenopark.qmm/jumps/165/description"	"Животное в последней клетке  имело длинное приземистое тело на шести коротких и кривых лапах, и  было покрыто тусклой чешуей. Плоская заостренная мордочка повернулась в вашу сторону, едва вы приблизились. Хвост ксеноморфа когда-то был длиннее почти в два раза, чем тело, но сейчас это был лишь куцый обрубок.
 
 Свет восьми длинных ламп, излучавших чистое белое сияние, отражался в глубине пола. Пол был словно покрыт мрамором или похожим камнем. Его блестящая поверхность казалась отполированной ураганными ветрами, но воздух в клетке был совершенно неподвижен. Сухой и без запаха, температура его была довольно высока."	"Quest Xenopark.qmm: jumps.165.description. Preserve every <tag> exactly. English reference: The xenomorph in the last cage turned out to look nicer than the other ones. Its long runty body with six short and bandy paws was covered by cloudy scale. The flat piked mug turned to you as soon as you approached. The xenomorph's tail used to be almost twice longer than the body but now it was just a stub of a tail.
 
-The white shine of eight long lamps was reflected in the floor, which looked like marble or coated with some similar stone. Its shining surface seemed like polished by vehement winds but the air in the cage was completely quiet, dry, rather warm and flavourless"	"Quest,Xenopark"	""
+The white shine of eight long lamps was reflected in the floor, which looked like marble or coated with some similar stone. Its shining surface seemed like polished by vehement winds but the air in the cage was completely quiet, dry, rather warm and flavourless"	"Quest,Xenopark"	"Жывёла ў апошняй клетцы  мела доўгае прысадзістае цела на шасьці кароткіх і крывых лапах, і  было пакрытае цьмянай луской. Плоская завостраная пыса павярнулася ў ваш бок, ледзь вы наблізіліся. Хвост ксэнаморфа калісьці быў даўжэйшы амаль у два разы, чым цела, але цяпер гэта быў толькі куртаты абрубак. 
+
+Сьвятло васьмі доўгіх лямпаў, якія выпраменьвалі чыстае белае зьзяньне, адбівалася ў глыбіні падлогі. Падлога была быццам пакрытая мармурам або падобным каменьнем. Яе бліскучая паверхня здавалася адпаліраванай ураганнымі вятрамі, але паветра ў клетцы было зусім нерухомае. Сухое і без паху, тэмпэратура яго была даволі высокая."
 "/quests/Xenopark.qmm/jumps/166/text"	"Нечего пялиться и смущать зверушку"	"Quest Xenopark.qmm: jumps.166.text. Preserve every <tag> exactly. English reference: Don't stare and confuse the animal"	"Quest,Xenopark"	"Няма чаго вылуплівацца і бянтэжыць зьвярку"
 "/quests/Xenopark.qmm/jumps/167/text"	"Почитать книги, пока есть время..."	"Quest Xenopark.qmm: jumps.167.text. Preserve every <tag> exactly. English reference: Read the books if you have some spare time..."	"Quest,Xenopark"	"Пачытаць кнігі, пакуль ёсьць час..."
 "/quests/Xenopark.qmm/jumps/168/text"	"Просто смотреть в окно..."	"Quest Xenopark.qmm: jumps.168.text. Preserve every <tag> exactly. English reference: Just look in the window..."	"Quest,Xenopark"	"Проста глядзець у акно..."
