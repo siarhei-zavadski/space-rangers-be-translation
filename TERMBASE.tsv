@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр		Crowdin glossary; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру; pl рэйнджэры, рэйнджэраў	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар		Crowdin glossary; pl дамінатары, дамінатараў	—
 lemma.planet	планета	planet	плянэта		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды		N pl дроіды; cleaner droids in the arena	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан		game race; pl клісаны, клісанаў	—
@@ -676,7 +676,7 @@ lemma.scroll	свиток	scroll	скрутак	сувой, сьвітак	parch
 lemma.spell	заклинание	spell	заклінаньне	заклінанне	I заклінаньнем; hunspell -ньне	https://starnik.by/pravapis/26896
 lemma.magic	волшебный	magical	магічны	чароўны	spell sense; Starnik «магічныя заклінанні»	https://starnik.by/pravapis/122175
 lemma.dragon	змей	dragon	цмок	змей	fairy-tale dragon; G цмока	https://starnik.by/pravapis/82903
-lemma.gorynych	Горыныч	Gorynych	Гарыныч/Гарыныча/Гарынычу		proper name; akanie; G Гарыныча D Гарынычу	Park.qmm
+lemma.gorynych	Горыныч	Gorynych	Гарыныч/Гарыныча/Гарынычу/Гарынычам		proper name; akanie; G Гарыныча D Гарынычу I Гарынычам	Park.qmm
 lemma.gladiator	гладиатор	gladiator	глядыятар	гладыятар	D глядыятару	hunspell-be-tarask
 lemma.chicken_feet	Куриные лапки	Chicken Feet	Курыныя лапкі		park name; same string as the map	Park.qmm
 lemma.fried_chick	Жареная Цыпа	Fried Chick	Смажаная Цыпка	Цыпа	operation codename; цыпка is the colloquial hen	https://starnik.by/pravapis/83178
@@ -774,3 +774,4 @@ lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра		do
 lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/Скарыкі/Морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word	Park.qmm
 lemma.biochip	биочип	biochip	біячып/біячыпы		dragon nerves joke; hunspell lacks the compound	Park.qmm
 lemma.perperdon	Перпердон-пардон	Perperdon-pardon	Перпердон/пардон		galaxy couturier joke	Park.qmm
+lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў		joke people in the trainer speech	Park.qmm
