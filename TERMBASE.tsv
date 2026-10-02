@@ -77,9 +77,9 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -136,7 +136,7 @@ lemma.trade_center	торговый центр	trade center	гандлёвы ц�
 lemma.appear	появиться	appear	з'явіцца		user lock: apostrophe, not зьявіцца	—
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
-lemma.blazer	Блазер	Blazer	Блазер		proper name lock; series блазероід	—
+lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
 lemma.keller	Келлер	Keller	Келлер/Келлеру		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую		race; N пеленг already in lemma.golden_peleng	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую/Пеленг		race; N пеленг already in lemma.golden_peleng	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -971,8 +971,8 @@ lemma.makhoka	Маххока	Makhoka	Маххока/Маххокі		leaf in the 
 lemma.yoickster	уйлюлюк	yoickster	уйлюлюк/уйлюлюка		khanai animal; sour milk is a nomad-malok drink	Banket.qmm
 lemma.khanai	ханайский	khanai	ханайскага/ханайскі		adjective of the yoickster, not the улюлюкскі fungus	Banket.qmm
 lemma.pyrotitanium	пиротитан	pyrotitanium	піратытан/піратытанавага/піратытана		blade metal of the rented malok knives	Banket.qmm
-lemma.tsiga	Цыга	Tsiga	Цыга		peleng know-all; given name, not the fortune-teller	Banket.qmm
-lemma.romalych	Ромалыч	Romalych	Ромалыч		patronymic of the peleng know-all Цыга	Banket.qmm
+lemma.tsiga	Цыга	Tsiga	Цыга/Цыгу		peleng know-all; given name, not the fortune-teller	Banket.qmm
+lemma.romalych	Ромалыч	Romalych	Ромалыч/Ромалычу		patronymic of the peleng know-all Цыга	Banket.qmm
 lemma.peetiquette	путикет	peetiquette	пуцікет/пуцікеце	этыкет	son's malapropism of этыкет	Banket.qmm
 lemma.kutuzau	Кутузау	Kutuzau	Кутузау		name the ranger shouts while stabbing the heir's eye	Banket.qmm
 lemma.dryn	Дрын	Dryn	Дрын/Дрыне/дрынлянін		when in Dryn, do as the Drynians	Banket.qmm
@@ -987,3 +987,7 @@ lemma.kraki	краки	kraki	Кракі/кракі		the prince's snack-name for 
 lemma.gravtank	гравитанк	gravtank	гравітанк/гравітанка		combat vehicle; hunspell has no form	Banket.qmm
 lemma.destructor_beam	деструкторный	destructor	дэструктарны		beam weapon the father wanted for his sons	Banket.qmm
 lemma.holodisk	голо-диск	holodisk	голадыск	гола-дыск	a disk with a ladies' romance; one token so it is not read as naked	Banket.qmm
+lemma.denebola	Денебола	Denebola	Дэнэбола/Дэнэболы		star the peleng tells the ranger to search from	Banket.qmm
+lemma.bioslot	биослотовый	bioslot	біяслотавы/біяслотавых		faeyan hull slot; hunspell has no form	Banket.qmm
+lemma.elemental_games	Элементал Геймс	Elemental Games	Элемэнтал/Гэймз/гэймз		the studio in Tsiga's vision of the ranger games	Banket.qmm
+lemma.snk_games	СНК-геймз	SNK-Games	СНК		the later studio in the same vision; гэймз is on the Elemental row	Banket.qmm
