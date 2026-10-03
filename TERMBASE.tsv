@@ -1372,19 +1372,41 @@ lemma.pachrambit	пачрамбитол	pachrambit	пачрамбітол/пач
 lemma.paradubin	парадубин	paradubin	парадубін/парадубіну		coined asylum drug	Feipsycho.qmm
 lemma.ustolbyaka	устолбяка	ustolbyaka	усталбяка/усталбякі		coined asylum tincture	Feipsycho.qmm
 lemma.bigbuba	Бигбуба	Bigbuba	Бігбуба/Бігбубы/Бігбубу/Бігбубе/Бігбубай		pilot-exam host; G Бігбубы, A Бігбубу, D Бігбубе, I Бігбубай	Pilot.qmm
-lemma.tyr_zakhapych	Тырь Захапыч	Tyr Zakhapych	Тыр/Захапыч		bribed examiner	Pilot.qmm
-lemma.anita	Анита	Anita	Аніта		practice examiner; indeclinable A Аніта	Pilot.qmm
+lemma.tyr_zakhapych	Тырь Захапыч	Tyr Zakhapych	Тыр/Захапыч/Захапыча/Захапычу		bribed examiner; G Захапыча, D Захапычу	Pilot.qmm
+lemma.anita	Анита	Anita	Аніт/Аніта/Аніту/Анітам		practice examiner; N Аніт, A Аніта, D Аніту, I Анітам	Pilot.qmm
 lemma.verstache	Верстаче	Verstache	Вэрстачэ		jacket brand	Pilot.qmm
 lemma.sentecium	сентеций	sentecium	сэнтэцый/сэнтэцыю		tooth gem; G сэнтэцыю	Pilot.qmm
 lemma.grichacha	Гри-ча-ча	Gri-cha-cha	Грычача		gaal youth dance	Pilot.qmm
 lemma.bigbuba_note	записка Бигбубы	Bigbuba note	Жду/тибя/чериз/полчиса/пьэзотринажора/тирминале/оддыха/Бигбуба/Прихади/вечирам/тирминал/Если/встречу/исчо/пиняй/сибя/нидаделок		garbled note kept byte-identical	Pilot.qmm
 lemma.loo_hen	Лоо-Хэн	Loo-Hen	Лоо/Хэн/Хэна/Хэну		contact at the exam; G Хэна, D Хэну	Pilot.qmm
-lemma.hvostagreb	хвостогреб	tail-heater	хвастагрэб/хвастагрэба/хвастагрэбаў		coined baked creature on the exam menu	Pilot.qmm
+lemma.hvostagreb	хвостогреб	tail-heater	хвастагрэб/хвастагрэба/хвастагрэбаў/хвастагрэбы		coined baked creature on the exam menu	Pilot.qmm
 lemma.syrup	сироп	syrup	сыроп	сіроп	Starnik сіроп; hunspell spelling wins	https://starnik.by/pravapis/69346
 lemma.mazachello	Мазачелло	Mazachello	Мазачэлла		star name	Pilot.qmm
 lemma.kazyaba	Казяба	Kazyaba	Казяба		planet name	Pilot.qmm
 lemma.utur	Утур	Utur	Утур		planet name	Pilot.qmm
-lemma.antibia	Антибия	Antibia	Антыбія		star name	Pilot.qmm
+lemma.antibia	Антибия	Antibia	Антыбія/Антыбіі		star name; G Антыбіі	Pilot.qmm
 lemma.shuttlon	Шаттлон	Shuttlon	Шаттлон/Шаттлонаў		cargo liner type	Pilot.qmm
 lemma.kcal	ккал	kcal	ккал		food-energy unit on the exam HUD	Pilot.qmm
 lemma.narc_stub	нар	narcotics cutoff	нарк		speaker cuts the word off	Pilot.qmm
+lemma.zaumiy	Заумий	Zaumiy	Заўмій/Заўмія/Заўмію		theory examiner	Pilot.qmm
+lemma.lets_heffan	лец-хэффан	hairstyle	лец/хэффан		coined haircut; hyphen splits	Pilot.qmm
+lemma.woman_sim	женосимулятор	woman-simulator	жэносімулятар/жэносімулятарах		coined dating trainer	Pilot.qmm
+lemma.aiharru	Айхарру Меддона	Aiharru Meddon	Айхарру/Меддона		malok world in the guard's boast	Pilot.qmm
+lemma.kruts	леди Круть	Lady Krut	Круць		bank head	Pilot.qmm
+lemma.tyanuchka	тянучка	taffy	цянучка/цянучкі		coined antibian candy	Pilot.qmm
+lemma.trepykhunya	трепыхуния	flapper	трэпыхуня/трэпыхуній		coined sea creature	Pilot.qmm
+lemma.egnod	егнод	egnod	егнод/егнода		coined animal	Pilot.qmm
+lemma.maritumana	маритумана	maritumana	марытумана/марытуманы		coined herb	Pilot.qmm
+lemma.gribozhab	грибожаб	mushroom-toad	грыбажаб/грыбажабаў		coined food	Pilot.qmm
+lemma.zapupynka	запупынка	zapupynka	запупынка/запупынак		coined mash	Pilot.qmm
+lemma.ni_gu_gu	ни-гу-гу	ni-gu-gu	ні/гу		coined leaf; hyphen splits	Pilot.qmm
+lemma.bugi_du	буги-ду	bugi-du berry	бугі/ду		coined berry; бамбай is lemma.bambay	Pilot.qmm
+lemma.chulian	чулийский	Chulian	чулійскай/чулійская		coined turnip origin	Pilot.qmm
+lemma.gabanyashka	габаняшка	gabanyashka	габаняшка/габаняшак		coined infusion fruit	Pilot.qmm
+lemma.karamarta	карамарта	karamarta	карамарта/карамарты		coined salty syrup source	Pilot.qmm
+lemma.pilot_shop	ассортимент магазина	shop table	ДВИГАТЕЛИ/БАКИ/объем/цена/ГЕНЕРАТОРЫ/мощность		ASCII shop table kept byte-identical	Pilot.qmm
+lemma.super_bug	супербукашка	superbug joke	суперновы/супербіяхімічны/супербукашак		Bigbuba cuts off the science act	Pilot.qmm
+lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/трэнажора/трэнажорам	трэнажэр	exam and cargo simulator	https://starnik.by/pravapis/76292
+lemma.sergeant	сержант	sergeant	сяржант/сяржанта		army rank	https://starnik.by/pravapis/74298
+lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
+lemma.belucian	белуцианский	Belucian	белуцыянскага/белуцыянскі		coined lemon	Pilot.qmm
