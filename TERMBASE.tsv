@@ -1012,7 +1012,7 @@ lemma.alioth	Алиот	Alioth	Аліот		star name; hunspell splits it	Borzukh
 lemma.rastaban	Растабан	Rastaban	Растабан		star name	Borzukhan.qmm
 lemma.linux_planet	Линукс	Linux	Лінукс		joke planet; hunspell suggests Лінус	Borzukhan.qmm
 lemma.rambo	Джон Рембо	John Rambo	Рэмба		ranger name; hunspell maps to Рэмбрант	Borzukhan.qmm
-lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам/станэраў		handheld stun weapon; hunspell maps to сканэр	Borzukhan.qmm
+lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам/станэраў/станэрамі/станэрная		handheld stun weapon; hunspell maps to сканэр; I станэрамі	Borzukhan.qmm
 lemma.lvpb	ЛВПБ	CRLG	ЛВПБ		sniper rifle code on the Baron2 HUD	STQ_Baron2.qmm
 lemma.boog	буг	boog	буг		cargo unit; hunspell suggestions are unrelated	STQ_Baron2.qmm
 lemma.kinetator	кинетатор	kinetisizer	кінетатар/кінетатара		coined charge device; hunspell maps it to a cinema	STQ_Baron2.qmm
@@ -1501,3 +1501,8 @@ lemma.aabis	Аабисс	Aabis	Аабіс		Gaaldok statue; the local word means 
 lemma.gambit_break	га-ам'бит	gambit stutter	амбіт		spoken break of гамбіт; the hyphen splits the token	Kidnapped.qmm
 lemma.kortzin	кортзин	kortzin	кортзін/кортзіну		coined mineral left in the ground	Kidnapped.qmm
 lemma.clan	клан	clan	клан/Клан/Клану/Кланам	клян	pirate Clan; Starnik clan, not the maple клян	https://starnik.by/pravapis/35824
+lemma.dread	Дред Неумолимый	Dread the Relentless	Дрэд/Дрэда		Versl's teacher; the epithet Няўмольны passes hunspell	Kidnapped.qmm
+lemma.apchkhan	Апч'хан Ядохвост	Apch'khan	Апч'хан/Ядахвост		hunter; compound like Starnik вастрахвосты, tail is хвост	Kidnapped.qmm
+lemma.flenky	Флэнки Тим	Flenky Tim	Флэнкі		dead pirate named by Lioni; Тым passes hunspell	Kidnapped.qmm
+lemma.inklada	Инклада	Inklada	Інклада		homeworld of the phantom Ornioli	Kidnapped.qmm
+lemma.necril	некрил	necril	некрыл/некрылу		coined metal of the cargo coins	Kidnapped.qmm
