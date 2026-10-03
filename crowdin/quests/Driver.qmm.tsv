@@ -536,7 +536,9 @@ Southwest - <clr>Mow's Gas Station - 24 km<clrEnd>"""	"Quest,Driver"	"Ваша �
 Помочь тебе я могу только советом. Если не хочешь проблем, то когда тебя тормозят головорезы - останавливайся и плати дань. Ну, или если очень крут, то можешь попробовать отбиться. Еще учти, что <clr>если ты с грузом, то с тебя могут взять больше<clrEnd>. Потому что Скорпионы с Ирокезами считают, что за провоз груза нужно снимать дополнительно. И чем больше груза, тем больше цена. 
 А может, ты на моих ребят намекаешь? Ну так они ни на кого не нападают, а только штрафуют нарушителей. А на какие шиши, по-твоему, дороги ремонтировать? Впрочем, если будут сомнения в правомерности действий моих ребят, то милости просим на штраф-стоянку, а там разберемся..."	"Quest Driver.qmm: locations.41.texts.2.text. Preserve every <tag> exactly. English reference: - Is that so? - said the sheriff and burst out laughing. - Listen here, lad, I bet you are not local in this parts. The Scorpions and the Iroquois have been collecting road tolls here over the past god-knows-how-many decades. And if I start a war against them now, chances are they will put an untimely end to my career, rather than I will to theirs...
 The only way I can help you is with this advice. If you want to live, stop whenever these hoodlums demand you to and pay the toll. Or, if you are so tough, you can try and fight your way through. And one other thing <clr>if you are carrying cargo, the toll will be larger<clrEnd>. Because both the Scorpions and the Iroquois think that cargo transportation should be paid for extra. And the more the cargo, the bigger the pay. 
-Or, maybe you have been talking about my lads here? Well, they never attack anyone, they only fine those who break the traffic rules. I mean, we need money for road repairs here, what did you expect? Then again, if you have doubts about the work of my lads, welcome to the penalty-lot and we'll take it from there..."	"Quest,Driver"	""
+Or, maybe you have been talking about my lads here? Well, they never attack anyone, they only fine those who break the traffic rules. I mean, we need money for road repairs here, what did you expect? Then again, if you have doubts about the work of my lads, welcome to the penalty-lot and we'll take it from there..."	"Quest,Driver"	"- Ды ну? - сказаў шэрыф і заліўся рогатам разам са сваім асяродзьдзем. - Хлопец, ты яўна не з гэтых мясьцінаў. Скарпіёны і Іракезы бяруць даніну за праезд па дарогах ужо якое дзесяцігодзьдзе. І калі я распачну зь імі вайну, то хутчэй бандзюкі спыняць маю дзейнасьць, чым я спыню іх...
+Дапамагчы табе я магу толькі парадай. Калі не хочаш праблемаў, то калі цябе спыняюць галаварэзы - спыняйся і плаці даніну. Ну, або калі вельмі дужы, то можаш паспрабаваць адбіцца. Яшчэ ўлічы, што <clr>калі ты з грузам, то з цябе могуць узяць больш<clrEnd>. Бо Скарпіёны зь Іракезамі лічаць, што за перавоз грузу трэба браць дадаткова. І чым больш грузу, тым большая цана.
+А можа, ты на маіх хлопцаў намякаеш? Ну дык яны ні на каго не нападаюць, а толькі штрафуюць парушальнікаў. А на якія грошы, думаеш, дарогі рамантаваць? Зрэшты, калі будуць сумневы ў правамоцнасьці дзеяньняў маіх хлопцаў, то ласкава просім на штрафную стаянку, а там разьбяромся..."
 "/quests/Driver.qmm/locations/41/texts/3/text"	"- А че тогда говорил, что соображаешь в химии?! Ладно. Пошли отсюда, - сказал вам шериф."	"Quest Driver.qmm: locations.41.texts.3.text. Preserve every <tag> exactly. English reference: - Why did you say you understood in chemistry in the first place then?! Alright. Let's get out of here, - the sheriff told you."	"Quest,Driver"	"- А што тады казаў, што разьбіраесься ў хіміі?! Добра. Пайшлі адсюль, - сказаў вам шэрыф."
 "/quests/Driver.qmm/locations/42/texts/0/text"	"- Ты думаешь, я дам проходимцу вроде тебя оружие? Ну ты и наглец! Хотя... Если бы ты нам помог, я бы мог дать тебе упаковку патронов для ружья. Ты в химии соображаешь?"	"Quest Driver.qmm: locations.42.texts.0.text. Preserve every <tag> exactly. English reference: - You think I am as stupid as to give a to give a shotgun to a hoodlum like yourself? Just how arrogant you exactly are?! Then again... If you helped us, I might as well give you a pack of cartridges for a shotgun. You understand anything about chemistry?"	"Quest,Driver"	"- Ты думаеш, я дам валацугу накшталт цябе зброю? Ну ты і нахабнік! Хоць... Калі б ты нам дапамог, я б мог даць табе пакунак патронаў для стрэльбы. Ты ў хіміі разьбіраесься?"
 "/quests/Driver.qmm/locations/43/texts/0/text"	"- Отлично! - воскликнул шериф и знаком приказал следовать за ним.
@@ -1151,7 +1153,16 @@ You grimaced as if to say ""nah, don't mention it"".
 - But, although it all ended well, - Ramina continued, - we are still not going to stay here. They promised to send a ship to pick us up soon, which will take us back to the planet of <FromPlanet>. Enough of these silly adventures! 
 For a long time Rolan's wife kept complaining about her husband's adventurous spirit. You listened calmly. When she was through moaning about her spouse, the woman suddenly turned serious and said:
 
-- Listen here, Ranger. I have an offer for you. We are completely out of local money. But we still have to live here for the next week or two. So, if you have any platinum pieces left, I will gladly exchange those for credits. At the rate of say, <clr>5 cr per platinum piece<clrEnd>. Although the maximum that we can afford now is 1500 cr..."	"Quest,Driver"	""
+- Listen here, Ranger. I have an offer for you. We are completely out of local money. But we still have to live here for the next week or two. So, if you have any platinum pieces left, I will gladly exchange those for credits. At the rate of say, <clr>5 cr per platinum piece<clrEnd>. Although the maximum that we can afford now is 1500 cr..."	"Quest,Driver"	"Толькі вы ўехалі на аэрадром, як адразу ўбачылі Раміну, якая махала вам рукой. Вы спынілі машыну і падышлі да яе.
+
+- Іракезы нядаўна прывезьлі Ролана. Дзякуй богу. Дзякуй вам!
+
+Вы зрабілі грымасу, быццам ""няма за што"".
+
+- Але хоць усё і абышлося, - працягнула Раміна, - мы ўсё адно не зьбіраемся заставацца тут. Праз нейкі час па нас абяцалі выслаць карабель, на якім мы вернемся на плянэту <FromPlanet>. Хопіць ужо прыгодаў і авантураў!
+Жонка Ролана яшчэ доўга галасіла і лаяла задумы мужа. Увесь гэты час вы стойка слухалі Раміну. Скончыўшы наракаць на свайго спадарожніка жыцьця, жанчына нечакана зрабілася сур'ёзнай і сказала:
+
+- Рэйнджэр. У мяне ёсьць для вас яшчэ адна прапанова. У нас зусім не засталося тутэйшых грошай - чырвонцаў. А жыць тыдзень-другі неяк трэба. Таму, калі ў вас засталіся чырвонцы, то я з радасьцю абмяняю вам іх на крэдыты. Скажам, <clr>5 cr за чырвонец<clrEnd>. Вось толькі больш чым на 1500 cr не разьлічвайце, гэта максымум, што мы можам сабе дазволіць..."
 "/quests/Driver.qmm/locations/114/texts/0/text"	"Химик добавил указанное вами количество Гелиоса, помешал получившуюся смесь и налил ее струйкой по периметру двери сейфа. Смесь начала быстро прожигать металл. Подождав минуту, химик взял ручку сейфа и легко поднял дверь. Сейф открыт! Шериф немедленно заглянул внутрь.
 
 - Ба! Да здесь отменный плазмоган 2956 года выпуска. Однако старый Джо не зря хранил эту штуку в сейфе. Что ж, <Ranger>, ты выполнил свою часть сделки. И теперь я выполню свою. Не-е-ет. Я не отдам тебе этот прекрасный плазмоган. <clr>Будешь довольствоваться коробкой патронов для ружья.<clrEnd> Все равно они мне больше не понадобятся. Держи, - шериф кинул вам красную коробку с надписью ""Патроны для ружья. 15 штук"". - Все. Теперь пошли, я выведу тебя на улицу."	"Quest Driver.qmm: locations.114.texts.0.text. Preserve every <tag> exactly. English reference: The chemist added the amount of Helios you specified, stirred the mixture and poured it in a thin line around the safe-door perimeter. Once in contact with metal the mixture started eating through quickly. Having waited for another minute the chemist took the door by the handle ad lifted it off the safe easily. The safe was open! The sheriff looked inside.
@@ -1186,7 +1197,15 @@ Three numbers - 25 platinum pieces"""	"Quest,Driver"	"На гульнявым а
 - Shocks! Let's take the truck then. Sell it to Lou for spares.
 This phrase was the last thing you remembered before a shot of pain knocked you unconscious. Looks like they knocked you out.
 
-When you came to you were lying on the road. No truck, no money, nothing... Sitting by the side of the road you contemplated your future. But you could not think of anything. To kill the growing boredom you started catching the little flies that shot by. Big mistake. One of them bit you, your hand swelled enormously, and you died right there and then..."	"Quest,Driver"	""
+When you came to you were lying on the road. No truck, no money, nothing... Sitting by the side of the road you contemplated your future. But you could not think of anything. To kill the growing boredom you started catching the little flies that shot by. Big mistake. One of them bit you, your hand swelled enormously, and you died right there and then..."	"Quest,Driver"	"Адзін з галаварэзаў падышоў да дзьвярэй вашага грузавіка, адчыніў іх і моцным рухам выцягнуў вас на вуліцу. Паваліўшы вас на зямлю, ён абшукаў вашы кішэні і крыкнуў другому:
+- ў кішэнях у гэтага [p6].
+- У машыне тытанавы шукальнік чырвонцаў не знайшоў, - крыкнуў другі. - Не хлусіць, значыць. Сапраўды грошай няма. Добра. Што зь ім будзем рабіць?
+- Паглядзі, што зь яго грузу нам спатрэбіцца, і кранам грузі ў джып.
+- Ды ў яго тут і няма нічога. Пусты ехаў...
+- Эге. Тады грузавік забяром. На запчасткі Лу здадзім.
+Пасьля гэтай фразы вы адчулі рэзкі боль і адключыліся. Падобна, вас аглушылі.
+
+Ачомаліся вы на дарозе. Машыны няма, грошай няма... Сеўшы на абочыне, вы пачалі думаць, што рабіць далей. Але думкі ў галаву ня ішлі. Тады ад нуды вы пачалі лавіць мошак, якія праляталі міма. Эх, дарма вы гэта. Адна зь іх укусіла вас, ад чаго рука ваша страшэнна распухла, і вы сканалі проста на абочыне..."
 "/quests/Driver.qmm/locations/139/texts/0/text"	"- Денег нет, говоришь? Сейчас мы тебя обыщем и поглядим... - с этими словами два бандюка принялись обыскивать вас, но обнаружили лишь [p6].
 - Да, у этого баклана действительно нет нужного количества денег. 
 - Он что, не знает, что по земле ирокезов нельзя ездить без пухленького мешочка с червонцами? Похоже, нужно преподать ему урок.
@@ -1303,7 +1322,13 @@ As soon as you were up, to your greatest surprise you understood you were indeed
 - <clr> Hind feet of a snatcher<clrEnd>, soaked in guanawa. Skin over wounds, and help from enuresis too. <clr>30<clrEnd> platinum pieces.
 - Raw <clr>eye of an arthropod <clrEnd>. Clears the mind, gives one an enormous heart and removes all the slag from one's system, through causing strong vomit reflexes. Not recommended to sick fighters. This one is dirt-cheap - <clr>15<clrEnd> platinum pieces.
 - Frog skin <clr>stew<clrEnd>, with sour kinza sauce. Completely satiates and increases combat resistance. Costs <clr>20<clrEnd> platinum pieces.
-- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	""
+- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	"Вы жвава спынілі машыну на абочыне, але колавы баабаб яшчэ доўга кульгаў да вашага месца. Нарэшце гэта зьдзейсьнілася, і дзіва-машына прытармазіла ля вашай машыны, вырыгнуўшы на сьвет з выхлапной трубы некалькі клубоў чорнага дыму. Дзьверы адчыніліся, і да вашага акна падышоў хударлявы дзядок - лысы, з чырвонымі палосамі пад вачыма і татуяваньнем на падбародку.
+
+- Я нясу нірвану ў гэты шэры сьвет, - дрыжачым голасам сказаў дзядок. - Твае вочы паказваюць стому ад чагосьці чорнага і неабсяжнага. Думаю, табе спатрэбяцца мае лячэбныя сродкі:
+- Заднія <clr>лапкі хвачыка<clrEnd>, вымачаныя ў гуанаве. Зацягваюць раны, заадно пазбаўляючы ад энурэзу. <clr>30<clrEnd> чырвонцаў.
+- Сырое <clr>вока членістаногага<clrEnd>. Праясьняе розум, дае неверагодны зарад бадзёрасьці і выводзіць усе адкіды зь арганізму, выклікаючы моцныя рвотныя рэфлексы. Не раіцца хворым байцам. За яго вазьму зусім трохі - <clr>15<clrEnd> чырвонцаў.
+- <clr>Адвар<clrEnd> са скуры жабы, з пракіслым кінзавым соўсам. Цалкам сыціць і павышае ўстойлівасьць. Каштуе <clr>20<clrEnd> чырвонцаў.
+- Нябожчыца <clr>жбанская мушка<clrEnd>. Падымае мужчынскую сілу да ўзроўню трэцяй сфэры чы. Адна мушка - <clr>5<clrEnd> чырвонцаў."
 "/quests/Driver.qmm/locations/163/texts/1/text"	"Знахарь протянул вам две маленькие культяпки. Обглодав обе лапки, вы ощутили лавинный прилив энергии. Голова закружилась, в глазах потемнело. Вы было начали терять сознание, но тут эффект стал спадать. Когда он совсем прекратился, вы поняли, что ваше состояние теперь гораздо лучше. Вы чувствуете себя существенно здоровее, чем раньше.
 
 - Еще что-нибудь? - спросил старик. 
@@ -1321,7 +1346,15 @@ You tried to remember what else was on the list. Something like that:
 - <clr> Hind feet of a snatcher<clrEnd>, soaked in guanawa. Skin over wounds, and help from enuresis too. <clr>30<clrEnd> platinum pieces.
 - Raw <clr>eye of an arthropod <clrEnd>. Clears the mind, gives one an enormous heart and removes all the slag from one's system, through causing strong vomit reflexes. Not recommended to sick fighters. This one is dirt-cheap - <clr>15<clrEnd> platinum pieces.
 - Frog skin <clr>stew<clrEnd>, with sour kinza sauce. Completely satiates and increases combat resistance. Costs <clr>20<clrEnd> platinum pieces.
-- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	""
+- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	"Знахар працягнуў вам два маленькія абрубкі. Абгрызшы абедзьве лапкі, вы адчулі моцны прыліў энэргіі. Галава закружылася, ў вачах пацямнела. Вы ўжо пачалі губляць прытомнасьць, але тут эфэкт пачаў спадаць. Калі ён зусім спыніўся, вы зразумелі, што ваш стан цяпер значна лепшы. Вы адчуваеце сябе істотна здаравейшым, чым раней.
+
+- Яшчэ нешта? - спытаў дзядок.
+
+Вы пачалі ўспамінаць, якія яшчэ лячэбныя сродкі ён пералічыў. Здаецца, сьпіс гучаў так:
+
+- Заднія <clr>лапкі хвачыка<clrEnd>, вымачаныя ў гуанаве. Зацягваюць раны, заадно пазбаўляючы ад энурэзу. <clr>30<clrEnd> чырвонцаў.
+- Сырое <clr>вока членістаногага<clrEnd>. Праясьняе розум і выводзіць усе адкіды зь арганізму, выклікаючы моцныя рвотныя рэфлексы. Не раіцца хворым байцам. Каштуе <clr>15<clrEnd> чырвонцаў.
+- <clr>Адвар<clrEnd> са скуры жабы, з пракіслым кінзавым соўсам. Сыціць і павышае ўстойлівасьць. За яго вазьму зусім трохі - <clr>20<clrEnd>. - Нябожчыца <clr>жбанская мушка<clrEnd>. Падымае мужчынскую сілу да ўзроўню трэцяй сфэры чы. Адна мушка - <clr>5<clrEnd> чырвонцаў."
 "/quests/Driver.qmm/locations/163/texts/2/text"	"Кустарный эскулап вытащил из большой трехлитровой банки здоровенный глаз голубоватого цвета, с которого стекала какая-то желеобразная жидкость. Недолго думая, вы взяли вышеупомянутое в руку и одним махом забросили оное в рот. Глаз во рту лопнул и горькой жидкостью растекся на языке. Вы ощутили сильное жжение, после чего заявил о себе обещанный рвотный рефлекс. Слава богу, вы успели высунуться из окна вашего грузовика...
 Очнулись вы на сиденье своего авто. В окне видна довольная рожа знахаря. Вы поднялись с кресла и ощутили невероятную бодрость, правда, теперь сильно болит голова, и кости неприятно ноют.
 
@@ -1341,7 +1374,16 @@ You tried to remember what else was on the list. Something like that:
 - <clr> Hind feet of a snatcher<clrEnd>, soaked in guanawa. Skin over wounds, and help from enuresis too. <clr>30<clrEnd> platinum pieces.
 - Raw <clr>eye of an arthropod <clrEnd>. Clears the mind, gives one an enormous heart and removes all the slag from one's system, through causing strong vomit reflexes. Not recommended to sick fighters. This one is dirt-cheap - <clr>15<clrEnd> platinum pieces.
 - Frog skin <clr>stew<clrEnd>, with sour kinza sauce. Completely satiates and increases combat resistance. Costs <clr>20<clrEnd> platinum pieces.
-- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	""
+- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	"Саматужны лекар дастаў з вялікай трохлітровай банкі вялізнае вока блакітнаватага колеру, зь якога сьцякала нейкая вадкасьць, падобная на жэле. Нядоўга думаючы, вы ўзялі вышэйзгаданае ў руку і адным махам кінулі яго ў рот. Вока ў роце лопнула і горкай вадкасьцю разьлілося на языку. Вы адчулі моцнае паленьне, пасьля чаго заявіў пра сябе абяцаны рвотны рэфлекс. Дзякуй богу, вы пасьпелі высунуцца зь акна вашага грузавіка...
+Ачомаліся вы на сядзеньні сваёй машыны. У акне відаць задаволеная морда знахара. Вы падняліся з крэсла і адчулі неверагодную бадзёрасьць, праўда, цяпер моцна баліць галава, і косткі непрыемна ныюць.
+
+- Яшчэ нешта? - спытаў дзядок.
+
+Вы пачалі ўспамінаць, якія яшчэ лячэбныя сродкі ён пералічыў. Здаецца, сьпіс гучаў так:
+
+- Заднія <clr>лапкі хвачыка<clrEnd>, вымачаныя ў гуанаве. Зацягваюць раны, заадно пазбаўляючы ад энурэзу. <clr>30<clrEnd> чырвонцаў.
+- Сырое <clr>вока членістаногага<clrEnd>. Праясьняе розум і выводзіць усе адкіды зь арганізму, выклікаючы моцныя рвотныя рэфлексы. Не раіцца хворым байцам. Каштуе <clr>15<clrEnd> чырвонцаў.
+- <clr>Адвар<clrEnd> са скуры жабы, з пракіслым кінзавым соўсам. Сыціць і павышае ўстойлівасьць. За яго вазьму зусім трохі - <clr>20<clrEnd>. - Нябожчыца <clr>жбанская мушка<clrEnd>. Падымае мужчынскую сілу да ўзроўню трэцяй сфэры чы. Адна мушка - <clr>5<clrEnd> чырвонцаў."
 "/quests/Driver.qmm/locations/163/texts/3/text"	"Отвар оказался очень густым, и пить его пришлось достаточно долго. Зато насыщал он здорово, и бодрости прибавил. 
 - Еще что-нибудь? - спросил старик.
 
@@ -1391,7 +1433,19 @@ You tried to remember what else was on the list. Something like that:
 - <clr> Hind feet of a snatcher<clrEnd>, soaked in guanawa. Skin over wounds, and help from enuresis too. <clr>30<clrEnd> platinum pieces.
 - Raw <clr>eye of an arthropod <clrEnd>. Clears the mind, gives one an enormous heart and removes all the slag from one's system, through causing strong vomit reflexes. Not recommended to sick fighters. This one is dirt-cheap - <clr>15<clrEnd> platinum pieces.
 - Frog skin <clr>stew<clrEnd>, with sour kinza sauce. Completely satiates and increases combat resistance. Costs <clr>20<clrEnd> platinum pieces.
-- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	""
+- Deceased <clr>Zhbanish fly<clrEnd>. Increases one masculine strength to the third level of chi. One fly - <clr>5<clrEnd> platinum pieces."	"Quest,Driver"	"Зьеўшы мушку, вы нічога ня адчулі.
+- Што ты мне падсунуў! - гнеўна крыкнулі вы.
+- А чаго ты хацеў, кіроўца? - адказаў знахар. - Мужчынскі бок сілы чы выяўляецца ня адразу, а ў адпаведнай абстаноўцы. Разумееш? Праўда, часам бываюць зусім бескантрольныя ўсплёскі актыўнасьці мужчынскага чы. Я думаю, гэта дух жбанскай мушкі пачынае бушаваць пры доўгай бязьдзейнасьці. Так што не гняві яго - давай выхад энэргіі, а то магчымыя непажаданыя наступствы.
+
+Што ж, гучыць пераканаўча. Засталося толькі праверыць словы знахара на практыцы.
+
+- Яшчэ нешта? - спытаў дзядок.
+
+Вы пачалі ўспамінаць, якія яшчэ лячэбныя сродкі ён пералічыў. Здаецца, сьпіс гучаў так:
+ - Заднія <clr>лапкі хвачыка<clrEnd>, вымачаныя ў гуанаве. Зацягваюць раны, заадно пазбаўляючы ад энурэзу. <clr>30<clrEnd> чырвонцаў.
+- Сырое <clr>вока членістаногага<clrEnd>. Праясьняе розум і выводзіць усе адкіды зь арганізму, выклікаючы моцныя рвотныя рэфлексы. Не раіцца хворым байцам. Каштуе <clr>15<clrEnd> чырвонцаў.
+- <clr>Адвар<clrEnd> са скуры жабы, з пракіслым кінзавым соўсам. Сыціць і павышае ўстойлівасьць. За яго вазьму зусім трохі - <clr>20<clrEnd>.
+- Нябожчыца <clr>жбанская мушка<clrEnd>. Падымае мужчынскую сілу да ўзроўню трэцяй сфэры чы. Адна мушка - <clr>5<clrEnd> чырвонцаў."
 "/quests/Driver.qmm/locations/167/texts/0/text"	"Недалеко от владений шерифа вы увидели, что две машины, стоящие поперек дороги, полностью перегородили путь. Делать нечего, пришлось остановиться. Из первой машины вылез здоровый детина в ковбойской шляпе и с пулеметом в руках. Пулемет был наведен прямо на вас, так что глупости делать не стоило. Из второй машины вышел человек в серой форме, с полосатым жезлом в руке. Подойдя к вам, он произнес: 
 - Старшина Полищук, ваши документы. И на машину тоже, пожалуйста! Так, так, страховка, доверенность... Ага!!! Когда в последний раз техосмотр проходили?! Я не знаю никаких Лу и Шурупа! По документам, вы проходили техосмотр два года назад, а сегодня уже <CurDate>! Ну что, будем платить штраф в [p37] червонцев, или поедем на штраф-стоянку?"	"Quest Driver.qmm: locations.167.texts.0.text. Preserve every <tag> exactly. English reference: Not far from the sheriff's estate you spotted two cars standing across the road and blocking it completely. Well, looks like you do not have any other choice but to stop. A huge bloke clad in a cowboy hat bearing a machine gun climbed out of the first car. The machine gun was aimed right at you so don't attempt anything stupid. From the second car there appeared a guy in blue uniform, holding a striped baton. He approached your truck and said:
 - Master Sergeant Fritzheimer, papers please. And the paper's for the truck, please! Right, insurance, power of attorney... Aha!!! When was the last time you went through a tech-inspection?! I don't know any Lou or Screw! According to your papers the last time you went through a tech-inspection was two years ago, and its <CurDate> now! So, are we paying a fine of [p37] platinum pieces, or are we going to the penalty lot?"	"Quest,Driver"	"Недалёка ад уладаньняў шэрыфа вы ўбачылі, што дзьве машыны, якія стаялі ўпоперак дарогі, цалкам перагарадзілі шлях. Нічога не зробіш, давялося спыніцца. З першай машыны выйшаў здаравяк у каўбойскім брылі і з кулямётам у руках. Кулямёт быў скіраваны проста на вас, так што дурное рабіць не варта было. З другой машыны выйшаў чалавек у шэрай форме, з паласатым жэзлам у руцэ. Падышоўшы да вас, ён сказаў:
