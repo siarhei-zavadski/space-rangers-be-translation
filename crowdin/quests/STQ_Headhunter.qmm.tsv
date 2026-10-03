@@ -1097,12 +1097,18 @@ Now it would be great if this retired gaalian wouldn't hurt you either."	"Quest,
 ""Hands up!"" you shouted. ""Higher!""
 The guards hesitated for a moment, but then complied.
 ""Throw down your weapons!"" you continued, ""And open the door.""
-When your request was fulfilled, you slowly moved toward the door, keeping the barrel of your gun pointed right at the guards. When there was less than two meters between you, one of the guards lost it and lunged at you. You were distracted for a moment and he managed to plow into you, knocking you off your feet. The pistol flew out of your hands and the second guard instantly jumped to assist his colleague. Together, they subdued you and dragged you to the security chief to figure out who you are and what they should do with you."	"Quest,STQ_Headhunter"	""
+When your request was fulfilled, you slowly moved toward the door, keeping the barrel of your gun pointed right at the guards. When there was less than two meters between you, one of the guards lost it and lunged at you. You were distracted for a moment and he managed to plow into you, knocking you off your feet. The pistol flew out of your hands and the second guard instantly jumped to assist his colleague. Together, they subdued you and dragged you to the security chief to figure out who you are and what they should do with you."	"Quest,STQ_Headhunter"	"Вы выхапілі пісталет, які раней пазычылі ў зброевай, і накіравалі яго на ахоўнікаў. Тыя нават не пасьпелі ў адказ падняць сваю зброю.
+- Падніміце рукі! — гаркнулі вы, — Вышэй!
+Ахоўнікі завагаліся на імгненьне, але потым паслухаліся.
+- Кіньце зброю! — працягнулі вы, — і адчыніце дзьверы.
+Калі патрабаваньне было выканана, вы павольна рушылі ў бок дзьвярэй, ня адводзячы ствала зброі ад аховы. Калі паміж вамі аказалася не болей за два мэтры, адзін зь ахоўнікаў не вытрываў і кінуўся ў ваш бок. Вы на імгненьне страцілі пільнасьць, і ён змог уляпіцца ў вас, зьбіўшы з ног. Пісталет вылецеў з вашай рукі, і другі ахоўнік адразу падскочыў на дапамогу калегу. Удвух яны скруцілі вас і пацягнулі да начальніка службы бясьпекі, каб разабрацца, хто вы такі і што хацелі зрабіць."
 "/quests/STQ_Headhunter.qmm/locations/113/texts/0/text"	"Вы спустились на этаж ниже и попросили первого встречного охранника провести вас к начальнику службы безопасности. Тот смерил вас подозрительным взглядом, но проводил вас до самого кабинета. 
 Майор оказался на месте, сидя за своим огромным столом и читая какие-то бумаги. Он оторвался и посмотрел на вас, когда вы вошли.
 - Что нужно? - спросил он напрямую, без лишних реверансов."	"Quest STQ_Headhunter.qmm: locations.113.texts.0.text. Preserve every <tag> exactly. English reference: You descended to the floor below and asked the first guard you met to take you to the security chief. He gave you suspicious look, but escorted you right up to the office. 
 The major was there, sitting behind his enormous table and reading some papers. He tore himself away from them to look at you when you came in.
-""What do you need?"" he asked directly, without showing any undue respect."	"Quest,STQ_Headhunter"	""
+""What do you need?"" he asked directly, without showing any undue respect."	"Quest,STQ_Headhunter"	"Вы спусьціліся на паверх ніжэй і папрасілі першага сустрэчнага ахоўніка правесьці вас да начальніка службы бясьпекі. Той зьмераў вас падазроным позіркам, але правёў вас да самага кабінэта. 
+Маёр аказаўся на месцы, седзячы за сваім вялізным сталом і чытаючы нейкія паперы. Ён адарваўся і паглядзеў на вас, калі вы ўвайшлі.
+- Што трэба? — спытаў ён проста, без лішніх паклонаў."
 "/quests/STQ_Headhunter.qmm/locations/113/texts/1/text"	"Вы в сопровождении охранников спустились на этаж ниже, прошли через турникет и завернули в дверь в правой стене коридора.
 Майор оказался на месте, сидя за своим огромным столом и читая какие-то бумаги. Он оторвался, чтобы посмотреть что происходит, когда охранники буквально втащили вас в кабинет.
 - Что нужно? - спросил он напрямую, без лишних реверансов.
@@ -1117,22 +1123,35 @@ The major was there, sitting behind his enormous table and reading some papers. 
 The major took the pistol that you used to threaten the guards, looked at its identification number, and extracted and checked the clip, which was empty, as you expected.
 ""Find out whose this is,"" he said, throwing the weapon to the guards. ""And then file a report. And who the heck is at your post if you're both here?""
 Embarrassed, the guards immediately left the room, and the maloq turned his eyes to you.
-""For some reason I knew you were going to be trouble from the moment you flew into our hangar. What do you have to say for yourself?"""	"Quest,STQ_Headhunter"	""
+""For some reason I knew you were going to be trouble from the moment you flew into our hangar. What do you have to say for yourself?"""	"Quest,STQ_Headhunter"	"Вы ў суправаджэньні ахоўнікаў спусьціліся на паверх ніжэй, прайшлі праз турнікет і завярнулі ў дзьверы ў правай сьцяне калідора.
+Маёр аказаўся на месцы, седзячы за сваім вялізным сталом і чытаючы нейкія паперы. Ён адарваўся, каб паглядзець, што адбываецца, калі ахоўнікі літаральна ўцягнулі вас у кабінэт.
+- Што трэба? — спытаў ён проста, без лішніх паклонаў.
+- Ён спрабаваў прарвацца ў кабінэт начальніка шпіталя, — даклаў адзін зь ахоўнікаў, — пагражаў зброяй.
+Маёр узяў пісталет, якім вы пагражалі ахоўнікам, паглядзеў службовы нумар, выцягнуў і праверыў абойму, якая, як вы і чакалі, аказалася пустой.
+- Высьветліце, чый гэта, — ён кінуў зброю ахоўнікам, — потым далажыце. І хто, чорт бяры, знаходзіцца на пасту, калі вы абодва тут?
+Ахоўнікі зьбянтэжыліся і адразу пакінулі памяшканьне, а малок перавёў позірк на вас.
+- Мне чамусьці адразу падалося, што ад вас будуць непрыемнасьці, варта было вам уляцець у наш ангар. Што скажаце ў сваё апраўданьне?"
 "/quests/STQ_Headhunter.qmm/locations/114/texts/0/text"	"- Об этом я буду говорить только с начальником госпиталя! - заявили вы решительно.
 - А я тебе чем не нравлюсь? - мрачно улыбнулся Угром, - лицом не вышел?
 - Простите, но это слишком важная информация, - ответили вы.
 - Тем больше у меня поводов узнать ее немедленно. Ты что, думаешь, что начальник госпиталя тут главный? Он просто официальное лицо, которое улыбается на камеру и ставит подпись на документы. А все проблемы решаю я, такая уж у меня работа. Так что либо рассказывай, в чем дело, либо мы вышвырнем тебя отсюда, не успеешь ты сказать и ""Это какая-то ошибка"", понятно?"	"Quest STQ_Headhunter.qmm: locations.114.texts.0.text. Preserve every <tag> exactly. English reference: ""I'll only speak to the hospital chief about that! you declared firmly.
 ""What? Something you don't like about me?"" asked Ugrom with a grave smile. ""Don't I have ears?""
 ""Sorry, but the information is just too important,"" you replied.
-""Even more important still is that I have reason to know immediately. What? You think the hospital chief is in charge here? He's just a figurehead who smiles for the camera and signs documents. I'm the one who decides everything. That's my job. So you can either tell me what's going on, or we'll throw you out before you can say, 'There's been a mistake!', understand?!"""	"Quest,STQ_Headhunter"	""
+""Even more important still is that I have reason to know immediately. What? You think the hospital chief is in charge here? He's just a figurehead who smiles for the camera and signs documents. I'm the one who decides everything. That's my job. So you can either tell me what's going on, or we'll throw you out before you can say, 'There's been a mistake!', understand?!"""	"Quest,STQ_Headhunter"	"- Пра гэта я буду гаварыць толькі з начальнікам шпіталя! — заявілі вы рашуча.
+- А я табе чым не падабаюся? — змрочна ўсьміхнуўся Угром, — тварам не выйшаў?
+- Прабачце, але гэта занадта важная інфармацыя, — адказалі вы.
+- Тым больш у мяне падставаў даведацца пра яе неадкладна. Ты што, думаеш, што начальнік шпіталя тут галоўны? Ён проста афіцыйная асоба, якая ўсьміхаецца на камэру і ставіць подпіс на дакумэнты. А ўсе праблемы вырашаю я, такая ўжо ў мяне праца. Так што альбо расказвай, у чым справа, альбо мы выкінем цябе адсюль, не пасьпееш ты сказаць і ""Гэта нейкая памылка"", зразумела?"
 "/quests/STQ_Headhunter.qmm/locations/114/texts/1/text"	"- У меня есть информация для начальника госпиталя, а ваши люди меня к нему не пускают!
 - Ну и правильно делают, - пожал плечами майор Угром, - нечего у него в кабинете делать посторонним. Ты что, думаешь, что начальник госпиталя тут главный? Он просто официальное лицо, которое улыбается на камеру и ставит подпись на документы. А все проблемы решаю я, такая уж у меня работа. Так что либо рассказывай, в чем дело, либо мы вышвырнем тебя отсюда, не успеешь ты сказать и ""Это какая-то ошибка"", понятно?"	"Quest STQ_Headhunter.qmm: locations.114.texts.1.text. Preserve every <tag> exactly. English reference: ""I have information for the hospital chief, but your people won't let me reach him!""
-""Just as they should,"" shrugged Major Ugrom. ""There's nothing for an outsider to do in his office. What? You think the hospital chief is in charge here? He's just a figurehead who smiles for the camera and signs documents. I'm the one who decides everything. That's my job. So you can either tell me what's going on, or we'll throw you out before you can say, 'There's been a mistake!', understand?!"""	"Quest,STQ_Headhunter"	""
+""Just as they should,"" shrugged Major Ugrom. ""There's nothing for an outsider to do in his office. What? You think the hospital chief is in charge here? He's just a figurehead who smiles for the camera and signs documents. I'm the one who decides everything. That's my job. So you can either tell me what's going on, or we'll throw you out before you can say, 'There's been a mistake!', understand?!"""	"Quest,STQ_Headhunter"	"- У мяне ёсьць інфармацыя для начальніка шпіталя, а вашыя людзі мяне да яго не пускаюць!
+- Ну і правільна робяць, — паціснуў плячыма маёр Угром, — няма чаго пабочным рабіць у ягоным кабінэце. Ты што, думаеш, што начальнік шпіталя тут галоўны? Ён проста афіцыйная асоба, якая ўсьміхаецца на камэру і ставіць подпіс на дакумэнты. А ўсе праблемы вырашаю я, такая ўжо ў мяне праца. Так што альбо расказвай, у чым справа, альбо мы выкінем цябе адсюль, не пасьпееш ты сказаць і ""Гэта нейкая памылка"", зразумела?"
 "/quests/STQ_Headhunter.qmm/locations/114/texts/2/text"	"- Очень интересно... - протянул майор, - продолжай.
 Вы глубоко выдохнули и, решившись, рассказали майору про план, которым вас озадачили на пиратской базе, и про рейнджера, и про систему вентиляции, в общем, все. Майор еще некоторое время сидел молча, когда вы закончили, но едва вы снова открыли рот, как он поднялся с места.
 - Пойдем, - он махнул вам рукой и первым двинулся к двери."	"Quest STQ_Headhunter.qmm: locations.114.texts.2.text. Preserve every <tag> exactly. English reference: ""Very interesting... replied the major. ""Continue.""
 You exhaled deeply and, having made up your mind, you told the major about the assignment you had received at the pirate base, about the ranger, about the ventilation system - in short, about everything. The major sat silently for a while after you finished, but you had hardly opened your mouth again when he got up from his seat.
-""Let's go,"" he said, waving his hand and moving toward the door."	"Quest,STQ_Headhunter"	""
+""Let's go,"" he said, waving his hand and moving toward the door."	"Quest,STQ_Headhunter"	"- Вельмі цікава... — працяжна сказаў маёр, — працягвай.
+Вы глыбока выдыхнулі і, наважыўшыся, расказалі маёру пра плян, які вам даручылі на пірацкай базе, і пра рэйнджэра, і пра сыстэму вэнтыляцыі, карацей, пра ўсё. Маёр яшчэ нейкі час сядзеў моўчкі, калі вы скончылі, але ледзь вы зноў адкрылі рот, як ён падняўся з месца.
+- Пайшлі, — ён махнуў вам рукой і першым рушыў да дзьвярэй."
 "/quests/STQ_Headhunter.qmm/locations/115/texts/0/text"	"- Ну, как хотите, - безразлично отозвался майор.
 Он нажал на кнопку связи и вызвал в кабинет парочку охранников покрепче.
 - Выбросьте его с территории госпиталя, - приказал он, когда охрана появилась в кабинете.
@@ -1143,7 +1162,12 @@ He pressed a communication button and called in a couple of even stronger guards
 ""Throw him out of the hospital,"" he ordered when the guards appeared in his office.
 You began to protest, but the guards were deaf to your pleas. The dragged you into the elevator, ignoring your attempts to break free, descended to the first level, stuffed you into your ship, which stood alone in the empty hangar. Then they wished you bon voyage.
 
-Of course, you could have incinerated them on the spot with the guns on your ship, but it seems the hangar was also furnished with a couple of stationary turrets that looked very persuasive."	"Quest,STQ_Headhunter"	""
+Of course, you could have incinerated them on the spot with the guns on your ship, but it seems the hangar was also furnished with a couple of stationary turrets that looked very persuasive."	"Quest,STQ_Headhunter"	"- Ну, як хочаце, — абыякава азваўся маёр.
+Ён націснуў кнопку сувязі і выклікаў у кабінэт пару дужэйшых ахоўнікаў.
+- Выкіньце яго з тэрыторыі шпіталя, — загадаў ён, калі ахова з'явілася ў кабінэце.
+Вы пачалі было пратэставаць, але ахоўнікі засталіся глухія да вашых просьбаў. Яны зацягнулі вас у ліфт, нягледзячы на вашыя спробы вырвацца, спусьцілі на першы ўзровень, запіхнулі ў ваш карабель, які адзінока стаяў пасярод пустога ангара, і пажадалі шчасьлівай дарогі.
+
+Вядома, вы маглі б спапяліць іх на месцы з гарматаў на вашым караблі, але, як аказалася, ў ангары таксама ёсьць пара стацыянарных турэляў, якія выглядаюць вельмі пераканаўча."
 "/quests/STQ_Headhunter.qmm/locations/117/texts/0/text"	"Вы рассказали гаальцу про пиратский план по уничтожению рейнджера, стараясь сглаживать самые щекотливые места, чтобы не нервировать старичка. Когда вы закончили, он и так покрылся какими-то подозрительными зелеными пятнами.
 - Это просто ужасно... - прошептал он, - нужно скорее рассказать об этом майору Угрому! Вы зря не пошли сразу к нему, молодой человек, это дело в его ведении.
 Он связался с майором, который тут же прибыл в сопровождении пары подручных. Они обыскали вас, а майор поднял с пола пистолет и начал его осматривать.
