@@ -1167,7 +1167,7 @@ lemma.nalivaiko	Наливайко	Nalivaiko	Налівайка/Налівайк
 lemma.shmyak	Шмяк	Shmyak	Шмяк/Шмякоўка		Citadels planet and system	Citadels.qmm
 lemma.bumburovka	Бумбуровка	Bumburovka	Бумбуроўка		home system of the Citadels	Citadels.qmm
 lemma.ragnar	Рагнар	Ragnar	Рагнар		default ranger name in the briefing	Citadels.qmm
-lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны		coined tracked gunship; hunspell has no entry	Citadels.qmm
+lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны/ховерлета		coined tracked gunship; hunspell has no entry; G ховерлета	Citadels.qmm
 lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус	струс зямлі	Starnik lemma; hunspell rejects the word	https://starnik.by/pravapis/29049
 lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў	шахтар	mine worker; Starnik spelling, hunspell rejects the forms	https://starnik.by/pravapis/84972
 lemma.adore	обожать	adore	абажаю/Абажаю/абажае		1sg of абажаць; hunspell suggestions are unrelated	https://starnik.by/pravapis/164532
@@ -1549,3 +1549,5 @@ lemma.armored_car	броневик	armored car	бранявіка		genitive; nom
 lemma.skyliner	Нюк Скайлайнер	Nuke Skyliner	Нюк/Скайлайнер		brand on the laser hilt	Stealth.qmm
 lemma.halluberry	гаалюква	halluberry	гаалюква/гаалюквы		coined berry; genitive гаалюквы	Stealth.qmm
 lemma.fradyt	фрадитам	phrodite	фрадытам		malok garble of гермафрадытам; Starnik has no entry	Stealth.qmm
+lemma.prospaau	проспа-а-а-л	overslept	праспаааў		stretched праспаў; the late peleng's excuse	Stealth.qmm
+lemma.traba	Траба	kaboom	Траба		shotgun boom in the miss joke; Starnik has no entry	Stealth.qmm
