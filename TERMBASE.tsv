@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/к
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан		game race; pl клісаны, клісанаў; instrumental клісанамі	—
+lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай		game race; pl клісаны, клісанаў; instrumental клісанамі	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -306,7 +306,7 @@ lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort de
 lemma.pension	пенсия	pension	пэнсія		2005/hunspell пэнсія (hard п). Starnik пенсія rejected; user lock э	https://starnik.by/pravapis/54858
 lemma.gaalmedok	гаалмедок	gaalhoney	гаальмэдок		maloq joke food; keep race stem гааль-	—
 lemma.narkopis	наркопись	narcossism	наркопісь		art movement on anarchic planets; ShipGreetings/138	—
-lemma.rachehan	Рачехан	Rachehan	Рачэхан/Рачэханаўны		pirate overlord; G Рачэхана; patronymic Рачэханаўна	—
+lemma.rachehan	Рачехан	Rachehan	Рачэхан/Рачэханаўны/Рачэхана		pirate overlord; G Рачэхана; patronymic Рачэханаўна	—
 lemma.tranclucator	транклюкатор	tranclucator	транклюкатар		player-owned combat robot; G транклюкатара	—
 lemma.yanvelb	янвелб	ekup	янвэлб		gaal drink; I янвэлбам; with втыкіла	—
 lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G ашмёткаў; not абломкі (generic wreckage)	—
@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр		equipment lock; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра		equipment lock; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг		QMM combat unit; hunspell gap	—
@@ -1457,7 +1457,7 @@ lemma.homespun	простецкий	homespun	прастацкі/прастацк
 lemma.khrum	Хрям-Хрум	Khram-Khrum	Храм/Хрум		coined penchekryak additive; Храм passes hunspell	Olympiada.qmm
 lemma.wild_lyakushki	лякушшек	wild lyakushki	лякушшак		doubled ш in the joke team name	Olympiada.qmm
 lemma.lioni	Лиони	Lioni	Ліоні		crewman on the captured ship	Kidnapped.qmm
-lemma.triclop	Триклоп	Triclop	Трыклоп		crewman on the captured ship	Kidnapped.qmm
+lemma.triclop	Триклоп	Triclop	Трыклоп/Трыклопа		crewman on the captured ship	Kidnapped.qmm
 lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла/Вёрслам		genitive in the chance counter	Kidnapped.qmm
 lemma.bargam	Баргам	Bargam	Баргам/Баргама/Баргамам		quest-giver; G Баргама	Kidnapped.qmm
 lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма/Махсімам		kept the х of the source name	Kidnapped.qmm
@@ -1469,13 +1469,13 @@ lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom
 lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай		author of the lockpicking book	Kidnapped.qmm
 lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
-lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары		crawling machine	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі		crawling machine	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
 lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
 lemma.erok	Эрок	Erok	Эрок/Эрока/Эрокам		pirate; I Эрокам	Kidnapped.qmm
 lemma.brega	Брего	Brego	Брэга		cabin boy; indeclinable in the source	Kidnapped.qmm
-lemma.tsvaga	Цвага	Tsvaga	Цвага/Цвагай/Цвагу		pirate	Kidnapped.qmm
+lemma.tsvaga	Цвага	Tsvaga	Цвага/Цвагай/Цвагу/Цвагі		pirate	Kidnapped.qmm
 lemma.felix	Феликс	Felix	Фэлікс/Фэлікса/Фэліксам		second pilot	Kidnapped.qmm
 lemma.baldha	балдха	baldha	балдха		coined peleng insult, kept as a token	Kidnapped.qmm
 lemma.asivas	Асивас	Asivas	Асівас/асівас		jacket brand	Kidnapped.qmm
@@ -1486,3 +1486,9 @@ lemma.naa_vi	На'а-Ви	Na'a-Vi	На'а/Ві		team name split by the hyphen	Ki
 lemma.nanoscheme	наносхема	nanoscheme	нанасхемы/нанасхемаў		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
 lemma.shvoks	Швокс	Shvoks	Швокс		Dzhuhallag agent	Kidnapped.qmm
 lemma.mantoli	Мантоли	Mantoli	Мантолі		ship the pilot used to fly	Kidnapped.qmm
+lemma.joystick	джойстик	joystick	джойстык/джойстыку	джойсцік	control stick; L джойстыку; hunspell suggestions are unrelated	https://starnik.by/pravapis/22537
+lemma.asyan	Асьян	Asyan	Асьяна		gaal medic's home planet	Kidnapped.qmm
+lemma.valentine	Валентайн	Valentine	Валентайна		author of the lockpicking booklet	Kidnapped.qmm
+lemma.kuvrilov	Куврилов	Kuvrilov	Куврылава		voice on the pirate film copy	Kidnapped.qmm
+lemma.tariks	Тарикс	Tariks	Тарыкс/Тарыкса		servant who shows the guest a cabin	Kidnapped.qmm
+lemma.loor_tafi	Лоор-Тафи	Loor-Tafi	Лоорам/Тафі		gaal doctor named by Triclop	Kidnapped.qmm
