@@ -137,7 +137,7 @@ lemma.appear	появиться	appear	з'явіцца/з'явілася/з'яв
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
-lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам		proper name lock; G Келлера; series келероід	—
+lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам/келероід/келероіды		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
@@ -1012,7 +1012,7 @@ lemma.alioth	Алиот	Alioth	Аліот		star name; hunspell splits it	Borzukh
 lemma.rastaban	Растабан	Rastaban	Растабан		star name	Borzukhan.qmm
 lemma.linux_planet	Линукс	Linux	Лінукс		joke planet; hunspell suggests Лінус	Borzukhan.qmm
 lemma.rambo	Джон Рембо	John Rambo	Рэмба		ranger name; hunspell maps to Рэмбрант	Borzukhan.qmm
-lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам		handheld stun weapon; hunspell maps to сканэр	Borzukhan.qmm
+lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам/станэраў		handheld stun weapon; hunspell maps to сканэр	Borzukhan.qmm
 lemma.lvpb	ЛВПБ	CRLG	ЛВПБ		sniper rifle code on the Baron2 HUD	STQ_Baron2.qmm
 lemma.boog	буг	boog	буг		cargo unit; hunspell suggestions are unrelated	STQ_Baron2.qmm
 lemma.kinetator	кинетатор	kinetisizer	кінетатар/кінетатара		coined charge device; hunspell maps it to a cinema	STQ_Baron2.qmm
@@ -1469,9 +1469,9 @@ lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom
 lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай		author of the lockpicking book	Kidnapped.qmm
 lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
-lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў		crawling machine	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары		crawling machine	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
-lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся		garbled bottle brand, kept byte-identical	Kidnapped.qmm
+lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
 lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
 lemma.erok	Эрок	Erok	Эрок/Эрока/Эрокам		pirate; I Эрокам	Kidnapped.qmm
 lemma.brega	Брего	Brego	Брэга		cabin boy; indeclinable in the source	Kidnapped.qmm
@@ -1485,3 +1485,4 @@ lemma.mercine	мерцин	mercine	мэрцын/мэрцыну	мерцын	game
 lemma.naa_vi	На'а-Ви	Na'a-Vi	На'а/Ві		team name split by the hyphen	Kidnapped.qmm
 lemma.nanoscheme	наносхема	nanoscheme	нанасхемы/нанасхемаў		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
 lemma.shvoks	Швокс	Shvoks	Швокс		Dzhuhallag agent	Kidnapped.qmm
+lemma.mantoli	Мантоли	Mantoli	Мантолі		ship the pilot used to fly	Kidnapped.qmm
