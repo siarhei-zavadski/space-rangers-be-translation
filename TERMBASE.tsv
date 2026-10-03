@@ -810,7 +810,7 @@ lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцам
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
 lemma.glamigida	гламигида	glamigida	Гламігіда/Пхэдокску		fried frog in the Phedok style	Photorobot.qmm
-lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана/ііке/баан/бааны/баанамі/баану		gaal flower dessert; Pizza cooking school	Photorobot.qmm
+lemma.iike	Иике-Баана	Iike-Baana	Ііке/Баана/ііке/баан/бааны/баанамі/баану/Бааны		gaal flower dessert; Pizza cooking school	Photorobot.qmm
 lemma.svarokok	сварокок	svarokok	сваракока		chocolate paws	Photorobot.qmm
 lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/оннарайкі		blue pineapple; one farm	Photorobot.qmm
 lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
@@ -1196,7 +1196,7 @@ lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэ�
 lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
 lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
 lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр/гіпэры	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
-lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
+lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі/Галяктычнага	галактыка	hunspell аканьне; Starnik lists галактыка	https://starnik.by/pravapis/17562
 lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
 lemma.maxiphone	максифон	maxiphone	максіфон		stage mic the crowd can sing into	Muzon.qmm
@@ -1419,8 +1419,8 @@ lemma.vivisek	Вивисек	Vivisec	Вівісек		coined star	Olympiada.qmm
 lemma.energin	энергин	energin	энэргін/Энэргін/энэргіну		coined stimulant	Olympiada.qmm
 lemma.buffer	буфер	buffer	буфэр/буфэра	буфер	generation buffer; Starnik буфер, hunspell буфэр	https://starnik.by/pravapis/12219
 lemma.prize_cut	проп	drank-away cutoff	прап		speaker cuts off прапілі	Olympiada.qmm
-lemma.energosculpt	энерголепка	energy modelling	Энэргалепка		coined sport; energy sculpting	Olympiada.qmm
-lemma.encyclopedica	энциклопедика	encyclopedica	Энцыкляпэдыка		coined quiz sport	Olympiada.qmm
+lemma.energosculpt	энерголепка	energy modelling	Энэргалепка/энэргалепка/энэргалепкі/энэргалепцы		coined sport; energy sculpting	Olympiada.qmm
+lemma.encyclopedica	энциклопедика	encyclopedica	Энцыкляпэдыка/энцыкляпэдыка/Энцыкляпэдыкі/Энцыкляпэдыцы		coined quiz sport	Olympiada.qmm
 lemma.gravibot	гравибот	graviboat	гравібот/Гравібот		drink-serving bot	Olympiada.qmm
 lemma.jacuzzi	джакузи	jacuzzi	джакузі		swamp training bath; hunspell has no entry	https://starnik.by/pravapis/22524
 lemma.airbus	аэробус	airbus	аэробус/аэробуса/аэробусе/аэробусаў	аэрабус	Starnik аэробус; hunspell agrees	https://starnik.by/pravapis/8264
@@ -1434,7 +1434,20 @@ lemma.khomyachkov	Хомячков	Khomyachkov	Хамячкоў/Хамячков
 lemma.loshadkin	Лошадкин	Loshadkin	Лашадкін/Лашадкіна		lame-peleng sculpture	Olympiada.qmm
 lemma.hoptsa	гопца-дрица	hop-tsa	гопца/дрыца/ца		drinking-song refrain	Olympiada.qmm
 lemma.nyam	мням	nom	мням		drunk mumble	Olympiada.qmm
-lemma.shmyakush	Шмякуш	Shmyakush	Шмякуш/Шмякушы		swamp-game day; not the Citadels planet Шмяк	Olympiada.qmm
+lemma.shmyakush	Шмякуш	Shmyakush	Шмякуш/Шмякушы/Шмякуша		swamp-game day; not the Citadels planet Шмяк	Olympiada.qmm
 lemma.tatami	татамі	tatami	татамі		indeclinable wrestling mat	https://starnik.by/pravapis/74995
 lemma.cryon	крион	cryon	крыён/крыёнавымі		coined energy-sculpting material	Olympiada.qmm
 lemma.guava	гуанава	guava	гуаява/гуаявы		quiz fruit; hunspell has no entry	https://starnik.by/pravapis/21031
+lemma.marathon	марафон	marathon	маратон/Маратон/маратону	марафон	hunspell spelling; Starnik марафон	https://starnik.by/pravapis/41747
+lemma.megapolis	мегаполис	megapolis	мегаполіс/мегаполіса		hunspell has no entry	https://starnik.by/pravapis/42532
+lemma.layman	обыватель	layman	абывацель/абывацелю	абываталь	Starnik sense; hunspell suggests an unrelated word	https://starnik.by/pravapis/1178
+lemma.prism_paradise	Призмовый рай	Prism paradise	Прызмавы		hotel name	Olympiada.qmm
+lemma.rartan	Рартан	Rartan	Рартан/рартанскай		malok wrestling hero	Olympiada.qmm
+lemma.chvaher	Чвахер	Chvakher	Чвахер/Чвахеру		monument; not the guide Цвачак	Olympiada.qmm
+lemma.aquadan	аквадан	aquadan	Акваданскі/акваданавымі		neon color and Repin epithet	Olympiada.qmm
+lemma.samimurakami	Самимураками	Samimurakami	Самімуракамі		encyclopedist; Самі passes hunspell	Olympiada.qmm
+lemma.traceography	следография	traceography	сьледаграфія/сьледаграфіяй		coined art	Olympiada.qmm
+lemma.chemoreactive	химореактивная	chemoreactive	хімарэактыўная		coined poetry genre	Olympiada.qmm
+lemma.cyborgodrome	киборгодром	cyborgodrome	кібаргадром/Кібаргадром		marathon robot sport	Olympiada.qmm
+lemma.airclub	воздуходубина	air club	паветрадубіна/паветрадубіны/Паветрадубіны/паветрадубінамі		marathon air-club sport	Olympiada.qmm
+lemma.plasmapen	плазморучка	plasma pen	плязморучка/плязморучку		coined glowing pen	Olympiada.qmm
