@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -870,7 +870,7 @@ lemma.petrykivka	петриковский	Petrykivka	петрыкаўскі		fol
 lemma.zhvirklats	Жвырклац	Zhvirklats	Жвырклац/жвырклац/жвырклацы/жвырклацаў/жвырклаца/Жвырклаца/жвырклацамі		peleng show-ballet at the palace	Pizza.qmm
 lemma.virgin	девственница	virgin	нявінніца/нявінніцы		the ballet's virgin	https://starnik.by/pravapis/49087
 lemma.tequila	текилла	tequila	тэкіла	тэкінка	drink; hunspell suggestion is nonsense	https://starnik.by/pravapis/76889
-lemma.xenomorph	ксеноморф	xenomorph	ксэнаморф/Ксэнаморф/ксэнаморфа/ксэнаморфу/ксэнаморфаў/ксэнаморфам/ксэнаморфамі/ксэнаморфах		park beast; loan	Xenopark.qmm
+lemma.xenomorph	ксеноморф	xenomorph	ксэнаморф/Ксэнаморф/ксэнаморфа/ксэнаморфу/ксэнаморфаў/ксэнаморфам/ксэнаморфамі/ксэнаморфах/ксэнаморфы		park beast; loan	Xenopark.qmm
 lemma.xenopark	ксенопарк	xenopark	ксэнапарк/ксэнапарку/ксэнапарка/Ксэнапарк/ксэ/ксэнапаркаў		the zoo of alien beasts	Xenopark.qmm
 lemma.habbat	хаббат	habbath	хаббат/Хаббат/хаббаты/хаббата/Хаббаты/хаббатам		big beast from Taboth	Xenopark.qmm
 lemma.tabot	Табот	Taboth	Табот/Табоце/Табота		planet of the big habbath	Xenopark.qmm
@@ -1357,7 +1357,7 @@ lemma.bioreactor	биореактор	bioreactor	біярэактар/Біярэ
 lemma.adchynisya	откройся	open up	адчыніся		imperative of адчыніцца; hunspell lacks the form	https://starnik.by/pravapis/169075
 lemma.turnip_letter	Ц	Ts	Ц		turnip-gate jump; the clue selects this letter	Feipsycho.qmm
 lemma.adyn_shifrin	Адын Шифрин	Adyn Shifrin	Адын/Шыфрын		cipher patient; Адын stays the one-cipher pun	Feipsycho.qmm
-lemma.argkh	Аргх	Argkh	Аргх		malok firefighter patient	Feipsycho.qmm
+lemma.argkh	Аргх	Argkh	Аргх/аргх		malok firefighter patient	Feipsycho.qmm
 lemma.shpryukhen	Шпрюххен Зю-Чихпых	Shpryukhen Zyu-Chikhpykh	Шпрюхэн/Зю/Чыхпых		peleng math teacher	Feipsycho.qmm
 lemma.paci_naci	Паци-Наци	Paci-Naci	Пацы-Нацы		pacifist and nazi subpersonalities	Feipsycho.qmm
 lemma.abatch	А-Батч	A-Batch	Батч/інфэрнэтнік		distorted internet-user; language-norm patient	Feipsycho.qmm
@@ -1365,3 +1365,5 @@ lemma.bolf_an	Болф-Ан	Bolf-An	Болф		faeyan gambler	Feipsycho.qmm
 lemma.turnip_cast	Дедка	turnip cast	Дедка/Внучка/Репка		turnip-gate names; initials stay so the letter jumps still match	Feipsycho.qmm
 lemma.cthulhu	Ктулху	Cthulhu	Абыр/Ктулху/Пх/вгах/кю/льех/мглв/нагл/нафх/нглуи/фхтагн		incantation kept byte-identical	Feipsycho.qmm
 lemma.android	андроид	android	андроід/андроіду		humanoid robot; D андроіду; monument	https://starnik.by/pravapis/4739
+lemma.lytdybr	Шо за лытдыбр	what is this longread	Шо/лытдыбр		shout kept byte-identical	Feipsycho.qmm
+lemma.faeyan_crack	ФэянТреск	Faeyan crack	ФэянТрэск		elastic-glass brand on the ward window	Feipsycho.qmm
