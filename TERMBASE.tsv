@@ -1563,7 +1563,7 @@ lemma.hatcher	хэчер	hatcher	хэчэр/хэчэра/хэчэры/хэчэр
 lemma.patcher	пач-кер	patcher	пачкер		coined program; one token so пач and кер stay unlisted	Forum.qmm
 lemma.ubil	Убил	Ubil	Убіл		indeclinable given name	Forum.qmm
 lemma.gaids	Гайдс	Gaids	Гайдс/Гайдса/Гайдсаў/Гайдсам		G Гайдса	Forum.qmm
-lemma.tsodkom	ЦОД-КОМ	data center	ЦОД-КОМ/ЦОД-КОМА		facility name; exact capitals	Forum.qmm
+lemma.tsodkom	ЦОД-КОМ	data center	ЦОД-КОМ/ЦОД-КОМА/ЦОД-КОМа		facility name; exact capitals	Forum.qmm
 lemma.superserver	сверхсервер	superserver	звышсэрвэр/звышсэрвэры/звышсэрвэраў/звышсэрвэру/звышсэрвэрам	звышсервер	hunspell сэрвэр; Starnik lists сервер	Forum.qmm
 lemma.quasineural	квазинейронный	quasi-neural	квазінейронным/квазі		квазі is a Starnik prefix; the adjective is one token	Forum.qmm
 lemma.graviflyer	гравифлаер	graviflyer	гравіфлаеры/гравіфлаерамі		municipal flyer	Forum.qmm
@@ -1574,3 +1574,5 @@ lemma.mana_crystal	манаимпульсный	mana-impulse	манаімпул�
 lemma.surovite	сурововец	Surovy's man	суроваўцам		follower of Суровы	Forum.qmm
 lemma.neuro	Нейро	Neuro	Нэйра	Нейро	indeclinable nickname of one Ubil Gaids	Forum.qmm
 lemma.patsak	пацак	peleng slang	пацак		peleng address; also in Script	Forum.qmm
+lemma.sentey	Сентей	Sentey	Сэнтэй		guard named by a colleague	Forum.qmm
+lemma.superduper	супер-пупер	super-duper	супэрпупер	супер-пупер	one token so the hyphen does not split	Forum.qmm
