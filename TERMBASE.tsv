@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай		game race; pl клісаны, клісанаў; instrumental клісанамі	—
@@ -137,7 +137,7 @@ lemma.appear	появиться	appear	з'явіцца/з'явілася/з'яв
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
-lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам/келероід/келероіды		proper name lock; G Келлера; series келероід	—
+lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам/келероід/келероіды/келероідным		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам		peleng clerical rank used before a name	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай		peleng clerical rank used before a name	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч		software patch	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -1016,7 +1016,7 @@ lemma.stunner	станнер	stunner	станэр/Станэр/станэра/с
 lemma.lvpb	ЛВПБ	CRLG	ЛВПБ		sniper rifle code on the Baron2 HUD	STQ_Baron2.qmm
 lemma.boog	буг	boog	буг		cargo unit; hunspell suggestions are unrelated	STQ_Baron2.qmm
 lemma.kinetator	кинетатор	kinetisizer	кінетатар/кінетатара		coined charge device; hunspell maps it to a cinema	STQ_Baron2.qmm
-lemma.nyru	ныря	nyru	ныра/ныру/ныры/ныраў		space rodent on the pirate base; hunspell maps the name elsewhere	STQ_Baron2.qmm
+lemma.nyru	ныря	nyru	ныра/ныру/ныры/ныраў/Ныра/Ныры		space rodent on the pirate base; hunspell maps the name elsewhere	STQ_Baron2.qmm
 lemma.jumpmeter	Джамперметр	Jumpmeter	Джампэрмэтар/Джампэрмэтра/Джампэрмэтрам		transporter jump device; hunspell maps it to an ammeter	STQ_Baron2.qmm
 lemma.grabitization	прихватизация	expropriation	прыхватызацыі	прыватызацыі	joke blend of grabbing and privatization; hunspell drops the pun	STQ_Baron2.qmm
 lemma.san_holo	Сан Холо	San Holo	Сан/Сана/Хола		the name shouted at the suppressor; hunspell maps Сана elsewhere	STQ_Baron2.qmm
@@ -1093,7 +1093,7 @@ lemma.coraller	Кораллер	Coraller	Каралер	Каралаў	coral isl
 lemma.bachekvak	Бачеквак	Bachekvak	Бачэквак/Бачэквака		peleng name on the coffin	Tourists.qmm
 lemma.shasapus	Шасапус	Shasapus	Шасапус/Шасапуса		peleng commander	Tourists.qmm
 lemma.urgarrar	Ургаррар	Urgarrar	Ургаррар/Ургаррара		bambay and council candidate	Tourists.qmm
-lemma.bambay	бамбай	bambay	бамбай/бамбая/бамбаю		peleng rank before a name	Tourists.qmm
+lemma.bambay	бамбай	bambay	бамбай/бамбая/бамбаю/бамбаяў		peleng rank before a name	Tourists.qmm
 lemma.pda	КПК	PDA	КПК		pocket computer; Cyrillic acronym stays	Tourists.qmm
 lemma.bridgephobia	мостофобия	bridge phobia	мостафобія	фобія мастоў	coined fear after the labyrinth	Tourists.qmm
 lemma.corridorphobia	коридофобия	corridor phobia	калідорафобія	фобія калідораў	coined fear after the labyrinth	Tourists.qmm
@@ -1268,7 +1268,7 @@ lemma.pandora	Пандора	Pandora	Пандора		destination planet	Gluki.qm
 lemma.govorun	Говорун	Talker	Гаварун/гаваруна		blue bird companion	Gluki.qmm
 lemma.txreagent	тх-реагент	indifferent reagent	тх		synthesizer label	Gluki.qmm
 lemma.intercom	интерком	intercom	інтэркам/інтэркаме		ship comm device	Gluki.qmm
-lemma.galanet	Галонет	Galonet	Галянэт/Галянэце		galaxy network	Gluki.qmm
+lemma.galanet	Галонет	Galonet	Галянэт/Галянэце/Галянэту		galaxy network	Gluki.qmm
 lemma.crocadine	крока-дин	crocadine	крокадын/крокадына		malok beast	Gluki.qmm
 lemma.txmodel	ТХ-8.0	synthesizer model	ТХ		model mark; keep with 8.0	Gluki.qmm
 lemma.yo_to	Ыо-то	ancient Gaal letter	Ыо		letter name; keep hyphenated Ыо-то	Gluki.qmm
@@ -1457,7 +1457,7 @@ lemma.homespun	простецкий	homespun	прастацкі/прастацк
 lemma.khrum	Хрям-Хрум	Khram-Khrum	Храм/Хрум		coined penchekryak additive; Храм passes hunspell	Olympiada.qmm
 lemma.wild_lyakushki	лякушшек	wild lyakushki	лякушшак		doubled ш in the joke team name	Olympiada.qmm
 lemma.lioni	Лиони	Lioni	Ліоні		crewman on the captured ship	Kidnapped.qmm
-lemma.triclop	Триклоп	Triclop	Трыклоп/Трыклопа		crewman on the captured ship	Kidnapped.qmm
+lemma.triclop	Триклоп	Triclop	Трыклоп/Трыклопа/Трыклопам		crewman on the captured ship	Kidnapped.qmm
 lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла/Вёрслам/Вёрслу		genitive in the chance counter; D Вёрслу	Kidnapped.qmm
 lemma.bargam	Баргам	Bargam	Баргам/Баргама/Баргамам		quest-giver; G Баргама	Kidnapped.qmm
 lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма/Махсімам		kept the х of the source name	Kidnapped.qmm
@@ -1472,18 +1472,18 @@ lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
 lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі/дэканструктарам/Дэканструктары		crawling machine; I дэканструктарам	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
-lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
+lemma.sonar	сонар	sonar	санар/санара/санарам/санарны/санарная	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
 lemma.erok	Эрок	Erok	Эрок/Эрока/Эрокам		pirate; I Эрокам	Kidnapped.qmm
 lemma.brega	Брего	Brego	Брэга		cabin boy; indeclinable in the source	Kidnapped.qmm
 lemma.tsvaga	Цвага	Tsvaga	Цвага/Цвагай/Цвагу/Цвагі		pirate	Kidnapped.qmm
 lemma.felix	Феликс	Felix	Фэлікс/Фэлікса/Фэліксам		second pilot	Kidnapped.qmm
-lemma.baldha	балдха	baldha	балдха		coined peleng insult, kept as a token	Kidnapped.qmm
+lemma.baldha	балдха	baldha	балдха/балдханогія		coined peleng insult, kept as a token	Kidnapped.qmm
 lemma.asivas	Асивас	Asivas	Асівас/асівас		jacket brand	Kidnapped.qmm
 lemma.ornioli	Орниоли	Ornioli	Арніолі		person named in a button; not Орлиони	Kidnapped.qmm
 lemma.tauhito	Таухито	Tauhito	Таўхіто		hull name already used in HullType	HullType.tsv
 lemma.mercine	мерцин	mercine	мэрцын/мэрцыну	мерцын	game mineral; G мэрцыну already in Reward.9	Reward.tsv
 lemma.naa_vi	На'а-Ви	Na'a-Vi	На'а/Ві		team name split by the hyphen	Kidnapped.qmm
-lemma.nanoscheme	наносхема	nanoscheme	нанасхемы/нанасхемаў		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
+lemma.nanoscheme	наносхема	nanoscheme	нанасхемы/нанасхемаў/нанасхему		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
 lemma.shvoks	Швокс	Shvoks	Швокс		Dzhuhallag agent	Kidnapped.qmm
 lemma.mantoli	Мантоли	Mantoli	Мантолі		ship the pilot used to fly	Kidnapped.qmm
 lemma.joystick	джойстик	joystick	джойстык/джойстыку	джойсцік	control stick; L джойстыку; hunspell suggestions are unrelated	https://starnik.by/pravapis/22537
@@ -1496,13 +1496,23 @@ lemma.dzu	Дзу	Dzu	Дзу/дзухі		speaker cuts off Дзухаллаг; plu
 lemma.dronz	Дронз	Dronze	Дронз		micromodule; the name stays Дронз	MicroModuls.tsv
 lemma.forcer	Форсер	Forcer	Форсэр		micromodule name	MicroModuls.tsv
 lemma.glep	глэп	glep	Глэп/глэпу		pirate narcotic; nominative already in Megatest	Kidnapped.qmm
-lemma.jogan	джоган	jogan	джоганы/галатамайскія/джоганаў/галатамайскіх		coined fei snack and its Galatama adjective	Kidnapped.qmm
+lemma.jogan	джоган	jogan	джоганы/галатамайскія/джоганаў/галатамайскіх/Галатамайскія/джоганамі		coined fei snack and its Galatama adjective	Kidnapped.qmm
 lemma.aabis	Аабисс	Aabis	Аабіс		Gaaldok statue; the local word means самаадданы	Kidnapped.qmm
 lemma.gambit_break	га-ам'бит	gambit stutter	амбіт		spoken break of гамбіт; the hyphen splits the token	Kidnapped.qmm
-lemma.kortzin	кортзин	kortzin	кортзін/кортзіну		coined mineral left in the ground	Kidnapped.qmm
+lemma.kortzin	кортзин	kortzin	кортзін/кортзіну/Кортзін		coined mineral left in the ground	Kidnapped.qmm
 lemma.clan	клан	clan	клан/Клан/Клану/Кланам	клян	pirate Clan; Starnik clan, not the maple клян	https://starnik.by/pravapis/35824
 lemma.dread	Дред Неумолимый	Dread the Relentless	Дрэд/Дрэда		Versl's teacher; the epithet Няўмольны passes hunspell	Kidnapped.qmm
 lemma.apchkhan	Апч'хан Ядохвост	Apch'khan	Апч'хан/Ядахвост		hunter; compound like Starnik вастрахвосты, tail is хвост	Kidnapped.qmm
 lemma.flenky	Флэнки Тим	Flenky Tim	Флэнкі		dead pirate named by Lioni; Тым passes hunspell	Kidnapped.qmm
 lemma.inklada	Инклада	Inklada	Інклада		homeworld of the phantom Ornioli	Kidnapped.qmm
 lemma.necril	некрил	necril	некрыл/некрылу		coined metal of the cargo coins	Kidnapped.qmm
+lemma.geshy	Гешши	Geshy	Гешші		peleng planet	PlanetName.tsv
+lemma.valuykh	Валуйх	Valuykh	Валуйх/Валуйха		peleng planet; G Валуйха	PlanetName.tsv
+lemma.norhberch	Норхберч	Norhberch	Норхберч		peleng vandal	Kidnapped.qmm
+lemma.vinerhan	Винерхан	Vinerkhan	Вінерхан		peleng vandal	Kidnapped.qmm
+lemma.itsuken	Йцукен	Itsuken	Йцукен/Йцукенам		peleng lyakusha Ческа; I Йцукенам; not Йцукенбэрг	Kidnapped.qmm
+lemma.kuchkhum	Кучхум	Kuchkhum	Кучхум/Кучхума		pirate band leader; G Кучхума	Kidnapped.qmm
+lemma.pozhirak	Пожирак	Pozhirak	Пожырак/пожык/пожыка		pirate food brand	Kidnapped.qmm
+lemma.akabos	акабосс	akabos	акабос/акабосы/акабосу		race; one с, as already shipped in Script	Kidnapped.qmm
+lemma.pafihist	пофигист	couldn't-care-less type	пафігіст/пафігістам	паліграфіст	Starnik sense; hunspell maps the word to a typographer	https://starnik.by/pravapis/54346
+lemma.sibolusovt	сибулосовт	sibolusovt	сібулосаўт/сібулосаўты		coined peleng insult	Kidnapped.qmm
