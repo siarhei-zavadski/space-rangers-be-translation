@@ -116,7 +116,7 @@ The bodyguards took you by the arms, and solemnly carried your desperately jerki
 "/quests/Banket.qmm/parameters/19/name"	"Дисцил"	"Quest Banket.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Discil"	"Quest,Banket"	"Дысцыл"
 "/quests/Banket.qmm/parameters/19/lines/0/content"	"Параметр номер 20: <>"	"Quest Banket.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 20: <>"	"Quest,Banket"	"Парамэтар нумар 20: <>"
 "/quests/Banket.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Banket.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 20"
-"/quests/Banket.qmm/parameters/20/name"	"хухмель"	"Quest Banket.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: hukhmel"	"Quest,Banket"	"хухмель"
+"/quests/Banket.qmm/parameters/20/name"	"хухмель"	"Quest Banket.qmm: parameters.20.name. Preserve every <tag> exactly. English reference: hukhmel"	"Quest,Banket"	""
 "/quests/Banket.qmm/parameters/20/lines/0/content"	"Параметр номер 21: <>"	"Quest Banket.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 21: <>"	"Quest,Banket"	"Парамэтар нумар 21: <>"
 "/quests/Banket.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Banket.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 21"
 "/quests/Banket.qmm/parameters/21/name"	"репузатор"	"Quest Banket.qmm: parameters.21.name. Preserve every <tag> exactly. English reference: repusator"	"Quest,Banket"	"рэпузатар"
@@ -125,7 +125,7 @@ The bodyguards took you by the arms, and solemnly carried your desperately jerki
 "/quests/Banket.qmm/parameters/22/name"	"вода"	"Quest Banket.qmm: parameters.22.name. Preserve every <tag> exactly. English reference: water"	"Quest,Banket"	"вада"
 "/quests/Banket.qmm/parameters/22/lines/0/content"	"Параметр номер 23: <>"	"Quest Banket.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly. English reference: Parameter N 23: <>"	"Quest,Banket"	"Парамэтар нумар 23: <>"
 "/quests/Banket.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Banket.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Banket"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 23"
-"/quests/Banket.qmm/toplanet"	"Радушная"	"Quest Banket.qmm: toplanet. Preserve every <tag> exactly. English reference: Cordial"	"Quest,Banket"	"Радушная"
+"/quests/Banket.qmm/toplanet"	"Радушная"	"Quest Banket.qmm: toplanet. Preserve every <tag> exactly. English reference: Cordial"	"Quest,Banket"	""
 "/quests/Banket.qmm/ranger"	"Лизоблюд"	"Quest Banket.qmm: ranger. Preserve every <tag> exactly. English reference: Foot-licker"	"Quest,Banket"	"Лізаблюд"
 "/quests/Banket.qmm/success_text"	"Замечательная работа, <Ranger>! Мы уже получили уведомление о скором визите малокских дипломатов, подготовка к торжественному приему идет полным ходом. Вы честно отработали свои <Money> cr, которые, кстати, уже переведены на ваш счет.
 
