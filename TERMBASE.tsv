@@ -261,7 +261,7 @@ lemma.parsec	парсек	parsec	парсэк	парсек	already FormRuins WB;
 lemma.instructor	инструктор	instructor	інструктар		tutorial Script MS_Begin; G інструктара	hunspell-be-tarask
 lemma.spaceport	космопорт	spaceport	касмапорт		already GovGreetings; L касмапорце	hunspell-be-tarask
 lemma.micromodule	микромодуль	micromodule	мікрамодуль		already FormRuins RC; G мікрамодуля pl мікрамодулі	—
-lemma.noob	салага	noob	салага		pirate starting rank; G салагі, already PC_part0	—
+lemma.noob	салага	noob	салага/салагі		pirate starting rank; G and N pl салагі	—
 lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr> as nominative	—
 lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
@@ -282,7 +282,7 @@ lemma.uminski	Умински	Uminski	Умінскі		PC_pla15 cameraman; tarask 
 lemma.spielberg_parody	Шпильберг	Spielberg	Шпільбэрг		PC_pla15 clapper intern parody; G Шпільбэрга	—
 lemma.yomahak	Йомахак	Yomahak	Йомахак		PC_pla15 maloq critic; keep	—
 lemma.clapperboard	хлопушка	clapperboard	хлапушка		film slate; PC_pla15	—
-lemma.vtikila	втыкилла	vtikila	втыкіла		maloq drink; already PC_part0; G втыкілы, I втыкілай	—
+lemma.vtikila	втыкилла	vtikila	втыкіла/втыкілу/втыкілы/втыкілай		maloq drink; A втыкілу G втыкілы I втыкілай	—
 lemma.vrotmnevolos	Вротмневолос	Vrotmnevolos	Вротмневолас		PC_pla11 allergy pet joke; keep recognizable	—
 lemma.crab_eye	Око краба	Crab's Eye	Вока краба		PC_pla21 amulet; quoted	—
 lemma.gamedevs	Геймдевелоперы зари	Gamedevelopers of Dawn	Геймдэвэлепэры зары		PC_pla21 mock order; Вярхоўны Геймдэвэлепэр	—
@@ -1101,7 +1101,7 @@ lemma.hexagon	Гексагон	Hexagon	Гексагон/Гексагону	Ге�
 lemma.mengele	Менгеле	Mengele	Мэнгэле	Мэгрэле	the doctors the faeyans are compared to	Tourists.qmm
 lemma.popcorn	попкорн	popcorn	папкорн		snack the tourists chew on the bridge	https://starnik.by/pravapis/52746
 lemma.stereocamera	стереокамера	stereocamera	стэрэакамэра/стэрэакамэры	стэрэа камэра	peleng cameras; hunspell splits the compound	Tourists.qmm
-lemma.hussein	Хуссейн	Hussein	Хусейн/Хусейна	Хусэйн	dictator in the desert name; G Хусейна	https://starnik.by/pravapis/91248
+lemma.hussein	Хуссейн	Hussein	Хусейн/Хусейна/Хусейну/Хусейнам	Хусэйн	dictator in the desert name; G Хусейна D Хусейну I Хусейнам	https://starnik.by/pravapis/91248
 lemma.technico	Технико	Technico	Тэхніко	Тэхніка	star system name	Gaidnet.qmm
 lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сіліконавая	hunspell сыліконавы; silicone planet	https://starnik.by/pravapis/149650
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
@@ -1326,7 +1326,7 @@ lemma.barryha	Баррыха	Barrack	Баррыха		malok sergeant	Election.qmm
 lemma.hashishkhan	ГашишХан	Hash Khan	Гашышхан/Гашышхана		lyakusha sect leader	Election.qmm
 lemma.zamo_chu	Замо Чу	Kill Young	Замо/Чу		malok campaign aide	Election.qmm
 lemma.tall_mud	Талл Муд	Tall Mud	Талл/Муд/Муду		faeyan journalist, title од-далані	Election.qmm
-lemma.terror_act	теракт	terror act	тэракт		hunspell lacks the lemma	https://starnik.by/pravapis/77225
+lemma.terror_act	теракт	terror act	тэракт/тэрактаў		hunspell lacks the lemma; G pl тэрактаў	https://starnik.by/pravapis/77225
 lemma.logic	логика	logic	лёгіка/лёгікі/лягічнасьць	логіка	hunspell spelling	https://starnik.by/pravapis/39939
 lemma.declaration	декларация	declaration	дэклярацыя/дэклярацыю/дэклярацыі	дэкларацыя	tax return; hunspell spelling	https://starnik.by/pravapis/24800
 lemma.bicycle	велосипед	bicycle	ровар	веласіпед	Belarusian noun	https://starnik.by/pravapis/64697
@@ -1343,3 +1343,5 @@ lemma.linch	Линч	Linch	Лінч/Лінча/Лінчам		first president of 
 lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам		xenopark beast; clay belly	Drugs.qmm
 lemma.clone	клонирование	cloning	клянаваньне/клянаваньня	кланаваньне	hunspell spelling; Starnik кланаванне	https://starnik.by/pravapis/35825
 lemma.udu_shill	Уду-Шилл	Strangl Lee	Уду/Шыл		peleng aide; English pun on strangle	Election.qmm
+lemma.masochist	мазохист	masochist	мазахіст/Мазахістаў/мазахістаў		hunspell lacks the lemma; mega-masochist sect	https://starnik.by/pravapis/40810
+lemma.aipentack	Эйпентакский	Aipentack	Эйпэнтак/Эйпэнтацкім		elite faeyan university	Election.qmm
