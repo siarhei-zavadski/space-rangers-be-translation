@@ -1565,7 +1565,7 @@ lemma.ubil	Убил	Ubil	Убіл		indeclinable given name	Forum.qmm
 lemma.gaids	Гайдс	Gaids	Гайдс/Гайдса/Гайдсаў/Гайдсам		G Гайдса	Forum.qmm
 lemma.tsodkom	ЦОД-КОМ	data center	ЦОД-КОМ/ЦОД-КОМА/ЦОД-КОМа		facility name; exact capitals	Forum.qmm
 lemma.superserver	сверхсервер	superserver	звышсэрвэр/звышсэрвэры/звышсэрвэраў/звышсэрвэру/звышсэрвэрам/Звышсэрвэр/звышсэрвэрах	звышсервер	hunspell сэрвэр; Starnik lists сервер	Forum.qmm
-lemma.quasineural	квазинейронный	quasi-neural	квазінейронным/квазі		квазі is a Starnik prefix; the adjective is one token	Forum.qmm
+lemma.quasineural	квазинейронный	quasi-neural	квазінейронным/квазі/квазінейронныя		квазі is a Starnik prefix; the adjective is one token	Forum.qmm
 lemma.graviflyer	гравифлаер	graviflyer	гравіфлаеры/гравіфлаерамі		municipal flyer	Forum.qmm
 lemma.technoman	техноман	technoman	тэхнаман		tech-obsessed person	Forum.qmm
 lemma.rubik	рубик	rubik	рубікам/рубіка		cube-with-a-rubik joke	Forum.qmm
@@ -1577,3 +1577,5 @@ lemma.patsak	пацак	peleng slang	пацак		peleng address; also in Script	
 lemma.sentey	Сентей	Sentey	Сэнтэй		guard named by a colleague	Forum.qmm
 lemma.superduper	супер-пупер	super-duper	супэрпупер	супер-пупер	one token so the hyphen does not split	Forum.qmm
 lemma.sveylon	Свейлон	sveylon	сьвейлонавая/Сьвейлонавая		coined fiber of the rosary thread	Forum.qmm
+lemma.pachejack	пачеджек	pachejack	пачэджэк/пачэджэка		coined peleng card game that met poker	Forum.qmm
+lemma.halophone	галофон	halophone	галафон		coined contact device	Forum.qmm
