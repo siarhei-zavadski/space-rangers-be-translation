@@ -432,7 +432,7 @@ lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
 lemma.streemers	Стрямеры	Streemers	Стрямеры		keep in <clr>; magazine Стрямъ-коммерсантъ keep ъ	—
 lemma.oveon	овеон	oveon	авеон		gaal ship type KillShip/15	—
-lemma.hatchball	хэчбол	hatchball	хэчбол/хэчбольны/хэчболу/хэчболе/хэчбольным/хэчбольнага		sport; keep loan	—
+lemma.hatchball	хэчбол	hatchball	хэчбол/хэчбольны/хэчболу/хэчболе/хэчбольным/хэчбольнага/хэчбольныя/хэчбольных		sport; keep loan	—
 lemma.don_pelengone	Дон Пеленгоне	Don Pelengone	Дон Пеленгоне		peleng premier; E-бабкі cards	—
 lemma.bail_gan	Бейл Ган	Bail Gan	Бейл Ган		keep in <clr>; faeyan hacker	—
 lemma.malokosoft	Малокософт	Malokosoft	Малокософт/Малокософта		quoted malok software firm	—
@@ -1421,5 +1421,16 @@ lemma.buffer	буфер	buffer	буфэр/буфэра	буфер	generation buf
 lemma.prize_cut	проп	drank-away cutoff	прап		speaker cuts off прапілі	Olympiada.qmm
 lemma.energosculpt	энерголепка	energy modelling	Энэргалепка		coined sport; energy sculpting	Olympiada.qmm
 lemma.encyclopedica	энциклопедика	encyclopedica	Энцыкляпэдыка		coined quiz sport	Olympiada.qmm
-lemma.gravibot	гравибот	graviboat	гравібот		drink-serving bot	Olympiada.qmm
+lemma.gravibot	гравибот	graviboat	гравібот/Гравібот		drink-serving bot	Olympiada.qmm
 lemma.jacuzzi	джакузи	jacuzzi	джакузі		swamp training bath; hunspell has no entry	https://starnik.by/pravapis/22524
+lemma.airbus	аэробус	airbus	аэробус/аэробуса/аэробусе	аэрабус	Starnik аэробус; hunspell agrees	https://starnik.by/pravapis/8264
+lemma.ticket_taker	билетер	ticket-taker	білетэр	білецёр	Starnik sense білецёр; hunspell spelling wins	https://starnik.by/pravapis/10392
+lemma.tachyon	тахион	tachyon	тахіён/тахіённым	тахін	hunspell suggestion is a different word	https://starnik.by/pravapis/75089
+lemma.galatea	Галатея	Galatea	Галятэя		sculpture with a tachyon chisel	Olympiada.qmm
+lemma.tsvachak	Цвачек	Tsvachek	Цвачак		training-hall guide	Olympiada.qmm
+lemma.aikanaut	Айканаут	Aikanaut	Айканаут		faeyan experimenter	Olympiada.qmm
+lemma.shmygin	Шмыгин	Shmygin	Шмыгін/Шмыгіна		insolent-malok sculpture	Olympiada.qmm
+lemma.khomyachkov	Хомячков	Khomyachkov	Хамячкоў/Хамячкова		lame-peleng sculpture	Olympiada.qmm
+lemma.loshadkin	Лошадкин	Loshadkin	Лашадкін/Лашадкіна		lame-peleng sculpture	Olympiada.qmm
+lemma.hoptsa	гопца-дрица	hop-tsa	гопца/дрыца/ца		drinking-song refrain	Olympiada.qmm
+lemma.nyam	мням	nom	мням		drunk mumble	Olympiada.qmm
