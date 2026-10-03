@@ -1284,8 +1284,41 @@ Fixes in 0.9.9:
 - When a player had already seen the ranger he didn't eavesdrop on the conversation when changing the light bulb.
 - Now a player can leave the ventilation shaft to return to level 3.
 - Now the ranger can go into the private ward after playing the dice game, saying that he has come to repair the ventilation system.
-- Now a player receives the doctor's and worker's key cards as soon as he changes clothing."	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/119/texts/0/text"	"Вы снова пролезли через аварийный люк и оказались в зале, где с момента вашего ухода ничего не изменилось"	"Quest STQ_Headhunter.qmm: locations.119.texts.0.text. Preserve every <tag> exactly. English reference: Once again you crawled through the escape hatch and found yourself in the room. Nothing had changed since you left."	"Quest,STQ_Headhunter"	""
+- Now a player receives the doctor's and worker's key cards as soon as he changes clothing."	"Quest,STQ_Headhunter"	"Выпраўленьні да 0.9.14:
+- Выпраўленае апісаньне пры наведваньні зброевай.
+- Выпраўленая чарговасьць некаторых пераходаў
+- Скараціў працэс язды на ліфце
+- Цяпер гулец, які на пачатку заданьня пакідае кабінэт лекара ў касьцюме рэйнджэра, трапляецца ахове, і тыя вядуць яго да Угрома
+
+Выпраўленьні да 0.9.13:
+- Цяпер можна пайсьці да начальніка станцыі адразу пасьля таго, як вы праверыце рэйнджэра
+- Цяпер можна пагражаць ахоўнікам на 4 узроўні пісталетам да таго, як гулец праверыць рэйнджэра (гэта вядзе да сьмерці альбо да страты карткі ахоўніка і пісталета)
+
+Выпраўленьні да 0.9.12:
+- Выпраўленая памылка, калі нельга адысьці ад буфэта пасьля таго, як гулец перабраў усе пераходы
+- Цяпер не трэба пасьля кожнага дзеяньня ў буфэце зноў у яго вяртацца
+- Выпраўленыя некаторыя апісаньні
+- Выпраўленая чарговасьць пераходаў у некаторых месцах
+
+Выпраўленьні да 0.9.11:
+- Выпраўленыя апісаньні ў кабінэце лекара.
+- Выпраўленая памылка са зьнікненьнем тэксту пры праслухоўваньні кабінэта Угрома
+- Выпраўленае апісаньне парамэтра 9
+
+Выпраўленьні 0.9.10:
+- Выпраўленая памылка з пераходам пры працэдуры замены лямпачкі ў агульнай палаце
+- Зьменены характар дзяжурнага лекара
+- Дададзеная магчымасьць, знаходзячыся ў касьцюме рэйнджэра, узяць доктарскі халат у кабінэце дзяжурнага лекара
+
+
+Выпраўленьні 0.9.9:
+- Выпраўленыя апісаньні ў агульнай палаце
+- Выпраўленыя апісаньні на 3 паверсе
+- Калі гулец ужо бачыў рэйнджэра пры замене лямпы, ён не падслухоўвае размову
+- Цяпер гулец можа выходзіць з вэнтыляцыйнага тунэля назад на 3 узровень
+- Цяпер рэйнджэр пасьля гульні ў косьці можа прайсьці ў асобную палату, сказаўшы, што прыйшоў рамантаваць вэнтыляцыю
+- Цяпер гулец атрымлівае ключ-карткі лекара і рабочага адразу, як пераапранецца"
+"/quests/STQ_Headhunter.qmm/locations/119/texts/0/text"	"Вы снова пролезли через аварийный люк и оказались в зале, где с момента вашего ухода ничего не изменилось"	"Quest STQ_Headhunter.qmm: locations.119.texts.0.text. Preserve every <tag> exactly. English reference: Once again you crawled through the escape hatch and found yourself in the room. Nothing had changed since you left."	"Quest,STQ_Headhunter"	"Вы зноў пралезьлі праз аварыйны люк і апынуліся ў залі, дзе з моманту вашага адыходу нічога не зьмянілася"
 "/quests/STQ_Headhunter.qmm/locations/120/texts/0/text"	"Вы в кабинете дежурного врача. Внутри тихо и спокойно, все блестит чистотой, в одном углу находится медицинская койка, в другом - письменный стол. В углу возле входа висит белый докторский халат.
 Сам доктор отлучился, вероятно, совершает обход пациентов."	"Quest STQ_Headhunter.qmm: locations.120.texts.0.text. Preserve every <tag> exactly. English reference: You are in the office of the doctor on duty. Everything is quiet and calm in here. Everything radiates cleanliness. In one corner there is a medical bed, and in the other - a writing table. A white doctor's coat is hanging in the corner near the entrance.
 The doctor himself has gone out, probably to make a round of the patients."	"Quest,STQ_Headhunter"	""
