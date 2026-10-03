@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -1130,7 +1130,7 @@ lemma.enemy_hud	БП	enemy ammo	БП/РП/ТП		short HUD labels; initials still
 lemma.terminator	Терминатор	Terminator	Тэрмінатар		quest NPC; Starnik sense is the day-night line, same loanword spelling	https://starnik.by/pravapis/77352
 lemma.jaklo	Жакло	Jaklo	Жакло		fighter name; English joke is a different name	Robots.qmm
 lemma.kaakdam	КаакДам	Kaakdam	КаакДам/КаакДама/КаакДамам		fighter name token	Robots.qmm
-lemma.dzen	Дзен	Dzen	Дзэн	Дзен	fighter name; Zen pun stays the Russian name	Robots.qmm
+lemma.dzen	Дзен	Dzen	Дзэн/Дзэна	Дзен	fighter name and Olympiada clerk; Zen pun; G Дзэна	Robots.qmm
 lemma.kachan	Кочан	Kochan	Качан/Качана/Качанам	Кочан	cabbage pun in the fighter name	Robots.qmm
 lemma.sylvester	Сильвестр	Silvester	Сыльвэстар/Сыльвэстрам/Сыльвэстра	Сільвестр	Steel Silvester; hunspell suggestions are other words	Robots.qmm
 lemma.battlemech	БаттлМех	BattleMech	БатлМэх/БатлМэха/БатлМэхам/БатлМэху/БатлМэхах	БаттлМех	combat robot class	Robots.qmm
@@ -1410,3 +1410,12 @@ lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/т�
 lemma.sergeant	сержант	sergeant	сяржант/сяржанта		army rank	https://starnik.by/pravapis/74298
 lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
 lemma.belucian	белуцианский	Belucian	белуцыянскага/белуцыянскі		coined lemon	Pilot.qmm
+lemma.coach	тренер	coach	трэнэр/трэнэра/трэнэрам	трэнер	nominative follows hunspell; Starnik lemma is трэнер; PlanetQuest already has instrumental трэнэрам	https://starnik.by/pravapis/76295
+lemma.ashot	Ашот	Ashot	Ашот/Ашота		clerk; Armenian name	Olympiada.qmm
+lemma.bibik	Бибик	Bibik	Бібік/Бібіка		clerk	Olympiada.qmm
+lemma.vychet	Вычет	Vychet	Вылік/Выліка	Выліку	deduction pun; person G is animate Выліка, the noun is G выліку	https://starnik.by/pravapis/16039
+lemma.gomer	Гомэр	Gomer	Гомэр/Гомэра		clerk; source already spells э	Olympiada.qmm
+lemma.vivisek	Вивисек	Vivisec	Вівісек		coined star	Olympiada.qmm
+lemma.energin	энергин	energin	энэргін/Энэргін/энэргіну		coined stimulant	Olympiada.qmm
+lemma.buffer	буфер	buffer	буфэр/буфэра	буфер	generation buffer; Starnik буфер, hunspell буфэр	https://starnik.by/pravapis/12219
+lemma.prize_cut	проп	drank-away cutoff	прап		speaker cuts off прапілі	Olympiada.qmm
