@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі/рэйнджэрскіх		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -120,7 +120,7 @@ lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/к
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/дроідамі		N pl дроіды; Gpl дроідаў; I pl дроідамі; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
-lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка		game race; pl клісаны, клісанаў; instrumental клісанамі; song клісанка	—
+lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую		game race; pl клісаны, клісанаў; instrumental клісанамі; song клісанка	—
 lemma.makhpella	Махпелла	Makhpella	Махпэла		proper name; Махпэлы, Махпэлу, Махпэлай; pl Махпэлы, Махпэлаў	—
 lemma.pirate	пират	pirate	пірат		already in UI; pl піраты, піратаў	—
 lemma.warrior	воин	warrior	воін		already in FormGameSet2	—
@@ -826,7 +826,7 @@ lemma.icecream	мороженое	ice cream	марозіва/Марозіва		h
 lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае/вегетарыянцамі		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты/нанаэлемэнтаў		spelling follows мікраэлемэнты; G pl нанаэлемэнтаў	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
-lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
+lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок/Гаалдока		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
 lemma.tattoo	татуировка	tattoo	татуіроўка/татуіроўкі/татуіроўку/татуіроўцы	таніроўкі	hunspell suggestion is the wrong sense	https://starnik.by/pravapis/75008
 lemma.photofit	фоторобот	photofit	фотаробат/фотаробата/фотаробаце		already PlanetQuest genre фотаробата	Photorobot.qmm
@@ -1585,3 +1585,6 @@ lemma.khmelev	Хмелев	Khmelev	Хмялёў/Хмялёва	Хмелев	huma
 lemma.leevi	Лееви-таан	Leevi-taan	Лееві/таан/таана		coined gaal judge	Leonardo.qmm
 lemma.satimov	Сатимов	Satimov	Сацімаў/Сацімава		human judge	Leonardo.qmm
 lemma.bugarra	Б'Угарра	B'Ugarra	Б'Угарра/Б'Угарры		coined maloq judge; apostrophe is ASCII	Leonardo.qmm
+lemma.aztoy	ацтойский	Aztoy	ацтойскага		coined ancient culture	Leonardo.qmm
+lemma.antaclaus	Анта-Клаус	Anta Claus	Анта/Клауса		coined ancient idol; hyphen splits	Leonardo.qmm
+lemma.stals	Сталс	Stals	Сталс		coined ancient aircraft	Leonardo.qmm
