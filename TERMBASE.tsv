@@ -175,7 +175,7 @@ lemma.military_base	военная база	military base	вайсковая б�
 lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
 lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
 lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
-lemma.maneuver	маневр	maneuver	манеўр/манеўруючы		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
 lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
@@ -192,7 +192,7 @@ lemma.dominion	доминион	dominion	дамініён		pirate CB station; al
 lemma.consul	консул	consul	консул		People diplomat hull	hunspell-be-tarask
 lemma.corsair	корсар	corsair	карсар	корсар	sea robber + pirate hull (Starnik). G карсара; already FormGameSet2	https://starnik.by/pravapis/34073
 lemma.order	орден	order	ордэн		award badge (Starnik 1), not monastic order. G ордэна	https://starnik.by/pravapis/49646
-lemma.medal	медаль	medal	мэдаль		award disc. G мэдаля; hunspell/tarask э	https://starnik.by/pravapis/42570
+lemma.medal	медаль	medal	мэдаль/мэдалях		award disc. G мэдаля; hunspell/tarask э	https://starnik.by/pravapis/42570
 lemma.pennant	вымпел	pennant	вымпел		narrow flag / metal token	https://starnik.by/pravapis/16132
 lemma.badge_plate	бляха	badge plate	бляха		metal ID plate (Starnik 2), not sheet iron	https://starnik.by/pravapis/11029
 lemma.commendation	грамота	commendation	грамата		honor document (Starnik 2). D/L грамаце	https://starnik.by/pravapis/20572
@@ -692,7 +692,7 @@ lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from коран
 lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
-lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў/пэнчэкряк		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
+lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў/пэнчэкряк/пэнчэкрякскімі/пэнчэкрякскія		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
 lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/Квакажабры/квакажабры		slot reel; akanie	Park.qmm
 lemma.khokhlach	Хохлач	Khokhlach	Хахлач/Хахлачы/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
 lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
@@ -1106,7 +1106,7 @@ lemma.technico	Технико	Technico	Тэхніко	Тэхніка	star system
 lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сіліконавая	hunspell сыліконавы; silicone planet	https://starnik.by/pravapis/149650
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
 lemma.ambush_star	Засадная	Ambush	Засадная		star name, feminine of засада	https://starnik.by/pravapis/27696
-lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту	ГайдНет	internal network name	Gaidnet.qmm
+lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту/ГайдНэце	ГайдНет	internal network name	Gaidnet.qmm
 lemma.hacker	хакер	hacker	хакер/хакера	гакер	G хакера	https://starnik.by/pravapis/81345
 lemma.shocker	шокер	shocker	шокер/шокерам	шокэр	stun gun; I шокерам	https://starnik.by/pravapis/85477
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
@@ -1406,9 +1406,9 @@ lemma.gabanyashka	габаняшка	gabanyashka	габаняшка/габаня
 lemma.karamarta	карамарта	karamarta	карамарта/карамарты		coined salty syrup source	Pilot.qmm
 lemma.pilot_shop	ассортимент магазина	shop table	ДВИГАТЕЛИ/БАКИ/объем/цена/ГЕНЕРАТОРЫ/мощность		ASCII shop table kept byte-identical	Pilot.qmm
 lemma.super_bug	супербукашка	superbug joke	суперновы/супербіяхімічны/супербукашак		Bigbuba cuts off the science act	Pilot.qmm
-lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/трэнажора/трэнажорам	трэнажэр	exam and cargo simulator	https://starnik.by/pravapis/76292
+lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/трэнажора/трэнажорам/трэнажорах	трэнажэр	exam and cargo simulator	https://starnik.by/pravapis/76292
 lemma.sergeant	сержант	sergeant	сяржант/сяржанта		army rank	https://starnik.by/pravapis/74298
-lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
+lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным/галяграму	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
 lemma.belucian	белуцианский	Belucian	белуцыянскага/белуцыянскі		coined lemon	Pilot.qmm
 lemma.coach	тренер	coach	трэнэр/трэнэра/трэнэрам	трэнер	nominative follows hunspell; Starnik lemma is трэнер; PlanetQuest already has instrumental трэнэрам	https://starnik.by/pravapis/76295
 lemma.ashot	Ашот	Ashot	Ашот/Ашота		clerk; Armenian name	Olympiada.qmm
@@ -1419,3 +1419,7 @@ lemma.vivisek	Вивисек	Vivisec	Вівісек		coined star	Olympiada.qmm
 lemma.energin	энергин	energin	энэргін/Энэргін/энэргіну		coined stimulant	Olympiada.qmm
 lemma.buffer	буфер	buffer	буфэр/буфэра	буфер	generation buffer; Starnik буфер, hunspell буфэр	https://starnik.by/pravapis/12219
 lemma.prize_cut	проп	drank-away cutoff	прап		speaker cuts off прапілі	Olympiada.qmm
+lemma.energosculpt	энерголепка	energy modelling	Энэргалепка		coined sport; energy sculpting	Olympiada.qmm
+lemma.encyclopedica	энциклопедика	encyclopedica	Энцыкляпэдыка		coined quiz sport	Olympiada.qmm
+lemma.gravibot	гравибот	graviboat	гравібот		drink-serving bot	Olympiada.qmm
+lemma.jacuzzi	джакузи	jacuzzi	джакузі		swamp training bath; hunspell has no entry	https://starnik.by/pravapis/22524
