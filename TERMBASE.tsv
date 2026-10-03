@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду		N pl дроіды; Gpl дроідаў; cleaner droids in the arena	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан		game race; pl клісаны, клісанаў; instrumental клісанамі	—
@@ -137,7 +137,7 @@ lemma.appear	появиться	appear	з'явіцца/з'явілася		user l
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
-lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў		proper name lock; G Келлера; series келероід	—
+lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам		proper name lock; G Келлера; series келероід	—
 lemma.terron	Террон	Terron	Террон/Терронскага		proper name lock; series тераноід	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
@@ -1408,7 +1408,7 @@ lemma.pilot_shop	ассортимент магазина	shop table	ДВИГАТ
 lemma.super_bug	супербукашка	superbug joke	суперновы/супербіяхімічны/супербукашак		Bigbuba cuts off the science act	Pilot.qmm
 lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/трэнажора/трэнажорам/трэнажорах	трэнажэр	exam and cargo simulator	https://starnik.by/pravapis/76292
 lemma.sergeant	сержант	sergeant	сяржант/сяржанта		army rank	https://starnik.by/pravapis/74298
-lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным/галяграму	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
+lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным/галяграму/галяграмы	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
 lemma.belucian	белуцианский	Belucian	белуцыянскага/белуцыянскі		coined lemon	Pilot.qmm
 lemma.coach	тренер	coach	трэнэр/трэнэра/трэнэрам	трэнер	nominative follows hunspell; Starnik lemma is трэнер; PlanetQuest already has instrumental трэнэрам	https://starnik.by/pravapis/76295
 lemma.ashot	Ашот	Ashot	Ашот/Ашота		clerk; Armenian name	Olympiada.qmm
@@ -1458,18 +1458,29 @@ lemma.khrum	Хрям-Хрум	Khram-Khrum	Храм/Хрум		coined penchekryak 
 lemma.wild_lyakushki	лякушшек	wild lyakushki	лякушшак		doubled ш in the joke team name	Olympiada.qmm
 lemma.lioni	Лиони	Lioni	Ліоні		crewman on the captured ship	Kidnapped.qmm
 lemma.triclop	Триклоп	Triclop	Трыклоп		crewman on the captured ship	Kidnapped.qmm
-lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла		genitive in the chance counter	Kidnapped.qmm
-lemma.bargam	Баргам	Bargam	Баргам/Баргама		quest-giver; G Баргама	Kidnapped.qmm
-lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма		kept the х of the source name	Kidnapped.qmm
+lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла/Вёрслам		genitive in the chance counter	Kidnapped.qmm
+lemma.bargam	Баргам	Bargam	Баргам/Баргама/Баргамам		quest-giver; G Баргама	Kidnapped.qmm
+lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма/Махсімам		kept the х of the source name	Kidnapped.qmm
 lemma.barney_bucks	Барни Бакс	Barney Bucks	Барні		Бакс passes hunspell	Kidnapped.qmm
 lemma.orlioni	Орлиони	Orlioni	Арліоні		phantom name	Kidnapped.qmm
-lemma.tisanush	Тисануш	Tisanush	Цісануш		hostile on the ship	Kidnapped.qmm
-lemma.kashkel	Кашкель	Kashkel	Кашкэль		status lines; the panel name Какшель uses the same person	Kidnapped.qmm
+lemma.tisanush	Тисануш	Tisanush	Цісануш/Цісанушам/Цісануша		hostile on the ship	Kidnapped.qmm
+lemma.kashkel	Кашкель	Kashkel	Кашкэль/Кашкэлем/Кашкэля		status lines; the panel name Какшель uses the same person	Kidnapped.qmm
 lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom	Kidnapped.qmm
-lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы		author of the lockpicking book	Kidnapped.qmm
+lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай		author of the lockpicking book	Kidnapped.qmm
 lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
-lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар		crawling machine	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў		crawling machine	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся		garbled bottle brand, kept byte-identical	Kidnapped.qmm
-lemma.sonar	сонар	sonar	санар/санара	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
+lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
+lemma.erok	Эрок	Erok	Эрок/Эрока/Эрокам		pirate; I Эрокам	Kidnapped.qmm
+lemma.brega	Брего	Brego	Брэга		cabin boy; indeclinable in the source	Kidnapped.qmm
+lemma.tsvaga	Цвага	Tsvaga	Цвага/Цвагай/Цвагу		pirate	Kidnapped.qmm
+lemma.felix	Феликс	Felix	Фэлікс/Фэлікса/Фэліксам		second pilot	Kidnapped.qmm
+lemma.baldha	балдха	baldha	балдха		coined peleng insult, kept as a token	Kidnapped.qmm
+lemma.asivas	Асивас	Asivas	Асівас		jacket brand	Kidnapped.qmm
+lemma.ornioli	Орниоли	Ornioli	Арніолі		person named in a button; not Орлиони	Kidnapped.qmm
+lemma.tauhito	Таухито	Tauhito	Таўхіто		hull name already used in HullType	HullType.tsv
+lemma.mercine	мерцин	mercine	мэрцын/мэрцыну	мерцын	game mineral; G мэрцыну already in Reward.9	Reward.tsv
+lemma.naa_vi	На'а-Ви	Na'a-Vi	На'а/Ві		team name split by the hyphen	Kidnapped.qmm
+lemma.nanoscheme	наносхема	nanoscheme	нанасхемы		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
