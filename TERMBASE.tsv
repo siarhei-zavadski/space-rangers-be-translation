@@ -351,7 +351,7 @@ lemma.rakushka	Ракушка	Shell	Ракушка		oil company; G Ракушк�
 lemma.john_ryan	Джон Энсон Раян	John Enson Ryan	Джон Энсан Раян		terminator; Орленон hometown	—
 lemma.longnose	долгоносик	longnose droid	доўганосік		heavy assault droid class; pl доўганосікі	—
 lemma.sphere_anomaly	Сфера	Sphere	Сфэра		quoted anti-grav meteor; RobotsMap/68	—
-lemma.svarakok	сварокок	swarokok	сваракок		invented critter; already Talk/map 43	—
+lemma.svarakok	сварокок	swarokok	сваракок/сваракокам		invented critter; already Talk/map 43	—
 lemma.red_hatchets	Красные топоры	Red Hatchets	Чырвоныя тапары		maloq squad; G Чырвоных тапароў; map 54 already	—
 lemma.glukwein	глюквейн	mulled wine	глюквэйн		gaal drink; G глюквэйна; with янвэлб	—
 lemma.chahara	чахара	chakhara	чахара		intoxicant in gamma-bar; G чахары	—
@@ -871,7 +871,7 @@ lemma.zhvirklats	Жвырклац	Zhvirklats	Жвырклац/жвырклац/�
 lemma.virgin	девственница	virgin	нявінніца/нявінніцы		the ballet's virgin	https://starnik.by/pravapis/49087
 lemma.tequila	текилла	tequila	тэкіла	тэкінка	drink; hunspell suggestion is nonsense	https://starnik.by/pravapis/76889
 lemma.xenomorph	ксеноморф	xenomorph	ксэнаморф/Ксэнаморф/ксэнаморфа/ксэнаморфу/ксэнаморфаў/ксэнаморфам/ксэнаморфамі/ксэнаморфах		park beast; loan	Xenopark.qmm
-lemma.xenopark	ксенопарк	xenopark	ксэнапарк/ксэнапарку/ксэнапарка/Ксэнапарк/ксэ		the zoo of alien beasts	Xenopark.qmm
+lemma.xenopark	ксенопарк	xenopark	ксэнапарк/ксэнапарку/ксэнапарка/Ксэнапарк/ксэ/ксэнапаркаў		the zoo of alien beasts	Xenopark.qmm
 lemma.habbat	хаббат	habbath	хаббат/Хаббат/хаббаты/хаббата/Хаббаты/хаббатам		big beast from Taboth	Xenopark.qmm
 lemma.tabot	Табот	Taboth	Табот/Табоце/Табота		planet of the big habbath	Xenopark.qmm
 lemma.chvak	Чвак	Chvack	Чвак/Чваку		planet of the swamp zhvirklats	Xenopark.qmm
@@ -1340,3 +1340,4 @@ lemma.cheer	болеть за команду	cheer	заўзець/заўзелі
 lemma.jim_hakker	Джим Хаккер	Jim Hakker	Джым/Хакер		computer-games journalist	Election.qmm
 lemma.noo_pasaran	Ноо Пасаран	Noo Pasaran	Ноо/Пасаран		gaal professor; pun on No pasarán	Election.qmm
 lemma.linch	Линч	Linch	Лінч/Лінча/Лінчам		first president of the election planet	Election.qmm
+lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам		xenopark beast; clay belly	Drugs.qmm
