@@ -175,7 +175,7 @@ lemma.military_base	военная база	military base	вайсковая б�
 lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
 lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
 lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
-lemma.maneuver	маневр	maneuver	манеўр		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.maneuver	маневр	maneuver	манеўр/манеўруючы		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
 lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
@@ -1363,3 +1363,5 @@ lemma.paci_naci	Паци-Наци	Paci-Naci	Пацы-Нацы		pacifist and nazi
 lemma.abatch	А-Батч	A-Batch	Батч/інфэрнэтнік		distorted internet-user; language-norm patient	Feipsycho.qmm
 lemma.bolf_an	Болф-Ан	Bolf-An	Болф		faeyan gambler	Feipsycho.qmm
 lemma.turnip_cast	Дедка	turnip cast	Дедка/Внучка/Репка		turnip-gate names; initials stay so the letter jumps still match	Feipsycho.qmm
+lemma.cthulhu	Ктулху	Cthulhu	Абыр/Ктулху/Пх/вгах/кю/льех/мглв/нагл/нафх/нглуи/фхтагн		incantation kept byte-identical	Feipsycho.qmm
+lemma.android	андроид	android	андроід/андроіду		humanoid robot; D андроіду; monument	https://starnik.by/pravapis/4739
