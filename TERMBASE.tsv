@@ -824,7 +824,7 @@ lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
 lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае/вегетарыянцамі		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
-lemma.nano	наноэлемент	nanoelement	нанаэлемэнты		spelling follows мікраэлемэнты	Photorobot.qmm
+lemma.nano	наноэлемент	nanoelement	нанаэлемэнты/нанаэлемэнтаў		spelling follows мікраэлемэнты; G pl нанаэлемэнтаў	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
 lemma.heh	хех	heh	хэх		faeyan chuckle; hunspell suggestions are other interjections	Photorobot.qmm
@@ -1548,3 +1548,4 @@ lemma.tally_kh	хх	tally marks	хх/ххх/хххх/ххххх		Cyrillic х ite
 lemma.armored_car	броневик	armored car	бранявіка		genitive; nominative бранявік passes hunspell	Stealth.qmm
 lemma.skyliner	Нюк Скайлайнер	Nuke Skyliner	Нюк/Скайлайнер		brand on the laser hilt	Stealth.qmm
 lemma.halluberry	гаалюква	halluberry	гаалюква/гаалюквы		coined berry; genitive гаалюквы	Stealth.qmm
+lemma.fradyt	фрадитам	phrodite	фрадытам		malok garble of гермафрадытам; Starnik has no entry	Stealth.qmm
