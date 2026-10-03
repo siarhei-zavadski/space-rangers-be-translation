@@ -1021,70 +1021,70 @@ You seem to gain some of Bugbubba's respect. Keep it up!"	"Quest,Pilot"	""
 
 -This is what I dislike journalists for - you always poke your nose into other people's business! Though you are excellent company!"	"Quest,Pilot"	""
 "/quests/Pilot.qmm/locations/47/texts/6/text"	"Вы представились Бигбубе военным журналистом. В виде доказательства вы рассказали о паре битв, в которых вы сами принимали участие. Получилось довольно достоверно. При этом вы небрежно бросались именами самых знаменитых малокских генералов, с которыми вы якобы поддерживали дружеские отношения и у которых не раз брали интервью. Вы достигли своей цели: через полчаса огромная малокская женщина смотрела на вас так, как будто вы были на метр ее выше. Не стоит останавливаться на достигнутом, пора делать следующий шаг!"	"Quest Pilot.qmm: locations.47.texts.6.text. Preserve every <tag> exactly. English reference: You introduced yourself to Bugbubba as a military journalist. To prove it you told her about a couple of fights you took part in. It sounded rather veracious. You also mentioned casually the names of the most famous generals who you allegedly were on friendly terms with and interviewed not once. Your words achieved their objective: in half an hour the huge Maloq female was looking at you as if you were one meter higher than she was. Don't stop at what has been accomplished, make the next step!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/0/text"	"Идти в кабинет №1"	"Quest Pilot.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Go to room №1"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/1/text"	"Идти в кабинет №3"	"Quest Pilot.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Go to Room №3"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/2/text"	"Идти в кабинет №2"	"Quest Pilot.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Go to Room №2"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/3/text"	"Я весь внимание, сделаю что могу"	"Quest Pilot.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: I'm all ears and will do my best"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/4/text"	"Да, плевое дело, не впервой!"	"Quest Pilot.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: It's a doddle, I know what to do!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/5/text"	"Нет, я не спец по этой части"	"Quest Pilot.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: No, I'm not an expert in this"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/6/text"	"Обратиться по имени ко второй"	"Quest Pilot.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: Talk female 2 and mention her name"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/0/text"	"Идти в кабинет №1"	"Quest Pilot.qmm: jumps.0.text. Preserve every <tag> exactly. English reference: Go to room №1"	"Quest,Pilot"	"Ісьці ў кабінэт №1"
+"/quests/Pilot.qmm/jumps/1/text"	"Идти в кабинет №3"	"Quest Pilot.qmm: jumps.1.text. Preserve every <tag> exactly. English reference: Go to Room №3"	"Quest,Pilot"	"Ісьці ў кабінэт №3"
+"/quests/Pilot.qmm/jumps/2/text"	"Идти в кабинет №2"	"Quest Pilot.qmm: jumps.2.text. Preserve every <tag> exactly. English reference: Go to Room №2"	"Quest,Pilot"	"Ісьці ў кабінэт №2"
+"/quests/Pilot.qmm/jumps/3/text"	"Я весь внимание, сделаю что могу"	"Quest Pilot.qmm: jumps.3.text. Preserve every <tag> exactly. English reference: I'm all ears and will do my best"	"Quest,Pilot"	"Я ўвесь увага, зраблю што магу"
+"/quests/Pilot.qmm/jumps/4/text"	"Да, плевое дело, не впервой!"	"Quest Pilot.qmm: jumps.4.text. Preserve every <tag> exactly. English reference: It's a doddle, I know what to do!"	"Quest,Pilot"	"Так, лёгкая справа, не ўпершыню!"
+"/quests/Pilot.qmm/jumps/5/text"	"Нет, я не спец по этой части"	"Quest Pilot.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: No, I'm not an expert in this"	"Quest,Pilot"	"Не, я не спэц у гэтай галіне"
+"/quests/Pilot.qmm/jumps/6/text"	"Обратиться по имени ко второй"	"Quest Pilot.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: Talk female 2 and mention her name"	"Quest,Pilot"	"Зьвярнуцца па імені да другой"
 "/quests/Pilot.qmm/jumps/6/description"	"- Вот остолоп, Бигбуба - это я!!! - прогромыхала женщина-малок раскатистым басом. - Кто ты такой, чтобы тревожить меня попусту?"	"Quest Pilot.qmm: jumps.6.description. Preserve every <tag> exactly. English reference: - Such a dunce, I am Bugbubba!!! - you heard the Maloq female's rumbling bass - Who are you to bother me for nothing?"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/7/text"	"Обратиться по имени к третьей"	"Quest Pilot.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Talk to female 3 and mention her name"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/7/text"	"Обратиться по имени к третьей"	"Quest Pilot.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: Talk to female 3 and mention her name"	"Quest,Pilot"	"Зьвярнуцца па імені да трэцяй"
 "/quests/Pilot.qmm/jumps/7/description"	"- О-о! Откуда ты знаешь мое имя, красавчик? - и могучая туша под два метра, мило скалясь, приподнялась вам навстречу. - Ты кто, парень?"	"Quest Pilot.qmm: jumps.7.description. Preserve every <tag> exactly. English reference: - O, o! Where did you hear my name, lover-boy? - a mighty beef about two meters high grinned nicely and rose in front of you. - Who are you, lad?"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/8/text"	"Обратиться по имени к первой"	"Quest Pilot.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Talk to female 1 and mention her name"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/8/text"	"Обратиться по имени к первой"	"Quest Pilot.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Talk to female 1 and mention her name"	"Quest,Pilot"	"Зьвярнуцца па імені да першай"
 "/quests/Pilot.qmm/jumps/8/description"	"- Ты ошибся, уважаемый! - и рыжая женщина-малок Бигбуба слегка приподнялась из-за стола, заслоняя свет ламп. - Ты кто?!"	"Quest Pilot.qmm: jumps.8.description. Preserve every <tag> exactly. English reference: - You are wrong, mister! - and the ginger-head Maloq female half got up from the table intercepting the lamplight. - Who are you?!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/9/text"	"Рассказать все как есть"	"Quest Pilot.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Tell them all the truth"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/10/text"	"250 cr"	"Quest Pilot.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/11/text"	"Я пришел сдавать экзамен, и у меня мало времени"	"Quest Pilot.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: I came to take the exam and I'm pressed for time"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/12/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.12.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/13/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.13.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/14/text"	"Представиться журналистом"	"Quest Pilot.qmm: jumps.14.text. Preserve every <tag> exactly. English reference: Introduce yourself as a journalist"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/15/text"	"Представиться научным работником"	"Quest Pilot.qmm: jumps.15.text. Preserve every <tag> exactly. English reference: Introduce yourself as a scholar"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/16/text"	"Представиться прославленным командором"	"Quest Pilot.qmm: jumps.16.text. Preserve every <tag> exactly. English reference: Introduce yourself as a celebrated commodore"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/17/text"	"Посмотреть меню и сделать заказ"	"Quest Pilot.qmm: jumps.17.text. Preserve every <tag> exactly. English reference: Look through the menu and make the order"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/18/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.18.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/19/text"	"Взять варево"	"Quest Pilot.qmm: jumps.19.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/20/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.20.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/21/text"	"Посмотреть вторые блюда"	"Quest Pilot.qmm: jumps.21.text. Preserve every <tag> exactly. English reference: Look through the second course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/22/text"	"Посмотреть третьи блюда"	"Quest Pilot.qmm: jumps.22.text. Preserve every <tag> exactly. English reference: Look through the third course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/23/text"	"Посмотреть вторые блюда"	"Quest Pilot.qmm: jumps.23.text. Preserve every <tag> exactly. English reference: Look through the second course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/24/text"	"Посмотреть первые блюда"	"Quest Pilot.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: Look through the first course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/25/text"	"Посмотреть третьи блюда"	"Quest Pilot.qmm: jumps.25.text. Preserve every <tag> exactly. English reference: Look through the third course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/26/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.26.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/27/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/28/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/29/text"	"Взять сок"	"Quest Pilot.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/30/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/31/text"	"Взять компот"	"Quest Pilot.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/32/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/33/text"	"Встать из-за стола, всем сказать спасибо и низко поклониться"	"Quest Pilot.qmm: jumps.33.text. Preserve every <tag> exactly. English reference: Rise from the table, say thank you to everybody and bow low"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/9/text"	"Рассказать все как есть"	"Quest Pilot.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Tell them all the truth"	"Quest,Pilot"	"Расказаць усё як ёсьць"
+"/quests/Pilot.qmm/jumps/10/text"	"250 cr"	"Quest Pilot.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Pilot"	"250 cr"
+"/quests/Pilot.qmm/jumps/11/text"	"Я пришел сдавать экзамен, и у меня мало времени"	"Quest Pilot.qmm: jumps.11.text. Preserve every <tag> exactly. English reference: I came to take the exam and I'm pressed for time"	"Quest,Pilot"	"Я прыйшоў здаваць экзамэн, і ў мяне мала часу"
+"/quests/Pilot.qmm/jumps/12/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.12.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	"Увесьці сакрэтны код"
+"/quests/Pilot.qmm/jumps/13/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.13.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
+"/quests/Pilot.qmm/jumps/14/text"	"Представиться журналистом"	"Quest Pilot.qmm: jumps.14.text. Preserve every <tag> exactly. English reference: Introduce yourself as a journalist"	"Quest,Pilot"	"Прадставіцца журналістам"
+"/quests/Pilot.qmm/jumps/15/text"	"Представиться научным работником"	"Quest Pilot.qmm: jumps.15.text. Preserve every <tag> exactly. English reference: Introduce yourself as a scholar"	"Quest,Pilot"	"Прадставіцца навуковым працаўніком"
+"/quests/Pilot.qmm/jumps/16/text"	"Представиться прославленным командором"	"Quest Pilot.qmm: jumps.16.text. Preserve every <tag> exactly. English reference: Introduce yourself as a celebrated commodore"	"Quest,Pilot"	"Прадставіцца праслаўленым камандорам"
+"/quests/Pilot.qmm/jumps/17/text"	"Посмотреть меню и сделать заказ"	"Quest Pilot.qmm: jumps.17.text. Preserve every <tag> exactly. English reference: Look through the menu and make the order"	"Quest,Pilot"	"Паглядзець мэню і зрабіць замову"
+"/quests/Pilot.qmm/jumps/18/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.18.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	"Узяць поліўку"
+"/quests/Pilot.qmm/jumps/19/text"	"Взять варево"	"Quest Pilot.qmm: jumps.19.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	"Узяць варыва"
+"/quests/Pilot.qmm/jumps/20/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.20.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	"Узяць булён"
+"/quests/Pilot.qmm/jumps/21/text"	"Посмотреть вторые блюда"	"Quest Pilot.qmm: jumps.21.text. Preserve every <tag> exactly. English reference: Look through the second course"	"Quest,Pilot"	"Паглядзець другія стравы"
+"/quests/Pilot.qmm/jumps/22/text"	"Посмотреть третьи блюда"	"Quest Pilot.qmm: jumps.22.text. Preserve every <tag> exactly. English reference: Look through the third course"	"Quest,Pilot"	"Паглядзець трэція стравы"
+"/quests/Pilot.qmm/jumps/23/text"	"Посмотреть вторые блюда"	"Quest Pilot.qmm: jumps.23.text. Preserve every <tag> exactly. English reference: Look through the second course"	"Quest,Pilot"	"Паглядзець другія стравы"
+"/quests/Pilot.qmm/jumps/24/text"	"Посмотреть первые блюда"	"Quest Pilot.qmm: jumps.24.text. Preserve every <tag> exactly. English reference: Look through the first course"	"Quest,Pilot"	"Паглядзець першыя стравы"
+"/quests/Pilot.qmm/jumps/25/text"	"Посмотреть третьи блюда"	"Quest Pilot.qmm: jumps.25.text. Preserve every <tag> exactly. English reference: Look through the third course"	"Quest,Pilot"	"Паглядзець трэція стравы"
+"/quests/Pilot.qmm/jumps/26/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.26.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	"Узяць месіва"
+"/quests/Pilot.qmm/jumps/27/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.27.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	"Узяць пюрэ"
+"/quests/Pilot.qmm/jumps/28/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.28.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	"Узяць печаных хвастагрэбаў"
+"/quests/Pilot.qmm/jumps/29/text"	"Взять сок"	"Quest Pilot.qmm: jumps.29.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	"Узяць сок"
+"/quests/Pilot.qmm/jumps/30/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.30.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	"Узяць фірмовую настойку"
+"/quests/Pilot.qmm/jumps/31/text"	"Взять компот"	"Quest Pilot.qmm: jumps.31.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	"Узяць кампот"
+"/quests/Pilot.qmm/jumps/32/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.32.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	"Узяць сыроп"
+"/quests/Pilot.qmm/jumps/33/text"	"Встать из-за стола, всем сказать спасибо и низко поклониться"	"Quest Pilot.qmm: jumps.33.text. Preserve every <tag> exactly. English reference: Rise from the table, say thank you to everybody and bow low"	"Quest,Pilot"	"Устаць з-за стала, усім сказаць дзякуй і нізка паклоніцца"
 "/quests/Pilot.qmm/jumps/33/description"	"- Фу, <Ranger>, как это пошло! Был бы ты моим мужем, я б тебе по башке настучала! - мысль о том, что вы все-таки не ее муж, привела вас в тихий восторг..."	"Quest Pilot.qmm: jumps.33.description. Preserve every <tag> exactly. English reference: - Pooh, <Ranger>, how vulgar of you! If you were my husband, I would give you a bash on the bonce! - thank goodness, you're not her husband! This thought made you delirious with delight..."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/34/text"	"Громко отрыгнуть, чтоб все услышали"	"Quest Pilot.qmm: jumps.34.text. Preserve every <tag> exactly. English reference: Make everybody hear your burp"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/34/text"	"Громко отрыгнуть, чтоб все услышали"	"Quest Pilot.qmm: jumps.34.text. Preserve every <tag> exactly. English reference: Make everybody hear your burp"	"Quest,Pilot"	"Голасна адрыгнуць, каб усе пачулі"
 "/quests/Pilot.qmm/jumps/34/description"	"- Ты меня удивляешь, <Ranger>, ты очень хорошо воспитан! - вы заметили, как Бигбуба одобрительно закивала своей большой ушастой головой."	"Quest Pilot.qmm: jumps.34.description. Preserve every <tag> exactly. English reference: - You surprise me, <Ranger>, you're good mannered! - you noticed that Bugbubba was nodding her fine big-eared head in approval."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/35/text"	"Похлопать по животу себя и Бигбубу, а заодно и всех остальных посетителей"	"Quest Pilot.qmm: jumps.35.text. Preserve every <tag> exactly. English reference: Pat your and Bugbubba's belly, and the rest of the comers too"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/35/text"	"Похлопать по животу себя и Бигбубу, а заодно и всех остальных посетителей"	"Quest Pilot.qmm: jumps.35.text. Preserve every <tag> exactly. English reference: Pat your and Bugbubba's belly, and the rest of the comers too"	"Quest,Pilot"	"Паляпаць па жываце сябе і Бігбубу, а заадно і ўсіх астатніх наведнікаў"
 "/quests/Pilot.qmm/jumps/35/description"	"- Весьма интересный обряд! Это у вас так на родине принято? - заинтересовалась Бигбуба. Вы промычали в ответ что-то невразумительное."	"Quest Pilot.qmm: jumps.35.description. Preserve every <tag> exactly. English reference: - That's an interesting rite! Is it what they do at your home? - Bibuba asked. You mumbled in response."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/36/text"	"Посмотреть первые блюда"	"Quest Pilot.qmm: jumps.36.text. Preserve every <tag> exactly. English reference: Look through the first course"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/37/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.37.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/38/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/39/text"	"Взять сок"	"Quest Pilot.qmm: jumps.39.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/40/text"	"Взять компот"	"Quest Pilot.qmm: jumps.40.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/41/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/42/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/43/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/44/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/45/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/46/text"	"Взять варево"	"Quest Pilot.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/47/text"	"Взять компот"	"Quest Pilot.qmm: jumps.47.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/48/text"	"Взять сок"	"Quest Pilot.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/49/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.49.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/50/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.50.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/51/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/52/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/53/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/54/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.54.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/55/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.55.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/56/text"	"Взять варево"	"Quest Pilot.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/57/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.57.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/36/text"	"Посмотреть первые блюда"	"Quest Pilot.qmm: jumps.36.text. Preserve every <tag> exactly. English reference: Look through the first course"	"Quest,Pilot"	"Паглядзець першыя стравы"
+"/quests/Pilot.qmm/jumps/37/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.37.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	"Узяць сыроп"
+"/quests/Pilot.qmm/jumps/38/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.38.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	"Узяць фірмовую настойку"
+"/quests/Pilot.qmm/jumps/39/text"	"Взять сок"	"Quest Pilot.qmm: jumps.39.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	"Узяць сок"
+"/quests/Pilot.qmm/jumps/40/text"	"Взять компот"	"Quest Pilot.qmm: jumps.40.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	"Узяць кампот"
+"/quests/Pilot.qmm/jumps/41/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.41.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	"Узяць печаных хвастагрэбаў"
+"/quests/Pilot.qmm/jumps/42/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.42.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	"Узяць месіва"
+"/quests/Pilot.qmm/jumps/43/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.43.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	"Узяць пюрэ"
+"/quests/Pilot.qmm/jumps/44/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.44.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	"Узяць булён"
+"/quests/Pilot.qmm/jumps/45/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.45.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	"Узяць поліўку"
+"/quests/Pilot.qmm/jumps/46/text"	"Взять варево"	"Quest Pilot.qmm: jumps.46.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	"Узяць варыва"
+"/quests/Pilot.qmm/jumps/47/text"	"Взять компот"	"Quest Pilot.qmm: jumps.47.text. Preserve every <tag> exactly. English reference: Take the stew"	"Quest,Pilot"	"Узяць кампот"
+"/quests/Pilot.qmm/jumps/48/text"	"Взять сок"	"Quest Pilot.qmm: jumps.48.text. Preserve every <tag> exactly. English reference: Take the juice"	"Quest,Pilot"	"Узяць сок"
+"/quests/Pilot.qmm/jumps/49/text"	"Взять фирменную настойку"	"Quest Pilot.qmm: jumps.49.text. Preserve every <tag> exactly. English reference: Take the Gablingkot"	"Quest,Pilot"	"Узяць фірмовую настойку"
+"/quests/Pilot.qmm/jumps/50/text"	"Взять сироп"	"Quest Pilot.qmm: jumps.50.text. Preserve every <tag> exactly. English reference: Take the syrup"	"Quest,Pilot"	"Узяць сыроп"
+"/quests/Pilot.qmm/jumps/51/text"	"Взять пюре"	"Quest Pilot.qmm: jumps.51.text. Preserve every <tag> exactly. English reference: Take the mashed umbikettes"	"Quest,Pilot"	"Узяць пюрэ"
+"/quests/Pilot.qmm/jumps/52/text"	"Взять печеных хвостогребов"	"Quest Pilot.qmm: jumps.52.text. Preserve every <tag> exactly. English reference: Take the baked tailpullers"	"Quest,Pilot"	"Узяць печаных хвастагрэбаў"
+"/quests/Pilot.qmm/jumps/53/text"	"Взять месиво"	"Quest Pilot.qmm: jumps.53.text. Preserve every <tag> exactly. English reference: Take the squash"	"Quest,Pilot"	"Узяць месіва"
+"/quests/Pilot.qmm/jumps/54/text"	"Взять бульон"	"Quest Pilot.qmm: jumps.54.text. Preserve every <tag> exactly. English reference: Take the broth"	"Quest,Pilot"	"Узяць булён"
+"/quests/Pilot.qmm/jumps/55/text"	"Взять похлебку"	"Quest Pilot.qmm: jumps.55.text. Preserve every <tag> exactly. English reference: Take the hoosh"	"Quest,Pilot"	"Узяць поліўку"
+"/quests/Pilot.qmm/jumps/56/text"	"Взять варево"	"Quest Pilot.qmm: jumps.56.text. Preserve every <tag> exactly. English reference: Take the lorelai"	"Quest,Pilot"	"Узяць варыва"
+"/quests/Pilot.qmm/jumps/57/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.57.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	"Есьці пададзена, ідзіце жэрці, калі ласка!"
 "/quests/Pilot.qmm/jumps/57/description"	"Бигбуба давно ходила в эту столовую, поэтому со знанием дела посмотрела на харч, который вы только что принесли:
 - Ай да <Ranger>, тебе телепатом работать надо! Мой любимый набор принес, молодец! - Бигбуба выглядела счастливой и умиротворенной, будто на нее снизошла космическая благодать.
 
@@ -1092,7 +1092,7 @@ You seem to gain some of Bugbubba's respect. Keep it up!"	"Quest,Pilot"	""
 - Hot dog, <Ranger>, you should be a telepathist! This is my favourite set! Good boy! - Bugbubba looked happy and satisfied as if space grace had poured down upon her.
 
 To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off your lunch. The Maloq etiquette required doing something after lunch but you couldn't remember what exactly it was."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/58/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.58.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/58/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.58.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	"Есьці пададзена, ідзіце жэрці, калі ласка!"
 "/quests/Pilot.qmm/jumps/58/description"	"Бигбуба давно ходила в эту столовую, поэтому со знанием дела посмотрела на харч, который вы только что принесли:
 - Ладно, <Ranger>, хоть и много, зато очень питательно! А на фигуру я давно плюнула... - и Бигбуба, нежно погладив свое отвисшее брюхо, начала быстро уплетать еду.
 
@@ -1100,7 +1100,7 @@ To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off
 - Alright, <Ranger>, it's very nutrition though too much, probably! But I said ""To hell with the figure"" long ago anyway... - and Bugbubba caressed her floppy belly and started shovelling down the food.
 
 To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off your lunch. The Maloq etiquette required doing something after lunch but you couldn't remember what exactly it was."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/59/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.59.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/59/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.59.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	"Есьці пададзена, ідзіце жэрці, калі ласка!"
 "/quests/Pilot.qmm/jumps/59/description"	"Бигбуба давно ходила в эту столовую, поэтому со знанием дела посмотрела на харч, который вы только что принесли:
 - <Ranger>, этого даже дохлому фэянину не хватит! - Бигбуба выглядела расстроенной, но тем не менее принялась поедать блюдо за блюдом.
 
@@ -1108,7 +1108,7 @@ To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off
 - <Ranger>, it won't be enough even for a dead Faeyan! - Bugbubba looked upset but started consuming dish after dish nonetheless.
 
 To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off your lunch. The Maloq etiquette required doing something after lunch but you couldn't remember what exactly it was."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/60/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.60.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/60/text"	"Кушать подано, идите жрать, пожалуйста!"	"Quest Pilot.qmm: jumps.60.text. Preserve every <tag> exactly. English reference: Lunch is served! Please start scoffing!"	"Quest,Pilot"	"Есьці пададзена, ідзіце жэрці, калі ласка!"
 "/quests/Pilot.qmm/jumps/60/description"	"Бигбуба давно ходила в эту столовую, поэтому со знанием дела посмотрела на харч, который вы только что принесли:
 - <Ranger>, брюхо-то набью, а сыта не буду. Ладно, давай хоть это проглочу, чтоб тебя...
 
@@ -1116,14 +1116,14 @@ To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off
 - <Ranger>, it will fill my maw but not to a sufficiency. Alright, half a loaf is better than no bread, damn you...
 
 To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off your lunch. The Maloq etiquette required doing something after lunch but you couldn't remember what exactly it was."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/61/text"	"260 cr"	"Quest Pilot.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/62/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.62.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/61/text"	"260 cr"	"Quest Pilot.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Pilot"	"260 cr"
+"/quests/Pilot.qmm/jumps/62/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.62.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	"Вярнуцца да Лоо-Хэна"
 "/quests/Pilot.qmm/jumps/62/description"	"- Я сделал все, что мог, но она наотрез отказалась от встречи с тобой, даже говорить об этом не хочет - почему-то считает тебя слюнтяем и слабаком, - доложили вы Лоо-Хэну.
 
 - Я так и знал, эх, не видать мне счастья! - расстроился гаалец."	"Quest Pilot.qmm: jumps.62.description. Preserve every <tag> exactly. English reference: - I did my best but she refused absolutely from dating you, she even refuses to talk about it - she considers you a drip and a fancy pants, - you reported to Loho-Khan.
 
 - I knew it! Heh, bye-bye, my happiness! - it grieved him to the very heart."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/63/text"	"Поцеловать Бигбубу в губы"	"Quest Pilot.qmm: jumps.63.text. Preserve every <tag> exactly. English reference: Kiss Bugbubba on the mouth"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/63/text"	"Поцеловать Бигбубу в губы"	"Quest Pilot.qmm: jumps.63.text. Preserve every <tag> exactly. English reference: Kiss Bugbubba on the mouth"	"Quest,Pilot"	"Пацалаваць Бігбубу ў губы"
 "/quests/Pilot.qmm/jumps/63/description"	"Бигбубу словно током прошибло - она подскочила на стуле и с размаху залепила вам затрещину:
 - Ты что?! Белендыбы объелся?! Чтоб больше такого не было, не хватало мне тут телячьих нежностей... Хух, о чем это я?
 - Мы только что говорили о нашей новой встрече...
@@ -1143,7 +1143,7 @@ To impress Bugbubba by your ""gargantuan male appetite"" you tried to polish off
 Bugbubba grinned cunningly, scratched something on the paper in uneven hand and gave it back to you.
 - Well, ranger <Ranger>, lunch is over, I must get back to work, - the superfemale rose from the table nearly knocking it over.
 After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/64/text"	"Ткнуть Бигбубу в бок"	"Quest Pilot.qmm: jumps.64.text. Preserve every <tag> exactly. English reference: Dig Bugbubba in the side"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/64/text"	"Ткнуть Бигбубу в бок"	"Quest Pilot.qmm: jumps.64.text. Preserve every <tag> exactly. English reference: Dig Bugbubba in the side"	"Quest,Pilot"	"Тыркнуць Бігбубу ў бок"
 "/quests/Pilot.qmm/jumps/64/description"	"- А? А, это ты, <Ranger>, так о чем это я? - Бигбуба недоуменно захлопала глазами, приходя в себя.
 - Мы только что говорили о нашей новой встрече...
 - Да? - Бигбуба пыталась припомнить начало разговора, но ей это никак не удавалось. - И на чем мы остановились?
@@ -1161,22 +1161,22 @@ After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,P
 Bugbubba grinned cunningly, scratched something on the paper in uneven hand and gave it back to you.
 - Well, ranger <Ranger>, lunch is over, I must get back to work, - the superfemale rose from the table nearly knocking it over.
 After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/65/text"	"Помахать перед ее глазами рукой"	"Quest Pilot.qmm: jumps.65.text. Preserve every <tag> exactly. English reference: Wave your hand in front of your eyes"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/67/text"	"Начали!"	"Quest Pilot.qmm: jumps.67.text. Preserve every <tag> exactly. English reference: Let's go!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/68/text"	"Вверх"	"Quest Pilot.qmm: jumps.68.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/69/text"	"Огонь!"	"Quest Pilot.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/70/text"	"Вниз"	"Quest Pilot.qmm: jumps.70.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/71/text"	"Огонь!"	"Quest Pilot.qmm: jumps.71.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/72/text"	"Огонь!"	"Quest Pilot.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/73/text"	"Огонь!"	"Quest Pilot.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/74/text"	"Огонь!"	"Quest Pilot.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/81/text"	"Ура! Победа!!!"	"Quest Pilot.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Hurray! We won!!!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/82/text"	"270 cr"	"Quest Pilot.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/83/text"	"240 cr"	"Quest Pilot.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/84/text"	"230 cr"	"Quest Pilot.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/85/text"	"220 cr"	"Quest Pilot.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/86/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/87/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/65/text"	"Помахать перед ее глазами рукой"	"Quest Pilot.qmm: jumps.65.text. Preserve every <tag> exactly. English reference: Wave your hand in front of your eyes"	"Quest,Pilot"	"Памахаць перад яе вачыма рукой"
+"/quests/Pilot.qmm/jumps/67/text"	"Начали!"	"Quest Pilot.qmm: jumps.67.text. Preserve every <tag> exactly. English reference: Let's go!"	"Quest,Pilot"	"Пачалі!"
+"/quests/Pilot.qmm/jumps/68/text"	"Вверх"	"Quest Pilot.qmm: jumps.68.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	"Угору"
+"/quests/Pilot.qmm/jumps/69/text"	"Огонь!"	"Quest Pilot.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	"Агонь!"
+"/quests/Pilot.qmm/jumps/70/text"	"Вниз"	"Quest Pilot.qmm: jumps.70.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	"Уніз"
+"/quests/Pilot.qmm/jumps/71/text"	"Огонь!"	"Quest Pilot.qmm: jumps.71.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	"Агонь!"
+"/quests/Pilot.qmm/jumps/72/text"	"Огонь!"	"Quest Pilot.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	"Агонь!"
+"/quests/Pilot.qmm/jumps/73/text"	"Огонь!"	"Quest Pilot.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	"Агонь!"
+"/quests/Pilot.qmm/jumps/74/text"	"Огонь!"	"Quest Pilot.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: Fire!"	"Quest,Pilot"	"Агонь!"
+"/quests/Pilot.qmm/jumps/81/text"	"Ура! Победа!!!"	"Quest Pilot.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Hurray! We won!!!"	"Quest,Pilot"	"Ура! Перамога!!!"
+"/quests/Pilot.qmm/jumps/82/text"	"270 cr"	"Quest Pilot.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Pilot"	"270 cr"
+"/quests/Pilot.qmm/jumps/83/text"	"240 cr"	"Quest Pilot.qmm: jumps.83.text. Preserve every <tag> exactly."	"Quest,Pilot"	"240 cr"
+"/quests/Pilot.qmm/jumps/84/text"	"230 cr"	"Quest Pilot.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Pilot"	"230 cr"
+"/quests/Pilot.qmm/jumps/85/text"	"220 cr"	"Quest Pilot.qmm: jumps.85.text. Preserve every <tag> exactly."	"Quest,Pilot"	"220 cr"
+"/quests/Pilot.qmm/jumps/86/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	"Вярнуцца да Лоо-Хэна"
+"/quests/Pilot.qmm/jumps/87/text"	"Вернуться к Лоо-Хэну"	"Quest Pilot.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Return to Loho-Khan"	"Quest,Pilot"	"Вярнуцца да Лоо-Хэна"
 "/quests/Pilot.qmm/jumps/87/description"	"Вы скромно передали записку экзаменатору. Тот вперился в нее глазами и жадно прочитал несколько раз.
 - Ура, рейнджер, она ждет меня через полчаса!!! - и Лоо-Хэн станцевал новый модный танец ""Гри-ча-ча"" в духе гаальской продвинутой молодежи.
 
@@ -1188,40 +1188,40 @@ After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,P
 - Give me your card, I'll pass you on theory! I don't' have time to listen to you, my Bugbubba is waiting, and my tail is not fixed yet!!!
 
 In a couple of minutes you got your card back with the information about your excellent score on ship navigation theory. The elated Gaalian ran out on the date, and there only remained for you to find Anit and pass the practice."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/88/text"	"Пойти оглядеться"	"Quest Pilot.qmm: jumps.88.text. Preserve every <tag> exactly. English reference: Look about"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/89/text"	"Нахмурив брови, рявкнуть: ""Выкладывай!"""	"Quest Pilot.qmm: jumps.89.text. Preserve every <tag> exactly. English reference: Knit your brows and bark: ""Say away!"""	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/90/text"	"Прищурив глаза, процедить: ""Ну?"""	"Quest Pilot.qmm: jumps.90.text. Preserve every <tag> exactly. English reference: Screw up your eyes and say between your teeth: ""So?"""	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/91/text"	"Идти в кабинет №1"	"Quest Pilot.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Go to room №1"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/92/text"	"Идти в кабинет № 2"	"Quest Pilot.qmm: jumps.92.text. Preserve every <tag> exactly. English reference: Go to Room № 2"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/93/text"	"Идти в кабинет №3"	"Quest Pilot.qmm: jumps.93.text. Preserve every <tag> exactly. English reference: Go to Room №3"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/94/text"	"Вернуться на корабль"	"Quest Pilot.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Get back to the ship"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/95/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.95.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/96/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.96.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/88/text"	"Пойти оглядеться"	"Quest Pilot.qmm: jumps.88.text. Preserve every <tag> exactly. English reference: Look about"	"Quest,Pilot"	"Пайсьці агледзецца"
+"/quests/Pilot.qmm/jumps/89/text"	"Нахмурив брови, рявкнуть: ""Выкладывай!"""	"Quest Pilot.qmm: jumps.89.text. Preserve every <tag> exactly. English reference: Knit your brows and bark: ""Say away!"""	"Quest,Pilot"	"Нахмурыўшы бровы, гаркнуць: ""Выкладай!"""
+"/quests/Pilot.qmm/jumps/90/text"	"Прищурив глаза, процедить: ""Ну?"""	"Quest Pilot.qmm: jumps.90.text. Preserve every <tag> exactly. English reference: Screw up your eyes and say between your teeth: ""So?"""	"Quest,Pilot"	"Прыжмурыўшы вочы, працадзіць: ""Ну?"""
+"/quests/Pilot.qmm/jumps/91/text"	"Идти в кабинет №1"	"Quest Pilot.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Go to room №1"	"Quest,Pilot"	"Ісьці ў кабінэт №1"
+"/quests/Pilot.qmm/jumps/92/text"	"Идти в кабинет № 2"	"Quest Pilot.qmm: jumps.92.text. Preserve every <tag> exactly. English reference: Go to Room № 2"	"Quest,Pilot"	"Ісьці ў кабінэт № 2"
+"/quests/Pilot.qmm/jumps/93/text"	"Идти в кабинет №3"	"Quest Pilot.qmm: jumps.93.text. Preserve every <tag> exactly. English reference: Go to Room №3"	"Quest,Pilot"	"Ісьці ў кабінэт №3"
+"/quests/Pilot.qmm/jumps/94/text"	"Вернуться на корабль"	"Quest Pilot.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Get back to the ship"	"Quest,Pilot"	"Вярнуцца на карабель"
+"/quests/Pilot.qmm/jumps/95/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.95.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	"Вярнуцца да білета і выбраць адказ"
+"/quests/Pilot.qmm/jumps/96/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.96.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	"Прапанаваць {75} cr"
 "/quests/Pilot.qmm/jumps/96/description"	"- Это что??? Вы думаете, что мои знания ценятся так дешево? Тогда я лишь могу предположить, что верный ответ - это <clr>не 250 cr<clrEnd>..."	"Quest Pilot.qmm: jumps.96.description. Preserve every <tag> exactly. English reference: - What is it??? Do you think my knowledge is that cheap? Than I can only presume that the correct answer is <clr>not 250 cr<clrEnd>..."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/97/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.97.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/97/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.97.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	"Прапанаваць {150} cr"
 "/quests/Pilot.qmm/jumps/97/description"	"- Маловато будет! - воскликнул Тырь, а потом шепотом добавил: - Ладно, так уж и быть, скажу: ни разу еще за всю историю этого экзамена ответы <clr>220 cr, 250 cr<clrEnd> и <clr>270 cr<clrEnd> не были правильными. Так что, выбирайте один из трех оставшихся ответов.
 
 Итак, число вариантов сократилось вдвое. Тоже неплохо!"	"Quest Pilot.qmm: jumps.97.description. Preserve every <tag> exactly. English reference: - Not enough, I'm afraid! - Snipeman exclaimed and whispered: - Very well, I'll tell you: the answers <clr>220 cr, 250 cr<clrEnd> and <clr>270 cr<clrEnd> have never been correct throughout the history of this exam. So now, choose one of the three remaining answers.
 
 So the variants declined in half. Not bad either!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/98/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.98.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/98/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.98.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	"Прапанаваць {300} cr"
 "/quests/Pilot.qmm/jumps/98/description"	"- Вы очень догадливы, <Ranger>, далеко пойдете! - лицо экзаменатора расплылось в улыбке. Потом он поправил моднейший фиолетовый пиджак от Верстаче (ценой не менее 10000 cr!), заговорщицки склонился к вашему уху и тихо сказал: 
 
 - Правильный ответ - это {10*([p21]+21)+30*([p21]=1)} <clr>cr<clrEnd>."	"Quest Pilot.qmm: jumps.98.description. Preserve every <tag> exactly. English reference: - You are very bright, <Ranger>, and will distinguish yourself! - the examiner was all smiles. Then he straightened his fashionable violet Vershace jacket (no less than 10000 cr in price!), bent over you with a conspiratorial expression on his face and whispered in your ear: 
 
 - Correct answer is {10*([p21]+21)+30*([p21]=1)} <clr>cr<clrEnd>."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/99/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.99.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/99/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.99.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	"Нічога не прапаноўваць"
 "/quests/Pilot.qmm/jumps/99/description"	"- Рейнджер <Ranger>, - в глазах человека проскочила злая искорка, - я полагал, вам нужна моя помощь... Вижу, что ошибся.
 
 Вы поняли, что сделали что-то не так. И теперь вам остается только решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.99.description. Preserve every <tag> exactly. English reference: - Ranger <Ranger>, - an evil glimpse flashed in the Human's eyes, - I thought you needed my help... I guess, I misunderstood you.
 
 You realised something was wrong. And now you had to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/100/text"	"Послушать разговор"	"Quest Pilot.qmm: jumps.100.text. Preserve every <tag> exactly. English reference: Listen to the conversation"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/101/text"	"Войти"	"Quest Pilot.qmm: jumps.101.text. Preserve every <tag> exactly. English reference: Enter"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/102/text"	"Войти"	"Quest Pilot.qmm: jumps.102.text. Preserve every <tag> exactly. English reference: Enter"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/103/text"	"Дунуть Бигбубе в ухо"	"Quest Pilot.qmm: jumps.103.text. Preserve every <tag> exactly. English reference: Blow in Bugbubba's ear"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/105/text"	"Дать Бигбубе установку на свидание"	"Quest Pilot.qmm: jumps.105.text. Preserve every <tag> exactly. English reference: Have Bugbubba make a date with you"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/106/text"	"Прочитать"	"Quest Pilot.qmm: jumps.106.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/100/text"	"Послушать разговор"	"Quest Pilot.qmm: jumps.100.text. Preserve every <tag> exactly. English reference: Listen to the conversation"	"Quest,Pilot"	"Паслухаць размову"
+"/quests/Pilot.qmm/jumps/101/text"	"Войти"	"Quest Pilot.qmm: jumps.101.text. Preserve every <tag> exactly. English reference: Enter"	"Quest,Pilot"	"Увайсьці"
+"/quests/Pilot.qmm/jumps/102/text"	"Войти"	"Quest Pilot.qmm: jumps.102.text. Preserve every <tag> exactly. English reference: Enter"	"Quest,Pilot"	"Увайсьці"
+"/quests/Pilot.qmm/jumps/103/text"	"Дунуть Бигбубе в ухо"	"Quest Pilot.qmm: jumps.103.text. Preserve every <tag> exactly. English reference: Blow in Bugbubba's ear"	"Quest,Pilot"	"Дзьмухнуць Бігбубе ў вуха"
+"/quests/Pilot.qmm/jumps/105/text"	"Дать Бигбубе установку на свидание"	"Quest Pilot.qmm: jumps.105.text. Preserve every <tag> exactly. English reference: Have Bugbubba make a date with you"	"Quest,Pilot"	"Даць Бігбубе ўстаноўку на спатканьне"
+"/quests/Pilot.qmm/jumps/106/text"	"Прочитать"	"Quest Pilot.qmm: jumps.106.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	"Прачытаць"
 "/quests/Pilot.qmm/jumps/106/description"	"""Жду тибя чериз <clr>полчиса<clrEnd> у пьэзотринажора в тирминале оддыха на 5 ярусе.
 Твая Бигбуба"".
 
@@ -1229,7 +1229,7 @@ You realised something was wrong. And now you had to solve the problem yourself.
 Yor Bugbubba"".
 
 ""That's the stuff! - you thought. - Now I'll give it to Loho-Khan!"""	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/107/text"	"Прокричать ее имя"	"Quest Pilot.qmm: jumps.107.text. Preserve every <tag> exactly. English reference: Shrill out her name"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/107/text"	"Прокричать ее имя"	"Quest Pilot.qmm: jumps.107.text. Preserve every <tag> exactly. English reference: Shrill out her name"	"Quest,Pilot"	"Пракрычаць яе імя"
 "/quests/Pilot.qmm/jumps/107/description"	"Зрачки Бигбубы сузились, она вернулась в реальность и не поворачивая головы покосилась в вашу сторону:
 - Здесь я! Чего-то пропустила?
 - Нет, мы только что говорили о нашей новой встрече...
@@ -1249,7 +1249,7 @@ Yor Bugbubba"".
 Bugbubba grinned cunningly, scratched something on the paper in uneven hand and gave it back to you.
 - Well, ranger <Ranger>, lunch is over, I must get back to work, - the superfemale rose from the table nearly knocking it over.
 After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/108/text"	"Прочитать"	"Quest Pilot.qmm: jumps.108.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/108/text"	"Прочитать"	"Quest Pilot.qmm: jumps.108.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	"Прачытаць"
 "/quests/Pilot.qmm/jumps/108/description"	"""Прихади <clr>вечирам<clrEnd> в тирминал оддыха на 5 ярусе.
 Бигбуба"".
 
@@ -1257,14 +1257,14 @@ After wishing her good bye, you hurried to Loho-Khan reading the note."	"Quest,P
 Bugbubba"".
 
 ""Well, this will do! - you thought. - Now I'll give it to Loho-Khan!"""	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/109/text"	"Прочитать"	"Quest Pilot.qmm: jumps.109.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/109/text"	"Прочитать"	"Quest Pilot.qmm: jumps.109.text. Preserve every <tag> exactly. English reference: Read"	"Quest,Pilot"	"Прачытаць"
 "/quests/Pilot.qmm/jumps/109/description"	"""Если встречу тибя исчо рас то пиняй на сибя нидаделок!!!""
 
 ""Плохо дело... наверное, она не в духе сегодня, - подумали вы. - Вряд ли стоит показывать это Лоо-Хэну..."""	"Quest Pilot.qmm: jumps.109.description. Preserve every <tag> exactly. English reference: ""If I mit u wans agan, it's yor funeral, skumbak!!!""
 
 ""Too bad... she must be out of spirits today, - you though. - I don't think you should show it to Loho-Khan..."""	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/110/text"	"Сказать ""Не надо!"" и вернуться назад"	"Quest Pilot.qmm: jumps.110.text. Preserve every <tag> exactly. English reference: Say ""Don't!"" and return"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/111/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.111.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/110/text"	"Сказать ""Не надо!"" и вернуться назад"	"Quest Pilot.qmm: jumps.110.text. Preserve every <tag> exactly. English reference: Say ""Don't!"" and return"	"Quest,Pilot"	"Сказаць ""Не трэба!"" і вярнуцца назад"
+"/quests/Pilot.qmm/jumps/111/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.111.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/111/description"	"- Простите, но мне нужна ваша помощь, - вы хитро подмигнули фэянину. Но тот остался совершенно невозмутим:
 
 - Не понимаю, о какой помощи идет речь. В билете все написано! Приведенной информации вполне хватает для нахождения решения задачи. Ничего сверх написанного в билете я вам сообщить не могу. Впрочем, если вы неграмотны, то я могу прочитать вам билет вслух. Хотите?
@@ -1274,13 +1274,13 @@ Bugbubba"".
 - I don't understand what help you are talking about. There is everything you need in the test-paper! This information is quite enough to solve the problem. I can't tell you anything else. I can read it out loud, though, if you are illiterate. Shall I?
 
 - No, thank you! - you refused and the examiner turned his back to you. Well, you'll have to try and cope with it yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/112/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.112.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/112/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.112.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/112/description"	"- Простите, пожалуйста! - обратились вы к экзаменатору. - Мне тут не совсем понятно, что имеется в виду...
 
 Бесполезно - гаалец был погружен в собственные мысли и пребывал в полном трансе. Ему явно не до вас. Что ж, придется решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.112.description. Preserve every <tag> exactly. English reference: - Excuse me, please! - you called the examiner. - I don't quite understand what they mean here...
 
 Useless - the Gaalian was buried in his thought and fell into a trance. He was obviously in no mood for answering your questions. Well, you'll have to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/113/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.113.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/113/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.113.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/113/description"	"- Простите, но мне нужна ваша помощь, - вы хитро подмигнули фэянину. Но тот остался совершенно невозмутим:
 
 - Не понимаю, о какой помощи идет речь. В билете все написано! Приведенной информации вполне хватает для нахождения решения задачи. Ничего сверх написанного в билете я вам сообщить не могу. Впрочем, если вы неграмотны, то я могу прочитать вам билет вслух. Хотите?
@@ -1290,45 +1290,45 @@ Useless - the Gaalian was buried in his thought and fell into a trance. He was o
 - I don't understand what help you are talking about. There is everything you need in the test-paper! This information is quite enough to solve the problem. I can't tell you anything else. I can read it out loud, though, if you are illiterate. Shall I?
 
 - No, thank you! - you refused and the examiner turned his back to you. Well, you'll have to try and cope with it yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/114/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.114.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/115/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.115.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/114/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.114.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	"Вярнуцца да білета і выбраць адказ"
+"/quests/Pilot.qmm/jumps/115/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.115.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/115/description"	"- Простите, пожалуйста! - обратились вы к экзаменатору. - Мне тут не совсем понятно, что имеется в виду...
 
 Бесполезно - гаалец был погружен в собственные мысли и пребывал в полном трансе. Ему явно не до вас. Что ж, придется решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.115.description. Preserve every <tag> exactly. English reference: - Excuse me, please! - you called the examiner. - I don't quite understand what they mean here...
 
 Useless - the Gaalian was buried in his thought and fell into a trance. He was obviously in no mood for answering your questions. Well, you'll have to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/116/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.116.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/117/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.117.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/116/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.116.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
+"/quests/Pilot.qmm/jumps/117/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.117.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	"Нічога не прапаноўваць"
 "/quests/Pilot.qmm/jumps/117/description"	"- Рейнджер <Ranger>, - в глазах человека проскочила злая искорка, - я полагал, вам нужна моя помощь... Вижу, что ошибся.
 
 Вы поняли, что сделали что-то не так. И теперь вам остается только решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.117.description. Preserve every <tag> exactly. English reference: - Ranger <Ranger>, - an evil glimpse flashed in the Human's eyes, - I thought you needed my help... I guess, I misunderstood you.
 
 You realised something was wrong. And now you had to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/118/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.118.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/118/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.118.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	"Прапанаваць {150} cr"
 "/quests/Pilot.qmm/jumps/118/description"	"- Маловато будет! - воскликнул Тырь Захапыч, а потом шепотом добавил: - Ладно, так уж и быть, скажу: лучшая каюта всегда имеет <clr>нечетный номер<clrEnd>.
 
 Итак, число вариантов сократилось вдвое. Тоже неплохо!"	"Quest Pilot.qmm: jumps.118.description. Preserve every <tag> exactly. English reference: - It's not enough, I'm afraid! - Snipeman Hogger exclaimed and then whispered: - Very well, I'll tell you: the best cabin's number is always <clr>uneven <clrEnd>.
 
 So, the variants declined in half. Not bad either!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/119/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.119.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/119/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.119.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	"Прапанаваць {75} cr"
 "/quests/Pilot.qmm/jumps/119/description"	"- Это что??? Вы думаете, что мои знания ценятся так дешево? Тогда я лишь могу предположить, что верный ответ - это <clr>не каюта №4<clrEnd>..."	"Quest Pilot.qmm: jumps.119.description. Preserve every <tag> exactly. English reference: - What is it??? Do you think my knowledge is that cheap? Than I can only presume that the correct answer <clr>excludes cabin №4<clrEnd>..."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/120/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.120.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/120/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.120.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	"Прапанаваць {300} cr"
 "/quests/Pilot.qmm/jumps/120/description"	"- Вы отлично все понимаете, <Ranger>! - лицо экзаменатора расплылось в улыбке, блеснул дорогущий вставной зуб из сентеция. Потом он заговорщицки склонился к вашему уху и тихо сказал: 
 
 - Лучшая каюта - за дверью №{1+2*([p21]<3)}."	"Quest Pilot.qmm: jumps.120.description. Preserve every <tag> exactly. English reference: - You are very bright, <Ranger>! - the examiner was all smiles and you saw a very expensive centecium dummy sparkled in his mouth. Then he bent over you with a conspiratorial expression on his face and whispered in your ear: 
 
 - The best cabin in behind Door №{1+2*([p21]<3)}."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/121/text"	"Каюта №1"	"Quest Pilot.qmm: jumps.121.text. Preserve every <tag> exactly. English reference: Cabin №1"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/122/text"	"Каюта №3"	"Quest Pilot.qmm: jumps.122.text. Preserve every <tag> exactly. English reference: Cabin №3"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/123/text"	"Каюта №4"	"Quest Pilot.qmm: jumps.123.text. Preserve every <tag> exactly. English reference: Cabin №4"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/124/text"	"Каюта №2"	"Quest Pilot.qmm: jumps.124.text. Preserve every <tag> exactly. English reference: Cabin №2"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/125/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.125.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/121/text"	"Каюта №1"	"Quest Pilot.qmm: jumps.121.text. Preserve every <tag> exactly. English reference: Cabin №1"	"Quest,Pilot"	"Каюта №1"
+"/quests/Pilot.qmm/jumps/122/text"	"Каюта №3"	"Quest Pilot.qmm: jumps.122.text. Preserve every <tag> exactly. English reference: Cabin №3"	"Quest,Pilot"	"Каюта №3"
+"/quests/Pilot.qmm/jumps/123/text"	"Каюта №4"	"Quest Pilot.qmm: jumps.123.text. Preserve every <tag> exactly. English reference: Cabin №4"	"Quest,Pilot"	"Каюта №4"
+"/quests/Pilot.qmm/jumps/124/text"	"Каюта №2"	"Quest Pilot.qmm: jumps.124.text. Preserve every <tag> exactly. English reference: Cabin №2"	"Quest,Pilot"	"Каюта №2"
+"/quests/Pilot.qmm/jumps/125/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.125.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/125/description"	"- Простите, пожалуйста! - обратились вы к экзаменатору. - Мне тут не совсем понятно, что имеется в виду...
 
 Бесполезно - гаалец был погружен в собственные мысли и пребывал в полном трансе. Ему явно не до вас. Что ж, придется решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.125.description. Preserve every <tag> exactly. English reference: - Excuse me, please! - you called the examiner. - I don't quite understand what they mean here...
 
 Useless - the Gaalian was buried in his thought and fell into a trance. He was obviously in no mood for answering your questions. Well, you'll have to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/126/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.126.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/126/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.126.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
 "/quests/Pilot.qmm/jumps/126/description"	"- Простите, но мне нужна ваша помощь, - вы хитро подмигнули фэянину. Но тот остался совершенно невозмутим:
 
 - Не понимаю, о какой помощи идет речь. В билете все написано! Приведенной информации вполне хватает для нахождения решения задачи. Ничего сверх написанного в билете я вам сообщить не могу. Впрочем, если вы неграмотны, то я могу прочитать вам билет вслух. Хотите?
@@ -1338,60 +1338,60 @@ Useless - the Gaalian was buried in his thought and fell into a trance. He was o
 - I don't understand what help you are talking about. There is everything you need in the test-paper! This information is quite enough to solve the problem. I can't tell you anything else. I can read it out loud, though, if you are illiterate. Shall I?
 
 - No, thank you! - you refused and the examiner turned his back to you. Well, you'll have to try and cope with it yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/127/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.127.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/128/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.128.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/129/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.129.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/127/text"	"Вернуться к билету и выбрать ответ"	"Quest Pilot.qmm: jumps.127.text. Preserve every <tag> exactly. English reference: Get back to the test-paper and choose the answer"	"Quest,Pilot"	"Вярнуцца да білета і выбраць адказ"
+"/quests/Pilot.qmm/jumps/128/text"	"Попросить экзаменатора помочь"	"Quest Pilot.qmm: jumps.128.text. Preserve every <tag> exactly. English reference: Ask the examiner for help"	"Quest,Pilot"	"Папрасіць экзамэнатара дапамагчы"
+"/quests/Pilot.qmm/jumps/129/text"	"Предложить {300} cr"	"Quest Pilot.qmm: jumps.129.text. Preserve every <tag> exactly. English reference: Offer {300} cr"	"Quest,Pilot"	"Прапанаваць {300} cr"
 "/quests/Pilot.qmm/jumps/129/description"	"- Вы понимаете меня с полуслова, <Ranger>, с вами просто приятно иметь дело! - лицо экзаменатора расплылось в улыбке. Человек вытер со лба пот стильным носовым платком с эмблемой местного клуба миллионеров, заговорщицки склонился к вашему уху и тихо сказал: 
 
 - Правильный ответ - это {5*[p21]+5}<clr>%<clrEnd>."	"Quest Pilot.qmm: jumps.129.description. Preserve every <tag> exactly. English reference: - You are on the same wavelength with me, <Ranger>, it's just a pleasure dealing with you! - the examiner was all smiles. The Human took a stylish handkerchief with the local millionaire club's logo and wiped perspiration off his forehead. Then he bent over you with a conspiratorial expression on his face and whispered in your ear: 
 
 - The correct answer is {5*[p21]+5}<clr>%<clrEnd>."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/130/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.130.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/130/text"	"Предложить {150} cr"	"Quest Pilot.qmm: jumps.130.text. Preserve every <tag> exactly. English reference: Offer {150} cr"	"Quest,Pilot"	"Прапанаваць {150} cr"
 "/quests/Pilot.qmm/jumps/130/description"	"- Маловато будет! - воскликнул Тырь Захапыч, а потом шепотом добавил: - Ладно, так уж и быть, скажу: правильный ответ - это либо <clr>10%<clrEnd>, либо <clr>15%<clrEnd>, либо <clr>20%<clrEnd>. Выбирайте сами.
 
 Итак, число вариантов сократилось почти вдвое. Тоже неплохо!"	"Quest Pilot.qmm: jumps.130.description. Preserve every <tag> exactly. English reference: - Not enough, I'm afraid! - Snipeman Hogger exclaimed and then whispered: - Very well, I'll tell you: the correct answer is either <clr>10%<clrEnd>, or <clr>15%<clrEnd>, or <clr>20%<clrEnd>. Now choose.
 
 So, the variants declined in half. Not bad either!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/131/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.131.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/131/text"	"Предложить {75} cr"	"Quest Pilot.qmm: jumps.131.text. Preserve every <tag> exactly. English reference: Offer {75} cr"	"Quest,Pilot"	"Прапанаваць {75} cr"
 "/quests/Pilot.qmm/jumps/131/description"	"- Это что??? Вы думаете, что мои знания ценятся так дешево? Тогда я лишь могу предположить, что верный ответ - это <clr>не 5%<clrEnd>..."	"Quest Pilot.qmm: jumps.131.description. Preserve every <tag> exactly. English reference: - What is it??? Do you think my knowledge is that cheap? Then I can only presume that the correct answer is <clr>not 5%<clrEnd>..."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/132/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.132.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/132/text"	"Ничего не предлагать"	"Quest Pilot.qmm: jumps.132.text. Preserve every <tag> exactly. English reference: Don't offer anything"	"Quest,Pilot"	"Нічога не прапаноўваць"
 "/quests/Pilot.qmm/jumps/132/description"	"- Рейнджер <Ranger>, - в глазах человека проскочила злая искорка, - я полагал, вам нужна моя помощь... Вижу, что ошибся.
 
 Вы поняли, что сделали что-то не так. И теперь вам остается только решать задачу самостоятельно."	"Quest Pilot.qmm: jumps.132.description. Preserve every <tag> exactly. English reference: - Ranger <Ranger>, - an evil glimpse flashed in the Human's eyes, - I thought you needed my help... I guess, I misunderstood you.
 
 You realised something was wrong. And now you had to solve the problem yourself."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/133/text"	"10%"	"Quest Pilot.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/134/text"	"15%"	"Quest Pilot.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/135/text"	"25%"	"Quest Pilot.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/136/text"	"20%"	"Quest Pilot.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/137/text"	"5%"	"Quest Pilot.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/153/text"	"Перейти к следующему вопросу"	"Quest Pilot.qmm: jumps.153.text. Preserve every <tag> exactly. English reference: Go on to the next item"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/156/text"	"Конечно, я согласен - ведь я ничего не теряю!"	"Quest Pilot.qmm: jumps.156.text. Preserve every <tag> exactly. English reference: That's all right with me, of course - I lose nothing!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/157/text"	"Да ну тебя с твоей теорией, я лучше практику сдам!"	"Quest Pilot.qmm: jumps.157.text. Preserve every <tag> exactly. English reference: Get along with your theory, I'd better pass the practice!"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/158/text"	"Отправиться сдавать практику"	"Quest Pilot.qmm: jumps.158.text. Preserve every <tag> exactly. English reference: Pass the practice"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/159/text"	"Тянуть билет"	"Quest Pilot.qmm: jumps.159.text. Preserve every <tag> exactly. English reference: Choose Test-paper"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/160/text"	"Тянуть билет"	"Quest Pilot.qmm: jumps.160.text. Preserve every <tag> exactly. English reference: Choose Test-paper"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/161/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.161.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/162/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.162.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/163/text"	"Вниз"	"Quest Pilot.qmm: jumps.163.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/164/text"	"Вниз"	"Quest Pilot.qmm: jumps.164.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/165/text"	"Вниз"	"Quest Pilot.qmm: jumps.165.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/166/text"	"Вверх"	"Quest Pilot.qmm: jumps.166.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/167/text"	"Вверх"	"Quest Pilot.qmm: jumps.167.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/168/text"	"Вверх"	"Quest Pilot.qmm: jumps.168.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/170/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.170.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/133/text"	"10%"	"Quest Pilot.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Pilot"	"10%"
+"/quests/Pilot.qmm/jumps/134/text"	"15%"	"Quest Pilot.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Pilot"	"15%"
+"/quests/Pilot.qmm/jumps/135/text"	"25%"	"Quest Pilot.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Pilot"	"25%"
+"/quests/Pilot.qmm/jumps/136/text"	"20%"	"Quest Pilot.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Pilot"	"20%"
+"/quests/Pilot.qmm/jumps/137/text"	"5%"	"Quest Pilot.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Pilot"	"5%"
+"/quests/Pilot.qmm/jumps/153/text"	"Перейти к следующему вопросу"	"Quest Pilot.qmm: jumps.153.text. Preserve every <tag> exactly. English reference: Go on to the next item"	"Quest,Pilot"	"Перайсьці да наступнага пытаньня"
+"/quests/Pilot.qmm/jumps/156/text"	"Конечно, я согласен - ведь я ничего не теряю!"	"Quest Pilot.qmm: jumps.156.text. Preserve every <tag> exactly. English reference: That's all right with me, of course - I lose nothing!"	"Quest,Pilot"	"Вядома, я згодны — бо я нічога не трачу!"
+"/quests/Pilot.qmm/jumps/157/text"	"Да ну тебя с твоей теорией, я лучше практику сдам!"	"Quest Pilot.qmm: jumps.157.text. Preserve every <tag> exactly. English reference: Get along with your theory, I'd better pass the practice!"	"Quest,Pilot"	"Ды ну цябе з тваёй тэорыяй, я лепей практыку здам!"
+"/quests/Pilot.qmm/jumps/158/text"	"Отправиться сдавать практику"	"Quest Pilot.qmm: jumps.158.text. Preserve every <tag> exactly. English reference: Pass the practice"	"Quest,Pilot"	"Адправіцца здаваць практыку"
+"/quests/Pilot.qmm/jumps/159/text"	"Тянуть билет"	"Quest Pilot.qmm: jumps.159.text. Preserve every <tag> exactly. English reference: Choose Test-paper"	"Quest,Pilot"	"Цягнуць білет"
+"/quests/Pilot.qmm/jumps/160/text"	"Тянуть билет"	"Quest Pilot.qmm: jumps.160.text. Preserve every <tag> exactly. English reference: Choose Test-paper"	"Quest,Pilot"	"Цягнуць білет"
+"/quests/Pilot.qmm/jumps/161/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.161.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	"Увесьці сакрэтны код"
+"/quests/Pilot.qmm/jumps/162/text"	"Ввести секретный код"	"Quest Pilot.qmm: jumps.162.text. Preserve every <tag> exactly. English reference: Enter the secret code"	"Quest,Pilot"	"Увесьці сакрэтны код"
+"/quests/Pilot.qmm/jumps/163/text"	"Вниз"	"Quest Pilot.qmm: jumps.163.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	"Уніз"
+"/quests/Pilot.qmm/jumps/164/text"	"Вниз"	"Quest Pilot.qmm: jumps.164.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	"Уніз"
+"/quests/Pilot.qmm/jumps/165/text"	"Вниз"	"Quest Pilot.qmm: jumps.165.text. Preserve every <tag> exactly. English reference: Down"	"Quest,Pilot"	"Уніз"
+"/quests/Pilot.qmm/jumps/166/text"	"Вверх"	"Quest Pilot.qmm: jumps.166.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	"Угору"
+"/quests/Pilot.qmm/jumps/167/text"	"Вверх"	"Quest Pilot.qmm: jumps.167.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	"Угору"
+"/quests/Pilot.qmm/jumps/168/text"	"Вверх"	"Quest Pilot.qmm: jumps.168.text. Preserve every <tag> exactly. English reference: Up"	"Quest,Pilot"	"Угору"
+"/quests/Pilot.qmm/jumps/170/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.170.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/170/description"	"- Что?! - возмутилась Бигбуба. - Да за кого ты меня принимаешь?! Думаешь, малокские женщины такие тупые, что готовы первого встречного, назвавшегося командором, обедом кормить?! Пошел вон отсюда, мошенник!!!
 
 И Бигбуба удалилась в направлении столовой Центра. Что ж, вам не удалось произвести на нее впечатление. Придется ни с чем возвращаться к Лоо-Хэну."	"Quest Pilot.qmm: jumps.170.description. Preserve every <tag> exactly. English reference: - What?! - Bugbubba was shocked. - What do you take me for?! Do you consider Maloq females as stupid as to feed every Tom, Dick and Harry if they introduce themselves as commodores?! Get out of here, knave!!! 
 
 And Bugbubba left towards the Centre's canteen. Well, you failed to impress her. Now you'll have to return to Loho-Khan defeated."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/171/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.171.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/171/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.171.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/171/description"	"- Не откажет ли благородная малокская женщина в скромном обеде прославленному командору, потратившему все свои деньги на ремонт корабля после боя с доминаторами? - вы были сама учтивость.
 
 - Я сочту за честь угостить вас лучшей жратвой из нашей столовой! - Бигбуба постаралась ответить в столь же учтивом тоне, но глупое хихиканье портило все впечатление от ее ответа. Вы вместе с Бигбубой пошли в столовую Центра. Столовая была организована на необычный манер: заплатив за вход, вы могли после этого совершенно бесплатно выбирать себе любые блюда. Сегодня вход стоил {150} cr, и Бигбуба заплатила за вас двоих."	"Quest Pilot.qmm: jumps.171.description. Preserve every <tag> exactly. English reference: - Will such a noble Maloq female buy a simple lunch for a celebrated commodore who spent all his money on the ship repair after the fight with dominators? - you were affability itself.
 
 - I'll be honoured to buy you the best scoff from our canteen! - Bugbubba tried to keep up with the courteous tone but her foolish giggling spoiled all the impression from her answer. You went to the Centre's canteen. The canteen was organised in a queer way: you paid for the entrance and chose any dishes you wanted for free. The entrance cost {150} cr, and Bugbubba paid for both of you."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/172/text"	"Пригласить Бигбубу отобедать за ваш счет (300 cr)"	"Quest Pilot.qmm: jumps.172.text. Preserve every <tag> exactly. English reference: Offer to buy Bugbubba lunch (300 cr)"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/172/text"	"Пригласить Бигбубу отобедать за ваш счет (300 cr)"	"Quest Pilot.qmm: jumps.172.text. Preserve every <tag> exactly. English reference: Offer to buy Bugbubba lunch (300 cr)"	"Quest,Pilot"	"Запрасіць Бігбубу паабедаць за ваш кошт (300 cr)"
 "/quests/Pilot.qmm/jumps/172/description"	"- Сейчас как раз время обеда, предлагаю перекусить в местной столовой, надеюсь, вы не откажетесь, если я заплачу за нас обоих?
 
 - Конечно нет, я все время жрать хочу! Очень люблю <clr>сытно<clrEnd> поесть, но так, чтобы еды <clr>мало<clrEnd> было, а то брюхо сильно раздувается - всю фигуру портит! 
@@ -1401,7 +1401,7 @@ And Bugbubba left towards the Centre's canteen. Well, you failed to impress her.
 - Yes, of course, I'm constantly hungry! I love to have <clr>a nourishing meal<clrEnd>, but <clr> don't take big quantities <clrEnd> - they make the belly huge and it deforms all the figure! 
 
 The last phrase was especially funny: ""What figure is she talking about?! This is a walking wardrobe!"". But then you remembered about your hard mission and minced after Bugbubba who rushed to the Centre's canteen. The canteen was organised in a queer way: you paid for the entrance and chose any dishes you wanted for free. The entrance cost {150} cr, and you paid for both of you."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/173/text"	"Предложить Бигбубе отобедать вместе (150 cr)"	"Quest Pilot.qmm: jumps.173.text. Preserve every <tag> exactly. English reference: Offer Bugbubba to have lunch together (150 cr)"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/173/text"	"Предложить Бигбубе отобедать вместе (150 cr)"	"Quest Pilot.qmm: jumps.173.text. Preserve every <tag> exactly. English reference: Offer Bugbubba to have lunch together (150 cr)"	"Quest,Pilot"	"Прапанаваць Бігбубе паабедаць разам (150 cr)"
 "/quests/Pilot.qmm/jumps/173/description"	"- Сейчас как раз время обеда. Может, перекусим вместе в здешней столовой? - предложили вы.
 
 - Почему бы и нет? - сказала Бигбуба. - Не все ли мне равно, кто рядом со мной жрать будет? 
@@ -1411,16 +1411,16 @@ The last phrase was especially funny: ""What figure is she talking about?! This 
 - Why not? - Bugbubba said. - Do I really care who is scoffing nearby?
 
 But she seemed to be flattered. You minced quickly after Bugbubba who rushed to the Centre's canteen. The canteen was organised in a queer way: you paid for the entrance and chose any dishes you wanted for free. The entrance cost {150} cr."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/174/text"	"Представиться прославленным командором"	"Quest Pilot.qmm: jumps.174.text. Preserve every <tag> exactly. English reference: Introduce yourself as a celebrated commodore"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/175/text"	"Представиться научным работником"	"Quest Pilot.qmm: jumps.175.text. Preserve every <tag> exactly. English reference: Introduce yourself as a scholar"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/176/text"	"Представиться журналистом"	"Quest Pilot.qmm: jumps.176.text. Preserve every <tag> exactly. English reference: Introduce yourself as a journalist"	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/177/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.177.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/174/text"	"Представиться прославленным командором"	"Quest Pilot.qmm: jumps.174.text. Preserve every <tag> exactly. English reference: Introduce yourself as a celebrated commodore"	"Quest,Pilot"	"Прадставіцца праслаўленым камандорам"
+"/quests/Pilot.qmm/jumps/175/text"	"Представиться научным работником"	"Quest Pilot.qmm: jumps.175.text. Preserve every <tag> exactly. English reference: Introduce yourself as a scholar"	"Quest,Pilot"	"Прадставіцца навуковым працаўніком"
+"/quests/Pilot.qmm/jumps/176/text"	"Представиться журналистом"	"Quest Pilot.qmm: jumps.176.text. Preserve every <tag> exactly. English reference: Introduce yourself as a journalist"	"Quest,Pilot"	"Прадставіцца журналістам"
+"/quests/Pilot.qmm/jumps/177/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.177.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/177/description"	"- Что?! - возмутилась Бигбуба. - Ученый <Ranger> просит бедную малокскую труженицу накормить его обедом? Да за кого ты меня принимаешь?! Я точно знаю, что все ученые купаются в деньгах, как пеленги в болоте! Так что ты наврал мне, наверное, что ты ученый. Пошел вон отсюда, мошенник!!!
 
 И Бигбуба удалилась в направлении столовой Центра. Что ж, вам не удалось произвести на нее впечатление. Придется ни с чем возвращаться к Лоо-Хэну."	"Quest Pilot.qmm: jumps.177.description. Preserve every <tag> exactly. English reference: - What?! - Bugbubba was shocked. - Did I get it right, that <Ranger>, a scholar, is requesting a poor Maloq plodder to buy him lunch? What do you take me for?! I know it cold that all scholars roll in money like the Pelengs in the mire! So you must have shucked to me about being a scholar. Get out of here, knave!!!
 
 And Bugbubba left towards the Centre's canteen. Well, you failed to impress her. Now you'll have to return to Loho-Khan defeated."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/178/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.178.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/178/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.178.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/178/description"	"- Я вложил в свой последний проект все мои деньги, - пожаловались вы. - Даже пообедать не на что...
 
 Бигбуба тупо смотрела на вас, не понимая, что к чему. Похоже, надо сделать более прозрачный намек:
@@ -1438,19 +1438,19 @@ Bugbubba was stared blankly at you catching nothing. It seemed like your hint sh
 - Learned beggar!!! - Bugbubba burst out laughing and almost knocked out the glasses from the windows. - Oh, yes, I think I can buy you lunch and then my colleagues and me will have something to nicker at! Come on!
 
 You minced quickly after Bugbubba who rushed to the Centre's canteen, which was organised in a queer way: you paid {150} cr for the entrance and chose any dishes you wanted for free. Bugbubba paid for both of you."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/179/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.179.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/179/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.179.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/179/description"	"- Ха! - ухмыльнулась Бигбуба. - Пусть твой дружок Лоо-Хэн угощает тебя обедом! Нашел дурочку...
 
 И Бигбуба гордо удалилась в направлении столовой Центра. Что ж, вам не удалось произвести на нее впечатление. Придется ни с чем возвращаться к Лоо-Хэну."	"Quest Pilot.qmm: jumps.179.description. Preserve every <tag> exactly. English reference: - Ha-ha! - Bugbubba grinned. - Not likely! Let your buddy Loho-Khan treat you!
 
 And Bugbubba left towards the Centre's canteen. Well, you failed to impress her. Now you'll have to return to Loho-Khan defeated."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/180/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.180.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/180/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.180.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/180/description"	"- Нищий журналист?! - удивилась Бигбуба. - Так не бывает! Ты меня обманул, ты вовсе не журналист. Ты просто мелкий жулик, решивший поживиться за счет несчастной одинокой малокской женщины. Пошел вон отсюда, мошенник!!!
 
 И Бигбуба удалилась в направлении столовой Центра. Что ж, вам не удалось произвести на нее впечатление. Придется ни с чем возвращаться к Лоо-Хэну."	"Quest Pilot.qmm: jumps.180.description. Preserve every <tag> exactly. English reference: - Pauper journalist?! - Bugbubba got surprised. - It just cant' be! You lied to me, you are anything but a journalist. You are just a pilfer who decided to make good at a poor lonely Maloq female's expense. Get out of here, knave!!!
 
 And Bugbubba left towards the Centre's canteen. Well, you failed to impress her. Now you'll have to return to Loho-Khan defeated."	"Quest,Pilot"	""
-"/quests/Pilot.qmm/jumps/181/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.181.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	""
+"/quests/Pilot.qmm/jumps/181/text"	"Попросить Бигбубу накормить вас обедом"	"Quest Pilot.qmm: jumps.181.text. Preserve every <tag> exactly. English reference: Ask Bugbubba to wine and dine you"	"Quest,Pilot"	"Папрасіць Бігбубу накарміць вас абедам"
 "/quests/Pilot.qmm/jumps/181/description"	"- А вы знаете, ведь меня сегодня обокрали! - пожаловались вы Бигбубе. - Все, что нажил честным трудом, все украли: три магнитофона, три стереокамеры, бумажник с деньгами и документами... Тоже три... Прямо в космопорту, представляете. Даже пообедать теперь не на что. Может, вы меня угостите? А я про вас потом репортаж сделаю...
 
 - Конечно, конечно! - Бигбуба явно испытывала сочувствие к вам. - Как же я ненавижу воров! Хуже пиратов, честное слово, ведь те хоть сражаться умеют... А о чем будет репортаж? 
