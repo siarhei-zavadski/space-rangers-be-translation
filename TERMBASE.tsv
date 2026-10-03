@@ -133,7 +133,7 @@ lemma.pursuit	преследование	pursuit	перасьлед		Starnik п�
 lemma.talk	разговор	talk	размова		already FormCfgSettings	—
 lemma.endturn	Конец хода	End Turn	Канец ходу		ход already: хады, хадоў	—
 lemma.trade_center	торговый центр	trade center	гандлёвы цэнтр		цэнтр not цэнтар	—
-lemma.appear	появиться	appear	з'явіцца/з'явілася		user lock: apostrophe, not зьявіцца	—
+lemma.appear	появиться	appear	з'явіцца/з'явілася/з'явіўся/з'явіліся		user lock: apostrophe, not зьявіцца	—
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазераў		proper name lock; series блазероід	—
@@ -1478,9 +1478,10 @@ lemma.brega	Брего	Brego	Брэга		cabin boy; indeclinable in the source	K
 lemma.tsvaga	Цвага	Tsvaga	Цвага/Цвагай/Цвагу		pirate	Kidnapped.qmm
 lemma.felix	Феликс	Felix	Фэлікс/Фэлікса/Фэліксам		second pilot	Kidnapped.qmm
 lemma.baldha	балдха	baldha	балдха		coined peleng insult, kept as a token	Kidnapped.qmm
-lemma.asivas	Асивас	Asivas	Асівас		jacket brand	Kidnapped.qmm
+lemma.asivas	Асивас	Asivas	Асівас/асівас		jacket brand	Kidnapped.qmm
 lemma.ornioli	Орниоли	Ornioli	Арніолі		person named in a button; not Орлиони	Kidnapped.qmm
 lemma.tauhito	Таухито	Tauhito	Таўхіто		hull name already used in HullType	HullType.tsv
 lemma.mercine	мерцин	mercine	мэрцын/мэрцыну	мерцын	game mineral; G мэрцыну already in Reward.9	Reward.tsv
 lemma.naa_vi	На'а-Ви	Na'a-Vi	На'а/Ві		team name split by the hyphen	Kidnapped.qmm
 lemma.nanoscheme	наносхема	nanoscheme	нанасхемы		repair part; нана- as in нанаэлемэнты	Kidnapped.qmm
+lemma.shvoks	Швокс	Shvoks	Швокс		Dzhuhallag agent	Kidnapped.qmm
