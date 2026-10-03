@@ -128,7 +128,7 @@ lemma.asteroid	астероид	asteroid	астэроід		classical астэ-	�
 lemma.bubble	пузырь	bubble	бурбалка		Klissan-war tech «бурбалка» скрыўленай прасторы	—
 lemma.experience	опыт	experience	досьвед		already in FormShip; пунктаў досьведу	—
 lemma.hangar	ангар	hangar	ангар		loan; у ангары, родны ангара	—
-lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок		matches FormGalaxy скок / скокнуць	—
+lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок/гіпэрскоку		matches FormGalaxy скок / скокнуць	—
 lemma.pursuit	преследование	pursuit	перасьлед		Starnik перасьледваць; звычайны/баявы перасьлед	—
 lemma.talk	разговор	talk	размова		already FormCfgSettings	—
 lemma.endturn	Конец хода	End Turn	Канец ходу		ход already: хады, хадоў	—
@@ -175,7 +175,7 @@ lemma.military_base	военная база	military base	вайсковая б�
 lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
 lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
 lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
-lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў/манеўру		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
 lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі		already Baron4; G блястэра	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -1466,10 +1466,10 @@ lemma.orlioni	Орлиони	Orlioni	Арліоні		phantom name	Kidnapped.qmm
 lemma.tisanush	Тисануш	Tisanush	Цісануш/Цісанушам/Цісануша		hostile on the ship	Kidnapped.qmm
 lemma.kashkel	Кашкель	Kashkel	Кашкэль/Кашкэлем/Кашкэля/Кашкэлю		status lines; the panel name Какшель uses the same person; D Кашкэлю	Kidnapped.qmm
 lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom	Kidnapped.qmm
-lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай		author of the lockpicking book	Kidnapped.qmm
+lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай/Мальпу		author of the lockpicking book; A Мальпу	Kidnapped.qmm
 lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
-lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі/дэканструктарам		crawling machine; I дэканструктарам	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі/дэканструктарам/Дэканструктары		crawling machine; I дэканструктарам	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
 lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
@@ -1492,8 +1492,12 @@ lemma.valentine	Валентайн	Valentine	Валентайна		author of the
 lemma.kuvrilov	Куврилов	Kuvrilov	Куврылава		voice on the pirate film copy	Kidnapped.qmm
 lemma.tariks	Тарикс	Tariks	Тарыкс/Тарыкса		servant who shows the guest a cabin	Kidnapped.qmm
 lemma.loor_tafi	Лоор-Тафи	Loor-Tafi	Лоорам/Тафі		gaal doctor named by Triclop	Kidnapped.qmm
-lemma.dzu	Дзу	Dzu	Дзу		speaker cuts off Дзухаллаг	Kidnapped.qmm
+lemma.dzu	Дзу	Dzu	Дзу/дзухі		speaker cuts off Дзухаллаг; plural insult дзухі	Kidnapped.qmm
 lemma.dronz	Дронз	Dronze	Дронз		micromodule; the name stays Дронз	MicroModuls.tsv
 lemma.forcer	Форсер	Forcer	Форсэр		micromodule name	MicroModuls.tsv
 lemma.glep	глэп	glep	Глэп/глэпу		pirate narcotic; nominative already in Megatest	Kidnapped.qmm
-lemma.jogan	джоган	jogan	джоганы/галатамайскія		coined fei snack and its Galatama adjective	Kidnapped.qmm
+lemma.jogan	джоган	jogan	джоганы/галатамайскія/джоганаў/галатамайскіх		coined fei snack and its Galatama adjective	Kidnapped.qmm
+lemma.aabis	Аабисс	Aabis	Аабіс		Gaaldok statue; the local word means самаадданы	Kidnapped.qmm
+lemma.gambit_break	га-ам'бит	gambit stutter	амбіт		spoken break of гамбіт; the hyphen splits the token	Kidnapped.qmm
+lemma.kortzin	кортзин	kortzin	кортзін/кортзіну		coined mineral left in the ground	Kidnapped.qmm
+lemma.clan	клан	clan	клан/Клан/Клану/Кланам	клян	pirate Clan; Starnik clan, not the maple клян	https://starnik.by/pravapis/35824
