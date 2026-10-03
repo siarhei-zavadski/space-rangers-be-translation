@@ -1458,18 +1458,18 @@ lemma.khrum	Хрям-Хрум	Khram-Khrum	Храм/Хрум		coined penchekryak 
 lemma.wild_lyakushki	лякушшек	wild lyakushki	лякушшак		doubled ш in the joke team name	Olympiada.qmm
 lemma.lioni	Лиони	Lioni	Ліоні		crewman on the captured ship	Kidnapped.qmm
 lemma.triclop	Триклоп	Triclop	Трыклоп/Трыклопа		crewman on the captured ship	Kidnapped.qmm
-lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла/Вёрслам		genitive in the chance counter	Kidnapped.qmm
+lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла/Вёрслам/Вёрслу		genitive in the chance counter; D Вёрслу	Kidnapped.qmm
 lemma.bargam	Баргам	Bargam	Баргам/Баргама/Баргамам		quest-giver; G Баргама	Kidnapped.qmm
 lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма/Махсімам		kept the х of the source name	Kidnapped.qmm
 lemma.barney_bucks	Барни Бакс	Barney Bucks	Барні		Бакс passes hunspell	Kidnapped.qmm
 lemma.orlioni	Орлиони	Orlioni	Арліоні		phantom name	Kidnapped.qmm
 lemma.tisanush	Тисануш	Tisanush	Цісануш/Цісанушам/Цісануша		hostile on the ship	Kidnapped.qmm
-lemma.kashkel	Кашкель	Kashkel	Кашкэль/Кашкэлем/Кашкэля		status lines; the panel name Какшель uses the same person	Kidnapped.qmm
+lemma.kashkel	Кашкель	Kashkel	Кашкэль/Кашкэлем/Кашкэля/Кашкэлю		status lines; the panel name Какшель uses the same person; D Кашкэлю	Kidnapped.qmm
 lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom	Kidnapped.qmm
 lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай		author of the lockpicking book	Kidnapped.qmm
 lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
-lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі		crawling machine	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі/дэканструктарам		crawling machine; I дэканструктарам	Kidnapped.qmm
 lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
 lemma.sonar	сонар	sonar	санар/санара/санарам	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
@@ -1492,3 +1492,8 @@ lemma.valentine	Валентайн	Valentine	Валентайна		author of the
 lemma.kuvrilov	Куврилов	Kuvrilov	Куврылава		voice on the pirate film copy	Kidnapped.qmm
 lemma.tariks	Тарикс	Tariks	Тарыкс/Тарыкса		servant who shows the guest a cabin	Kidnapped.qmm
 lemma.loor_tafi	Лоор-Тафи	Loor-Tafi	Лоорам/Тафі		gaal doctor named by Triclop	Kidnapped.qmm
+lemma.dzu	Дзу	Dzu	Дзу		speaker cuts off Дзухаллаг	Kidnapped.qmm
+lemma.dronz	Дронз	Dronze	Дронз		micromodule; the name stays Дронз	MicroModuls.tsv
+lemma.forcer	Форсер	Forcer	Форсэр		micromodule name	MicroModuls.tsv
+lemma.glep	глэп	glep	Глэп/глэпу		pirate narcotic; nominative already in Megatest	Kidnapped.qmm
+lemma.jogan	джоган	jogan	джоганы/галатамайскія		coined fei snack and its Galatama adjective	Kidnapped.qmm
