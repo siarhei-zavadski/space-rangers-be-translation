@@ -2052,7 +2052,13 @@ Your conscience went numb, your head started aching terribly. What happened next
 
 - Say no more, <Ranger>, you can go and have some rest, you must have had a hard day. 
 
-As soon as you turned round the corner you let out a sigh of relief. You withstood the test. And you helped the warden quite a bit too, and he will not forget this. Only that - the other inmates are not likely to approve of your foot-licking."	"Quest,Prison"	""
+As soon as you turned round the corner you let out a sigh of relief. You withstood the test. And you helped the warden quite a bit too, and he will not forget this. Only that - the other inmates are not likely to approve of your foot-licking."	"Quest,Prison"	"Трэба дапамагчы начальніку, потым ён, можа, дапаможа і вам. Гэта найлепшы выхад са сытуацыі, што склалася. Вы загаварылі:
+
+- Я сяджу ў гэтай турме ўжо [p1] дзён. І, паверце, гэта выдатнае месца, дзе я стаў разумець, што кожны, хто пераступіў рысу закону, мусіць атрымаць па заслугах. Я ўжо стаў на шлях выпраўленьня дзякуючы дасьведчанаму начальніку і яго падначаленым. Кожны, хто трапляе ў гэтую турму, становіцца часткай сям'і. А калі выходзіць, то перастае парушаць закон, - вы ніяк не маглі стрымаць красамоўства, што прачнулася. - У нас ёсьць выдатная бібліятэка, ў якой вялізная колькасьць розных выданьняў...
+
+- Не варта працягваць, <Ranger>, вы можаце ісьці адпачыць, а то, мабыць, у вас быў цяжкі дзень.
+
+Як толькі вы завярнулі за вугал, можна было спакойна уздыхнуць. Вы вытрымалі гэтае выпрабаваньне. І няблага дапамаглі начальніку турмы, гэта вам залічыцца. Вось толькі іншым вязьням наўрад ці спадабаецца ваша падлізваньне."
 "/quests/Prison.qmm/jumps/346/text"	"По-дружески обнять начальника"	"Quest Prison.qmm: jumps.346.text. Preserve every <tag> exactly. English reference: Hug the warden as if he were your best friend"	"Quest,Prison"	"Па-сяброўску абняць начальніка"
 "/quests/Prison.qmm/jumps/346/description"	"Вы обняли начальника и сказали: 
 - У нас тут очень дружественные отношения. Видите, как мы дружим с нашим начальством...
@@ -2066,7 +2072,13 @@ Everyone's eyes became the size of dinner-plates looking at such unprecedented i
 However the warden did not let you finish your tirade, landing his sizeable fist on your jaw. 
 
 - Backslapping is not something I am going to tolerate! - the warden said - Some of the inmates you just have to be violent with. If you do not show them who is the master around here, sooner or later they will be sitting on your neck swinging their legs. Hey, guards, - her called out, - drag him to his cell. Let him think about his behaviour and remember where he is. 
-The guards carried out the warden's orders with surprising preciseness, and soon you were back in your cell, waiting for the little stars to disappear and wondering why is it that the number of inmates in the cell has doubled and half of them looked like twins of the other half. You really needed some rest."	"Quest,Prison"	""
+The guards carried out the warden's orders with surprising preciseness, and soon you were back in your cell, waiting for the little stars to disappear and wondering why is it that the number of inmates in the cell has doubled and half of them looked like twins of the other half. You really needed some rest."	"Quest,Prison"	"Вы абнялі начальніка і сказалі: 
+- Ў нас тут вельмі сяброўскія дачыненьні. Бачыце, як мы сябруем з нашым начальствам...
+Вочы ў навакольных палезьлі на лоб ад нябачанага хамства.
+Не пасьпелі вы дагаварыць, як начальнік зь усёй сілы ўдарыў вас кулаком па галаве. Удар прыйшоўся вам у сківіцу, і па тэхнічных прычынах вы былі змушаныя перарваць выступ.
+
+- Такога панібрацтва я трываць не зьбіраюся! - заявіў начальнік турмы. - Даводзіцца трымаць некаторых вязьняў у вожыкавых рукавіцах. Калі ім не паказаць своечасова сілу, то яны палезуць на шыю і ногі зьвесяць. Ахова, - гаўкнуў ён, - занясіце яго ў камэру. Хай падумае над сваімі паводзінамі і зразумее, дзе ён знаходзіцца.
+Ахоўнікі адразу выканалі загад начальніка турмы, і вы апынуліся ў сябе ў камэры, ў вачах мільгалі іскры, а вязьняў на нарах сядзела чамусьці ўдвая больш, чым звычайна, - такое ўражаньне, што сёньня тут праходзіў конкурс блізьнятаў. Давялося ляжаць на нарах і прыходзіць у сябе."
 "/quests/Prison.qmm/jumps/348/text"	"Убежать"	"Quest Prison.qmm: jumps.348.text. Preserve every <tag> exactly. English reference: Run away"	"Quest,Prison"	"Уцячы"
 "/quests/Prison.qmm/jumps/348/description"	"Дело запахло жареным. Нужно было срочно уносить ноги, и вы бросились в пустой коридор. За вами ринулись вымогатели, но не успели вы пробежать еще и 20 метров, как у вас на пути встала группа охранников, которая патрулировала эту часть тюрьмы. Они увидели ваших преследователей, и кто-то закричал:
 
@@ -2108,7 +2120,12 @@ You quickly got back to your cell."	"Quest,Prison"	"Першы ўдар прып
 
 - Thank you very much, I think we can stop here, <Ranger>. In fact I think we should really let you go wherever you were headed to!
 
-Job well done! You hoped this rhetoric would help you in the future!"	"Quest,Prison"	""
+Job well done! You hoped this rhetoric would help you in the future!"	"Quest,Prison"	"Вы па-сяброўску абнялі начальніка і сказалі: 
+- Ў нас тут вельмі сяброўскія дачыненьні. Для нас начальнік - бацька родны! Вельмі справядлівы. Гэта найлепшая турма на 10 найбліжэйшых сыстэмаў! Кормяць нас выдатна, ахоўнікі паважаюць вязьняў і дапамагаюць ім, абараняюць слабых і трымаюць у вожыкавых рукавіцах уплывовых асобаў, - камісія запісвала вашу прамову, стараючыся не прапусьціць ніводнага слова, а вы самі зьдзіўляліся красамоўству, што раптам прачнулася, і нястомна працягвалі: - кожны вязень ня адчувае сябе тут у няволі. Мы пастаянна займаемся справамі, працуем, ходзім у бібліятэку, глядзім фільмы. І, што дзіўна, выпраўляемся! Гэтая турма мусіць служыць прыкладам для ўсіх падобных установаў...
+
+- Вялікі дзякуй, думаю, на гэтым варта спыніцца, <Ranger>. Здаецца, вам пара ісьці туды, куды вы ішлі!
+
+Справа зробленая! Вы спадзяваліся, што гэта вам залічыцца!"
 "/quests/Prison.qmm/jumps/352/text"	"Драться"	"Quest Prison.qmm: jumps.352.text. Preserve every <tag> exactly. English reference: Fight"	"Quest,Prison"	"Біцца"
 "/quests/Prison.qmm/jumps/352/description"	"Хорошо, что вы ходили в тренажерный зал. Теперь силе вашего удара может позавидовать и таранное устройство! Вы ударили пеленга, который стоял впереди всех и был самым разговорчивым. Удар пришелся в голову, и беднягу даже приподняло на метр от пола. Пеленг выпучил глаза и с криком:
 - Я лечу! Лечу-у-у!!! - обрушился на малоков, раскидав их в разные стороны. 
@@ -2352,7 +2369,14 @@ But the inmates were treating you suspiciously, now that the knew about the set 
 - MMMMMM, - you shook your head in fear, but the warden has already given a sign to the guards and they started battering you. They made sure they got your head first, carefully following the warden's instructions on that. At last you pled for mercy.
 - See, - the warden addressed the inspection committee, - thanks to the efforts of our massagers, this convict has stopped being a mute. And you know, I could go for hours on end about the miracles of our labour therapy...
 
-But the miracles of labour therapy fell out on you, because you passed out. When you came to you already were back in your cell."	"Quest,Prison"	""
+But the miracles of labour therapy fell out on you, because you passed out. When you came to you already were back in your cell."	"Quest,Prison"	"- Што «так»? - перапытаў начальнік турмы.
+- Я кажу «так», гэта ўсё ахоўнікі - яны жорстка зьбіваюць мяне кожны дзень, а па выхадных і сьвятах - два разы на дзень! У гэтай турме самыя шалёныя ахоўнікі, і мы, няшчасныя вязьні, баімся іх больш, чым нападу дамінатараў...
+- А ад чаго вы страцілі дар мовы і сталі глуханямым? - зацікавіўся адзін з чальцоў камісіі. На жаль, вы занадта позна зразумелі, што менавіта цяпер адбываецца:
+- Няўжо вы не бачыце, што гэты вязень проста зьдзекуецца зь усіх нас? - злавесным тонам сказаў начальнік турмы, набліжаючыся да вас з дубінкай у руках. - Падобна, <Ranger>, вам пара ўправіць мазгі. Можа, і дар мовы да вас вернецца - клін клінам выбіваюць, як вядома...
+- У-м-м, - закруцілі вы галавой у жаху, але начальнік турмы ўжо даў знак ахоўнікам, і тыя ўзяліся зьбіваць вас. Яны старанна цэлілі вам у галаву, няўхільна трымаючыся інструкцыяў начальства на гэты конт. Нарэшце вы папрасілі літасьці.
+- Вось бачыце, - зьвярнуўся да камісіі начальнік турмы, - дзякуючы намаганьням нашых масажыстаў да вязьня вярнуўся дар мовы. А пра тое, якія цуды ў нас творыць працатэрапія, я магу расказваць гадзінамі...
+
+Расказу пра цуды працатэрапіі вы ўжо не чулі, бо страцілі прытомнасьць. Ачомаліся вы ў камэры."
 "/quests/Prison.qmm/jumps/456/text"	"М-м-м (отрицательно покачать головой)"	"Quest Prison.qmm: jumps.456.text. Preserve every <tag> exactly. English reference: Mmm... (shake your head in negation)"	"Quest,Prison"	"М-м-м (адмоўна пакруціць галавой)"
 "/quests/Prison.qmm/jumps/456/description"	"- То есть, вы хотите сказать, что охрана здесь не при чем? - не отставала она от вас.
 - Угм, - утвердительно кивнули вы и жестами дали понять, что охранники относятся к вам хорошо.
@@ -2364,7 +2388,12 @@ But the miracles of labour therapy fell out on you, because you passed out. When
 
 - See, - the warden jumped at the occasion, - our prison is open for everyone, be it a cripple or a popular politician. We make no difference here, we welcome everyone with equal hospitality and try to take care of our subjects. And here is a perfect example - when convict <Ranger> first got here he used to have fits of fury, suffered from flatulence and other illnesses, but constant care and the warm and friendly atmosphere of these walls helped him overcome his disease, and I am positive that when he leaves us he will become a rightful member of society. And I can even promise this - it's going to happen much sooner than he himself is expecting! - with this said the warden led the committee over to the prison hospital.
 
-Prostrated you went back to your cell. It did seem to you though that the warden was smiling at you rather sincerely, which could not be said about your cellmates, who looked hostile."	"Quest,Prison"	""
+Prostrated you went back to your cell. It did seem to you though that the warden was smiling at you rather sincerely, which could not be said about your cellmates, who looked hostile."	"Quest,Prison"	"- Гэта значыць, вы хочаце сказаць, што ахова тут ні пры чым? - ня адставала яна ад вас.
+- У-гм, - сьцьвярджальна кіўнулі вы і жэстамі далі зразумець, што ахоўнікі ставяцца да вас добра.
+
+- Вось бачыце, - скарыстаўся сытуацыяй начальнік турмы, - наша турма гатовая адкрыць свае вароты для любога - і для калекі, і для папулярнага палітыка. Мы ня адрозьніваем, усіх сустракаем аднолькава прыязна і стараемся клапоціцца пра нашых падапечных. І вось наглядны прыклад - адразу як трапіў да нас, вязень <Ranger> пакутаваў прыпадкамі шаленства, мэтэарызмам і іншымі хваробамі, але пастаянны догляд і цёплая атмасфэра дапамаглі яму справіцца з хваробай, і я ўпэўнены, што выйдзе ён адсюль паўнацэнным чальцом грамадзтва. І я абяцаю яму, што здарыцца гэта значна раней, чым ён сам думае! - з гэтымі словамі начальнік турмы павёў камісію аглядаць лячэбніцу.
+
+Прыніжаны, вы вярнуліся ў сваю камэру. Праўда, як вам падалося, начальнік турмы ўсьміхаўся вам даволі шчыра і прыязна, ў адрозьненьне ад суседзяў па камэры, якія сустрэлі вас варожа."
 "/quests/Prison.qmm/jumps/457/text"	"М-м-м (утвердительно кивнуть)"	"Quest Prison.qmm: jumps.457.text. Preserve every <tag> exactly. English reference: Mmmmm (nod in affirmation)"	"Quest,Prison"	"М-м-м (сьцьвярджальна кіўнуць)"
 "/quests/Prison.qmm/jumps/457/description"	"- То есть, охранники вас жестоко избивают? - не отставала она от вас.
 - Мгм, - снова кивнули вы, и жестами пояснили, что таких зверей, как эти моральные уроды, еще поискать нужно. В вашем исполнении эта фраза выглядела довольно нелепо и даже местами неприлично, но вас поняли - и особенно хорошо вас понял начальник тюрьмы.
@@ -2374,7 +2403,11 @@ Prostrated you went back to your cell. It did seem to you though that the warden
 - Mhm, - you nodded again and tried to explain in sign-language that one should go look for such beasts as these morally depraved scumbags. The phrase looked quite awkward to the point of being insulting in your performance, but they did understand you, and the warden was the first person to understand you.
 - Do not pay attention, - he smiled peacefully. - This is our local sort of God's fool, he is totally harmless, although his brain is probably smaller than that of a demented penchekryak. Despite all the love and care that we show for him, he would sell his father's soul for a gleaming hair-pin, and he makes nasty things for everyone. You can't blame him though, a police patrol found this sob on an asteroid where he was raised by the wild kwadakhis. When we found him, he ate moss and peed in his pants. Even asylums and psychiatric clinics refused to take him, and I felt sorry for the guy and agreed to undertake the care over him. 
 
-One of the guards scowled, and the Peleng female inspector patted you on the head and gave you a <clr>cube puzzle<clrEnd>. Prostrated you went back to your cell clenching on to the gift of the tender-hearted Peleng female."	"Quest,Prison"	""
+One of the guards scowled, and the Peleng female inspector patted you on the head and gave you a <clr>cube puzzle<clrEnd>. Prostrated you went back to your cell clenching on to the gift of the tender-hearted Peleng female."	"Quest,Prison"	"- Гэта значыць, ахоўнікі вас жорстка зьбіваюць? - ня адставала яна ад вас.
+- М-гм, - зноў кіўнулі вы і жэстамі патлумачылі, што такіх зьвяроў, як гэтыя маральныя вылюдкі, яшчэ пашукаць трэба. У вашым выкананьні гэтая фраза выглядала даволі недарэчна і нават месцамі непрыстойна, але вас зразумелі - і асабліва добра вас зразумеў начальнік турмы.
+- Не зважайце, - міралюбна прамовіў ён. - Гэта наш мясцовы юродзівы, ён бяскрыўдны малы, хоць мазгоў у яго менш, чым у пэнчэкряка. Нягледзячы на ўсю любоў і клопат, якія мы да яго праяўляем, ён гатовы прадаць нават бацьку роднага за бліскучую зашпільку і паскудзіць усім запар. Што зробіш - паліцэйскі патруль знайшоў бядоту на астэроідзе, дзе яго выхавалі дзікія квадакхі. Ён еў мох і хадзіў пад сябе, калі яго знайшлі. Нават прытулкі і псыхіятрычныя лячэбніцы адмовіліся ад яго, і я згадзіўся ўзяць на сябе клопат пра тое, каб зрабіць зь яго паўнацэннага чальца грамадзтва.
+
+Адзін зь ахоўнікаў зларадна ўсьміхнуўся, а надакучлівая інспектарка пагладзіла вас па галаве і падарыла <clr>кубік Рубіка<clrEnd>. Прыніжаны, вы вярнуліся ў камэру, сьціскаючы ў руках падарунак спагадлівай пеленгшы."
 "/quests/Prison.qmm/jumps/459/text"	"Нет..."	"Quest Prison.qmm: jumps.459.text. Preserve every <tag> exactly. English reference: No..."	"Quest,Prison"	"Не..."
 "/quests/Prison.qmm/jumps/459/description"	"- Что нет? - переспросил начальник тюрьмы.
 - Я говорю ""нет"", я уже когда в тюрьму попал, не мог разговаривать. А местные авторитеты меня жестоко избивают, и от этого я стал дурачком. Если бы не вмешательство охраны, меня бы совсем прибили...
@@ -2398,7 +2431,11 @@ One of the guards scowled, and the Peleng female inspector patted you on the hea
 - Mhm, - you nodded again and tried to explain in sign-language that one should go look for such beasts as these morally depraved scumbags. The phrase looked quite awkward to the point of being insulting in your performance, but they did understand you, and the warden was the first person to understand you.
 - Do not pay attention, - he smiled peacefully. - This is our local sort of God's fool, he is totally harmless, although his brain is probably smaller than that of a demented penchekryak. Despite all the love and care that we show for him, he would sell his father's soul for a gleaming hair-pin, and he makes nasty things for everyone. You can't blame him though, a police patrol found this sob on an asteroid where he was raised by the wild kwadakhis. When we found him, he ate moss and peed in his pants. Even asylums and psychiatric clinics refused to take him, and I felt sorry for the guy and agreed to undertake the care over him. 
 
-One of the guards scowled, and the Peleng female inspector patted you on the head and gave you a candy, which you ate at once. Prostrated you went back to your cell."	"Quest,Prison"	""
+One of the guards scowled, and the Peleng female inspector patted you on the head and gave you a candy, which you ate at once. Prostrated you went back to your cell."	"Quest,Prison"	"- Гэта значыць, ахоўнікі вас жорстка зьбіваюць? - ня адставала яна ад вас.
+- М-гм, - зноў кіўнулі вы і жэстамі патлумачылі, што такіх зьвяроў, як гэтыя маральныя вылюдкі, яшчэ пашукаць трэба. У вашым выкананьні гэтая фраза выглядала даволі недарэчна і нават месцамі непрыстойна, але вас зразумелі - і асабліва добра вас зразумеў начальнік турмы.
+- Не зважайце, - міралюбна прамовіў ён. - Гэта наш мясцовы юродзівы, ён бяскрыўдны малы, хоць мазгоў у яго менш, чым у пэнчэкряка. Нягледзячы на ўсю любоў і клопат, якія мы да яго праяўляем, ён гатовы прадаць нават бацьку роднага за бліскучую зашпільку і паскудзіць усім запар. Што зробіш - паліцэйскі патруль знайшоў бядоту на астэроідзе, дзе яго выхавалі дзікія квадакхі. Ён еў мох і хадзіў пад сябе, калі яго знайшлі. Нават прытулкі і псыхіятрычныя лячэбніцы адмовіліся ад яго, і я згадзіўся ўзяць на сябе клопат пра тое, каб зрабіць зь яго паўнацэннага чальца грамадзтва.
+
+Адзін зь ахоўнікаў зларадна ўсьміхнуўся, а надакучлівая інспектарка пагладзіла вас па галаве і падарыла цукерку, якую вы тут жа зьелі. Прыніжаны, вы вярнуліся ў камэру."
 "/quests/Prison.qmm/jumps/461/text"	"Сходить в медпункт"	"Quest Prison.qmm: jumps.461.text. Preserve every <tag> exactly. English reference: Go to the medical station"	"Quest,Prison"	"Схадзіць у лязарэт"
 "/quests/Prison.qmm/jumps/463/text"	"Тихонечко смыться отсюда, пока вас не заметили"	"Quest Prison.qmm: jumps.463.text. Preserve every <tag> exactly. English reference: Quietly walk away, before they noticed you."	"Quest,Prison"	"Ціхенька змыцца адсюль, пакуль вас не заўважылі"
 "/quests/Prison.qmm/jumps/463/description"	"""Похоже, сегодня медпункт работать не будет"", - подумали вы, возвращаясь назад в камеру."	"Quest Prison.qmm: jumps.463.description. Preserve every <tag> exactly. English reference: ""Looks like today the medical station is closed today "", - you thought to yourself on the way back to the cell."	"Quest,Prison"	"""Падобна, сёньня лязарэт працаваць не будзе"", - падумалі вы, вяртаючыся назад у камэру."
@@ -2415,7 +2452,12 @@ One of the guards scowled, and the Peleng female inspector patted you on the hea
 Now that the hoodlums were no longer a threat, you went back to the medical station. The nurse stood in the corner clenching a scalpel, one of her sleeves was torn. 
 - Pathetic coward! - she spat in your face. - I've seen you run off with your tail between your legs like a filthy jackal... I will tell everyone what kind of a scumbag you are, leaving a helpless woman in the hands of these hoodlums! Out of my sight!!!
 
-""Helpless - yeah, right"", - you though to yourself on the way back to the cell."	"Quest,Prison"	""
+""Helpless - yeah, right"", - you though to yourself on the way back to the cell."	"Quest,Prison"	"Вырашыўшы не зьвязвацца з буянамі, вы разьвярнуліся і кінуліся ўцякаць. Запыніўшыся за паваротам, каб перавесьці дых, вы прыслухаліся. Раптам дзьверы лячэбніцы з грымотам расчыніліся, і зь іх выскачыў крыклівы малок, трымаючыся за тое месца, на якім належыць адбываць тэрмін. Паміж яго пальцаў цякла кроў, і віднелася рукаятка скальпэля, уторкнутага ад душы ўмелай рукой. А за ім выскачыў вісклівы пеленг, схапіўшыся за твар. Мяркуючы па стане той часткі, якую ён не прыкрываў, яму на пысу толькі што вылілі сто грамаў канцэнтраванай кіслаты.
+
+Цяпер, калі буянаў можна было не баяцца, вы ўвайшлі ў мэдпункт. Мэдсястра стаяла ў куце, сьціскаючы ў руцэ скальпэль, адзін рукаў яе халата быў парваны.
+- Нікчэмны баязьлівец! - кінула яна вам у твар. - Я бачыла, як ты, быццам баязьлівы шакал, уцякаў адсюль... Я ўсім раскажу, што ты за тып, які гатовы пакінуць няшчасную безабаронную жанчыну гэтым вырадкам! А цяпер прэч адсюль!!!
+
+""Так ужо і безабаронную"", - падумалі вы, вяртаючыся назад у камэру."
 "/quests/Prison.qmm/jumps/467/text"	"Ну все, отморозки, сейчас убивать вас буду! (напасть на них)"	"Quest Prison.qmm: jumps.467.text. Preserve every <tag> exactly. English reference: Alright, you scumbags, prepare to die! (attack them)"	"Quest,Prison"	"Ну ўсё, вырадкі, зараз забіваць вас буду! (напасьці на іх)"
 "/quests/Prison.qmm/jumps/467/description"	"- Медсестра, надеюсь, у вас есть черные длинные мешки с молнией на боку, в которые трупы ложат? - зловеще поинтересовались вы и набросились на отморозков.
 - Ты че, в натуре, совсем оборзел? - разъярился малок, бросаясь вам навстречу, - сейчас посмотрим, кто кого!
@@ -2429,7 +2471,13 @@ Now that the hoodlums were no longer a threat, you went back to the medical stat
 Ducking his blow with ease, you punched him back in the gut - hard to miss such a large target - as he bent forward you caught his chin on your knee. The Peleng who tried to interfere you took out with one single blow. While you were busy with them the nurse ran off to call for help and the guards dragged away the bodies, that tried to show signs of life. 
 
 Once the hoodlums were carried away, the nurse straightened her coat and smiled thankfully:
-- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	""
+- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	"- Мэдсястра, спадзяюся, ў вас ёсьць чорныя доўгія мяшкі з маланкай на баку, ў якія трупы кладуць? - злавесна запыталіся вы і кінуліся на буянаў.
+- Ты што, на самай справе, зусім зарваўся? - разьюшыўся малок, кідаючыся вам насустрач, - зараз паглядзім, хто каго!
+
+Магутны кулак рынуўся да вас, але... Нездарма вы займаліся ў трэнажорнай залі! Лёгка ўхіліўшыся, вы ўрэзалі яму ў жывот - цяжка прамахнуцца па такой буйной мішэні, а калі ён сагнуўся, хапаючы паветра, ударылі каленам яму ў падбародак. Пеленга, які ўмяшаўся, вы аглушылі адным ударам.
+
+Пакуль вы біліся, мэдсястра пабегла па дапамогу, і ахоўнікі забралі целы, якія спрабавалі падаваць прыкметы жыцьця. Калі буянаў забралі, мэдсястра паправіла пакамечаны халат і ўдзячна ўсьміхнулася:
+- Дзякуй. Гэта быў вельмі высакародны ўчынак. Вязьні недалюбліваюць гэтых буянаў, і ім спадабаецца, што ты іх пабіў, а я пастараюся, каб кіраўніцтва даведалася пра твой учынак. А яшчэ я магу <clr>бясплатна<clrEnd> даць табе <clr>сьпірт<clrEnd> або <clr>паправіць здароўе<clrEnd>."
 "/quests/Prison.qmm/jumps/468/text"	"Предлагаю решить проблему мирно - я даю вам {500} cr, и вы оставляете девушку в покое"	"Quest Prison.qmm: jumps.468.text. Preserve every <tag> exactly. English reference: I suggest that we settle this peacefully - I am going to give you {500} cr, and you leave the girl alone"	"Quest,Prison"	"Прапаную вырашыць праблему мірна - я даю вам {500} cr, і вы пакідаеце дзяўчыну ў спакоі"
 "/quests/Prison.qmm/jumps/468/description"	"- Ты че, в натуре нам такое предлагаешь? - почесал затылок малок.
 - Да он за лохов нас держит, кореш, - визжал татуированный, обхватывая медсестру.
@@ -2449,7 +2497,16 @@ You took out the money and waved the bundle in front of the hoodlums' noses.
 
 When the hoodlums left the nurse straitened her coat and smiled thankfully:
 
-- Thank you. This was very noble of you. The inmates do not like these hoodlums, and they are not going to like it when they find out that you offered them money, but I will make sure the prison authorities learn about what you did. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	""
+- Thank you. This was very noble of you. The inmates do not like these hoodlums, and they are not going to like it when they find out that you offered them money, but I will make sure the prison authorities learn about what you did. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	"- Ты што, на самай справе, нам такое прапаноўваеш? - пачухаў патыліцу малок.
+- Ды ён трымае нас за дурняў, братка, - вішчаў татуяваны, абхапіўшы мэдсястру.
+
+Вы дасталі грошы і памахалі імі перад носам у буянаў.
+- <clr>Пяць сотняў<clrEnd>, - па складах сказалі вы. Вочы здаравілы неадрыўна сачылі за грашыма. Нарэшце ён не вытрымаў і вырваў іх у вас з рукі.
+- Эй, братка, пайшлі адсюль. Сёньня будзем адпачываць культурна, <Ranger> плаціць, - адарваў ён ад дзяўчыны свайго саўдзельніка.
+
+Калі буяны сышлі, мэдсястра паправіла пакамечаны халат і ўдзячна ўсьміхнулася:
+
+- Дзякуй. Гэта быў вельмі высакародны ўчынак. Вязьні недалюбліваюць гэтых буянаў, і ім не спадабаецца, што ты даў ім грошы, але я пастараюся, каб кіраўніцтва даведалася пра твой учынак. А яшчэ я магу <clr>бясплатна<clrEnd> даць табе <clr>сьпірт<clrEnd> або <clr>паправіць здароўе<clrEnd>."
 "/quests/Prison.qmm/jumps/469/text"	"Предлагаю решить проблему мирно - я даю вам {500} cr, и вы оставляете девушку в покое"	"Quest Prison.qmm: jumps.469.text. Preserve every <tag> exactly. English reference: I suggest that we settle this peacefully - I am going to give you {500} cr, and you leave the girl alone"	"Quest,Prison"	"Прапаную вырашыць праблему мірна - я даю вам {500} cr, і вы пакідаеце дзяўчыну ў спакоі"
 "/quests/Prison.qmm/jumps/469/description"	"- Ты че, в натуре нам такое предлагаешь? - почесал затылок малок.
 - Да он за лохов нас держит, кореш, - визжал татуированный, обхватывая медсестру.
@@ -2467,7 +2524,15 @@ You gave him the money.
 - Hey, bro, let's get the heck out of here. Tonight we are going to have some quiet fun, courtesy of Mr. <Ranger> here, - he said peeling his partner off the girl.  
 
 When the hoodlums left the nurse straitened her coat and smiled thankfully:
-- Thank you. This was very noble of you. The inmates do not like these hoodlums, and they are not going to like it when they find out that you offered them money, but I will make sure the prison authorities learn about what you did. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	""
+- Thank you. This was very noble of you. The inmates do not like these hoodlums, and they are not going to like it when they find out that you offered them money, but I will make sure the prison authorities learn about what you did. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	"- Ты што, на самай справе, нам такое прапаноўваеш? - пачухаў патыліцу малок.
+- Ды ён трымае нас за дурняў, братка, - вішчаў татуяваны, абхапіўшы мэдсястру.
+Вы дасталі грошы і памахалі імі перад носам у буянаў. Вочы здаравілы неадрыўна сачылі за грашыма. Нарэшце ён не вытрымаў:
+- Да ладна, братка, ты ў нас у аўтарытэтах ходзіш, і сварыцца з табой мне не хочацца. Пагодзімся на {250} манэтах.
+Вы аддалі яму названую суму.
+- Эй, братка, пайшлі адсюль. Сёньня будзем адпачываць культурна, <Ranger> плаціць, - адарваў ён ад дзяўчыны свайго саўдзельніка.
+
+Калі буяны сышлі, мэдсястра паправіла пакамечаны халат і ўдзячна ўсьміхнулася:
+- Дзякуй. Гэта быў вельмі высакародны ўчынак. Вязьні недалюбліваюць гэтых буянаў, і ім не спадабаецца, што ты даў ім грошы, але я пастараюся, каб кіраўніцтва даведалася пра твой учынак. А яшчэ я магу <clr>бясплатна<clrEnd> даць табе <clr>сьпірт<clrEnd> або <clr>паправіць здароўе<clrEnd>."
 "/quests/Prison.qmm/jumps/470/text"	"Предлагаю решить проблему мирно - я даю вам {500} cr, и вы оставляете девушку в покое"	"Quest Prison.qmm: jumps.470.text. Preserve every <tag> exactly. English reference: I suggest that we settle this peacefully - I am going to give you {500} cr, and you leave the girl alone"	"Quest,Prison"	"Прапаную вырашыць праблему мірна - я даю вам {500} cr, і вы пакідаеце дзяўчыну ў спакоі"
 "/quests/Prison.qmm/jumps/471/text"	"Эй, братва, а вам не кажется, что вы заигрались? Шли бы вы..."	"Quest Prison.qmm: jumps.471.text. Preserve every <tag> exactly. English reference: Hey, yo! Isn't it time for you girls to go home? Yeah, you..."	"Quest,Prison"	"Эй, братва, а вам не здаецца, што вы загуляліся? Ішлі б вы..."
 "/quests/Prison.qmm/jumps/471/description"	"- Ты че, в натуре, совсем оборзел? - разъярился малок. - С каких это пор такие как ты авторитетов посылают?
@@ -2482,7 +2547,13 @@ When the hoodlums left the nurse straitened her coat and smiled thankfully:
 His sizeable fist shot forward... But you surely had not been wasting your time in the gym! Ducking his blow with ease, you punched him back in the gut - hard to miss such a large target - as he bent forward you caught his chin on your knee. The Peleng who tried to interfere you took out with one single blow.
 
 While you were busy with them the nurse ran off to call for help and the guards dragged away the bodies, that tried to show signs of life. Once the hoodlums were carried away, the nurse straightened her coat and smiled thankfully:
-- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	""
+- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	"- Ты што, на самай справе, зусім зарваўся? - разьюшыўся малок. - Зь якіх гэта часоў такія, як ты, аўтарытэтаў ганяюць?
+- Бі яго, братка, а то за правільных зладзеяў крыўдна, калі такія вылюдкі нашу зону топчуць! - вішчаў татуяваны, лапаючы мэдсястру.
+
+Магутны кулак рынуўся да вас, але... Нездарма вы займаліся ў трэнажорнай залі! Лёгка ўхіліўшыся, вы ўрэзалі яму ў жывот - цяжка прамахнуцца па такой буйной мішэні, а калі ён сагнуўся, хапаючы паветра, ударылі каленам яму ў падбародак. Пеленга, які ўмяшаўся, вы аглушылі адным ударам.
+
+Пакуль вы біліся, мэдсястра пабегла па дапамогу, і ахоўнікі забралі целы, якія спрабавалі падаваць прыкметы жыцьця. Калі буянаў забралі, мэдсястра паправіла пакамечаны халат і ўдзячна ўсьміхнулася:
+- Дзякуй. Гэта быў вельмі высакародны ўчынак. Вязьні недалюбліваюць гэтых буянаў, і ім спадабаецца, што ты іх пабіў, а я пастараюся, каб кіраўніцтва даведалася пра твой учынак. А яшчэ я магу <clr>бясплатна<clrEnd> даць табе <clr>сьпірт<clrEnd> або <clr>паправіць здароўе<clrEnd>."
 "/quests/Prison.qmm/jumps/472/text"	"Далее"	"Quest Prison.qmm: jumps.472.text. Preserve every <tag> exactly. English reference: Next"	"Quest,Prison"	"Далей"
 "/quests/Prison.qmm/jumps/473/text"	"Предлагаю решить проблему мирно - я даю вам {500} cr, и вы оставляете девушку в покое"	"Quest Prison.qmm: jumps.473.text. Preserve every <tag> exactly. English reference: I suggest that we settle this peacefully - I am going to give you {500} cr, and you leave the girl alone"	"Quest,Prison"	"Прапаную вырашыць праблему мірна - я даю вам {500} cr, і вы пакідаеце дзяўчыну ў спакоі"
 "/quests/Prison.qmm/jumps/473/description"	"- Ты че, в натуре, совсем оборзел? - разъярился малок. - С каких это пор шестерки да опущенные условия авторитетам ставят?
@@ -2497,7 +2568,13 @@ While you were busy with them the nurse ran off to call for help and the guards 
 The punch knocked you off your feet. Kicking you a couple of times, the Maloq snatched all your money from you and turned back to the girl. Fury got the better of you, and you bit the hoodlum's leg, not letting him go back to the nurse. He turned back to you kicking violently, but you already recovered from the initial shock and show him what you were good for. This guy was strong - it was not for nothing that even the OG's were afraid of him, but you weren't that bad a shot either. You took out the Peleng - who had the idiocy of trying to join in - with one jab. And five minutes later you took all your money back plus {100} cr more from the unconscious Maloq.
 
 While you were busy with them the nurse ran off to call for help and the guards dragged away the bodies, that tried to show signs of life. Once the hoodlums were carried away, the nurse straightened her coat and smiled thankfully:
-- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	""
+- Thank you. This was very noble of you. Most of the inmates do not like these hoodlums, and they will surely appreciate what you did, and I will make sure that the authorities learn about what happened too. Oh, and also I could give you some <clr>spirit<clrEnd> for <clr>free<clrEnd> or else help you <clr>fix your health<clrEnd>."	"Quest,Prison"	"- Ты што, на самай справе, зусім зарваўся? - разьюшыўся малок. - Зь якіх гэта часоў шасьцёркі ды апушчаныя ўмовы аўтарытэтам ставяць?
+- Ды ён трымае нас за дурняў, братка, - вішчаў татуяваны, абхапіўшы мэдсястру.
+
+Магутны ўдар кулака зьбіў вас з ног. Пару разоў стукнуўшы вас нагой, граміла адабраў у вас грошы і вярнуўся да дзяўчыны. Гнеў ударыў вам у галаву, і вы ўчапіліся ў нагу буяна, не пускаючы яго да мэдсястры. Той зноў абрынуўся на вас, але вы ўжо аправіліся і далі яму годны адпор. Граміла быў вельмі моцны - нездарма яго баяліся нават аўтарытэты, але і вы былі не промах. Пеленга, які ўмяшаўся, вы аглушылі адным ударам, а праз пяць хвілін вы забралі свае грошы і яшчэ {100} cr ў беспрытомнага малока.
+
+Пакуль вы біліся, мэдсястра пабегла па дапамогу, і ахоўнікі забралі целы, якія спрабавалі падаваць прыкметы жыцьця. Калі буянаў забралі, мэдсястра паправіла пакамечаны халат і ўдзячна ўсьміхнулася:
+- Дзякуй. Гэта быў вельмі высакародны ўчынак. Вязьні недалюбліваюць гэтых буянаў, і ім спадабаецца, што ты іх пабіў, а я пастараюся, каб кіраўніцтва даведалася пра твой учынак. А яшчэ я магу <clr>бясплатна<clrEnd> даць табе <clr>сьпірт<clrEnd> або <clr>паправіць здароўе<clrEnd>."
 "/quests/Prison.qmm/jumps/474/text"	"Эй, братва, а вам не кажется, что вы заигрались? Шли бы вы..."	"Quest Prison.qmm: jumps.474.text. Preserve every <tag> exactly. English reference: Hey, yo! Isn't it time for you girls to go home? Yeah, you..."	"Quest,Prison"	"Эй, братва, а вам не здаецца, што вы загуляліся? Ішлі б вы..."
 "/quests/Prison.qmm/jumps/474/description"	"- Ты че, в натуре, совсем оборзел? - вспылил пеленг. - С каких это пор такие как ты авторитетов посылают?
 - Завянь, карикатура, - заткнул татуированную шестерку малок, - мне тоже резону нет с авторитетами на ножах быть. Извини, братан, если что не так - мы ж по незнанию...
