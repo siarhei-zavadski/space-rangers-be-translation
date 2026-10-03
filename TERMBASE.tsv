@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі/МАЛОКАЎ		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі/МАЛОКАЎ/Малокскае		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца/Гаалец/гаальская/гаальскай/Гаальцы/Гаальскі/Гаальскія/гаальскім/гаальцу/Гаальцаў/Гаальца/Гаальцам/гаальску		Coalition race; adverb па-гаальску	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -1537,3 +1537,11 @@ lemma.faeyan_iee	Иээ	Hey	Іээ		faeyan barker's shout	STQ_Headhunter.qmm
 lemma.gyy	Гыы	Gee	Гыы		maloc guard's grunt	STQ_Headhunter.qmm
 lemma.pasiba	пасиба	thanks	пасіба		maloc guard's thanks	STQ_Headhunter.qmm
 lemma.eis_smirnov	Эйс Смирнов	Ace Smirnov	Эйс/Смирнов		tester credit; keep the source spelling	STQ_Headhunter.qmm
+lemma.machete	мачете	machete	мачэтэ		loan blade; Starnik has no entry	Stealth.qmm
+lemma.megavision	Мегавижн	Megavision	Мэгавіжн		coined glasses brand	Stealth.qmm
+lemma.zelabne	Зелабне	Zelabne	Зелабне		star name	Stealth.qmm
+lemma.penella	Пенелла	Penella	Пенелла		planet name	Stealth.qmm
+lemma.tabooine	Табуин	Tabooine	Табуін		planet name	Stealth.qmm
+lemma.colinuha	Колинуа	Colinuha	Колінуа		star name	Stealth.qmm
+lemma.fish_samer	Фиш Сэмер	Fish Samer	Фіш/Сэмер		employer	Stealth.qmm
+lemma.tally_kh	хх	tally marks	хх/ххх/хххх/ххххх		Cyrillic х item tallies; do not rewrite to Latin x	Stealth.qmm
