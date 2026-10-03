@@ -944,7 +944,7 @@ lemma.lackey	лакей	lackey	лакей/лакея		butler suit; hunspell sugg
 lemma.tardym	Тардым	Tardym	Тардым/Тардыма/Тары/Тардыму/Тардымам		malok prince; Тары is his wife's nickname	Banket.qmm
 lemma.babah	ба'Бах	Ka'Boom	ба'Бах/Бах/ба'Баха/ба'Бахі/Ба'Бах/ба'Бахам		the prince's boom-name; ASCII apostrophe	Banket.qmm
 lemma.cordial	Радушная	Cordial	Радушная/радушны		planet; hunspell suggestions are the wrong sense	Banket.qmm
-lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу/кінзай	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
+lemma.kinza	кинза	kinza	КІНЗА/кінза/кінзы/кінзу/кінзай/кінзавым	кірза	banquet herb; hunspell suggestions mean tarpaulin	Banket.qmm
 lemma.discil	дисцил	discil	Дысцыл/дысцыл		coined banquet ingredient	Banket.qmm
 lemma.hukhmel	хухмель	hukhmel	хухмель/хухмеля/хухмелю/Хухмель	хмель	joke hops; keep the extra syllable	Banket.qmm
 lemma.repusator	репузатор	repusator	рэпузатар/рэпузатара		coined banquet ingredient	Banket.qmm
@@ -1025,7 +1025,7 @@ lemma.videophone	видеофон	videophone	відэафон/відэафона
 lemma.cesska	Цесска	Cesska	Цэска/Цэскай/Цэскі/Цэску		album name; hunspell has no such name	Badday.qmm
 lemma.ritz	Риц	Ritz	Рыц/Рыцам/Рыца		album surname; hunspell has no such name	Badday.qmm
 lemma.shitzka	Шицка	Shitzka	Шыцка/Шыцку		album name; hunspell has no such name	Badday.qmm
-lemma.guanava	гуанава	guanava	гуанава/гуанавы/гуанавай		bar drink; hunspell has no such word	Badday.qmm
+lemma.guanava	гуанава	guanava	гуанава/гуанавы/гуанавай/гуанаве		bar drink; hunspell has no such word	Badday.qmm
 lemma.quaka	Квака минерале	Mineral Quaka	Квака		mineral-water brand on the bottle	Badday.qmm
 lemma.aipentak	Эйпентак	Aipentak	Эйпэнтак		faeyan planet; hunspell maps the name elsewhere	Badday.qmm
 lemma.aliada	Алиада Ансата	Aliada Ansata	Аліяда/Ансата		unreadable book title; hunspell maps it to the Iliad	Badday.qmm
@@ -1653,3 +1653,12 @@ lemma.yoizolly	Йцолли	Yoizolly	Ёйзолі		peleng who drank his money aw
 lemma.litre	литр	litre	літр		nominative; hunspell has the oblique forms	https://starnik.by/pravapis/39790
 lemma.lou	Лу	Lou	Лу		mechanic at Mow's station	Driver.qmm
 lemma.helios	Гелиос	Helios	Геліёс/Геліёса		chemical that burns the safe	Driver.qmm
+lemma.bitchson	Битчсон	Bitchson	Бітчсан		sheriff's lieutenant	Driver.qmm
+lemma.bribekin	Взяточкин	Bribekin	Хабаркін		sheriff's sergeant; bribe joke	Driver.qmm
+lemma.polishchuk	Полищук	Polishchuk	Палішчук		sheriff's master sergeant; police joke	Driver.qmm
+lemma.bakshish	Бакшиштягаев	Bucksheesh	Бакшышцягаеў		sheriff's sergeant major; bribe joke	Driver.qmm
+lemma.pilipenko	Пилипенко	Pilipenko	Піліпенка		sheriff's warrant officer	Driver.qmm
+lemma.plasmagon	плазмоган	plasma-gun	плязмаган		year 2956 weapon in the safe	Driver.qmm
+lemma.zhbanfly	жбанская мушка	Zhbanish fly	жбанская		deceased fly medicine	Driver.qmm
+lemma.chi	чи	chi	чы		third sphere of masculine energy	Driver.qmm
+lemma.joe	Джо	Joe	Джо		old owner of the plasma-gun	Driver.qmm
