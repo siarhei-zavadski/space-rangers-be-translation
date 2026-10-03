@@ -111,7 +111,7 @@ lemma.news	новость	news	навіна		Starnik: родны мн. наві�
 lemma.option	опция	option	опцыя		Starnik: родны мн. опцый	—
 lemma.soul	душа	soul	душа		Starnik: родны мн. душ, not душаў	—
 lemma.clump	сгусток	clump	згустак		Starnik	—
-lemma.bridge	мостик	bridge	мосцік		Starnik: капітанскі мосцік	—
+lemma.bridge	мостик	bridge	мосцік/мосціку		Starnik: капітанскі мосцік	—
 lemma.airlock	шлюз	airlock	шлюз		Starnik	—
 lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
@@ -819,7 +819,7 @@ lemma.makhpella	Махпелла	Makhpella	Махпэла/Махпэлу/Мах�
 lemma.slime	слизь	slime	слізь/сліззю/слізі		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
 lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Photorobot.qmm
 lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
-lemma.rakhish	Рахиш	Rakhish	Рахіша		planet of killer spiders	Photorobot.qmm
+lemma.rakhish	Рахиш	Rakhish	Рахіша/Рахіш		planet of killer spiders	Photorobot.qmm
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
@@ -1456,3 +1456,20 @@ lemma.cryoboot	криобутсы	cryoboots	крыябот/Крыяботы		hat
 lemma.homespun	простецкий	homespun	прастацкі/прастацкім		plainspeaking, unsophisticated; hunspell suggestions are unrelated	https://starnik.by/pravapis/141771
 lemma.khrum	Хрям-Хрум	Khram-Khrum	Храм/Хрум		coined penchekryak additive; Храм passes hunspell	Olympiada.qmm
 lemma.wild_lyakushki	лякушшек	wild lyakushki	лякушшак		doubled ш in the joke team name	Olympiada.qmm
+lemma.lioni	Лиони	Lioni	Ліоні		crewman on the captured ship	Kidnapped.qmm
+lemma.triclop	Триклоп	Triclop	Трыклоп		crewman on the captured ship	Kidnapped.qmm
+lemma.versl	Вёрсл	Versl	Вёрсл/Вёрсла		genitive in the chance counter	Kidnapped.qmm
+lemma.bargam	Баргам	Bargam	Баргам/Баргама		quest-giver; G Баргама	Kidnapped.qmm
+lemma.makhsim	Махсим	Makhsim	Махсім/Махсіма		kept the х of the source name	Kidnapped.qmm
+lemma.barney_bucks	Барни Бакс	Barney Bucks	Барні		Бакс passes hunspell	Kidnapped.qmm
+lemma.orlioni	Орлиони	Orlioni	Арліоні		phantom name	Kidnapped.qmm
+lemma.tisanush	Тисануш	Tisanush	Цісануш		hostile on the ship	Kidnapped.qmm
+lemma.kashkel	Кашкель	Kashkel	Кашкэль		status lines; the panel name Какшель uses the same person	Kidnapped.qmm
+lemma.nyrya	Ныря	Nyrya	Нырына		possessive on the ventilation storeroom	Kidnapped.qmm
+lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы		author of the lockpicking book	Kidnapped.qmm
+lemma.nouer	Ноуэр	Nouer	Ноўэр		default ranger name	Kidnapped.qmm
+lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
+lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар		crawling machine	Kidnapped.qmm
+lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
+lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся		garbled bottle brand, kept byte-identical	Kidnapped.qmm
+lemma.sonar	сонар	sonar	санар/санара	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
