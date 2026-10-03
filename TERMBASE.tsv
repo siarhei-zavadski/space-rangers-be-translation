@@ -823,7 +823,7 @@ lemma.rakhish	Рахиш	Rakhish	Рахіша/Рахіш		planet of killer spide
 lemma.yanvelb	Янвелб	Yanvelb	Янвэлб		gaal drink	Photorobot.qmm
 lemma.ksetvo	ксетвоизлучатель	ksetvo emitter	ксетвавыпраменьвальнік/ксетвавыпраменьвальнікі/ксетвавыпраменьвальнікаў/Ксетвавыпраменьвальнік/Ксетвавыпраменьвальнікаў	ксетвавыпраменьнік	Starnik emitter plus the invented ксетва- stem	https://starnik.by/pravapis/16307
 lemma.icecream	мороженое	ice cream	марозіва/Марозіва		hunspell misses the Starnik lemma	https://starnik.by/pravapis/41897
-lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае/вегетарыянцамі		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
+lemma.vegetarian	вегетарианец	vegetarian	вегетарыянцы/вегетарыянцаў/вегетарыянская/Вегетарыянская/вегетарыянскае/Вегетарыянскае/вегетарыянцамі/вегетарыянца		noun and the dish; hunspell misses Starnik; noun https://starnik.by/pravapis/13693	https://starnik.by/pravapis/101811
 lemma.nano	наноэлемент	nanoelement	нанаэлемэнты/нанаэлемэнтаў		spelling follows мікраэлемэнты; G pl нанаэлемэнтаў	Photorobot.qmm
 lemma.dete	Дэтэ	Dete	Дэтэ		ice-cream name	Photorobot.qmm
 lemma.gaaldok	Гаалдок	Gaaldok	Гаалдок/Гаалдока		gaal planet; hunspell suggestions are a different name	Photorobot.qmm
@@ -1592,9 +1592,9 @@ lemma.zeki	ЗэКи	ZK	ЗэКі		paint-plant name on the label; keep the joke, d
 lemma.worstseller	ворстселлер	worstseller	ворстсэлер		banned-book joke: worst plus seller	Leonardo.qmm
 lemma.unk	Унк	Unk	Унк/Унка		painter of the scream parody	Leonardo.qmm
 lemma.nanobot	нанобот	nanobot	нанабот/нанаботаў		medical robots; нана- as in нанаэлемэнты	Leonardo.qmm
-lemma.shromor	Шромор	Shromor	Шромар/Шромара/Шромарам		malok mechanic at the complex	Complex.qmm
+lemma.shromor	Шромор	Shromor	Шромар/Шромара/Шромарам/Шромару		malok mechanic at the complex	Complex.qmm
 lemma.nargile	Наргиле	Nargile	Наргіле		peleng; the name is the hookah	Complex.qmm
-lemma.higgins	Хиггинс	Higgins	Хігінс/Хігінса/Хігінсам		human at the complex	Complex.qmm
+lemma.higgins	Хиггинс	Higgins	Хігінс/Хігінса/Хігінсам/Хігінсу		human at the complex	Complex.qmm
 lemma.ladieni	Ладиени	Ladieni	Ладзіені		faeyan at the complex	Complex.qmm
 lemma.gaatar	Гаа-Тар	Gaa-Tar	Гаа/Тар		gaal commander; hyphen splits	Complex.qmm
 lemma.vp2	ВП2	VP2	ВП		internal auxiliary flag; the digit is not a word	Complex.qmm
@@ -1615,3 +1615,8 @@ lemma.frag	фраг	frag	фраг		gamer point on the LameBoy console	Complex.qm
 lemma.megamalok	МегаМалок	MegaMalok	МегаМалок		coined LameBoy hero	Complex.qmm
 lemma.stenokucha	стенокуча	wall-heap	сьценакуча/сьценакучы		coined LameBoy obstacle	Complex.qmm
 lemma.hush	Чшшш	hush	Чшшш		conspiratorial hiss	Complex.qmm
+lemma.tarzan	Тарзан	Tarzan	Тарзан/Тарзана		howl name; hunspell gap	Complex.qmm
+lemma.sauron	Саурон	Sauron	Саўрон/Саўрона		Dark Lord joke	Complex.qmm
+lemma.blazeroid	блазероид	blazeroid	блазероід/блазероідаў		dominator series; hunspell gap	Complex.qmm
+lemma.khatsashfakhi	хацашфахи	khatsashfakhi	хацашфахи		frozen peleng degree	Complex.qmm
+lemma.kvakhi	квахи	kvakhi	квахи		frozen peleng degree	Complex.qmm
