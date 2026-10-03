@@ -550,130 +550,178 @@ Almost automatically, you felt the pockets of your new getup and unexpectedly di
 "/quests/STQ_Headhunter.qmm/locations/46/texts/1/text"	"Вы взяли со стеллажа лампу, выбрав ту, что выглядела поновее остальных."	"Quest STQ_Headhunter.qmm: locations.46.texts.1.text. Preserve every <tag> exactly. English reference: You took a light from the shelf, picking out the one that looked the newest."	"Quest,STQ_Headhunter"	"Вы ўзялі са стэляжа лямпу, выбраўшы тую, што выглядала навейшай за астатнія."
 "/quests/STQ_Headhunter.qmm/locations/47/texts/0/text"	"- Тебе чего, братишка? - Спросил один из рабочих.
 - А, нет, ничего, уже ухожу, - замялись вы и отошли."	"Quest STQ_Headhunter.qmm: locations.47.texts.0.text. Preserve every <tag> exactly. English reference: ""What do you need, pal?"" asked one of the workers.
-""Oh, nothing. I'm already leaving,"" you said haltingly and left."	"Quest,STQ_Headhunter"	""
+""Oh, nothing. I'm already leaving,"" you said haltingly and left."	"Quest,STQ_Headhunter"	"- Табе чаго, братка? — спытаў адзін з рабочых.
+- А, не, нічога, ужо сыходжу, — замяліся вы і адышлі."
 "/quests/STQ_Headhunter.qmm/locations/47/texts/1/text"	"Вы подошли к столу.
 - Чего хочешь, док? - поинтересовался один из рабочих."	"Quest STQ_Headhunter.qmm: locations.47.texts.1.text. Preserve every <tag> exactly. English reference: You approached the table.
-""What do you want, doc?"" inquired one of the workers."	"Quest,STQ_Headhunter"	""
+""What do you want, doc?"" inquired one of the workers."	"Quest,STQ_Headhunter"	"Вы падышлі да стала.
+- Чаго хочаш, док? — пацікавіўся адзін з рабочых."
 "/quests/STQ_Headhunter.qmm/locations/47/texts/2/text"	"- Здорово мужик, - поприветствовали вас рабочие.
 Кажется, ни один из них не подозревает, что вы вовсе даже не их коллега."	"Quest STQ_Headhunter.qmm: locations.47.texts.2.text. Preserve every <tag> exactly. English reference: ""Hey, man!"" the workers said in greeting.
-Apparently, not one of them suspected that you weren't their colleague at all."	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/47/texts/3/text"	"- Вы что-то хотели? - спросил кто-то из рабочих, быстро пряча в карман игральные кости."	"Quest STQ_Headhunter.qmm: locations.47.texts.3.text. Preserve every <tag> exactly. English reference: ""Do you need something?"" asked one of the workers, quickly hiding the dice in his pocket."	"Quest,STQ_Headhunter"	""
+Apparently, not one of them suspected that you weren't their colleague at all."	"Quest,STQ_Headhunter"	"- Здароў, мужык, — павіталі вас рабочыя.
+Здаецца, ніводзін зь іх не падазрае, што вы зусім нават ня іхні калега."
+"/quests/STQ_Headhunter.qmm/locations/47/texts/3/text"	"- Вы что-то хотели? - спросил кто-то из рабочих, быстро пряча в карман игральные кости."	"Quest STQ_Headhunter.qmm: locations.47.texts.3.text. Preserve every <tag> exactly. English reference: ""Do you need something?"" asked one of the workers, quickly hiding the dice in his pocket."	"Quest,STQ_Headhunter"	"- Вы нешта хацелі? — спытаў нехта з рабочых, хутка хаваючы ў кішэню гульнявыя косьці."
 "/quests/STQ_Headhunter.qmm/locations/48/texts/0/text"	"- Парни, вас вызывают в приемную. Там что-то перенести надо.
 - Что, всех сразу?
 - Да, там какая-то тяжелая аппаратура, - соврали вы не моргнув глазом.
 Рабочие обреченно переглянулись, встали со своих мест и покинули комнату, что-то бурча и сетуя на больные спины."	"Quest STQ_Headhunter.qmm: locations.48.texts.0.text. Preserve every <tag> exactly. English reference: ""Hey, guys. You've been summoned to waiting room. They need something moved there.""
 ""All of us together?""
 ""Yeah, there's some sort of heavy apparatus,"" you lied without blinking.
-The workers exchanged glances helplessly, got up from their seats, and left the room, mumbling and complaining about back pain."	"Quest,STQ_Headhunter"	""
+The workers exchanged glances helplessly, got up from their seats, and left the room, mumbling and complaining about back pain."	"Quest,STQ_Headhunter"	"- Хлопцы, вас клічуць у прыёмную. Там трэба нешта перанесьці.
+- Што, усіх адразу?
+- Так, там нейкая цяжкая апаратура, — схлусілі вы, не міргнуўшы вокам.
+Рабочыя асуджана пераглянуліся, усталі са сваіх месцаў і пакінулі пакой, нешта мармычучы і скардзячыся на хворыя сьпіны."
 "/quests/STQ_Headhunter.qmm/locations/48/texts/1/text"	"- Во, сразу видно, родная душа! - обрадовались рабочие, - держи кости!
 - На что играем? - уточнили вы на всякий случай.
 - А на интерес. У нас тут с азартными играми строго. Ты это имей в виду, если что."	"Quest STQ_Headhunter.qmm: locations.48.texts.1.text. Preserve every <tag> exactly. English reference: ""Say! There's our man!"" the workers rejoiced, ""Take the dice!
 ""What are we playing for?"" you asked, just in case.
-""Just for fun. Gambling is strictly forbidden here. You keep that in mind if something happens."""	"Quest,STQ_Headhunter"	""
+""Just for fun. Gambling is strictly forbidden here. You keep that in mind if something happens."""	"Quest,STQ_Headhunter"	"- Во, адразу відаць, родная душа! — усьцешыліся рабочыя, — трымай косьці!
+- На што гуляем? — удакладнілі вы на ўсякі выпадак.
+- А на цікавасьць. У нас тут зь азартнымі гульнямі строга. Ты гэта май на ўвазе, калі што."
 "/quests/STQ_Headhunter.qmm/locations/48/texts/2/text"	"- Молоток! - похвалили вас, - играем еще, а то скучно! 
 - Кстати, - добавил один из них, - мужики, вы слышали, что у нас новая сестричка на проходной? Такая милашка, шоколадки любит.
 Остальные рабочие согласно закивали головами, соглашаясь с оратором."	"Quest STQ_Headhunter.qmm: locations.48.texts.2.text. Preserve every <tag> exactly. English reference: ""Attaboy!"" you exclaimed in praise, ""Let's play again - what else is there to do?!"" 
 ""By the way,"" interjected one of them, ""fellas, did you hear that we have a new nurse at the entrance? Such a cutie. She loves chocolate.""
-The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	""
+The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	"- Малайчына! — пахвалілі вас, — гуляем яшчэ, а то нудна! 
+- Дарэчы, — дадаў адзін зь іх, — мужыкі, вы чулі, што ў нас новая сястрычка на прахадной? Такая мілачка, шакалядкі любіць.
+Астатнія рабочыя згодна заківалі галовамі, згаджаючыся з прамоўцам."
 "/quests/STQ_Headhunter.qmm/locations/48/texts/3/text"	"- Ну ты мужик! -  обрадовались рабочие, - играем еще, а то скучно! 
 - Кстати, - добавил один из них, - этот наш новый начальник охраны - майор Угром, редкая задница, хоть и малок.
 Остальные рабочие согласно закивали головами, соглашаясь с оратором."	"Quest STQ_Headhunter.qmm: locations.48.texts.3.text. Preserve every <tag> exactly. English reference: ""All right!"" rejoiced the workers, ""Let's play again - what else is there to do?!"" 
 ""By the way,"" interjected one of them, ""this new security chief, Major Ugrom. He's occasionally a jerk, but at least he's a maloq.""
-The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	""
+The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	"- Ну ты мужык! —  усьцешыліся рабочыя, — гуляем яшчэ, а то нудна! 
+- Дарэчы, — дадаў адзін зь іх, — гэты наш новы начальнік аховы — маёр Угром, рэдкі гад, хоць і малок.
+Астатнія рабочыя згодна заківалі галовамі, згаджаючыся з прамоўцам."
 "/quests/STQ_Headhunter.qmm/locations/48/texts/4/text"	"- Отлично! -  закивали рабочие, - играем еще, а то скучно! 
 - Кстати, - добавил один из них, - в этой палате, где рейнджер обмороженный лежит, вентиляция плохо работает. Надеюсь, чинить пошлют кого-то из другой смены, а то лень возиться.
 Остальные рабочие согласно закивали головами, соглашаясь с оратором."	"Quest STQ_Headhunter.qmm: locations.48.texts.4.text. Preserve every <tag> exactly. English reference: ""Excellent!"" nodded the workers, ""Let's play again - what else is there to do?!"" 
 ""By the way,"" interjected one of them, ""in this ward, where the frostbitten ranger is, the ventilation isn't working well. I hope they send someone from a different shift to do the repairs, otherwise they'll get lazy.
-The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/48/texts/5/text"	"- Нет, извини, братишка, нужно перекурить, - ответили рабочие."	"Quest STQ_Headhunter.qmm: locations.48.texts.5.text. Preserve every <tag> exactly. English reference: ""Nah, excuse me, pal. Time for a smoke,"" responded the workers."	"Quest,STQ_Headhunter"	""
+The rest of the workers nodded their heads in agreement."	"Quest,STQ_Headhunter"	"- Выдатна! —  заківалі рабочыя, — гуляем яшчэ, а то нудна! 
+- Дарэчы, — дадаў адзін зь іх, — у гэтай палаце, дзе ляжыць рэйнджэр зь абмаражэньнем, вэнтыляцыя кепска працуе. Спадзяюся, чыніць пашлюць кагосьці зь іншай зьмены, а то лянота вазіцца.
+Астатнія рабочыя згодна заківалі галовамі, згаджаючыся з прамоўцам."
+"/quests/STQ_Headhunter.qmm/locations/48/texts/5/text"	"- Нет, извини, братишка, нужно перекурить, - ответили рабочие."	"Quest STQ_Headhunter.qmm: locations.48.texts.5.text. Preserve every <tag> exactly. English reference: ""Nah, excuse me, pal. Time for a smoke,"" responded the workers."	"Quest,STQ_Headhunter"	"- Не, прабач, братка, трэба перакурыць, — адказалі рабочыя."
 "/quests/STQ_Headhunter.qmm/locations/50/texts/0/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Неплохо, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Вы выиграли!"	"Quest STQ_Headhunter.qmm: locations.50.texts.0.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Not bad,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. You won!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. You won!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Нядрэнна, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. Вы выйгралі!"
 "/quests/STQ_Headhunter.qmm/locations/50/texts/1/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Хех, видали и получше, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Вы выиграли!"	"Quest STQ_Headhunter.qmm: locations.50.texts.1.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Heh, I can beat that,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. You won!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. You won!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Гэх, бачылі і лепшае, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. Вы выйгралі!"
 "/quests/STQ_Headhunter.qmm/locations/50/texts/2/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Неплохо, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Увы, вы проиграли."	"Quest STQ_Headhunter.qmm: locations.50.texts.2.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Not bad,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. You lost!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. You lost!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Нядрэнна, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. На жаль, вы прайгралі."
 "/quests/STQ_Headhunter.qmm/locations/50/texts/3/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Хех, видали и получше, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Увы, вы проиграли."	"Quest STQ_Headhunter.qmm: locations.50.texts.3.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Heh, I can beat that,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. You lost!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. You lost!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Гэх, бачылі і лепшае, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. На жаль, вы прайгралі."
 "/quests/STQ_Headhunter.qmm/locations/50/texts/4/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Неплохо, совсем неплохо, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Невероятно, ничья!"	"Quest STQ_Headhunter.qmm: locations.50.texts.4.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Not bad, not bad at all,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. Incredible! It's a draw!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. Incredible! It's a draw!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Нядрэнна, зусім нядрэнна, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. Неверагодна, нічыя!"
 "/quests/STQ_Headhunter.qmm/locations/50/texts/5/text"	"Вы немного потрясли кости в кулаке и бросили.
 У вас выпало [p43] и [p44].
 - Хех, видали и получше, - заметил один из рабочих, потряс кости в кулаке и сделал бросок.
 У него выпало [p39] и [p40]. Невероятно, ничья!"	"Quest STQ_Headhunter.qmm: locations.50.texts.5.text. Preserve every <tag> exactly. English reference: You shook the dice a bit in your fist and threw them down.
 You got [p43] and [p44].
 ""Heh, I can beat that,"" remarked one of the workers as he shook and threw the dice.
-He got [p39] and [p40]. Incredible! It's a draw!"	"Quest,STQ_Headhunter"	""
+He got [p39] and [p40]. Incredible! It's a draw!"	"Quest,STQ_Headhunter"	"Вы крыху патрэсьлі косьці ў кулаку і кінулі.
+У вас выпала [p43] і [p44].
+- Гэх, бачылі і лепшае, — заўважыў адзін з рабочых, патрос косьці ў кулаку і зрабіў кідок.
+У яго выпала [p39] і [p40]. Неверагодна, нічыя!"
 "/quests/STQ_Headhunter.qmm/locations/54/texts/0/text"	"Стоило рабочим покинуть комнату, как вы тут же сбросили напускную неторопливость и принялись осматривать помещение в поисках чего-нибудь полезного. К сожалению, кроме костей на столе и различных плакатов с красивыми самками пеленгов в комнате больше ничего не нашлось. Тогда вы прошли в следующую комнату, которой оказалась небольшая раздевалка.
 Вы обозрели помещение и обнаружили, что один из шкафчиков открыт, а внутри лежит комбинезон рабочего.
 Рабочие скоро вернутся и будут очень злыми, так что вам нужно торопиться."	"Quest STQ_Headhunter.qmm: locations.54.texts.0.text. Preserve every <tag> exactly. English reference: As soon as the workers left the room you immediately abandoned your feigned leisurely attitude and began looking around the room for something useful. Unfortunately, other than the dice on the table and various posters of beautiful peleng women, you couldn't find anything else in the room. Then you went into the next room, which turned out to be a small locker room.
 You surveyed the room and discovered that one of the lockers was open. There were some coveralls inside.
-The workers will be back soon and be very angry, so you need to hurry."	"Quest,STQ_Headhunter"	""
+The workers will be back soon and be very angry, so you need to hurry."	"Quest,STQ_Headhunter"	"Варта было рабочым пакінуць пакой, як вы адразу скінулі напускную маруднасьць і пачалі аглядаць памяшканьне ў пошуках чаго-небудзь карыснага. На жаль, акрамя костак на стале і розных плякатаў з прыгожымі самкамі пеленгаў у пакоі больш нічога не знайшлося. Тады вы прайшлі ў наступны пакой, якім аказалася невялікая разьдзявальня.
+Вы агледзелі памяшканьне і выявілі, што адна з шафак адчыненая, а ўсярэдзіне ляжыць камбінэзон рабочага.
+Рабочыя хутка вернуцца і будуць вельмі злыя, так што вам трэба сьпяшацца."
 "/quests/STQ_Headhunter.qmm/locations/55/texts/0/text"	"Вы успели натянуть на себя комбинезон, застегнуть все пуговицы и молнии и спрятать в шкафчик халат доктора до возвращения рабочих. Теперь нужно как можно скорее покинуть помещение, иначе ваше поведение будет выглядеть очень подозрительным.
 В одном из карманов комбинезона вы обнаружили ключ-карту, наверно, она вам пригодится."	"Quest STQ_Headhunter.qmm: locations.55.texts.0.text. Preserve every <tag> exactly. English reference: Before the workers returned, you managed to pull on the coveralls, fasten all the buttons and zippers, and hide the doctor's coat in the locker. Now you must get out of the room as quickly as possible, otherwise your behavior will look highly suspicious.
-You discovered a key card in one of the pockets of the coveralls. It will probably come in handy."	"Quest,STQ_Headhunter"	""
+You discovered a key card in one of the pockets of the coveralls. It will probably come in handy."	"Quest,STQ_Headhunter"	"Вы пасьпелі нацягнуць на сябе камбінэзон, зашпіліць усе гузікі і маланкі і схаваць у шафку халат доктара да вяртаньня рабочых. Цяпер трэба як мага хутчэй пакінуць памяшканьне, інакш вашыя паводзіны будуць выглядаць вельмі падазрона.
+У адной з кішэняў камбінэзона вы выявілі ключ-картку, напэўна, яна вам спатрэбіцца."
 "/quests/STQ_Headhunter.qmm/locations/56/texts/0/text"	"- Слушай, у меня к тебе просьба. Ты лампочки менять умеешь?! - спросила сестра.
 Вы тут же поклялись, что начали вворачивать лампочки едва ли не в материнской утробе.
 - Отлично! - засияла ваша собеседница, - Сходи, пожалуйста, на второй уровень, поменяй лампу в общей палате! Новую лампу возьми у Кузьмича в конторе!
 Определенно, ее способности в восклицательном общении что-то такое задевают в вашей душе."	"Quest STQ_Headhunter.qmm: locations.56.texts.0.text. Preserve every <tag> exactly. English reference: ""Listen. I need to ask for a favor. Do you know how to replace a light bulb?!"" asked the nurse.
 You instantly began swearing that you were screwing in light bulbs almost from your mother's womb.
 ""Excellent!"" she said, beaming. ""Please swing by the second level and replace the light in the general ward! You can get a new bulb from Kuzmich in the office!""
-Her ability to speak in exclamations decidedly touched something in your soul."	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/56/texts/1/text"	"- Простите, но это закрытая информация! - ответила сестра, - мы не даем сведений о наших пациентах!!"	"Quest STQ_Headhunter.qmm: locations.56.texts.1.text. Preserve every <tag> exactly. English reference: ""Sorry, that's confidential information!"" answered the nurse, ""We don't give out information about our patients!!"""	"Quest,STQ_Headhunter"	""
+Her ability to speak in exclamations decidedly touched something in your soul."	"Quest,STQ_Headhunter"	"- Слухай, у мяне да цябе просьба. Ты лямпачкі мяняць умееш?! — спытала сястра.
+Вы адразу пакляліся, што пачалі ўкручваць лямпачкі ледзь не ў чэраве маці.
+- Выдатна! — зазьзяла ваша суразмоўца, — Схадзі, калі ласка, на другі ўзровень, памяняй лямпу ў агульнай палаце! Новую лямпу вазьмі ў Кузьміча ў канторы!
+Выразна, яе здольнасьці ў выклічнікавых зносінах нешта такое чапляюць у вашай душы."
+"/quests/STQ_Headhunter.qmm/locations/56/texts/1/text"	"- Простите, но это закрытая информация! - ответила сестра, - мы не даем сведений о наших пациентах!!"	"Quest STQ_Headhunter.qmm: locations.56.texts.1.text. Preserve every <tag> exactly. English reference: ""Sorry, that's confidential information!"" answered the nurse, ""We don't give out information about our patients!!"""	"Quest,STQ_Headhunter"	"- Прабачце, але гэта закрытая інфармацыя! — адказала сястра, — мы не даём зьвестак пра нашых пацыентаў!!"
 "/quests/STQ_Headhunter.qmm/locations/56/texts/2/text"	"На глазах сестры неожиданно показались слезы. Вы испуганно отшатнулись.
 - Какая... простите, какая печальная история! - шмыгнула носом сестра, - Но, к сожалению, мы не даем информацию о пациентах, проходящих курс лечения! Даже о лучших друзьях!"	"Quest STQ_Headhunter.qmm: locations.56.texts.2.text. Preserve every <tag> exactly. English reference: Tears suddenly flooded from the nurse's eyes. You recoiled in fright.
-""What a...sorry, what a sad story!"" said the nurse, sniffling. ""But, unfortunately, we don't release information about patients undergoing treatment! Even about best friends!"	"Quest,STQ_Headhunter"	""
+""What a...sorry, what a sad story!"" said the nurse, sniffling. ""But, unfortunately, we don't release information about patients undergoing treatment! Even about best friends!"	"Quest,STQ_Headhunter"	"На вачах сястры нечакана паказаліся сьлёзы. Вы спалохана адхіснуліся.
+- Якая... прабачце, якая сумная гісторыя! — шморгнула носам сястра, — Але, на жаль, мы не даём інфармацыі пра пацыентаў, якія праходзяць курс лячэньня! Нават пра найлепшых сяброў!"
 "/quests/STQ_Headhunter.qmm/locations/56/texts/3/text"	"Медсестра замолчала, разинув рот и смотря на вас таким взглядом, каким обычно смотрят на извержение вулкана, неожиданно произошедшее где-нибудь на грядке с фарюками. Похоже, что тут ее не особо балуют комплиментами.
  - Вы хотите оставить письменную заявку...?! - произнесла она, наконец."	"Quest STQ_Headhunter.qmm: locations.56.texts.3.text. Preserve every <tag> exactly. English reference: The nurse remained silent with a gaping mouth, looking at you like people usually look at a volcano erupting unexpectedly somewhere in a garden of faryuks. Apparently, she isn't given many compliments here.
-""Would you like leave a written request...?!"" she asked, finally."	"Quest,STQ_Headhunter"	""
+""Would you like leave a written request...?!"" she asked, finally."	"Quest,STQ_Headhunter"	"Мэдсястра змоўкла, разявіўшы рот і гледзячы на вас такім позіркам, якім звычайна глядзяць на вывяржэньне вулькана, якое нечакана здарылася дзе-небудзь на градцы фарюкаў. Падобна, што тут яе ня асабліва песьцяць камплімэнтамі.
+ - Вы хочаце пакінуць пісьмовую заяўку...?! — вымавіла яна, нарэшце."
 "/quests/STQ_Headhunter.qmm/locations/56/texts/4/text"	"- О БОЖЕ!! - вас едва не смело звуковой волной, - Это что, мне?! Спасибо! Спасибо!! Спасибо!!!
 Сестра выхватила у вас из рук шоколадку и вы поняли, что теперь она способна ради вас на все."	"Quest STQ_Headhunter.qmm: locations.56.texts.4.text. Preserve every <tag> exactly. English reference: ""DEAR ME!!"" You were nearly swept away by the sonic boom. ""What's this? For me?! Thank you! Thank you!! Thank you!!!""
-The nurse snatched the chocolate from your hands and you realized that now she would do anything to help you."	"Quest,STQ_Headhunter"	""
+The nurse snatched the chocolate from your hands and you realized that now she would do anything to help you."	"Quest,STQ_Headhunter"	"- О БОЖА!! — вас ледзь не зьнесла гукавой хваляй, — Гэта што, мне?! Дзякуй! Дзякуй!! Дзякуй!!!
+Сястра выхапіла ў вас з рук шакалядку, і вы зразумелі, што цяпер яна здольная дзеля вас на ўсё."
 "/quests/STQ_Headhunter.qmm/locations/56/texts/5/text"	"- Я обожаю мужчин в военной форме! - выпалила сестра, пожирая вас взглядом.
 - Гмм... а я тут хожу... проверяю, - промямлили вы, понемногу отступая от стойки.
 Не время сейчас отвлекаться от задания!"	"Quest STQ_Headhunter.qmm: locations.56.texts.5.text. Preserve every <tag> exactly. English reference: ""I simply adore men in military uniform!"" the nurse blurted, devouring you with her eyes.
 ""Uh...I'll go check,"" you mumbled, slowly backing away from the counter.
-You don't have time to be distracted from your mission!"	"Quest,STQ_Headhunter"	""
+You don't have time to be distracted from your mission!"	"Quest,STQ_Headhunter"	"- Я абажаю мужчынаў у вайсковай форме! — выпаліла сястра, пажыраючы вас позіркам.
+- Гм... а я тут хаджу... правяраю, — прамармыталі вы, пакрысе адступаючы ад стойкі.
+Не час цяпер адцягвацца ад заданьня!"
 "/quests/STQ_Headhunter.qmm/locations/58/texts/0/text"	"- Я Кузьмич, - поднял руку один из работников, с широкой рыжей бородой - запоминай, это несложно.
 Остальные работники дружно заржали.
 - Чего хотел-то?"	"Quest STQ_Headhunter.qmm: locations.58.texts.0.text. Preserve every <tag> exactly. English reference: ""I'm Kuzmich,"" said one of the workers, raising his hand. He had a big red beard. ""Remember that. It's not difficult.""
 The rest of the workers laughed heartily.
-""Did you need something?"""	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/58/texts/1/text"	"- Вот зараза, опять перегорела. Не напасешься на эту палату ламп. Ты зайди в подсобку в конце коридора, там на стеллаже справа возьмешь лампу, а стремянка в палате есть. Еще вопросы?"	"Quest STQ_Headhunter.qmm: locations.58.texts.1.text. Preserve every <tag> exactly. English reference: ""There's the piece of crap. It's gone and burned out again. There ain't never gonna be enough light bulbs for this ward. You head on down to the utility room at the end of the corridor. There's a light bulb there on the shelf to the right - and there's a ladder in the ward. You got any more questions?"""	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/58/texts/2/text"	"- Да чтобы все спрашивали, - нахмурился рабочий, - давай, шагай отсюда, юморист."	"Quest STQ_Headhunter.qmm: locations.58.texts.2.text. Preserve every <tag> exactly. English reference: ""Yeah, impress everyone with your work,"" frowned the worker, ""Get lost, comedian."""	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/61/texts/0/text"	"Отдельных палат на уровне три штуки ровно. Вход во вторую сторожит огромный охранник  - малок. Его вид не предвещает ничего хорошего. Двери остальных палат распахнуты, внутри никого нет."	"Quest STQ_Headhunter.qmm: locations.61.texts.0.text. Preserve every <tag> exactly. English reference: There are exactly three private wards on the level. An enormous maloq guard is keeping watch over the entrance to the second ward. His appearance doesn't foreshadow anything good. The doors of the other wards have been flung wide open. Nobody is inside."	"Quest,STQ_Headhunter"	""
+""Did you need something?"""	"Quest,STQ_Headhunter"	"- Я Кузьміч, — падняў руку адзін з работнікаў з шырокай рыжай барадой, — запамінай, гэта няскладна.
+Астатнія работнікі дружна заржалі.
+- Чаго хацеў?"
+"/quests/STQ_Headhunter.qmm/locations/58/texts/1/text"	"- Вот зараза, опять перегорела. Не напасешься на эту палату ламп. Ты зайди в подсобку в конце коридора, там на стеллаже справа возьмешь лампу, а стремянка в палате есть. Еще вопросы?"	"Quest STQ_Headhunter.qmm: locations.58.texts.1.text. Preserve every <tag> exactly. English reference: ""There's the piece of crap. It's gone and burned out again. There ain't never gonna be enough light bulbs for this ward. You head on down to the utility room at the end of the corridor. There's a light bulb there on the shelf to the right - and there's a ladder in the ward. You got any more questions?"""	"Quest,STQ_Headhunter"	"- Вось зараза, зноў перагарэла. Не запасесься на гэтую палату лямпаў. Ты зайдзі ў падсобку ў канцы калідора, там на стэляжы справа возьмеш лямпу, а стрэмка ў палаце ёсьць. Яшчэ пытаньні?"
+"/quests/STQ_Headhunter.qmm/locations/58/texts/2/text"	"- Да чтобы все спрашивали, - нахмурился рабочий, - давай, шагай отсюда, юморист."	"Quest STQ_Headhunter.qmm: locations.58.texts.2.text. Preserve every <tag> exactly. English reference: ""Yeah, impress everyone with your work,"" frowned the worker, ""Get lost, comedian."""	"Quest,STQ_Headhunter"	"- Ды каб усе пыталі, — нахмурыўся рабочы, — давай, ідзі адсюль, гумарыст."
+"/quests/STQ_Headhunter.qmm/locations/61/texts/0/text"	"Отдельных палат на уровне три штуки ровно. Вход во вторую сторожит огромный охранник  - малок. Его вид не предвещает ничего хорошего. Двери остальных палат распахнуты, внутри никого нет."	"Quest STQ_Headhunter.qmm: locations.61.texts.0.text. Preserve every <tag> exactly. English reference: There are exactly three private wards on the level. An enormous maloq guard is keeping watch over the entrance to the second ward. His appearance doesn't foreshadow anything good. The doors of the other wards have been flung wide open. Nobody is inside."	"Quest,STQ_Headhunter"	"Асобных палатаў на ўзроўні роўна тры штукі. Уваход у другую вартаўнічае вялізны ахоўнік  — малок. Ягоны выгляд ня абяцае нічога добрага. Дзьверы астатніх палатаў расчыненыя, ўсярэдзіне нікога няма."
 "/quests/STQ_Headhunter.qmm/locations/62/texts/0/text"	"- Без пропуска нельзя! - пробасил охранник, когда вы подошли.
 Вы попытались потолкаться с ним, но он, кажется, этого даже не заметил. Даже пинок в колено, на который вы решились совершенно отчаявшись, ничем не помог ситуации."	"Quest STQ_Headhunter.qmm: locations.62.texts.0.text. Preserve every <tag> exactly. English reference: ""Not without a pass!"" growled the guard in a deep voice when you approached.
-You tried to shove him, but apparently he didn't even notice. Even a kick in the knee, which you had decided on in utter despair, didn't help the situation at all."	"Quest,STQ_Headhunter"	""
+You tried to shove him, but apparently he didn't even notice. Even a kick in the knee, which you had decided on in utter despair, didn't help the situation at all."	"Quest,STQ_Headhunter"	"- Без пропуску нельга! — прабасіў ахоўнік, калі вы падышлі.
+Вы паспрабавалі папіхацца зь ім, але ён, здаецца, гэтага нават не заўважыў. Нават удар нагой у калена, на які вы адважыліся ў поўным адчаі, нічым не дапамог сытуацыі."
 "/quests/STQ_Headhunter.qmm/locations/62/texts/1/text"	"- Без пропуска нельзя! - пробасил охранник, когда вы подошли.
 - Как удачно, что он у меня есть, - ответили вы и помахали зажатым в руке пропуском.
 Охранник, близоруко щурясь и шевеля губами прочел, что в нем написано, а потом с недовольным ворчанием отошел в сторону, освободив проход."	"Quest STQ_Headhunter.qmm: locations.62.texts.1.text. Preserve every <tag> exactly. English reference: ""Not without a pass!"" growled the guard in a deep voice when you approached.
 ""How fortunate that I have one,"" you replied and waved the pass clenched in your hand.
-The nearsighted guard read what was written on it, wrinkling and moving his lips. Then he snarled with discontent and stepped to the side, freeing the way."	"Quest,STQ_Headhunter"	""
+The nearsighted guard read what was written on it, wrinkling and moving his lips. Then he snarled with discontent and stepped to the side, freeing the way."	"Quest,STQ_Headhunter"	"- Без пропуску нельга! — прабасіў ахоўнік, калі вы падышлі.
+- Як удала, што ён у мяне ёсьць, — адказалі вы і памахалі заціснутым у руцэ пропускам.
+Ахоўнік, блізарука жмурачыся і варушачы вуснамі, прачытаў, што ў ім напісана, а потым з незадаволеным бурчаньнем адышоў убок, вызваліўшы праход."
 "/quests/STQ_Headhunter.qmm/locations/62/texts/2/text"	"- Без пропуска нельзя! - пробасил охранник, когда вы подошли.
 - А я тут это, вентиляцию чинить пришел, - ответили вы миролюбиво.
 - Вентиляцию? - сморщил лоб охранник.
@@ -684,7 +732,12 @@ The nearsighted guard read what was written on it, wrinkling and moving his lips
 ""Ventilation?"" The guard's forehead crumpled up.
 ""Yessir. They said it's broken.""
 ""Okay, fine,"" said the guard, giving up. ""Go ahead.""
-Fortunately, he didn't even ask where your tools were."	"Quest,STQ_Headhunter"	""
+Fortunately, he didn't even ask where your tools were."	"Quest,STQ_Headhunter"	"- Без пропуску нельга! — прабасіў ахоўнік, калі вы падышлі.
+- А я тут гэта, вэнтыляцыю чыніць прыйшоў, — адказалі вы міралюбна.
+- Вэнтыляцыю? — зморшчыў лоб ахоўнік.
+- Зламалася, сказалі, так.
+- Ну добра, — здаўся ахоўнік, — праходзь.
+На шчасьце, ён нават не спытаў, дзе ж вашыя інструмэнты."
 "/quests/STQ_Headhunter.qmm/locations/62/texts/3/text"	"- Док, - пробасил охранник, когда вы проходили мимо.
 - Да? - спросили вы, холодея от мысли, что раскрыты.
 - А у тебя есть эти витаминки, которые вкусные? - спросил неожиданно охранник.
@@ -693,13 +746,19 @@ Fortunately, he didn't even ask where your tools were."	"Quest,STQ_Headhunter"	"
 ""Yes?"" you asked, growing cold with the thought that you had been found out.
 ""Do you have any of those vitamins that taste good?"" asked the guard unexpectedly.
 ""Er...no, I'm afraid I don't.""
-""Bummer..."" boomed the guard and turned his attention away from you."	"Quest,STQ_Headhunter"	""
-"/quests/STQ_Headhunter.qmm/locations/62/texts/4/text"	"Охранник бросил на вас внимательный взгляд, когда вы подошли к двери, но ничего не сказал, лишь сделал шаг в сторону, освобождая проход."	"Quest STQ_Headhunter.qmm: locations.62.texts.4.text. Preserve every <tag> exactly. English reference: The guard gave you a watchful glance as you approached the door, but he didn't say anything as he stepped to the side to free the way."	"Quest,STQ_Headhunter"	""
+""Bummer..."" boomed the guard and turned his attention away from you."	"Quest,STQ_Headhunter"	"- Док, — прабасіў ахоўнік, калі вы праходзілі міма.
+- Так? — спыталі вы, халадзеючы ад думкі, што вас раскрылі.
+- А ў цябе ёсьць гэтыя смачныя вітаміны? — нечакана спытаў ахоўнік.
+- Э-э... не, баюся, што не.
+- Шкада... — працягнуў ахоўнік і страціў да вас цікавасьць."
+"/quests/STQ_Headhunter.qmm/locations/62/texts/4/text"	"Охранник бросил на вас внимательный взгляд, когда вы подошли к двери, но ничего не сказал, лишь сделал шаг в сторону, освобождая проход."	"Quest STQ_Headhunter.qmm: locations.62.texts.4.text. Preserve every <tag> exactly. English reference: The guard gave you a watchful glance as you approached the door, but he didn't say anything as he stepped to the side to free the way."	"Quest,STQ_Headhunter"	"Ахоўнік кінуў на вас уважлівы позірк, калі вы падышлі да дзьвярэй, але нічога не сказаў, толькі зрабіў крок убок, вызваляючы праход."
 "/quests/STQ_Headhunter.qmm/locations/62/texts/5/text"	"- Без пропуска нельзя! - пробасил охранник, когда вы подошли.
 Вы в ответ протянули ему добытую в буфете плитку шоколада и изумленно увидели, как суровое лицо стража расплывается в улыбке.
 - Гыы, пасиба! - замычал он, выхватывая из ваших рук кондитерское изделие, и добавил, - Можешь проходить."	"Quest STQ_Headhunter.qmm: locations.62.texts.5.text. Preserve every <tag> exactly. English reference: ""Not without a pass!"" growled the guard in a deep voice when you approached.
 In reply, you offered him the bar of chocolate you had procured at the buffet. Dumbfounded, you watched as the guard's sour face spread into a smile.
-""Gee, thanks!"" he bellowed, snatching the confection from your hands and adding, ""You can go in."""	"Quest,STQ_Headhunter"	""
+""Gee, thanks!"" he bellowed, snatching the confection from your hands and adding, ""You can go in."""	"Quest,STQ_Headhunter"	"- Без пропуску нельга! — прабасіў ахоўнік, калі вы падышлі.
+Вы ў адказ працягнулі яму здабытую ў буфэце плітку шакаляду і зьдзіўлена ўбачылі, як суровы твар варты расплываецца ва ўсьмешцы.
+- Гыы, пасіба! — замычаў ён, выхопліваючы з вашых рук кандытарскі выраб, і дадаў, — Можаш праходзіць."
 "/quests/STQ_Headhunter.qmm/locations/63/texts/0/text"	"Вы внутри небольшой комнаты без окон. Прямо напротив двери находится кровать, на ней лежит кто-то, целиком обмотанный бинтами. Из-под бинтов торчат разные трубки и проводки, ведущие в замысловатому аппарату, стоящему у изголовья кровати.
 Вы сделали шаг вперед и прочли надпись на спинке кровати. Это действительно оказался ваш недобитый противник. Вы невольно поразились его стремлению к жизни. 
 Что ж, когда вы убедились, что ваша жертва на месте, осталось только добить его. Или лучше пожалеть невинных пациентов и что-нибудь придумать? Вам предстоит сложное решение"	"Quest STQ_Headhunter.qmm: locations.63.texts.0.text. Preserve every <tag> exactly. English reference: You are inside a small, windowless room. Directly opposite from the door is a bed with somebody completed wrapped in bandages lying in it. Various tubes and wires protrude from the bandages and lead to a complicated apparatus at the head of the bed.
