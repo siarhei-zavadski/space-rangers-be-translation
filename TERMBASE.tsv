@@ -1340,7 +1340,7 @@ lemma.cheer	болеть за команду	cheer	заўзець/заўзелі
 lemma.jim_hakker	Джим Хаккер	Jim Hakker	Джым/Хакер		computer-games journalist	Election.qmm
 lemma.noo_pasaran	Ноо Пасаран	Noo Pasaran	Ноо/Пасаран		gaal professor; pun on No pasarán	Election.qmm
 lemma.linch	Линч	Linch	Лінч/Лінча/Лінчам		first president of the election planet	Election.qmm
-lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам		xenopark beast; clay belly	Drugs.qmm
+lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам/глінабруху		xenopark beast; clay belly; D глінабруху	Drugs.qmm
 lemma.clone	клонирование	cloning	клянаваньне/клянаваньня	кланаваньне	hunspell spelling; Starnik кланаванне	https://starnik.by/pravapis/35825
 lemma.udu_shill	Уду-Шилл	Strangl Lee	Уду/Шыл		peleng aide; English pun on strangle	Election.qmm
 lemma.masochist	мазохист	masochist	мазахіст/Мазахістаў/мазахістаў		hunspell lacks the lemma; mega-masochist sect	https://starnik.by/pravapis/40810
@@ -2094,7 +2094,7 @@ lemma.ancient	древний	ancient	старажытны			https://starnik.by/p
 lemma.kitchen_adj	кухонный	kitchen	кухонны			https://starnik.by/pravapis/120401
 lemma.infinite	бесконечный	infinite	бясконцы/бясконцым			https://starnik.by/pravapis/100878
 lemma.transition	переход	transition	пераход/пераходы			https://starnik.by/pravapis/56043
-lemma.kuucha	Кууча	Kuucha	Кууча/Куучы		peleng industrialist; G Куучы	Drugs.qmm
+lemma.kuucha	Кууча	Kuucha	Кууча/Куучы/Куучу/Куучам/Юча/Ючы/Ючу/Ючам		peleng industrialist; G Куучы, D Куучу фон Ючу	Drugs.qmm
 lemma.hat	шляпа	hat	капялюш		the hat; Starnik шляпа is only the insult for a timid person	https://starnik.by/pravapis/33636
 lemma.boot	сапог	boot	бот		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
 lemma.uniform	мундир	uniform	мундзір		military or service dress	https://starnik.by/pravapis/44617
@@ -2110,3 +2110,18 @@ lemma.grazia	Грязия	Grazia	Гразія/Гразію/Гразіі		cleaner
 lemma.fred_drugs	Фрэд	Fred	Фрэд/Фрэдам		the gaal in the friends' room	Drugs.qmm
 lemma.heili	Хэйли	Heili	Хэйлі		the exploding maloc's chant	Drugs.qmm
 lemma.riemann	Риман	Riemann	Рымана		the mathematician named in the fei argument	Drugs.qmm
+lemma.grubb	Грубб	Grubb	Грубб/Грубба		mad peleng mathematician in the lab	Drugs.qmm
+lemma.plengotherm	пленготерм	plengotherm	плэнгатэрм/плэнгатэрма/плэнгатэрмаў		coined distance in the claybelly hunt; not in Starnik	Drugs.qmm
+lemma.superglucose	суперглюковый	superglucose	суперглюковы		coined lab generator; not in Starnik	Drugs.qmm
+lemma.camouflage	маскировка	camouflage	маскіроўка		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/42058
+lemma.anteroom	предбанник	anteroom	сенцы		small entrance room of a house	https://starnik.by/pravapis/68728
+lemma.scum	сволочь	scum	сволач		spoken insult, an odious person	https://starnik.by/pravapis/68216
+lemma.freak	урод	freak	вырадак		a person who has lost sound qualities	https://starnik.by/pravapis/16386
+lemma.chamber	камера	chamber	камэра		isolated room; Starnik камера, hunspell wants э	https://starnik.by/pravapis/32501
+lemma.manuscript	рукопись	manuscript	рукапіс		a text written by hand	https://starnik.by/pravapis/65018
+lemma.drawer	ящик	drawer	шуфляда/шуфляды/шуфлядзе		desk drawer, sense 1	https://starnik.by/pravapis/85980
+lemma.telegraph	телеграф	telegraph	тэлеграф/Тэлеграфа		long-distance messages	https://starnik.by/pravapis/76975
+lemma.siren	сирена	siren	сырэна/сырэны		alarm apparatus, Starnik sense 4; hunspell ы	https://starnik.by/pravapis/69361
+lemma.dolt	олух	dolt	ёлуп/ёлупы		a dull person	https://starnik.by/pravapis/25299
+lemma.boar	боров	boar	кныр		male pig; the hog leaving his den	https://starnik.by/pravapis/36204
+lemma.compartment	блок	compartment	адсек/адсеку/адсекаў		isolated compartment; Starnik G -а, hunspell wants адсеку	https://starnik.by/pravapis/2783
