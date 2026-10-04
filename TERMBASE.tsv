@@ -2050,3 +2050,10 @@ lemma.beginner	начинающий	beginner	пачатковец/пачатко
 lemma.eyesight_measure	глазомер	eye measure	вакамер	вокамер	Starnik has both; hunspell accepts вакамер	https://starnik.by/pravapis/12996
 lemma.revolver	револьвер	revolver	рэвальвер/рэвальвера		energy revolver; hunspell lacks the lemma	https://starnik.by/pravapis/65552
 lemma.bioregen	биореген	bioregen	біярэген/біярэгенам		coined wound gel in the tube; not in Starnik	—
+lemma.large_caliber	крупнокалиберный	large-caliber	буйнакалібэрны/буйнакалібэрным	буйнакаліберны	Starnik буйнакаліберны; hunspell wants э	https://starnik.by/pravapis/100245
+lemma.pedal	педаль	pedal	пэдаль	педаль	Starnik педаль, -і; hunspell wants э. Педаль тормаза	https://starnik.by/pravapis/54681
+lemma.whistle_tune	насвистывать	whistle a tune	насьвістваць/насьвістваючы	насвістваць	Starnik насвістваць sense 2, whistle to oneself; hunspell inserts ь	https://starnik.by/pravapis/190699
+lemma.rush	мчаться	rush	імчаць/імчаліся	мчаць	Starnik sense 2 is імчацца; мчаць is absent	https://starnik.by/pravapis/185557
+lemma.following	следом	right behind	сьледам	следам	Starnik adverb следам; hunspell inserts ь	https://starnik.by/pravapis/231626
+lemma.let_go	выпустить	let go	выпусьціць/выпусьціў	выпусціць	did not drop the gun; Starnik выпусціць, hunspell inserts ь	https://starnik.by/pravapis/174072
+lemma.crackle	затрещать	crackle	затрашчаць/затрашчаў		start to rattle; the phone example	https://starnik.by/pravapis/182464
