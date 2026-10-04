@@ -80,5 +80,3 @@ asset TSVs and the build renders supported labels into the mod package.
 
 Keep `CROWDIN_PERSONAL_TOKEN` in the shell. Do not put it in the repository
 or in GitHub Actions.
-See [`OPEN_SOURCE_READINESS.md`](OPEN_SOURCE_READINESS.md) before changing
-repository visibility or applying for Crowdin's open-source plan.

@@ -38,12 +38,10 @@ python3 -m venv .venv
 
 The script writes `BelTranslate` directly into the installed game, builds Belarusian `.gi` menu assets and patched Eng/Rus `Lang.dat` files, then validates DAT/PKG/GI structure.
 
-## Repository automation
+## Checks
 
-GitHub preparation, CI/CD, secrets, and the current Crowdin open-source
-eligibility blockers are documented in
-[`OPEN_SOURCE_READINESS.md`](OPEN_SOURCE_READINESS.md). A private repository is
-valid for staging, but it does not qualify for Crowdin's open-source license.
+GitHub Actions runs `Validate` on push and pull request. That workflow reads
+the repository and uses no secrets.
 
 Original project code is MIT-licensed. Game content remains subject to its
 rights holders; see [`THIRD_PARTY.md`](THIRD_PARTY.md).
