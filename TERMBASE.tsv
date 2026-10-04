@@ -1705,7 +1705,7 @@ lemma.water	вода	water	вада/Вада/Вады		the liquid, not the diale
 lemma.air	воздух	air	паветра/Паветра		element	https://starnik.by/pravapis/49864
 lemma.earth	земля	earth	зямля/Зямля/Зямлі		element and ground; G зямлі	https://starnik.by/pravapis/29980
 lemma.spirit	дух	spirit	дух/Дух/Духа		psychic power, not a ghost; G духа	https://starnik.by/pravapis/23816
-lemma.gold	золото	gold	золата/Золата		the metal and the coin label	https://starnik.by/pravapis/29691
+lemma.gold	золото	gold	золата/Золата/залацінка		the metal and the coin label; залацінка is the small piece	https://starnik.by/pravapis/29691
 lemma.book	книга	book	кніга/Кніга		spellbook	https://starnik.by/pravapis/36147
 lemma.wind	ветер	wind	вецер/Ветру		G ветру	https://starnik.by/pravapis/14169
 lemma.wave	волна	wave	хваля/Хваляў		G pl хваляў	https://starnik.by/pravapis/81699
@@ -1812,9 +1812,9 @@ lemma.vat	НДС	VAT	ПДВ		value-added tax on the buyer's sign; hunspell sugge
 lemma.kuroswin	куросвин	hen-pig	курасвіна		the malok who looks like a hen and a pig; not in Starnik	—
 lemma.kosmolingua	космолингва	common tongue	касмалінгве		the door asks for the common space tongue; L касмалінгве; not in Starnik	—
 lemma.brainrhythm	мозгоритм	brain rhythm	мазгарытмы		the ancient keyboard misses brain rhythms; not in Starnik	—
-lemma.mapper	маппер	level mapper	мапер		the gaal who builds locations; not in Starnik	—
+lemma.mapper	маппер	level mapper	мапер/мапераў		the gaal who builds locations; Gpl мапераў; not in Starnik	—
 lemma.sevencolor	семицветник	seven-color flower	сямівкаляровік		the flower the mapper expected, parallel to шматкаляровік; not in Starnik	—
-lemma.poundlord	Вдолб	earth lord	Удоўб		coined lord of earth, from даўбці; not in Starnik	—
+lemma.poundlord	Вдолб	earth lord	Удоўб/Удоўба		coined lord of earth, from даўбці; G Удоўба; not in Starnik	—
 lemma.blowlord	Вздуй	air lord	Узьдзьмуй		coined lord of air; not in Starnik	—
 lemma.abdulbis	Абдулбис	Abdulbis	Абдулбіса		the dead great mage; G Абдулбіса; not in Starnik	—
 lemma.morpheus	Морфеус	Morpheus	Морфеус		the Matrix name on the screen; not in Starnik	—
@@ -1824,3 +1824,23 @@ lemma.pigsale	ЧП СВИН	pig firm	ЧП/СВІН		the buyer's license header; 
 lemma.license_x	ХХХ	license blank	ХХХ/ХХХХХХХ		placeholder digits on the license; not words	—
 lemma.door_gibber	хиромату	wrong-language door	Хірамату/квацукі/нікабарыс/адседа/шухер/хіро/вэк/банзай/ватакасі/Эка/Масураі/Вакарымас/Каа/торо/буторо/Ваік/масакі/Ерыкі/шморыкі		the door's first two languages, pseudo-Japanese plus broken speech	—
 lemma.loot_cut	снима	loot, cut off	здыма		the buyer almost says he loots the dead, then corrects himself	—
+lemma.fireguard	Огненный Страж	fire guardian	Агняны/Вартаўнік/Вартаўніка		the giant on the road to the castle	https://starnik.by/pravapis/13430
+lemma.highmage	Верховный	supreme mage	Вярхоўны/Вярхоўнага		the mage the hero challenges; not Вялікі Маг	https://starnik.by/pravapis/104629
+lemma.sandstorm	Песчаная Буря	sandstorm spell	Пясчаная/Бура		air plus earth	https://starnik.by/pravapis/12020
+lemma.geyser	Гейзер	geyser spell	Гейзер		water plus earth	https://starnik.by/pravapis/18674
+lemma.icestorm	Ледяная Буря	ice storm spell	Ледзяная/Бура		water plus air; not the bee	https://starnik.by/pravapis/12020
+lemma.banshee	Баньши	banshee spell	Баньшы		air plus spirit; hunspell suggestions are other words	—
+lemma.fireball	Огненный Шар	fireball spell	Агняны/Шар		fire plus air	https://starnik.by/pravapis/92966
+lemma.meteor_spell	Метеор	meteor spell	Мэтэор		fire plus earth; hunspell spelling; not in Starnik	—
+lemma.icebee	Ледяная Пчела	ice bee	Ледзяная/Пчала/Ледзяныя/Пчолы		water, spirit and air; two bees, 4-6, once on Дуу'Рак	—
+lemma.darkness	тьма	darkness	Цемра/Цемры/цемра/цемры		riddle answer and the witch's patron; not сьмерць	https://starnik.by/pravapis/82681
+lemma.romualda	Ромуальда	Romualda	Рамуальда/Жыгімонтаўна		the witch; the patronymic is a hunspell gap; Жыгімонт is Starnik	https://starnik.by/pravapis/89474
+lemma.gnus	Гнус	Gnus	Гнус/Гнусу/Гнусік/Гнусіка/Злапакосьнікаў/Злапакосьніцтва		the dean of malicious wizardry; Гнус is vermin; the surname is coined	https://starnik.by/pravapis/20255
+lemma.zhvyrklats	жвырклац	coined beast	жвырклаца		milk from a zhvyrklats; not a real animal	—
+lemma.cryonics	крионика	cryonics	крыёніка/крыёнікай		years the witch's magic held back; hunspell suggests крыягенікай, another word	—
+lemma.freshbrew	Свежесваренный	freshly brewed	Сьвежазвараны		the warm elixir, one word beside the load joke	—
+lemma.freshload	Свежеподгруженный	freshly loaded	Сьвежападгружаны		the designer's voice; hunspell suggestions are other words	—
+lemma.housepun	срубается	house-building pun	зрубуецца/дашыцца/падмуркоўваецца		nonce verbs echoing зруб, дах and падмурак	—
+lemma.flatter_bad	льстюн	wrong flatterer	лісьцюн		the hero's wrong try before лісьлівец	—
+lemma.kamasutra	Камасутра	Kamasutra	Камасутра/Камасутры		the book the witch names; hunspell suggestion is another word	—
+lemma.matpart	матчасть	materiel	матчастка/матчасткай		the abbreviation the hero does not understand	—
