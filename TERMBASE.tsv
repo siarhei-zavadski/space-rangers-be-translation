@@ -1768,7 +1768,7 @@ lemma.muudry	Муудрый	Muudry	Муудры		gaal vowel stretch of мудр�
 lemma.neo	Нео	Neo	Нэа		the Matrix name; not in Starnik	—
 lemma.zeoni	Зеони	Zeoni	Зэоні		planet name; not in Starnik	—
 lemma.ii_kabana	Ии-Кабана	Ii-Kabana	Іі/Кабана		planet pun on Ііке-Баана; not in Starnik	—
-lemma.duurak	Дуу'Рак	Duu'Rak	Дуу'Рак/Дуу'Рака/Дуу'Раку/Этохт/Этохта		gaal champion; keep the apostrophe	PlanetQuest
+lemma.duurak	Дуу'Рак	Duu'Rak	Дуу'Рак/Дуу'Рака/Дуу'Раку/Дуу'Ракам/Этохт/Этохта		gaal champion; keep the apostrophe; I Дуу'Ракам	PlanetQuest
 lemma.rakshas	Ракшас	Rakshas	Ракшас/Ракшаса/Ракшасам		peleng magic merchant; not in Starnik	—
 lemma.itspiduk	Ицпидук Шпык	Itspiduk Shpyk	Іцпідук/Іцпідуку/Шпык		card seller; not in Starnik	—
 lemma.ptyukha	Птюха Жмота	Ptyukha Zhmota	Пцюха/Пцюху/Жмота/Жмоту		a klissan the bar talks about; not in Starnik	—
@@ -1883,7 +1883,7 @@ lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампі
 lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
-lemma.bellysaurus	брюхозавр	belly-saurus	брухазаўр		the sleepy joke dinosaur; hunspell wants архазаўр, another beast	—
+lemma.bellysaurus	брюхозавр	belly-saurus	брухазаўр/брухазаўру/брухазаўры		the sleepy joke dinosaur; hunspell wants архазаўр, another beast; G брухазаўру	—
 lemma.toadworm	жабочервь	toad-worm	ЖАБАЧАРВЯК/жабачарвяк		the cave's insult; coined; hunspell splits it	—
 lemma.chur	чур	apotropaic chur	Чур/чур		keep away; hunspell suggestions are other words	—
 lemma.gay_pun	гей	gay, the echo	гей		the echo of Эге-ге-гей; hunspell wants other words	—
@@ -1892,3 +1892,4 @@ lemma.inhospitable	негостеприимный	inhospitable	негасцін�
 lemma.talkbox	говорилка	chatterbox device	гаварылка		the cave's nickname for the speech synth; coined	—
 lemma.your_nobleness	благородие	your nobleness	благароддзе		the officer's address; Starnik; hunspell rejects it	https://starnik.by/pravapis/10755
 lemma.nope	неа	nope	Неа/неа		the hero's childish no; hunspell wants other words	—
+lemma.walk_nonce	ходют	uneducated they-walk	ходзюць		the fire demon drops the ending; hunspell wants the correct verb	—
