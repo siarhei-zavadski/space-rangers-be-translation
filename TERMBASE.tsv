@@ -1697,7 +1697,7 @@ lemma.hits	хиты	hit points	Хіт/Хіты/хіт/хіты		game HP pool; St
 lemma.focus	сосредоточенность	concentration	засяроджанасьць/Засяроджанасьць	сканцэнтраванасьць	absorbed attention; Starnik засяроджанасць, tarask soft sign	https://starnik.by/pravapis/27906
 lemma.amulet	амулет	amulet	амулет/Амулет		charm worn on the body	https://starnik.by/pravapis/4486
 lemma.magic_noun	магия	magic	магія/Магія/Магіі	чары	noun of the spell art; adjective stays магічны	https://starnik.by/pravapis/40621
-lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры		magic draught; G эліксіру	https://starnik.by/pravapis/87267
+lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры/эліксіраў/Эліксіраў		magic draught; G эліксіру, Gpl эліксіраў is a hunspell gap	https://starnik.by/pravapis/87267
 lemma.healing	исцеление	healing	гаеньне/Гаеньня	ацаленьне	wound-healing from гаіць; Starnik гаенне, tarask гаеньне; treatment is лячэньне	https://starnik.by/pravapis/17285
 lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		unconscious sense; G інтуіцыі	https://starnik.by/pravapis/30976
 lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
@@ -1727,3 +1727,15 @@ lemma.concentration	концентрация	concentration	канцэнтрац�
 lemma.enemy	враг	enemy	вораг/ворага		G ворага	https://starnik.by/pravapis/15204
 lemma.virtual_chit	виртуальчик	virtual credit	віртуальчык/віртуальчыкі		slang diminutive for a virtual credit; not in Starnik	—
 lemma.uses_abbr	исп.	uses	вык		abbreviation of выкарыстаньне, parallel to исп.	—
+lemma.dead	мертвый	dead	мёртвы		predicate мёртвы	https://starnik.by/pravapis/123900
+lemma.fatigue	усталость	fatigue	стома/Стома		loss of strength	https://starnik.by/pravapis/72143
+lemma.violet	фиолетовый	violet	фіялетавы/Фіялетавае		water-element color; N neuter фіялетавае	https://starnik.by/pravapis/158497
+lemma.rat	крыса	rat	пацук/пацукоў/Пацукоў	крыса	Starnik has пацук; Gpl пацукоў	https://starnik.by/pravapis/54470
+lemma.stun	оглушение	stun	аглушэньне		Starnik аглушэнне, tarask soft sign	https://starnik.by/pravapis/1649
+lemma.stash	загашник	stash	тайнік/Тайнік		hiding place, sense 1	https://starnik.by/pravapis/74478
+lemma.spring	источник	spring	крыніца/Крыніца/Крыніцы		the magic spring; sense 1, not a source of news	https://starnik.by/pravapis/37268
+lemma.buyer	скупщик	buyer	скупшчык/скупшчыка		buys goods to resell	https://starnik.by/pravapis/70063
+lemma.well	колодец	well	калодзеж		a water well	https://starnik.by/pravapis/32206
+lemma.dialogue_adj	диалоговый	dialogue	дыялогавая/Дыялогавая		Starnik stress дыяло́гавая; hunspell suggestions are other words	https://starnik.by/pravapis/110215
+lemma.riddle_cave	Пещера Загадок	Cave of Riddles	Пячора Загадак		place name	https://starnik.by/pravapis/62250
+lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest boolean marker; the cloth sense is the same word	https://starnik.by/pravapis/73968
