@@ -692,7 +692,7 @@ lemma.kornevoy	Корневой	Kornevoy	Карнявы		surname from коран
 lemma.shagraychik	Шаграйчик	Shagraychik	Шаграйчык/Шаграйчыка		spetsnaz captain; G Шаграйчыка	Park.qmm
 lemma.juliet_car	Джульетта	Juliet	Джульета/Джульету/КК		service car Бета-Джульетта КК - ІКС	Park.qmm
 lemma.special_mission	спецзадание	special assignment	спэцыяльнае заданьне	спэцзаданне	hunspell rejects the compound	hunspell-be-tarask
-lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў/пэнчэкряк/пэнчэкрякскімі/пэнчэкрякскія/Пэнчэкряка		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
+lemma.penchekryak	Пенчекряк	Penchekryak	Пэнчэкряк/Пэнчэкрякі/пэнчэкрякі/пэнчэкряка/пэнчэкрякаў/пэнчэкряк/пэнчэкрякскімі/пэнчэкрякскія/Пэнчэкряка/пэнчэкряках		slot reel; N pl after 3; G пэнчэкряка	Park.qmm
 lemma.kvakozhabr	Квакожабр	Kvakozhabr	Квакажабр/Квакажабры/квакажабры		slot reel; akanie	Park.qmm
 lemma.khokhlach	Хохлач	Khokhlach	Хахлач/Хахлачы/хахлачы		slot reel; akanie; hunspell accepts Хахлач	Park.qmm
 lemma.berdyaychik	Бердяйчик	Berdyaychik	Бэрдзяйчык/бэрдзяйчыкі		slot reel; 777-coin symbol	Park.qmm
@@ -1893,3 +1893,16 @@ lemma.talkbox	говорилка	chatterbox device	гаварылка		the cave'
 lemma.your_nobleness	благородие	your nobleness	благароддзе		the officer's address; Starnik; hunspell rejects it	https://starnik.by/pravapis/10755
 lemma.nope	неа	nope	Неа/неа		the hero's childish no; hunspell wants other words	—
 lemma.walk_nonce	ходют	uneducated they-walk	ходзюць		the fire demon drops the ending; hunspell wants the correct verb	—
+lemma.abdurahman	Абдурахман	Abdurahman	Абдурахман		the student's boastful name	—
+lemma.gendalf	Гэндальф	Gandalf	Гэндальф		witch dialogue keeps the Russian spelling; the magazine joke is Пэндальф	—
+lemma.copperfield	Копперфилд	Copperfield	Копэрфілд		David Copperfield as the student's teacher	—
+lemma.petrenko	Петренко	Petrenko	Петрэнка		the fake sergeant's surname	—
+lemma.harun_rickets	Гарун-Рахит	Harun with rickets	Рахіта		name genitive -а; hunspell wants the disease genitive Рахіту	https://starnik.by/pravapis/64590
+lemma.frankenstein	Франкенштейн	Frankenstein	Франкенштэйна		accusative; hunspell suggests Eisenstein	—
+lemma.naturlich	натюрлих	naturally	натурліх		Nietzsche's German natürlich	—
+lemma.tibidoh	тибидох	tibidoh	цібідох		the witch's nonsense syllable	—
+lemma.shpien	шпиен	spy, slurred	шпіен		she slurs шпион; the dictionary word is шпіён	—
+lemma.mean_trick	подлянка	dirty trick	падлянка/падлянку		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/50738
+lemma.chilly	прохладно	chilly	прахалодна		adverb of прахалодны; hunspell has the adjective only	https://starnik.by/pravapis/141990
+lemma.vision	виденье	fleeting vision	відзеньне		Starnik відзенне; tarask -ньне; hunspell suggestions are other words	https://starnik.by/pravapis/14339
+lemma.little_shot	уколик	little injection	ўкольчык/ўкольчыкаў		diminutive of укол; chilly enough for a shot	https://starnik.by/pravapis/78161
