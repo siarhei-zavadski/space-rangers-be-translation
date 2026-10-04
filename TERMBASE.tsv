@@ -1945,3 +1945,8 @@ lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
 lemma.lockpick_tool	взломщик	charged lockpick	узломнік		the tool with charges, not a burglar; hunspell splits it	—
+lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
+lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
+lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
+lemma.smoking	дымясь	smoking, participle	дымячы		gerund of дыміць; hunspell suggestions are other words	https://starnik.by/pravapis/177924
+lemma.bulletproof	пуленепробиваемый	bulletproof	куленепрабівальны	кулянепрабівальны	Starnik and hunspell; the куля- spelling is a different token	https://starnik.by/pravapis/120147
