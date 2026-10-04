@@ -898,8 +898,8 @@
 "/quests/Amnesia.qmm/jumps/33/text"	"Направиться в бар ""Золотая лилия"""	"Quest Amnesia.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/34/text"	"Выйти из бара"	"Quest Amnesia.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Выйсьці з бару"
 "/quests/Amnesia.qmm/jumps/35/text"	"Выйти из бара и направиться в центр"	"Quest Amnesia.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/36/text"	"Отойти от бармена"	"Quest Amnesia.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/37/text"	"Подойти к бармену"	"Quest Amnesia.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/36/text"	"Отойти от бармена"	"Quest Amnesia.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Адысьці ад бармэна"
+"/quests/Amnesia.qmm/jumps/37/text"	"Подойти к бармену"	"Quest Amnesia.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да бармэна"
 "/quests/Amnesia.qmm/jumps/38/text"	"Подойти к гаальцу"	"Quest Amnesia.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да гаальца"
 "/quests/Amnesia.qmm/jumps/38/description"	"- А это вы! Наконец-то! Вы узнали новое место встречи?
 
@@ -926,7 +926,7 @@
 "/quests/Amnesia.qmm/jumps/56/text"	"Приказать гаальцу атаковать противников, а самому спрятаться и стрелять из кустов"	"Quest Amnesia.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/57/text"	"Идти в дом"	"Quest Amnesia.qmm: jumps.57.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/58/text"	"Обыскать тело второго охранника и войти в дом"	"Quest Amnesia.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/59/text"	"Подняться на второй этаж"	"Quest Amnesia.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/59/text"	"Подняться на второй этаж"	"Quest Amnesia.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падняцца на другі паверх"
 "/quests/Amnesia.qmm/jumps/60/text"	"Послать в лобовую атаку гаальца"	"Quest Amnesia.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/61/param_changes/0/crit_text"	"Вы аккуратно высунулись из укрытия и стали прицельно посылать в пеленгов пулю за пулей. Однако и те не зря служили в охране - одна из их шальных пуль трагически оборвала вашу жизнь..."	"Quest Amnesia.qmm: jumps.61.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/61/param_changes/1/crit_text"	"Вы начали прицельно стрелять в пеленгов, и звук ваших выстрелов ввиду отсутствия <clr>глушителя<clrEnd> гулко отдавался по всему дому. Вы подняли так много шума, что вызванное парнями наркобарона подкрепление легко обнаружило вас и зашло вам в тыл со стороны лестницы. В результате вы оказались меж двух огней. Не прошло и нескольких минут, как вы с гаальцем были убиты."	"Quest Amnesia.qmm: jumps.61.param_changes.1.crit_text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
@@ -1062,7 +1062,7 @@
 "/quests/Amnesia.qmm/jumps/177/text"	"Спасибо, я узнал все, что хотел"	"Quest Amnesia.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/179/text"	"Обдумать имеющуюся информацию"	"Quest Amnesia.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/181/text"	"Купить глушитель за 100 cr"	"Quest Amnesia.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/182/text"	"Подойти к бармену"	"Quest Amnesia.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/182/text"	"Подойти к бармену"	"Quest Amnesia.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да бармэна"
 "/quests/Amnesia.qmm/jumps/183/text"	"Подойти к гаальцу"	"Quest Amnesia.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да гаальца"
 "/quests/Amnesia.qmm/jumps/184/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/185/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""

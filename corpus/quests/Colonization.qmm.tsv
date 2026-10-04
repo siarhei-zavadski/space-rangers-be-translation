@@ -38,7 +38,7 @@
 "/quests/Colonization.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Colonization.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/parameters/10/name"	"Дипломатия с варварами"	"Quest Colonization.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/parameters/10/lines/0/content"	"Город не атакован"	"Quest Colonization.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/parameters/10/lines/1/content"	"Атака"	"Quest Colonization.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/parameters/10/lines/1/content"	"Атака"	"Quest Colonization.qmm: parameters.10.lines.1.content. Preserve every <tag> exactly."	"Quest,Colonization"	"Атака"
 "/quests/Colonization.qmm/parameters/10/lines/2/content"	"Временный мир"	"Quest Colonization.qmm: parameters.10.lines.2.content. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/parameters/10/lines/3/content"	"Вечная война"	"Quest Colonization.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/parameters/10/lines/4/content"	"Вечный мир"	"Quest Colonization.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly."	"Quest,Colonization"	""
