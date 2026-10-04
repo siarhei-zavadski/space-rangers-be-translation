@@ -885,7 +885,7 @@ lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/
 lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша/лаап/шу/Шу		glandular fodder	Xenopark.qmm
 lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары		the ranger's car at the park	Xenopark.qmm
 lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
-lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст/бааністы/бааністамі		gaal scholar of ііке-баан	Xenopark.qmm
+lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст/бааністы/бааністамі/бааністаў		gaal scholar of ііке-баан	Xenopark.qmm
 lemma.kabaan	Ка-баан Здоох	Pestupohn Yer	Ка/Здоох		author of the aishaut note	Xenopark.qmm
 lemma.klyakush	Клякуш Чапацвак	Klyakush Chapazzvack	Клякуш/Чапацвак		archaeologist who wrote up the zhvirklats	Xenopark.qmm
 lemma.garrakh	Гаррах-Сильный	Garrakh the Strong	Гаррах		captain who wrote up the habbath	Xenopark.qmm
@@ -1739,7 +1739,7 @@ lemma.well	колодец	well	калодзеж		a water well	https://starnik.by
 lemma.dialogue_adj	диалоговый	dialogue	дыялогавая/Дыялогавая		Starnik stress дыяло́гавая; hunspell suggestions are other words	https://starnik.by/pravapis/110215
 lemma.riddle_cave	Пещера Загадок	Cave of Riddles	Пячора Загадак		place name	https://starnik.by/pravapis/62250
 lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest boolean marker; the cloth sense is the same word	https://starnik.by/pravapis/73968
-lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
+lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем/Зелле		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
 lemma.life	жизнь	life	жыцьцё/жыцьцяў		Starnik жыццё; tarask soft sign; Gpl жыцьцяў is a hunspell gap	https://starnik.by/pravapis/26025
 lemma.universe	вселенная	universe	сусьвет/сусьветах		Starnik сусвет; tarask сь; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
 lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны		a walking corpse; hunspell gap	https://starnik.by/pravapis/45012
@@ -1806,7 +1806,7 @@ lemma.streglyach	стреглячка	coined bird	стрэглячка/стрэ�
 lemma.stereograph	стереографика	stereographics	стэрэаграфіка/стэрэаграфіку		the fake stump's graphics; Starnik has the adjective стэрэаграфічны	https://starnik.by/pravapis/152378
 lemma.cutoff_stolen	украден	stolen, cut off	укра		the healer's укра... before he says куплены	—
 lemma.fasttalk	скороговорка	tongue-twister	хуткамоўка/хуткамоўкай		Starnik хуткамоўка; hunspell suggests хутканогай, a different word	https://starnik.by/pravapis/82481
-lemma.interface	интерфейс	interface	інтэрфэйс/інтэрфэйсо		Starnik інтэрфэйс; hunspell suggests інтэрфэрон, a different word; інтэрфэйсо is the door's broken try	https://starnik.by/pravapis/31175
+lemma.interface	интерфейс	interface	інтэрфэйс/інтэрфэйсо/інтэрфэйсу		Starnik інтэрфэйс; hunspell suggests інтэрфэрон, a different word; інтэрфэйсо is the door's broken try	https://starnik.by/pravapis/31175
 lemma.init_module	инициализация	initialization	ініцыялізацыі		the linguistic-module error; Starnik ініцыялізацыя; G is a hunspell gap	https://starnik.by/pravapis/30817
 lemma.vat	НДС	VAT	ПДВ		value-added tax on the buyer's sign; hunspell suggestion is another word	—
 lemma.kuroswin	куросвин	hen-pig	курасвіна		the malok who looks like a hen and a pig; not in Starnik	—
