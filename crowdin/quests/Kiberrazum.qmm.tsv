@@ -2,11 +2,11 @@
 "/quests/Kiberrazum.qmm/parameters/0/name"	"Время(не используется)"	"Quest Kiberrazum.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/0/lines/0/content"	"Времени осталось: <> мин"	"Quest Kiberrazum.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/0/crit_text"	"Времени всегда не хватает, особенно, когда оно жизненно необходимо..."	"Quest Kiberrazum.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/1/name"	"Здоровье"	"Quest Kiberrazum.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/1/name"	"Здоровье"	"Quest Kiberrazum.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Здароўе"
 "/quests/Kiberrazum.qmm/parameters/1/lines/0/content"	"Вы потенциальный труп"	"Quest Kiberrazum.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/1/lines/1/content"	"Вы просто умираете"	"Quest Kiberrazum.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/1/lines/2/content"	"Вы чувствуете себя плохо"	"Quest Kiberrazum.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/1/lines/3/content"	"Вам нехорошо"	"Quest Kiberrazum.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/1/lines/3/content"	"Вам нехорошо"	"Quest Kiberrazum.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Вам млосна"
 "/quests/Kiberrazum.qmm/parameters/1/lines/4/content"	"Вы почти здоровы"	"Quest Kiberrazum.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/1/lines/5/content"	"Вы абсолютно здоровы"	"Quest Kiberrazum.qmm: parameters.1.lines.5.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/1/crit_text"	"Да, здоровье у вас было явно не лошадиное. Организм ваш не выдержал, и вы умерли..."	"Quest Kiberrazum.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -36,8 +36,8 @@
 "/quests/Kiberrazum.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Kiberrazum.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/9/name"	"Исп Ад Расп"	"Quest Kiberrazum.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/9/crit_text"	"Сообщение достижения критического значения параметром 10"	"Quest Kiberrazum.qmm: parameters.9.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/10/name"	"У вас есть:"	"Quest Kiberrazum.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/10/lines/0/content"	"У вас есть:"	"Quest Kiberrazum.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/10/name"	"У вас есть:"	"Quest Kiberrazum.qmm: parameters.10.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"У вас ёсьць:"
+"/quests/Kiberrazum.qmm/parameters/10/lines/0/content"	"У вас есть:"	"Quest Kiberrazum.qmm: parameters.10.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"У вас ёсьць:"
 "/quests/Kiberrazum.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Kiberrazum.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/11/name"	"Мини взломщик"	"Quest Kiberrazum.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/11/lines/0/content"	"Мини взломщиков: <>"	"Quest Kiberrazum.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -70,7 +70,7 @@
 "/quests/Kiberrazum.qmm/parameters/16/lines/2/content"	"У вас есть ружьё и <> патрона"	"Quest Kiberrazum.qmm: parameters.16.lines.2.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/16/lines/3/content"	"У вас есть ружьё и <> патронов"	"Quest Kiberrazum.qmm: parameters.16.lines.3.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Kiberrazum.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/17/name"	"Бластер"	"Quest Kiberrazum.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/17/name"	"Бластер"	"Quest Kiberrazum.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Блястэр"
 "/quests/Kiberrazum.qmm/parameters/17/lines/0/content"	"У вас есть бластер без зарядов"	"Quest Kiberrazum.qmm: parameters.17.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/17/lines/1/content"	"У вас есть бластер и <> заряд"	"Quest Kiberrazum.qmm: parameters.17.lines.1.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/17/lines/2/content"	"У вас есть бластер и <> заряда"	"Quest Kiberrazum.qmm: parameters.17.lines.2.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -120,7 +120,7 @@
 "/quests/Kiberrazum.qmm/parameters/30/lines/2/content"	"Элитных блокиратора: <>"	"Quest Kiberrazum.qmm: parameters.30.lines.2.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/30/lines/3/content"	"Элитных блокираторов: <>"	"Quest Kiberrazum.qmm: parameters.30.lines.3.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/30/crit_text"	"Сообщение достижения критического значения параметром 31"	"Quest Kiberrazum.qmm: parameters.30.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/31/name"	"Пушка"	"Quest Kiberrazum.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/31/name"	"Пушка"	"Quest Kiberrazum.qmm: parameters.31.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Гармата"
 "/quests/Kiberrazum.qmm/parameters/31/lines/0/content"	"Правая рука(пушка): <>%"	"Quest Kiberrazum.qmm: parameters.31.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/31/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Kiberrazum.qmm: parameters.31.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/32/name"	"Диалоговая"	"Quest Kiberrazum.qmm: parameters.32.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -148,22 +148,22 @@
 "/quests/Kiberrazum.qmm/parameters/40/name"	"- от взлома"	"Quest Kiberrazum.qmm: parameters.40.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/40/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Kiberrazum.qmm: parameters.40.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/41/name"	"Мини взломщиков отправленно ОС"	"Quest Kiberrazum.qmm: parameters.41.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/41/lines/0/content"	"Параметр номер 39: <>"	"Quest Kiberrazum.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/41/lines/0/content"	"Параметр номер 39: <>"	"Quest Kiberrazum.qmm: parameters.41.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 39: <>"
 "/quests/Kiberrazum.qmm/parameters/41/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Kiberrazum.qmm: parameters.41.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/42/name"	"Стандартных взломщиков отправленно ОС"	"Quest Kiberrazum.qmm: parameters.42.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/42/lines/0/content"	"Параметр номер 40: <>"	"Quest Kiberrazum.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/42/lines/0/content"	"Параметр номер 40: <>"	"Quest Kiberrazum.qmm: parameters.42.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 40: <>"
 "/quests/Kiberrazum.qmm/parameters/42/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Kiberrazum.qmm: parameters.42.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/43/name"	"Модернизированых взломщиков отправленно ОС"	"Quest Kiberrazum.qmm: parameters.43.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/43/lines/0/content"	"Параметр номер 41: <>"	"Quest Kiberrazum.qmm: parameters.43.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/43/lines/0/content"	"Параметр номер 41: <>"	"Quest Kiberrazum.qmm: parameters.43.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 41: <>"
 "/quests/Kiberrazum.qmm/parameters/43/crit_text"	"Сообщение достижения критического значения параметром 41"	"Quest Kiberrazum.qmm: parameters.43.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/44/name"	"Элитных взломщиков отправленно ОС"	"Quest Kiberrazum.qmm: parameters.44.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/44/lines/0/content"	"Параметр номер 42: <>"	"Quest Kiberrazum.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/44/lines/0/content"	"Параметр номер 42: <>"	"Quest Kiberrazum.qmm: parameters.44.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 42: <>"
 "/quests/Kiberrazum.qmm/parameters/44/crit_text"	"Сообщение достижения критического значения параметром 42"	"Quest Kiberrazum.qmm: parameters.44.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/45/name"	"Стандартных блокираторов отправленно ОС"	"Quest Kiberrazum.qmm: parameters.45.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/45/lines/0/content"	"Параметр номер 43: <>"	"Quest Kiberrazum.qmm: parameters.45.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/45/lines/0/content"	"Параметр номер 43: <>"	"Quest Kiberrazum.qmm: parameters.45.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 43: <>"
 "/quests/Kiberrazum.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 43"	"Quest Kiberrazum.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/46/name"	"Элитных блокираторов отправленно ОС"	"Quest Kiberrazum.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/parameters/46/lines/0/content"	"Параметр номер 44: <>"	"Quest Kiberrazum.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/parameters/46/lines/0/content"	"Параметр номер 44: <>"	"Quest Kiberrazum.qmm: parameters.46.lines.0.content. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Парамэтар нумар 44: <>"
 "/quests/Kiberrazum.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Kiberrazum.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/47/name"	"Для взлома КР"	"Quest Kiberrazum.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Kiberrazum.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -907,7 +907,7 @@
 "/quests/Kiberrazum.qmm/jumps/119/description"	"Вы развернулись, предварительно оглядевшись, как следует, и двинулись обратно, в основное здание."	"Quest Kiberrazum.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/120/text"	"Продолжать двигаться вперед"	"Quest Kiberrazum.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/121/text"	"Попробовать прорваться через их ряды"	"Quest Kiberrazum.qmm: jumps.121.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/122/text"	"Попытаться открыть дверь"	"Quest Kiberrazum.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/122/text"	"Попытаться открыть дверь"	"Quest Kiberrazum.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Паспрабаваць адчыніць дзьверы"
 "/quests/Kiberrazum.qmm/jumps/122/description"	"Вы судорожно бросились к двери и попытались ее открыть, а твари тем временем медленно пошли в вашу сторону. Вы дернули дверь посильнее, и она начала открываться... Тогда вы дернули, что было сил, и дверь открылась. Вы быстрее вбежали в узкий, освещенный багровым светом коридор и побежали по нему. Чудища столпились у дверей, и, рыча, проталкивались в узкий коридор, отпихивая друг друга."	"Quest Kiberrazum.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/123/text"	"Выбираться через служебный выход"	"Quest Kiberrazum.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/123/description"	"Вы развернулись, предварительно оглядевшись, как следует, и двинулись обратно, в основное здание."	"Quest Kiberrazum.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -953,7 +953,7 @@
 Когда операция дошла до 100%, консоль выключилась. Вы быстрее сорвали датчики и заметили, что один монитор показывает следующую надпись: ""Все объекты будут уничтожены через минуту... пятьдесят пять секунд...""
 Вы не стали ждать и бросились бежать из помещения...
 Взрыв прогремел, когда вы уже отошли от тяжелых дверей комнаты с консолью метров на десять. И все равно он оказался таким сильным, что вы пролетели по коридору несколько метров..."	"Quest Kiberrazum.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/140/text"	"Отдохнуть"	"Quest Kiberrazum.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/140/text"	"Отдохнуть"	"Quest Kiberrazum.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Адпачыць"
 "/quests/Kiberrazum.qmm/jumps/140/description"	"Вы посмотрели на небо и, чувствуя себя очень уставшим, присели на ближайшую пластикобетонную плиту. 
 Но отдохнуть вам не дали. На вас внезапно накинулись со спины и повалили в рыхлую землю, защелкнули на руках наручники, и, грубо подняв на ноги, повели куда-то...
 Вы даже не расстроились по этому поводу, так как дико соскучились по настоящим, живым людям за эту ночь..."	"Quest Kiberrazum.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1044,7 +1044,7 @@
 "/quests/Kiberrazum.qmm/jumps/168/text"	"Попробовать договориться"	"Quest Kiberrazum.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/168/description"	"- Постой! Я думаю, мы сможем договориться! - Вскричали вы.
 - Договориться? - переспросил Киберразум. - О чем? Я не вижу обоюдной выгоды. Что ты мне можешь дать, чего у меня нет? Даже твоя жизнь сейчас в моих цепких виртуальных руках."	"Quest Kiberrazum.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/169/text"	"Промолчать"	"Quest Kiberrazum.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/169/text"	"Промолчать"	"Quest Kiberrazum.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Прамаўчаць"
 "/quests/Kiberrazum.qmm/jumps/169/description"	"- Молчание - золото, - сообщил Киберразум после непродолжительной паузы. - Кажется, так говорите вы, люди. Хорошая фраза, да и смотрится такой молчащий субъект очень мужественно. Только тебе, <Ranger>, сейчас выпендриваться не перед кем. Или ты настолько идейно воспитан?
 Вы промолчали и на эту колкость."	"Quest Kiberrazum.qmm: jumps.169.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/170/text"	"Уйти в философию"	"Quest Kiberrazum.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1115,17 +1115,17 @@
 Вы глубоко вздохнули и пошли в сторону космопорта, надеясь, что вас кто-нибудь подберет по дороге.
 Внезапно из переулка вывернула полицейская машина, за ней еще одна, еще... Они затормозили перед зданием ""Умбротека"", из машин вылезли копы и быстро оцепили улицу, а две машины поехали за вами. Вы остановились во избежание эксцессов и подождали, пока вас уронят лицом на шершавый пластик тротуара, защелкнут на руках наручники, и поведут к главному.
 Поврежденная рука дико болела в наручниках, но вы промолчали..."	"Quest Kiberrazum.qmm: jumps.176.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/177/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/177/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/177/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и взрывы - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение коридора внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
 И через мгновение ваш мозг пронзила будто молния. Жуткий ментальный удар, погребший под собой крохи вашего сознания..."	"Quest Kiberrazum.qmm: jumps.177.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/178/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/178/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/178/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и взрывы - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение коридора внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
 И через мгновение ваш мозг пронзила будто молния. Жуткий ментальный удар, погребший под собой крохи вашего сознания..."	"Quest Kiberrazum.qmm: jumps.178.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/179/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/179/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/179/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и прыжки с дикой высоты - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение окружающего мира внезапно поплыло перед глазами, земля поднялась вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Кибер разума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
@@ -1204,22 +1204,22 @@
 "/quests/Kiberrazum.qmm/jumps/186/description"	"Вы в последний раз посмотрели на орду монстров, что перли по коридору, и, перекрестившись на удачу, сиганули вниз...
 Полет оказался не таким длинным, как выдумали, и приземлились вы не совсем там, где хотели. А приземлились вы прямиком в емкость с жидким пластико-бетоном. Он был еще достаточно жидким, и вы начали тонуть. Перспектива утонуть в этой субстанции вас ужаснула, и вы заработали руками с удвоенной энергией, пытаясь добраться до бортика импровизированного бассейна.
 Когда жидкость уже начала заливаться вам в рот, нос и уши, вы, наконец, ухватились за стену и, с трудом подтянувшись на ней, перекинули свое тело на другую сторону. После этого последовало еще одно небольшое падение, и вы, наконец, оказались на земле."	"Quest Kiberrazum.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/187/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/187/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/187/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и бесконечные коридоры - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
 И через мгновение ваш мозг пронзила будто молния. Жуткий ментальный удар, погребший под собой крохи вашего сознания."	"Quest Kiberrazum.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/188/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/188/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/188/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и бесконечные коридоры - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
 И через мгновение ваш мозг пронзила будто молния. Жуткий ментальный удар, погребший под собой крохи вашего сознания."	"Quest Kiberrazum.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/189/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/189/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/189/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и бесконечные коридоры - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
 И через мгновение ваш мозг пронзила будто молния. Жуткий ментальный удар, погребший под собой крохи вашего сознания."	"Quest Kiberrazum.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/190/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/190/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/190/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и бесконечные коридоры - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
@@ -1237,11 +1237,11 @@
 Через несколько сотен метров вы наткнулись на рельсы, появляющиеся откуда-то тоннеля в отвесной горе и обрывающиеся в пропасть.
 Видимо, по этим рельсам вывозили что-то и сбрасывали вниз."	"Quest Kiberrazum.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/193/text"	"Подкрасться к воротам"	"Quest Kiberrazum.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/195/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/195/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/195/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/196/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/196/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/196/description"	"Вы шагали по тропинке и вертели головой во все стороны. Все было настолько необычно, что вы до сих пор не могли отойти от изумления.
 Ущелье кончилось, и дальше пошли совсем необитаемые места. 
 Свет продолжал припекать. Как же тут все было непривычно, песок, жара..."	"Quest Kiberrazum.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1249,23 +1249,23 @@
 "/quests/Kiberrazum.qmm/jumps/198/text"	"Вернуться на тропинку"	"Quest Kiberrazum.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/199/text"	"Осмотреть тележку"	"Quest Kiberrazum.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/199/description"	"Вы подошли к вагонетке и заглянули в нее, перегнувшись через край. Сначала вам ничего не удалось рассмотреть в темноте, но потом вы обнаружили, что на дне тележки свалена куча черных палок. Вы протянули руку и взяли одну из них. Палка оказалась металлическим прутом чуть меньше метра в длину, очень удобным для того, чтобы проломить голову парочке чудищ."	"Quest Kiberrazum.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/201/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/201/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/201/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.201.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/202/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/202/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/202/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.202.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/203/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/203/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.203.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/203/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/204/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/204/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/204/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.204.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/205/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/205/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/205/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.205.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1295,14 +1295,14 @@
 Вы полюбовались на ее конвульсии и бросились на следующую ""жертву"". Та тоже быстро склеила ласты. Это придало вам уверенности, но ненадолго. Следующая тварь оказалась крепким орешком и с легкостью увернулась от вашего удара. После этого она еще и нанесла вам несколько весьма болезненных ударов."	"Quest Kiberrazum.qmm: jumps.213.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/214/text"	"Бить тварей голыми руками"	"Quest Kiberrazum.qmm: jumps.214.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/214/description"	"Вы подбежали к твари и врезали ей по окровавленной морде кулаком. Тварь пошатнулась, но на ногах устояла, и ударила вас в ответ. Скорее всего, вам после этого обмена было гораздо больнее, чем этому чудищу."	"Quest Kiberrazum.qmm: jumps.214.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/215/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/215/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/215/description"	"Внезапно темный угол, в тени которого вы прятались, ярко осветился. Вы быстрее распластались по земле, стараясь снова стать незаметным, но было уже поздно. Как назло, мимо в этот момент проходила толпа окровавленных тварей в количестве примерно пятидесяти штук, и они вас мгновенно засекли.
 Когда вас разрывали на куски когтистые лапы, а в плоть вгрызались окровавленные клыки, вы корили себя за трусость, но было уже поздно. Если бы вы покинули это убежище раньше, то, возможно, был бы шанс выжить, а теперь ваши минуты точно сочтены..."	"Quest Kiberrazum.qmm: jumps.215.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/216/text"	"Остаться на месте и подумать ещё"	"Quest Kiberrazum.qmm: jumps.216.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/216/description"	"Вы снова притаились в тени скалы, наблюдая за возможными маневрами противника. Пока все было спокойно, но это было только пока."	"Quest Kiberrazum.qmm: jumps.216.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/218/text"	"Остаться на месте и подумать ещё"	"Quest Kiberrazum.qmm: jumps.218.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/218/description"	"Вы снова притаились в тени скалы, наблюдая за возможными маневрами противника. Все снова было спокойно, но это было только пока."	"Quest Kiberrazum.qmm: jumps.218.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/219/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/219/text"	"Идти дальше"	"Quest Kiberrazum.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Ісьці далей"
 "/quests/Kiberrazum.qmm/jumps/219/description"	"Вы в последний раз оглянулись на рельсы и зашагали дальше по тропинке. Вдруг спереди послышался странный шум, будто толпа чудищ шагала по тропинке вам навстречу. 
 На узенькой тропинке, которая к тому же обрывалась в ущелье с одной стороны, и подпиралась отвесной стеной с другой, эта встреча была смерти подобна...
 Вы оглянулись назад. Бежать до тоннеля было уже бесполезно. Слишком далеко отошли. Осталось только принять смертельный бой против чудищ, которые вывалили из-за поворота в количестве [p19] штук."	"Quest Kiberrazum.qmm: jumps.219.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1546,11 +1546,11 @@
 "/quests/Kiberrazum.qmm/jumps/307/description"	"Вы не заметили внезапной атаки робота, и страшный удар в грудь отбросил вас на песок. В глазах потемнело, дыхание сбилось, парочка ребер, скорее всего, были сломаны. Да, этого противника не стоит недооценивать."	"Quest Kiberrazum.qmm: jumps.307.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/308/text"	"Атаковать в правую руку"	"Quest Kiberrazum.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/308/description"	"Вы подбежали к правой руке робота и, практически засунув ружье в дуло пушки, выстрелили. Из дула вам в лицо вырвался поток огня, заметно убавив оптимизма и растительности на лице."	"Quest Kiberrazum.qmm: jumps.308.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/309/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/309/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/309/description"	"Вы внезапно обнаружили, что убивать робота вам больше нечем. Это оказалось очень неприятным открытием. Вы посмотрели на робота и бессильно опустились на песок."	"Quest Kiberrazum.qmm: jumps.309.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/310/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/310/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/310/description"	"Вы внезапно обнаружили, что убивать робота вам больше нечем. Это оказалось очень неприятным открытием. Вы посмотрели на робота и бессильно опустились на песок."	"Quest Kiberrazum.qmm: jumps.310.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/311/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/311/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/311/description"	"Вы внезапно обнаружили, что убивать робота вам больше нечем. Это оказалось очень неприятным открытием. Вы посмотрели на робота и бессильно опустились на песок."	"Quest Kiberrazum.qmm: jumps.311.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/312/text"	"Атаковать в спину"	"Quest Kiberrazum.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/312/description"	"Вы проскочили мимо робота и всадили заряд дроби ему в спину. Робот почувствовал это и попытался развернуться, чтобы наказать обидчика. Но его поврежденные ноги не выдержали, и робот начал падать прямо на вас.
@@ -1604,7 +1604,7 @@
 Вы присмотрелись и увидели щель, проходящую по спине робота, по диагонали, и загнали в нее прут. Скорее всего, вы зацепили что-то важное, так как робот дернулся в вашу сторону. Его нога не выдержала, и он завалился на песок. К сожалению, не навсегда."	"Quest Kiberrazum.qmm: jumps.331.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/332/text"	"Уклоняться от атаки робота"	"Quest Kiberrazum.qmm: jumps.332.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/332/description"	"Вы уже приготовились уклоняться от атаки робота, как тот вдруг загорелся и рухнул на песок. Это было неудивительно, учитывая то, сколько вы его уничтожали."	"Quest Kiberrazum.qmm: jumps.332.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/333/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.333.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/333/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.333.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/333/description"	"Вы внезапно обнаружили, что убивать робота вам больше нечем. Это оказалось очень неприятным открытием. Вы посмотрели на робота и бессильно опустились на песок."	"Quest Kiberrazum.qmm: jumps.333.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/334/text"	"Уклоняться от атаки робота"	"Quest Kiberrazum.qmm: jumps.334.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/334/description"	"Вы не заметили внезапной атаки робота, и страшный удар в грудь отбросил вас на песок. В глазах потемнело, дыхание сбилось, парочка ребер, скорее всего, были сломаны. Да, этого противника не стоит недооценивать."	"Quest Kiberrazum.qmm: jumps.334.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1622,7 +1622,7 @@
 Вы обернулись в сторону небоскреба, который хорошо было видно со всех сторон.
 Здание внезапно содрогнулось, как в замедленной киносъемке, с него посыпалось все остекление, потом оно стало медленно уходить вниз, под землю, рушась и колясь на куски. Это было величественное и страшное зрелище.
 Лишь когда на месте здания остался неглубокий котлован, засыпанный обломками, и ветер разогнал облака пыли, вы пришли в себя и медленно тронулись с места. Ничего более интригующего вы все равно больше на этой планете не увидите."	"Quest Kiberrazum.qmm: jumps.337.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/339/text"	"Приступить к взлому"	"Quest Kiberrazum.qmm: jumps.339.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/339/text"	"Приступить к взлому"	"Quest Kiberrazum.qmm: jumps.339.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Пачаць узлом"
 "/quests/Kiberrazum.qmm/jumps/341/text"	"Атаковать элитными блокираторами"	"Quest Kiberrazum.qmm: jumps.341.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/342/text"	"Пробить канал"	"Quest Kiberrazum.qmm: jumps.342.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/342/description"	"Вы начали сканирование канала и обнаружили, что он перекрыт шлюзами на <clr>75%<clrEnd>. Свободными были только <clr>25%<clrEnd>. Этого мало, но ничего не поделаешь."	"Quest Kiberrazum.qmm: jumps.342.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1691,17 +1691,17 @@
 "/quests/Kiberrazum.qmm/jumps/373/text"	"Атаковать модернизированными взломщиками"	"Quest Kiberrazum.qmm: jumps.373.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/374/text"	"Атаковать стандартными блокираторами"	"Quest Kiberrazum.qmm: jumps.374.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/375/text"	"Атаковать стандартными взломщиками"	"Quest Kiberrazum.qmm: jumps.375.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/376/text"	"10"	"Quest Kiberrazum.qmm: jumps.376.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/376/text"	"10"	"Quest Kiberrazum.qmm: jumps.376.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
 "/quests/Kiberrazum.qmm/jumps/377/text"	"20"	"Quest Kiberrazum.qmm: jumps.377.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/378/text"	"10"	"Quest Kiberrazum.qmm: jumps.378.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/378/text"	"10"	"Quest Kiberrazum.qmm: jumps.378.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
 "/quests/Kiberrazum.qmm/jumps/379/text"	"20"	"Quest Kiberrazum.qmm: jumps.379.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/380/text"	"20"	"Quest Kiberrazum.qmm: jumps.380.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/381/text"	"10"	"Quest Kiberrazum.qmm: jumps.381.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/382/text"	"10"	"Quest Kiberrazum.qmm: jumps.382.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/381/text"	"10"	"Quest Kiberrazum.qmm: jumps.381.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
+"/quests/Kiberrazum.qmm/jumps/382/text"	"10"	"Quest Kiberrazum.qmm: jumps.382.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
 "/quests/Kiberrazum.qmm/jumps/383/text"	"20"	"Quest Kiberrazum.qmm: jumps.383.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/384/text"	"10"	"Quest Kiberrazum.qmm: jumps.384.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/384/text"	"10"	"Quest Kiberrazum.qmm: jumps.384.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
 "/quests/Kiberrazum.qmm/jumps/385/text"	"20"	"Quest Kiberrazum.qmm: jumps.385.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/386/text"	"10"	"Quest Kiberrazum.qmm: jumps.386.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/386/text"	"10"	"Quest Kiberrazum.qmm: jumps.386.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"10"
 "/quests/Kiberrazum.qmm/jumps/387/text"	"20"	"Quest Kiberrazum.qmm: jumps.387.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/388/text"	"Наблюдать"	"Quest Kiberrazum.qmm: jumps.388.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/388/description"	"Киберразум выставил сорок элитных взломщиков и отбил атаку."	"Quest Kiberrazum.qmm: jumps.388.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1719,7 +1719,7 @@
 "/quests/Kiberrazum.qmm/jumps/394/description"	"Киберразум выставил сорок стандартных блокираторов и отбил атаку."	"Quest Kiberrazum.qmm: jumps.394.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/395/text"	"Наблюдать"	"Quest Kiberrazum.qmm: jumps.395.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/395/description"	"Киберразум выставил двадцать стандартных блокираторов и отбил атаку."	"Quest Kiberrazum.qmm: jumps.395.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/397/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/397/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/398/text"	"Отражать атаку охранного сектора"	"Quest Kiberrazum.qmm: jumps.398.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/398/description"	"Пока вы ломали ловушку, охранный сектор рекрутировал 10 мини-взломщиков и отправил их в вашу сторону."	"Quest Kiberrazum.qmm: jumps.398.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/399/text"	"Отражать атаку охранного сектора"	"Quest Kiberrazum.qmm: jumps.399.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1850,7 +1850,7 @@
 "/quests/Kiberrazum.qmm/jumps/449/description"	"Киберразум выставил пять элитных взломщиков и отбил вашу атаку."	"Quest Kiberrazum.qmm: jumps.449.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/450/text"	"Завершить операцию взлома"	"Quest Kiberrazum.qmm: jumps.450.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/450/description"	"Итак, сектор Киберразума был взломан. Вы торжествующе улыбнулись. Теперь следовало убираться из этого неприятного местечка как можно скорее."	"Quest Kiberrazum.qmm: jumps.450.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/451/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.451.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/451/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.451.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/451/description"	"Вы просмотрели бегло список доступных программ и обнаружили, что атаковать Киберразума вам совершенно нечем. Осталось только капитулировать.
 - Вот облом-то, не правда ли? - спросил ехидно Киберразум. - Вот что свойственно всем органическим существам. Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь прощай. Ты умираешь."	"Quest Kiberrazum.qmm: jumps.451.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/453/text"	"Не менять точку зрения, верить Киберразуму"	"Quest Kiberrazum.qmm: jumps.453.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1861,7 +1861,7 @@
 - Сейчас мы пойдем туда и разберемся с консолью. А насчет секрета - пропишите при входе пароль ""Умбротек"", и тогда вы сможете видеть то, чего видеть просто так не могли.
 - Что ж, посмотрим, - буркнули вы. - Надеюсь, это мне пригодится.
 - Пригодится, - улыбнулся Симонс."	"Quest Kiberrazum.qmm: jumps.454.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/455/text"	"Приступить к взлому"	"Quest Kiberrazum.qmm: jumps.455.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/455/text"	"Приступить к взлому"	"Quest Kiberrazum.qmm: jumps.455.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Пачаць узлом"
 "/quests/Kiberrazum.qmm/jumps/455/description"	"Вы вспомнили совет Симонса и прописали слово ""Умбротек"" в консоли."	"Quest Kiberrazum.qmm: jumps.455.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/456/text"	"Атаковать охранный сектор"	"Quest Kiberrazum.qmm: jumps.456.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/456/description"	"Как скоро вы взломаете сектор, было неизвестно, помочь вам могли только терпение и удача... А также то, что, благодаря паролю Симонса, вы теперь могли видеть количество программ у охранного сектора, а именно:
@@ -1871,7 +1871,7 @@
 Мини-взломщики: [p34] шт.
 Элитные блокираторы: [p39] шт.
 Стандартные блокираторы: [p38] шт."	"Quest Kiberrazum.qmm: jumps.456.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/457/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.457.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/457/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.457.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/457/description"	"У Киберразума осталось в наличии после ваших атак:
 Элитные взломщики: [p37] шт.
 Модернизированные взломщики: [p34] шт.
@@ -1879,32 +1879,32 @@
 Мини-взломщики: [p36] шт. 
 Элитные блокираторы: [p39] шт.
 Стандартные блокираторы: [p38] шт."	"Quest Kiberrazum.qmm: jumps.457.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/458/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.458.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/458/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.458.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/458/description"	"Вы просмотрели бегло список доступных программ и обнаружили, что атаковать вам совершенно нечем. Осталось только капитулировать."	"Quest Kiberrazum.qmm: jumps.458.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/459/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.459.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/459/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.459.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/459/description"	"В этот момент сзади раздалось короткое гудение, и консоль замигала тревожным красным светом. На ее мониторах мелькали многочисленные надписи на машинном языке, причем так быстро, что вы не успевали ничего рассмотреть... Но одну надпись вы видели совершенно отчетливо. Она не мелькала, не прокручивалась с бешеной скоростью, она гордо светилась на центральном мониторе и гласила:
 - План А приведен в действие!
 Вдруг вокруг вас по всему помещению загорелись красные огни, окрасившие стены в кровавые цвета, и в тишине зазвучал голос:
 - План А приводится в действие! Обратный отсчет до нуля. Десять... девять... восемь... 
 Вы почувствовали, что дело неладно, и бросились бежать к двери, но не успели. После слова ""ноль"" консоль вспучилась огненным грибом, разрываясь в клочья. Вы обернулись, и поток жаркого пламени ударил вас в лицо. Последнее, что вы помнили до того, как потеряли сознание, - это злорадный смех Киберразума."	"Quest Kiberrazum.qmm: jumps.459.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/460/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.460.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/460/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.460.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/460/description"	"В этот момент сзади раздалось короткое гудение, и консоль замигала тревожным красным светом. На ее мониторах мелькали многочисленные надписи на машинном языке, причем так быстро, что вы не успевали ничего рассмотреть... Но одну надпись вы видели совершенно отчетливо. Она не мелькала, не прокручивалась с бешеной скоростью, она гордо светилась на центральном мониторе и гласила:
 - Красный код! Срочная эвакуация сотрудников с планеты должна произвестись немедленно! Объекты распространяются... 
 Что это за объекты, вы понятия не имели, но разговор про эвакуацию вам не очень понравился...
 Видимо, Киберразум разблокировал все замки в здании, и неизвестная зараза проникла наружу."	"Quest Kiberrazum.qmm: jumps.460.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/461/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.461.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/461/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.461.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/461/description"	"В этот момент сзади раздалось короткое гудение, и консоль замигала тревожным красным светом. На ее мониторах мелькали многочисленные надписи на машинном языке, причем так быстро, что вы не успевали ничего рассмотреть... Но одну надпись вы видели совершенно отчетливо. Она не мелькала, не прокручивалась с бешеной скоростью, она гордо светилась на центральном мониторе и гласила:
 - Красный код! Срочная эвакуация сотрудников с планеты должна произвестись немедленно! Объекты распространяются... 
 Что это за объекты, вы понятия не имели, но разговор про эвакуацию вам не очень понравился...
 Видимо, как и обещал Киберразум, после его уничтожения все замки в здании разблокировались, и неизвестная зараза проникла-таки наружу."	"Quest Kiberrazum.qmm: jumps.461.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/462/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.462.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/462/text"	"Далее"	"Quest Kiberrazum.qmm: jumps.462.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Далей"
 "/quests/Kiberrazum.qmm/jumps/462/description"	"В этот момент сзади раздалось короткое гудение, и консоль замигала тревожным красным светом. На ее мониторах мелькали многочисленные надписи на машинном языке, причем так быстро, что вы не успевали ничего рассмотреть... Но одну надпись вы видели совершенно отчетливо. Она не мелькала, не прокручивалась с бешеной скоростью, она гордо светилась на центральном мониторе и гласила:
 - План А приведен в действие!
 Вдруг вокруг вас, по всему помещению загорелись красные огни, окрасившие стены в кровавые цвета, и в тишине зазвучал голос:
 - План А приводится в действие! Обратный отсчет до нуля. Десять... девять... восемь... 
 Вам это не понравилось, и вы бросились бежать прочь от консоли. Это вам почти удалось, но даже в коридоре вас настиг огненный поток, вырвавшийся из комнаты, где раньше стояла консоль."	"Quest Kiberrazum.qmm: jumps.462.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/463/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.463.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/464/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.464.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/463/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.463.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
+"/quests/Kiberrazum.qmm/jumps/464/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.464.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/464/description"	"У Киберразума осталось в наличии после ваших атак:
 Элитные взломщики: [p37] шт.
 Модернизированные взломщики: [p36] шт.
@@ -1954,9 +1954,9 @@
 "/quests/Kiberrazum.qmm/jumps/479/description"	"Вы развернулись, предварительно оглядевшись, как следует, и двинулись в сторону главного вестибюля."	"Quest Kiberrazum.qmm: jumps.479.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/480/text"	"Выбираться через лаборатории"	"Quest Kiberrazum.qmm: jumps.480.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/480/description"	"Вы решили выбираться через лаборатории и, поднявшись до нулевого этажа, свернули в коридор до второго здания, где лаборатории и располагались."	"Quest Kiberrazum.qmm: jumps.480.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/482/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.482.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/482/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.482.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/482/description"	"Вы обнаружили, что у охранного сектора не осталось ни одной программы. Теперь ничто не мешало вам доломать охранный сектор."	"Quest Kiberrazum.qmm: jumps.482.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/483/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.483.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/483/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.483.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/483/description"	"Вы выслушали Киберразума и использовали ваш последний козырь - программу, физически вырезающую вас из Киберпространства. 
 Программа сработала, и вы отключились...
 Вы быстрее записали все данные, что удалось раскодировать на диск, и поспешили к выходу.
@@ -1964,12 +1964,12 @@
 - Красный код! Срочная эвакуация сотрудников с планеты должна произвестись немедленно! Объекты распространяются... 
 Что это за объекты, вы понятия не имели, но разговор про эвакуацию вам не очень понравился...
 Видимо, Киберразум разблокировал все замки в здании, и неизвестная зараза проникла наружу."	"Quest Kiberrazum.qmm: jumps.483.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/484/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.484.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/484/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.484.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/484/description"	"Вы выслушали Киберразума, в тот же момент программы накинулись на вас со всех сторон, и вы потеряли сознание."	"Quest Kiberrazum.qmm: jumps.484.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/485/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.485.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/485/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.485.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/485/description"	"Вы проверили список программ и обнаружили, что у вас нет программ для взлома зеленого сектора.
 Пока вы осмысливали эту новость, программы Киберразума подлетели к вам и облепили со всех сторон. Это было последнее, что вы запомнили перед тем, как потерять сознание."	"Quest Kiberrazum.qmm: jumps.485.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/486/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.486.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/486/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.486.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/486/description"	"Вы проверили список программ и обнаружили, что у вас нет программ для взлома зеленого сектора.
 Пока вы осмысливали эту новость, программы Киберразума подлетели к вам и облепили со всех сторон. Это было последнее, что вы запомнили перед тем, как потерять сознание."	"Quest Kiberrazum.qmm: jumps.486.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/487/text"	"Приступить ко взлому"	"Quest Kiberrazum.qmm: jumps.487.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
@@ -1989,7 +1989,7 @@
 "/quests/Kiberrazum.qmm/jumps/494/description"	"Вы приготовились ко взлому и внезапно обнаружили, что программ у Киберразума не осталось вообще. После этого доломать сектор не составило никакого труда. Вы торжествующе улыбнулись. Теперь следовало убираться из этого неприятного местечка как можно скорее."	"Quest Kiberrazum.qmm: jumps.494.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/495/text"	"Наблюдать"	"Quest Kiberrazum.qmm: jumps.495.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
 "/quests/Kiberrazum.qmm/jumps/495/description"	"Вы приготовились ко взлому и внезапно обнаружили, что программ у Киберразума не осталось вообще. После этого доломать сектор не составило никакого труда. Вы торжествующе улыбнулись. Теперь следовало убираться из этого неприятного местечка как можно скорее."	"Quest Kiberrazum.qmm: jumps.495.description. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
-"/quests/Kiberrazum.qmm/jumps/496/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.496.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	""
+"/quests/Kiberrazum.qmm/jumps/496/text"	"Продолжить"	"Quest Kiberrazum.qmm: jumps.496.text. Preserve every <tag> exactly."	"Quest,Kiberrazum"	"Працягнуць"
 "/quests/Kiberrazum.qmm/jumps/496/description"	"Нет, это уже было чересчур. Монстры, консоли, Киберразумы и бесконечные коридоры - всего этого хватило с излишком, чтобы измотать вам нервы. Изображение внезапно поплыло перед глазами, пол поднялся вертикально, глаза закрылись и вы потеряли сознание...
 
 - Вот что свойственно всем органическим существам, - услышали вы до зубной боли знакомый голос. Голос Киберразума. - Вы несовершенны! Вы совершаете ошибки, и в этом ваш проигрыш и моя победа. Потому что я НЕ ошибаюсь. Никогда. А теперь почувствуй силу моего могущества над вами. Жалкие смертные!
