@@ -16,7 +16,6 @@ Authoritative project files:
 - `ORTHO.md` — classical Belarusian (`be-tarask`) spelling policy.
 - `TRANSLATION.md` — per-line procedure and quest puzzles that break if rewritten.
 - `FONT.md` — menu-image font and license.
-- `PLAN.md` — wider project scope.
 
 Do not infer the current workflow from old forum guides. Use the build script and this file.
 

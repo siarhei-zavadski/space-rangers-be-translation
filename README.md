@@ -15,8 +15,8 @@ strings, and known baked labels. Counts are in
 ## Translation tools
 
 Daily lookup order is in [`STYLE.md`](STYLE.md); spelling lock is in
-[`ORTHO.md`](ORTHO.md). Hunspell install is in
-[`TOOLS-INSTALL.md`](TOOLS-INSTALL.md).
+[`ORTHO.md`](ORTHO.md). Spelling check is `hunspell -d be_BY@tarask`
+from the `hunspell-be-tarask-alt` 0.65 package.
 
 | Tool | Website | Use |
 |------|---------|-----|
