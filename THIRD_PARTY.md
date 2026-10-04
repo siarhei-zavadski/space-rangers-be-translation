@@ -10,7 +10,7 @@ contributor-authored Belarusian translations.
 - The game is not redistributed. Local build scripts require a legitimate
   installed copy. Generated game binaries, packages, backups, and extracted
   binary assets are excluded by `.gitignore`.
-- The checked-in Crowdin TSV corpus contains source phrases extracted for the
+- The checked-in TSV corpus contains source phrases extracted for the
   purpose of producing an interoperable translation mod. Written permission
   should be obtained from the rights holder before making that corpus public.
 - `tools/fonts/RussoOne-Regular.ttf` is licensed under the SIL Open Font
