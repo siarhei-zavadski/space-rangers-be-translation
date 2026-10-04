@@ -981,7 +981,7 @@ lemma.discipline_gag	дистыпли	garbled discipline	дысцыплі/дып
 lemma.kumassan	кумассанский	Kumassan	кумассанскі/кумассанскія	басурманскі	silks of a game people; hunspell maps the adjective to the wrong ethnicity	Banket.qmm
 lemma.pyropodius	пироподиус захламидус	Pyropodius chlamydus	піраподыюс/захлямідус		coined banquet plant; one seed is worth a fortune	Banket.qmm
 lemma.paloma	Палома Ундерсон	Paloma Underson	Палома/Паломы/Ундэрсан		human actress; the maloqs do not share the compliment	Banket.qmm
-lemma.keroplast	керопластовая	keroplast	керапляставая/Керапляставая		coined armor; practical next to cloth	Banket.qmm
+lemma.keroplast	керопластовая	keroplast	керапляставая/Керапляставая/керапляст/кераплясту		coined material; practical next to cloth	Banket.qmm
 lemma.vakkati	ваккати	vakkati	ваккаці	вінакур	malok distillers; the prince's word for who brews the festive drink	Banket.qmm
 lemma.kraki	краки	kraki	Кракі/кракі		the prince's snack-name for the shells; he eats them	Banket.qmm
 lemma.gravtank	гравитанк	gravtank	гравітанк/гравітанка		combat vehicle; hunspell has no form	Banket.qmm
@@ -1742,7 +1742,7 @@ lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest bool
 lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем/Зелле		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
 lemma.life	жизнь	life	жыцьцё/жыцьцяў		Starnik жыццё; tarask soft sign; Gpl жыцьцяў is a hunspell gap	https://starnik.by/pravapis/26025
 lemma.universe	вселенная	universe	сусьвет/сусьветах		Starnik сусвет; tarask сь; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
-lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны/мярцвяка/мярцвяку		a walking corpse; hunspell gap; keep Starnik мярцвяк, not мярцьвяк	https://starnik.by/pravapis/45012
+lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны/мярцвяка/мярцвяку/мярцвячынай		a walking corpse; hunspell gap; keep Starnik мярцвяк, not мярцьвяк	https://starnik.by/pravapis/45012
 lemma.elf_adj	эльфийский	elven	эльфійскі/эльфійская/эльфійскай		of an elf; hunspell suggestion is a different word	https://starnik.by/pravapis/163591
 lemma.fantasy	фэнтези	fantasy	фэнтэзі		the genre; hunspell gap	https://starnik.by/pravapis/81266
 lemma.gamer	геймер	gamer	геймер		a person who plays games; hunspell suggestions are other words	https://starnik.by/pravapis/18684
@@ -1871,12 +1871,12 @@ lemma.kolyan	Колян	Kolyan	Колян		a name in the goblin joke	—
 lemma.polkan	Полкан	Polkan	Полкан		a name in the goblin joke	—
 lemma.crusoe	Крузо	Crusoe	Круза		the ranger Crusoe	—
 lemma.notre	Нотр-Дам	Notre Dame	Нотр		the cathedral; Дам and Дама pass hunspell	—
-lemma.tolkien	Толкин	Tolkien	Толкін/Фродам/талкіністаў		the Frodo correction	—
+lemma.tolkien	Толкин	Tolkien	Толкін/Фрода/Фродам/талкіністаў		the Frodo correction	—
 lemma.brigade_hu	Ху	Hu	Ху		the brigade name the victims laughed at	—
 lemma.cop_slang	мент	cop, slang	мент/ментамі/ментаў		cop slang; Starnik; hunspell gap	https://starnik.by/pravapis/42853
-lemma.pont	понт	bluff, slang	понт/понту		to take someone on a bluff; hunspell suggestions are other words	—
+lemma.pont	понт	bluff, slang	понт/понту/понтаў		to take someone on a bluff; hunspell suggestions are other words	—
 lemma.fraerok	фраерок	punk, diminutive	фраерок		contemptuous diminutive; фраер itself passes hunspell	https://starnik.by/pravapis/80917
-lemma.ratboar	крысокабан	rat-boar	пацукадзік/пацукадзіка/пацукадзікаў/пацукадзікі		a coined cross of rat and boar	—
+lemma.ratboar	крысокабан	rat-boar	пацукадзік/Пацукадзік/пацукадзіка/пацукадзікаў/пацукадзікі		a coined cross of rat and boar	—
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
 lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму/Вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
@@ -1921,3 +1921,11 @@ lemma.boss_around	раскомандоваться	to boss people around	рас�
 lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words	https://starnik.by/pravapis/47325
 lemma.rest_pun	доупокоенный	additionally laid to rest vs unrested	даўпакоены/няўпакоены		the доупокоенный/неупокоенный pun; Starnik упокоіць/упакоіць/няўпакоены NONE; hunspell wants another word	—
 lemma.texture	текстура	texture	тэкстур		genitive plural of тэкстура; the skybox joke; Starnik; hunspell wants other forms	https://starnik.by/pravapis/76906
+lemma.herbarium	гербарий	herbarium	гербарый/гербарыя		Starnik; hunspell does not know the genitive	https://starnik.by/pravapis/19015
+lemma.rejuvenating	молодильный	rejuvenating	маладзільных		fairy-tale apples; Starnik маладзільны; hunspell wants other words	https://starnik.by/pravapis/122571
+lemma.patch_gen	патч	patch, genitive	патча		genitive of the loan патч; Starnik; hunspell wants other forms	https://starnik.by/pravapis/53960
+lemma.unliving	неживность	the unliving, coined	нежыўнасьць		the fisherman's pair to жыўнасьць; hunspell splits it	—
+lemma.selfclimb	самолаз	hands that climb by themselves	самалаз/самалазамі		the pit joke; hunspell splits it	—
+lemma.batman	Бэтмен	Batman	Бэтмен/Бэтмена		the dwarf-pit joke; hunspell splits the name	—
+lemma.givi_cherty	Гиви Чертыхадзе	the swearing surname	Гіві/Чартыхадзэ		the name keeps the чертыхаться joke; hunspell wants the verb	—
+lemma.growl_beauty	Кр-р-расота	growled beauty	Харрраства		the fisherman growls хараство into one token	—
