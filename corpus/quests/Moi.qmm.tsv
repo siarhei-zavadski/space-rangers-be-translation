@@ -4299,21 +4299,24 @@
 Ужо праз гадзіну вы былі ў касмапорце, так і не здолеўшы выцягнуць Дуу'Рака з гэтай гульні."
 "/quests/Moi.qmm/jumps/421/description"	"Малок отвел дубину словно для удара, и тут же врезал вам свободной левой рукой. Вообще-то, удар был так силен, что вам и огромная дубина показалась бесполезным недоразумением, прихваченным малоком по привычке."	"Quest Moi.qmm: jumps.421.description. Preserve every <tag> exactly."	"Quest,Moi"	"Малок адвёў дубіну быццам для ўдару і адразу ўрэзаў вам вольнай левай рукой. Наогул, удар быў такі моцны, што вам і велізарная дубіна падалася бескарысным непаразуменьнем, прыхопленым малокам па звычцы."
 "/quests/Moi.qmm/jumps/423/text"	"Хорошо, веди меня в свой подвал"	"Quest Moi.qmm: jumps.423.text. Preserve every <tag> exactly."	"Quest,Moi"	"Добра, вядзі мяне ў сваё сутарэньне"
-"/quests/Moi.qmm/jumps/424/text"	"Ну твари пучеглазые - держитесь!"	"Quest Moi.qmm: jumps.424.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/425/text"	"Признать свое поражение"	"Quest Moi.qmm: jumps.425.text. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/424/text"	"Ну твари пучеглазые - держитесь!"	"Quest Moi.qmm: jumps.424.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ну пачвары з пукатымі вачыма — трымайцеся!"
+"/quests/Moi.qmm/jumps/425/text"	"Признать свое поражение"	"Quest Moi.qmm: jumps.425.text. Preserve every <tag> exactly."	"Quest,Moi"	"Прызнаць сваю паразу"
 "/quests/Moi.qmm/jumps/426/description"	"Вы ждали, что огромный метеор придавит кучу крыс, но услышали лишь глухой стук наверху и страшный треск. Затем сверху послышалась ругань:
 - Чтоб я еще раз доверил герою свой подвал от крыс зачищать? И все как один - чуть что, так метеором по крыше. А чинить ее кто потом будет? Кровельные материалы нынче ого-го у эльфов сколько стоят.
 
-Все ясно, заклинание Метеора предназначено для использования на открытом воздухе."	"Quest Moi.qmm: jumps.426.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/427/description"	"Заклинание вампиризма буквально высосало крысу, оставив только мохнатую оболочку."	"Quest Moi.qmm: jumps.427.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/428/description"	"Вы попытались ослепить крыс плетением Рассеянности, но похоже, что они в этой темноте ориентируются исключительно по слуху."	"Quest Moi.qmm: jumps.428.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+Все ясно, заклинание Метеора предназначено для использования на открытом воздухе."	"Quest Moi.qmm: jumps.426.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы чакалі, што вялізны мэтэор прыцісьне кучу пацукоў, але пачулі толькі глухі стук наверсе і страшэнны трэск. Затым зьверху пачулася лаянка:
+- Каб я яшчэ раз даверыў герою сваё сутарэньне ад пацукоў чысьціць? І ўсе як адзін — крыху што, дык мэтэорам па страсе. А чыніць яе хто потым будзе? Дахавыя матэрыялы сёньня ого-го ў эльфаў колькі каштуюць.
+
+Усё ясна, заклінаньне Мэтэора прызначанае для ўжываньня на вольным паветры."
+"/quests/Moi.qmm/jumps/427/description"	"Заклинание вампиризма буквально высосало крысу, оставив только мохнатую оболочку."	"Quest Moi.qmm: jumps.427.description. Preserve every <tag> exactly."	"Quest,Moi"	"Заклінаньне вампірызму літаральна высмактала пацука, пакінуўшы толькі касматую абалонку."
+"/quests/Moi.qmm/jumps/428/description"	"Вы попытались ослепить крыс плетением Рассеянности, но похоже, что они в этой темноте ориентируются исключительно по слуху."	"Quest Moi.qmm: jumps.428.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы паспрабавалі асьляпіць пацукоў пляценьнем Расьсеянасьці, але падобна, што яны ў гэтай цемры арыентуюцца выключна на слых."
 "/quests/Moi.qmm/jumps/429/description"	"Едва заметное мерцание магического Щита окутало вас, защищая от вредоносных воздействий."	"Quest Moi.qmm: jumps.429.description. Preserve every <tag> exactly."	"Quest,Moi"	"Ледзь прыкметнае мігценьне магічнага Шчыта ахутала вас, абараняючы ад шкодных узьдзеяньняў."
 "/quests/Moi.qmm/jumps/430/description"	"Ощущение покоя и предельной сосредоточенности нахлынуло на вас."	"Quest Moi.qmm: jumps.430.description. Preserve every <tag> exactly."	"Quest,Moi"	"Адчуваньне спакою і гранічнай засяроджанасьці нахлынула на вас."
-"/quests/Moi.qmm/jumps/431/description"	"Мощный фонтан ударил из земляного пола и поднял несколько мохнатых тел в воздух, хорошенько стукнув о потолок (или об пол - смотря с какой стороны смотреть). Выжили не все летчики-гейзероиспытатели..."	"Quest Moi.qmm: jumps.431.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/431/description"	"Мощный фонтан ударил из земляного пола и поднял несколько мохнатых тел в воздух, хорошенько стукнув о потолок (или об пол - смотря с какой стороны смотреть). Выжили не все летчики-гейзероиспытатели..."	"Quest Moi.qmm: jumps.431.description. Preserve every <tag> exactly."	"Quest,Moi"	"Магутны фантан ударыў з земляной падлогі і падняў некалькі касматых цел у паветра, добра стукнуўшы аб столь (або аб падлогу — гледзячы з якога боку глядзець). Выжылі не ўсе лётчыкі-выпрабавальнікі Гейзера..."
 "/quests/Moi.qmm/jumps/432/description"	"Вы высвободили сплетенное заклинание, но вам не удалось сконцентрироваться на плетении, и оно мгновенно распалось, не оказав никакого эффекта..."	"Quest Moi.qmm: jumps.432.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы вызвалілі сплеценае заклінаньне, але вам не ўдалося засяродзіцца на пляценьні, і яно імгненна распалася, не аказаўшы ніякага эфэкту..."
-"/quests/Moi.qmm/jumps/433/description"	"Исцеляющее плетение залечило несколько укусов, раны перестали гореть."	"Quest Moi.qmm: jumps.433.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/434/description"	"Огненное Лезвие вонзилось в кучу мохнатых тел, разрывая их на части."	"Quest Moi.qmm: jumps.434.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/435/description"	"Огненный Шар сорвался с вашей ладони и устремился к противнику. Противно запахло паленой шерстью и жженой плотью."	"Quest Moi.qmm: jumps.435.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/433/description"	"Исцеляющее плетение залечило несколько укусов, раны перестали гореть."	"Quest Moi.qmm: jumps.433.description. Preserve every <tag> exactly."	"Quest,Moi"	"Гаючае пляценьне загаіла некалькі ўкусаў, раны перасталі гарэць."
+"/quests/Moi.qmm/jumps/434/description"	"Огненное Лезвие вонзилось в кучу мохнатых тел, разрывая их на части."	"Quest Moi.qmm: jumps.434.description. Preserve every <tag> exactly."	"Quest,Moi"	"Агнянае Лязо ўторкнулася ў кучу касматых цел, разрываючы іх на кавалкі."
+"/quests/Moi.qmm/jumps/435/description"	"Огненный Шар сорвался с вашей ладони и устремился к противнику. Противно запахло паленой шерстью и жженой плотью."	"Quest Moi.qmm: jumps.435.description. Preserve every <tag> exactly."	"Quest,Moi"	"Агняны Шар сарваўся з вашай далоні і памчаўся да праціўніка. Агідна запахла падпаленай поўсьцю і спаленай плоцьцю."
 "/quests/Moi.qmm/jumps/436/param_changes/0/crit_text"	"Вы рухнули на сырой пол подвала. Одна из крыс лениво догрызала вашу руку, а остальные бросились рвать горло...
 Милосердная тьма укрыла вас, и наступила тишина...
 
@@ -4322,9 +4325,17 @@
 - Ну так - спецподготовка рейнджера, - ухмыльнулись вы. - Давайте, ребята, заводите вашу машину и отправляйте меня назад - у меня там пара мохнатых приятелей осталась. Очень хотелось бы с ними поболтать по душам. 
 - Сожалею, но вы погибли в игре, и ваша нервная система еще несколько дней не сможет воспринимать сигналы от нейроплазмы.
 
-Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.436.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/436/description"	"Дружным строем крысы бросились на вас, отчаянно вереща. Их острые зубки рвали и кусали вас."	"Quest Moi.qmm: jumps.436.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/437/description"	"Дружно бросились крысы на вас, и так же дружно отлетели в сторону, наткнувшись на невидимый магический щит."	"Quest Moi.qmm: jumps.437.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.436.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	"Вы рухнулі на сырую падлогу сутарэньня. Адзін з пацукоў ляніва дагрызаў вашу руку, а астатнія кінуліся рваць горла...
+Літасьцівая цемра атуліла вас, і настала цішыня...
+
+- Ну як ён? — пачуўся над вамі ціхі голас.
+- Ужо прыходзіць да прытомнасьці. Даволі хутка апрытомнеў...
+- Дык вось — спэцпадрыхтоўка рэйнджэра, — ухмыльнуліся вы. — Давайце, хлопцы, заводзьце вашу машыну і адпраўляйце мяне назад — у мяне там пара касматых прыяцеляў засталася. Вельмі хацелася б зь імі пагутарыць па душах.
+- Шкадую, але вы загінулі ў гульні, і ваша нэрвовая сыстэма яшчэ некалькі дзён ня зможа ўспрымаць сыгналы ад нэйраплязмы.
+
+Праз некалькі гадзінаў вы ўжо знаходзіліся ў касмапорце, пакідаючы плянэту віртуальных забаваў, так і не здолеўшы выцягнуць Дуу'Рака з гэтай гульні. А яшчэ вы купілі сабе двух катоў, аднаго зь якіх пасялілі ў труме, а другога пакінулі бадзяцца па жылых памяшканьнях карабля."
+"/quests/Moi.qmm/jumps/436/description"	"Дружным строем крысы бросились на вас, отчаянно вереща. Их острые зубки рвали и кусали вас."	"Quest Moi.qmm: jumps.436.description. Preserve every <tag> exactly."	"Quest,Moi"	"Дружным шыхтам пацукі кінуліся на вас, адчайна вішчучы. Іхнія вострыя зубкі рвалі і кусалі вас."
+"/quests/Moi.qmm/jumps/437/description"	"Дружно бросились крысы на вас, и так же дружно отлетели в сторону, наткнувшись на невидимый магический щит."	"Quest Moi.qmm: jumps.437.description. Preserve every <tag> exactly."	"Quest,Moi"	"Дружна кінуліся пацукі на вас і гэтак жа дружна адляцелі ўбок, наткнуўшыся на нябачны магічны шчыт."
 "/quests/Moi.qmm/jumps/438/param_changes/0/crit_text"	"Вы рухнули на сырой пол подвала. Одна из крыс лениво догрызала вашу руку, а остальные бросились рвать горло...
 Милосердная тьма укрыла вас, и наступила тишина...
 
@@ -4333,57 +4344,66 @@
 - Ну так - спецподготовка рейнджера, - ухмыльнулись вы. - Давайте, ребята, заводите вашу машину и отправляйте меня назад - у меня там пара мохнатых приятелей осталась. Очень хотелось бы с ними поболтать по душам. 
 - Сожалею, но вы погибли в игре, и ваша нервная система еще несколько дней не сможет воспринимать сигналы от нейроплазмы.
 
-Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.438.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/438/description"	"Крысы всей толпой бросились на вас, кроме одной, застывшей, как изваяние. Было очень больно."	"Quest Moi.qmm: jumps.438.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.438.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	"Вы рухнулі на сырую падлогу сутарэньня. Адзін з пацукоў ляніва дагрызаў вашу руку, а астатнія кінуліся рваць горла...
+Літасьцівая цемра атуліла вас, і настала цішыня...
+
+- Ну як ён? — пачуўся над вамі ціхі голас.
+- Ужо прыходзіць да прытомнасьці. Даволі хутка апрытомнеў...
+- Дык вось — спэцпадрыхтоўка рэйнджэра, — ухмыльнуліся вы. — Давайце, хлопцы, заводзьце вашу машыну і адпраўляйце мяне назад — у мяне там пара касматых прыяцеляў засталася. Вельмі хацелася б зь імі пагутарыць па душах.
+- Шкадую, але вы загінулі ў гульні, і ваша нэрвовая сыстэма яшчэ некалькі дзён ня зможа ўспрымаць сыгналы ад нэйраплязмы.
+
+Праз некалькі гадзінаў вы ўжо знаходзіліся ў касмапорце, пакідаючы плянэту віртуальных забаваў, так і не здолеўшы выцягнуць Дуу'Рака з гэтай гульні. А яшчэ вы купілі сабе двух катоў, аднаго зь якіх пасялілі ў труме, а другога пакінулі бадзяцца па жылых памяшканьнях карабля."
+"/quests/Moi.qmm/jumps/438/description"	"Крысы всей толпой бросились на вас, кроме одной, застывшей, как изваяние. Было очень больно."	"Quest Moi.qmm: jumps.438.description. Preserve every <tag> exactly."	"Quest,Moi"	"Пацукі ўсёй грамадой кінуліся на вас, акрамя аднаго, што застыў, нібыта статуя. Было вельмі балюча."
 "/quests/Moi.qmm/jumps/439/text"	"Выйти из хижины"	"Quest Moi.qmm: jumps.439.text. Preserve every <tag> exactly."	"Quest,Moi"	"Выйсьці з хаціны"
 "/quests/Moi.qmm/jumps/439/description"	"Вы уже открыли дверь, когда знахарь окликнул вас:
-- Погоди, о почти великий маг. Если тебе вдруг попадется где-нибудь в странствиях корень чудесного растения <clr>многоцветника<clrEnd>, то я с радостью куплю его у тебя. Дело в том, что этот редчайший цветок входит в состав Магического Эликсира, а мои запасы сушеного корня подходят к концу. Если ты найдешь в странствиях и принесешь мне его, то я смогу продавать зелья Магии по сниженной цене, а может и еще чем тебя порадую - мне говорят, что я слишком щедр для пеленга. Думаю, <clr>парочки<clrEnd> корней мне будет более чем достаточно."	"Quest Moi.qmm: jumps.439.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/440/description"	"Небольшой шар из высокотемпературной плазмы сформировался у вас на ладони, и вы швырнули его в Великого Мага. Раздался взрыв, и в стороны полетели обгоревшие лоскутки когда-то великолепного балахона."	"Quest Moi.qmm: jumps.440.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/441/description"	"Вы короткой молитвой поблагодарили разработчиков за бесценное заклинание Исцеления, залечившее ваши раны."	"Quest Moi.qmm: jumps.441.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/442/description"	"Мощный столб грязи вырвался из земли и швырнул гаальца на землю."	"Quest Moi.qmm: jumps.442.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/443/description"	"Едва заметное мерцание магического Щита окутало вас, защищая от вредоносных заклинаний Великого Мага."	"Quest Moi.qmm: jumps.443.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/444/description"	"Заклинание вампиризма с графической точки зрения реализовано было довольно убого, но зато действовало просто безотказно. Часть вашего здоровья восстановилась, и вы точно знали, что Великий Дуу'Рак столько же здоровья потерял. Что поделать - закон сохранения энергии... жизненной."	"Quest Moi.qmm: jumps.444.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/445/description"	"Что-то оглушительно засвистело над головой Великого Мага. Потом это что-то засвистело ему прямо в лоб. Разумеется, чародея Метеором не расплющило в лепешку, но и здоровье у него уже не то, что было до столкновения тела небесного с бренным телом мага..."	"Quest Moi.qmm: jumps.445.description. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/446/description"	"Вы бросили в противника заклинание Рассеянности. Вокруг его головы закружились в чарующем хороводе разноцветные искры, гипнотизируя и мешая сосредоточиться. Красиво... того и гляди, сам этим спецэффектом залюбуешься."	"Quest Moi.qmm: jumps.446.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+- Погоди, о почти великий маг. Если тебе вдруг попадется где-нибудь в странствиях корень чудесного растения <clr>многоцветника<clrEnd>, то я с радостью куплю его у тебя. Дело в том, что этот редчайший цветок входит в состав Магического Эликсира, а мои запасы сушеного корня подходят к концу. Если ты найдешь в странствиях и принесешь мне его, то я смогу продавать зелья Магии по сниженной цене, а может и еще чем тебя порадую - мне говорят, что я слишком щедр для пеленга. Думаю, <clr>парочки<clrEnd> корней мне будет более чем достаточно."	"Quest Moi.qmm: jumps.439.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы ўжо адчынілі дзьверы, калі знахар гукнуў вас:
+- Пачакай, о амаль вялікі маг. Калі табе раптам трапіцца дзе-небудзь у вандроўках корань цудоўнай расьліны <clr>шматкаляровіка<clrEnd>, дык я з радасьцю куплю яго ў цябе. Справа ў тым, што гэтая вельмі рэдкая кветка ўваходзіць у склад Магічнага Эліксіру, а мае запасы сушанага кораня падыходзяць да канца. Калі ты знойдзеш у вандроўках і прынясеш мне яго, дык я змагу прадаваць зеллі Магіі па зьніжанай цане, а можа, і яшчэ чым цябе парадую — мне кажуць, што я занадта шчодры для пеленга. Думаю, <clr>парачкі<clrEnd> каранёў мне будзе больш чым дастаткова."
+"/quests/Moi.qmm/jumps/440/description"	"Небольшой шар из высокотемпературной плазмы сформировался у вас на ладони, и вы швырнули его в Великого Мага. Раздался взрыв, и в стороны полетели обгоревшие лоскутки когда-то великолепного балахона."	"Quest Moi.qmm: jumps.440.description. Preserve every <tag> exactly."	"Quest,Moi"	"Невялікі шар з высокатэмпэратурнай плязмы сфармаваўся ў вас на далоні, і вы шпурнулі яго ў Вялікага Мага. Пачуўся выбух, і ў бакі паляцелі абгарэлыя абрыўкі калісьці пышнага балахона."
+"/quests/Moi.qmm/jumps/441/description"	"Вы короткой молитвой поблагодарили разработчиков за бесценное заклинание Исцеления, залечившее ваши раны."	"Quest Moi.qmm: jumps.441.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы кароткай малітвай падзякавалі распрацоўнікам за бясцэннае заклінаньне Гаеньня, што загаіла вашы раны."
+"/quests/Moi.qmm/jumps/442/description"	"Мощный столб грязи вырвался из земли и швырнул гаальца на землю."	"Quest Moi.qmm: jumps.442.description. Preserve every <tag> exactly."	"Quest,Moi"	"Магутны слуп гразі вырваўся з глебы і шпурнуў гаальца на зямлю."
+"/quests/Moi.qmm/jumps/443/description"	"Едва заметное мерцание магического Щита окутало вас, защищая от вредоносных заклинаний Великого Мага."	"Quest Moi.qmm: jumps.443.description. Preserve every <tag> exactly."	"Quest,Moi"	"Ледзь прыкметнае мігценьне магічнага Шчыта ахутала вас, абараняючы ад шкодных заклінаньняў Вялікага Мага."
+"/quests/Moi.qmm/jumps/444/description"	"Заклинание вампиризма с графической точки зрения реализовано было довольно убого, но зато действовало просто безотказно. Часть вашего здоровья восстановилась, и вы точно знали, что Великий Дуу'Рак столько же здоровья потерял. Что поделать - закон сохранения энергии... жизненной."	"Quest Moi.qmm: jumps.444.description. Preserve every <tag> exactly."	"Quest,Moi"	"Заклінаньне вампірызму з графічнага пункту гледжаньня было рэалізаванае даволі ўбога, затое дзейнічала проста безадмоўна. Частка вашага здароўя аднавілася, і вы дакладна ведалі, што Вялікі Дуу'Рак столькі ж здароўя страціў. Што зробіш — закон захаваньня энэргіі... жыцьцёвай."
+"/quests/Moi.qmm/jumps/445/description"	"Что-то оглушительно засвистело над головой Великого Мага. Потом это что-то засвистело ему прямо в лоб. Разумеется, чародея Метеором не расплющило в лепешку, но и здоровье у него уже не то, что было до столкновения тела небесного с бренным телом мага..."	"Quest Moi.qmm: jumps.445.description. Preserve every <tag> exactly."	"Quest,Moi"	"Нешта аглушальна засьвістала над галавой Вялікага Мага. Потым гэтае нешта засьвістала яму проста ў лоб. Вядома, чараўніка Мэтэорам не расплюшчыла ў блін, але і здароўе ў яго ўжо не тое, што было да сутыкненьня цела нябеснага з тленным целам мага..."
+"/quests/Moi.qmm/jumps/446/description"	"Вы бросили в противника заклинание Рассеянности. Вокруг его головы закружились в чарующем хороводе разноцветные искры, гипнотизируя и мешая сосредоточиться. Красиво... того и гляди, сам этим спецэффектом залюбуешься."	"Quest Moi.qmm: jumps.446.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы кінулі ў праціўніка заклінаньне Расьсеянасьці. Вакол ягонай галавы закружыліся ў чароўным карагодзе рознакаляровыя іскры, гіпнатызуючы і замінаючы засяродзіцца. Прыгожа... таго і глядзі, сам гэтым спэцыяльным эфэктам залюбуесься."
 "/quests/Moi.qmm/jumps/447/description"	"Ощущение покоя и предельной сосредоточенности нахлынуло на вас."	"Quest Moi.qmm: jumps.447.description. Preserve every <tag> exactly."	"Quest,Moi"	"Адчуваньне спакою і гранічнай засяроджанасьці нахлынула на вас."
 "/quests/Moi.qmm/jumps/448/description"	"Вы высвободили сплетенное заклинание, но вам не удалось сконцентрироваться на плетении, и оно мгновенно распалось, не оказав никакого эффекта..."	"Quest Moi.qmm: jumps.448.description. Preserve every <tag> exactly."	"Quest,Moi"	"Вы вызвалілі сплеценае заклінаньне, але вам не ўдалося засяродзіцца на пляценьні, і яно імгненна распалася, не аказаўшы ніякага эфэкту..."
-"/quests/Moi.qmm/jumps/449/description"	"Лезвие, словно выкованное из языка пламени, появилось возле противника и молниеносным движением обрушилось на него, воспламеняя одежды мага."	"Quest Moi.qmm: jumps.449.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/449/description"	"Лезвие, словно выкованное из языка пламени, появилось возле противника и молниеносным движением обрушилось на него, воспламеняя одежды мага."	"Quest Moi.qmm: jumps.449.description. Preserve every <tag> exactly."	"Quest,Moi"	"Лязо, быццам выкаванае з языка полымя, зьявілася каля праціўніка і маланкавым рухам абрынулася на яго, падпальваючы адзеньне мага."
 "/quests/Moi.qmm/jumps/450/text"	"Попытаться поднять предмет потоками Воздуха"	"Quest Moi.qmm: jumps.450.text. Preserve every <tag> exactly."	"Quest,Moi"	"Паспрабаваць падняць прадмет патокамі Паветра"
-"/quests/Moi.qmm/jumps/451/text"	"Продать вашу вторую Книгу Магии за 205 золотых"	"Quest Moi.qmm: jumps.451.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/452/text"	"Продать зелье Лечения за 220 золотых"	"Quest Moi.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/453/text"	"Послушай, я тут героем подрабатываю. Тебе помощь не нужна?"	"Quest Moi.qmm: jumps.453.text. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/451/text"	"Продать вашу вторую Книгу Магии за 205 золотых"	"Quest Moi.qmm: jumps.451.text. Preserve every <tag> exactly."	"Quest,Moi"	"Прадаць вашу другую Кнігу Магіі за 205 залатых"
+"/quests/Moi.qmm/jumps/452/text"	"Продать зелье Лечения за 220 золотых"	"Quest Moi.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Moi"	"Прадаць зелле Лячэньня за 220 залатых"
+"/quests/Moi.qmm/jumps/453/text"	"Послушай, я тут героем подрабатываю. Тебе помощь не нужна?"	"Quest Moi.qmm: jumps.453.text. Preserve every <tag> exactly."	"Quest,Moi"	"Паслухай, я тут героем падпрацоўваю. Табе дапамога не патрэбная?"
 "/quests/Moi.qmm/jumps/454/text"	"Подойти к плачущей девочке"	"Quest Moi.qmm: jumps.454.text. Preserve every <tag> exactly."	"Quest,Moi"	"Падысьці да дзяўчынкі, якая плача"
 "/quests/Moi.qmm/jumps/455/text"	"Идти к домику Cкупщика"	"Quest Moi.qmm: jumps.455.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ісьці да доміка Скупшчыка"
-"/quests/Moi.qmm/jumps/456/text"	"Продать зелье Интуиции за 200 золотых"	"Quest Moi.qmm: jumps.456.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/458/description"	"Атакующая крыса застыла на месте, а ее шерсть покрылась густым инеем."	"Quest Moi.qmm: jumps.458.description. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/456/text"	"Продать зелье Интуиции за 200 золотых"	"Quest Moi.qmm: jumps.456.text. Preserve every <tag> exactly."	"Quest,Moi"	"Прадаць зелле Інтуіцыі за 200 залатых"
+"/quests/Moi.qmm/jumps/458/description"	"Атакующая крыса застыла на месте, а ее шерсть покрылась густым инеем."	"Quest Moi.qmm: jumps.458.description. Preserve every <tag> exactly."	"Quest,Moi"	"Атакуючы пацук застыў на месцы, а ягоная поўсьць пакрылася густым інеем."
 "/quests/Moi.qmm/jumps/460/text"	"Подождать, сосредотачиваясь"	"Quest Moi.qmm: jumps.460.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пачакаць, засяроджваючыся"
-"/quests/Moi.qmm/jumps/461/text"	"Ты обещал кружечку эликсира магического налить, для наглости? Наливай!"	"Quest Moi.qmm: jumps.461.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/462/text"	"Ну, бывай, может, и загляну как-нибудь..."	"Quest Moi.qmm: jumps.462.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/464/text"	"Сейчас посмотрим, как на зеленой морде фиолетовые синяки смотрятся! (напасть)"	"Quest Moi.qmm: jumps.464.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/468/text"	"Купить амулет"	"Quest Moi.qmm: jumps.468.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/469/text"	"Выбрать что-нибудь другое"	"Quest Moi.qmm: jumps.469.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/471/text"	"Выбрать книгу Магии Воздействий"	"Quest Moi.qmm: jumps.471.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/473/text"	"Выбрать что-нибудь другое"	"Quest Moi.qmm: jumps.473.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/474/text"	"Отойти от торговца"	"Quest Moi.qmm: jumps.474.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/475/text"	"Отойти от торговца"	"Quest Moi.qmm: jumps.475.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/476/text"	"Выбрать книгу Магии Стихий"	"Quest Moi.qmm: jumps.476.text. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/461/text"	"Ты обещал кружечку эликсира магического налить, для наглости? Наливай!"	"Quest Moi.qmm: jumps.461.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ты абяцаў кубачак эліксіру магічнага наліць, для нахабства? Налівай!"
+"/quests/Moi.qmm/jumps/462/text"	"Ну, бывай, может, и загляну как-нибудь..."	"Quest Moi.qmm: jumps.462.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ну, бывай, можа, і зазірну калі-небудзь..."
+"/quests/Moi.qmm/jumps/464/text"	"Сейчас посмотрим, как на зеленой морде фиолетовые синяки смотрятся! (напасть)"	"Quest Moi.qmm: jumps.464.text. Preserve every <tag> exactly."	"Quest,Moi"	"Зараз паглядзім, як на зялёнай мордзе фіялетавыя сінякі глядзяцца! (напасьці)"
+"/quests/Moi.qmm/jumps/468/text"	"Купить амулет"	"Quest Moi.qmm: jumps.468.text. Preserve every <tag> exactly."	"Quest,Moi"	"Купіць амулет"
+"/quests/Moi.qmm/jumps/469/text"	"Выбрать что-нибудь другое"	"Quest Moi.qmm: jumps.469.text. Preserve every <tag> exactly."	"Quest,Moi"	"Выбраць нешта іншае"
+"/quests/Moi.qmm/jumps/471/text"	"Выбрать книгу Магии Воздействий"	"Quest Moi.qmm: jumps.471.text. Preserve every <tag> exactly."	"Quest,Moi"	"Выбраць кнігу Магіі Узьдзеяньняў"
+"/quests/Moi.qmm/jumps/473/text"	"Выбрать что-нибудь другое"	"Quest Moi.qmm: jumps.473.text. Preserve every <tag> exactly."	"Quest,Moi"	"Выбраць нешта іншае"
+"/quests/Moi.qmm/jumps/474/text"	"Отойти от торговца"	"Quest Moi.qmm: jumps.474.text. Preserve every <tag> exactly."	"Quest,Moi"	"Адысьці ад гандляра"
+"/quests/Moi.qmm/jumps/475/text"	"Отойти от торговца"	"Quest Moi.qmm: jumps.475.text. Preserve every <tag> exactly."	"Quest,Moi"	"Адысьці ад гандляра"
+"/quests/Moi.qmm/jumps/476/text"	"Выбрать книгу Магии Стихий"	"Quest Moi.qmm: jumps.476.text. Preserve every <tag> exactly."	"Quest,Moi"	"Выбраць кнігу Магіі Стыхіяў"
 "/quests/Moi.qmm/jumps/478/text"	"Отложить книгу"	"Quest Moi.qmm: jumps.478.text. Preserve every <tag> exactly."	"Quest,Moi"	"Адкласьці кнігу"
-"/quests/Moi.qmm/jumps/481/text"	"Пожертвовать первый амулет Источнику"	"Quest Moi.qmm: jumps.481.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/482/text"	"Пожертвовать второй амулет Источнику"	"Quest Moi.qmm: jumps.482.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/483/text"	"Положить что-нибудь в сундук"	"Quest Moi.qmm: jumps.483.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/484/text"	"Взять что-нибудь из сундука"	"Quest Moi.qmm: jumps.484.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/485/text"	"Отойти от сундука"	"Quest Moi.qmm: jumps.485.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/486/text"	"Отойти от сундука"	"Quest Moi.qmm: jumps.486.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/489/text"	"Положить амулет в сундук"	"Quest Moi.qmm: jumps.489.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/490/text"	"Положить книгу в сундук"	"Quest Moi.qmm: jumps.490.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/491/text"	"Положить вторую книгу в сундук"	"Quest Moi.qmm: jumps.491.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/492/text"	"Положить зелье Исцеления в сундук"	"Quest Moi.qmm: jumps.492.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/493/text"	"Положить зелье Магии в сундук"	"Quest Moi.qmm: jumps.493.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/494/text"	"Положить зелье Интуиции в сундук"	"Quest Moi.qmm: jumps.494.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/495/text"	"Взять зелье Магии из сундука"	"Quest Moi.qmm: jumps.495.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/496/text"	"Взять зелье Исцеления из сундука"	"Quest Moi.qmm: jumps.496.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/497/text"	"Взять зелье Интуиции из сундука"	"Quest Moi.qmm: jumps.497.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/498/text"	"Положить второй амулет в сундук"	"Quest Moi.qmm: jumps.498.text. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/481/text"	"Пожертвовать первый амулет Источнику"	"Quest Moi.qmm: jumps.481.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ахвяраваць першы амулет Крыніцы"
+"/quests/Moi.qmm/jumps/482/text"	"Пожертвовать второй амулет Источнику"	"Quest Moi.qmm: jumps.482.text. Preserve every <tag> exactly."	"Quest,Moi"	"Ахвяраваць другі амулет Крыніцы"
+"/quests/Moi.qmm/jumps/483/text"	"Положить что-нибудь в сундук"	"Quest Moi.qmm: jumps.483.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці нешта ў куфар"
+"/quests/Moi.qmm/jumps/484/text"	"Взять что-нибудь из сундука"	"Quest Moi.qmm: jumps.484.text. Preserve every <tag> exactly."	"Quest,Moi"	"Узяць нешта з куфра"
+"/quests/Moi.qmm/jumps/485/text"	"Отойти от сундука"	"Quest Moi.qmm: jumps.485.text. Preserve every <tag> exactly."	"Quest,Moi"	"Адысьці ад куфра"
+"/quests/Moi.qmm/jumps/486/text"	"Отойти от сундука"	"Quest Moi.qmm: jumps.486.text. Preserve every <tag> exactly."	"Quest,Moi"	"Адысьці ад куфра"
+"/quests/Moi.qmm/jumps/489/text"	"Положить амулет в сундук"	"Quest Moi.qmm: jumps.489.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці амулет у куфар"
+"/quests/Moi.qmm/jumps/490/text"	"Положить книгу в сундук"	"Quest Moi.qmm: jumps.490.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці кнігу ў куфар"
+"/quests/Moi.qmm/jumps/491/text"	"Положить вторую книгу в сундук"	"Quest Moi.qmm: jumps.491.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці другую кнігу ў куфар"
+"/quests/Moi.qmm/jumps/492/text"	"Положить зелье Исцеления в сундук"	"Quest Moi.qmm: jumps.492.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці зелле Гаеньня ў куфар"
+"/quests/Moi.qmm/jumps/493/text"	"Положить зелье Магии в сундук"	"Quest Moi.qmm: jumps.493.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці зелле Магіі ў куфар"
+"/quests/Moi.qmm/jumps/494/text"	"Положить зелье Интуиции в сундук"	"Quest Moi.qmm: jumps.494.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці зелле Інтуіцыі ў куфар"
+"/quests/Moi.qmm/jumps/495/text"	"Взять зелье Магии из сундука"	"Quest Moi.qmm: jumps.495.text. Preserve every <tag> exactly."	"Quest,Moi"	"Узяць зелле Магіі з куфра"
+"/quests/Moi.qmm/jumps/496/text"	"Взять зелье Исцеления из сундука"	"Quest Moi.qmm: jumps.496.text. Preserve every <tag> exactly."	"Quest,Moi"	"Узяць зелле Гаеньня з куфра"
+"/quests/Moi.qmm/jumps/497/text"	"Взять зелье Интуиции из сундука"	"Quest Moi.qmm: jumps.497.text. Preserve every <tag> exactly."	"Quest,Moi"	"Узяць зелле Інтуіцыі з куфра"
+"/quests/Moi.qmm/jumps/498/text"	"Положить второй амулет в сундук"	"Quest Moi.qmm: jumps.498.text. Preserve every <tag> exactly."	"Quest,Moi"	"Пакласьці другі амулет у куфар"
 "/quests/Moi.qmm/jumps/499/text"	"Достать амулет из сундука"	"Quest Moi.qmm: jumps.499.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/500/text"	"Достать амулет из сундука"	"Quest Moi.qmm: jumps.500.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/501/text"	"Достать книгу Магии из сундука"	"Quest Moi.qmm: jumps.501.text. Preserve every <tag> exactly."	"Quest,Moi"	""
@@ -4876,7 +4896,7 @@
 "/quests/Moi.qmm/jumps/769/text"	"Расскажи мне про кабанов"	"Quest Moi.qmm: jumps.769.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/770/text"	"Расскажи мне про зомби"	"Quest Moi.qmm: jumps.770.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/771/text"	"Расскажи мне про Путь Знаний"	"Quest Moi.qmm: jumps.771.text. Preserve every <tag> exactly."	"Quest,Moi"	""
-"/quests/Moi.qmm/jumps/772/text"	"Признать свое поражение"	"Quest Moi.qmm: jumps.772.text. Preserve every <tag> exactly."	"Quest,Moi"	""
+"/quests/Moi.qmm/jumps/772/text"	"Признать свое поражение"	"Quest Moi.qmm: jumps.772.text. Preserve every <tag> exactly."	"Quest,Moi"	"Прызнаць сваю паразу"
 "/quests/Moi.qmm/jumps/774/text"	"Выпить оба пузырька прямо здесь"	"Quest Moi.qmm: jumps.774.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/775/text"	"Взять с собой, что влезет - остальное в Сундук"	"Quest Moi.qmm: jumps.775.text. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/776/text"	"Вернуться к Перекрестку"	"Quest Moi.qmm: jumps.776.text. Preserve every <tag> exactly."	"Quest,Moi"	"Вярнуцца да Скрыжаваньня"
@@ -4952,7 +4972,15 @@
 - Ну так - спецподготовка рейнджера, - ухмыльнулись вы. - Давайте, ребята, заводите вашу машину и отправляйте меня назад - у меня там пара мохнатых приятелей осталась. Очень хотелось бы с ними поболтать по душам. 
 - Сожалею, но вы погибли в игре, и ваша нервная система еще несколько дней не сможет воспринимать сигналы от нейроплазмы.
 
-Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.852.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	""
+Несколько часов спустя вы уже находились в космопорте, покидая планету виртуальных развлечений, так и не сумев вытащить Дуу'Рака из этой игры. А еще вы купили себе двух котов, одного из которых поселили в трюме, а второго оставили бродить по жилым помещениям корабля."	"Quest Moi.qmm: jumps.852.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Moi"	"Вы рухнулі на сырую падлогу сутарэньня. Адзін з пацукоў ляніва дагрызаў вашу руку, а астатнія кінуліся рваць горла...
+Літасьцівая цемра атуліла вас, і настала цішыня...
+
+- Ну як ён? — пачуўся над вамі ціхі голас.
+- Ужо прыходзіць да прытомнасьці. Даволі хутка апрытомнеў...
+- Дык вось — спэцпадрыхтоўка рэйнджэра, — ухмыльнуліся вы. — Давайце, хлопцы, заводзьце вашу машыну і адпраўляйце мяне назад — у мяне там пара касматых прыяцеляў засталася. Вельмі хацелася б зь імі пагутарыць па душах.
+- Шкадую, але вы загінулі ў гульні, і ваша нэрвовая сыстэма яшчэ некалькі дзён ня зможа ўспрымаць сыгналы ад нэйраплязмы.
+
+Праз некалькі гадзінаў вы ўжо знаходзіліся ў касмапорце, пакідаючы плянэту віртуальных забаваў, так і не здолеўшы выцягнуць Дуу'Рака з гэтай гульні. А яшчэ вы купілі сабе двух катоў, аднаго зь якіх пасялілі ў труме, а другога пакінулі бадзяцца па жылых памяшканьнях карабля."
 "/quests/Moi.qmm/jumps/852/description"	"Единственная оставшаяся в живых крыса, то ли страдающая манией величия, то ли потомственная камикадзе, бросилась на вас."	"Quest Moi.qmm: jumps.852.description. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/853/description"	"Единственная оставшаяся на ногах крыса бросилась на вас, а ее замороженная приятельница стояла, словно символ вашего магического искусства."	"Quest Moi.qmm: jumps.853.description. Preserve every <tag> exactly."	"Quest,Moi"	""
 "/quests/Moi.qmm/jumps/854/description"	"Отчаянная серая бестия бросилась на вас, но была очень разочарована и пришиблена, наткнувшись на магическую защиту."	"Quest Moi.qmm: jumps.854.description. Preserve every <tag> exactly."	"Quest,Moi"	""
