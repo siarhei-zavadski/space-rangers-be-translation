@@ -54,56 +54,58 @@
 "/quests/Drugs.qmm/parameters/15/lines/5/content"	"Старая подушка и ржавый кухонный нож"	"Quest Drugs.qmm: parameters.15.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Старая падушка і іржавы кухонны нож"
 "/quests/Drugs.qmm/parameters/15/lines/6/content"	"Старая подушка и древний фотоаппарат"	"Quest Drugs.qmm: parameters.15.lines.6.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Старая падушка і старажытны фотаапарат"
 "/quests/Drugs.qmm/parameters/15/lines/7/content"	"Ржавый кухонный нож и древний фотоаппарат"	"Quest Drugs.qmm: parameters.15.lines.7.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Іржавы кухонны нож і старажытны фотаапарат"
-"/quests/Drugs.qmm/parameters/15/lines/8/content"	"Старая подушка, ржавый кухонный нож<br>Древний фотоаппарат"	"Quest Drugs.qmm: parameters.15.lines.8.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Drugs.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/name"	"Барахло 2"	"Quest Drugs.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/lines/2/content"	"Дырявая шляпа"	"Quest Drugs.qmm: parameters.16.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
+"/quests/Drugs.qmm/parameters/15/lines/8/content"	"Старая подушка, ржавый кухонный нож<br>Древний фотоаппарат"	"Quest Drugs.qmm: parameters.15.lines.8.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Старая падушка, іржавы кухонны нож<br>Старажытны фотаапарат"
+"/quests/Drugs.qmm/parameters/15/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Drugs.qmm: parameters.15.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 21"
+"/quests/Drugs.qmm/parameters/16/name"	"Барахло 2"	"Quest Drugs.qmm: parameters.16.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Барахло 2"
+"/quests/Drugs.qmm/parameters/16/lines/2/content"	"Дырявая шляпа"	"Quest Drugs.qmm: parameters.16.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Дзіравы капялюш"
 "/quests/Drugs.qmm/parameters/16/lines/3/content"	"Военная форма"	"Quest Drugs.qmm: parameters.16.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Вайсковая форма"
-"/quests/Drugs.qmm/parameters/16/lines/4/content"	"Болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/lines/5/content"	"Дырявая шляпа и военная форма"	"Quest Drugs.qmm: parameters.16.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/lines/6/content"	"Дырявая шляпа и болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.6.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/lines/7/content"	"Военная форма и болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.7.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/lines/8/content"	"Дырявая шляпа, военная форма<br>Болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.8.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Drugs.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/17/name"	"Флаг"	"Quest Drugs.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Drugs.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/18/name"	"Ответ"	"Quest Drugs.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/18/lines/0/content"	"Ответ: <>"	"Quest Drugs.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Drugs.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/19/name"	"Варианты"	"Quest Drugs.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Drugs.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/20/name"	"Документы"	"Quest Drugs.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/20/lines/1/content"	"Вы знаете о сейфе и дне рождения"	"Quest Drugs.qmm: parameters.20.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/20/lines/2/content"	"Вы знаете код к сейфу"	"Quest Drugs.qmm: parameters.20.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/20/lines/3/content"	"У вас есть документы"	"Quest Drugs.qmm: parameters.20.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Drugs.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+"/quests/Drugs.qmm/parameters/16/lines/4/content"	"Болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Балотны бот"
+"/quests/Drugs.qmm/parameters/16/lines/5/content"	"Дырявая шляпа и военная форма"	"Quest Drugs.qmm: parameters.16.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Дзіравы капялюш і вайсковы мундзір"
+"/quests/Drugs.qmm/parameters/16/lines/6/content"	"Дырявая шляпа и болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.6.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Дзіравы капялюш і балотны бот"
+"/quests/Drugs.qmm/parameters/16/lines/7/content"	"Военная форма и болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.7.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Вайсковы мундзір і балотны бот"
+"/quests/Drugs.qmm/parameters/16/lines/8/content"	"Дырявая шляпа, военная форма<br>Болотный сапог"	"Quest Drugs.qmm: parameters.16.lines.8.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Дзіравы капялюш, вайсковы мундзір<br>Балотны бот"
+"/quests/Drugs.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Drugs.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 22"
+"/quests/Drugs.qmm/parameters/17/name"	"Флаг"	"Quest Drugs.qmm: parameters.17.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Сьцяг"
+"/quests/Drugs.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Drugs.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 17"
+"/quests/Drugs.qmm/parameters/18/name"	"Ответ"	"Quest Drugs.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Адказ"
+"/quests/Drugs.qmm/parameters/18/lines/0/content"	"Ответ: <>"	"Quest Drugs.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Адказ: <>"
+"/quests/Drugs.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Drugs.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 19"
+"/quests/Drugs.qmm/parameters/19/name"	"Варианты"	"Quest Drugs.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Варыянты"
+"/quests/Drugs.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Drugs.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 20"
+"/quests/Drugs.qmm/parameters/20/name"	"Документы"	"Quest Drugs.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Дакумэнты"
+"/quests/Drugs.qmm/parameters/20/lines/1/content"	"Вы знаете о сейфе и дне рождения"	"Quest Drugs.qmm: parameters.20.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Вы ведаеце пра сэйф і дзень нараджэньня"
+"/quests/Drugs.qmm/parameters/20/lines/2/content"	"Вы знаете код к сейфу"	"Quest Drugs.qmm: parameters.20.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Вы ведаеце код да сэйфа"
+"/quests/Drugs.qmm/parameters/20/lines/3/content"	"У вас есть документы"	"Quest Drugs.qmm: parameters.20.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	"У вас ёсьць дакумэнты"
+"/quests/Drugs.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Drugs.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 18"
 "/quests/Drugs.qmm/parameters/21/name"	"Здоровье"	"Quest Drugs.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Здароўе"
-"/quests/Drugs.qmm/parameters/21/lines/1/content"	"Вы абсолютно здоровы"	"Quest Drugs.qmm: parameters.21.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/21/lines/2/content"	"У вас легкое ранение"	"Quest Drugs.qmm: parameters.21.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/21/lines/3/content"	"У вас ранение средней тяжести"	"Quest Drugs.qmm: parameters.21.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/21/lines/4/content"	"У вас тяжелое ранение"	"Quest Drugs.qmm: parameters.21.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Drugs.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/name"	"Охранник"	"Quest Drugs.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/lines/3/content"	"1-ый охранник - Здоров"	"Quest Drugs.qmm: parameters.22.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/lines/4/content"	"1-ый охранник - Легко ранен"	"Quest Drugs.qmm: parameters.22.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/lines/5/content"	"1-ый охранник - Ранение средней тяжести"	"Quest Drugs.qmm: parameters.22.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/lines/6/content"	"1-ый охранник - Тяжелое ранение"	"Quest Drugs.qmm: parameters.22.lines.6.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/lines/7/content"	"1-ый охранник - Убит"	"Quest Drugs.qmm: parameters.22.lines.7.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Drugs.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/name"	"Охранник 2"	"Quest Drugs.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/lines/1/content"	"2-ой охранник - Здоров"	"Quest Drugs.qmm: parameters.23.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/lines/2/content"	"2-ой охранник - Легко ранен"	"Quest Drugs.qmm: parameters.23.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/lines/3/content"	"2-ой охранник - Ранение средней тяжести"	"Quest Drugs.qmm: parameters.23.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/lines/4/content"	"2-ой охранник - Тяжелое ранение"	"Quest Drugs.qmm: parameters.23.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/lines/5/content"	"2-ой охранник - Убит"	"Quest Drugs.qmm: parameters.23.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	""
-"/quests/Drugs.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Drugs.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+"/quests/Drugs.qmm/parameters/21/lines/1/content"	"Вы абсолютно здоровы"	"Quest Drugs.qmm: parameters.21.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	"Вы абсалютна здаровыя"
+"/quests/Drugs.qmm/parameters/21/lines/2/content"	"У вас легкое ранение"	"Quest Drugs.qmm: parameters.21.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	"У вас лёгкае раненьне"
+"/quests/Drugs.qmm/parameters/21/lines/3/content"	"У вас ранение средней тяжести"	"Quest Drugs.qmm: parameters.21.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	"У вас раненьне сярэдняй цяжкасьці"
+"/quests/Drugs.qmm/parameters/21/lines/4/content"	"У вас тяжелое ранение"	"Quest Drugs.qmm: parameters.21.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	"У вас цяжкае раненьне"
+"/quests/Drugs.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Drugs.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 23"
+"/quests/Drugs.qmm/parameters/22/name"	"Охранник"	"Quest Drugs.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Ахоўнік"
+"/quests/Drugs.qmm/parameters/22/lines/3/content"	"1-ый охранник - Здоров"	"Quest Drugs.qmm: parameters.22.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	"1-ы ахоўнік — Здаровы"
+"/quests/Drugs.qmm/parameters/22/lines/4/content"	"1-ый охранник - Легко ранен"	"Quest Drugs.qmm: parameters.22.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	"1-ы ахоўнік — Лёгка паранены"
+"/quests/Drugs.qmm/parameters/22/lines/5/content"	"1-ый охранник - Ранение средней тяжести"	"Quest Drugs.qmm: parameters.22.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	"1-ы ахоўнік — Раненьне сярэдняй цяжкасьці"
+"/quests/Drugs.qmm/parameters/22/lines/6/content"	"1-ый охранник - Тяжелое ранение"	"Quest Drugs.qmm: parameters.22.lines.6.content. Preserve every <tag> exactly."	"Quest,Drugs"	"1-ы ахоўнік — Цяжкае раненьне"
+"/quests/Drugs.qmm/parameters/22/lines/7/content"	"1-ый охранник - Убит"	"Quest Drugs.qmm: parameters.22.lines.7.content. Preserve every <tag> exactly."	"Quest,Drugs"	"1-ы ахоўнік — Забіты"
+"/quests/Drugs.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 15"	"Quest Drugs.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 15"
+"/quests/Drugs.qmm/parameters/23/name"	"Охранник 2"	"Quest Drugs.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Ахоўнік 2"
+"/quests/Drugs.qmm/parameters/23/lines/1/content"	"2-ой охранник - Здоров"	"Quest Drugs.qmm: parameters.23.lines.1.content. Preserve every <tag> exactly."	"Quest,Drugs"	"2-і ахоўнік — Здаровы"
+"/quests/Drugs.qmm/parameters/23/lines/2/content"	"2-ой охранник - Легко ранен"	"Quest Drugs.qmm: parameters.23.lines.2.content. Preserve every <tag> exactly."	"Quest,Drugs"	"2-і ахоўнік — Лёгка паранены"
+"/quests/Drugs.qmm/parameters/23/lines/3/content"	"2-ой охранник - Ранение средней тяжести"	"Quest Drugs.qmm: parameters.23.lines.3.content. Preserve every <tag> exactly."	"Quest,Drugs"	"2-і ахоўнік — Раненьне сярэдняй цяжкасьці"
+"/quests/Drugs.qmm/parameters/23/lines/4/content"	"2-ой охранник - Тяжелое ранение"	"Quest Drugs.qmm: parameters.23.lines.4.content. Preserve every <tag> exactly."	"Quest,Drugs"	"2-і ахоўнік — Цяжкае раненьне"
+"/quests/Drugs.qmm/parameters/23/lines/5/content"	"2-ой охранник - Убит"	"Quest Drugs.qmm: parameters.23.lines.5.content. Preserve every <tag> exactly."	"Quest,Drugs"	"2-і ахоўнік — Забіты"
+"/quests/Drugs.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Drugs.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 24"
 "/quests/Drugs.qmm/parameters/24/name"	"x"	"Quest Drugs.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Drugs"	"x"
-"/quests/Drugs.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Drugs.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+"/quests/Drugs.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Drugs.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 25"
 "/quests/Drugs.qmm/parameters/25/name"	"Пеленг"	"Quest Drugs.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Drugs"	"Пеленг"
-"/quests/Drugs.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Drugs.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+"/quests/Drugs.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Drugs.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 26"
 "/quests/Drugs.qmm/success_text"	"Ага, вот и вы, <Ranger>. Давайте, давайте скорее отчет. Гм... Гм... Ага... Ну что же, с заданием вы справились. Отчет привезли. Разработка оружия идет полным ходом. И нечего на меня так смотреть! Я не имел права говорить вам с самого начала всю правду. Это задание крайне опасно, немногие возвращаются живыми. Приходится немного привирать, для привлечения посыльных. 
 
-Вот ваша награда - <Money> cr. Надеюсь, у вас хватит ума держать язык за зубами. Всего хорошего."	"Quest Drugs.qmm: success_text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+Вот ваша награда - <Money> cr. Надеюсь, у вас хватит ума держать язык за зубами. Всего хорошего."	"Quest Drugs.qmm: success_text. Preserve every <tag> exactly."	"Quest,Drugs"	"Ага, вось і вы, <Ranger>. Давайце, давайце хутчэй справаздачу. Гм... Гм... Ага... Ну што ж, з заданьнем вы справіліся. Справаздачу прывезьлі. Распрацоўка зброі ідзе поўным ходам. І няма чаго на мяне так глядзець! Я ня меў права гаварыць вам з самага пачатку ўсю праўду. Гэтае заданьне надзвычай небясьпечнае, нямногія вяртаюцца жывымі. Даводзіцца трохі хлусіць, каб прывабіць пасланцоў.
+
+Вось ваша ўзнагарода — <Money> cr. Спадзяюся, у вас хопіць розуму трымаць язык за зубамі. Усяго добрага."
 "/quests/Drugs.qmm/task_text"	"Великий пеленгский промышленник Кууча фон Юча, оказавший неоценимую услугу нашей планете, пребывает сейчас в весьма затруднительном положении. 
 
 Вы должны полететь на его родную планету <ToPlanet> в системе <ToStar> и сделать все возможное, чтобы помочь этому выдающемуся пеленгу. Подробности вашего задания вы узнаете по прибытии у самого Куучи фон Ючи. 
@@ -112,12 +114,20 @@
 
 Вы должны полететь на его родную планету <ToPlanet> в системе <ToStar> и сделать все возможное, чтобы помочь этому выдающемуся пеленгу. Подробности вашего задания вы узнаете по прибытии у самого Куучи фон Ючи. 
 
-От имени правительства нашей планеты добавлю, что если вы справитесь с этим заданием и на позднее <Date> вернетесь с докладом на <FromPlanet>, то получите вознаграждение, достойное такого великого рейнджера как вы, <Ranger>."	"Quest,Drugs"	""
+От имени правительства нашей планеты добавлю, что если вы справитесь с этим заданием и на позднее <Date> вернетесь с докладом на <FromPlanet>, то получите вознаграждение, достойное такого великого рейнджера как вы, <Ranger>."	"Quest,Drugs"	"Вялікі пеленгскі прамысловец Кууча фон Юча, які аказаў неацэнную паслугу нашай плянэце, цяпер у вельмі цяжкім становішчы.
+
+Вы мусіце паляцець на яго родную плянэту <ToPlanet> у сыстэме <ToStar> і зрабіць усё магчымае, каб дапамагчы гэтаму выдатнаму пеленгу. Падрабязнасьці вашага заданьня вы даведаецеся па прыбыцьці ў самога Куучы фон Ючы.
+
+Ад імя ўраду нашай плянэты дадам, што калі вы справіцеся з гэтым заданьнем і не пазьней за <Date> вернецеся з дакладам на <FromPlanet>, то атрымаеце ўзнагароду, годную такога вялікага рэйнджэра, як вы, <Ranger>."
 "/quests/Drugs.qmm/locations/0/texts/0/text"	"Пока ваш корабль приземлялся в порту планеты, вас неотступно преследовала мысль: ""Какого черта я вообще сюда поперся? Терять свое драгоценное время на какого-то пеленга... Еще неизвестно, что он от меня потребует... Надо быть все время настороже"".
 
 Как всегда на пеленгских планетах, вам пришлось вытерпеть неимоверно занудную и утомительную процедуру таможенного досмотра. В течение нескольких часов вас просвечивали, прослушивали, прощупывали, пронюхивали множество сурового вида пеленгов в форме государственных служащих. После этого еще большее количество пеленгов изучали ваши документы с помощью всех мыслимых и немыслимых приборов, назначение некоторых из них вы не смогли определить даже приблизительно. И, наконец, после всего этого кошмара вас заставили заполнять ворох всевозможных анкет, содержащих огромное количество вопросов самого разного содержания (в том числе и весьма нескромных).
 
-Наконец, когда вы уже были готовы разнести сие заведение на мелкие кусочки и убраться подальше с этой дрянной планетишки, наплевав на задание и на всех пеленгов вместе взятых, таможенная процедура закончилась. Вы собрались выйти из здания космопорта под немилосердно жарящее солнце планеты <ToPlanet>."	"Quest Drugs.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+Наконец, когда вы уже были готовы разнести сие заведение на мелкие кусочки и убраться подальше с этой дрянной планетишки, наплевав на задание и на всех пеленгов вместе взятых, таможенная процедура закончилась. Вы собрались выйти из здания космопорта под немилосердно жарящее солнце планеты <ToPlanet>."	"Quest Drugs.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	"Пакуль ваш карабель прызямляўся ў порце плянэты, вас неадступна перасьледавала думка: «Якога чорта я ўвогуле сюды папёрся? Траціць свой каштоўны час на нейкага пеленга... Яшчэ невядома, чаго ён ад мяне запатрабуе... Трэба ўвесь час быць насьцярозе».
+
+Як заўсёды на пеленгскіх плянэтах, вам давялося вытрываць неверагодна нудную і стомную працэдуру мытнага дагляду. На працягу некалькіх гадзінаў вас прасьвятлялі, праслухоўвалі, прашчупвалі, пранюхвалі мноства суровага выгляду пеленгаў у мундзірах дзяржаўных служачых. Пасьля гэтага яшчэ большая колькасьць пеленгаў вывучала вашы дакумэнты з дапамогай усіх магчымых і немагчымых прыладаў, прызначэньне некаторых зь іх вы ня здолелі вызначыць нават прыблізна. І, нарэшце, пасьля ўсяго гэтага кашмару вас прымусілі запаўняць стос усялякіх анкетаў, якія зьмяшчалі вялізную колькасьць пытаньняў самага рознага зьместу (у тым ліку і вельмі нясьціплых).
+
+Нарэшце, калі вы ўжо былі гатовыя разьнесьці гэтую ўстанову на дробныя кавалкі і забрацца далей з гэтай паганай плянэты, напляваўшы на заданьне і на ўсіх пеленгаў разам узятых, мытная працэдура скончылася. Вы сабраліся выйсьці з будынка касмапорта пад нялітасьціва пякучае сонца плянэты <ToPlanet>."
 "/quests/Drugs.qmm/locations/1/texts/0/text"	"Не успели вы выйти из здания космопорта, как услышали за спиной тихий свистящий шепот.
 
 - Здравствуйте, дорогой рейнджер <Ranger>.
@@ -130,24 +140,50 @@
 
 Говоря все это, пеленг не переставал низко кланяться и заискивающе вам улыбаться.
 
-""К чему бы это? - подумали вы. - С какой стати этому пеленгу так унижаться передо мной? Ох, что-то тут не чисто. Может быть, пора сваливать отсюда, пока не поздно?.."""	"Quest Drugs.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+""К чему бы это? - подумали вы. - С какой стати этому пеленгу так унижаться передо мной? Ох, что-то тут не чисто. Может быть, пора сваливать отсюда, пока не поздно?.."""	"Quest Drugs.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	"Не пасьпелі вы выйсьці з будынка касмапорта, як пачулі за сьпінай ціхі сьвісьцячы шэпт.
+
+— Добры дзень, дарагі рэйнджэр <Ranger>.
+
+Абярнуўшыся, вы ўбачылі старога згорбленага пеленга з мэталічным пратэзам замест адной з рук, які нячутна падышоў да вас ззаду.
+
+— Спадар Кууча фон Юча даўно чакае вас, — працягнуў пеленг, нізка пакланіўшыся вам.
+
+— Прашу вас, хадзіце за мной. Я адвязу вас да майго спадара. Там вас чакае раскошная вячэра ў таварыстве Куучы фон Ючы, пасьля якой вы можаце адпачыць з дарогі ў адмыслова для вас прыгатаваных пакоях.
+
+Кажучы ўсё гэта, пеленг не пераставаў нізка кланяцца і лісьліва вам усьміхацца.
+
+«Да чаго б гэта? — падумалі вы. — З якой нагоды гэтаму пеленгу так прыніжацца перада мной? Ох, нешта тут нячыста. Можа, пара змывацца адсюль, пакуль не позна?..»"
 "/quests/Drugs.qmm/locations/2/texts/0/text"	"Выйдя из здания больницы, вы отправились в космопорт. Ваш корабль ожидал вас в том же месте, где вы его и оставили. 
 
 Вы подумали: ""Впредь буду умнее, не стану с готовностью хвататься за любое дело, предложенное правительствами планет. Интересно, кстати, что было бы со мной, <clr>если бы я не заснул<clrEnd> - удалось бы мне выбраться из особняка или нет? А <clr>если бы я сбежал из машины<clrEnd> в самом начале, удалось бы мне как-нибудь выполнить задание?.."" 
 
-Разумеется, отвечать на все эти вопросы было некому, и вы решили не забивать себе голову подобными пустяками. Ведь вам еще надо успеть доставить документы на планету <FromPlanet> не позднее <Date>."	"Quest Drugs.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+Разумеется, отвечать на все эти вопросы было некому, и вы решили не забивать себе голову подобными пустяками. Ведь вам еще надо успеть доставить документы на планету <FromPlanet> не позднее <Date>."	"Quest Drugs.qmm: locations.2.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	"Выйшаўшы з будынка бальніцы, вы адправіліся ў касмапорт. Ваш карабель чакаў вас у тым самым месцы, дзе вы яго і пакінулі.
+
+Вы падумалі: «Надалей буду разумнейшы, ня стану ахвотна хапацца за любую справу, прапанаваную ўрадамі плянэтаў. Цікава, дарэчы, што было б са мной, <clr>калі б я не заснуў<clrEnd> — ці ўдалося б мне выбрацца з асабняка, ці не? А <clr>калі б я ўцёк з машыны<clrEnd> на самым пачатку, ці ўдалося б мне неяк выканаць заданьне?..»
+
+Вядома, адказваць на ўсе гэтыя пытаньні было няма каму, і вы вырашылі не забіваць сабе галаву падобнымі дробязямі. Бо вам яшчэ трэба пасьпець даставіць дакумэнты на плянэту <FromPlanet> не пазьней за <Date>."
 "/quests/Drugs.qmm/locations/2/texts/1/text"	"Заплатив пеленгу требуемую сумму, вы выхватили из его рук лекарство и быстро выпили его. Постояв некоторое время, вы почувствовали, что вам становится лучше. Вы хотели было поблагодарить пеленга, но его уже рядом не было. Решив, что с вас хватит приключений, вы отправились в космопорт. Ваш корабль ожидал вас в том же месте, где вы его и оставили. 
 
 Вы подумали: ""Впредь буду умнее, не стану с готовностью хвататься за любое дело, предложенное правительствами планет. Интересно, кстати, что было бы со мной, <clr>если бы я не заснул<clrEnd> - удалось бы мне выбраться из особняка или нет? А <clr>если бы я сбежал из машины<clrEnd> в самом начале, удалось бы мне как-нибудь выполнить задание?.."" 
 
-Разумеется, отвечать на все эти вопросы было некому, и вы решили не забивать себе голову подобными пустяками. Ведь вам еще надо успеть доставить документы на планету <FromPlanet> не позднее <Date>."	"Quest Drugs.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+Разумеется, отвечать на все эти вопросы было некому, и вы решили не забивать себе голову подобными пустяками. Ведь вам еще надо успеть доставить документы на планету <FromPlanet> не позднее <Date>."	"Quest Drugs.qmm: locations.2.texts.1.text. Preserve every <tag> exactly."	"Quest,Drugs"	"Заплаціўшы пеленгу патрэбную суму, вы выхапілі зь яго рук лекі і хутка выпілі іх. Пастаяўшы нейкі час, вы адчулі, што вам робіцца лепей. Вы хацелі былі падзякаваць пеленгу, але яго ўжо побач не было. Вырашыўшы, што з вас хопіць прыгодаў, вы адправіліся ў касмапорт. Ваш карабель чакаў вас у тым самым месцы, дзе вы яго і пакінулі.
+
+Вы падумалі: «Надалей буду разумнейшы, ня стану ахвотна хапацца за любую справу, прапанаваную ўрадамі плянэтаў. Цікава, дарэчы, што было б са мной, <clr>калі б я не заснуў<clrEnd> — ці ўдалося б мне выбрацца з асабняка, ці не? А <clr>калі б я ўцёк з машыны<clrEnd> на самым пачатку, ці ўдалося б мне неяк выканаць заданьне?..»
+
+Вядома, адказваць на ўсе гэтыя пытаньні было няма каму, і вы вырашылі не забіваць сабе галаву падобнымі дробязямі. Бо вам яшчэ трэба пасьпець даставіць дакумэнты на плянэту <FromPlanet> не пазьней за <Date>."
 "/quests/Drugs.qmm/locations/3/texts/0/text"	"Не успели вы устроиться на заднем сиденье мрачного болотного цвета машины, как послышался негромкий щелчок сработавших блокираторов дверей. Кроме того, вы сразу же обратили внимание на то обстоятельство, что место водителя оказалось отгороженным от пассажирского крепким стеклом и металлической сеткой.
 
 ""Похоже на тюремный блок, который я видел когда-то у малоков, - нервно подумали вы. - Сейчас, пока старый пеленг возится с машиной, у меня еще есть возможность сбежать. Дальше такой возможности может и не представиться..."" 
 
 Оказавшись на свободе, вы смогли бы действовать самостоятельно. С другой стороны, оставшись в машине, вы безо всяких сложностей попали бы в особняк Куучи. Если ваши подозрения беспочвенны, то таким образом вы легко выполните задание. В случае же, если они имеют под собой основания, вы сможете ближе подобраться к предполагаемым преступникам. 
 
-Ваши действия:"	"Quest Drugs.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	""
+Ваши действия:"	"Quest Drugs.qmm: locations.3.texts.0.text. Preserve every <tag> exactly."	"Quest,Drugs"	"Не пасьпелі вы ўладкавацца на заднім сядзеньні машыны змрочнага балотнага колеру, як пачуўся нягучны пстрык дзьвярных фіксатараў. Акрамя таго, вы адразу ж зьвярнулі ўвагу на тое, што месца кіроўцы аказалася адгароджаным ад пасажырскага моцным шклом і мэталічнай сеткай.
+
+«Падобна на турэмны корпус, які я некалі бачыў у малокаў, — нэрвова падумалі вы. — Цяпер, пакуль стары пеленг поркаецца з машынай, у мяне яшчэ ёсьць магчымасьць уцячы. Далей такой магчымасьці можа і не трапіцца...»
+
+Апынуўшыся на волі, вы змаглі б дзейнічаць самастойна. Зь іншага боку, застаўшыся ў машыне, вы без усялякіх складанасьцяў трапілі б у асабняк Куучы. Калі вашы падазрэньні беспадстаўныя, то такім чынам вы лёгка выканаеце заданьне. Калі ж яны маюць пад сабой падставу, вы зможаце бліжэй падступіцца да меркаваных злачынцаў.
+
+Вашы дзеяньні:"
 "/quests/Drugs.qmm/locations/4/texts/0/text"	"""Что это вдруг на меня нашло? - подумали вы. - Видимо, сказывается усталость после всех этих таможенных процедур!"" 
 
 Поразмыслив над этим вопросом еще некоторое время, вы немного успокоились и, откинувшись на спинку кресла, задремали, решив, что в любом случае неплохо бы немного отдохнуть. 
