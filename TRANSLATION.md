@@ -173,5 +173,9 @@ PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
 - `qa_baseline.txt` holds rejected-form rows that predate the check. Fix a
   row and delete it from the file; never add rows. A real new exception goes
   into `TERMBASE.tsv` instead.
-- `spell_check.py --gate` fails on any token not in `spell_allow.txt`. Fix the
-  spelling, or after a Starnik check run `--accept` and review the diff.
+- `spell_check.py --gate` fails on any token not in `spell_allow.txt`. A hit
+  is a question, not a patch: hunspell lacks some correct forms (`аб'екта`,
+  genitive of a concrete noun, is fine). Check the form in Starnik and the
+  sense in the Russian line before changing it; run `--accept` only for words
+  that survive that, and review the diff. `SLIPS` in `qa_translation.py`
+  holds spelling rules that are true in every context, nothing else.

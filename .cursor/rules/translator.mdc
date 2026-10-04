@@ -32,6 +32,8 @@ File order and commit rhythm are in "Order of work" in `TRANSLATION.md`.
 4. `python3 qa_translation.py --fix`, then `python3 qa_translation.py`
    must print `hard failures: 0`. Do not add rows to `qa_baseline.txt`.
 5. `PYTHONPATH=. .venv/bin/python spell_check.py --file <File> --gate`. Fix
-   real misspellings. Only a word you checked in Starnik may go in with
+   real misspellings: a hit is a question, not a patch (hunspell lacks some
+   correct forms), so check the form in Starnik and the sense in the Russian
+   line before replacing anything. Only a word you checked in Starnik may go in with
    `--accept --file <File>`; read the `spell_allow.txt` diff before you commit.
 6. `python3 validate_corpus.py`, then commit and push the batch.
