@@ -19,13 +19,13 @@ Reuse a locked term. Do not invent a second pipeline.
 5. `qa_translation.py` — numbers, `<format>` cell widths, tarask slips
    (`з'яв-` is `зьяв-`, `вашая` is `ваша`), and rejected termbase forms in any
    row not listed in `qa_baseline.txt`. Fails CI. See "LLM batches".
-6. `crowdin_sync.py check` — corpus ids, source text, and quest round-trip.
+6. `corpus_data.py check` — corpus ids, source text, and quest round-trip.
 7. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
-`STYLE.md` and `ORTHO.md` are the language rules. `CROWDIN.md` is where the
-`be` cell is supposed to be edited once Crowdin is the source of truth.
-Formulas are not in the TSV (`formula`, `expression`, `formula_to_pass` in
-`crowdin_sync.py`). Leave them alone.
+`STYLE.md` and `ORTHO.md` are the language rules. Edit the `be` cell in
+`corpus/`; that tree is the source of truth. Formulas are not in the TSV
+(`formula`, `expression`, `formula_to_pass` in `corpus_data.py`). Leave them
+alone.
 
 ## What the quest engine actually checks
 
@@ -158,7 +158,7 @@ One batch is one file, about 50 unique sources:
 
 ```bash
 python3 qa_translation.py --batch Moi.qmm -n 50   # input for the model
-# model writes the be cells into crowdin/quests/Moi.qmm.tsv
+# model writes the be cells into corpus/quests/Moi.qmm.tsv
 python3 qa_translation.py --fix                   # tarask slips + copy to rows with the same source
 python3 qa_translation.py                         # hard checks, must print 0 failures
 PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate

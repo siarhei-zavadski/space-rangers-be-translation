@@ -20,7 +20,7 @@ from collections import Counter, defaultdict
 import re
 import sys
 
-from validate_corpus import CONTROL, CORPUS_DIRS, CROWDIN, FIELDS, ROOT, read_rows
+from validate_corpus import CONTROL, CORPUS, CORPUS_DIRS, FIELDS, ROOT, read_rows
 
 CELL = re.compile(r"<format=(?:left|center|right),(\d+)>(.*?)</format>", re.S)
 SLIPS = (  # always wrong in be-tarask (hunspell rejects them; the prefix softens)
@@ -124,7 +124,7 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=10, help="examples per report")
     args = parser.parse_args()
 
-    files = {p: read_rows(p) for d in CORPUS_DIRS for p in sorted((CROWDIN / d).glob("*.tsv"))}
+    files = {p: read_rows(p) for d in CORPUS_DIRS for p in sorted((CORPUS / d).glob("*.tsv"))}
     if args.batch:
         batch(files, args.batch, args.n)
         return 0

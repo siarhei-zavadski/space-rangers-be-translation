@@ -7,16 +7,15 @@ This project builds a Belarusian localization mod for **Space Rangers HD: A War 
 Authoritative project files:
 
 - `build_test_mod.py` — proven DAT/GI/PKG build and structural checks.
-- `crowdin/{lang_dat,quests,robots,assets}/*.tsv` — game-structured Crowdin
-  source and build input.
-- `crowdin/coverage.json` — exhaustive translatable/excluded source manifest.
-- `crowdin_sync.py` / `CROWDIN.md` — regenerate, validate, and sync the corpus.
+- `corpus/{lang_dat,quests,robots,assets}/*.tsv` — game-structured translation
+  source and build input. The repository is the source of truth.
+- `corpus/coverage.json` — exhaustive translatable/excluded source manifest.
+- `corpus_data.py` — regenerate and validate the corpus.
 - `TERMBASE.tsv` — canonical terminology. Reuse exact terms.
 - `STYLE.md` — language and presentation rules.
 - `ORTHO.md` — classical Belarusian (`be-tarask`) spelling policy.
 - `TRANSLATION.md` — per-line procedure and quest puzzles that break if rewritten.
 - `FONT.md` — menu-image font and license.
-- `PLAN.md` — wider project scope.
 
 Do not infer the current workflow from old forum guides. Use the build script and this file.
 
@@ -43,14 +42,14 @@ BlockParEditor, SRResEditor, and TGE are not required for the current UI flow. T
 Run from project root:
 
 ```bash
-.venv/bin/python crowdin_sync.py check
+.venv/bin/python corpus_data.py check
 .venv/bin/python build_test_mod.py
 ```
 
 The build:
 
 1. Opens vanilla `CFG/Eng/Lang.dat` and `CFG/Rus/Lang.dat`.
-2. Reads completed Belarusian rows from the split Crowdin corpus and patches
+2. Reads completed Belarusian rows from the corpus and patches
    both language files, translated quests, planetary-battle strings, and GI
    labels.
 3. Reads Russian main-menu `.gi` assets from `DATA/russian.pkg`.
@@ -153,7 +152,7 @@ Packages {
 
 ```bash
 .venv/bin/python validate_corpus.py
-PYTHONPATH=. .venv/bin/python crowdin_sync.py check
+PYTHONPATH=. .venv/bin/python corpus_data.py check
 PYTHONPATH=. .venv/bin/python spell_check.py
 PYTHONPATH=. .venv/bin/python spell_check.py --file Ski.qmm --gate
 python3 qa_translation.py --fix && python3 qa_translation.py
@@ -184,7 +183,7 @@ Runtime `Lang.dat` is UTF-16. Vanilla AFT has `'`, `i`, `у`, but not `і`/`ў`/
 
 ## Cursor Cloud specific instructions
 
-Cloud Agents do not have the Steam game install. `build_test_mod.py` and `crowdin_sync.py check` need `~/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart` and cannot run here. Do not commit game binaries.
+Cloud Agents do not have the Steam game install. `build_test_mod.py` and `corpus_data.py check` need `~/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart` and cannot run here. Do not commit game binaries.
 
 Without the game, prove the toolchain with:
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Spell-check every filled Crowdin `be` cell with local be_BY@tarask hunspell.
+"""Spell-check every filled corpus `be` cell with local be_BY@tarask hunspell.
 
 One hunspell process on unique tokens. Tags, formulas, and Latin are stripped.
 """
@@ -13,7 +13,7 @@ import subprocess
 from collections import Counter
 from pathlib import Path
 
-from crowdin_sync import CONTROL, PROJECT, all_rows
+from corpus_data import CONTROL, PROJECT, all_rows
 
 DICT = "be_BY@tarask"
 WORD = re.compile(r"[А-Яа-яЁёІіЎўҐґ']+", re.UNICODE)

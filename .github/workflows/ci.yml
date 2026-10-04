@@ -27,7 +27,7 @@ jobs:
       - name: Compile project scripts
         run: python -m py_compile ./*.py
 
-      - name: Validate Crowdin corpus
+      - name: Validate corpus
         run: python validate_corpus.py
 
       - name: Check translated rows
