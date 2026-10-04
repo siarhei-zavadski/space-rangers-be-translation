@@ -187,7 +187,7 @@ lemma.liner	лайнер	liner	лайнэр		passenger ship class; already FormR
 lemma.diplomat	дипломат	diplomat	дыплямат		ship class + person; already FormRuins	hunspell-be-tarask
 lemma.flagship	флагман	flagship	флягман		already FormRuins флягмана	hunspell-be-tarask
 lemma.battleship	линкор	battleship	лінкар	лінкор	short UI for лінейны карабель. hunspell лінкар; Starnik both	https://starnik.by/pravapis/39589
-lemma.hauler	дальнобойщик	hauler	дальнабойшчык/дальнабойшчыка/дальнабойшчыкі		People transport class; long-haul driver joke. G дальнабойшчыка; N pl дальнабойшчыкі	https://starnik.by/pravapis/21860
+lemma.hauler	дальнобойщик	hauler	дальнабойшчык/дальнабойшчыка/дальнабойшчыкі/дальнабойшчыкам		People transport class; long-haul driver joke. G дальнабойшчыка; N pl дальнабойшчыкі; I дальнабойшчыкам	https://starnik.by/pravapis/21860
 lemma.dominion	доминион	dominion	дамініён		pirate CB station; already FormRuins	—
 lemma.consul	консул	consul	консул		People diplomat hull	hunspell-be-tarask
 lemma.corsair	корсар	corsair	карсар	корсар	sea robber + pirate hull (Starnik). G карсара; already FormGameSet2	https://starnik.by/pravapis/34073
@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра		equipment lock; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/Лязэр		equipment lock; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -1335,7 +1335,7 @@ lemma.image_maker	имиджмейкер	image maker	іміджмэйкер	ім
 lemma.merriment	веселье	merriment	весялосьць/весялосьці	весялосць	hunspell spelling	https://starnik.by/pravapis/14095
 lemma.old_gink	Олд Хрыч	Old Gink	Олд/Хрыч		human journalist; Russian pun on хрыч	Election.qmm
 lemma.slavik	Славик Шустренький	Harvard Scorn	Славік/Славікам/Шусценькі/Шусценькім		talk-show host; Russian pun on шустрый	Election.qmm
-lemma.business_adj	деловой	business	справавы/справавым/справавога/справавыя/Справавы/справавіта	дзелавы	business suit; hunspell lacks the lemma	https://starnik.by/pravapis/151403
+lemma.business_adj	деловой	business	справавы/справавым/справавога/справавыя/Справавы/справавіта/справавымі	дзелавы	business suit; hunspell lacks the lemma; I pl справавымі	https://starnik.by/pravapis/151403
 lemma.cheer	болеть за команду	cheer	заўзець/заўзелі	балець	support a team; hunspell lacks the lemma	https://starnik.by/pravapis/182581
 lemma.jim_hakker	Джим Хаккер	Jim Hakker	Джым/Хакер		computer-games journalist	Election.qmm
 lemma.noo_pasaran	Ноо Пасаран	Noo Pasaran	Ноо/Пасаран		gaal professor; pun on No pasarán	Election.qmm
@@ -2041,3 +2041,11 @@ lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
 lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
 lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
 lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
+lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта		coined beast; frightened comparison in the department	—
+lemma.verpenchekrak	верпенчекряк	verpenchecrak	вэрпэнчэкрак		coined night-park beast; пэнчэкрак already	—
+lemma.haapt_balls	Шарики Хаапта	Haapt balls	Шарыкі/Хаапта/Хаапт		street-mugger password; Хаапт is the name	—
+lemma.windows	Виндовс	Windows	Віндоўс		shelf title; the letter is on Усталяваньне	—
+lemma.unforced	непринужденный	unforced	нязмушаны/нязмушаным		casual motion; hunspell lacks the lemma	https://starnik.by/pravapis/131833
+lemma.beginner	начинающий	beginner	пачатковец/пачаткоўцаў		G pl пачаткоўцаў; hunspell shortens it	https://starnik.by/pravapis/54524
+lemma.eyesight_measure	глазомер	eye measure	вакамер	вокамер	Starnik has both; hunspell accepts вакамер	https://starnik.by/pravapis/12996
+lemma.revolver	револьвер	revolver	рэвальвер/рэвальвера		energy revolver; hunspell lacks the lemma	https://starnik.by/pravapis/65552
