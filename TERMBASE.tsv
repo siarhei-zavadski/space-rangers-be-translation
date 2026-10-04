@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам/фэянка/фэяначкі		Coalition race; diminutive фэяшкі; song фэянка/фэяначкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам/фэянка/фэяначкі/фэянску		Coalition race; diminutive фэяшкі; song фэянка/фэяначкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -1918,7 +1918,7 @@ lemma.merry	весело	merrily	вясёла		adverb; Starnik; hunspell wants �
 lemma.predatory	хищно	predatorily	Драпежна/драпежна		adverb of драпежны; Starnik; hunspell has the adjective only	https://starnik.by/pravapis/223652
 lemma.body_move	телодвижение	body movement	целарух/целарухі		Starnik; hunspell splits it	https://starnik.by/pravapis/82654
 lemma.boss_around	раскомандоваться	to boss people around	раскамандаваўся		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/210111
-lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words	https://starnik.by/pravapis/47325
+lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем/недаразуменьне		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words	https://starnik.by/pravapis/47325
 lemma.rest_pun	доупокоенный	additionally laid to rest vs unrested	даўпакоены/няўпакоены		the доупокоенный/неупокоенный pun; Starnik упокоіць/упакоіць/няўпакоены NONE; hunspell wants another word	—
 lemma.texture	текстура	texture	тэкстур		genitive plural of тэкстура; the skybox joke; Starnik; hunspell wants other forms	https://starnik.by/pravapis/76906
 lemma.herbarium	гербарий	herbarium	гербарый/гербарыя		Starnik; hunspell does not know the genitive	https://starnik.by/pravapis/19015
@@ -1959,3 +1959,14 @@ lemma.elevated_rail	надземка	elevated rail	надземка/надзем
 lemma.there_adj	тамошний	of that place	тамтэйшага		Starnik тамтэйшы; hunspell wants тутэйшы, a different word	https://starnik.by/pravapis/153935
 lemma.kungfu	кунг-фу	kung fu	кунфу		the film joke, one token; not in Starnik	—
 lemma.ringleader	главарь	ringleader	верхавод/верхаводы/верхаводам		gang leader; Starnik верхавод	https://starnik.by/pravapis/14014
+lemma.klizma_kit	КЛИЗМА	the medkit initials	Крывяаднаўляльная/Імунагенная		the acronym stays КЛІЗМА; Starnik імунагенны; the крывя- compound is coined	https://starnik.by/pravapis/115598
+lemma.protobubble	протопузырь	marinated proto-bubble	Протапузыр/протапузыр		the pizzeria dish; coined; hunspell wants another word	—
+lemma.cocktail_yell	Ухйооо	the bar yell	Ухйооо/Ухйоооооо		keep the й; do not respell it to ё	—
+lemma.toomi	Тооми	the wounded gaal	Тоомі		a proper name; hunspell wants another name	—
+lemma.saal_yer	Сааль Ер-Ри	the Lost Dream bar	Сааль/Ры		the sign; Ер passes hunspell; Ры is the name fragment	—
+lemma.thompson	Томпсон	Thompson gun	Томпсана		the peleng's name for the gun; hunspell wants another word	—
+lemma.kaa_loo	Каа-Лоо'Дэ	gaal swear	Лоо'Дэ		keep the apostrophe; Каа is already in lemma.door_gibber	—
+lemma.yerm_achel	Ерм-ашель	the snack	Ерм/ашэль		the hyphenated dish; hunspell wants other words	—
+lemma.vibroknife	вибронож	vibroknife	вібранож/вібранажа		Starnik; not the вібралязо of lemma.vibroblade	https://starnik.by/pravapis/14245
+lemma.gaal_woman	гаалица	gaal woman	гааліца		feminine of гаалец; not in Starnik	—
+lemma.little_folk	людишки	contemptible little people	людзішкі		the peleng's insult; hunspell wants a different word	—
