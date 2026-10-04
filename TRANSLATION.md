@@ -130,12 +130,18 @@ word is longer than `N`.
 Lines that only mention a puzzle (`головоломка`, a shipment, a failed guess
 such as Mafia’s `Пассворд` / `Parol`) are ordinary prose.
 
+**`Drugs.qmm`** (filled). Two locks, both already translated.
+
+- The cipher the player enters stays `16, 13, 18, 1, 17, 30`. Those numbers are the Russian alphabet with ё, and they spell `Пароль`. The status line stays `Пароль: Пароль`. The Belarusian alphabet would yield a different letter.
+- Door signs: `Два разумнікі`, `Чалавечае дзіцянё`, `Трое сяброў` with `казлоў` painted over `сяброў`, `Выхад`, `Малок, які выбухае`. The combined jump is `Трое сяброў-казлоў`. Suspects stay крамнік `Х-Люп`, прыбіральнік `Гразія`, кухар `Ці-На`.
+- Locations `138.0` and `138.1` are the binary-lock diagram. The `{…}` formulas stay byte-identical. The suffix `[p11]<clr>-ю<clrEnd>` stays. The labels are `Табло` (5) and `Бакавая кнопка` (14, the same width as `Боковая кнопка`). The label line is 102 characters.
+
 ## Order of work
 
 `validate_corpus.py` lists the incomplete files. Take them in this order,
 one file at a time, until its `--batch` prints nothing:
 
-1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia`, `Drugs`.
+1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia` (filled), `Drugs` (filled).
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia`, `Colonization`, `Rvk`, `Proprolog`, `Kiberrazum`.
 3. Puzzle files, smallest first: `Elus`, `Edelweiss`, `Doomino`, `Bomber`,

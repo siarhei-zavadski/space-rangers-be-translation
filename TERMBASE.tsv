@@ -771,12 +771,12 @@ lemma.osya	Ося Б.	Osya B.	Ося/Осі		Ostap Bender parody; the novel is 1
 lemma.linerist	лайнеристы-пиктористы	linerist-pictorist	лайнэрысты/піктарысты		joke job after the failed auction	Park.qmm
 lemma.yagusya	Бабуся-Ягуся	Granny Yagusya	Бабуля/Ягуся	Бабуся	cute rhyme on Баба-Яга; hunspell бабуля	Park.qmm
 lemma.sivka	Сивка-Бурка	Sivka-Burka	Сіўка/Бурка/Каурка/Вешчы		horse spell; Вешчы Каурка	Park.qmm
-lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра		door spell split as Абра - Кадабра	Park.qmm
-lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/Скарыкі/Морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word	Park.qmm
+lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра/кадабра		door spell split as Абра - Кадабра	Park.qmm
+lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/чуфара/Скарыкі/Морыкі/скорыкі/морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word; Drugs says скорики морики	Park.qmm
 lemma.biochip	биочип	biochip	біячып/біячыпы		dragon nerves joke; hunspell lacks the compound	Park.qmm
 lemma.perperdon	Перпердон-пардон	Perperdon-pardon	Перпердон/пардон		galaxy couturier joke	Park.qmm
 lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў/ё		joke people; ё is a syllable of their battle cry	Park.qmm
-lemma.cell	ячейка	cell	ячка/ячку/ячкі/ячкамі/ячцы	ячэйка	password slot; hunspell suggestions are nonsense	https://starnik.by/pravapis/88466
+lemma.cell	ячейка	cell	ячка/ячку/ячкі/ячкамі/ячцы/ячках	ячэйка	password slot; hunspell suggestions are nonsense	https://starnik.by/pravapis/88466
 lemma.biotic	биотический	biotic	біятычны/біятычныя/біятычнымі/біятычных		park computers and generators; hunspell suggestions are the wrong compounds	Park.qmm
 lemma.rainbow	РЭЙНБОУ	rainbow hint	РЭЙНБОУ/И		cave password; Latin RAINBOW stays; И is the mirrored glyph for N, not Belarusian І	Park.qmm
 lemma.kakatreba	Какатреба	Kakatreba	Какатрэба		banquet pills; hunspell suggestions are unrelated	Park.qmm
@@ -1340,7 +1340,7 @@ lemma.cheer	болеть за команду	cheer	заўзець/заўзелі
 lemma.jim_hakker	Джим Хаккер	Jim Hakker	Джым/Хакер		computer-games journalist	Election.qmm
 lemma.noo_pasaran	Ноо Пасаран	Noo Pasaran	Ноо/Пасаран		gaal professor; pun on No pasarán	Election.qmm
 lemma.linch	Линч	Linch	Лінч/Лінча/Лінчам		first president of the election planet	Election.qmm
-lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам		xenopark beast; clay belly	Drugs.qmm
+lemma.claybelly	глинобрюх	claybelly	глінабрух/глінабруха/глінабрухам/глінабруху		xenopark beast; clay belly; D глінабруху	Drugs.qmm
 lemma.clone	клонирование	cloning	клянаваньне/клянаваньня	кланаваньне	hunspell spelling; Starnik кланаванне	https://starnik.by/pravapis/35825
 lemma.udu_shill	Уду-Шилл	Strangl Lee	Уду/Шыл		peleng aide; English pun on strangle	Election.qmm
 lemma.masochist	мазохист	masochist	мазахіст/Мазахістаў/мазахістаў		hunspell lacks the lemma; mega-masochist sect	https://starnik.by/pravapis/40810
@@ -1880,7 +1880,7 @@ lemma.ratboar	крысокабан	rat-boar	пацукадзік/Пацукад�
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
 lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму/Вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
-lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
+lemma.ghoul	упырь	ghoul	вупар/вупары/вупара/вупараў/вупару/вупарам/вупарамі/вупарах/Вупары		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
 lemma.bellysaurus	брюхозавр	belly-saurus	брухазаўр/брухазаўру/брухазаўры		the sleepy joke dinosaur; hunspell wants архазаўр, another beast; G брухазаўру	—
@@ -2062,3 +2062,129 @@ lemma.winding	извилистый	winding	зьвілісты/зьвіліста
 lemma.into_distance	вдаль	into the distance	ўдалячынь/удалячынь		Starnik adverb удалячынь	https://starnik.by/pravapis/232515
 lemma.carry_sound	донестись	carry as a sound	данесціся/данёсся		past данёсся; hunspell lacks it	https://starnik.by/pravapis/176857
 lemma.obituary	некролог	obituary	нэкралёг	некралог	Starnik некралог, -а; hunspell wants э and ё	https://starnik.by/pravapis/47658
+lemma.account	счет	account	рахунак/рахунку		money balance; L рахунку	https://starnik.by/pravapis/64600
+lemma.room	комната	room	пакой		a room, including a quest room name	https://starnik.by/pravapis/51685
+lemma.secret	тайный	secret	таемны		hidden; a secret passage	https://starnik.by/pravapis/153799
+lemma.mansion	особняк	mansion	асабняк		a detached rich house	https://starnik.by/pravapis/6350
+lemma.inn	трактир	inn	карчма	тракцір	a drinking house with lodging	https://starnik.by/pravapis/34197
+lemma.boy	мальчик	boy	хлопчык			https://starnik.by/pravapis/82052
+lemma.exit_noun	выход	exit sign	выхад		noun on a door is Выхад; the menu verb Выйсьці stays valid	https://starnik.by/pravapis/16712
+lemma.password	пароль	password	пароль		Drugs cipher answer stays Пароль; the numbers are the Russian alphabet with ё	https://starnik.by/pravapis/53239
+lemma.cipher	шифр	cipher	шыфр			https://starnik.by/pravapis/86270
+lemma.keyword	ключевой	keyword	ключавы/ключавое		sense 1, related to a key	https://starnik.by/pravapis/119183
+lemma.youngster	детеныш	youngster	дзіцянё		human child on the joke door; Starnik lists дзіцяня and дзіцянё	https://starnik.by/pravapis/22806
+lemma.counter	счетчик	counter	лічыльнік			https://starnik.by/pravapis/39891
+lemma.matching	подбор	matching	падбор/падбору		sense 1 is the act of picking, G -у	https://starnik.by/pravapis/50253
+lemma.riddle	загадка	riddle	загадка			https://starnik.by/pravapis/26434
+lemma.bedroom	спальня	bedroom	спальня			https://starnik.by/pravapis/71038
+lemma.stiletto	стилет	stiletto	стылет			https://starnik.by/pravapis/72577
+lemma.pistol	пистолет	pistol	пісталет			https://starnik.by/pravapis/56814
+lemma.ammo_store	боезапас	ammunition store	боезапас/боезапасам		supply of ammunition; I боезапасам	https://starnik.by/pravapis/11106
+lemma.junk	барахло	junk	барахло		old household things, colloquial	https://starnik.by/pravapis/9186
+lemma.pillow	подушка	pillow	падушка			https://starnik.by/pravapis/51270
+lemma.camera	фотоаппарат	camera	фотаапарат			https://starnik.by/pravapis/80694
+lemma.rusty	ржавый	rusty	іржавы			https://starnik.by/pravapis/116178
+lemma.strange	странный	strange	дзіўны/дзіўнага			https://starnik.by/pravapis/109092
+lemma.landing	десантный	landing	дэсантны			https://starnik.by/pravapis/110565
+lemma.compose	составить	compose	скласьці	скласці	Starnik скласці; hunspell inserts ь	https://starnik.by/pravapis/213102
+lemma.decrypt	расшифровать	decrypt	расшыфраваць			https://starnik.by/pravapis/211532
+lemma.three_coll	трое	three	трое		collective numeral; the door label	https://starnik.by/pravapis/220880
+lemma.correctness	верность	correctness	слушнасьць	слушнасць	how right a match is; Starnik слушны, official noun слушнасць; hunspell wants ь	https://starnik.by/pravapis/150653
+lemma.ancient	древний	ancient	старажытны			https://starnik.by/pravapis/151816
+lemma.kitchen_adj	кухонный	kitchen	кухонны			https://starnik.by/pravapis/120401
+lemma.infinite	бесконечный	infinite	бясконцы/бясконцым			https://starnik.by/pravapis/100878
+lemma.transition	переход	transition	пераход/пераходы			https://starnik.by/pravapis/56043
+lemma.kuucha	Кууча	Kuucha	Кууча/Куучы/Куучу/Куучам/Юча/Ючы/Ючу/Ючам		peleng industrialist; G Куучы, D Куучу фон Ючу	Drugs.qmm
+lemma.hat	шляпа	hat	капялюш		the hat; Starnik шляпа is only the insult for a timid person	https://starnik.by/pravapis/33636
+lemma.boot	сапог	boot	бот		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
+lemma.uniform	мундир	uniform	мундзір		military or service dress	https://starnik.by/pravapis/44617
+lemma.guard	охранник	guard	ахоўнік		a person who guards	https://starnik.by/pravapis/7927
+lemma.wound	ранение	wound	раненьне	ранэнне	hunspell inserts ь; related паранены	https://starnik.by/pravapis/53045
+lemma.document	документ	document	дакумэнт/дакумэнты	дакумент	Starnik дакумент; hunspell wants э	https://starnik.by/pravapis/21776
+lemma.birth	рождение	birth	нараджэньне	нараджэнне	Starnik нараджэнне; hunspell inserts ь	https://starnik.by/pravapis/46054
+lemma.answer	ответ	answer	адказ			https://starnik.by/pravapis/2217
+lemma.account_report	отчет	report	справаздача/справаздачу			https://starnik.by/pravapis/71570
+lemma.briefing	доклад	briefing	даклад		sense 1, a spoken report	https://starnik.by/pravapis/21716
+lemma.gloy	Глой Нусс	Gloy Nuss	Глой/Глоя/Нус/Нуса		fei agent who left the note	Drugs.qmm
+lemma.grazia	Грязия	Grazia	Гразія/Гразію/Гразіі		cleaner in the slime riddle	Drugs.qmm
+lemma.fred_drugs	Фрэд	Fred	Фрэд/Фрэдам		the gaal in the friends' room	Drugs.qmm
+lemma.heili	Хэйли	Heili	Хэйлі		the exploding maloc's chant	Drugs.qmm
+lemma.riemann	Риман	Riemann	Рымана		the mathematician named in the fei argument	Drugs.qmm
+lemma.grubb	Грубб	Grubb	Грубб/Грубба		mad peleng mathematician in the lab	Drugs.qmm
+lemma.plengotherm	пленготерм	plengotherm	плэнгатэрм/плэнгатэрма/плэнгатэрмаў		coined distance in the claybelly hunt; not in Starnik	Drugs.qmm
+lemma.superglucose	суперглюковый	superglucose	суперглюковы		coined lab generator; not in Starnik	Drugs.qmm
+lemma.camouflage	маскировка	camouflage	маскіроўка		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/42058
+lemma.anteroom	предбанник	anteroom	сенцы		small entrance room of a house	https://starnik.by/pravapis/68728
+lemma.scum	сволочь	scum	сволач		spoken insult, an odious person	https://starnik.by/pravapis/68216
+lemma.freak	урод	freak	вырадак		a person who has lost sound qualities	https://starnik.by/pravapis/16386
+lemma.chamber	камера	chamber	камэра		isolated room; Starnik камера, hunspell wants э	https://starnik.by/pravapis/32501
+lemma.manuscript	рукопись	manuscript	рукапіс		a text written by hand	https://starnik.by/pravapis/65018
+lemma.drawer	ящик	drawer	шуфляда/шуфляды/шуфлядзе		desk drawer, sense 1	https://starnik.by/pravapis/85980
+lemma.telegraph	телеграф	telegraph	тэлеграф/Тэлеграфа		long-distance messages	https://starnik.by/pravapis/76975
+lemma.siren	сирена	siren	сырэна/сырэны		alarm apparatus, Starnik sense 4; hunspell ы	https://starnik.by/pravapis/69361
+lemma.dolt	олух	dolt	ёлуп/ёлупы		a dull person	https://starnik.by/pravapis/25299
+lemma.boar	боров	boar	кныр		male pig; the hog leaving his den	https://starnik.by/pravapis/36204
+lemma.compartment	блок	compartment	адсек/адсеку/адсекаў		isolated compartment; Starnik G -а, hunspell wants адсеку	https://starnik.by/pravapis/2783
+lemma.grobb_inn	Гробб	innkeeper Grobb	Гробб/Гробба		the innkeeper whose face is rotting; not the mathematician Грубб	Drugs.qmm
+lemma.ragamuffin	оборванец	ragamuffin	абарванец/абарванца		a person in rags; hunspell suggests other words	https://starnik.by/pravapis/138
+lemma.cough	кха	a cough	Кха/кха		onomatopoeia of a cough; not in Starnik	Drugs.qmm
+lemma.tipsy	подвыпивший	tipsy	падпіты/падпітых		slightly drunk; G pl падпітых	https://starnik.by/pravapis/133848
+lemma.fence	забор	fence	плот/плота/плоце	забор	a fence around a yard; the hole is лаз у плоце	https://starnik.by/pravapis/57348
+lemma.wasteland	пустырь	wasteland	пустэча/пустэчы/пустэчу		an empty lot, Starnik sense 3	https://starnik.by/pravapis/61770
+lemma.handkerchief	платок	handkerchief	насоўка/насоўку/насоўкі		a pocket handkerchief; хустка is the headscarf	https://starnik.by/pravapis/46306
+lemma.slaughterhouse	бойня	slaughterhouse	бойня/бойні		a place where animals are killed for meat	https://starnik.by/pravapis/11128
+lemma.snooping_mag	Шныряющие	snooping magazine	Пеленгі-шныпары/шныпары		the journalist magazine; Starnik verb is шныпарыць	https://starnik.by/pravapis/220242
+lemma.swamp_punch	Болотный удар	swamp punch	Балотны ўдар		the strong peleng drink	Drugs.qmm
+lemma.flower_shop	Цветочек	flower-shop sign	Кветачка		diminutive of кветка; the shop sign	https://starnik.by/pravapis/35034
+lemma.odds_shop	всячина	odds and ends	ўсячына/Усякая		the set phrase усякая ўсячына; the shop sign	https://starnik.by/pravapis/79020
+lemma.journalist	журналист	journalist	журналіст/журналіста			https://starnik.by/pravapis/25855
+lemma.transmitter	передатчик	transmitter	перадатчык/перадатчыка		a holographic transmitter	https://starnik.by/pravapis/55188
+lemma.permit	разрешение	permit	дазвол/дазволу		a special permit to buy a weapon	https://starnik.by/pravapis/21660
+lemma.leprosy	проказа	leprosy	праказа		the swamp disease the innkeeper names	https://starnik.by/pravapis/58702
+lemma.vaccine	прививка	vaccine	прышчэпка/прышчэпкі		inoculation against a planetary disease	https://starnik.by/pravapis/61076
+lemma.film	пленка	photographic film	плёнка/плёнку/плёнкі/плёнцы		a strip for photographs, sense 1	https://starnik.by/pravapis/57237
+lemma.oaf	остолоп	oaf	асталоп/асталопа/асталопаў		a dull person; not ёлуп	https://starnik.by/pravapis/6652
+lemma.binary	двоичный	binary code	двайковы/двайковага/двайковым/двайковых		base-two numeral; the lock shows a binary code	https://starnik.by/pravapis/108480
+lemma.gallows	виселица	gallows	шыбеніца/шыбеніцы/шыбеніцу		the hanging structure	https://starnik.by/pravapis/86162
+lemma.crutch	костыль	crutch	мыліца/мыліцу/мыліцы/мыліцах		an arm crutch, not the stick кульба	https://starnik.by/pravapis/44809
+lemma.extortion	вымогательство	extortion	вымагальніцтва		forcing money by a threat	https://starnik.by/pravapis/16082
+lemma.blackmail	шантаж	blackmail	шантаж/шантажаваць		a threat to reveal something	https://starnik.by/pravapis/84732
+lemma.henchman	прихвостень	henchman	клеўрэт/клеўрэты/клеўрэта/клеўрэтаў		a boss's creature; прихвостень is not a Starnik headword	https://starnik.by/pravapis/35936
+lemma.enclosure	ограда	enclosure	агароджа/агароджы/агароджу/агароджай		a fence around a mansion; the yard fence забор stays плот	https://starnik.by/pravapis/1549
+lemma.grish	Грышш	maloc name	Грышш		the scarred maloc who carries the peleng	Drugs.qmm
+lemma.wreck	развалина	wreck of a person	разваліна/разваліны/разваліну		an old broken-down person, sense 2	https://starnik.by/pravapis/63010
+lemma.folder	папка	folder	тэчка/тэчку/тэчцы		a folder of papers; hunspell suggests other words	https://starnik.by/pravapis/77531
+lemma.glock	Глок	guard name	Глок		the guard the other calls over; not in Starnik	Drugs.qmm
+lemma.drowsiness	дремота	drowsiness	дрымота/дрымоту		sleepiness, half-sleep; the Starnik example is перамагчы дрымоту	https://starnik.by/pravapis/23580
+lemma.log	чурбан	log	цурбан/цурбана	чурбан	a short log, and the insult for a clumsy person	https://starnik.by/pravapis/83000
+lemma.ironjunk	железяка	iron junk	жалязяка		a crude iron thing; hunspell rejects жалезяка, and that spelling is already in RobotsMap	https://starnik.by/pravapis/25526
+lemma.antidote	противоядие	antidote	супрацьядзьдзе/супрацьядзьдзя		a substance that weakens poison; Starnik супрацьяддзе, hunspell inserts ь	https://starnik.by/pravapis/73490
+lemma.hall	холл	hall	хол/холе/хола		a large non-residential room	https://starnik.by/pravapis/82186
+lemma.hunter	охотник	hunter	паляўнічы/паляўнічага/паляўнічым		a person who hunts	https://starnik.by/pravapis/52305
+lemma.smartass	умник	smart aleck	разумнік/разумнікі		ironic: one who thinks himself clever	https://starnik.by/pravapis/63556
+lemma.slip	бумажка	slip of paper	паперка/паперку/паперкі		a small piece of paper	https://starnik.by/pravapis/52714
+lemma.madness	безумие	madness	вар'яцтва		the state the drug pulls the ranger into	https://starnik.by/pravapis/13358
+lemma.cook	повар	cook	кухар		the suspect Ці-На	https://starnik.by/pravapis/38151
+lemma.shopkeeper	лавочник	shopkeeper	крамнік		the suspect Х-Люп	https://starnik.by/pravapis/36755
+lemma.cleaner_m	уборщик	cleaner	прыбіральнік		masculine cleaner; the suspect Гразія	https://starnik.by/pravapis/59927
+lemma.criminal	преступник	criminal	злачынец		the person who committed the theft	https://starnik.by/pravapis/29222
+lemma.child	ребенок	child	дзіцё/дзіцяці		neuter narrative child	https://starnik.by/pravapis/22804
+lemma.digit	цифра	digit	лічба/лічбу		a numeral; the answer digit	https://starnik.by/pravapis/39883
+lemma.female	самка	female	самка/самкі/самкай		a female animal	https://starnik.by/pravapis/67465
+lemma.male	самец	male	самец/самца		a male animal	https://starnik.by/pravapis/67459
+lemma.goat	козел	goat	казёл/казлоў		the animal; the word painted over сяброў	https://starnik.by/pravapis/31795
+lemma.condition	условие	condition	умова/умову		a problem's given condition	https://starnik.by/pravapis/78387
+lemma.famous	знаменитый	famous	знакаміты		widely known	https://starnik.by/pravapis/114777
+lemma.arrogant	надменный	arrogant	ганарысты/ганарыста		looks down on other people	https://starnik.by/pravapis/105142
+lemma.mumble	шамкать	mumble	шамкаць/прашамкаў		to speak unclearly	https://starnik.by/pravapis/219962
+lemma.scent	почуять	scent	учуць/учула		sense 3, catch by smell	https://starnik.by/pravapis/218671
+lemma.slip_out	выскользнуть	slip out	высьлізнуць/высьлізнулі		Starnik выслізнуць; hunspell inserts ь	https://starnik.by/pravapis/174408
+lemma.let_pass	пропустить	let pass	прапусьціць/прапусьці		let someone through; Starnik прапусціць, hunspell inserts ь	https://starnik.by/pravapis/205502
+lemma.shake_off	отряхнуться	shake off	абтрэсьціся		Starnik абтрэсціся; hunspell inserts ь	https://starnik.by/pravapis/166231
+lemma.detection	обнаружение	detection	выяўленьне/выяўленьня		Starnik выяўленне; hunspell inserts ь	https://starnik.by/pravapis/16885
+lemma.hour	час	hour	гадзіна/гадзіну		a unit of sixty minutes, not the viper	https://starnik.by/pravapis/17258
+lemma.nonce_spells	ахалай махалай	nonce spells	Ахалай/махалай/сясікі/масясікі/Крыблі/крабле/бумс		fake passwords the robot ignores; not dictionary words	Drugs.qmm
+lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		ordinal; Starnik чацвёрты, hunspell inserts ь	https://starnik.by/pravapis/161195
+lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
+lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
+lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
