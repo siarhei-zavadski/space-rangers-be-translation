@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -1088,7 +1088,7 @@ lemma.plasmobus	плазмобус	plasmobus	плазмобус/плазмобу
 lemma.site_mx	№7-МХ	site 7-MX	МХ		site code; Cyrillic М and Х stay byte-identical	Tourists.qmm
 lemma.akinak	акинак	akinakes	акінак/акінакі	асінак	Scythian short sword; not in Starnik	Tourists.qmm
 lemma.shuriken	сюрикен	shuriken	сюрыкэн/сюрыкэны	сюрпрыз	throwing star; not in Starnik	Tourists.qmm
-lemma.beamer	лучемет	ion beamer	прамянёмёт/прамянёмёта	лучамёт	ray gun; coined from прамень	https://starnik.by/pravapis/58919
+lemma.beamer	лучемет	ion beamer	прамянёмёт/прамянёмёта/прамянёмётам	лучамёт	ray gun; coined from прамень; I прамянёмётам	https://starnik.by/pravapis/58919
 lemma.coraller	Кораллер	Coraller	Каралер	Каралаў	coral island; coined from карал	https://starnik.by/pravapis/33725
 lemma.bachekvak	Бачеквак	Bachekvak	Бачэквак/Бачэквака		peleng name on the coffin	Tourists.qmm
 lemma.shasapus	Шасапус	Shasapus	Шасапус/Шасапуса		peleng commander	Tourists.qmm
@@ -1944,7 +1944,7 @@ lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма		the 
 lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng clan; keep the apostrophe	—
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
-lemma.lockpick_tool	взломщик	charged lockpick	узломнік		the tool with charges, not a burglar; hunspell splits it	—
+lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам		the tool with charges, not a burglar; hunspell splits it; I узломнікам	—
 lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
 lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
 lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
@@ -2014,3 +2014,10 @@ lemma.dreamwine	грезогонное	dream wine	грэзагоннае/Грэ�
 lemma.burp	Бурп	burp	Бурп		the sound after the cola	—
 lemma.minigolf	миниквазигольф	mini quasi-golf	мініквазігольф		the villa's lawn game; coined	—
 lemma.psychokinetic	психокинетический	psychokinetic	псыхакінэтычнага		illegal faeyan weapons; not in Starnik	—
+lemma.glider	глайдер	glider	глайдэр/Глайдэр/глайдэра/глайдэры/Глайдэры/глайдэраў/глайдэрам/глайдэрах		ground speeder; Starnik has no entry	—
+lemma.maloksha	малокша	maloq woman	малокша		feminine of малок; the floor cleaner	—
+lemma.hologenerator	галогенератор	hologenerator	галагенэратар		the desk hologram spinner; coined	—
+lemma.tactile	тактильный	tactile	тактыльны		the lockpick's touch sensor	https://starnik.by/pravapis/153865
+lemma.barbarian	варварский	barbarian	варварскі		the bank raid; hunspell lacks the adjective	https://starnik.by/pravapis/101560
+lemma.bashka	башка	noggin	Башка/башка		slang head in the gang slogan	https://starnik.by/pravapis/9536
+lemma.laay_toom	Лаай-Тоом	Laay-Toom	Лаай/Тоом		the gaal who recites the robbery poem	—
