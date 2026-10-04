@@ -145,7 +145,7 @@ lemma.relations	отношение	attitude/relations	адносіны		Starnik:
 lemma.node	нод	node	нод		game term; pl ноды, G нодаў; нод-рахунак	—
 lemma.micromodule	микромодуль	micromodule	мікрамодуль		pl мікрамодулі; built from nodes	—
 lemma.rank	звание	rank	званьне		G званьня; да званьня; воінскае званьне, not чин	classical -ньне
-lemma.afterburner	форсаж	afterburner	фарсаж		sense: фарсаж рухавіка (Starnik: паскарэнне працэсу); G фарсажу	https://starnik.by/pravapis/79635
+lemma.afterburner	форсаж	afterburner	фарсаж/фарсажах		sense: фарсаж рухавіка (Starnik: паскарэнне працэсу); G фарсажу; L pl фарсажах	https://starnik.by/pravapis/79635
 lemma.camouflage	камуфляж	camouflage	камуфляж		Starnik 1=paint-mask; 2=figurative cover. Game chameleon=holographic cloak, keep loan. G камуфляжу	https://starnik.by/pravapis/32771
 lemma.credit	кредит	loan	крэдыт		loan of money (not bookkeeping credit/debit). G крэдыту, L крэдыце	https://starnik.by/pravapis/37436
 lemma.deposit	депозит	deposit	дэпазыт	дэпазіт	bank deposit; G дэпазыту; adj дэпазытны. Official Starnik дэпазіт; tarask hunspell дэпазыт	hunspell-be-tarask
@@ -320,7 +320,7 @@ lemma.submodem	Сабмодем	Submodem	Сабмодэм		Terron plot program i
 lemma.lyakusha_title	Верховный Лякуша	Supreme Lyakusha	Вярхоўны Лякуша		peleng ruler; G Вярхоўнага Лякушы; company «Лякуша і карашы» already	—
 lemma.niobium	ниобий	niobium	ніобій		G ніобію; degradont skeleton mineral	—
 lemma.degradont	деградонт	degradont	дэградонт		giant niobium reptile; сьвінарылы дэградонт	—
-lemma.orbital_sat	спутник	orbital satellite	сатэліт		news/spy sats; hangar Satellite equipment stays спадарожнік	—
+lemma.orbital_sat	спутник	orbital satellite	сатэліт/сатэлітная/сатэлітнай/Сатэлітная		news/spy sats; hangar Satellite equipment stays спадарожнік; adj сатэлітны	https://starnik.by/pravapis/148643
 lemma.silent_ocean	Бесшумный океан	Silent Ocean	Бязьгучны акіян		RobotsMap/25 proper	—
 lemma.endoria_pride	Гордость Эндории	Pride of Endoria	Гордасьць Эндарыі		floating complex; keep quotes	—
 lemma.black_bill	Черный Билль	Black Bill	Чорны Біль		mutant-atoll name	—
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі		already Baron4; G блястэра	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя		already Baron4; G блястэра; N pl adj блястэрныя	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -1099,7 +1099,7 @@ lemma.bridgephobia	мостофобия	bridge phobia	мостафобія	фо�
 lemma.corridorphobia	коридофобия	corridor phobia	калідорафобія	фобія калідораў	coined fear after the labyrinth	Tourists.qmm
 lemma.hexagon	Гексагон	Hexagon	Гексагон/Гексагону	Гексаген	hexagonal government building; G Гексагону	https://starnik.by/pravapis/18699
 lemma.mengele	Менгеле	Mengele	Мэнгэле	Мэгрэле	the doctors the faeyans are compared to	Tourists.qmm
-lemma.popcorn	попкорн	popcorn	папкорн		snack the tourists chew on the bridge	https://starnik.by/pravapis/52746
+lemma.popcorn	попкорн	popcorn	папкорн/папкорну		snack the tourists chew on the bridge; G папкорну	https://starnik.by/pravapis/52746
 lemma.stereocamera	стереокамера	stereocamera	стэрэакамэра/стэрэакамэры	стэрэа камэра	peleng cameras; hunspell splits the compound	Tourists.qmm
 lemma.hussein	Хуссейн	Hussein	Хусейн/Хусейна/Хусейну/Хусейнам	Хусэйн	dictator in the desert name; G Хусейна D Хусейну I Хусейнам	https://starnik.by/pravapis/91248
 lemma.technico	Технико	Technico	Тэхніко	Тэхніка	star system name	Gaidnet.qmm
@@ -1509,7 +1509,7 @@ lemma.necril	некрил	necril	некрыл/некрылу/некрылавы/
 lemma.gravplatform	гравиплатформа	grav platform	гравіплятформа/гравіплятформу		platform that carries the new engine	Kidnapped.qmm
 lemma.varnish	лак	varnish	лак	ляк	Starnik varnish; hunspell ляк means fear	https://starnik.by/pravapis/38429
 lemma.spray	спрей	spray	Спрэй/спрэй		canister label; hunspell suggestions are unrelated	https://starnik.by/pravapis/71642
-lemma.laser_adj	лазерный	laser	лазерны/лазерныя		Starnik лазер; hunspell rejects the adjective	https://starnik.by/pravapis/38378
+lemma.laser_adj	лазерный	laser	лазерны/лазерныя/лазернай/лазерных		Starnik лазер; hunspell rejects the adjective; L f лазернай; G pl лазерных	https://starnik.by/pravapis/38378
 lemma.geshy	Гешши	Geshy	Гешші		peleng planet	PlanetName.tsv
 lemma.valuykh	Валуйх	Valuykh	Валуйх/Валуйха		peleng planet; G Валуйха	PlanetName.tsv
 lemma.norhberch	Норхберч	Norhberch	Норхберч		peleng vandal	Kidnapped.qmm
@@ -2032,3 +2032,12 @@ lemma.stretch_how	каааак	stretched how	яяяк		the farmer stretches як
 lemma.defeatist	пораженческий	defeatist	паражэнскія		Starnik паражэнскі; the plural is a hunspell gap	https://starnik.by/pravapis/136022
 lemma.handle	рукоять	handle	дзяржальні		Starnik дзяржальня; the plural is a hunspell gap	https://starnik.by/pravapis/22971
 lemma.password_guess	Пассворд	failed password token	Пассворд		frozen joke; the engine does not read the word	TRANSLATION.md
+lemma.autodiag	автодиагностика	transmitter system	Аўтадыягностыка/аўтадыягностыка		starts with А; the lock order names this system	—
+lemma.autotune	автонастройка	transmitter system	Аўтаналадка/аўтаналадка/Аўтаналадкі/аўтаналадкі		starts with А; the book plural is Аўтаналадкі	—
+lemma.radiomodule	радиомодуль	transmitter system	Радыёмодуль/радыёмодуль		sits between the two А systems; the book says Радыёперадатчык	—
+lemma.protosafe	протосейф	outermost safe	пратасэйф		the safe the other safes nest in	—
+lemma.penchekraknik	Пенчекрякник	lyakusha author	Пэнчэкракніка		genitive of the coined name; лякуша already	—
+lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
+lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
+lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
+lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
