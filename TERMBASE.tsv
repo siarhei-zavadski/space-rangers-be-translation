@@ -776,7 +776,7 @@ lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфа
 lemma.biochip	биочип	biochip	біячып/біячыпы		dragon nerves joke; hunspell lacks the compound	Park.qmm
 lemma.perperdon	Перпердон-пардон	Perperdon-pardon	Перпердон/пардон		galaxy couturier joke	Park.qmm
 lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў/ё		joke people; ё is a syllable of their battle cry	Park.qmm
-lemma.cell	ячейка	cell	ячка/ячку/ячкі/ячкамі/ячцы	ячэйка	password slot; hunspell suggestions are nonsense	https://starnik.by/pravapis/88466
+lemma.cell	ячейка	cell	ячка/ячку/ячкі/ячкамі/ячцы/ячках	ячэйка	password slot; hunspell suggestions are nonsense	https://starnik.by/pravapis/88466
 lemma.biotic	биотический	biotic	біятычны/біятычныя/біятычнымі/біятычных		park computers and generators; hunspell suggestions are the wrong compounds	Park.qmm
 lemma.rainbow	РЭЙНБОУ	rainbow hint	РЭЙНБОУ/И		cave password; Latin RAINBOW stays; И is the mirrored glyph for N, not Belarusian І	Park.qmm
 lemma.kakatreba	Какатреба	Kakatreba	Какатрэба		banquet pills; hunspell suggestions are unrelated	Park.qmm
@@ -1880,7 +1880,7 @@ lemma.ratboar	крысокабан	rat-boar	пацукадзік/Пацукад�
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
 lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму/Вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
-lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
+lemma.ghoul	упырь	ghoul	вупар/вупары/вупара/вупараў/вупару/вупарам/вупарамі/вупарах/Вупары		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
 lemma.bellysaurus	брюхозавр	belly-saurus	брухазаўр/брухазаўру/брухазаўры		the sleepy joke dinosaur; hunspell wants архазаўр, another beast; G брухазаўру	—
@@ -2142,3 +2142,16 @@ lemma.transmitter	передатчик	transmitter	перадатчык/пера
 lemma.permit	разрешение	permit	дазвол/дазволу		a special permit to buy a weapon	https://starnik.by/pravapis/21660
 lemma.leprosy	проказа	leprosy	праказа		the swamp disease the innkeeper names	https://starnik.by/pravapis/58702
 lemma.vaccine	прививка	vaccine	прышчэпка/прышчэпкі		inoculation against a planetary disease	https://starnik.by/pravapis/61076
+lemma.film	пленка	photographic film	плёнка/плёнку/плёнкі/плёнцы		a strip for photographs, sense 1	https://starnik.by/pravapis/57237
+lemma.oaf	остолоп	oaf	асталоп/асталопа/асталопаў		a dull person; not ёлуп	https://starnik.by/pravapis/6652
+lemma.binary	двоичный	binary code	двайковы/двайковага/двайковым/двайковых		base-two numeral; the lock shows a binary code	https://starnik.by/pravapis/108480
+lemma.gallows	виселица	gallows	шыбеніца/шыбеніцы/шыбеніцу		the hanging structure	https://starnik.by/pravapis/86162
+lemma.crutch	костыль	crutch	мыліца/мыліцу/мыліцы/мыліцах		an arm crutch, not the stick кульба	https://starnik.by/pravapis/44809
+lemma.extortion	вымогательство	extortion	вымагальніцтва		forcing money by a threat	https://starnik.by/pravapis/16082
+lemma.blackmail	шантаж	blackmail	шантаж/шантажаваць		a threat to reveal something	https://starnik.by/pravapis/84732
+lemma.henchman	прихвостень	henchman	клеўрэт/клеўрэты/клеўрэта/клеўрэтаў		a boss's creature; прихвостень is not a Starnik headword	https://starnik.by/pravapis/35936
+lemma.enclosure	ограда	enclosure	агароджа/агароджы/агароджу/агароджай		a fence around a mansion; the yard fence забор stays плот	https://starnik.by/pravapis/1549
+lemma.grish	Грышш	maloc name	Грышш		the scarred maloc who carries the peleng	Drugs.qmm
+lemma.wreck	развалина	wreck of a person	разваліна/разваліны/разваліну		an old broken-down person, sense 2	https://starnik.by/pravapis/63010
+lemma.folder	папка	folder	тэчка/тэчку/тэчцы		a folder of papers; hunspell suggests other words	https://starnik.by/pravapis/77531
+lemma.glock	Глок	guard name	Глок		the guard the other calls over; not in Starnik	Drugs.qmm
