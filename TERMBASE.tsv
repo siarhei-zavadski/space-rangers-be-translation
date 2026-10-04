@@ -1850,7 +1850,7 @@ lemma.shrek	Шрэк	Shrek	Шрэк/Шрэка		the ogre on a galactic tour	—
 lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		the fear named on the epitaph; not the bookie Шайтан-бабай	—
 lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
-lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру		a beast mosquitoes do not bother; coined	—
+lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра		a beast mosquitoes do not bother; coined	—
 lemma.warrior_old	воин	warrior	ваяр/ваяры		a hereditary fighter; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/13675
 lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
@@ -1879,7 +1879,7 @@ lemma.fraerok	фраерок	punk, diminutive	фраерок		contemptuous dimin
 lemma.ratboar	крысокабан	rat-boar	пацукадзік/пацукадзіка/пацукадзікаў/пацукадзікі		a coined cross of rat and boar	—
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
-lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
+lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму/Вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
 lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
@@ -1908,3 +1908,6 @@ lemma.vision	виденье	fleeting vision	відзеньне		Starnik відз
 lemma.little_shot	уколик	little injection	ўкольчык/ўкольчыкаў		diminutive of укол; chilly enough for a shot	https://starnik.by/pravapis/78161
 lemma.supermalok	Супермалок	Supermalok	Супермалок/Супермалока		comic the hero boasts of; hunspell wants another word	—
 lemma.khrepka	Хрепка	Turnip parody	Хрэпка/Хрэпку		Репка with an extra Х; hunspell wants Рэпку	—
+lemma.gravilet	гравилет	gravilet	гравілёт/гравілёта		flying craft; hunspell suggestions are other words	—
+lemma.headshot	хедшот	headshot	хедшот		the gamer word in quotes; hunspell wants another word	—
+lemma.send_cutoff	отпра	cut-off sent	адпра		she starts адправіла and breaks off; hunspell wants other words	—
