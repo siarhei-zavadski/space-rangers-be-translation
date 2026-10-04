@@ -1549,7 +1549,7 @@ lemma.tabooine	Табуин	Tabooine	Табуін		planet name	Stealth.qmm
 lemma.colinuha	Колинуа	Colinuha	Колінуа		star name	Stealth.qmm
 lemma.fish_samer	Фиш Сэмер	Fish Samer	Фіш/Сэмер		employer	Stealth.qmm
 lemma.tally_kh	хх	tally marks	хх/ххх/хххх/ххххх		Cyrillic х item tallies; do not rewrite to Latin x	Stealth.qmm
-lemma.armored_car	броневик	armored car	бранявіка		genitive; nominative бранявік passes hunspell	Stealth.qmm
+lemma.armored_car	броневик	armored car	бранявіка/бранявіком		G бранявіка, I бранявіком; nominative бранявік passes hunspell	Stealth.qmm
 lemma.skyliner	Нюк Скайлайнер	Nuke Skyliner	Нюк/Скайлайнер		brand on the laser hilt	Stealth.qmm
 lemma.halluberry	гаалюква	halluberry	гаалюква/гаалюквы		coined berry; genitive гаалюквы	Stealth.qmm
 lemma.fradyt	фрадитам	phrodite	фрадытам		malok garble of гермафрадытам; Starnik has no entry	Stealth.qmm

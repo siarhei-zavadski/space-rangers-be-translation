@@ -1877,7 +1877,7 @@ ________________________
 
 - Гиперпрыжок в систему <clr>Кефрон<clrEnd> удачно завершен."	"Quest Proprolog.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/163/text"	"В ангар"	"Quest Proprolog.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"У ангар"
-"/quests/Proprolog.qmm/jumps/164/text"	"Ничего не предпринимать"	"Quest Proprolog.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/164/text"	"Ничего не предпринимать"	"Quest Proprolog.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Нічога не рабіць"
 "/quests/Proprolog.qmm/jumps/164/description"	"Вам повезло - астероид пролетел совсем рядом с вами, не причинив вам никакого вреда."	"Quest Proprolog.qmm: jumps.164.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/165/text"	"Расстрелять астероид из лазера"	"Quest Proprolog.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/165/description"	"Вы схватили рычаг управления лазером и закричали: ""Асталависта!"". Резня длилась недолго - ни один астероид не устоит против промлазера, если на промлазере есть пометка ""Собрано в КБ 'Южное'""."	"Quest Proprolog.qmm: jumps.165.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
@@ -2265,7 +2265,7 @@ ________________________
 "/quests/Proprolog.qmm/jumps/446/text"	"Поднять на борт [p41] т спиртного"	"Quest Proprolog.qmm: jumps.446.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/450/text"	"Сдаться властям"	"Quest Proprolog.qmm: jumps.450.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Здацца ўладам"
 "/quests/Proprolog.qmm/jumps/452/param_changes/0/crit_text"	"Но вы рано обрадовались. Зазвучал сигнал тревоги, свидетельствующий о разгерметизации корпуса. Ваш корабль затрещал по швам, и вскоре легкая разгерметизация перешла в полную. С фатальными последствиями не только для рейнджера Ленса, но и для управлявшего им рейнджера по имени <Ranger>, которому теперь никогда не удастся вернуться назад в свое тело."	"Quest Proprolog.qmm: jumps.452.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/452/text"	"Ничего не предпринимать"	"Quest Proprolog.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/452/text"	"Ничего не предпринимать"	"Quest Proprolog.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Нічога не рабіць"
 "/quests/Proprolog.qmm/jumps/452/description"	"Прямое столкновение - БАХ - один большой астероид превратился в кучу маленьких астероидиков. Вроде бы ваш корабль не превратился в кучу маленьких корабликов."	"Quest Proprolog.qmm: jumps.452.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/453/text"	"Сдаться властям"	"Quest Proprolog.qmm: jumps.453.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Здацца ўладам"
 "/quests/Proprolog.qmm/jumps/454/text"	"Атаковать пирата"	"Quest Proprolog.qmm: jumps.454.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
