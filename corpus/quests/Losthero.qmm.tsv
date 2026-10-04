@@ -58,7 +58,7 @@
 "/quests/Losthero.qmm/parameters/6/lines/2/content"	"Вы отравлены (<>)"	"Quest Losthero.qmm: parameters.6.lines.2.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/6/lines/3/content"	"Вы сильно отравлены (<>)"	"Quest Losthero.qmm: parameters.6.lines.3.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Losthero.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
-"/quests/Losthero.qmm/parameters/7/name"	"Огонь"	"Quest Losthero.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Losthero"	""
+"/quests/Losthero.qmm/parameters/7/name"	"Огонь"	"Quest Losthero.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Losthero"	"Агонь"
 "/quests/Losthero.qmm/parameters/7/lines/0/content"	"Огонь не горит"	"Quest Losthero.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/7/lines/1/content"	"Угли тлеют"	"Quest Losthero.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/7/lines/2/content"	"Пламя слабо теплится"	"Quest Losthero.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
