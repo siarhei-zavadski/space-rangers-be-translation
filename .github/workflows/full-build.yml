@@ -10,7 +10,10 @@ permissions:
 
 jobs:
   build:
-    # Proprietary source files cannot be placed on GitHub-hosted runners.
+    # Maintainer's Linux machine. The licensed game stays on that disk;
+    # GitHub-hosted runners must not receive it. Fork pull requests must
+    # not select this runner (see SECURITY.md).
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.ref, 'refs/tags/v')
     runs-on: [self-hosted, linux, space-rangers-hd]
     timeout-minutes: 20
     steps:

@@ -69,8 +69,10 @@ Suggested request:
    approve pull requests.
 6. Protect `main`; require the **Validate / corpus** check and pull requests.
 7. For automated mod builds, register a trusted Linux self-hosted runner with
-   the label `space-rangers-hd` and a legitimate game installation. Never run
-   that workflow for untrusted pull requests.
+   the label `space-rangers-hd` and a legitimate game installation on that
+   machine. `Build mod` stays on manual runs and `v*` tags. The repository is
+   public: require approval for all outside collaborators, and never let a
+   fork pull request select that runner. See `SECURITY.md`.
 8. Run **Crowdin sync** manually with `direction=both`; verify the generated
    translation PR before enabling the daily schedule.
 
