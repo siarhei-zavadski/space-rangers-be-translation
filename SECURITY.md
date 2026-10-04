@@ -5,8 +5,7 @@ project lead. Add a private contact method here before publishing the
 repository.
 
 Never include a Crowdin token in source, workflow YAML, issues, logs, or pull
-requests. Store it as the GitHub Actions secret `CROWDIN_PERSONAL_TOKEN`.
-Revoke and replace a token immediately if it is exposed.
+requests. Revoke and replace a token immediately if it is exposed.
 
 Builds that need the game run on a maintainer's machine, outside GitHub
 Actions. Do not register a self-hosted runner for this public repository: a

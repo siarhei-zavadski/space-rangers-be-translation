@@ -7,7 +7,7 @@ Translate in the
 Follow `ORTHO.md`, `STYLE.md`, and `TERMBASE.tsv`. Preserve placeholders,
 formulas, parameter references, and line breaks exactly.
 
-Crowdin exports are proposed automatically as GitHub pull requests. Do not
+Download translations with the commands in `CROWDIN.md` before a build. Do not
 edit Russian source cells or generated identifiers by hand.
 
 ## Code and corpus changes

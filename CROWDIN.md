@@ -23,11 +23,10 @@ and preserves the folder hierarchy.
 
 ## Source of truth
 
-Translate in the Crowdin editor. Local `be` cells are only a seed: after
-they are pushed to `main`, Actions uploads them to Crowdin. Later wording
-changes belong on Crowdin. Before a game build, download so git matches
-Crowdin, then run `build_test_mod.py`. Do not treat an unsynced local TSV
-as newer than Crowdin.
+Translate in the Crowdin editor. Local `be` cells are only a seed. Upload
+them with `crowdin_upload.py`, and download before a game build so git matches
+Crowdin. Later wording changes belong on Crowdin. Do not treat an unsynced
+local TSV as newer than Crowdin.
 
 ## Download translations and build
 
@@ -79,18 +78,7 @@ CSV but does not apply a spreadsheet schema when it creates a brand-new TSV.
 Binary GI/AFT files are not uploaded to Crowdin. Their source labels are in the
 asset TSVs and the build renders supported labels into the mod package.
 
-## GitHub automation
-
-`.github/workflows/crowdin-sync.yml`:
-
-- uploads changed source files from trusted pushes to `main` using
-  `crowdin_upload.py`, which explicitly configures new TSV schemas;
-- imports checked-in Belarusian cells, including translations equal to source;
-- downloads Crowdin daily and opens a reviewable pull request.
-
-Store a fresh `CROWDIN_PERSONAL_TOKEN` in the `crowdin` GitHub Environment,
-set that environment's `CROWDIN_SYNC_ENABLED=true` variable, and allow
-Actions to create pull requests. The workflow never stores the token in the
-repository.
+Keep `CROWDIN_PERSONAL_TOKEN` in the shell. Do not put it in the repository
+or in GitHub Actions.
 See [`OPEN_SOURCE_READINESS.md`](OPEN_SOURCE_READINESS.md) before changing
 repository visibility or applying for Crowdin's open-source plan.

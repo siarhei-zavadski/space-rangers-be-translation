@@ -60,18 +60,11 @@ Suggested request:
 1. **Done:** private repository created with `main` as its default branch.
 2. **Done:** reviewed files pushed; `.gitignore` excludes game backups, the
    local environment, generated packages, and binary assets.
-3. Revoke the previously shared Crowdin token, create a fresh least-privilege
-   token, and add it as the Actions secret `CROWDIN_PERSONAL_TOKEN`. Project ID `930019` is
-   non-secret and is already in the workflow/configuration.
-4. Add the `crowdin` environment variable `CROWDIN_SYNC_ENABLED=true` only
-   after the replacement secret is present.
-5. In **Settings → Actions → General**, allow GitHub Actions to create and
-   approve pull requests.
-6. Protect `main`; require the **Validate / corpus** check and pull requests.
-7. Build the mod locally on the machine that has the game. Do not register a
+3. Revoke the previously shared Crowdin token. Use a fresh least-privilege
+   token only in the local shell. Project ID `930019` is non-secret.
+4. Protect `main`; require the **Validate / corpus** check and pull requests.
+5. Build the mod locally on the machine that has the game. Do not register a
    self-hosted Actions runner. See `SECURITY.md`.
-8. Run **Crowdin sync** manually with `direction=both`; verify the generated
-   translation PR before enabling the daily schedule.
 
 Suggested GitHub metadata:
 
