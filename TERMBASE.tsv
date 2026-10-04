@@ -1693,3 +1693,25 @@ lemma.inspector_fem	инспекторша	inspector	інспектарка		fem
 lemma.corpusculation	корпускулирование	corpusculation	карпускулаваньне		coined faeyan lecture fragment; not in Starnik	—
 lemma.mimic_plasma	мимикрирующая	mimicrating	мімікрычная		coined lecture adjective; hunspell gap	—
 lemma.graffiti	граффити	graffiti	графіці		human wall-writing; hunspell gap	—
+lemma.hits	хиты	hit points	Хіт/Хіты/хіт/хіты		game HP pool; Starnik lists the noun with no gloss; hunspell suggestions are other words	https://starnik.by/pravapis/81911
+lemma.focus	сосредоточенность	concentration	засяроджанасьць/Засяроджанасьць	сканцэнтраванасьць	absorbed attention; Starnik засяроджанасць, tarask soft sign	https://starnik.by/pravapis/27906
+lemma.amulet	амулет	amulet	амулет/Амулет		charm worn on the body	https://starnik.by/pravapis/4486
+lemma.magic_noun	магия	magic	магія/Магія/Магіі	чары	noun of the spell art; adjective stays магічны	https://starnik.by/pravapis/40621
+lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры		magic draught; G эліксіру	https://starnik.by/pravapis/87267
+lemma.healing	исцеление	healing	гаеньне/Гаеньня	ацаленьне	wound-healing from гаіць; Starnik гаенне, tarask гаеньне; treatment is лячэньне	https://starnik.by/pravapis/17285
+lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		unconscious sense; G інтуіцыі	https://starnik.by/pravapis/30976
+lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
+lemma.water	вода	water	вада/Вада/Вады		the liquid, not the dialect flaw ва́да	https://starnik.by/pravapis/12817
+lemma.air	воздух	air	паветра/Паветра		element	https://starnik.by/pravapis/49864
+lemma.earth	земля	earth	зямля/Зямля/Зямлі		element and ground; G зямлі	https://starnik.by/pravapis/29980
+lemma.spirit	дух	spirit	дух/Дух/Духа		psychic power, not a ghost; G духа	https://starnik.by/pravapis/23816
+lemma.gold	золото	gold	золата/Золата		the metal and the coin label	https://starnik.by/pravapis/29691
+lemma.book	книга	book	кніга/Кніга		spellbook	https://starnik.by/pravapis/36147
+lemma.wind	ветер	wind	вецер/Ветру		G ветру	https://starnik.by/pravapis/14169
+lemma.wave	волна	wave	хваля/Хваляў		G pl хваляў	https://starnik.by/pravapis/81699
+lemma.light	свет	light	сьвятло/Сьвятла		Starnik святло; tarask сь; G сьвятла	https://starnik.by/pravapis/68276
+lemma.harvest	урожай	harvest	ураджай/Ураджаю		G ураджаю	https://starnik.by/pravapis/78648
+lemma.blood	кровь	blood	кроў/Крыві		G крыві	https://starnik.by/pravapis/36984
+lemma.will	воля	will	воля/Волі		conscious resolve; G волі	https://starnik.by/pravapis/15189
+lemma.protection	защита	protection	абарона/Абароны		G абароны	https://starnik.by/pravapis/146
+lemma.treatment	лечение	treatment	лячэньне/Лячэньня		medical treatment; Starnik лячэнне, tarask soft sign; healing is гаеньне	https://starnik.by/pravapis/40554
