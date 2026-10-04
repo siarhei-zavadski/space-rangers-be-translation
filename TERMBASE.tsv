@@ -529,7 +529,7 @@ lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Сма
 lemma.laser	лазер	laser	лязэр/лязэра		equipment lock; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
-lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг		QMM combat unit; hunspell gap	—
+lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
 lemma.pharaoh	фараон	pharaoh	фараон		Uguptian title; Pharaon.qmm	—
 lemma.ares	Арес	Ares	Арес		letter-set АРЕС; not Арэс (Э vs Е in звер)	—
 lemma.vmaz	Вмаз	Vmaz	Вмаз		letter-set ВМАЗ	—
@@ -1364,7 +1364,7 @@ lemma.abatch	А-Батч	A-Batch	Батч/інфэрнэтнік		distorted inte
 lemma.bolf_an	Болф-Ан	Bolf-An	Болф		faeyan gambler	Feipsycho.qmm
 lemma.turnip_cast	Дедка	turnip cast	Дедка/Внучка/Репка		turnip-gate names; initials stay so the letter jumps still match	Feipsycho.qmm
 lemma.cthulhu	Ктулху	Cthulhu	Абыр/Ктулху/Пх/вгах/кю/льех/мглв/нагл/нафх/нглуи/фхтагн		incantation kept byte-identical	Feipsycho.qmm
-lemma.android	андроид	android	андроід/андроіду		humanoid robot; D андроіду; monument	https://starnik.by/pravapis/4739
+lemma.android	андроид	android	андроід/андроіду/Андроід/Андроіда/андроіда/андроіды/андроідамі		humanoid robot; D андроіду; G андроіда; monument	https://starnik.by/pravapis/4739
 lemma.lytdybr	Шо за лытдыбр	what is this longread	Шо/лытдыбр		shout kept byte-identical	Feipsycho.qmm
 lemma.faeyan_crack	ФэянТреск	Faeyan crack	ФэянТрэск		elastic-glass brand on the ward window	Feipsycho.qmm
 lemma.plintusizin	плинтусизин	plintusizin	плінтусізін/плінтусізінам		coined asylum drug	Feipsycho.qmm
@@ -1693,3 +1693,22 @@ lemma.inspector_fem	инспекторша	inspector	інспектарка		fem
 lemma.corpusculation	корпускулирование	corpusculation	карпускулаваньне		coined faeyan lecture fragment; not in Starnik	—
 lemma.mimic_plasma	мимикрирующая	mimicrating	мімікрычная		coined lecture adjective; hunspell gap	—
 lemma.graffiti	граффити	graffiti	графіці		human wall-writing; hunspell gap	—
+lemma.librarian	библиотекарь	librarian	бібліятэкар/бібліятэкара		prison librarian; G бібліятэкара	https://starnik.by/pravapis/10253
+lemma.cement	цемент	cement	цэмэнт/цэмэнту	цэмент	hunspell over Starnik цэмент; G цэмэнту	https://starnik.by/pravapis/83407
+lemma.toilet_brush	ершик	toilet brush	ёршык		brush, not the fish; inanimate A = N	https://starnik.by/pravapis/25336
+lemma.cache	тайник	cache	тайнік/тайніка		hiding place in the wall; the loot is скарб	https://starnik.by/pravapis/74478
+lemma.cassette	кассета	cassette	касэта/касэты	касета	hunspell over Starnik касета	https://starnik.by/pravapis/34347
+lemma.priest	священник	priest	сьвятар/сьвятара	святар	hunspell over Starnik святар; G сьвятара	https://starnik.by/pravapis/68237
+lemma.pathologist	патологоанатом	pathologist	патолаг/патолага	паталог	Starnik патолаг; hunspell guess патоляг is not this word	https://starnik.by/pravapis/53865
+lemma.nurse	медсестра	nurse	медсястра/Медсястра/медсястры/медсястру		G медсястры, A медсястру; hunspell gap	https://starnik.by/pravapis/42614
+lemma.medpost	медпункт	med station	медпункт/медпункту		prison infirmary; L медпункту; hunspell gap	—
+lemma.uppercut	апперкот	uppercut	апэркот		boxing blow; hunspell gap	—
+lemma.quanaut	куанавт	quanaut	куанаўт/куанаўтаў		peleng swamp singer; coined	—
+lemma.capeot	Капеот	Capeot	Капеот/Капеота		faeyan soil constant in the tunnel lecture	—
+lemma.yapper	Брехуша	Yapper	Брахуша/Брахушы		peleng liar; the name has to show he lies	https://starnik.by/pravapis/171790
+lemma.noodleear	Лапшивес	Bamster	Лакшынавух/Лакшынавуха		peleng who talks nonsense; локшына на вушы	https://starnik.by/pravapis/39964
+lemma.noneuclid	неэвклидовый	non-Euclidean	неэўклідавых		geometry adjective; hunspell gap	—
+lemma.pal	кореш	pal	сябрук/сябрука		criminal address; G сябрука	https://starnik.by/pravapis/74190
+lemma.showoff	фраер	show-off	хлюст/хлюста		sly dandy; prison slang	https://starnik.by/pravapis/82112
+lemma.hoodlum	отморозок	hoodlum	шаленец/шаленца		reckless violent inmate; G шаленца	https://starnik.by/pravapis/84630
+lemma.chick	цыпа	sweetlips	цыпачка		address to the nurse	https://starnik.by/pravapis/83174
