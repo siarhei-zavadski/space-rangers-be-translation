@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/Лязэр		equipment lock; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/Лязэр		equipment lock; I лязэрам; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -2057,6 +2057,7 @@ lemma.rush	мчаться	rush	імчаць/імчаліся	мчаць	Starnik 
 lemma.following	следом	right behind	сьледам	следам	Starnik adverb следам; hunspell inserts ь	https://starnik.by/pravapis/231626
 lemma.let_go	выпустить	let go	выпусьціць/выпусьціў	выпусціць	did not drop the gun; Starnik выпусціць, hunspell inserts ь	https://starnik.by/pravapis/174072
 lemma.crackle	затрещать	crackle	затрашчаць/затрашчаў		start to rattle; the phone example	https://starnik.by/pravapis/182464
+lemma.cryoplastic	криопластик	cryoplastic	крыяплястыкавай		the road surface outside Calm City; coined	Mafia.qmm
 lemma.winding	извилистый	winding	зьвілісты/зьвілістае	звілісты	Starnik звілісты; hunspell inserts ь	https://starnik.by/pravapis/113734
 lemma.into_distance	вдаль	into the distance	ўдалячынь/удалячынь		Starnik adverb удалячынь	https://starnik.by/pravapis/232515
 lemma.carry_sound	донестись	carry as a sound	данесціся/данёсся		past данёсся; hunspell lacks it	https://starnik.by/pravapis/176857
