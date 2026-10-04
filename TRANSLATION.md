@@ -16,10 +16,9 @@ Reuse a locked term. Do not invent a second pipeline.
    Spelling clash: hunspell wins. Meaning clash: Starnik wins.
    Record the new lemma in `TERMBASE.tsv` (sense, endings, rejected calque, Starnik URL).
 4. `validate_corpus.py` — placeholders, tags, and `{…}` / `[pN]` must match the source.
-5. `qa_translation.py` — numbers, `<format>` cell widths, and tarask slips
-   (`з'яв-` is `зьяв-`, `вашая` is `ваша`). `--fix` repairs the slips. Its
-   reports list sources translated two ways, empty rows a translation
-   memory can fill, and termbase `rejected_calque` forms in use.
+5. `qa_translation.py` — numbers, `<format>` cell widths, tarask slips
+   (`з'яв-` is `зьяв-`, `вашая` is `ваша`), and rejected termbase forms in any
+   row not listed in `qa_baseline.txt`. Fails CI. See "LLM batches".
 6. `crowdin_sync.py check` — corpus ids, source text, and quest round-trip.
 7. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
@@ -143,10 +142,24 @@ Russian line.
 
 ## LLM batches
 
-- Translate each unique `source_phrase` once and copy it to every row that
-  shares it; the same label translated in two batches drifts
-  (`Отмена` is `Скасаваць` in 20 rows and `Адмена` in 7).
-- Give the model the matching `TERMBASE.tsv` rows for the batch, not the
-  whole file, and the `context` English reference. Never ask it to count or
-  renumber (`Gluki.qmm` `1 колба` once came back as `2 колбы`).
-- After each batch run `qa_translation.py --fix`, then `spell_check.py`.
+One batch is one file, about 50 unique sources:
+
+```bash
+python3 qa_translation.py --batch Moi.qmm -n 50   # input for the model
+# model writes the be cells into crowdin/quests/Moi.qmm.tsv
+python3 qa_translation.py --fix                   # tarask slips + copy to rows with the same source
+python3 qa_translation.py                         # hard checks, must print 0 failures
+PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
+```
+
+- `--batch` prints `identifier, rows sharing it, ru, English reference,
+  termbase hints` for each *unique* source, so a repeated label is
+  translated once (`Отмена` was `Скасаваць` in 20 rows and `Адмена` in 7).
+  Give the model those lines, not the whole `TERMBASE.tsv`.
+- Never ask the model to count or renumber (`Gluki.qmm` `1 колба` once came
+  back as `2 колбы`); `qa_translation.py` fails on a swapped digit.
+- `qa_baseline.txt` holds rejected-form rows that predate the check. Fix a
+  row and delete it from the file; never add rows. A real new exception goes
+  into `TERMBASE.tsv` instead.
+- `spell_check.py --gate` fails on any token not in `spell_allow.txt`. Fix the
+  spelling, or after a Starnik check run `--accept` and review the diff.

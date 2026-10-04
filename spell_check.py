@@ -59,6 +59,16 @@ def main() -> None:
         action="store_true",
         help="do not drop tokens already in TERMBASE.tsv",
     )
+    parser.add_argument(
+        "--gate",
+        action="store_true",
+        help="exit 1 on a leftover token not in spell_allow.txt (new words only)",
+    )
+    parser.add_argument(
+        "--accept",
+        action="store_true",
+        help="add every current leftover token to spell_allow.txt",
+    )
     args = parser.parse_args()
     needle = (args.file or "").lower()
 
@@ -93,6 +103,16 @@ def main() -> None:
         print(f"{n:6}\t{word}\t{loc}")
     if len(leftover) > args.top:
         print(f"... {len(leftover) - args.top} more")
+
+    allow_path = PROJECT / "spell_allow.txt"
+    allowed = set(allow_path.read_text(encoding="utf-8").split()) if allow_path.exists() else set()
+    if args.accept:
+        allow_path.write_text("".join(f"{w}\n" for w in sorted(allowed | bad)), encoding="utf-8")
+        print(f"spell_allow.txt: {len(allowed | bad)} tokens")
+    elif args.gate:
+        new = sorted(bad - allowed)
+        print(f"{len(new)} tokens not in spell_allow.txt: {' '.join(new[:40])}")
+        raise SystemExit(1 if new else 0)
 
 
 if __name__ == "__main__":

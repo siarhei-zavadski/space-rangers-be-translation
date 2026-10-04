@@ -31,7 +31,9 @@ jobs:
         run: python validate_corpus.py
 
       - name: Check translated rows
-        run: python qa_translation.py --limit 3
+        run: |
+          python test_qa_translation.py
+          python qa_translation.py --limit 3
 
       - name: Validate GitHub workflows
         uses: docker://rhysd/actionlint:1.7.12
