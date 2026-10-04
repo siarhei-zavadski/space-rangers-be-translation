@@ -1742,7 +1742,7 @@ lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest bool
 lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем/Зелле		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
 lemma.life	жизнь	life	жыцьцё/жыцьцяў		Starnik жыццё; tarask soft sign; Gpl жыцьцяў is a hunspell gap	https://starnik.by/pravapis/26025
 lemma.universe	вселенная	universe	сусьвет/сусьветах		Starnik сусвет; tarask сь; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
-lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны		a walking corpse; hunspell gap	https://starnik.by/pravapis/45012
+lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны/мярцвяка/мярцвяку		a walking corpse; hunspell gap; keep Starnik мярцвяк, not мярцьвяк	https://starnik.by/pravapis/45012
 lemma.elf_adj	эльфийский	elven	эльфійскі/эльфійская/эльфійскай		of an elf; hunspell suggestion is a different word	https://starnik.by/pravapis/163591
 lemma.fantasy	фэнтези	fantasy	фэнтэзі		the genre; hunspell gap	https://starnik.by/pravapis/81266
 lemma.gamer	геймер	gamer	геймер		a person who plays games; hunspell suggestions are other words	https://starnik.by/pravapis/18684
@@ -1863,7 +1863,7 @@ lemma.grabill	грабиль	robber stew	грабіль		a pun on robbery served
 lemma.jam_cut	варень	jam, cut off	варэнь		the epitaph breaks off mid-word, as the Russian line does	—
 lemma.zombie	зомби	zombie	зомбі/Зомбі		the walking corpse; Starnik; hunspell wants ромбікі	https://starnik.by/pravapis/29710
 lemma.undead_class	нежить	undead class	нежыць/нежыці		the monster class, not мярцвяк; hunspell suggestions are other words	—
-lemma.necromancer	некромант	necromancer	некрамант/некраманту		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/47660
+lemma.necromancer	некромант	necromancer	некрамант/некраманту/некраманты		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/47660
 lemma.goblin	гоблин	goblin	гоблін/Гобліна/гоблінаў		Goblin the translator and the wet-or-dry pun; Starnik	https://starnik.by/pravapis/20282
 lemma.demutantoid	Демутантоид Зомбилынский	Demutantoid Zombilinsky	Дэма/Дэмутантоід/Дэмутантоідам/Замбілынскі/Замбілынскім		the fighter the dwarves call; coined	—
 lemma.dodik	Додик	Dodik	Додзік		the zombie in Brigade Ух	—
@@ -1919,3 +1919,5 @@ lemma.predatory	хищно	predatorily	Драпежна/драпежна		adverb
 lemma.body_move	телодвижение	body movement	целарух/целарухі		Starnik; hunspell splits it	https://starnik.by/pravapis/82654
 lemma.boss_around	раскомандоваться	to boss people around	раскамандаваўся		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/210111
 lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words	https://starnik.by/pravapis/47325
+lemma.rest_pun	доупокоенный	additionally laid to rest vs unrested	даўпакоены/няўпакоены		the доупокоенный/неупокоенный pun; Starnik упокоіць/упакоіць/няўпакоены NONE; hunspell wants another word	—
+lemma.texture	текстура	texture	тэкстур		genitive plural of тэкстура; the skybox joke; Starnik; hunspell wants other forms	https://starnik.by/pravapis/76906
