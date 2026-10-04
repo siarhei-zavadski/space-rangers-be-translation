@@ -18,6 +18,9 @@ when the wording no longer points at the same jump or the picture stops
 lining up. Freeze those tokens, or redesign the whole puzzle so the same
 jump is still the unique solution.
 
+Before the first batch of a session, read "Known LLM mistakes" in
+`TRANSLATION.md`: ten errors that already happened in this corpus.
+
 ## Every batch, in this order
 
 File order and commit rhythm are in "Order of work" in `TRANSLATION.md`.

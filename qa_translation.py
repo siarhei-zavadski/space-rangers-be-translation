@@ -11,7 +11,8 @@
                        a TERMBASE.tsv row with no be_tarask or source
   --baseline           accept every rejected-form row that exists today
 
-Reports (never fail): sources translated more than one way.
+Reports (never fail): sources translated more than one way, and rows where
+`be` is the Russian source copied unchanged (names stay Cyrillic on purpose).
 """
 
 import argparse
@@ -30,6 +31,7 @@ SLIPS = (  # always wrong in be-tarask (hunspell rejects them; the prefix soften
 )
 LETTERS = "а-яёіўА-ЯЁІЎ'’"
 BASELINE = ROOT / "qa_baseline.txt"
+NAMES = ("/ShipName/", "/PlanetName/", "/Star/", "/RuinName/", "/Constellations/")
 
 
 def visible(text: str) -> int:
@@ -187,6 +189,14 @@ def main() -> int:
     print(f"report: {len(conflicts)} sources translated more than one way")
     for s, v in list(conflicts.items())[: args.limit]:
         print(f"  {s[:50]!r}: {[(b[:35], n) for b, n in v.most_common()]}")
+    copied = [
+        r for r in done
+        if r["be"] == r["source_phrase"] and not r["identifier"].startswith(NAMES)
+        and len(re.findall(r"[а-яё]{3,}", r["source_phrase"])) >= 2
+    ]
+    print(f"report: {len(copied)} rows are the Russian source copied unchanged")
+    for r in copied[: args.limit]:
+        print(f"  {r['identifier']}: {r['be'][:60]!r}")
     empty = {r["source_phrase"] for r in rows if not r["be"]}
     print(f"report: {len(empty)} unique sources remain untranslated")
     return 1 if failures else 0

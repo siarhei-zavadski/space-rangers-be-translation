@@ -179,3 +179,55 @@ PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
   sense in the Russian line before changing it; run `--accept` only for words
   that survive that, and review the diff. `SLIPS` in `qa_translation.py`
   holds spelling rules that are true in every context, nothing else.
+
+## Known LLM mistakes — read before the first batch
+
+Each one happened in this corpus. `qa_translation.py` catches the ones marked
+(auto); the rest only a careful read catches.
+
+1. **Russian shapes in tarask spelling (auto for the first two).** Prefix
+   `з-`/`с-` softens before я, е, ё, ю, і: `зьявіўся`, `зьяўляецца`, not
+   `з'явіўся`. Apostrophe stays after other prefixes and labials:
+   `аб'ява`, `пад'езд`, `п'еса`, `сур'ёзны`. `ваша`/`вашу`, not `вашая`/`вашую`.
+   Verbal nouns take `-ньне`/`-ньня` (`дасягненьне`), not `-нне` (`паскарэнне`,
+   `устаранення` slipped through; `начынне`, `ванне` are real words).
+2. **Changed numbers (auto).** A model asked to "translate" `1 колба`, `2 колбы`
+   returned `2 колбы`, `3 колбы`, so every flask count in `Gluki.qmm` was off by one.
+   Digits, `[pN]`, `{…}` and `<tags>` are copied, never recomputed.
+3. **Cell overflow (auto).** `<format=left,27> Прыбытак за ўчорашні дзень:` is 28
+   characters with its leading space and clips. Count the whole cell, spaces
+   included, against `N`.
+4. **Same label, different words (auto: `--fix` copies, the report lists).**
+   `Отмена` was `Скасаваць` in 20 rows and `Адмена` in 7. Reuse the existing
+   translation of an identical source; `--batch` already shows each source once.
+5. **Rejected termbase forms (auto, against `qa_baseline.txt`).** `група`
+   (`гурт`), `клян` (`клан`), `супернік` (`праціўнік`), `спадарожнік` (`папутнік`),
+   `бруд` (`гразь`). The hints printed by `--batch` list the accepted form.
+6. **Russian left in the cell (report).** `Броня корпуса: <bonHull> ед.` was
+   copied unchanged into 19 `MicroModuls` rows. Proper names in `ShipName`,
+   `PlanetName`, `Star`, `RuinName` and `Constellations` may stay Cyrillic;
+   sentences and unit words may not. A joke built on broken Russian (`Pilot.qmm`
+   `тибя чериз полчиса`) is translated by imitating the same kind of mistake in
+   Belarusian, not left in Russian.
+7. **Hunspell is not grammar.** It lacks correct forms (`аб'екта`, genitive of
+   a concrete noun, is right) and proposes wrong ones. A hit means "look",
+   never "replace". Form and endings: Starnik. Sense: the Russian line and
+   the English `context`. Only a rule that is true in every context goes
+   into `SLIPS`.
+8. **Starnik from a shell.** `https://starnik.by/pravapis/<id>` is a static
+   page showing the headword with its endings (`клан, -а`); the `TERMBASE.tsv`
+   `source` column has such links. The search box runs in JavaScript, so
+   `curl …?search=` returns nothing: use a browser tool, or an id already
+   in `TERMBASE.tsv`.
+9. **Editing the TSVs.** Rows are quoted with `QUOTE_ALL`, and a file uses
+   either `\n` or `\r\n` for row ends (some files hold both inside cells).
+   Rewriting one with the wrong terminator once produced a 454-line diff for
+   a 32-row change. Edit through `read_rows`/`save` in `qa_translation.py`, or
+   change the cell text in place. After any bulk edit, `git diff --stat` must
+   match the rows you meant to touch, and
+   `git diff --word-diff=porcelain --word-diff-regex='[^[:space:]]+'` must
+   show only the intended tokens.
+10. **Do not trust a first-pass "unused" or "empty" label.** `TRANSLATION.md`
+    called Feipsycho, Kidnapped and Pilot "empty" while they were 100%
+    translated. `validate_corpus.py` shows the real counts; update the puzzle
+    table in the same commit that finishes a file.
