@@ -21,7 +21,7 @@ Crowdin currently requires all of the following:
 | At least three months of work | No public Git history exists yet | **Blocked until evidenced** |
 | Active collaborator community | No public contributor history exists yet | **Blocked** |
 | Current website News section | `NEWS.md` is prepared; no public site exists | Blocked until published |
-| Regular updated builds | Tag/release workflow is prepared; no release history exists | Blocked until established |
+| Regular updated builds | No release history. Cut releases from a local build; no Actions runner | Blocked until established |
 | Global TM/beta terms accepted | Must be accepted on the application form | Owner action |
 
 Authoritative criteria:
@@ -68,11 +68,8 @@ Suggested request:
 5. In **Settings → Actions → General**, allow GitHub Actions to create and
    approve pull requests.
 6. Protect `main`; require the **Validate / corpus** check and pull requests.
-7. For automated mod builds, register a trusted Linux self-hosted runner with
-   the label `space-rangers-hd` and a legitimate game installation on that
-   machine. `Build mod` stays on manual runs and `v*` tags. The repository is
-   public: require approval for all outside collaborators, and never let a
-   fork pull request select that runner. See `SECURITY.md`.
+7. Build the mod locally on the machine that has the game. Do not register a
+   self-hosted Actions runner. See `SECURITY.md`.
 8. Run **Crowdin sync** manually with `direction=both`; verify the generated
    translation PR before enabling the daily schedule.
 
@@ -91,7 +88,7 @@ Suggested GitHub metadata:
 4. Record at least three months of genuine development in public commits.
 5. Recruit and credit active collaborators through GitHub and Crowdin.
 6. Update `NEWS.md` for meaningful changes.
-7. publish tagged mod builds regularly using the prepared release workflow.
+7. Publish tagged mod builds from a local build on the machine that has the game.
 8. Replace the placeholders below, then submit Crowdin's request form.
 
 Application facts to gather:
