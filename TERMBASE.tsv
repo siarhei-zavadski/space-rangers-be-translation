@@ -94,7 +94,7 @@ lemma.rt	ТР	RT	ТР		Crowdin glossary; табліца рэкордаў, not En
 lemma.government	правительство	government	урад/ўрада/урада		Starnik: родны ўрада, давальны ўраду, месны ўрадзе	—
 lemma.cursor	курсор	cursor	курсор		Starnik: родны курсора, not курсору	—
 lemma.center	центр	center	цэнтр		Starnik: родны цэнтра; да цэнтра	—
-lemma.resolution	разрешение	resolution	разрознасьць		Kamputerm 2010: разрознасць, not разрозненне	—
+lemma.resolution	разрешение	resolution	разрознасьць/разрознасьці		Kamputerm 2010: разрознасць, not разрозненне	—
 lemma.charm	обаяние	charm	чары		Starnik: pluralia tantum; родны чараў	—
 lemma.all_prep	у всех	at all	ва ўсіх		school + 2008: ва before у/ў; not у ва ўсіх	—
 lemma.defend	защищать	defend	бараніць		Starnik: ён бароніць, not бараніць	—
@@ -1879,3 +1879,7 @@ lemma.fraerok	фраерок	punk, diminutive	фраерок		contemptuous dimin
 lemma.ratboar	крысокабан	rat-boar	пацукадзік/пацукадзіка/пацукадзікаў/пацукадзікі		a coined cross of rat and boar	—
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
+lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
+lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
+lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
+lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
