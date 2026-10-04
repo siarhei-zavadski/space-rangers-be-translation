@@ -2062,3 +2062,35 @@ lemma.winding	извилистый	winding	зьвілісты/зьвіліста
 lemma.into_distance	вдаль	into the distance	ўдалячынь/удалячынь		Starnik adverb удалячынь	https://starnik.by/pravapis/232515
 lemma.carry_sound	донестись	carry as a sound	данесціся/данёсся		past данёсся; hunspell lacks it	https://starnik.by/pravapis/176857
 lemma.obituary	некролог	obituary	нэкралёг	некралог	Starnik некралог, -а; hunspell wants э and ё	https://starnik.by/pravapis/47658
+lemma.account	счет	account	рахунак/рахунку		money balance; L рахунку	https://starnik.by/pravapis/64600
+lemma.room	комната	room	пакой		a room, including a quest room name	https://starnik.by/pravapis/51685
+lemma.secret	тайный	secret	таемны		hidden; a secret passage	https://starnik.by/pravapis/153799
+lemma.mansion	особняк	mansion	асабняк		a detached rich house	https://starnik.by/pravapis/6350
+lemma.inn	трактир	inn	карчма	тракцір	a drinking house with lodging	https://starnik.by/pravapis/34197
+lemma.boy	мальчик	boy	хлопчык			https://starnik.by/pravapis/82052
+lemma.exit_noun	выход	exit sign	выхад		noun on a door is Выхад; the menu verb Выйсьці stays valid	https://starnik.by/pravapis/16712
+lemma.password	пароль	password	пароль		Drugs cipher answer stays Пароль; the numbers are the Russian alphabet with ё	https://starnik.by/pravapis/53239
+lemma.cipher	шифр	cipher	шыфр			https://starnik.by/pravapis/86270
+lemma.keyword	ключевой	keyword	ключавы/ключавое		sense 1, related to a key	https://starnik.by/pravapis/119183
+lemma.youngster	детеныш	youngster	дзіцянё		human child on the joke door; Starnik lists дзіцяня and дзіцянё	https://starnik.by/pravapis/22806
+lemma.counter	счетчик	counter	лічыльнік			https://starnik.by/pravapis/39891
+lemma.matching	подбор	matching	падбор/падбору		sense 1 is the act of picking, G -у	https://starnik.by/pravapis/50253
+lemma.riddle	загадка	riddle	загадка			https://starnik.by/pravapis/26434
+lemma.bedroom	спальня	bedroom	спальня			https://starnik.by/pravapis/71038
+lemma.stiletto	стилет	stiletto	стылет			https://starnik.by/pravapis/72577
+lemma.pistol	пистолет	pistol	пісталет			https://starnik.by/pravapis/56814
+lemma.ammo_store	боезапас	ammunition store	боезапас/боезапасам		supply of ammunition; I боезапасам	https://starnik.by/pravapis/11106
+lemma.junk	барахло	junk	барахло		old household things, colloquial	https://starnik.by/pravapis/9186
+lemma.pillow	подушка	pillow	падушка			https://starnik.by/pravapis/51270
+lemma.camera	фотоаппарат	camera	фотаапарат			https://starnik.by/pravapis/80694
+lemma.rusty	ржавый	rusty	іржавы			https://starnik.by/pravapis/116178
+lemma.strange	странный	strange	дзіўны/дзіўнага			https://starnik.by/pravapis/109092
+lemma.landing	десантный	landing	дэсантны			https://starnik.by/pravapis/110565
+lemma.compose	составить	compose	скласьці	скласці	Starnik скласці; hunspell inserts ь	https://starnik.by/pravapis/213102
+lemma.decrypt	расшифровать	decrypt	расшыфраваць			https://starnik.by/pravapis/211532
+lemma.three_coll	трое	three	трое		collective numeral; the door label	https://starnik.by/pravapis/220880
+lemma.correctness	верность	correctness	слушнасьць	слушнасць	how right a match is; Starnik слушны, official noun слушнасць; hunspell wants ь	https://starnik.by/pravapis/150653
+lemma.ancient	древний	ancient	старажытны			https://starnik.by/pravapis/151816
+lemma.kitchen_adj	кухонный	kitchen	кухонны			https://starnik.by/pravapis/120401
+lemma.infinite	бесконечный	infinite	бясконцы/бясконцым			https://starnik.by/pravapis/100878
+lemma.transition	переход	transition	пераход/пераходы			https://starnik.by/pravapis/56043
