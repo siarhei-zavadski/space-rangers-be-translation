@@ -986,7 +986,7 @@ lemma.vakkati	ваккати	vakkati	ваккаці	вінакур	malok distill
 lemma.kraki	краки	kraki	Кракі/кракі		the prince's snack-name for the shells; he eats them	Banket.qmm
 lemma.gravtank	гравитанк	gravtank	гравітанк/гравітанка		combat vehicle; hunspell has no form	Banket.qmm
 lemma.destructor_beam	деструкторный	destructor	дэструктарны		beam weapon the father wanted for his sons	Banket.qmm
-lemma.holodisk	голо-диск	holodisk	голадыск	гола-дыск	a disk with a ladies' romance; one token so it is not read as naked	Banket.qmm
+lemma.holodisk	голо-диск	holodisk	голадыск/голадыскі	гола-дыск	a disk with a ladies' romance; one token so it is not read as naked; N pl голадыскі	Banket.qmm
 lemma.denebola	Денебола	Denebola	Дэнэбола/Дэнэболы		star the peleng tells the ranger to search from	Banket.qmm
 lemma.bioslot	биослотовый	bioslot	біяслотавы/біяслотавых		faeyan hull slot; hunspell has no form	Banket.qmm
 lemma.elemental_games	Элементал Геймс	Elemental Games	Элемэнтал/Гэймз/гэймз		the studio in Tsiga's vision of the ranger games	Banket.qmm
@@ -1107,7 +1107,7 @@ lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сілік
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
 lemma.ambush_star	Засадная	Ambush	Засадная		star name, feminine of засада	https://starnik.by/pravapis/27696
 lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту/ГайдНэце	ГайдНет	internal network name	Gaidnet.qmm
-lemma.hacker	хакер	hacker	хакер/хакера	гакер	G хакера	https://starnik.by/pravapis/81345
+lemma.hacker	хакер	hacker	хакер/хакера/хакераў	гакер	G хакера; Gpl хакераў is a hunspell gap	https://starnik.by/pravapis/81345
 lemma.shocker	шокер	shocker	шокер/шокерам/шокера	шокэр	stun gun; I шокерам; G шокера	https://starnik.by/pravapis/85477
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
 lemma.mental	ментал	mental	мэнтал/мэнталаў/мэнталы/Мэнтал		brain-load unit; G pl мэнталаў	Gaidnet.qmm
@@ -1754,7 +1754,7 @@ lemma.balance_game	баланс	game balance	балянс/балянсу		evenne
 lemma.virtual_place	виртуал	virtual space	віртуал/віртуале		the virtual, locative віртуале; not in Starnik	—
 lemma.virtual_card	виртуалка	virtual card	віртуалка/віртуалкі		a card of virtual credits; not in Starnik	—
 lemma.virtubucks	виртубакс	virtubuck	віртубакс/віртубаксы/віртубаксавы/віртубаксаў		coined virtual-credit unit; Gpl віртубаксаў; not in Starnik	—
-lemma.neuro	нейро	neuro	нэйракрэсла/нэйракрэслам/нэйракрэсламі/нэйраплязма/нэйраплязмы/нэйрасетка/нэйрасеткі/нэйракрэсле		coined chair, slime, and net; L нэйракрэсле; not in Starnik	—
+lemma.neuro	нейро	neuro	нэйракрэсла/нэйракрэслам/нэйракрэсламі/нэйраплязма/нэйраплязмы/нэйрасетка/нэйрасеткі/нэйракрэсле/нэйраплязму		coined chair, slime, and net; L нэйракрэсле; As нэйраплязму; not in Starnik	—
 lemma.ziambda	зямбда	ziambda	зямбда		coined patch codename; not in Starnik	—
 lemma.shotgun	шотган	shotgun	шотган		gamer loan for a shotgun; not in Starnik	—
 lemma.plasmagun	плазмоган	plasmagun	плязмаган/плязмагана		gamer loan for a plasma gun; not in Starnik	—
@@ -1783,9 +1783,9 @@ lemma.rocketburger	Рокет Лянчер	rocket launcher burger	Рокет/Л�
 lemma.mcdonalds	МакДональдс	McDonald's	Макдоналдс		the tycoon-game title; not in Starnik	—
 lemma.diablo	Дябла	Diablo	Дзябла/Дзяблу		the "go play Diablo 10" joke; not in Starnik	—
 lemma.toygames	Игрулечки	toy games	Гульнячкі		the game magazine; not in Starnik	—
-lemma.lame	ламер	lamer	ламэр/ламэра		gamer slang for a newbie; not in Starnik	—
+lemma.lame	ламер	lamer	ламэр/ламэра/ламэраў		gamer slang for a newbie; Gpl ламэраў; not in Starnik	—
 lemma.nonsense_ui	субъемкость	nonsense blend	суб'ёмкасьці/прастанцыі		the hero's mockery of the lecture's jargon; not in Starnik	—
-lemma.stutter_thanks	спасибо	thanks stutter	Дзя		the cut-off Дзя... of дзякуй; hunspell suggestions are other words	—
+lemma.stutter_thanks	спасибо	thanks stutter	Дзя/дзя		the cut-off Дзя... of дзякуй; hunspell suggestions are other words	—
 lemma.interjection_mda	мда	meh	Мда		the gamer's grumble; hunspell suggestions are other words	—
 lemma.smokatina	Смокатина	misheard fever	Смакаціна		the sick woman's first try at шкарлятына; the pun is смак	—
 lemma.carved_tama	Тама	carved there	Тама		the sign is already bad Belarusian; freeze Тама куча золата	Moi.qmm
@@ -1806,3 +1806,21 @@ lemma.streglyach	стреглячка	coined bird	стрэглячка/стрэ�
 lemma.stereograph	стереографика	stereographics	стэрэаграфіка/стэрэаграфіку		the fake stump's graphics; Starnik has the adjective стэрэаграфічны	https://starnik.by/pravapis/152378
 lemma.cutoff_stolen	украден	stolen, cut off	укра		the healer's укра... before he says куплены	—
 lemma.fasttalk	скороговорка	tongue-twister	хуткамоўка/хуткамоўкай		Starnik хуткамоўка; hunspell suggests хутканогай, a different word	https://starnik.by/pravapis/82481
+lemma.interface	интерфейс	interface	інтэрфэйс/інтэрфэйсо		Starnik інтэрфэйс; hunspell suggests інтэрфэрон, a different word; інтэрфэйсо is the door's broken try	https://starnik.by/pravapis/31175
+lemma.init_module	инициализация	initialization	ініцыялізацыі		the linguistic-module error; Starnik ініцыялізацыя; G is a hunspell gap	https://starnik.by/pravapis/30817
+lemma.vat	НДС	VAT	ПДВ		value-added tax on the buyer's sign; hunspell suggestion is another word	—
+lemma.kuroswin	куросвин	hen-pig	курасвіна		the malok who looks like a hen and a pig; not in Starnik	—
+lemma.kosmolingua	космолингва	common tongue	касмалінгве		the door asks for the common space tongue; L касмалінгве; not in Starnik	—
+lemma.brainrhythm	мозгоритм	brain rhythm	мазгарытмы		the ancient keyboard misses brain rhythms; not in Starnik	—
+lemma.mapper	маппер	level mapper	мапер		the gaal who builds locations; not in Starnik	—
+lemma.sevencolor	семицветник	seven-color flower	сямівкаляровік		the flower the mapper expected, parallel to шматкаляровік; not in Starnik	—
+lemma.poundlord	Вдолб	earth lord	Удоўб		coined lord of earth, from даўбці; not in Starnik	—
+lemma.blowlord	Вздуй	air lord	Узьдзьмуй		coined lord of air; not in Starnik	—
+lemma.abdulbis	Абдулбис	Abdulbis	Абдулбіса		the dead great mage; G Абдулбіса; not in Starnik	—
+lemma.morpheus	Морфеус	Morpheus	Морфеус		the Matrix name on the screen; not in Starnik	—
+lemma.carroll	Кэрролл	Carroll	Льюіса/Кэрала		Lewis Carroll, the looking-glass tale; not in Starnik	—
+lemma.nafnafir	Наф-Нафир	Naf-Nafir	Наф/Нафір/Нафіра/Нафіру/Ніф/Ніфур/Ніфурам/Нуф/Нуфер/Нуферам		the three pig-maloks; hyphen splits the names	—
+lemma.pigsale	ЧП СВИН	pig firm	ЧП/СВІН		the buyer's license header; same width as the Russian line	—
+lemma.license_x	ХХХ	license blank	ХХХ/ХХХХХХХ		placeholder digits on the license; not words	—
+lemma.door_gibber	хиромату	wrong-language door	Хірамату/квацукі/нікабарыс/адседа/шухер/хіро/вэк/банзай/ватакасі/Эка/Масураі/Вакарымас/Каа/торо/буторо/Ваік/масакі/Ерыкі/шморыкі		the door's first two languages, pseudo-Japanese plus broken speech	—
+lemma.loot_cut	снима	loot, cut off	здыма		the buyer almost says he loots the dead, then corrects himself	—
