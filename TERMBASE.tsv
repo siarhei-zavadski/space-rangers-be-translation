@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -299,7 +299,7 @@ lemma.cologne	Тройной одеколон	Triple cologne	Тройны адэ
 lemma.vonilin	Вонилин-ФУ	Stinkillin-FU	Вонілін-ФУ		Faruk +10% stink ampule; keep joke stem	—
 lemma.stink_unit	вонь / ВОНь	stink units	вань / ВОНь		Faruk Величина Относительной Неароматности; keep ВОНь cap unit	—
 lemma.orangerie	оранжерея	orangery	аранжарэя		Faruk; G аранжарэі A аранжарэю	—
-lemma.case	кейс	case	кэйс/Кэйс/кэйсам/кэйсе		Faruk fruit case; hunspell leftover OK like сэйф	—
+lemma.case	кейс	case	кэйс/Кэйс/кэйсам/кэйсе/кэйса		Faruk fruit case; hunspell leftover OK like сэйф	—
 lemma.ski_lift_chair	кресельный подъемник	chairlift	крэсельны пад'ёмнік		Ski.qmm	—
 lemma.ski_lift_cabin	кабиночный подъемник	gondola lift	кабінны пад'ёмнік		Ski.qmm; hunspell кабінны	—
 lemma.deputy	заместитель	deputy	намесьнік		Ski.qmm resort deputy; not спадарожнік	—
@@ -638,7 +638,7 @@ lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; �
 lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
 lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
-lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму		race adj from гаальцы	LOCK
+lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
 lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
 lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
@@ -792,7 +792,7 @@ lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator 
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры		one who robs the dead and wounded	https://starnik.by/pravapis/41704
-lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам/фэянка/фэяначкі/фэянску		Coalition race; diminutive фэяшкі; song фэянка/фэяначкі; feminine salad	Photorobot.qmm
+lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам/фэянка/фэяначкі/фэянску/Фэянскае		Coalition race; diminutive фэяшкі; song фэянка/фэяначкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
 lemma.dreads	дреды	dreadlocks	дрэды/Дрэды	дрэваеды	Starnik plural-only noun; hunspell suggestion is the wrong sense	https://starnik.by/pravapis/23607
@@ -1470,7 +1470,7 @@ lemma.malpa	Мальпа	Malpa	Мальпа/Мальпы/Мальпай/Маль
 lemma.nouer	Ноуэр	Nouer	Ноўэр/Ноўэрам		default ranger name; I Ноўэрам	Kidnapped.qmm
 lemma.phedok	Пхедок	Phedok	Пхэдок		departure star	Kidnapped.qmm
 lemma.deconstructor	деконструктор	deconstructor	дэканструктар/дэканструктара/Дэканструктар/дэканструктараў/дэканструктары/дэканструктарамі/дэканструктарам/Дэканструктары		crawling machine; I дэканструктарам	Kidnapped.qmm
-lemma.trigger	триггер	trigger	Трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
+lemma.trigger	триггер	trigger	Трыгер/трыгер		Starnik трыгер; hunspell suggestions are unrelated	https://starnik.by/pravapis/76060
 lemma.vrotbyltysya	вротбылтыся	vrotbyltysya	вротбылтыся/вротбылтысь		garbled bottle brand, kept byte-identical	Kidnapped.qmm
 lemma.sonar	сонар	sonar	санар/санара/санарам/санарны/санарныя/санарная	сонар	Starnik G санара; hunspell suggestions are unrelated	https://starnik.by/pravapis/67493
 lemma.erok	Эрок	Erok	Эрок/Эрока/Эрокам		pirate; I Эрокам	Kidnapped.qmm
@@ -1670,7 +1670,7 @@ lemma.arben	Арбен	Arben	Арбэн/Арбэна/Арбэне		safe-puzzle r
 lemma.bazol	Базол	Basol	Базол/Базола/Базоле		safe-puzzle reagent	Driver.qmm
 lemma.vinon	Винон	Vinon	Вінон/Вінона/Віноне		safe-puzzle reagent	Driver.qmm
 lemma.gluconate	г-люконат	g-luconate	глюканат/глюканату/глюканатам		coined additive in the safe acid	Driver.qmm
-lemma.cyclocalol	циклокалольная	cyclocalolic	цыклакалольнай		coined acid for the safe	Driver.qmm
+lemma.cyclocalol	циклокалольная	cyclocalolic	цыклакалольнай/калольнай		coined acid for the safe; shorter калольная in the bar	Driver.qmm
 lemma.janissary	янычар	janissary	Янычар/Янычара		cockroach racer; track letter Я	https://starnik.by/pravapis/88342
 lemma.rysak	рысак	trotter	Рысак/Рысака		cockroach racer; track letter Р	https://starnik.by/pravapis/65377
 lemma.tamerlane	Тамерлан	Tamerlane	Тамерлан/Тамерлана		cockroach racer; track letter Т	—
@@ -1937,7 +1937,7 @@ lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged we
 lemma.plasma_adj	плазменный	plasma, adjective	плязменны		Starnik плазменны; tarask пля-; hunspell wants another word	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
-lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай		the clan house; hunspell wants other names	—
+lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
 lemma.jeeeri	Джеери	clan contact	Джээры		a proper name; hunspell wants another name	—
 lemma.viito	Виито	clan contact	Вііта		a proper name; hunspell wants another name	—
 lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма		the town; hunspell wants other words	—
@@ -1952,7 +1952,7 @@ lemma.smoking	дымясь	smoking, participle	дымячы		gerund of дымі�
 lemma.bulletproof	пуленепробиваемый	bulletproof	куленепрабівальны	кулянепрабівальны	Starnik and hunspell; the куля- spelling is a different token	https://starnik.by/pravapis/120147
 lemma.ahtung	Ахтунг	pizzeria name	Ахтунг		German name on the sign; hunspell wants other words	—
 lemma.calm_city	Калм-сити	Calm City	Калм/сіці		the city; hunspell wants other words	—
-lemma.feyada	Фэйада	Faeyada clan	Фэйада/фэйады		the faeyan clan; hunspell wants another name	—
+lemma.feyada	Фэйада	Faeyada clan	Фэйада/фэйады/Фэйадзе		the faeyan clan; hunspell wants another name	—
 lemma.laptop	лаптоп	laptop	лэптоп/Лэптоп/лэптопа/лэптопе		Starnik лэптоп; hunspell suggestion is another word	https://starnik.by/pravapis/40251
 lemma.holovisor	галовизор	holovisor	галявізар/галявізара		the bar screen; coined like галяграма; not in Starnik	—
 lemma.elevated_rail	надземка	elevated rail	надземка/надземкі		the city line; not Starnik надзем'е	—
@@ -1994,3 +1994,23 @@ lemma.pal	кореш	pal	сябрук/сябрука		criminal address; G сяб
 lemma.showoff	фраер	show-off	хлюст/хлюста		sly dandy; prison slang	https://starnik.by/pravapis/82112
 lemma.hoodlum	отморозок	hoodlum	шаленец/шаленца		reckless violent inmate; G шаленца	https://starnik.by/pravapis/84630
 lemma.chick	цыпа	sweetlips	цыпачка		address to the nurse	https://starnik.by/pravapis/83174
+lemma.bar_pub	бар	bar	бар/бара/бары		restaurant; G бара, L бары; not the unit	https://starnik.by/pravapis/9094
+lemma.billiard_pocket	луза	billiard pocket	луза/лузу/лузы		pocket a ball falls into; A лузу	https://starnik.by/pravapis/40052
+lemma.zoom	зум	zoom	зум/зумам/зуму		camera zoom; I зумам, G зуму	https://starnik.by/pravapis/29873
+lemma.burger	бургер	burger	бургер/бургеры/бургераў		the snack; pl бургеры	https://starnik.by/pravapis/12069
+lemma.pseudopod	ложноножка	pseudopod	ілжэножка/ілжэножкай		gaal limb in the hallucination; I ілжэножкай	https://starnik.by/pravapis/30343
+lemma.hysteria	истерия	hysteria	істэрыя/істэрычных	гістэрыя	Starnik істэрыя; hunspell suggests гістэрычных	https://starnik.by/pravapis/31450
+lemma.uuk	Уук	librarian Uuk	Уук		gaal librarian; a proper name	—
+lemma.andid	Андид	Andid	Андзід		the peleng's supposedly dead friend	—
+lemma.alganak	Алганак	Alganak	Алганак/Алганаку		faeyan planet; L Алганаку	—
+lemma.makmak	Макмак	Makmak	Макмак/Макмака		the snack bar; G Макмака	—
+lemma.ketchupburger	Кетчупбургер	ketchup burger	Кетчупбургер/кетчупбургер		Makmak menu item; coined	—
+lemma.arghburger	Аргхбургер	argh burger	Аргхбургер/аргхбургер		Makmak menu item; the bite hurts	—
+lemma.grrrburger	Грррбургер	grrr burger	Грррбургер/грррбургер		Makmak menu item; it fights back	—
+lemma.allburger	Всебургер	all-burger	Усебургер/ўсебургер/ўсебургера		Makmak menu item; G ўсебургера after a vowel	—
+lemma.frozencat	Фрозенкэт	frozen cat	Фрозэнкэт/фрозэнкэт		Makmak menu item; a baked cat	—
+lemma.potato_slave	слэйв	slave potato	слэйв		the English loan in Бульба-слэйв	—
+lemma.dreamwine	грезогонное	dream wine	грэзагоннае/Грэзагоннае/грэзагонным		gaal wine that shows a tiny Terron	—
+lemma.burp	Бурп	burp	Бурп		the sound after the cola	—
+lemma.minigolf	миниквазигольф	mini quasi-golf	мініквазігольф		the villa's lawn game; coined	—
+lemma.psychokinetic	психокинетический	psychokinetic	псыхакінэтычнага		illegal faeyan weapons; not in Starnik	—
