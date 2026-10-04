@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate, validate, and consume the game-structured Crowdin corpus."""
+"""Generate, validate, and consume the checked-in translation corpus."""
 
 from collections import Counter
 import argparse
@@ -25,12 +25,12 @@ GAME = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War
 SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
 ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
 MOD_DAT = GAME / "Mods/Tweaks/BelTranslate/CFG/Rus/Lang.dat"
-CROWDIN = PROJECT / "crowdin"
-LANG_DIR = CROWDIN / "lang_dat"
-QUEST_DIR = CROWDIN / "quests"
-ASSET_DIR = CROWDIN / "assets"
-ROBOTS_DIR = CROWDIN / "robots"
-COVERAGE = CROWDIN / "coverage.json"
+CORPUS = PROJECT / "corpus"
+LANG_DIR = CORPUS / "lang_dat"
+QUEST_DIR = CORPUS / "quests"
+ASSET_DIR = CORPUS / "assets"
+ROBOTS_DIR = CORPUS / "robots"
+COVERAGE = CORPUS / "coverage.json"
 FIELDS = ("identifier", "source_phrase", "context", "labels", "be")
 CONTROL = re.compile(r"<[^<>]+>|\{[^{}]*\}|\[p\d+\]|\r\n|\r|\n")
 RUSSIAN = re.compile(r"[А-Яа-яЁё]")
@@ -54,7 +54,7 @@ QUEST_LITERAL_KEYS = {
     "ranger": "<Ranger>",
 }
 
-# Crowdin stores the words; build metadata maps those words back to GI assets.
+# The corpus stores the words; build metadata maps those words back to GI assets.
 ASSETS = {
     ("FormMain2", "New"): ("НОВАЯ ИГРА", "НОВАЯ ГУЛЬНЯ", "button"),
     ("FormMain2", "Load"): ("ЗАГРУЗИТЬ", "ЗАГРУЗІЦЬ", "button"),
@@ -558,7 +558,7 @@ def validate_tags(source: str, target: str, location: str) -> None:
 def check() -> None:
     files = corpus_files()
     if not files:
-        raise FileNotFoundError("No split Crowdin files; run refresh")
+        raise FileNotFoundError("No corpus files; run refresh")
     russian = DAT.from_dat(SOURCE_DAT).to_dict()
     english = DAT.from_dat(ENGLISH_DAT).to_dict()
     expected_dat, _ = dat_rows(russian, english, existing_translations())
@@ -646,7 +646,7 @@ def check() -> None:
         row["identifier"] for row in robot_rows(existing_translations())[1]
     }:
         raise ValueError("coverage.json does not account for every robots.dat property")
-    print(f"Valid: {translated}/{len(seen)} translated strings in {len(files)} Crowdin files")
+    print(f"Valid: {translated}/{len(seen)} translated strings in {len(files)} corpus files")
 
 
 def main() -> None:

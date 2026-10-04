@@ -16,13 +16,13 @@ Reuse a locked term. Do not invent a second pipeline.
    Spelling clash: hunspell wins. Meaning clash: Starnik wins.
    Record the new lemma in `TERMBASE.tsv` (sense, endings, rejected calque, Starnik URL).
 4. `validate_corpus.py` — placeholders, tags, and `{…}` / `[pN]` must match the source.
-5. `crowdin_sync.py check` — corpus ids, source text, and quest round-trip.
+5. `corpus_data.py check` — corpus ids, source text, and quest round-trip.
 6. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
-`STYLE.md` and `ORTHO.md` are the language rules. `CROWDIN.md` is where the
-`be` cell is supposed to be edited once Crowdin is the source of truth.
-Formulas are not in the TSV (`formula`, `expression`, `formula_to_pass` in
-`crowdin_sync.py`). Leave them alone.
+`STYLE.md` and `ORTHO.md` are the language rules. Edit the `be` cell in
+`corpus/`; that tree is the source of truth. Formulas are not in the TSV
+(`formula`, `expression`, `formula_to_pass` in `corpus_data.py`). Leave them
+alone.
 
 ## What the quest engine actually checks
 
@@ -129,7 +129,7 @@ such as Mafia’s `Пассворд` / `Parol`) are ordinary prose.
 
 ## Order of work
 
-UI and `crowdin/lang_dat/` first, until the termbase covers the words those
+UI and `corpus/lang_dat/` first, until the termbase covers the words those
 screens repeat. Quests after that. Puzzle files last, one file at a time,
 so every copy of a name (diary, statue, jump) is edited together.
 

@@ -2,13 +2,11 @@
 
 ## Translation changes
 
-Translate in the
-[Crowdin project](https://crowdin.com/project/space-rangers-hd-belarusian).
+Edit the `be` column in `corpus/`. The repository is the source of truth.
 Follow `ORTHO.md`, `STYLE.md`, and `TERMBASE.tsv`. Preserve placeholders,
 formulas, parameter references, and line breaks exactly.
 
-Download translations with the commands in `CROWDIN.md` before a build. Do not
-edit Russian source cells or generated identifiers by hand.
+Do not edit Russian source cells or generated identifiers by hand.
 
 ## Code and corpus changes
 
@@ -25,10 +23,10 @@ game installation:
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements-local.txt
-.venv/bin/python crowdin_sync.py refresh
+.venv/bin/python corpus_data.py refresh
 .venv/bin/python audit_translation_scope.py --write
-.venv/bin/python crowdin_sync.py check
+.venv/bin/python corpus_data.py check
 ```
 
 Do not commit game binaries, extracted packages, backups, build output,
-credentials, or personal Crowdin tokens. See `THIRD_PARTY.md`.
+or credentials. See `THIRD_PARTY.md`.

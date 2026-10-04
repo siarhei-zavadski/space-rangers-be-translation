@@ -220,8 +220,8 @@ Use these to understand RU→BE meaning, then convert spelling via §A–B:
 ## 6. Immediate next actions
 
 1. Expand `TERMBASE.tsv` to the first 50 high-frequency terms.
-2. Add image labels to `crowdin/assets/`; translate live strings in the split
-   `crowdin/{lang_dat,quests,robots,assets}/` corpus.
+2. Add image labels to `corpus/assets/`; translate live strings in the split
+   `corpus/{lang_dat,quests,robots,assets}/` corpus.
 3. Rebuild with `.venv/bin/python build_test_mod.py`.
 4. Check `build/preview/`, Hunspell, then verify each changed screen in-game.
 5. Test runtime AFT rendering for `ў` and optional `ґ`.

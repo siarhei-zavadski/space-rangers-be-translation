@@ -11,12 +11,12 @@ from rangers.graphics.gi import GI
 from rangers.pkg import PKG
 
 from aft_font import glyph_codes, patch_game_forms, write_patched_fonts
-from crowdin_sync import (
+from corpus_data import (
     ASSETS,
     asset_translations,
-    check as check_crowdin,
+    check as check_corpus,
     set_value,
-    translations as crowdin_translations,
+    translations,
     write_translated_quests,
     write_translated_robots,
 )
@@ -63,7 +63,7 @@ APOSTROPHE_FOLD = str.maketrans({"\u2019": "'", "\u2018": "'", "\u02bc": "'"})
 def patch_dat(source: Path, destination: Path) -> None:
     dat = DAT.from_dat(source)
     values = dat.to_dict()
-    for path, translation in crowdin_translations().items():
+    for path, translation in translations().items():
         try:
             set_value(values, path, translation.translate(APOSTROPHE_FOLD))
         except (TypeError, IndexError):
@@ -78,7 +78,7 @@ def write_utf16(path: Path, text: str) -> None:
 
 def main() -> None:
     assert FONT.exists(), FONT
-    check_crowdin()
+    check_corpus()
     source_pkg = GAME / "DATA/russian.pkg"
     assert source_pkg.exists(), source_pkg
 
@@ -190,7 +190,7 @@ FullDescriptionEng=Belarusian translation for Space Rangers HD.
         assert 0x0456 in codes and 0x045E in codes
         assert 0x2019 in codes and 0x0027 in codes
 
-    n_dat = len(crowdin_translations())
+    n_dat = len(translations())
     print(f"Built {MOD}")
     print(f"Preview: {preview}")
     print(f"Menu buttons: {len(buttons)}")

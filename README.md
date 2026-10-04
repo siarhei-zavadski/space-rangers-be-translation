@@ -3,14 +3,14 @@
 Working Linux-native translation pipeline for Space Rangers HD: A War Apart.
 This is an unofficial, non-commercial fan project.
 
-## Translate in Crowdin
+## Translate
 
-Use the live
-[Space Rangers HD Belarusian project](https://crowdin.com/project/space-rangers-hd-belarusian).
-The game-structured corpus covers core DAT text, all 80 text quests,
-planetary-battle strings, and known baked labels. Current counts and
-download/build steps are in [`TRANSLATION-SCOPE.md`](TRANSLATION-SCOPE.md) and
-[`CROWDIN.md`](CROWDIN.md).
+Edit the `be` column in `corpus/`. The repository is the source of truth.
+Russian `source_phrase` is the sense; English `context` is the cross-check.
+The corpus covers core DAT text, all 80 text quests, planetary-battle
+strings, and known baked labels. Counts are in
+[`TRANSLATION-SCOPE.md`](TRANSLATION-SCOPE.md). The line procedure is in
+[`TRANSLATION.md`](TRANSLATION.md).
 
 ## Translation tools
 
@@ -20,7 +20,6 @@ Daily lookup order is in [`STYLE.md`](STYLE.md); spelling lock is in
 
 | Tool | Website | Use |
 |------|---------|-----|
-| Crowdin | https://crowdin.com/project/space-rangers-hd-belarusian | Translation editor and sync |
 | Starnik | https://starnik.by | Meaning, lemma, and endings first |
 | Skarnik | https://www.skarnik.by | RU→BE only if Starnik is still unclear |
 | spell-be-tarask | https://github.com/375gnu/spell-be-tarask | `hunspell -d be_BY@tarask`; spelling wins clashes |
@@ -32,7 +31,7 @@ Daily lookup order is in [`STYLE.md`](STYLE.md); spelling lock is in
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -r requirements-local.txt
-.venv/bin/python crowdin_sync.py check
+.venv/bin/python corpus_data.py check
 .venv/bin/python build_test_mod.py
 ```
 
