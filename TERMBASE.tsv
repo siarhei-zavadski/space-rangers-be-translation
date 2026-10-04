@@ -1697,7 +1697,7 @@ lemma.hits	хиты	hit points	Хіт/Хіты/хіт/хіты		game HP pool; St
 lemma.focus	сосредоточенность	concentration	засяроджанасьць/Засяроджанасьць	сканцэнтраванасьць	absorbed attention; Starnik засяроджанасць, tarask soft sign	https://starnik.by/pravapis/27906
 lemma.amulet	амулет	amulet	амулет/Амулет		charm worn on the body	https://starnik.by/pravapis/4486
 lemma.magic_noun	магия	magic	магія/Магія/Магіі	чары	noun of the spell art; adjective stays магічны	https://starnik.by/pravapis/40621
-lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры/эліксіраў/Эліксіраў/эліксірамі/эліксіру/эліксірчык		magic draught; G эліксіру, Gpl эліксіраў, I pl эліксірамі and the diminutive are hunspell gaps	https://starnik.by/pravapis/87267
+lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры/эліксіраў/Эліксіраў/эліксірамі/эліксіру/эліксірчык/эліксірчыка		magic draught; G эліксіру, Gpl эліксіраў, I pl эліксірамі and the diminutive are hunspell gaps	https://starnik.by/pravapis/87267
 lemma.healing	исцеление	healing	гаеньне/Гаеньня	ацаленьне	wound-healing from гаіць; Starnik гаенне, tarask гаеньне; treatment is лячэньне	https://starnik.by/pravapis/17285
 lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		unconscious sense; G інтуіцыі	https://starnik.by/pravapis/30976
 lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
@@ -1884,3 +1884,6 @@ lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell s
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
 lemma.bellysaurus	брюхозавр	belly-saurus	брухазаўр		the sleepy joke dinosaur; hunspell wants архазаўр, another beast	—
+lemma.toadworm	жабочервь	toad-worm	ЖАБАЧАРВЯК/жабачарвяк		the cave's insult; coined; hunspell splits it	—
+lemma.chur	чур	apotropaic chur	Чур/чур		keep away; hunspell suggestions are other words	—
+lemma.gay_pun	гей	gay, the echo	гей		the echo of Эге-ге-гей; hunspell wants other words	—
