@@ -1837,12 +1837,12 @@ lemma.darkness	тьма	darkness	Цемра/Цемры/цемра/цемры		ri
 lemma.romualda	Ромуальда	Romualda	Рамуальда/Жыгімонтаўна/Рамуальды		the witch; the patronymic is a hunspell gap; Жыгімонт is Starnik	https://starnik.by/pravapis/89474
 lemma.gnus	Гнус	Gnus	Гнус/Гнусу/Гнусік/Гнусіка/Злапакосьнікаў/Злапакосьніцтва		the dean of malicious wizardry; Гнус is vermin; the surname is coined	https://starnik.by/pravapis/20255
 lemma.zhvyrklats	жвырклац	coined beast	жвырклац/жвырклаца		milk from a zhvyrklats; not a real animal	—
-lemma.cryonics	крионика	cryonics	крыёніка/крыёнікай		years the witch's magic held back; hunspell suggests крыягенікай, another word	—
+lemma.cryonics	крионика	cryonics	крыёніка/крыёнікай/Крыёніка		years the witch's magic held back; hunspell suggests крыягенікай, another word	—
 lemma.freshbrew	Свежесваренный	freshly brewed	Сьвежазвараны		the warm elixir, one word beside the load joke	—
 lemma.freshload	Свежеподгруженный	freshly loaded	Сьвежападгружаны		the designer's voice; hunspell suggestions are other words	—
 lemma.housepun	срубается	house-building pun	зрубуецца/дашыцца/падмуркоўваецца		nonce verbs echoing зруб, дах and падмурак	—
 lemma.flatter_bad	льстюн	wrong flatterer	лісьцюн		the hero's wrong try before лісьлівец	—
-lemma.kamasutra	Камасутра	Kamasutra	Камасутра/Камасутры		the book the witch names; hunspell suggestion is another word	—
+lemma.kamasutra	Камасутра	Kamasutra	Камасутра/Камасутры/Камасутру		the book the witch names; hunspell suggestion is another word	—
 lemma.matpart	матчасть	materiel	матчастка/матчасткай		the abbreviation the hero does not understand	—
 lemma.orange_fruit	апельсин	orange fruit	апэльсін/апэльсіны/апэльсінаў/апэльсінамі/апэльсінавай/апэльсінавым/апэльсінавых		the fruit, not the color аранжавы; hunspell э over Starnik апельсін	https://starnik.by/pravapis/5409
 lemma.mudflow	Грязевой Поток	mud-flow spell	Гразевы/Паток/Гразевым/Патокам		earth spell on the epitaph; Starnik гразевы	https://starnik.by/pravapis/106905
@@ -1879,7 +1879,7 @@ lemma.fraerok	фраерок	punk, diminutive	фраерок		contemptuous dimin
 lemma.ratboar	крысокабан	rat-boar	пацукадзік/пацукадзіка/пацукадзікаў/пацукадзікі		a coined cross of rat and boar	—
 lemma.intelligentsia_nonce	нтылигенция	mispronounced intelligentsia	нтылігенцыя		the dwarves drop the first vowel of інтэлігенцыя	—
 lemma.quench	утолить	quench	спатоліць		to quench a thirst; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/213746
-lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
+lemma.vampirism	вампиризм	vampirism spell	Вампірызм/вампірызм/вампірызму		air plus spirit; Starnik; hunspell wants Вампір	https://starnik.by/pravapis/13287
 lemma.ghoul	упырь	ghoul	вупар		the folklore ghoul; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/15451
 lemma.yeti	йети	yeti	еці/Еці		the shaggy beast; a loan, not in Starnik	—
 lemma.krakozyavka	кракозявка	nonsense bug	краказяўка/краказявак		the bugs Buka is tired of eating; a nonce	—
@@ -1906,3 +1906,5 @@ lemma.mean_trick	подлянка	dirty trick	падлянка/падлянку	
 lemma.chilly	прохладно	chilly	прахалодна		adverb of прахалодны; hunspell has the adjective only	https://starnik.by/pravapis/141990
 lemma.vision	виденье	fleeting vision	відзеньне		Starnik відзенне; tarask -ньне; hunspell suggestions are other words	https://starnik.by/pravapis/14339
 lemma.little_shot	уколик	little injection	ўкольчык/ўкольчыкаў		diminutive of укол; chilly enough for a shot	https://starnik.by/pravapis/78161
+lemma.supermalok	Супермалок	Supermalok	Супермалок/Супермалока		comic the hero boasts of; hunspell wants another word	—
+lemma.khrepka	Хрепка	Turnip parody	Хрэпка/Хрэпку		Репка with an extra Х; hunspell wants Рэпку	—
