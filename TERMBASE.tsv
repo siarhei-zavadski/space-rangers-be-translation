@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/рэйнджэрамі/рэйнджэрскіх		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -1408,7 +1408,7 @@ lemma.pilot_shop	ассортимент магазина	shop table	ДВИГАТ
 lemma.super_bug	супербукашка	superbug joke	суперновы/супербіяхімічны/супербукашак		Bigbuba cuts off the science act	Pilot.qmm
 lemma.trainer	тренажер	simulator	трэнажор/трэнажоры/трэнажора/трэнажорам/трэнажорах	трэнажэр	exam and cargo simulator	https://starnik.by/pravapis/76292
 lemma.sergeant	сержант	sergeant	сяржант/сяржанта		army rank	https://starnik.by/pravapis/74298
-lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным/галяграму/галяграмы	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
+lemma.hologram	голограмма	hologram	галяграма/галяграмай/галяграфічнай/галяграфічным/галяграфічныя/галяграму/галяграмы	галаграма	Starnik галаграма; hunspell spelling wins	https://starnik.by/pravapis/17526
 lemma.belucian	белуцианский	Belucian	белуцыянскага/белуцыянскі		coined lemon	Pilot.qmm
 lemma.coach	тренер	coach	трэнэр/трэнэра/трэнэрам	трэнер	nominative follows hunspell; Starnik lemma is трэнер; PlanetQuest already has instrumental трэнэрам	https://starnik.by/pravapis/76295
 lemma.ashot	Ашот	Ashot	Ашот/Ашота		clerk; Armenian name	Olympiada.qmm
@@ -1697,7 +1697,7 @@ lemma.hits	хиты	hit points	Хіт/Хіты/хіт/хіты		game HP pool; St
 lemma.focus	сосредоточенность	concentration	засяроджанасьць/Засяроджанасьць	сканцэнтраванасьць	absorbed attention; Starnik засяроджанасць, tarask soft sign	https://starnik.by/pravapis/27906
 lemma.amulet	амулет	amulet	амулет/Амулет		charm worn on the body	https://starnik.by/pravapis/4486
 lemma.magic_noun	магия	magic	магія/Магія/Магіі	чары	noun of the spell art; adjective stays магічны	https://starnik.by/pravapis/40621
-lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры/эліксіраў/Эліксіраў/эліксірамі		magic draught; G эліксіру, Gpl эліксіраў and I pl эліксірамі are hunspell gaps	https://starnik.by/pravapis/87267
+lemma.elixir	эликсир	elixir	эліксір/Эліксір/эліксіры/Эліксіры/эліксіраў/Эліксіраў/эліксірамі/эліксіру/эліксірчык		magic draught; G эліксіру, Gpl эліксіраў, I pl эліксірамі and the diminutive are hunspell gaps	https://starnik.by/pravapis/87267
 lemma.healing	исцеление	healing	гаеньне/Гаеньня	ацаленьне	wound-healing from гаіць; Starnik гаенне, tarask гаеньне; treatment is лячэньне	https://starnik.by/pravapis/17285
 lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		unconscious sense; G інтуіцыі	https://starnik.by/pravapis/30976
 lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
@@ -1739,7 +1739,7 @@ lemma.well	колодец	well	калодзеж		a water well	https://starnik.by
 lemma.dialogue_adj	диалоговый	dialogue	дыялогавая/Дыялогавая		Starnik stress дыяло́гавая; hunspell suggestions are other words	https://starnik.by/pravapis/110215
 lemma.riddle_cave	Пещера Загадок	Cave of Riddles	Пячора Загадак		place name	https://starnik.by/pravapis/62250
 lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest boolean marker; the cloth sense is the same word	https://starnik.by/pravapis/73968
-lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/зеллем		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
+lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
 lemma.life	жизнь	life	жыцьцё/жыцьцяў		Starnik жыццё; tarask soft sign; Gpl жыцьцяў is a hunspell gap	https://starnik.by/pravapis/26025
 lemma.universe	вселенная	universe	сусьвет/сусьветах		Starnik сусвет; tarask сь; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
 lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі		a walking corpse; hunspell gap	https://starnik.by/pravapis/45012
@@ -1836,7 +1836,7 @@ lemma.icebee	Ледяная Пчела	ice bee	Ледзяная/Пчала/Ле�
 lemma.darkness	тьма	darkness	Цемра/Цемры/цемра/цемры		riddle answer and the witch's patron; not сьмерць	https://starnik.by/pravapis/82681
 lemma.romualda	Ромуальда	Romualda	Рамуальда/Жыгімонтаўна		the witch; the patronymic is a hunspell gap; Жыгімонт is Starnik	https://starnik.by/pravapis/89474
 lemma.gnus	Гнус	Gnus	Гнус/Гнусу/Гнусік/Гнусіка/Злапакосьнікаў/Злапакосьніцтва		the dean of malicious wizardry; Гнус is vermin; the surname is coined	https://starnik.by/pravapis/20255
-lemma.zhvyrklats	жвырклац	coined beast	жвырклаца		milk from a zhvyrklats; not a real animal	—
+lemma.zhvyrklats	жвырклац	coined beast	жвырклац/жвырклаца		milk from a zhvyrklats; not a real animal	—
 lemma.cryonics	крионика	cryonics	крыёніка/крыёнікай		years the witch's magic held back; hunspell suggests крыягенікай, another word	—
 lemma.freshbrew	Свежесваренный	freshly brewed	Сьвежазвараны		the warm elixir, one word beside the load joke	—
 lemma.freshload	Свежеподгруженный	freshly loaded	Сьвежападгружаны		the designer's voice; hunspell suggestions are other words	—
@@ -1844,3 +1844,20 @@ lemma.housepun	срубается	house-building pun	зрубуецца/дашы
 lemma.flatter_bad	льстюн	wrong flatterer	лісьцюн		the hero's wrong try before лісьлівец	—
 lemma.kamasutra	Камасутра	Kamasutra	Камасутра/Камасутры		the book the witch names; hunspell suggestion is another word	—
 lemma.matpart	матчасть	materiel	матчастка/матчасткай		the abbreviation the hero does not understand	—
+lemma.orange_fruit	апельсин	orange fruit	апэльсін/апэльсіны/апэльсінаў/апэльсінамі/апэльсінавай/апэльсінавым/апэльсінавых		the fruit, not the color аранжавы; hunspell э over Starnik апельсін	https://starnik.by/pravapis/5409
+lemma.mudflow	Грязевой Поток	mud-flow spell	Гразевы/Паток/Гразевым/Патокам		earth spell on the epitaph; Starnik гразевы	https://starnik.by/pravapis/106905
+lemma.shrek	Шрэк	Shrek	Шрэк/Шрэка		the ogre on a galactic tour	—
+lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		the fear named on the epitaph; not the bookie Шайтан-бабай	—
+lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
+lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
+lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру		a beast mosquitoes do not bother; coined	—
+lemma.warrior_old	воин	warrior	ваяр		a hereditary fighter; Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/13675
+lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
+lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
+lemma.gameskin	скин	game skin	скін/скіне		a character texture; Starnik noun; hunspell wants the imperative скінь	https://starnik.by/pravapis/69730
+lemma.madam	мадам	madam	мадам		address to a woman; Starnik; kept indeclinable	https://starnik.by/pravapis/40704
+lemma.opa	опа	plop	Опа		the robber sits down; interjection; hunspell suggestions are other words	—
+lemma.buzz	бзз	buzz	Бззз		the electric syringe; hunspell maps it to Бзык	—
+lemma.mixup_cute	обознатушки	cutesy mix-up	Абазнатушкі		the thug's baby-talk for абазнаўся; a nonce	—
+lemma.grabill	грабиль	robber stew	грабіль		a pun on robbery served as stew; hunspell wants грабіла	—
+lemma.jam_cut	варень	jam, cut off	варэнь		the epitaph breaks off mid-word, as the Russian line does	—
