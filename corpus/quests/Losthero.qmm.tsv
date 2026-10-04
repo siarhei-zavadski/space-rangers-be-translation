@@ -93,7 +93,7 @@
 "/quests/Losthero.qmm/parameters/10/lines/8/content"	"Примат вас любит"	"Quest Losthero.qmm: parameters.10.lines.8.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/10/lines/9/content"	"Примат вас обожает"	"Quest Losthero.qmm: parameters.10.lines.9.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Losthero.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
-"/quests/Losthero.qmm/parameters/11/name"	"Здоровье врага"	"Quest Losthero.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Losthero"	""
+"/quests/Losthero.qmm/parameters/11/name"	"Здоровье врага"	"Quest Losthero.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Losthero"	"Здароўе ворага"
 "/quests/Losthero.qmm/parameters/11/lines/0/content"	"Здоровье врага - <>"	"Quest Losthero.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/11/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Losthero.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/12/name"	"У вас есть:"	"Quest Losthero.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Losthero"	"У вас ёсьць:"
