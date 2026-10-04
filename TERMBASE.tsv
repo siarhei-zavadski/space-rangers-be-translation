@@ -771,8 +771,8 @@ lemma.osya	Ося Б.	Osya B.	Ося/Осі		Ostap Bender parody; the novel is 1
 lemma.linerist	лайнеристы-пиктористы	linerist-pictorist	лайнэрысты/піктарысты		joke job after the failed auction	Park.qmm
 lemma.yagusya	Бабуся-Ягуся	Granny Yagusya	Бабуля/Ягуся	Бабуся	cute rhyme on Баба-Яга; hunspell бабуля	Park.qmm
 lemma.sivka	Сивка-Бурка	Sivka-Burka	Сіўка/Бурка/Каурка/Вешчы		horse spell; Вешчы Каурка	Park.qmm
-lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра		door spell split as Абра - Кадабра	Park.qmm
-lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/Скарыкі/Морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word	Park.qmm
+lemma.abracadabra	Абракадабра	abracadabra	Абра/Кадабра/кадабра		door spell split as Абра - Кадабра	Park.qmm
+lemma.bambara	Бамбара-Чуфара	nonsense spell	Бамбара/Чуфара/чуфара/Скарыкі/Морыкі/скорыкі/морыкі/Трыкапу/Лорыкі/Ёрыкі		door spell; Пікапу stays a dictionary word; Drugs says скорики морики	Park.qmm
 lemma.biochip	биочип	biochip	біячып/біячыпы		dragon nerves joke; hunspell lacks the compound	Park.qmm
 lemma.perperdon	Перпердон-пардон	Perperdon-pardon	Перпердон/пардон		galaxy couturier joke	Park.qmm
 lemma.aztoi	ацтои	vinegar Aztecs	Ацтой/ацтояў/ё		joke people; ё is a syllable of their battle cry	Park.qmm
@@ -2155,3 +2155,32 @@ lemma.grish	Грышш	maloc name	Грышш		the scarred maloc who carries the 
 lemma.wreck	развалина	wreck of a person	разваліна/разваліны/разваліну		an old broken-down person, sense 2	https://starnik.by/pravapis/63010
 lemma.folder	папка	folder	тэчка/тэчку/тэчцы		a folder of papers; hunspell suggests other words	https://starnik.by/pravapis/77531
 lemma.glock	Глок	guard name	Глок		the guard the other calls over; not in Starnik	Drugs.qmm
+lemma.drowsiness	дремота	drowsiness	дрымота/дрымоту		sleepiness, half-sleep; the Starnik example is перамагчы дрымоту	https://starnik.by/pravapis/23580
+lemma.log	чурбан	log	цурбан/цурбана	чурбан	a short log, and the insult for a clumsy person	https://starnik.by/pravapis/83000
+lemma.ironjunk	железяка	iron junk	жалязяка		a crude iron thing; hunspell rejects жалезяка, and that spelling is already in RobotsMap	https://starnik.by/pravapis/25526
+lemma.antidote	противоядие	antidote	супрацьядзьдзе/супрацьядзьдзя		a substance that weakens poison; Starnik супрацьяддзе, hunspell inserts ь	https://starnik.by/pravapis/73490
+lemma.hall	холл	hall	хол/холе/хола		a large non-residential room	https://starnik.by/pravapis/82186
+lemma.hunter	охотник	hunter	паляўнічы/паляўнічага/паляўнічым		a person who hunts	https://starnik.by/pravapis/52305
+lemma.smartass	умник	smart aleck	разумнік/разумнікі		ironic: one who thinks himself clever	https://starnik.by/pravapis/63556
+lemma.slip	бумажка	slip of paper	паперка/паперку/паперкі		a small piece of paper	https://starnik.by/pravapis/52714
+lemma.madness	безумие	madness	вар'яцтва		the state the drug pulls the ranger into	https://starnik.by/pravapis/13358
+lemma.cook	повар	cook	кухар		the suspect Ці-На	https://starnik.by/pravapis/38151
+lemma.shopkeeper	лавочник	shopkeeper	крамнік		the suspect Х-Люп	https://starnik.by/pravapis/36755
+lemma.cleaner_m	уборщик	cleaner	прыбіральнік		masculine cleaner; the suspect Гразія	https://starnik.by/pravapis/59927
+lemma.criminal	преступник	criminal	злачынец		the person who committed the theft	https://starnik.by/pravapis/29222
+lemma.child	ребенок	child	дзіцё/дзіцяці		neuter narrative child	https://starnik.by/pravapis/22804
+lemma.digit	цифра	digit	лічба/лічбу		a numeral; the answer digit	https://starnik.by/pravapis/39883
+lemma.female	самка	female	самка/самкі/самкай		a female animal	https://starnik.by/pravapis/67465
+lemma.male	самец	male	самец/самца		a male animal	https://starnik.by/pravapis/67459
+lemma.goat	козел	goat	казёл/казлоў		the animal; the word painted over сяброў	https://starnik.by/pravapis/31795
+lemma.condition	условие	condition	умова/умову		a problem's given condition	https://starnik.by/pravapis/78387
+lemma.famous	знаменитый	famous	знакаміты		widely known	https://starnik.by/pravapis/114777
+lemma.arrogant	надменный	arrogant	ганарысты/ганарыста		looks down on other people	https://starnik.by/pravapis/105142
+lemma.mumble	шамкать	mumble	шамкаць/прашамкаў		to speak unclearly	https://starnik.by/pravapis/219962
+lemma.scent	почуять	scent	учуць/учула		sense 3, catch by smell	https://starnik.by/pravapis/218671
+lemma.slip_out	выскользнуть	slip out	высьлізнуць/высьлізнулі		Starnik выслізнуць; hunspell inserts ь	https://starnik.by/pravapis/174408
+lemma.let_pass	пропустить	let pass	прапусьціць/прапусьці		let someone through; Starnik прапусціць, hunspell inserts ь	https://starnik.by/pravapis/205502
+lemma.shake_off	отряхнуться	shake off	абтрэсьціся		Starnik абтрэсціся; hunspell inserts ь	https://starnik.by/pravapis/166231
+lemma.detection	обнаружение	detection	выяўленьне/выяўленьня		Starnik выяўленне; hunspell inserts ь	https://starnik.by/pravapis/16885
+lemma.hour	час	hour	гадзіна/гадзіну		a unit of sixty minutes, not the viper	https://starnik.by/pravapis/17258
+lemma.nonce_spells	ахалай махалай	nonce spells	Ахалай/махалай/сясікі/масясікі/Крыблі/крабле/бумс		fake passwords the robot ignores; not dictionary words	Drugs.qmm
