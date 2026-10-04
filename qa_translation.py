@@ -7,7 +7,8 @@
                        translation to every empty row with the same source
   (default)            hard checks, exit 1: a digit swapped for another digit,
                        a `<format=..,N>` cell that overflows, a tarask slip, a
-                       rejected termbase form in a row not in qa_baseline.txt
+                       rejected termbase form in a row not in qa_baseline.txt,
+                       a TERMBASE.tsv row with no be_tarask or source
   --baseline           accept every rejected-form row that exists today
 
 Reports (never fail): sources translated more than one way.
@@ -17,6 +18,7 @@ import argparse
 import csv
 from collections import Counter, defaultdict
 import re
+import sys
 
 from validate_corpus import CONTROL, CORPUS_DIRS, CROWDIN, FIELDS, ROOT, read_rows
 
@@ -91,6 +93,12 @@ def save(path, rows) -> None:
 
 def batch(files, needle: str, n: int) -> None:
     terms = termbase()
+    guide = (ROOT / "TRANSLATION.md").read_text(encoding="utf-8").splitlines()
+    for path in files:
+        stem = path.name.removesuffix(".tsv")
+        if needle.lower() in path.name.lower():
+            for line in (l for l in guide if f"`{stem}`" in l):
+                print(f"PUZZLE (read its section in TRANSLATION.md): {line.strip()[:160]}", file=sys.stderr)
     seen: dict[str, list[str]] = {}
     for path, rs in files.items():
         if needle.lower() in path.name.lower():
@@ -159,6 +167,12 @@ def main() -> int:
         BASELINE.write_text("".join(f"{i}\n" for i in sorted(rejected)), encoding="utf-8")
         print(f"baseline: {len(rejected)} rows")
         return 0
+    with (ROOT / "TERMBASE.tsv").open(encoding="utf-8", newline="") as stream:
+        failures += [
+            (t["id"], "termbase row without be_tarask or source (lemma not locked)")
+            for t in csv.DictReader(stream, dialect="excel-tab")
+            if not t["be_tarask"].strip() or not t["source"].strip()
+        ]
     known = set(BASELINE.read_text(encoding="utf-8").split()) if BASELINE.exists() else set()
     failures += [(i, f"rejected form: {label}") for i, label in rejected.items() if i not in known]
 

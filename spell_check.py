@@ -67,7 +67,7 @@ def main() -> None:
     parser.add_argument(
         "--accept",
         action="store_true",
-        help="add every current leftover token to spell_allow.txt",
+        help="add the --file leftovers to spell_allow.txt (review the git diff)",
     )
     args = parser.parse_args()
     needle = (args.file or "").lower()
@@ -107,6 +107,8 @@ def main() -> None:
     allow_path = PROJECT / "spell_allow.txt"
     allowed = set(allow_path.read_text(encoding="utf-8").split()) if allow_path.exists() else set()
     if args.accept:
+        if not needle:
+            raise SystemExit("--accept needs --file: accept one file's words after reading them")
         allow_path.write_text("".join(f"{w}\n" for w in sorted(allowed | bad)), encoding="utf-8")
         print(f"spell_allow.txt: {len(allowed | bad)} tokens")
     elif args.gate:

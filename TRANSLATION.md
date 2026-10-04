@@ -132,9 +132,21 @@ such as Mafia’s `Пассворд` / `Parol`) are ordinary prose.
 
 ## Order of work
 
-UI and `crowdin/lang_dat/` first, until the termbase covers the words those
-screens repeat. Quests after that. Puzzle files last, one file at a time,
-so every copy of a name (diary, statue, jump) is edited together.
+`validate_corpus.py` lists the incomplete files. Take them in this order,
+one file at a time, until its `--batch` prints nothing:
+
+1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia`, `Drugs`.
+2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
+   on overflow): `Amnesia`, `Colonization`, `Rvk`, `Proprolog`, `Kiberrazum`.
+3. Puzzle files, smallest first: `Elus`, `Edelweiss`, `Doomino`, `Bomber`,
+   `Xenolog`, `Evidence`, `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
+   `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
+   puzzle's table row to stderr; read its whole section above first, and
+   edit every copy of a name (diary, statue, jump) in the same batch.
+
+Rhythm: one batch (default 50 unique sources, at most 150) is one commit,
+pushed straight away. Open a draft PR after the first commit of a file and
+keep adding to it until the file is done. Branch `cursor/<file>-<suffix>`.
 
 Before a puzzle file is called done: tags still match
 (`validate_corpus.py`), and every `<fix>` line is the same width as the
