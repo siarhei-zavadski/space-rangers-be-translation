@@ -16,8 +16,12 @@ Reuse a locked term. Do not invent a second pipeline.
    Spelling clash: hunspell wins. Meaning clash: Starnik wins.
    Record the new lemma in `TERMBASE.tsv` (sense, endings, rejected calque, Starnik URL).
 4. `validate_corpus.py` — placeholders, tags, and `{…}` / `[pN]` must match the source.
-5. `crowdin_sync.py check` — corpus ids, source text, and quest round-trip.
-6. `build_test_mod.py` — only when the line is on a screen the build already ships.
+5. `qa_translation.py` — numbers, `<format>` cell widths, and tarask slips
+   (`з'яв-` is `зьяв-`, `вашая` is `ваша`). `--fix` repairs the slips. Its
+   reports list sources translated two ways, empty rows a translation
+   memory can fill, and termbase `rejected_calque` forms in use.
+6. `crowdin_sync.py check` — corpus ids, source text, and quest round-trip.
+7. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
 `STYLE.md` and `ORTHO.md` are the language rules. `CROWDIN.md` is where the
 `be` cell is supposed to be edited once Crowdin is the source of truth.
@@ -57,7 +61,7 @@ The current `be` column keeps those first letters (`А В Е З М Р С`).
 drops the letter the diary names, while the quest still accepts only the
 original jump.
 
-**`Feipsycho.qmm`** (empty). Three separate gates:
+**`Feipsycho.qmm`** (filled; letters, digits and `<fix>` kept). Three separate gates:
 
 - The steel door is an 8-strip clock. The `<fix>` drawing stays as drawn.
   The poem is the solution: press one, count eight the way a clock does,
@@ -82,7 +86,7 @@ says a URL and the jump text is the same URL. Keep both copies identical:
 are the alphabet the player reads. Leave them. The order tables lower in
 the same file are ordinary fixed-width bills (see below).
 
-**`Kidnapped.qmm`**, location `210` (empty). Not a gate. The coin at the
+**`Kidnapped.qmm`**, location `210` (filled; the three tokens kept). Not a gate. The coin at the
 end of the quest is a Vigenère easter egg. Leave these three tokens
 unchanged: `VIGENERE`, `kiiltgjtfjph kqxwzr`, `virsle`. With key `virsle`
 the longer string decrypts to “particolored pigeon”. Translate the
@@ -103,7 +107,7 @@ width as the Russian line.
 | `Logic.qmm` | Grids `[ ]`, `[0]`, `[+]` | filled, grids intact |
 | `Codebox.qmm` | Two keypads. Header was `Ключ` / `Образец`; digits come from `[p2]`–`[p5]` and `{n}` | filled; `Образец` is `Узор` padded back to 7 columns so the label sits on the sample grid |
 | `Bomber.qmm` | Grid rows `A`–`E` in `<format=center, 40>` | empty; keep the Latin letters |
-| `Pilot.qmm` | Track `I . . o I` | empty |
+| `Pilot.qmm` | Track `I . . o I`; the ticket price table in `<fix>` keeps its Russian column headers | filled |
 | `Player.qmm` | 3×3 cells `1`–`9` | filled, grid intact |
 | `Doomino.qmm` | Domino faces `[p40]<clr>=<clrEnd>[p41]` | empty; do not edit inside the brackets |
 | `Edelweiss.qmm` | Badge number, one digit per cell, from `[p20]` | empty |
@@ -136,3 +140,13 @@ so every copy of a name (diary, statue, jump) is edited together.
 Before a puzzle file is called done: tags still match
 (`validate_corpus.py`), and every `<fix>` line is the same width as the
 Russian line.
+
+## LLM batches
+
+- Translate each unique `source_phrase` once and copy it to every row that
+  shares it; the same label translated in two batches drifts
+  (`Отмена` is `Скасаваць` in 20 rows and `Адмена` in 7).
+- Give the model the matching `TERMBASE.tsv` rows for the batch, not the
+  whole file, and the `context` English reference. Never ask it to count or
+  renumber (`Gluki.qmm` `1 колба` once came back as `2 колбы`).
+- After each batch run `qa_translation.py --fix`, then `spell_check.py`.
