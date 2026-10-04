@@ -6,9 +6,9 @@
 - Ну спасибо, ухоногий. - Сердито подумали вы и умерли."	"Quest Sibolusovt.qmm: parameters.0.crit_text. Preserve every <tag> exactly. English reference: You suddenly felt extremely disgusting. Looking at your watch, you realized why this was happening to you.
 The poison hadn't magically disappeared from your body - it was now killing you.
 ""Well, thanks, long-ears."" you thought angrily and died."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/1/name"	"Ваше здоровье"	"Quest Sibolusovt.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Your health"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/1/name"	"Ваше здоровье"	"Quest Sibolusovt.qmm: parameters.1.name. Preserve every <tag> exactly. English reference: Your health"	"Quest,Sibolusovt"	"Ваша здароўе"
 "/quests/Sibolusovt.qmm/parameters/1/lines/0/content"	"Краше в гроб кладут"	"Quest Sibolusovt.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly. English reference: Like death warmed over"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/1/lines/1/content"	"Вы почти умираете"	"Quest Sibolusovt.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: You are almost dead"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/1/lines/1/content"	"Вы почти умираете"	"Quest Sibolusovt.qmm: parameters.1.lines.1.content. Preserve every <tag> exactly. English reference: You are almost dead"	"Quest,Sibolusovt"	"Вы амаль паміраеце"
 "/quests/Sibolusovt.qmm/parameters/1/lines/2/content"	"Вам плохо"	"Quest Sibolusovt.qmm: parameters.1.lines.2.content. Preserve every <tag> exactly. English reference: You're feeling awful"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/1/lines/3/content"	"Вам очень нехорошо"	"Quest Sibolusovt.qmm: parameters.1.lines.3.content. Preserve every <tag> exactly. English reference: You really aren't doing well"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/1/lines/4/content"	"Вам слегка нехорошо"	"Quest Sibolusovt.qmm: parameters.1.lines.4.content. Preserve every <tag> exactly. English reference: You feel slightly off"	"Quest,Sibolusovt"	""
@@ -29,8 +29,8 @@ Your body couldn't endure such torture, and you died..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/3/name"	"Пароль к складу"	"Quest Sibolusovt.qmm: parameters.3.name. Preserve every <tag> exactly. English reference: Warehouse password"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/3/lines/0/content"	"Сумма набранного: <>"	"Quest Sibolusovt.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly. English reference: Total entered: <>"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Sibolusovt.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/4/name"	"Рабочий"	"Quest Sibolusovt.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Worker"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/4/lines/0/content"	"У вас есть:"	"Quest Sibolusovt.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: You have:"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/4/name"	"Рабочий"	"Quest Sibolusovt.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Worker"	"Quest,Sibolusovt"	"Працоўны"
+"/quests/Sibolusovt.qmm/parameters/4/lines/0/content"	"У вас есть:"	"Quest Sibolusovt.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: You have:"	"Quest,Sibolusovt"	"У вас ёсьць:"
 "/quests/Sibolusovt.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Sibolusovt.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/5/name"	"Сеть для ухоногого"	"Quest Sibolusovt.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Net for a leg-eared"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/5/lines/0/content"	"Испорченная сеть"	"Quest Sibolusovt.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: Defective net"	"Quest,Sibolusovt"	""
@@ -45,7 +45,7 @@ Your body couldn't endure such torture, and you died..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/7/lines/2/content"	"Погнутый железный прут"	"Quest Sibolusovt.qmm: parameters.7.lines.2.content. Preserve every <tag> exactly. English reference: Bent iron rod"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/7/lines/3/content"	"Новый железный прут"	"Quest Sibolusovt.qmm: parameters.7.lines.3.content. Preserve every <tag> exactly. English reference: New iron rod"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 6"	"Quest Sibolusovt.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/8/name"	"Пистолет"	"Quest Sibolusovt.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Tranquilizer gun"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/8/name"	"Пистолет"	"Quest Sibolusovt.qmm: parameters.8.name. Preserve every <tag> exactly. English reference: Tranquilizer gun"	"Quest,Sibolusovt"	"Пісталет"
 "/quests/Sibolusovt.qmm/parameters/8/lines/0/content"	"Незаряженный пистолет"	"Quest Sibolusovt.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly. English reference: Unloaded tranquilizer gun"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/8/lines/1/content"	"Пистолет с одним дротиком"	"Quest Sibolusovt.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly. English reference: Tranquilizer gun with one dart"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/8/lines/2/content"	"Пистолет с двумя дротиками"	"Quest Sibolusovt.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly. English reference: Tranquilizer gun with two darts"	"Quest,Sibolusovt"	""
@@ -74,7 +74,7 @@ Your body couldn't endure such torture, and you died..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/11/lines/2/content"	"Таратул немного сердит на вас"	"Quest Sibolusovt.qmm: parameters.11.lines.2.content. Preserve every <tag> exactly. English reference: The tarantula is somewhat cross with you"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/11/lines/3/content"	"Тарантул настроен благожелательно"	"Quest Sibolusovt.qmm: parameters.11.lines.3.content. Preserve every <tag> exactly. English reference: The tarantula is favorably disposed to you"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/11/crit_text"	"Тарантул не выдержал потока вашего бреда, и вонзил в вас клыки, по которым обильно сочился яд..."	"Quest Sibolusovt.qmm: parameters.11.crit_text. Preserve every <tag> exactly. English reference: The tarantula endure you stream of nonsense. He thrust his fangs into you and pumped in poison..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/12/name"	"Деньги"	"Quest Sibolusovt.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Money"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/12/name"	"Деньги"	"Quest Sibolusovt.qmm: parameters.12.name. Preserve every <tag> exactly. English reference: Money"	"Quest,Sibolusovt"	"Грошы"
 "/quests/Sibolusovt.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 13"	"Quest Sibolusovt.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/13/name"	"Ключ от второго склада"	"Quest Sibolusovt.qmm: parameters.13.name. Preserve every <tag> exactly. English reference: Key to the second warehouse"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Sibolusovt.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
@@ -112,14 +112,14 @@ Your body couldn't endure such torture, and you died..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Sibolusovt.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/24/name"	"Вы были на базе"	"Quest Sibolusovt.qmm: parameters.24.name. Preserve every <tag> exactly. English reference: You were at the base"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Sibolusovt.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/25/name"	"Параметр номер 26"	"Quest Sibolusovt.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest Sibolusovt.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/25/name"	"Параметр номер 26"	"Quest Sibolusovt.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"Парамэтар нумар 26"
+"/quests/Sibolusovt.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest Sibolusovt.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"Парамэтар нумар 26: <>"
 "/quests/Sibolusovt.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Sibolusovt.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/26/name"	"Янхех"	"Quest Sibolusovt.qmm: parameters.26.name. Preserve every <tag> exactly. English reference: Gloogle"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Sibolusovt.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/27/name"	"Отдали траву гаальцу"	"Quest Sibolusovt.qmm: parameters.27.name. Preserve every <tag> exactly. English reference: You gave grass to the gaal"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/27/crit_text"	"Сообщение достижения критического значения параметром 28"	"Quest Sibolusovt.qmm: parameters.27.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/28/name"	"Замок"	"Quest Sibolusovt.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: Lock"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/28/name"	"Замок"	"Quest Sibolusovt.qmm: parameters.28.name. Preserve every <tag> exactly. English reference: Lock"	"Quest,Sibolusovt"	"Замок"
 "/quests/Sibolusovt.qmm/parameters/28/crit_text"	"Сообщение достижения критического значения параметром 30"	"Quest Sibolusovt.qmm: parameters.28.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/29/name"	"Уровень воды"	"Quest Sibolusovt.qmm: parameters.29.name. Preserve every <tag> exactly. English reference: Water level"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/29/lines/0/content"	"Уровень воды: <>% от 150 %"	"Quest Sibolusovt.qmm: parameters.29.lines.0.content. Preserve every <tag> exactly. English reference: Water level: <>% of 150%"	"Quest,Sibolusovt"	""
@@ -143,7 +143,7 @@ Once you dashed off toward the surface you realized that you wouldn't make it, a
 "/quests/Sibolusovt.qmm/parameters/36/crit_text"	"Сообщение достижения критического значения параметром 37"	"Quest Sibolusovt.qmm: parameters.36.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/37/name"	"У вас есть бластер"	"Quest Sibolusovt.qmm: parameters.37.name. Preserve every <tag> exactly. English reference: You've got a blaster"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/37/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Sibolusovt.qmm: parameters.37.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/38/name"	"У вас есть пистолет"	"Quest Sibolusovt.qmm: parameters.38.name. Preserve every <tag> exactly. English reference: You've got a tranquilizer gun"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/38/name"	"У вас есть пистолет"	"Quest Sibolusovt.qmm: parameters.38.name. Preserve every <tag> exactly. English reference: You've got a tranquilizer gun"	"Quest,Sibolusovt"	"У вас ёсьць пісталет"
 "/quests/Sibolusovt.qmm/parameters/38/crit_text"	"Сообщение достижения критического значения параметром 39"	"Quest Sibolusovt.qmm: parameters.38.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/39/name"	"Общий склад 3"	"Quest Sibolusovt.qmm: parameters.39.name. Preserve every <tag> exactly. English reference: General warehouse 3"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/39/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Sibolusovt.qmm: parameters.39.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
@@ -165,7 +165,7 @@ Once you dashed off toward the surface you realized that you wouldn't make it, a
 "/quests/Sibolusovt.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Sibolusovt.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/46/name"	"Реактивы №4"	"Quest Sibolusovt.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 44"	"Quest Sibolusovt.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/parameters/47/name"	"1"	"Quest Sibolusovt.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/parameters/47/name"	"1"	"Quest Sibolusovt.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"1"
 "/quests/Sibolusovt.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 45"	"Quest Sibolusovt.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/success_text"	"Ага, <Ranger>, вот и вы! А мы уже начали волноваться, что вы не успеете долететь сюда за противоядием, и умрете прямо в космосе жуткой смертью. Представьте себе... вы летите посреди космической пустоты, холодный синий карлик по правому борту уже не согревает кабину, и вы выдыхаете иней. Вдруг страшный мороз пробирает кожу, мышцы судорожно напрягаются и тут же бессильно опадают, вы не можете пошевелиться, вас тошнит прямо на приборную панель, глаза застилает кровавая пелена, сердце бьется все чаще и чаще, пока не надорвется. И вот уже просторы космоса бороздит корабль призрак с окоченевшим трупом в кабине... Жутко, не правда ли? Ну, слава Богу, все уже позади... Вот, что делает страсть к деньгам. Небось не пообещали бы мы вам заплатить <Money> cr, так вы бы и не почесались, не то, что сюда прилетели за лекарством! В общем, вот ваши деньги, спасибо вам огромное за помощь, и прощайте!
 Что? Противоядие? Какое противоядие? Эй, эй, аккуратнее, отпустите мою шею, я все же высокопоставленный чиновник. Вот ваше противоядие, держите. Что значит и всё? Эта таблетка как раз то, что вам нужно для полного излечения. Подумаешь - забыл... не могу же я всё помнить. А теперь отпустите меня, а не то я задохнусь..."	"Quest Sibolusovt.qmm: success_text. Preserve every <tag> exactly. English reference: Ah, <Ranger>, there you are! We had already begun to worry that you wouldn't succeed in getting here for the antidote and that you die some awful death right in outer space. Just imagine...you're flying out there in the cosmic wilderness; the cold blue dwarf on the starboard side doesn't warm the cabin; and you're exhaling frost. A dreadful chill suddenly pierces your skin, and your muscles strain convulsively and then abruptly stop powerlessly. You can't move. You vomit right on the instrument panel. Your eyes are clouded by a veil of blood. Your heart is beating faster and faster, but it's holding out - for now. And then your ship plows through the immensity of space, a stiff corpse in the cabin... Creepy, huh? Well, thank God that's all behind us... That's what the love of money can do. I doubt you would have scratched yourself, let alone flown here for medicine, if we hadn't promised to pay you <Money> cr. Well, here's your money. Thank you so much for the help! Goodbye!
@@ -1156,7 +1156,7 @@ You keep to yourself your opinion that all three of them had gone mad.
 "/quests/Sibolusovt.qmm/jumps/4/description"	"- Планета - просто кошмар. Как поймать и донести этого идиотского сиболусовта до лаборатории вообще непонятно. Не проще ли завершить жизнь достойно, а не быть съеденным какими-то нецивилизованными термитами? Скорее всего, так будет лучше. - Думали вы обреченно. - Зачем заниматься бесполезными попытками отдалить смерть? Самоубийство - это лучший выход..."	"Quest Sibolusovt.qmm: jumps.4.description. Preserve every <tag> exactly. English reference: ""This planet is just a nightmare. How am I supposed to catch this stupid sibolusovtus and carry it back to the laboratory? Wouldn't it be easier to take my own life honorably, rather than be consumed by some uncivilized termites?  That would probably be better."" you thought helplessly. ""Why bother with these useless efforts at delaying death? Suicide is a better escape..."""	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/5/text"	"В лабораторию"	"Quest Sibolusovt.qmm: jumps.5.text. Preserve every <tag> exactly. English reference: To the laboratory"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/6/text"	"В госпиталь"	"Quest Sibolusovt.qmm: jumps.6.text. Preserve every <tag> exactly. English reference: To the hospital"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/7/text"	"На склад"	"Quest Sibolusovt.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: To the warehouse"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/7/text"	"На склад"	"Quest Sibolusovt.qmm: jumps.7.text. Preserve every <tag> exactly. English reference: To the warehouse"	"Quest,Sibolusovt"	"На склад"
 "/quests/Sibolusovt.qmm/jumps/8/text"	"Идти на восток"	"Quest Sibolusovt.qmm: jumps.8.text. Preserve every <tag> exactly. English reference: Go east"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/9/text"	"Прорываться дальше"	"Quest Sibolusovt.qmm: jumps.9.text. Preserve every <tag> exactly. English reference: Force your way farther"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/10/text"	"Идти на юг"	"Quest Sibolusovt.qmm: jumps.10.text. Preserve every <tag> exactly. English reference: Go south"	"Quest,Sibolusovt"	""
@@ -1207,7 +1207,7 @@ You keep to yourself your opinion that all three of them had gone mad.
 "/quests/Sibolusovt.qmm/jumps/61/text"	"Идти на север"	"Quest Sibolusovt.qmm: jumps.61.text. Preserve every <tag> exactly. English reference: Go north"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/63/text"	"Продолжить поиски"	"Quest Sibolusovt.qmm: jumps.63.text. Preserve every <tag> exactly. English reference: Continue the search"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/64/text"	"Идти на север"	"Quest Sibolusovt.qmm: jumps.64.text. Preserve every <tag> exactly. English reference: Go north"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/65/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.65.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/65/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.65.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	"Працягнуць"
 "/quests/Sibolusovt.qmm/jumps/65/description"	"Итак, последний рычаг был найден и благополучно использован.
 В отдалении послышалось громовитое журчание, словно в гигантском унитазе воду спускали, и уровень воды резко начал падать. 
 Однако кроме хорошего в этом было и плохое, так как поток подхватил вас и понес на выход, вперемешку с мутной водой, несколькими крысами и пластиковыми обломками непонятного назначения...
@@ -1220,7 +1220,7 @@ To your great joy, the water from the tunnel flowed directly into the lake, so i
 "/quests/Sibolusovt.qmm/jumps/68/text"	"Идти искать следующий рычаг на восток"	"Quest Sibolusovt.qmm: jumps.68.text. Preserve every <tag> exactly. English reference: Go east to look for the next lever"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/69/text"	"Идти искать следующий рычаг на запад"	"Quest Sibolusovt.qmm: jumps.69.text. Preserve every <tag> exactly. English reference: Go west to look for the next lever"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/70/text"	"Дернуть рычаг"	"Quest Sibolusovt.qmm: jumps.70.text. Preserve every <tag> exactly. English reference: Pull the lever"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/71/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.71.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/71/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.71.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	"Працягнуць"
 "/quests/Sibolusovt.qmm/jumps/71/description"	"Итак, последний рычаг был найден и благополучно использован.
 В отдалении послышалось громовитое журчание, словно в гигантском унитазе воду спускали, и уровень воды резко начал падать. 
 Однако кроме хорошего в этом было и плохое, так как поток подхватил вас и понес на выход, вперемешку с мутной водой, несколькими крысами и пластиковыми обломками непонятного назначения...
@@ -1230,7 +1230,7 @@ But this was both good and bad, because the current grabbed you and carried you 
 To your great joy, the water from the tunnel flowed directly into the lake, so in five minutes you emerged on the surface of the water and swam impetuously toward the shore."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/72/text"	"Идти искать следующий рычаг на юг"	"Quest Sibolusovt.qmm: jumps.72.text. Preserve every <tag> exactly. English reference: Go south to look for the next lever"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/73/text"	"Идти искать следующий рычаг на север"	"Quest Sibolusovt.qmm: jumps.73.text. Preserve every <tag> exactly. English reference: Go north to look for the next lever"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/74/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/74/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.74.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	"Працягнуць"
 "/quests/Sibolusovt.qmm/jumps/74/description"	"Итак, последний рычаг был найден и благополучно использован.
 В отдалении послышалось громовитое журчание, словно в гигантском унитазе воду спускали, и уровень воды резко начал падать. 
 Однако кроме хорошего в этом было и плохое, так как поток подхватил вас и понес на выход, вперемешку с мутной водой, несколькими крысами и пластиковыми обломками непонятного назначения...
@@ -1342,7 +1342,7 @@ His imagination clearly ran dry at this point, and he again fixed his monocle on
 ""I'm a ranger."" you said in an offended voice, spitting on parts of the path and puffing out your jaw.
 ""Damn. I knew it."" Vanom ground his teeth and disappeared into the bowels of his ship. Parts of the path began to crawl in after him, along with some termites. The hatch closed and the ship rose into the air and disappeared from sight.
 You put your jaw back into place, which had become dislocated due to your excessive force, and carried on your way..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/128/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.128.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/128/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.128.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	"Пагаварыць з гаальцам"
 "/quests/Sibolusovt.qmm/jumps/128/description"	"- О! - Бросились вы на шею гаальца, обильно орошая его слезами благодарности. - Дружище, как же я рад тебя видеть!
 - Да я уж вижу. - Морщась, отозвался гаалец, отдирая вас от себя. - Да и противоядие, я вижу, подействовало. 
 - А, кстати, гаалец... ты ведь мне как... как брат, во! Я ведь для тебя траву нашел.
@@ -1386,7 +1386,7 @@ He took the grass and headed in the direction you had come from. You stood for a
 "/quests/Sibolusovt.qmm/jumps/130/description"	"Вы совершили супер хитрый боковой прием и, извернувшись, врезали чудищу по морде тяжелым сапогом.
 Однако и чудище оказалось не лыком шито, и в ответ подло куснуло вас за ногу."	"Quest Sibolusovt.qmm: jumps.130.description. Preserve every <tag> exactly. English reference: You performed a super tricky boxing move and, after dodging, you drove your heavy boot into the monster's snout.
 But this wasn't the monster's first rodeo and he responded meanly by biting your leg."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/131/text"	"Идти на базу"	"Quest Sibolusovt.qmm: jumps.131.text. Preserve every <tag> exactly. English reference: Go to the base"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/131/text"	"Идти на базу"	"Quest Sibolusovt.qmm: jumps.131.text. Preserve every <tag> exactly. English reference: Go to the base"	"Quest,Sibolusovt"	"Ісьці на базу"
 "/quests/Sibolusovt.qmm/jumps/131/description"	"Вы быстрее побежали за гаальцем по натоптанной тропинке, стараясь не уклониться от пути ни на шаг, так как по краям ядовито булькала какая-то мутная жижа. Однако, как вы не старались, догнать биолога у вас не получалось... Вы прибавили ходу и влетели на полном ходу во что-то мягкое, за поворотом тропинки.
 Наученные горьким опытом вы тут же, зажмурившись, отскочили назад и принялись размахивать кулаками в сторону предполагаемого противника.
 - Что это с вами? - Услышали вы спокойный голос гаальца и тут же открыли глаза.
@@ -1756,11 +1756,11 @@ You looked on this scene darkly and walked away..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/241/description"	"Вы размахнулись, и швырнули в пенёк склянку с серной кислотой. Пенёк радостно задымился и растаял. 
 Непонятно, чего вы хотели добиться, но вместе с пеньком растаял и сиболусовт. Остался только кончик хвоста. Видимо, на память..."	"Quest Sibolusovt.qmm: jumps.241.description. Preserve every <tag> exactly. English reference: You swung your arm and heaved a vial of sulfuric acid at the stump. The stump joyfully smoked and melted away. 
 It's not clear what you wanted to accomplish, but the sibolusovtus melted away along with the stump. Only the tip of its tail remained. Obviously, a memento..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/242/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.242.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/242/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.242.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	"Ісьці далей"
 "/quests/Sibolusovt.qmm/jumps/242/description"	"Зрение вас не подвело, и вы радостно сорвали растение.
 - То-то гаалец порадуется, сердешный. - Заметили вы, убирая травку в карман."	"Quest Sibolusovt.qmm: jumps.242.description. Preserve every <tag> exactly. English reference: You vision didn't let you down, and you joyfully plucked up the plant.
 ""The gaal will be so happy, my precious,"" you remarked as you tucked the grass into your pocket."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/243/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.243.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/243/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.243.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	"Ісьці далей"
 "/quests/Sibolusovt.qmm/jumps/243/description"	"Скалы гордо возвышались над вами, заслоняя периодически вылезающее из туч солнце, и создавая пронизывающую холодом тень.
 Вы уже собирались пожаловаться окружающему миру на вселенскую несправедливость, благодаря которой доблестный рейнджер прозябает в холоде и голоде, балансируя одной ногой над могилой, как вдруг выглянувшее солнце согрело вас своими жаркими лучами, за несколько минут пропекая вас до хрустящей корочки. Когда солнце снова скрылось за тучами, вы возблагодарили Господа, стряхнули пепел с голого обугленного черепа и продолжили свой путь."	"Quest Sibolusovt.qmm: jumps.243.description. Preserve every <tag> exactly. English reference: Cliffs towered proudly above you, obstructing the sun which occasionally crept out from the storm clouds. The result was a penetrating, chilling darkness.
 You had already begun to complain to the world around you about the infinite injustice that would cause a gallant ranger to trudge along cold and hungry, with one foot in the grave... Then suddenly the sun peeked out and toasted you with its hot rays for several minutes, baking you up to a nice and crispy crust. When the sun again hid behind the clouds, you gave thanks; shook the embers off of your naked, charred skull; and carried on your way."	"Quest,Sibolusovt"	""
@@ -1860,34 +1860,34 @@ But whereas this stump used to be an ordinary stump, now it's a stump inundated 
 "/quests/Sibolusovt.qmm/jumps/280/text"	"Подлечиться поверхностно..."	"Quest Sibolusovt.qmm: jumps.280.text. Preserve every <tag> exactly. English reference: Apply a superficial treatment..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/281/text"	"Подлечиться основательно..."	"Quest Sibolusovt.qmm: jumps.281.text. Preserve every <tag> exactly. English reference: Apply a complete treatment..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/285/text"	"Вложить найденную шестерню в отверстие замка..."	"Quest Sibolusovt.qmm: jumps.285.text. Preserve every <tag> exactly. English reference: Insert the gear you found into the opening in the lock..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/286/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.286.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/286/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.286.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	"Ісьці далей"
 "/quests/Sibolusovt.qmm/jumps/286/description"	"- У меня такая уже есть. - Подумали вы, и пошли дальше..."	"Quest Sibolusovt.qmm: jumps.286.description. Preserve every <tag> exactly. English reference: ""I've already got one like that,"" you thought and walked on..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/287/text"	"Смотреть в правом ящике..."	"Quest Sibolusovt.qmm: jumps.287.text. Preserve every <tag> exactly. English reference: Look in the right drawer..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/288/text"	"Смотреть в левом ящике"	"Quest Sibolusovt.qmm: jumps.288.text. Preserve every <tag> exactly. English reference: Look in the left drawer"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/290/text"	"Плюнуть на пень и уйти..."	"Quest Sibolusovt.qmm: jumps.290.text. Preserve every <tag> exactly. English reference: Spit on the stump and leave..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/290/description"	"Вы так и поступили..."	"Quest Sibolusovt.qmm: jumps.290.description. Preserve every <tag> exactly. English reference: That's just what you did..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/291/text"	"1"	"Quest Sibolusovt.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/292/text"	"2"	"Quest Sibolusovt.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/293/text"	"3"	"Quest Sibolusovt.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/294/text"	"4"	"Quest Sibolusovt.qmm: jumps.294.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/295/text"	"5"	"Quest Sibolusovt.qmm: jumps.295.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/296/text"	"1"	"Quest Sibolusovt.qmm: jumps.296.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/297/text"	"3"	"Quest Sibolusovt.qmm: jumps.297.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/298/text"	"2"	"Quest Sibolusovt.qmm: jumps.298.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/299/text"	"4"	"Quest Sibolusovt.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/300/text"	"0"	"Quest Sibolusovt.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/291/text"	"1"	"Quest Sibolusovt.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"1"
+"/quests/Sibolusovt.qmm/jumps/292/text"	"2"	"Quest Sibolusovt.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"2"
+"/quests/Sibolusovt.qmm/jumps/293/text"	"3"	"Quest Sibolusovt.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"3"
+"/quests/Sibolusovt.qmm/jumps/294/text"	"4"	"Quest Sibolusovt.qmm: jumps.294.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"4"
+"/quests/Sibolusovt.qmm/jumps/295/text"	"5"	"Quest Sibolusovt.qmm: jumps.295.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"5"
+"/quests/Sibolusovt.qmm/jumps/296/text"	"1"	"Quest Sibolusovt.qmm: jumps.296.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"1"
+"/quests/Sibolusovt.qmm/jumps/297/text"	"3"	"Quest Sibolusovt.qmm: jumps.297.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"3"
+"/quests/Sibolusovt.qmm/jumps/298/text"	"2"	"Quest Sibolusovt.qmm: jumps.298.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"2"
+"/quests/Sibolusovt.qmm/jumps/299/text"	"4"	"Quest Sibolusovt.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"4"
+"/quests/Sibolusovt.qmm/jumps/300/text"	"0"	"Quest Sibolusovt.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"0"
 "/quests/Sibolusovt.qmm/jumps/301/text"	"Отойти от дверей склада..."	"Quest Sibolusovt.qmm: jumps.301.text. Preserve every <tag> exactly. English reference: Walk away from the warehouse doors..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/301/description"	"Вы с сожалением отошли от двери, проклиная этих мудреных археологов, которые напихивают где надо, и где не надо, мудреные замки и прочие агрегаты, которые тут совершенно не нужны..."	"Quest Sibolusovt.qmm: jumps.301.description. Preserve every <tag> exactly. English reference: You stepped sorrowfully away from the door, cursing these strange archaeologists who pack things where needed; but where it's not needed, they put tricky locks and other machines that are entirely unnecessary."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/302/text"	"Подергать дверь..."	"Quest Sibolusovt.qmm: jumps.302.text. Preserve every <tag> exactly. English reference: Yank the door..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/302/description"	"Шестерня выпала из гнезда замка вам в руки, и дверь медленно открылась..."	"Quest Sibolusovt.qmm: jumps.302.description. Preserve every <tag> exactly. English reference: The gear fell out of the lock into your hands, and the door slowly opened..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/303/text"	"0"	"Quest Sibolusovt.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/304/text"	"5"	"Quest Sibolusovt.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/305/text"	"0"	"Quest Sibolusovt.qmm: jumps.305.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/306/text"	"1"	"Quest Sibolusovt.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/307/text"	"2"	"Quest Sibolusovt.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/308/text"	"3"	"Quest Sibolusovt.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/309/text"	"4"	"Quest Sibolusovt.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/310/text"	"5"	"Quest Sibolusovt.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/303/text"	"0"	"Quest Sibolusovt.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"0"
+"/quests/Sibolusovt.qmm/jumps/304/text"	"5"	"Quest Sibolusovt.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"5"
+"/quests/Sibolusovt.qmm/jumps/305/text"	"0"	"Quest Sibolusovt.qmm: jumps.305.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"0"
+"/quests/Sibolusovt.qmm/jumps/306/text"	"1"	"Quest Sibolusovt.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"1"
+"/quests/Sibolusovt.qmm/jumps/307/text"	"2"	"Quest Sibolusovt.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"2"
+"/quests/Sibolusovt.qmm/jumps/308/text"	"3"	"Quest Sibolusovt.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"3"
+"/quests/Sibolusovt.qmm/jumps/309/text"	"4"	"Quest Sibolusovt.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"4"
+"/quests/Sibolusovt.qmm/jumps/310/text"	"5"	"Quest Sibolusovt.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Sibolusovt"	"5"
 "/quests/Sibolusovt.qmm/jumps/311/text"	"Покинуть склад..."	"Quest Sibolusovt.qmm: jumps.311.text. Preserve every <tag> exactly. English reference: Leave the warehouse..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/311/description"	"Вы ещё раз осмотрели голые стены, и вышли на улицу..."	"Quest Sibolusovt.qmm: jumps.311.description. Preserve every <tag> exactly. English reference: You looked around at the bare walls one more time and went outside..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/312/text"	"В операционную..."	"Quest Sibolusovt.qmm: jumps.312.text. Preserve every <tag> exactly. English reference: Go to the operating room..."	"Quest,Sibolusovt"	""
@@ -1922,7 +1922,7 @@ When you found the poison, you discovered it was unsuitable for use..."	"Quest,S
 "/quests/Sibolusovt.qmm/jumps/324/description"	"Вы приступили к тщательному исследованию яда, с помощью микроскопа, и через пять минут с ужасом обнаружили, что сиболусовт оказался самкой.
 Это было, наверно, самое большое разочарование в вашей жизни..."	"Quest Sibolusovt.qmm: jumps.324.description. Preserve every <tag> exactly. English reference: You began to painstakingly investigate the poison using a microscope. Five minutes later you discovered with horror that the sibolusovtus was female.
 This was probably the biggest disappointment of your life..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/326/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.326.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/326/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.326.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	"Пагаварыць з гаальцам"
 "/quests/Sibolusovt.qmm/jumps/326/description"	"- О! - Бросились вы на шею гаальца, обильно орошая его слезами благодарности. - Дружище, как же я рад тебя видеть!
 - Да я уж вижу. - Морщась, отозвался гаалец, отдирая вас от себя. - Да и противоядие, я вижу, подействовало. 
 - А, кстати, гаалец... ты ведь мне как... как брат, во! Я ведь для тебя траву нашел.
@@ -1952,7 +1952,7 @@ You offered the symgrass to the gaal, who immediately tried to run off somewhere
 ""But..."" you said, feeling a bit depressed. ""Then let's say goodbye.""
 ""Goodbye,"" said the gaal dryly. ""By the way, don't deviate from your course to your destination. The antidote isn't a complete cure, so the poison will reach a lethal concentration again. You can get full treatment in a professional equipped clinic. I don't know how long the poison will be inactive - anywhere from a month to several decades - but you still shouldn't put off the antidote.""
 This news actually helped you sober up and, after shaking the gaal's hand again, you set off in search of your ship..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/327/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.327.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/327/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.327.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	"Пагаварыць з гаальцам"
 "/quests/Sibolusovt.qmm/jumps/327/description"	"- О! - Бросились вы на шею гаальца, обильно орошая его слезами благодарности. - Дружище, как же я рад тебя видеть!
 - Да я уж вижу. - Морщась, отозвался гаалец, отдирая вас от себя. - Да и противоядие, я вижу, подействовало.
 Отодрав вас он тут же собрался куда-то бежать. 
@@ -2072,7 +2072,7 @@ But when you came to on the shore, neither the fighter nor the mysterious speake
 "/quests/Sibolusovt.qmm/jumps/383/description"	"Вы плюнули на эти справочные материалы и решили действовать по старинке, то есть методом научного тыка.
 Сиболусовт посмотрел на вас с ужасом, понимая, что шутки уже кончились, и сейчас его будет расчленять психанутый рейнджер профан, который ничего сложнее батона колбасы не кромсал."	"Quest Sibolusovt.qmm: jumps.383.description. Preserve every <tag> exactly. English reference: You spit on the reference materials and decided to do it the old-school way, i.e. by trial-and-error.
 The sibolusovtus watched you in horror, realizing that the jokes were over and that it was about to be carved up by a psycho ranger ignoramus, who had never cut up anything more complicated than a stick of sausage."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/384/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.384.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/384/text"	"Продолжить"	"Quest Sibolusovt.qmm: jumps.384.text. Preserve every <tag> exactly. English reference: Continue"	"Quest,Sibolusovt"	"Працягнуць"
 "/quests/Sibolusovt.qmm/jumps/385/text"	"Посмотреть, что же там такое блестело"	"Quest Sibolusovt.qmm: jumps.385.text. Preserve every <tag> exactly. English reference: Look to see what's sparkling over there"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/386/text"	"Вернуться на поляну"	"Quest Sibolusovt.qmm: jumps.386.text. Preserve every <tag> exactly. English reference: Return to the meadow"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/387/text"	"Вернуться на поляну"	"Quest Sibolusovt.qmm: jumps.387.text. Preserve every <tag> exactly. English reference: Return to the meadow"	"Quest,Sibolusovt"	""
@@ -2113,14 +2113,14 @@ Being filled with a spiritual thrill, you froze and began to dive back down. Whe
 "/quests/Sibolusovt.qmm/jumps/409/text"	"Развести костерок"	"Quest Sibolusovt.qmm: jumps.409.text. Preserve every <tag> exactly. English reference: Start a small campfire"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/410/text"	"Пострелять из штурмового бластера"	"Quest Sibolusovt.qmm: jumps.410.text. Preserve every <tag> exactly. English reference: Shoot with your assault blaster"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/411/text"	"Жизнь великого рейнджера достойно закончилась"	"Quest Sibolusovt.qmm: jumps.411.text. Preserve every <tag> exactly. English reference: The life of a great ranger came to a worthy end."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/412/text"	"Покинуть склад"	"Quest Sibolusovt.qmm: jumps.412.text. Preserve every <tag> exactly. English reference: Leave the warehouse"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/412/text"	"Покинуть склад"	"Quest Sibolusovt.qmm: jumps.412.text. Preserve every <tag> exactly. English reference: Leave the warehouse"	"Quest,Sibolusovt"	"Пакінуць склад"
 "/quests/Sibolusovt.qmm/jumps/413/text"	"Покидаться серной кислотой"	"Quest Sibolusovt.qmm: jumps.413.text. Preserve every <tag> exactly. English reference: Throw some sulfuric acid"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/414/text"	"Приступить к делу"	"Quest Sibolusovt.qmm: jumps.414.text. Preserve every <tag> exactly. English reference: Get down to business"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/415/text"	"Пожалеть животину и вколоть ещё парочку доз"	"Quest Sibolusovt.qmm: jumps.415.text. Preserve every <tag> exactly. English reference: Take pity on the animal and give it a couple of doses"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/417/text"	"Обнулить шифр"	"Quest Sibolusovt.qmm: jumps.417.text. Preserve every <tag> exactly. English reference: Zero out the code"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/418/text"	"Попробовать убежать"	"Quest Sibolusovt.qmm: jumps.418.text. Preserve every <tag> exactly. English reference: Try to run away"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/418/text"	"Попробовать убежать"	"Quest Sibolusovt.qmm: jumps.418.text. Preserve every <tag> exactly. English reference: Try to run away"	"Quest,Sibolusovt"	"Паспрабаваць уцячы"
 "/quests/Sibolusovt.qmm/jumps/418/description"	"Вы рванулись бежать от злобной животины, но далеко не убежали, так как она вонзила вам в спину свои когти и вы на них жизнерадостно повисли."	"Quest Sibolusovt.qmm: jumps.418.description. Preserve every <tag> exactly. English reference: You began to dart away from the malevolent animal. But you didn't run very far, because it plunged its claws into your back and you found yourself hanging merrily from them."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/419/text"	"Попробовать убежать"	"Quest Sibolusovt.qmm: jumps.419.text. Preserve every <tag> exactly. English reference: Try to run away"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/419/text"	"Попробовать убежать"	"Quest Sibolusovt.qmm: jumps.419.text. Preserve every <tag> exactly. English reference: Try to run away"	"Quest,Sibolusovt"	"Паспрабаваць уцячы"
 "/quests/Sibolusovt.qmm/jumps/419/description"	"Вы рванулись вперед по коридору, мимоходом побивая галактические рекорды скорости, и, к вашему восторгу, преуспели в этом. Тварь только успела зацепить вас когтями и сразу осталась далеко позади."	"Quest Sibolusovt.qmm: jumps.419.description. Preserve every <tag> exactly. English reference: You made a mad dash down the corridor, incidentally smashing the galactic speed record, and to your great delight, you were successful. The wretch only managed to begin to hook its claws into you and it was instantly left far behind."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/421/text"	"Подойти к гаальцу в кустах"	"Quest Sibolusovt.qmm: jumps.421.text. Preserve every <tag> exactly. English reference: Approach the gaal in the bushes"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/422/text"	"Прокашляться..."	"Quest Sibolusovt.qmm: jumps.422.text. Preserve every <tag> exactly. English reference: Clear your throat..."	"Quest,Sibolusovt"	""

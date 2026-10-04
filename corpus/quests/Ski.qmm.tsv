@@ -13,7 +13,7 @@
 
 You failed your mission."	"Quest,Ski"	"<clr>Вы растрацілі ўсе грошы!<clrEnd> Ваш <clr>намесьнік<clrEnd> не ўпусьціў свайго шанцу, адразу ж адправіўшы на плянэту <FromPlanet> рапарт пра разарэньне курорту. Адказ прыйшоў неадкладна - рэйнджэр <Ranger> звольнены!
 
-Вы правалілі вашую місію."
+Вы правалілі вашу місію."
 "/quests/Ski.qmm/parameters/2/name"	"Реклама"	"Quest Ski.qmm: parameters.2.name. Preserve every <tag> exactly. English reference: Advertising"	"Quest,Ski"	"Рэкляма"
 "/quests/Ski.qmm/parameters/2/lines/0/content"	"Расходы на рекламу: <clr>0<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.0.content. Preserve every <tag> exactly. English reference: Advertising expenses: <clr>0<clrEnd> cr"	"Quest,Ski"	"Выдаткі на рэкляму: <clr>0<clrEnd> cr"
 "/quests/Ski.qmm/parameters/2/lines/1/content"	"Расходы на рекламу: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest Ski.qmm: parameters.2.lines.1.content. Preserve every <tag> exactly. English reference: Advertising expenses: {[p3]*10}<clr>.000<clrEnd> cr"	"Quest,Ski"	"Выдаткі на рэкляму: {[p3]*10}<clr>.000<clrEnd> cr"
@@ -24,7 +24,7 @@ You failed your mission."	"Quest,Ski"	"<clr>Вы растрацілі ўсе г�
 "/quests/Ski.qmm/parameters/4/name"	"Рестораны"	"Quest Ski.qmm: parameters.4.name. Preserve every <tag> exactly. English reference: Restaurants"	"Quest,Ski"	"Рэстараны"
 "/quests/Ski.qmm/parameters/4/lines/0/content"	"Ресторанов: <> ({45*[p5]} мест)"	"Quest Ski.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly. English reference: Restaurants: <> ({45*[p5]} seats)"	"Quest,Ski"	"Рэстаранаў: <> ({45*[p5]} месцаў)"
 "/quests/Ski.qmm/parameters/4/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Ski.qmm: parameters.4.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 14"
-"/quests/Ski.qmm/parameters/5/name"	"Уехало новичков"	"Quest Ski.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Beginners left"	"Quest,Ski"	"З'ехала навічкоў"
+"/quests/Ski.qmm/parameters/5/name"	"Уехало новичков"	"Quest Ski.qmm: parameters.5.name. Preserve every <tag> exactly. English reference: Beginners left"	"Quest,Ski"	"Зьехала навічкоў"
 "/quests/Ski.qmm/parameters/5/lines/0/content"	"ВСЕГО ПОСЕТИТЕЛЕЙ: {[p7]+[p8]}"	"Quest Ski.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly. English reference: TOTAL NUMBER OF VISITORS: {[p7]+[p8]}"	"Quest,Ski"	"УСЯГО НАВЕДНІКАЎ: {[p7]+[p8]}"
 "/quests/Ski.qmm/parameters/5/crit_text"	"Сообщение достижения критического значения параметром 2"	"Quest Ski.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 2"
 "/quests/Ski.qmm/parameters/6/name"	"Новички"	"Quest Ski.qmm: parameters.6.name. Preserve every <tag> exactly. English reference: Beginners"	"Quest,Ski"	"Навічкі"
@@ -59,7 +59,7 @@ You failed your mission."	"Quest,Ski"	"<clr>Вы растрацілі ўсе г�
 "/quests/Ski.qmm/parameters/16/crit_text"	"Сообщение достижения критического значения параметром 17"	"Quest Ski.qmm: parameters.16.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 17"
 "/quests/Ski.qmm/parameters/17/name"	"Вечерние профи"	"Quest Ski.qmm: parameters.17.name. Preserve every <tag> exactly. English reference: Evening pros"	"Quest,Ski"	"Вячэрнія профі"
 "/quests/Ski.qmm/parameters/17/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Ski.qmm: parameters.17.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 21"
-"/quests/Ski.qmm/parameters/18/name"	"Уехало профи"	"Quest Ski.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Pros left"	"Quest,Ski"	"З'ехала профі"
+"/quests/Ski.qmm/parameters/18/name"	"Уехало профи"	"Quest Ski.qmm: parameters.18.name. Preserve every <tag> exactly. English reference: Pros left"	"Quest,Ski"	"Зьехала профі"
 "/quests/Ski.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 18"	"Quest Ski.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 18"
 "/quests/Ski.qmm/parameters/19/name"	"Приехало профи"	"Quest Ski.qmm: parameters.19.name. Preserve every <tag> exactly. English reference: Pros arrived"	"Quest,Ski"	"Прыехала профі"
 "/quests/Ski.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Ski.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Ski"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 19"
@@ -98,7 +98,7 @@ You failed your mission."	"Quest,Ski"	"<clr>Вы растрацілі ўсе г�
 
 The place where you arrived turned out to be rather picturesque. There was a small hotel and a bistro almost adjoining the hillsides. You looked more attentively and also noticed a small ski lift with chairs and a soft track. There was a tiny administration and personnel building near the hotel. This is where your office is - right near the bedroom.
 
-- Well, the time convenient for construction is already over for today but you could talk to the experts or just have a rest, - the Gaalian said."	"Quest,Ski"	"У касмапорце вас сустрэў гаалец, які выконваў абавязкі генэральнага мэнэджэра лыжнага курорту; цяпер, пакуль генэральным мэнэджэрам будзеце вы, ён стане вашым <clr>намесьнікам<clrEnd>. Па дарозе ў горы ён патлумачыў, што на гэты момант пабудаваны <clr>адзін пад'ёмнік, адна траса для навічкоў, адна гасьцініца і адзін рэстаран<clrEnd>.  Капітал, які застаўся пасьля гэтага на рахунку, роўны <clr>100.000<clrEnd> cr, а вашая мэта - набраць <clr>1.000.000<clrEnd> cr.
+- Well, the time convenient for construction is already over for today but you could talk to the experts or just have a rest, - the Gaalian said."	"Quest,Ski"	"У касмапорце вас сустрэў гаалец, які выконваў абавязкі генэральнага мэнэджэра лыжнага курорту; цяпер, пакуль генэральным мэнэджэрам будзеце вы, ён стане вашым <clr>намесьнікам<clrEnd>. Па дарозе ў горы ён патлумачыў, што на гэты момант пабудаваны <clr>адзін пад'ёмнік, адна траса для навічкоў, адна гасьцініца і адзін рэстаран<clrEnd>.  Капітал, які застаўся пасьля гэтага на рахунку, роўны <clr>100.000<clrEnd> cr, а ваша мэта - набраць <clr>1.000.000<clrEnd> cr.
 
 Месца, куды вы прыехалі, аказалася даволі маляўнічым. Невялікая гасьцініца і рэстаранчык, да якіх амаль ушчыльную спускаюцца горныя схілы. Прыгледзеўшыся лепей, вы заўважылі невялікі крэсельны пад'ёмнік і пакатую трасу. Поруч з гасьцініцай месьціўся невялікі домік, прызначаны для адміністрацыі і пэрсаналу. Тут і быў ваш офіс - якраз поруч са спальняй. 
 
@@ -336,7 +336,7 @@ Next morning you went to the office with all your body aching. What makes touris
 You went to bed completely upset. However, in the morning you sat at your desk in the office trying to console yourself with the thought that <Money> cr promised by the <FromPlanet> government are good money too."	"Quest,Ski"	"Вы адправіліся да сябе ў спальню і ўсю рэшту дня глядзелі стэрэавізар. Ну трэба ж - у сэктары Перац падняліся цэны на малокскія табурэткі! Эх, якія грошы можна было б зрабіць, калі б вы не заселі на гэтай чортавай плянэтцы!
 
 У засмучаных пачуцьцях вы леглі спаць. Зрэшты, раніцай вы ўжо сядзелі за сваім працоўным сталом і суцяшалі сябе тым, што <Money> cr, абяцаныя вам урадам плянэты <FromPlanet>, - таксама нядрэнная сума."
-"/quests/Ski.qmm/locations/17/texts/3/text"	"Весь остаток дня вы смотрели, как туристы съезжают на лыжах с горы. Все-таки вы делаете большое, полезное дело! Ободренные этой нехитрой мыслью, вы легли спать, а наутро отправились в офис с желанием превратить свой курорт в лучшее место во Вселенной!"	"Quest Ski.qmm: locations.17.texts.3.text. Preserve every <tag> exactly. English reference: The rest of the day you watched the tourists sliding downhill on their skies. Whatever might happen, your business is great and rewarding! Reassured by such a simple thought, you went to bed and in the morning ran to the office with a strong desire to make your resort the best place in the Galaxy!"	"Quest,Ski"	"Усю рэшту дня вы глядзелі, як турысты з'язджаюць на лыжах з гары. Усё-такі вы робіце вялікую, карысную справу! Падбадзёраныя гэтай няхітрай думкай, вы леглі спаць, а на раніцу адправіліся ў офіс з жаданьнем ператварыць свой курорт у найлепшае месца ва Ўсясьвеце!"
+"/quests/Ski.qmm/locations/17/texts/3/text"	"Весь остаток дня вы смотрели, как туристы съезжают на лыжах с горы. Все-таки вы делаете большое, полезное дело! Ободренные этой нехитрой мыслью, вы легли спать, а наутро отправились в офис с желанием превратить свой курорт в лучшее место во Вселенной!"	"Quest Ski.qmm: locations.17.texts.3.text. Preserve every <tag> exactly. English reference: The rest of the day you watched the tourists sliding downhill on their skies. Whatever might happen, your business is great and rewarding! Reassured by such a simple thought, you went to bed and in the morning ran to the office with a strong desire to make your resort the best place in the Galaxy!"	"Quest,Ski"	"Усю рэшту дня вы глядзелі, як турысты зьяжджаюць на лыжах з гары. Усё-такі вы робіце вялікую, карысную справу! Падбадзёраныя гэтай няхітрай думкай, вы леглі спаць, а на раніцу адправіліся ў офіс з жаданьнем ператварыць свой курорт у найлепшае месца ва Ўсясьвеце!"
 "/quests/Ski.qmm/locations/17/texts/4/text"	"Сегодня вы решили сыграть в карты с собственным заместителем, и после нескольких часов проиграли ему <clr>1.000<clrEnd> cr. Да, не зря говорят - с гаальцами и пеленгами в карты лучше не играть! Делать нечего - пришлось выписать заместителю премию на указанную сумму. Не будете же вы платить ему проигрыш из собственного кармана?!
 
 Понятно, что утром, когда вы вернулись в свой офис, настроение у вас было препаршивейшее."	"Quest Ski.qmm: locations.17.texts.4.text. Preserve every <tag> exactly. English reference: Today you decided to play cards with your deputy and within several hours lost <clr>1.000<clrEnd> cr. Well, they are right warning that one should better avoid playing cards with Gaalians or Pelengs! Anyway, you had nothing else to do but to sign papers for his bonus in the amount of the lost money. It would be absolutely unwise to pay him from your own pocket!
@@ -403,8 +403,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -443,8 +443,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -483,8 +483,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -523,8 +523,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -563,8 +563,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -603,8 +603,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -643,8 +643,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -683,8 +683,8 @@ Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDa
 
 Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -713,7 +713,7 @@ The current advertising expenses are equal to [p3]<clr>0.000<clrEnd> cr per day.
 
 - <clr>Папулярнасьць<clrEnd> курорту ў цяперашні час роўная [p1]%. Ад папулярнасьці залежыць прыток кліентаў; апроч таго, <clr>калі папулярнасьць упадзе да 0, курорт могуць закрыць<clrEnd>! 
 
-Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які з'ехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія з'язджаюць, бываюць незадаволеныя.
+Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які зьехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія зьяжджаюць, бываюць незадаволеныя.
 
 Апроч таго, папулярнасьць курорту падае на <clr>5-10<clrEnd>% у дзень сама па сабе. Таму курорту патрэбная рэкляма. Кожныя патрачаныя на рэкляму <clr>10.000<clrEnd> cr у дзень павялічваюць папулярнасьць курорту на <clr>2-5<clrEnd>%. На жаль, законы плянэты <ToPlanet> забараняюць траціць на рэкляму больш за <clr>50.000<clrEnd> cr у дзень.
 
@@ -739,7 +739,7 @@ The current advertising expenses are equal to <clr>0<clrEnd> cr per day."	"Quest
 
 - <clr>Папулярнасьць<clrEnd> курорту ў цяперашні час роўная [p1]%. Ад папулярнасьці залежыць прыток кліентаў; апроч таго, <clr>калі папулярнасьць упадзе да 0, курорт могуць закрыць<clrEnd>! 
 
-Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які з'ехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія з'язджаюць, бываюць незадаволеныя.
+Будаўніцтва любога аб'екта павялічвае папулярнасьць на <clr>2-5<clrEnd>%, а калі гэты аб'ект запатрабаваны - то на <clr>5-10<clrEnd>%. Кожны <clr>незадаволены навічок, які зьехаў з курорту<clrEnd>, памяншае папулярнасьць на <clr>1<clrEnd>%, а прафэсіянал - на <clr>2<clrEnd>%. Незадаволеныя кліенты бываюць <clr>бракам рэстаранаў, пад'ёмнікаў ці трасаў патрэбнай складанасьці<clrEnd>. Аднак майце на ўвазе, што не ўсе кліенты, якія зьяжджаюць, бываюць незадаволеныя.
 
 Апроч таго, папулярнасьць курорту падае на <clr>5-10<clrEnd>% у дзень сама па сабе. Таму курорту патрэбная рэкляма. Кожныя патрачаныя на рэкляму <clr>10.000<clrEnd> cr у дзень павялічваюць папулярнасьць курорту на <clr>3-5<clrEnd>%. На жаль, законы плянэты <ToPlanet> забараняюць траціць на рэкляму больш за <clr>50.000<clrEnd> cr у дзень.
 
@@ -903,14 +903,14 @@ The tracks receive  {20*[p12]+10*[p13]} beginners and {20*[p14]+10*[p13]} pros. 
 
 - Руководство планеты <FromPlanet> восхищено вашим профессионализмом, <Ranger>, и хочет предложить вам продление контракта. Вашей задачей будет заработать <clr>10.000.000<clrEnd> cr, но уже без всяких ограничений по времени. Если вы сможете выполнить это задание, то вдобавок к сумме в <Money> cr мы выплатим вам неплохую премию прямо здесь. Разумеется, вы в любой момент сможете отказаться от этого дополнительного задания. Ну как, согласны?"	"Quest Ski.qmm: locations.30.texts.0.text. Preserve every <tag> exactly. English reference: You checked the resort's account and was completely happy to find out that there were more than <clr>1.000.000<clrEnd> cr there! Your mission was complete! You demonstrated to the managers from <ToPlanet> how any work should be done. Being ready to leave for the spaceport, you met your deputy.
 
-- The <FromPlanet> authorities are impressed by your professionalism, <Ranger>, and want to renew the contract with you. Your new task will be to earn <clr>10.000.000<clrEnd> cr. but this time no time frames will be set. If you complete this mission successfully, we'll pay you a nice bonus right here in addition to <Money> cr. Of course, you may refuse to complete this additional mission at any time. Is it a deal?"	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>1.000.000<clrEnd> cr! Вашая місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Ужо адпраўляючыся ў касмапорт, вы сустрэліся са сваім намесьнікам.
+- The <FromPlanet> authorities are impressed by your professionalism, <Ranger>, and want to renew the contract with you. Your new task will be to earn <clr>10.000.000<clrEnd> cr. but this time no time frames will be set. If you complete this mission successfully, we'll pay you a nice bonus right here in addition to <Money> cr. Of course, you may refuse to complete this additional mission at any time. Is it a deal?"	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>1.000.000<clrEnd> cr! Ваша місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Ужо адпраўляючыся ў касмапорт, вы сустрэліся са сваім намесьнікам.
 
 - Кіраўніцтва плянэты <FromPlanet> у захапленьні ад вашага прафэсіяналізму, <Ranger>, і хоча прапанаваць вам падаўжэньне кантракту. Вашай задачай будзе зарабіць <clr>10.000.000<clrEnd> cr, але ўжо без усялякіх абмежаваньняў па часе. Калі вы зможаце выканаць гэтае заданьне, то ў дадатак да сумы ў <Money> cr мы выплацім вам нядрэнную прэмію проста тут. Зразумела, вы ў любы момант зможаце адмовіцца ад гэтага дадатковага заданьня. Ну як, згодныя?"
 "/quests/Ski.qmm/locations/31/texts/0/text"	"Проверив содержимое счета курорта, вы к своей неописуемой радости обнаружили, что на нем больше <clr>10.000.000<clrEnd> cr! Ваша миссия выполнена! Вы показали менеджерам планеты <ToPlanet>, как надо работать. Заместитель торжественно выдал вам премию в <clr>10.000<clrEnd> cr. Ваш счет теперь равен [p21] cr! И надо еще слетать на планету <FromPlanet> за своим гонораром в <Money> cr.
 
 В общем, вы неплохо заработали на этой планетке, надо отметить! ""Может быть, стоит переквалифицироваться в управляющие?"" - думали вы, возвращаясь в космопорт."	"Quest Ski.qmm: locations.31.texts.0.text. Preserve every <tag> exactly. English reference: You checked the resort's account and was completely happy to find out that there were more than <clr>1.000.000<clrEnd> cr there! Your mission was complete! You demonstrated to the managers from <ToPlanet> how any work should be done. With all the ceremony the deputy handed your bonus in the amount of <clr>10.000<clrEnd> cr. to you. There are [p21] cr on your account now! Also you need to visit the <FromPlanet> planet and get your fee in the amount of <Money> cr.
 
-All in all, you earned good money on this piece of planet, didn't you? ""Should I really change the profession and become a manager?"" - you thought returning to the spaceport."	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>10.000.000<clrEnd> cr! Вашая місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Намесьнік урачыста выдаў вам прэмію ў <clr>10.000<clrEnd> cr. Ваш рахунак цяпер роўны [p21] cr! І трэба яшчэ зьлятаць на плянэту <FromPlanet> па свой ганарар у <Money> cr.
+All in all, you earned good money on this piece of planet, didn't you? ""Should I really change the profession and become a manager?"" - you thought returning to the spaceport."	"Quest,Ski"	"Праверыўшы зьмест рахунку курорту, вы да сваёй неапісальнай радасьці выявілі, што на ім больш за <clr>10.000.000<clrEnd> cr! Ваша місія выкананая! Вы паказалі мэнэджэрам плянэты <ToPlanet>, як трэба працаваць. Намесьнік урачыста выдаў вам прэмію ў <clr>10.000<clrEnd> cr. Ваш рахунак цяпер роўны [p21] cr! І трэба яшчэ зьлятаць на плянэту <FromPlanet> па свой ганарар у <Money> cr.
 
 Увогуле, вы нядрэнна зарабілі на гэтай плянэтцы, трэба зазначыць! ""Можа, варта перакваліфікавацца ў кіраўнікі?"" - думалі вы, вяртаючыся ў касмапорт."
 "/quests/Ski.qmm/locations/32/texts/0/text"	"Сегодня <CurDate>. Вы сидите в своем офисе. Перед вами на столе лежит отчет за прошедшие сутки:
@@ -937,8 +937,8 @@ Money spent on:
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -971,8 +971,8 @@ Money spent on:
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -1005,8 +1005,8 @@ Money spent on:
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -1039,8 +1039,8 @@ Money spent on:
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: {([p17]*2)}<clr>.000<clrEnd> cr
@@ -1073,8 +1073,8 @@ Money spent on
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -1107,8 +1107,8 @@ Money spent on:
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -1141,8 +1141,8 @@ Money spent on:
 <clr>advertising<clrEnd>: <clr>0<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr
@@ -1175,8 +1175,8 @@ Money spent on:
 <clr>advertising<clrEnd>: {[p3]*10}<clr>.000<clrEnd> cr
 Money on the account: [p2]<clr>.000<clrEnd> cr"	"Quest,Ski"	"Сёньня <CurDate>. Вы сядзіце ў сваім офісе. Перад вамі на стале ляжыць справаздача за мінулыя суткі:
 
-Навічкі - <clr>было<clrEnd>: [p17], <clr>з'ехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
-Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>з'ехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
+Навічкі - <clr>было<clrEnd>: [p17], <clr>зьехала<clrEnd>: [p6], <clr>прыехала<clrEnd>: [p9], <clr>цяпер<clrEnd>: [p7]. 
+Прафэсіяналы - <clr>было<clrEnd>: [p18], <clr>зьехала<clrEnd>: [p19], <clr>прыехала<clrEnd>: [p20], <clr>цяпер<clrEnd>: [p8].
 
 Атрымана грошай 
 <clr>ад навічкоў<clrEnd>: <clr>0<clrEnd> cr

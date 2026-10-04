@@ -154,7 +154,8 @@ Packages {
 .venv/bin/python validate_corpus.py
 PYTHONPATH=. .venv/bin/python corpus_data.py check
 PYTHONPATH=. .venv/bin/python spell_check.py
-PYTHONPATH=. .venv/bin/python spell_check.py --file Ski.qmm
+PYTHONPATH=. .venv/bin/python spell_check.py --file Ski.qmm --gate
+python3 qa_translation.py --fix && python3 qa_translation.py
 ```
 
 - Do not translate placeholders, identifiers, markup, or shortcut keys.

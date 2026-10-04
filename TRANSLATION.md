@@ -16,8 +16,11 @@ Reuse a locked term. Do not invent a second pipeline.
    Spelling clash: hunspell wins. Meaning clash: Starnik wins.
    Record the new lemma in `TERMBASE.tsv` (sense, endings, rejected calque, Starnik URL).
 4. `validate_corpus.py` — placeholders, tags, and `{…}` / `[pN]` must match the source.
-5. `corpus_data.py check` — corpus ids, source text, and quest round-trip.
-6. `build_test_mod.py` — only when the line is on a screen the build already ships.
+5. `qa_translation.py` — numbers, `<format>` cell widths, tarask slips
+   (`з'яв-` is `зьяв-`, `вашая` is `ваша`), and rejected termbase forms in any
+   row not listed in `qa_baseline.txt`. Fails CI. See "LLM batches".
+6. `corpus_data.py check` — corpus ids, source text, and quest round-trip.
+7. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
 `STYLE.md` and `ORTHO.md` are the language rules. Edit the `be` cell in
 `corpus/`; that tree is the source of truth. Formulas are not in the TSV
@@ -57,7 +60,7 @@ The current `be` column keeps those first letters (`А В Е З М Р С`).
 drops the letter the diary names, while the quest still accepts only the
 original jump.
 
-**`Feipsycho.qmm`** (empty). Three separate gates:
+**`Feipsycho.qmm`** (filled; letters, digits and `<fix>` kept). Three separate gates:
 
 - The steel door is an 8-strip clock. The `<fix>` drawing stays as drawn.
   The poem is the solution: press one, count eight the way a clock does,
@@ -82,7 +85,7 @@ says a URL and the jump text is the same URL. Keep both copies identical:
 are the alphabet the player reads. Leave them. The order tables lower in
 the same file are ordinary fixed-width bills (see below).
 
-**`Kidnapped.qmm`**, location `210` (empty). Not a gate. The coin at the
+**`Kidnapped.qmm`**, location `210` (filled; the three tokens kept). Not a gate. The coin at the
 end of the quest is a Vigenère easter egg. Leave these three tokens
 unchanged: `VIGENERE`, `kiiltgjtfjph kqxwzr`, `virsle`. With key `virsle`
 the longer string decrypts to “particolored pigeon”. Translate the
@@ -103,7 +106,7 @@ width as the Russian line.
 | `Logic.qmm` | Grids `[ ]`, `[0]`, `[+]` | filled, grids intact |
 | `Codebox.qmm` | Two keypads. Header was `Ключ` / `Образец`; digits come from `[p2]`–`[p5]` and `{n}` | filled; `Образец` is `Узор` padded back to 7 columns so the label sits on the sample grid |
 | `Bomber.qmm` | Grid rows `A`–`E` in `<format=center, 40>` | empty; keep the Latin letters |
-| `Pilot.qmm` | Track `I . . o I` | empty |
+| `Pilot.qmm` | Track `I . . o I`; the ticket price table in `<fix>` keeps its Russian column headers | filled |
 | `Player.qmm` | 3×3 cells `1`–`9` | filled, grid intact |
 | `Doomino.qmm` | Domino faces `[p40]<clr>=<clrEnd>[p41]` | empty; do not edit inside the brackets |
 | `Edelweiss.qmm` | Badge number, one digit per cell, from `[p20]` | empty |
@@ -129,10 +132,102 @@ such as Mafia’s `Пассворд` / `Parol`) are ordinary prose.
 
 ## Order of work
 
-UI and `corpus/lang_dat/` first, until the termbase covers the words those
-screens repeat. Quests after that. Puzzle files last, one file at a time,
-so every copy of a name (diary, statue, jump) is edited together.
+`validate_corpus.py` lists the incomplete files. Take them in this order,
+one file at a time, until its `--batch` prints nothing:
+
+1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia`, `Drugs`.
+2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
+   on overflow): `Amnesia`, `Colonization`, `Rvk`, `Proprolog`, `Kiberrazum`.
+3. Puzzle files, smallest first: `Elus`, `Edelweiss`, `Doomino`, `Bomber`,
+   `Xenolog`, `Evidence`, `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
+   `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
+   puzzle's table row to stderr; read its whole section above first, and
+   edit every copy of a name (diary, statue, jump) in the same batch.
+
+Rhythm: one batch (default 50 unique sources, at most 150) is one commit,
+pushed straight away. Open a draft PR after the first commit of a file and
+keep adding to it until the file is done. Branch `cursor/<file>-<suffix>`.
 
 Before a puzzle file is called done: tags still match
 (`validate_corpus.py`), and every `<fix>` line is the same width as the
 Russian line.
+
+## LLM batches
+
+One batch is one file, about 50 unique sources:
+
+```bash
+python3 qa_translation.py --batch Moi.qmm -n 50   # input for the model
+# model writes the be cells into corpus/quests/Moi.qmm.tsv
+python3 qa_translation.py --fix                   # tarask slips + copy to rows with the same source
+python3 qa_translation.py                         # hard checks, must print 0 failures
+PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
+```
+
+- `--batch` prints `identifier, rows sharing it, ru, English reference,
+  termbase hints` for each *unique* source, so a repeated label is
+  translated once (`Отмена` was `Скасаваць` in 20 rows and `Адмена` in 7).
+  Give the model those lines, not the whole `TERMBASE.tsv`.
+- Never ask the model to count or renumber (`Gluki.qmm` `1 колба` once came
+  back as `2 колбы`); `qa_translation.py` fails on a swapped digit.
+- `qa_baseline.txt` holds rejected-form rows that predate the check. Fix a
+  row and delete it from the file; never add rows. A real new exception goes
+  into `TERMBASE.tsv` instead.
+- `spell_check.py --gate` fails on any token not in `spell_allow.txt`. A hit
+  is a question, not a patch: hunspell lacks some correct forms (`аб'екта`,
+  genitive of a concrete noun, is fine). Check the form in Starnik and the
+  sense in the Russian line before changing it; run `--accept` only for words
+  that survive that, and review the diff. `SLIPS` in `qa_translation.py`
+  holds spelling rules that are true in every context, nothing else.
+
+## Known LLM mistakes — read before the first batch
+
+Each one happened in this corpus. `qa_translation.py` catches the ones marked
+(auto); the rest only a careful read catches.
+
+1. **Russian shapes in tarask spelling (auto for the first two).** Prefix
+   `з-`/`с-` softens before я, е, ё, ю, і: `зьявіўся`, `зьяўляецца`, not
+   `з'явіўся`. Apostrophe stays after other prefixes and labials:
+   `аб'ява`, `пад'езд`, `п'еса`, `сур'ёзны`. `ваша`/`вашу`, not `вашая`/`вашую`.
+   Verbal nouns take `-ньне`/`-ньня` (`дасягненьне`), not `-нне` (`паскарэнне`,
+   `устаранення` slipped through; `начынне`, `ванне` are real words).
+2. **Changed numbers (auto).** A model asked to "translate" `1 колба`, `2 колбы`
+   returned `2 колбы`, `3 колбы`, so every flask count in `Gluki.qmm` was off by one.
+   Digits, `[pN]`, `{…}` and `<tags>` are copied, never recomputed.
+3. **Cell overflow (auto).** `<format=left,27> Прыбытак за ўчорашні дзень:` is 28
+   characters with its leading space and clips. Count the whole cell, spaces
+   included, against `N`.
+4. **Same label, different words (auto: `--fix` copies, the report lists).**
+   `Отмена` was `Скасаваць` in 20 rows and `Адмена` in 7. Reuse the existing
+   translation of an identical source; `--batch` already shows each source once.
+5. **Rejected termbase forms (auto, against `qa_baseline.txt`).** `група`
+   (`гурт`), `клян` (`клан`), `супернік` (`праціўнік`), `спадарожнік` (`папутнік`),
+   `бруд` (`гразь`). The hints printed by `--batch` list the accepted form.
+6. **Russian left in the cell (report).** `Броня корпуса: <bonHull> ед.` was
+   copied unchanged into 19 `MicroModuls` rows. Proper names in `ShipName`,
+   `PlanetName`, `Star`, `RuinName` and `Constellations` may stay Cyrillic;
+   sentences and unit words may not. A joke built on broken Russian (`Pilot.qmm`
+   `тибя чериз полчиса`) is translated by imitating the same kind of mistake in
+   Belarusian, not left in Russian.
+7. **Hunspell is not grammar.** It lacks correct forms (`аб'екта`, genitive of
+   a concrete noun, is right) and proposes wrong ones. A hit means "look",
+   never "replace". Form and endings: Starnik. Sense: the Russian line and
+   the English `context`. Only a rule that is true in every context goes
+   into `SLIPS`.
+8. **Starnik from a shell.** `https://starnik.by/pravapis/<id>` is a static
+   page showing the headword with its endings (`клан, -а`); the `TERMBASE.tsv`
+   `source` column has such links. The search box runs in JavaScript, so
+   `curl …?search=` returns nothing: use a browser tool, or an id already
+   in `TERMBASE.tsv`.
+9. **Editing the TSVs.** Rows are quoted with `QUOTE_ALL`, and a file uses
+   either `\n` or `\r\n` for row ends (some files hold both inside cells).
+   Rewriting one with the wrong terminator once produced a 454-line diff for
+   a 32-row change. Edit through `read_rows`/`save` in `qa_translation.py`, or
+   change the cell text in place. After any bulk edit, `git diff --stat` must
+   match the rows you meant to touch, and
+   `git diff --word-diff=porcelain --word-diff-regex='[^[:space:]]+'` must
+   show only the intended tokens.
+10. **Do not trust a first-pass "unused" or "empty" label.** `TRANSLATION.md`
+    called Feipsycho, Kidnapped and Pilot "empty" while they were 100%
+    translated. `validate_corpus.py` shows the real counts; update the puzzle
+    table in the same commit that finishes a file.

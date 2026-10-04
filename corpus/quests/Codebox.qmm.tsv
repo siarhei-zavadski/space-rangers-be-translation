@@ -37,7 +37,7 @@ With that, Ikss left the room. You have had nothing to do but follow suit. So yo
 
 З гэтымі словамі Іксс пакінуў пакой. Вам нічога не заставалася, апроч як зрабіць тое самае і адправіцца ў космапорт.
 
-<clr>Вашая місія праваленая.<clrEnd>"
+<clr>Ваша місія праваленая.<clrEnd>"
 "/quests/Codebox.qmm/parameters/7/name"	"Вариант загадки"	"Quest Codebox.qmm: parameters.7.name. Preserve every <tag> exactly. English reference: Puzzle version"	"Quest,Codebox"	"Варыянт загадкі"
 "/quests/Codebox.qmm/parameters/7/lines/0/content"	"Вариант загадки: <>"	"Quest Codebox.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly. English reference: Puzzle version: <>"	"Quest,Codebox"	"Варыянт загадкі: <>"
 "/quests/Codebox.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Codebox.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Codebox"	"Паведамленьне дасягненьня крытычнага значэньня парамэтрам 8"
@@ -683,7 +683,7 @@ Having said that, Ikss bids you farewell and you return to the spaceport.
 
 З гэтымі словамі Іксс разьвітаўся з вамі, і вы адправіліся назад у космапорт.
 
-<clr>Вашая місія праваленая.<clrEnd>"
+<clr>Ваша місія праваленая.<clrEnd>"
 "/quests/Codebox.qmm/locations/6/texts/1/text"	"- Пожалуй, я не справлюсь, - честно признались вы. - Я просто не успею его взломать за оставшееся время.
 
 - К сожалению, <Ranger>, вы не оправдали оказанного вам доверия. А значит, коронация пройдёт без черепа. Малоки будут вне себя от ярости, когда узнают об этом. Лично я собираюсь побыстрее сваливать с этой планеты. Благо, 70% гонорара мне заплатили вперёд, это было моё обязательное условие... 
@@ -702,7 +702,7 @@ With that, Ikss left the room. You have nothing to do but follow suit. You leave
 
 З гэтымі словамі Іксс пакінуў пакой. Вам нічога не заставалася як зрабіць тое самае і адправіцца ў космапорт.
 
-<clr>Вашая місія праваленая<clrEnd>."
+<clr>Ваша місія праваленая<clrEnd>."
 "/quests/Codebox.qmm/locations/8/texts/0/text"	"Космопорт планеты <ToPlanet> встретил вас оглушительной музыкой и бешено крутящимися в воздухе разноцветными бумажками. Так малоки представляют себе праздничную атмосферу, связанную с церемонией коронации.
 
 На стоянке было полно свободных гравитакси, поэтому вы быстро добрались до места встречи. Им оказался офис в огромном деловом центре. За столом в кабинете сидел неприметной внешности пеленг.
