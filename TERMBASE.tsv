@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/дроідамі/дроідных/Дроідных		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую/клісанам		game race; pl клісаны, клісанаў; instrumental клісанамі, sg клісанам; song клісанка	—
@@ -2018,7 +2018,7 @@ lemma.glider	глайдер	glider	глайдэр/Глайдэр/глайдэр�
 lemma.maloksha	малокша	maloq woman	малокша		feminine of малок; the floor cleaner	—
 lemma.hologenerator	галогенератор	hologenerator	галагенэратар		the desk hologram spinner; coined	—
 lemma.tactile	тактильный	tactile	тактыльны		the lockpick's touch sensor	https://starnik.by/pravapis/153865
-lemma.barbarian	варварский	barbarian	варварскі		the bank raid; hunspell lacks the adjective	https://starnik.by/pravapis/101560
+lemma.barbarian	варварский	barbarian	варварскі/варварская/варварскія/варварскіх/Варварскія/Варварскіх		the bank raid; hunspell lacks the adjective	https://starnik.by/pravapis/101560
 lemma.bashka	башка	noggin	Башка/башка		slang head in the gang slogan	https://starnik.by/pravapis/9536
 lemma.laay_toom	Лаай-Тоом	Laay-Toom	Лаай/Тоом		the gaal who recites the robbery poem	—
 lemma.avorok	аворок	farm beast	аварок/аварокаў/аварокі		coined herd animal; not in Starnik	—
@@ -2234,3 +2234,18 @@ lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/н�
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
 lemma.factory	завод	factory	завод/завода/заводаў		an industrial plant, sense 1; genitive -а	https://starnik.by/pravapis/26361
+lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/варвары		Starnik noun; hunspell wants барбар. New lines use варвар	https://starnik.by/pravapis/13378
+lemma.civill	Цивилл	Civill	Цывіл		colony civil-affairs specialist; coined surname	Colonization.qmm
+lemma.wall	стена	wall	сьцяна/сьцяны/сьцяне		a wall; Starnik сцяна, hunspell inserts ь	https://starnik.by/pravapis/73984
+lemma.discharge	разряд	discharge	разрад/разрады/разраду		electrical discharge, sense 2; not the stunner charge зарад	https://starnik.by/pravapis/63503
+lemma.shop	магазин	shop	крама/крамы/краме		a shop; the firearm magazine is магазын	https://starnik.by/pravapis/36744
+lemma.equipment	оборудование	equipment	абсталяваньне/абсталяваньня		gear and machinery, sense 2; Starnik абсталяванне	https://starnik.by/pravapis/993
+lemma.colony	колония	colony	калёнія/калёніі/калёнію		a settlement; Starnik калонія, hunspell writes ё	https://starnik.by/pravapis/32222
+lemma.treasury	казна	treasury	казна/казны		state funds, sense 1	https://starnik.by/pravapis/31826
+lemma.immigration	иммиграция	immigration	іміграцыя/іміграцыі		moving in to settle	https://starnik.by/pravapis/30485
+lemma.republic	республика	republic	рэспубліка		a form of government	https://starnik.by/pravapis/66123
+lemma.monarchy	монархия	monarchy	манархія		rule by one person	https://starnik.by/pravapis/41470
+lemma.democracy	демократия	democracy	дэмакратыя		rule by the people	https://starnik.by/pravapis/24877
+lemma.dictatorship	диктатура	dictatorship	дыктатура		rule that rests on force	https://starnik.by/pravapis/24036
+lemma.commission	комиссия	commission	камісія/камісіі		a body sent to inspect	https://starnik.by/pravapis/32554
+lemma.village	деревня	village	вёска/вёскі/вёсках		a village; locative plural вёсках	https://starnik.by/pravapis/14071
