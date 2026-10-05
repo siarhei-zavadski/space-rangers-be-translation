@@ -116,7 +116,7 @@ lemma.airlock	шлюз	airlock	шлюз		Starnik	—
 lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
-lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
+lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе/Карпус		Starnik: ship/mech pl карпусы, родны карпусоў	—
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны/дроідны/Дроідаў/дроідныя		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных; table header Дроідаў; adj N sg дроідны; adj N pl дроідныя	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/Лязэр		equipment lock; I лязэрам; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/Лязэр/Лязэра		equipment lock; I лязэрам; G Лязэра; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -2376,3 +2376,22 @@ lemma.risk	риск	risk	рызыка		the chance of being caught	https://starni
 lemma.rehearse	тренироваться	to rehearse	трэнаваліся	трэніраваліся	past pl; Starnik трэніраваліся; hunspell трэнаваліся	https://starnik.by/pravapis/215642
 lemma.nz	НЗ	emergency stash	НЗ		quoted print-shop reserve; недатыкальны запас	Rvk.qmm
 lemma.nescafe	Нескафе	Nescafe	Нескафэ		joke classical song the agitator is told to sing	Rvk.qmm
+lemma.lens	Ленс	Lens	Ленс/Ленса		the ranger body the player occupies; G Ленса	Proprolog.qmm
+lemma.piracy	пиратство	piracy	пірацтва		pirate activity; G пірацтва	https://starnik.by/pravapis/56754
+lemma.reputation	репутация	reputation	рэпутацыя/рэпутацыі		public standing; G рэпутацыі	https://starnik.by/pravapis/66106
+lemma.bandit	бандит	bandit	бандыт/бандыта		armed robber; G бандыта	https://starnik.by/pravapis/9011
+lemma.wear	износ	wear	знос/зносу		equipment wear, sense 2; G зносу	https://starnik.by/pravapis/29605
+lemma.free	свободный	free	вольны/вольнае		unoccupied, sense 3; N n вольнае	https://starnik.by/pravapis/102793
+lemma.mercury_adj	ртутный	mercury	ртутны		mercury-vapor radar; Starnik ртуць	https://starnik.by/pravapis/64915
+lemma.tube_adj	ламповый	tube	лямпавы		vacuum-tube gear; лямпавы прыёмнік	https://starnik.by/pravapis/122090
+lemma.semiconductor	полупроводниковый	semiconductor	паўправадніковы		semiconductor radar; Starnik паўправаднік	https://starnik.by/pravapis/54220
+lemma.industrial	промышленный	industrial	прамысловы		factory-made; Items Прамысловы лязэр	https://starnik.by/pravapis/141439
+lemma.nozzle	насадка	nozzle	насадка/насадкі/насадкай		a fitting on a device, sense 3; I насадкай	https://starnik.by/pravapis/46230
+lemma.interference	помеха	interference	перашкода/перашкод		jammer noise; G pl перашкод	https://starnik.by/pravapis/56083
+lemma.apparatus	аппарат	apparatus	апарат/апарата		a device; G апарата	https://starnik.by/pravapis/5339
+lemma.distill	перегонный	distilling	перагонны		still; Перагонны апарат, sense 1	https://starnik.by/pravapis/138234
+lemma.contents	содержимое	contents	зьмест		tarask of змест; hold and vial contents	https://starnik.by/pravapis/29394
+lemma.mineral	минерал	mineral	мінэрал/мінэралы		hunspell э; Starnik мінерал; N pl мінэралы	https://starnik.by/pravapis/43735
+lemma.spirits	спиртное	liquor	сьпіртное/сьпіртнога		cargo liquor; G сьпіртнога	https://starnik.by/pravapis/71436
+lemma.five_finger	пятипалый	five-fingered	пяціпальцы	пяціпалы	has five fingers; hunspell rejects пяціпалы	https://starnik.by/pravapis/144312
+lemma.four_finger	четырехпалый	four-fingered	чатырохпальцы	чатырохпалы	with four fingers; hunspell rejects чатырохпалы	https://starnik.by/pravapis/161125

@@ -11,7 +11,7 @@
 "/quests/Bomber.qmm/parameters/3/name"	"Сейсмические мины:"	"Quest Bomber.qmm: parameters.3.name. Preserve every <tag> exactly."	"Quest,Bomber"	""
 "/quests/Bomber.qmm/parameters/3/lines/0/content"	"Сейсмические мины: [p4]/10"	"Quest Bomber.qmm: parameters.3.lines.0.content. Preserve every <tag> exactly."	"Quest,Bomber"	""
 "/quests/Bomber.qmm/parameters/3/crit_text"	"Сообщение достижения критического значения параметром 4"	"Quest Bomber.qmm: parameters.3.crit_text. Preserve every <tag> exactly."	"Quest,Bomber"	""
-"/quests/Bomber.qmm/parameters/4/name"	"Топливо"	"Quest Bomber.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Bomber"	""
+"/quests/Bomber.qmm/parameters/4/name"	"Топливо"	"Quest Bomber.qmm: parameters.4.name. Preserve every <tag> exactly."	"Quest,Bomber"	"Паліва"
 "/quests/Bomber.qmm/parameters/4/lines/0/content"	"Топливо: [p5]/30 т."	"Quest Bomber.qmm: parameters.4.lines.0.content. Preserve every <tag> exactly."	"Quest,Bomber"	""
 "/quests/Bomber.qmm/parameters/4/crit_text"	"Неожиданно включился бортовой компьютер:
 
