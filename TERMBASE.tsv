@@ -2485,6 +2485,29 @@ lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's
 lemma.rowdy	буйный	rowdy	буйны		unruly, sense 1, not the size sense	https://starnik.by/pravapis/100280
 lemma.cloudy	мутный	cloudy	мутны/мутным		cloudy gaze; I мутным	https://starnik.by/pravapis/125228
 lemma.mite	лепта	mite	лепта/лепту		a small contribution; A лепту	https://starnik.by/pravapis/39161
+lemma.elus_big	Большой	big figure	Вялікі		attribute column, width 8	https://starnik.by/pravapis/104589
+lemma.elus_small	Малый	small figure	Малы		attribute column, width 8	https://starnik.by/pravapis/122915
+lemma.elus_blue	Синий	blue figure	Сіні		attribute column, width 7; Блакітны is 8 and clips	https://starnik.by/pravapis/149757
+lemma.elus_yellow	Желтый	yellow figure	Жоўты		attribute column, width 7	https://starnik.by/pravapis/111113
+lemma.elus_circle	Круг	circle figure	Круг		attribute column, width 5; the disk, not акружнасьць	https://starnik.by/pravapis/250463
+lemma.elus_rhomb	Ромб	lozenge figure	Ромб		attribute column, width 5	https://starnik.by/pravapis/64837
+lemma.truth	истинность	truth value	ісьціннасьць/ісьціннасьці		logic truth; Starnik ісціннасць, G ісціннасці; tarask keeps the soft signs; hunspell lacks it	https://starnik.by/pravapis/31455
+lemma.elus_onyke	Онайк	O'Nyke	Анайк/Анайка/Анайку/Анайкам		contestant; the short form fits the width-17 scoreboard; G Анайка, D Анайку, I Анайкам	Elus.qmm
+lemma.elus_eo	Эо	Eo	Эо		contestant	Elus.qmm
+lemma.elus_loon	Лун	Loon	Лун		contestant	Elus.qmm
+lemma.elus_ellinar	Эллинар	Ellinar	Эллінар		contestant	Elus.qmm
+lemma.elus_crocus	Крокус	Crocus	Крокус		contestant; the flower spelling	https://starnik.by/pravapis/36930
+lemma.elus_phocus	Фокус	Phocus	Фокус		contestant name Phocus, not the trick	https://starnik.by/pravapis/80592
+lemma.elus_bliuk	Блюк	Bliuk	Блюк		contestant	Elus.qmm
+lemma.elus_agaric	Груздь	Agaric	Грузд		contestant; the mushroom spelling	https://starnik.by/pravapis/20817
+lemma.elus_clod	Тупой	Clod	Тупы		contestant name, the blunt sense	https://starnik.by/pravapis/155278
+lemma.elunie	элуни	elunie	элуні/Элуні		lifelong Elus title; coined from the game name	Elus.qmm
+lemma.laptop	лаптоп	laptop	лэптоп/лэптопа/лэптопе/лэптопам		a small computer; hunspell suggestions are unrelated	https://starnik.by/pravapis/40251
+lemma.envelope	конверт	envelope	канвэрт/канвэрта		paper packet; Starnik канверт, tarask hunspell канвэрт	https://starnik.by/pravapis/32911
+lemma.assistant_title	ассистент	assistant	асыстэнт/Асыстэнт		junior academic title; Starnik асістэнт, hunspell асыстэнт	https://starnik.by/pravapis/6496
+lemma.elus_game	Элус	Elus	Элус/Элусе		the logic game; L Элусе	Elus.qmm
+lemma.elus_lantid	Лантид	Lantid	Лантыд		contestant surname on the width-17 scoreboard	Elus.qmm
+lemma.penalty_adj	штрафной	penalty	штрафное/штрафных		a penalty point; N n штрафное, the о is stressed; G pl штрафных	https://starnik.by/pravapis/162544
 lemma.grain_bin	закрома	grain bin	засек/засека/засекі/засекаў/засеках	закром	a store bin, not a hiding place; N pl засекі, L pl засеках	https://starnik.by/pravapis/27722
 lemma.loop_on	зацикливаясь	looping on	зацыкліваць/зацыкліваючы		to fix attention on; present adverbial зацыкліваючы; hunspell lacks it	https://starnik.by/pravapis/182924
 lemma.capitulate	капитулировать	capitulate	капітуляваць		to give up; infinitive	https://starnik.by/pravapis/186207

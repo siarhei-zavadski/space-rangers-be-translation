@@ -179,7 +179,7 @@
 "/quests/Losthero.qmm/parameters/35/lines/0/content"	"У вас нет ни одного листика"	"Quest Losthero.qmm: parameters.35.lines.0.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/35/lines/1/content"	"У вас <> пальмовых листьев"	"Quest Losthero.qmm: parameters.35.lines.1.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/35/crit_text"	"Сообщение достижения критического значения параметром 36"	"Quest Losthero.qmm: parameters.35.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
-"/quests/Losthero.qmm/parameters/36/name"	"Фокус"	"Quest Losthero.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Losthero"	""
+"/quests/Losthero.qmm/parameters/36/name"	"Фокус"	"Quest Losthero.qmm: parameters.36.name. Preserve every <tag> exactly."	"Quest,Losthero"	"Фокус"
 "/quests/Losthero.qmm/parameters/36/lines/0/content"	"Монокль не в фокусе <br> *  |======  \|/"	"Quest Losthero.qmm: parameters.36.lines.0.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/36/lines/1/content"	"Монокль немного в фокусе <br> *  =|=====  \|/"	"Quest Losthero.qmm: parameters.36.lines.1.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/36/lines/2/content"	"Монокль приближается к фокусу <br> *  ==|====  \|/"	"Quest Losthero.qmm: parameters.36.lines.2.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
