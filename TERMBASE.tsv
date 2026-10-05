@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/дроідамі		N pl дроіды; Gpl дроідаў; I pl дроідамі; cleaner droids in the arena	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/дроідамі/дроідных/Дроідных		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую/клісанам		game race; pl клісаны, клісанаў; instrumental клісанамі, sg клісанам; song клісанка	—
@@ -2233,3 +2233,4 @@ lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнта
 lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/наркокур'еры		a courier of drugs; hunspell lacks the compound	Amnesia.qmm
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
+lemma.factory	завод	factory	завод/завода/заводаў		an industrial plant, sense 1; genitive -а	https://starnik.by/pravapis/26361
