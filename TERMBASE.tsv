@@ -2395,7 +2395,7 @@ lemma.mineral	минерал	mineral	мінэрал/мінэралы		hunspell �
 lemma.spirits	спиртное	liquor	сьпіртное/сьпіртнога		cargo liquor; G сьпіртнога	https://starnik.by/pravapis/71436
 lemma.five_finger	пятипалый	five-fingered	пяціпальцы	пяціпалы	has five fingers; hunspell rejects пяціпалы	https://starnik.by/pravapis/144312
 lemma.four_finger	четырехпалый	four-fingered	чатырохпальцы	чатырохпалы	with four fingers; hunspell rejects чатырохпалы	https://starnik.by/pravapis/161125
-lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/Вэнэрыянскі		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э	https://starnik.by/pravapis/101927
+lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/Вэнэрыянскі/вэнэрыянскіх		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; G pl вэнэрыянскіх	https://starnik.by/pravapis/101927
 lemma.athanasius	Афанасий	Athanasius	Афанасій/Афанасія		the dying ranger; G Афанасія	https://starnik.by/pravapis/88682
 lemma.raphael	Рафаэль	Raphael	Рафаэль/Рафаэлю/Рафаэля		director of the ranger center; D Рафаэлю	https://starnik.by/pravapis/90593
 lemma.hannibal	Ганнибал	Hannibal	Ганібал/Ганібала		the cruiser in quotes; G Ганібала	https://starnik.by/pravapis/105186
@@ -2419,3 +2419,5 @@ lemma.boastful	хвастливый	boastful	хваслівы/Хваслівы		
 lemma.furrow	бороздить	plough a wake	барозьняць/барозьніш		Starnik баразніць, 3pl барозьняць, 2sg барозьніш	https://starnik.by/pravapis/171477
 lemma.eel_base	Угорь	Eel	Вугор		military base; same width as Угорь	Proprolog.qmm
 lemma.half_axis	Полуось	Half-axis	Паўвось/Паўвосі		planet; locative Паўвосі; same width as Полуось	Proprolog.qmm
+lemma.novice	новичок	novice	навічок/Навічок		Starnik навічок, a person new to the work; the ranger rank	https://starnik.by/pravapis/45262
+lemma.twodee	двадевизор	2D visor	двадэвізары		the bar's flat screen; coined from два and візар	Proprolog.qmm
