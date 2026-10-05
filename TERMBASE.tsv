@@ -363,7 +363,7 @@ lemma.safronova	Наталья Сафронова	Natalya Safronova	Наталь
 lemma.zhuker	Жукер и сыновья	Zhuker and Sons	Жукер і сыны		quoted uranium firm	—
 lemma.stepan_jackson	Степан Джексон	Stepan Jackson	Сьцяпан Джэксан		council candidate; keep in <clr>	—
 lemma.obmanushechki	Обманушечки	Punk'd	Абманушачкі		hidden-camera show; host Вэй-Дыс Пеш	—
-lemma.mentoscopy	ментоскопия	mentoscopy	мэнтаскапія/мэнтаскапію		with мэнтаскоп; A мэнтаскапію; Quest DefShip/19, Amnesia	—
+lemma.mentoscopy	ментоскопия	mentoscopy	мэнтаскапія/мэнтаскапію/мэнтаскапіі		with мэнтаскоп; A мэнтаскапію, L мэнтаскапіі; Quest DefShip/19, Amnesia	—
 lemma.elvis	Элвис Пресли	Elvis Presley	Элвіс Прэсьлі		keep in <clr>; frozen singer	—
 lemma.oscar	Оскар	Oscar	Оскар		quoted Latin-shape award; already Script lock	—
 lemma.yellow_cross_quest	Желтый крест	Yellow Cross	Жоўты Крыж		International in DefShip/25; same lemma.yellow_cross	—
@@ -2030,7 +2030,7 @@ lemma.simsim	Симсим	lock brand	Сымсым		Open-sesame lock; a proper na
 lemma.stretch_von	воооон	stretched there	вооось		the farmer stretches вось	—
 lemma.stretch_how	каааак	stretched how	яяяк		the farmer stretches як	—
 lemma.defeatist	пораженческий	defeatist	паражэнскія		Starnik паражэнскі; the plural is a hunspell gap	https://starnik.by/pravapis/136022
-lemma.handle	рукоять	handle	дзяржальні		Starnik дзяржальня; the plural is a hunspell gap	https://starnik.by/pravapis/22971
+lemma.handle	рукоять	handle	дзяржальні/дзяржальню		Starnik дзяржальня, A дзяржальню; hunspell inserts ь	https://starnik.by/pravapis/22971
 lemma.password_guess	Пассворд	failed password token	Пассворд		frozen joke; the engine does not read the word	TRANSLATION.md
 lemma.autodiag	автодиагностика	transmitter system	Аўтадыягностыка/аўтадыягностыка		starts with А; the lock order names this system	—
 lemma.autotune	автонастройка	transmitter system	Аўтаналадка/аўтаналадка/Аўтаналадкі/аўтаналадкі		starts with А; the book plural is Аўтаналадкі	—
@@ -2192,9 +2192,9 @@ lemma.hospital	больница	hospital	лякарня/Лякарня/ляка�
 lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloquial mental hospital; hunspell lacks it	https://starnik.by/pravapis/61474
 lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
 lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
-lemma.paatron	Паатрон	Paatron	Паатрон/Паатрона		the drug baron; the name is a patron pun	Amnesia.qmm
-lemma.tyapsha	Тяпша Ляпц	Tyapsha Lyapts	Тяпша/Тяпшам/Ляпц/Ляпцам		the hospital doctor	Amnesia.qmm
-lemma.pulyay	Пуляй Косорукий	Pulyay the Clumsy	Пуляй/Пуляя/Пуляяў/Касарукі/касарукія		arms dealer; the nickname is касарукі	Amnesia.qmm
+lemma.paatron	Паатрон	Paatron	Паатрон/Паатрона/Паатронам		the drug baron; the name is a patron pun	Amnesia.qmm
+lemma.tyapsha	Тяпша Ляпц	Tyapsha Lyapts	Тяпша/Тяпшам/Тяпшы/Ляпц/Ляпцам/Ляпца		the hospital doctor; G Тяпшы Ляпца	Amnesia.qmm
+lemma.pulyay	Пуляй Косорукий	Pulyay the Clumsy	Пуляй/Пуляя/Пуляяў/Касарукі/касарукі/касарукія		arms dealer; the nickname is касарукі	Amnesia.qmm
 lemma.gaal_god	Гаал	Gaal	Гаал/Гаала		the gaal deity named in the password Дзеці Гаала	Amnesia.qmm
 lemma.pachryamba	пачрямба	pachryamba	пачрямба		peleng password token, not a dictionary word	Amnesia.qmm
 lemma.thrushfly	дроздофилл	thrush-fly	драздафілаў		joke insect, a thrush crossed with a fruit fly	Amnesia.qmm
@@ -2229,3 +2229,6 @@ lemma.graviton	гравитонный	graviton	гравітонны/гравіт
 lemma.address	адрес	address	адрас/адраса		a place's address, genitive -а; hunspell only offers -у	https://starnik.by/pravapis/2722
 lemma.cold_blood	хладнокровие	cold blood	халаднакроўе/халаднакроўем		composure; instrumental халаднакроўем is a hunspell gap	https://starnik.by/pravapis/81367
 lemma.whose_some	чей-то	someone's	чыесьці		plural nominative of чыйсьці; hunspell lists only the feminine	https://starnik.by/pravapis/234043
+lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнтаграме		a mentoscopy record; L мэнтаграме	Amnesia.qmm
+lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/наркокур'еры		a courier of drugs; hunspell lacks the compound	Amnesia.qmm
+lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
