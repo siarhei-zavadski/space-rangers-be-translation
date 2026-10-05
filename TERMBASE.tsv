@@ -101,7 +101,7 @@ lemma.defend	защищать	defend	бараніць		Starnik: ён барон�
 lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
-lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт	—
+lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/Пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт; table label Пілотаў	—
 lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
@@ -2358,4 +2358,21 @@ lemma.ksm	КСМ	CSM	КСМ		Committee of Soldiers' Mothers; initials match Ка
 lemma.burzhuy	Буржуин	Bourgeois	Буржуін		a draft dodger's father; the joke surname	Rvk.qmm
 lemma.gates	Гейтс	Gates	Гейтс/Біл		Bill Gates the Eighteenth, a draft dodger's father	Rvk.qmm
 lemma.msword	Ворд	Word	Ворд		the joke conscript М.С.Ворд	Rvk.qmm
-lemma.visiophone	визиофон	visiophone	візіяфон/візіяфоны/візіяфоне		a video phone in the draft office	Rvk.qmm
+lemma.visiophone	визиофон	visiophone	візіяфон/візіяфоны/візіяфоне/візіяфона		a video phone in the draft office; G візіяфона	Rvk.qmm
+lemma.day24	сутки	24 hours	суткі/сутак		a full day and night; G сутак	https://starnik.by/pravapis/73616
+lemma.informer	осведомитель	informer	інфарматар/інфарматарамі/інфарматараў	асьветнік	a paid informant; I pl інфарматарамі	https://starnik.by/pravapis/31203
+lemma.bribe	взятка	bribe	хабар/хабару/хабараў	взятка	G хабару; G pl хабараў	https://starnik.by/pravapis/81283
+lemma.wage	зарплата	wage	заробак/заробку		G заробку; new lines use заробак. Older rows still say зарплата	https://starnik.by/pravapis/27655
+lemma.coffee	кофе	coffee	кава/каву		A каву	https://starnik.by/pravapis/31613
+lemma.tea	чай	tea	гарбата		Starnik marks гарбата obsolete and glosses чай; tarask keeps the word	https://starnik.by/pravapis/18114
+lemma.slogan	лозунг	slogan	лёзунг/лёзунгі	лозунг	hunspell ё; Starnik лозунг; N pl лёзунгі	https://starnik.by/pravapis/39955
+lemma.infantry	пехота	infantry	пяхота		foot soldiers in the parade	https://starnik.by/pravapis/62176
+lemma.attention	смирно	attention	сьмірна	смірна	the drill command; Starnik смірна; hunspell сьмірна	https://starnik.by/pravapis/70531
+lemma.lezginka	лезгинка	lezginka	лезгінка/лезгінку	лязгінка	the dance; hunspell е, not лязгінка	https://starnik.by/pravapis/38991
+lemma.government	правительство	government	урад/урада		G урада; hunspell wants ураду	https://starnik.by/pravapis/78646
+lemma.state	держава	the realm	дзяржава/Дзяржаву		A Дзяржаву; the film line about the realm	https://starnik.by/pravapis/22961
+lemma.scientist	ученый	scientist	навуковец/навукоўцаў		G pl навукоўцаў	https://starnik.by/pravapis/45287
+lemma.risk	риск	risk	рызыка		the chance of being caught	https://starnik.by/pravapis/65302
+lemma.rehearse	тренироваться	to rehearse	трэнаваліся	трэніраваліся	past pl; Starnik трэніраваліся; hunspell трэнаваліся	https://starnik.by/pravapis/215642
+lemma.nz	НЗ	emergency stash	НЗ		quoted print-shop reserve; недатыкальны запас	Rvk.qmm
+lemma.nescafe	Нескафе	Nescafe	Нескафэ		joke classical song the agitator is told to sing	Rvk.qmm
