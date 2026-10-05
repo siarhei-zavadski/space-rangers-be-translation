@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны/Дроідаў		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных; table header Дроідаў	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую/клісанам		game race; pl клісаны, клісанаў; instrumental клісанамі, sg клісанам; song клісанка	—
@@ -2018,7 +2018,7 @@ lemma.glider	глайдер	glider	глайдэр/Глайдэр/глайдэр�
 lemma.maloksha	малокша	maloq woman	малокша		feminine of малок; the floor cleaner	—
 lemma.hologenerator	галогенератор	hologenerator	галагенэратар		the desk hologram spinner; coined	—
 lemma.tactile	тактильный	tactile	тактыльны		the lockpick's touch sensor	https://starnik.by/pravapis/153865
-lemma.barbarian	варварский	barbarian	варварскі/варварская/варварскія/варварскіх/Варварскія/Варварскіх		the bank raid; hunspell lacks the adjective	https://starnik.by/pravapis/101560
+lemma.barbarian	варварский	barbarian	варварскі/варварская/варварскія/варварскіх/Варварскія/Варварскіх/варварскага		the bank raid; hunspell lacks the adjective; G m варварскага	https://starnik.by/pravapis/101560
 lemma.bashka	башка	noggin	Башка/башка		slang head in the gang slogan	https://starnik.by/pravapis/9536
 lemma.laay_toom	Лаай-Тоом	Laay-Toom	Лаай/Тоом		the gaal who recites the robbery poem	—
 lemma.avorok	аворок	farm beast	аварок/аварокаў/аварокі		coined herd animal; not in Starnik	—
@@ -2249,7 +2249,7 @@ lemma.democracy	демократия	democracy	дэмакратыя		rule by the
 lemma.dictatorship	диктатура	dictatorship	дыктатура		rule that rests on force	https://starnik.by/pravapis/24036
 lemma.commission	комиссия	commission	камісія/камісіі		a body sent to inspect	https://starnik.by/pravapis/32554
 lemma.village	деревня	village	вёска/вёскі/вёсках		a village; locative plural вёсках	https://starnik.by/pravapis/14071
-lemma.amiolis	Амиолис	Amiolis	Аміёліс		temporary governor of the colony	Colonization.qmm
+lemma.amiolis	Амиолис	Amiolis	Аміёліс/Аміёліса/Аміёлісам		temporary governor of the colony; G Аміёліса, I Аміёлісам	Colonization.qmm
 lemma.sid_meier	Сид Мейер	Sid Meier	Сід/Мэер		the default ranger name, a Sid Meier joke	Colonization.qmm
 lemma.zhorsh	Жорш Бдуш	Zhorsh Bdush	Жорш/Бдуш/Жоршам/Бдушам		Amiolis's colleague on the videophone	Colonization.qmm
 lemma.raganrok	Раганрок	Raganrok	Раганрок		the maloq in charge of construction	Colonization.qmm
@@ -2260,7 +2260,7 @@ lemma.halotext	галотекст	holotext	галятэкст		a transparent she
 lemma.halopaper	галобумага	holopaper	галяпапера/галяпаперу		a transparent sheet with a 3D interface	Colonization.qmm
 lemma.halosheet	галолист	holosheet	галяліст/галяліста		the builder's transparent list	Colonization.qmm
 lemma.polyconcrete	полибетон	polyconcrete	полібэтон/полібэтонную		the landing pad's concrete	Colonization.qmm
-lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону		the wall's concrete	Colonization.qmm
+lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону/крыябэтоннай		the wall's concrete; G f крыябэтоннай	Colonization.qmm
 lemma.mutenok	мутенок	little muten	мутэнак/мутэнка/мутэнку/Мутэнку/мутэнкаў		a small ship in the ranger's dream; D Мутэнку, Gpl мутэнкаў	Colonization.qmm
 lemma.hegemon	эгемон	hegemon	эгемон		a klissan ship in the ranger's dream	Colonization.qmm
 lemma.castor	Кастор	Castor	Кастар		the star the dream leaves	Colonization.qmm
@@ -2274,3 +2274,15 @@ lemma.shower	обсыпать	to shower	абсыпаўшы		gerund of абсып
 lemma.cknp	ЦКНП	CCUP	ЦКНП		Center for Colonization of Uninhabited Planets	Colonization.qmm
 lemma.raygun	лучемет	raygun	прамянёмёт/прамянёмётаў		a ray gun in the dream	Colonization.qmm
 lemma.polyplastic	полипластик	polyplastic	поліплястык/поліплястыку/поліплястыкавыя		the colony's plastic	Colonization.qmm
+lemma.barbarg	Барбарг	Barbarg	Барбарг/Барбарга/Барбаргам		the malok in charge of the army; G Барбарга, I Барбаргам	Colonization.qmm
+lemma.halodoc	галодокумент	holodocument	галядакумэнт		a resignation sheet	Colonization.qmm
+lemma.neuron	нейронный	neural	нэйроннай		a neuron bomb, not a neutron bomb; tarask нэй- as in псеўданэйронныя; Starnik нейрон	https://starnik.by/pravapis/47601
+lemma.island_adj	островной	island	астраўная		an island planet	https://starnik.by/pravapis/97051
+lemma.hotbed	рассадник	hotbed	расаднік		a place that breeds drugs and disease	https://starnik.by/pravapis/63815
+lemma.helicopter	винтолет	rotorcraft	верталёт/верталёты		a transport rotorcraft	https://starnik.by/pravapis/13985
+lemma.mothball	законсервировать	to mothball	закансэрваваць/кансэрвацыі		pause a colony; hunspell э, Starnik кансерваваць	https://starnik.by/pravapis/186115
+lemma.evacuate	эвакуироваться	to evacuate	Эвакуюемся		hunspell ю; Starnik эвакуіравацца	https://starnik.by/pravapis/220524
+lemma.all_powerful	всевластный	all-powerful	ўсяўладнага		hunspell я; Starnik усеўладны	https://starnik.by/pravapis/157282
+lemma.come_to_hate	возненавидеть	to come to hate	ўзьненавідзяць		future 3pl; tarask soft signs, Starnik узненавідзяць	https://starnik.by/pravapis/216871
+lemma.water_grid	водораспределительный	water-distribution	водаразьмеркавальнай		the colony water grid; hunspell soft sign, Starnik водаразмеркавальнай	https://starnik.by/pravapis/102689
+lemma.military_leader	военачальник	military leader	военачальнік		commands the troops	https://starnik.by/pravapis/15108
