@@ -2289,7 +2289,7 @@ lemma.military_leader	военачальник	military leader	военачал�
 lemma.kevlar_fiber	кевроволокно	kevlar fiber	кеўравалаконнае		the governor's soft chair	Colonization.qmm
 lemma.multivortex	мультиВортексный	multivortex	мультыВортэксныя		coined name of the energy cell	Colonization.qmm
 lemma.transcell	трансячейка	transcell	трансячэйкі		coined energy cell, the мВт unit	Colonization.qmm
-lemma.velesian	велесианский	velesian	вэлесіянскія		coined beast the faeyan names	Colonization.qmm
+lemma.velesian	велесианский	velesian	вэлесіянскія/вэлесіянскі		coined beast the faeyan names; m sg вэлесіянскі	Colonization.qmm
 lemma.col_credits	Артем Пяткин	credit names	Артем/Пяткин/Русских/Денис/Проеникс		names signed in the Colonization credits	Colonization.qmm
 lemma.wipe	стереть	wipe out	сатром		1pl future of сцерці з твару; hunspell сьцерці	https://starnik.by/pravapis/214992
 lemma.slightly	слегка	slightly	зьлёгку		hunspell soft sign; Starnik злёгку	https://starnik.by/pravapis/224529
@@ -2332,3 +2332,5 @@ lemma.flash	вспышка	flash	успышка/успышкі		N pl успыш�
 lemma.sleep_out	выспаться	to sleep enough	выспацца		to sleep one's fill	https://starnik.by/pravapis/174481
 lemma.emergency	экстренный	emergency	надзвычайны/надзвычайным	экстраны	L m надзвычайным; Starnik adverb надзвычайна	https://starnik.by/pravapis/225897
 lemma.mmm	Ммм	hmm	Ммм		a hesitant hum before changing the order	Colonization.qmm
+lemma.holocamera	галокамера	holocamera	галякамэра/галякамэрамі/галякамэр		coined news camera; I pl галякамэрамі; G pl галякамэр	Colonization.qmm
+lemma.stereomic	стереомикрофон	stereo microphone	стэрэамікрафон/стэрэамікрафонамі		I pl стэрэамікрафонамі; hunspell splits the compound	Colonization.qmm
