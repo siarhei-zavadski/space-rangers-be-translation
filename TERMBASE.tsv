@@ -638,7 +638,7 @@ lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; �
 lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
 lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
-lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
+lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
 lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
 lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
@@ -2212,4 +2212,17 @@ lemma.gun	ружье	gun	ружжо/ружжа		a smoothbore gun; the quest slot
 lemma.reinforcement	подкрепление	reinforcement	падмацаваньне/падмацаваньня	падмацаванне	troops sent to help, sense 3; hunspell inserts ь	https://starnik.by/pravapis/50768
 lemma.wounded	раненый	wounded	паранены/параненая/параненыя		someone who has a wound	https://starnik.by/pravapis/53045
 lemma.carefree	безмятежный	carefree	бестурботны/бестурботныя	безтурботны	untroubled; hunspell rejects безтурботны	https://starnik.by/pravapis/99322
-lemma.drug_baron	наркобарон	drug baron	наркобарон/наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
+lemma.drug_baron	наркобарон	drug baron	наркобарон/Наркобарон/наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
+lemma.entry	вход	entrance	уваход/увахода/ўвахода		the place one enters, sense 2; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/77595
+lemma.command	командный	command	камандны/камандным		of command; a command post	https://starnik.by/pravapis/116899
+lemma.map	карта	map	мапа/мапу/мапе		a map of a place	https://starnik.by/pravapis/41694
+lemma.trap	капкан	spring trap	капкан/капкана		a hunting trap of two jaws and a spring	https://starnik.by/pravapis/33546
+lemma.layout	планировка	layout	пляніроўка/пляніроўку		how the parts of a building sit; Starnik планіроўка	https://starnik.by/pravapis/57071
+lemma.backroom	подсобка	back room	падсобка/падсобку		a side room off a shop	https://starnik.by/pravapis/51134
+lemma.canteen	столовая	canteen	сталовая		a room where people eat	https://starnik.by/pravapis/71821
+lemma.khryakoplyukh	хрякоплюх	squeal-splash	хрыкаплюх/хрыкаплюхаў		coined livestock in the bunker riddle	Amnesia.qmm
+lemma.dlubagryz	долбогрыз	peck-gnaw	длубагрыз/длубагрызаў		coined predator in the bunker riddle	Amnesia.qmm
+lemma.bukheryk	Бух'ерик	Bukheryk	Бух'ерык		peleng farmer in the code riddle	Amnesia.qmm
+lemma.green_peace	Грин Пиис	Green Peace	Грын/Пііс		joke gaal factory name	Amnesia.qmm
+lemma.gravimobile	гравимобиль	gravimobile	гравімабіль/гравімабіля		coined vehicle	Amnesia.qmm
+lemma.graviton	гравитонный	graviton	гравітонны/гравітонным		of a graviton; the knife that cuts metal	Amnesia.qmm
