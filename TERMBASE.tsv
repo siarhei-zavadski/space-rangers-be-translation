@@ -2406,8 +2406,8 @@ lemma.pie	пирог	pie	пірог/пірага		G пірага	https://starnik
 lemma.pudding	пудинг	pudding	пудынг		a baked dessert	https://starnik.by/pravapis/61580
 lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь; hunspell wants the soft sign	https://starnik.by/pravapis/70264
 lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона/кефронскай		star system; G Кефрона; adj G f кефронскай, the lime	Proprolog.qmm
-lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота		coined ground craft on Полуось; G гравімота	Proprolog.qmm
-lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца/АСЭБаўцы/АСЭБаўцаў		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў; N pl АСЭБаўцы, G pl АСЭБаўцаў	Proprolog.qmm
+lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота/гравімотам		coined ground craft on Полуось; G гравімота, I гравімотам	Proprolog.qmm
+lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца/АСЭБаўцы/АСЭБаўцаў/АСЭБаўцам		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў; N pl АСЭБаўцы, G pl АСЭБаўцаў, D pl АСЭБаўцам	Proprolog.qmm
 lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
 lemma.chen	Чен	Chen	Чэн/Чэна		the professor who sends Lens back; G Чэна	Proprolog.qmm
 lemma.cherpak	Черпак	Cherpak	Чэрпак		the science base where Makar waits	Proprolog.qmm
@@ -2435,7 +2435,7 @@ lemma.anabiosis	анабиоз	suspended animation	анабіёз/анабіёз
 lemma.hairpin	шпилька	hairpin	шпілька/шпільку/Срэбная		the Silver Hairpin order	https://starnik.by/pravapis/85605
 lemma.katar	Катар	Katar	Катар/Катара/Катарам/Катару		the OSEB fighter on Half-axis; G Катара, D Катару, I Катарам	Proprolog.qmm
 lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
-lemma.spark	Спарк	Spark	Спарк		regional head of OSEB on Half-axis	Proprolog.qmm
+lemma.spark	Спарк	Spark	Спарк/Спаркам		regional head of OSEB on Half-axis; I Спаркам	Proprolog.qmm
 lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
 lemma.walker	Крутой Уокер	Cool Walker	Ўокера		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
 lemma.texas	Техас	Texas	Тэхас/Тэхаса		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
@@ -2473,3 +2473,5 @@ lemma.sapper	сапер	sapper	сапэр/сапэраў		Starnik сапёр; hu
 lemma.mavrikus	Маврикус	Mavrikus	Маўрыкус/Маўрыкуса		the agent named in the bar gossip; G Маўрыкуса	Proprolog.qmm
 lemma.pshlberg	Пшльберг	Pshlberg	Пшльбэрг/Пшльбэрга		doctor who wrote the black-hole notes; G Пшльбэрга	Proprolog.qmm
 lemma.hastalavista	асталависта	hasta la vista	Асталавіста		the shout before the laser; kept from the source	Proprolog.qmm
+lemma.millivolt	мВ	millivolt	мВ		the signal-puzzle unit; the abbreviation stays	Proprolog.qmm
+lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's story	Proprolog.qmm
