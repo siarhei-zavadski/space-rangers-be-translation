@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны/Дроідаў		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных; table header Дроідаў	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны/Дроідаў/дроідныя		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных; table header Дроідаў; adj N pl дроідныя	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую/клісанам		game race; pl клісаны, клісанаў; instrumental клісанамі, sg клісанам; song клісанка	—
@@ -1062,7 +1062,7 @@ lemma.fae_rari	рарри	Ferrari	рары	пары	Ferrari joke after ФЭЙ; �
 lemma.bemzhe	Бэ-Эм-Жэ	BMU	Бээмжэ	Бэсэмэр	BMW letter-name joke; one token so the letters are not leftovers	Rally.qmm
 lemma.sitrojan	Сии-троян	Seetrojan	Сіі/траян	Кіі/траяк	Citroen joke; hyphen splits the tokens	Rally.qmm
 lemma.booel	Боо-эль	Boo-el	Баа/стыяан/Боо/стыяана/эля	Баб/стыканы/Бор	Vettel joke; hyphen splits the tokens; эль passes hunspell	Rally.qmm
-lemma.cheater	Читер	Cheater	Чытэр	Крытэр	Michael Cheater joke	Rally.qmm
+lemma.cheater	Читер	Cheater	Чытэр/чытэра/чытэраў	Крытэр	Michael Cheater joke; G чытэра, Gpl чытэраў	Rally.qmm
 lemma.gummi	Гамми	Gummy	Гамі	Гам	ranger Gamma joke	Rally.qmm
 lemma.hamlet	Гамлет	Hamlet	Гамлет	Амлет	literary name in the Betta ad	Rally.qmm
 lemma.spoiler	спойлер	spoiler	спойлер/спойлеры/Спойлеры	бройлер	wing on a car; hunspell suggestion is a broiler	https://starnik.by/pravapis/71517
@@ -2235,7 +2235,7 @@ lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; 
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
 lemma.factory	завод	factory	завод/завода/заводаў		an industrial plant, sense 1; genitive -а	https://starnik.by/pravapis/26361
 lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/варвары/варварам		Starnik noun; hunspell wants барбар. New lines use варвар; D pl варварам	https://starnik.by/pravapis/13378
-lemma.civill	Цивилл	Civill	Цывіл		colony civil-affairs specialist; coined surname	Colonization.qmm
+lemma.civill	Цивилл	Civill	Цывіл/Цывіла		colony civil-affairs specialist; coined surname; G Цывіла	Colonization.qmm
 lemma.wall	стена	wall	сьцяна/сьцяны/сьцяне		a wall; Starnik сцяна, hunspell inserts ь	https://starnik.by/pravapis/73984
 lemma.discharge	разряд	discharge	разрад/разрады/разраду		electrical discharge, sense 2; not the stunner charge зарад	https://starnik.by/pravapis/63503
 lemma.shop	магазин	shop	крама/крамы/краме		a shop; the firearm magazine is магазын	https://starnik.by/pravapis/36744
@@ -2252,7 +2252,7 @@ lemma.village	деревня	village	вёска/вёскі/вёсках		a villa
 lemma.amiolis	Амиолис	Amiolis	Аміёліс/Аміёліса/Аміёлісам		temporary governor of the colony; G Аміёліса, I Аміёлісам	Colonization.qmm
 lemma.sid_meier	Сид Мейер	Sid Meier	Сід/Мэер		the default ranger name, a Sid Meier joke	Colonization.qmm
 lemma.zhorsh	Жорш Бдуш	Zhorsh Bdush	Жорш/Бдуш/Жоршам/Бдушам		Amiolis's colleague on the videophone	Colonization.qmm
-lemma.raganrok	Раганрок	Raganrok	Раганрок		the maloq in charge of construction	Colonization.qmm
+lemma.raganrok	Раганрок	Raganrok	Раганрок/Раганрока		the maloq in charge of construction; G Раганрока	Colonization.qmm
 lemma.lyaobab	ляобаб	lyaobab	ляобаб		the tree the hot chocolate comes from	Colonization.qmm
 lemma.pirella	пирелла	pirella	пірэла/пірэламі		a wild spider the settlers throw	Colonization.qmm
 lemma.kvakto	квакто-усы	cactus-whiskers	квакта-вусы/квакта-вусоў		a desert plant	Colonization.qmm
@@ -2286,3 +2286,8 @@ lemma.all_powerful	всевластный	all-powerful	ўсяўладнага		h
 lemma.come_to_hate	возненавидеть	to come to hate	ўзьненавідзяць		future 3pl; tarask soft signs, Starnik узненавідзяць	https://starnik.by/pravapis/216871
 lemma.water_grid	водораспределительный	water-distribution	водаразьмеркавальнай		the colony water grid; hunspell soft sign, Starnik водаразмеркавальнай	https://starnik.by/pravapis/102689
 lemma.military_leader	военачальник	military leader	военачальнік		commands the troops	https://starnik.by/pravapis/15108
+lemma.kevlar_fiber	кевроволокно	kevlar fiber	кеўравалаконнае		the governor's soft chair	Colonization.qmm
+lemma.multivortex	мультиВортексный	multivortex	мультыВортэксныя		coined name of the energy cell	Colonization.qmm
+lemma.transcell	трансячейка	transcell	трансячэйкі		coined energy cell, the мВт unit	Colonization.qmm
+lemma.velesian	велесианский	velesian	вэлесіянскія		coined beast the faeyan names	Colonization.qmm
+lemma.col_credits	Артем Пяткин	credit names	Артем/Пяткин/Русских/Денис/Проеникс		names signed in the Colonization credits	Colonization.qmm
