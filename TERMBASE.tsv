@@ -1113,6 +1113,10 @@ lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эк�
 lemma.mental	ментал	mental	мэнтал/мэнталаў/мэнталы/Мэнтал		brain-load unit; G pl мэнталаў	Gaidnet.qmm
 lemma.cyberflea	киберблоха	cyberflea	кіберблыха/кіберблыхі	кібэрблыха	spy bug; G кіберблыхі; кібер https://starnik.by/pravapis/35243	https://starnik.by/pravapis/10994
 lemma.cybermind	Киберразум	Cybermind	Кіберрозум/Кіберрозуму		the AI; кібер not кібэр; G Кіберрозуму	https://starnik.by/pravapis/35243
+lemma.cyberspace	киберпространство	cyberspace	кіберпрастора/кіберпрасторы/кіберпрасторавай/кіберпрасторавая/кіберпрасторавымі		compound of кібер + прастора; hunspell misses it	https://starnik.by/pravapis/35243
+lemma.umbrotek	Умбротек	Umbrotek	Умбротэк/Умбротэка/Умбротэку		the corporation; tarask э	—
+lemma.simons	Симонс	Simons	Сімонс/Сімонса/Сімонсам		the employer; hunspell misses the name	—
+lemma.point_joke	Тшеймс Пойнт	the Bond-shaped joke	Тшэймс/Пойнт		Simons says Point... James Point	—
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
 lemma.initializer	инициализация	initialization	ініцыялізацыя/ініцыялізатар/Ініцыялізацыя	сацыялізацыя	boot log; ініцыялізатар https://starnik.by/pravapis/30816	https://starnik.by/pravapis/30817
 lemma.interactive	интерактивный	interactive	інтэрактыўны/інтэрактыўныя/інтэрактыўная	інтраспэктыўныя	models you can handle	https://starnik.by/pravapis/115967
