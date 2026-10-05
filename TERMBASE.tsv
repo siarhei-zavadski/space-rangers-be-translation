@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску/рэйнджэрава		Crowdin glossary; capital in the proverb; рэйнджэрава is the barman's кесарево pun	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -116,7 +116,7 @@ lemma.airlock	шлюз	airlock	шлюз		Starnik	—
 lemma.missile	ракета	rocket	ракета		Starnik: ракетная зброя	—
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
-lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
+lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе/Карпус		Starnik: ship/mech pl карпусы, родны карпусоў	—
 lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны/дроідны/Дроідаў/дроідныя		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных; table header Дроідаў; adj N sg дроідны; adj N pl дроідныя	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
@@ -128,7 +128,7 @@ lemma.asteroid	астероид	asteroid	астэроід		classical астэ-	�
 lemma.bubble	пузырь	bubble	бурбалка		Klissan-war tech «бурбалка» скрыўленай прасторы	—
 lemma.experience	опыт	experience	досьвед		already in FormShip; пунктаў досьведу	—
 lemma.hangar	ангар	hangar	ангар		loan; у ангары, родны ангара	—
-lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок/гіпэрскоку		matches FormGalaxy скок / скокнуць	—
+lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок/гіпэрскоку/гіпэрскокі		matches FormGalaxy скок / скокнуць; N pl гіпэрскокі	—
 lemma.pursuit	преследование	pursuit	перасьлед		Starnik перасьледваць; звычайны/баявы перасьлед	—
 lemma.talk	разговор	talk	размова		already FormCfgSettings	—
 lemma.endturn	Конец хода	End Turn	Канец ходу		ход already: хады, хадоў	—
@@ -230,7 +230,7 @@ lemma.muscle	мышца	muscle	мышца		G мышцы, pl мышцы	https://s
 lemma.achievement	достижение	achievement	дасягненьне		already FormMain GI. G дасягненьня, pl дасягненьні	https://starnik.by/pravapis/22223
 lemma.archaeologist	археолог	archaeologist	археоляг		Starnik археолаг; tarask ля	https://starnik.by/pravapis/6186
 lemma.champion	чемпион	champion	чэмпіён		G чэмпіёна	https://starnik.by/pravapis/84504
-lemma.veteran	ветеран	veteran	ветэран		Starnik 1=old warrior	https://starnik.by/pravapis/14157
+lemma.veteran	ветеран	veteran	ветэран/ветэрана		Starnik 1=old warrior; G ветэрана; hunspell wants вэтэран	https://starnik.by/pravapis/14157
 lemma.pacifist	пацифист	pacifist	пацыфіст		L пацыфісце	https://starnik.by/pravapis/54480
 lemma.peacemaker	миротворец	peacemaker	міратворац		G міратворца	https://starnik.by/pravapis/43899
 lemma.leader	вождь	leader	правадыр		G правадыра	https://starnik.by/pravapis/58197
@@ -274,7 +274,7 @@ lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; alread
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба/кваркавай		pirate plot weapon; hunspell leftover adj	—
 lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/Пачвараш/пачварашамі/пачварашу		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
-lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
+lemma.subether	субэфир	subether	субэфір/субэфірнай/субэфірны/субэфірнага		game broadcast medium; adj субэфірны; G n/m субэфірнага	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
 lemma.coopola	Коопола	Coopola	Коопола		PC_pla15 screenwriter parody; keep spelling	—
 lemma.malu_bay	Малу Бэй	Malu Bay	Малу Бэй		PC_pla15 director parody; G Малу Бэя	—
@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/Лязэр		equipment lock; I лязэрам; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -816,7 +816,7 @@ lemma.onnaraik	оннарайк	onnaraik	оннарайк/Оннарайк/он�
 lemma.schuu	Счуу-Ка	Schuu-Ka	Счуў/цуба/цубай		gaal fish under a white coat	Photorobot.qmm
 lemma.extruder	экструдер	extruder	экструдар/Экструдар/экструдары/экструдараў/экстрударах		faeyan dessert on a stick	Photorobot.qmm
 lemma.makhpella	Махпелла	Makhpella	Махпэла/Махпэлу/Махпэлы/Лайт/Дарк		beer brand; curse and Dark variety	Photorobot.qmm
-lemma.slime	слизь	slime	слізь/сліззю/слізі		Starnik sense 1, a slippery mass	https://starnik.by/pravapis/70264
+lemma.slime	слизь	slime	слізь/сліззю/слізі/Слізь		Starnik sense 1, a slippery mass; capital on the cargo label	https://starnik.by/pravapis/70264
 lemma.shrak	шраканский	Shrak	Шраканская		invented slime	Photorobot.qmm
 lemma.straan	Страан-Ная	Straan-Nai	Страан/Ная		river; hyphen splits the name	Photorobot.qmm
 lemma.rakhish	Рахиш	Rakhish	Рахіша/Рахіш/Рахішскі		planet of killer spiders; adj Рахішскі	Photorobot.qmm
@@ -1051,7 +1051,7 @@ lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча/Ягорычам	
 lemma.svyatogor	Святогор	Svyatogor	Сьвятагор/Сьвятагора/Сьвятагору	Сьвятар	lead driver; epic name; hunspell splits it into other words	Rally.qmm
 lemma.suubaru	Суу-баару	Suu-baaru	Суу/баару	Суб	joke Subaru; Latin WRX STI SBR VO stays	Rally.qmm
 lemma.zhupii	жупии	zhupii	Жупіі/жупіяў/жупіі	жукі	iron body colony; coined part	Rally.qmm
-lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда	нанэтамі	repair robot; coined part	Rally.qmm
+lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда/нанітоідаў	нанэтамі	repair robot; coined part; G pl нанітоідаў	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
 lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман/Міхаэля/Шульмана	Міхальчук/Кульман	Schumacher joke	Rally.qmm
@@ -1267,7 +1267,7 @@ lemma.exipsus	Эксипсус	Exipsus	Эксіпсус		destination star	Gluki.
 lemma.pandora	Пандора	Pandora	Пандора		destination planet	Gluki.qmm
 lemma.govorun	Говорун	Talker	Гаварун/гаваруна		blue bird companion	Gluki.qmm
 lemma.txreagent	тх-реагент	indifferent reagent	тх		synthesizer label	Gluki.qmm
-lemma.intercom	интерком	intercom	інтэркам/інтэркаме		ship comm device	Gluki.qmm
+lemma.intercom	интерком	intercom	інтэркам/інтэркаме/інтэркама		ship comm device; G інтэркама	Gluki.qmm
 lemma.galanet	Галонет	Galonet	Галянэт/Галянэце/Галянэту		galaxy network	Gluki.qmm
 lemma.crocadine	крока-дин	crocadine	крокадын/крокадына		malok beast	Gluki.qmm
 lemma.txmodel	ТХ-8.0	synthesizer model	ТХ		model mark; keep with 8.0	Gluki.qmm
@@ -1918,7 +1918,7 @@ lemma.merry	весело	merrily	вясёла		adverb; Starnik; hunspell wants �
 lemma.predatory	хищно	predatorily	Драпежна/драпежна		adverb of драпежны; Starnik; hunspell has the adjective only	https://starnik.by/pravapis/223652
 lemma.body_move	телодвижение	body movement	целарух/целарухі		Starnik; hunspell splits it	https://starnik.by/pravapis/82654
 lemma.boss_around	раскомандоваться	to boss people around	раскамандаваўся		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/210111
-lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем/недаразуменьне/недаразуменьня		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words	https://starnik.by/pravapis/47325
+lemma.mishap	недоразумение	a walking mishap	Недаразуменьнем/недаразуменьне/недаразуменьня/недаразуменьнем		the mage's insult; Starnik недаразуменне; tarask -ньне; hunspell wants other words; I недаразуменьнем	https://starnik.by/pravapis/47325
 lemma.rest_pun	доупокоенный	additionally laid to rest vs unrested	даўпакоены/няўпакоены		the доупокоенный/неупокоенный pun; Starnik упокоіць/упакоіць/няўпакоены NONE; hunspell wants another word	—
 lemma.texture	текстура	texture	тэкстур		genitive plural of тэкстура; the skybox joke; Starnik; hunspell wants other forms	https://starnik.by/pravapis/76906
 lemma.herbarium	гербарий	herbarium	гербарый/гербарыя		Starnik; hunspell does not know the genitive	https://starnik.by/pravapis/19015
@@ -1934,7 +1934,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, m gen плязменнага, N pl плязменныя	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя/плязменнай		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2147,7 +2147,7 @@ lemma.oaf	остолоп	oaf	асталоп/асталопа/асталопаў	
 lemma.binary	двоичный	binary code	двайковы/двайковага/двайковым/двайковых		base-two numeral; the lock shows a binary code	https://starnik.by/pravapis/108480
 lemma.gallows	виселица	gallows	шыбеніца/шыбеніцы/шыбеніцу		the hanging structure	https://starnik.by/pravapis/86162
 lemma.crutch	костыль	crutch	мыліца/мыліцу/мыліцы/мыліцах		an arm crutch, not the stick кульба	https://starnik.by/pravapis/44809
-lemma.extortion	вымогательство	extortion	вымагальніцтва		forcing money by a threat	https://starnik.by/pravapis/16082
+lemma.extortion	вымогательство	extortion	вымагальніцтва/вымагальніцтве		forcing money by a threat; L вымагальніцтве	https://starnik.by/pravapis/16082
 lemma.blackmail	шантаж	blackmail	шантаж/шантажаваць		a threat to reveal something	https://starnik.by/pravapis/84732
 lemma.henchman	прихвостень	henchman	клеўрэт/клеўрэты/клеўрэта/клеўрэтаў		a boss's creature; прихвостень is not a Starnik headword	https://starnik.by/pravapis/35936
 lemma.enclosure	ограда	enclosure	агароджа/агароджы/агароджу/агароджай		a fence around a mansion; the yard fence забор stays плот	https://starnik.by/pravapis/1549
@@ -2376,3 +2376,105 @@ lemma.risk	риск	risk	рызыка		the chance of being caught	https://starni
 lemma.rehearse	тренироваться	to rehearse	трэнаваліся	трэніраваліся	past pl; Starnik трэніраваліся; hunspell трэнаваліся	https://starnik.by/pravapis/215642
 lemma.nz	НЗ	emergency stash	НЗ		quoted print-shop reserve; недатыкальны запас	Rvk.qmm
 lemma.nescafe	Нескафе	Nescafe	Нескафэ		joke classical song the agitator is told to sing	Rvk.qmm
+lemma.lens	Ленс	Lens	Ленс/Ленса/Ленсу		the ranger body the player occupies; G Ленса, D Ленсу	Proprolog.qmm
+lemma.piracy	пиратство	piracy	пірацтва		pirate activity; G пірацтва	https://starnik.by/pravapis/56754
+lemma.reputation	репутация	reputation	рэпутацыя/рэпутацыі		public standing; G рэпутацыі	https://starnik.by/pravapis/66106
+lemma.bandit	бандит	bandit	бандыт/бандыта		armed robber; G бандыта	https://starnik.by/pravapis/9011
+lemma.wear	износ	wear	знос/зносу		equipment wear, sense 2; G зносу	https://starnik.by/pravapis/29605
+lemma.free	свободный	free	вольны/вольнае		unoccupied, sense 3; N n вольнае	https://starnik.by/pravapis/102793
+lemma.mercury_adj	ртутный	mercury	ртутны		mercury-vapor radar; Starnik ртуць	https://starnik.by/pravapis/64915
+lemma.tube_adj	ламповый	tube	лямпавы		vacuum-tube gear; лямпавы прыёмнік	https://starnik.by/pravapis/122090
+lemma.semiconductor	полупроводниковый	semiconductor	паўправадніковы		semiconductor radar; Starnik паўправаднік	https://starnik.by/pravapis/54220
+lemma.industrial	промышленный	industrial	прамысловы		factory-made; Items Прамысловы лязэр	https://starnik.by/pravapis/141439
+lemma.nozzle	насадка	nozzle	насадка/насадкі/насадкай		a fitting on a device, sense 3; I насадкай	https://starnik.by/pravapis/46230
+lemma.interference	помеха	interference	перашкода/перашкод		jammer noise; G pl перашкод	https://starnik.by/pravapis/56083
+lemma.apparatus	аппарат	apparatus	апарат/апарата		a device; G апарата	https://starnik.by/pravapis/5339
+lemma.distill	перегонный	distilling	перагонны		still; Перагонны апарат, sense 1	https://starnik.by/pravapis/138234
+lemma.contents	содержимое	contents	зьмест		tarask of змест; hold and vial contents	https://starnik.by/pravapis/29394
+lemma.mineral	минерал	mineral	мінэрал/мінэралы		hunspell э; Starnik мінерал; N pl мінэралы	https://starnik.by/pravapis/43735
+lemma.spirits	спиртное	liquor	сьпіртное/сьпіртнога		cargo liquor; G сьпіртнога	https://starnik.by/pravapis/71436
+lemma.five_finger	пятипалый	five-fingered	пяціпальцы	пяціпалы	has five fingers; hunspell rejects пяціпалы	https://starnik.by/pravapis/144312
+lemma.four_finger	четырехпалый	four-fingered	чатырохпальцы	чатырохпалы	with four fingers; hunspell rejects чатырохпалы	https://starnik.by/pravapis/161125
+lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/вэнэрыянскія/Вэнэрыянскі/Вэнэрыянскае/вэнэрыянскіх/вэнэрыянскім		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; N pl вэнэрыянскія; N n caps Вэнэрыянскае; G pl вэнэрыянскіх, L вэнэрыянскім	https://starnik.by/pravapis/101927
+lemma.athanasius	Афанасий	Athanasius	Афанасій/Афанасія		the dying ranger; G Афанасія	https://starnik.by/pravapis/88682
+lemma.raphael	Рафаэль	Raphael	Рафаэль/Рафаэлю/Рафаэля		director of the ranger center; D Рафаэлю	https://starnik.by/pravapis/90593
+lemma.hannibal	Ганнибал	Hannibal	Ганібал/Ганібала		the cruiser in quotes; G Ганібала	https://starnik.by/pravapis/105186
+lemma.chest_dim	сундучок	little chest	куфэрак		a small chest, sense 1	https://starnik.by/pravapis/38145
+lemma.beer_mug	бокал	beer glass	куфель/куфлі		beer mug; Starnik куфель is бакал для піва, not wine келіх; L куфлі	https://starnik.by/pravapis/38148
+lemma.beer	пиво	beer	піва		G піва	https://starnik.by/pravapis/56497
+lemma.pie	пирог	pie	пірог/пірага		G пірага	https://starnik.by/pravapis/56762
+lemma.pudding	пудинг	pudding	пудынг		a baked dessert	https://starnik.by/pravapis/61580
+lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь; hunspell wants the soft sign	https://starnik.by/pravapis/70264
+lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона/кефронскай		star system; G Кефрона; adj G f кефронскай, the lime	Proprolog.qmm
+lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота/гравімотам		coined ground craft on Полуось; G гравімота, I гравімотам	Proprolog.qmm
+lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца/АСЭБаўцы/АСЭБаўцаў/АСЭБаўцам		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў; N pl АСЭБаўцы, G pl АСЭБаўцаў, D pl АСЭБаўцам	Proprolog.qmm
+lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
+lemma.chen	Чен	Chen	Чэн/Чэна		the professor who sends Lens back; G Чэна	Proprolog.qmm
+lemma.cherpak	Черпак	Cherpak	Чэрпак		the science base where Makar waits	Proprolog.qmm
+lemma.piatkin	Пяткин	Piatkin	Пяткіну		quest credit, dative	Proprolog.qmm
+lemma.smirnov	Смирнов	Smirnov	Смірнову		Ace Smirnov in the credits, dative	Proprolog.qmm
+lemma.ace	Эйс	Ace	Эйсу		the credited ranger, dative	Proprolog.qmm
+lemma.credit_initials	ББ / ПК / ХТ / ФЕ	credit initials	ББ/ПК/ХТ/ФЕ		nick initials and the FE sign-off in the quest credits	Proprolog.qmm
+lemma.boastful	хвастливый	boastful	хваслівы/Хваслівы		Starnik хваслівы; hunspell lacks the lemma	https://starnik.by/pravapis/159249
+lemma.furrow	бороздить	plough a wake	барозьняць/барозьніш		Starnik баразніць, 3pl барозьняць, 2sg барозьніш	https://starnik.by/pravapis/171477
+lemma.eel_base	Угорь	Eel	Вугор		military base; same width as Угорь	Proprolog.qmm
+lemma.half_axis	Полуось	Half-axis	Паўвось/Паўвосі		planet; locative Паўвосі; same width as Полуось	Proprolog.qmm
+lemma.novice	новичок	novice	навічок/Навічок		Starnik навічок, a person new to the work; the ranger rank	https://starnik.by/pravapis/45262
+lemma.twodee	двадевизор	2D visor	двадэвізары/двадэвізара		the bar's flat screen; coined from два and візар; G двадэвізара	Proprolog.qmm
+lemma.vesta	Вестала	Vesta	Вэстала		star on the Kefron route map; same width as Вестала	Proprolog.qmm
+lemma.ruktuk	Руктук	Ruktuk	Руктук		captain of the ship Верабей	Proprolog.qmm
+lemma.jump_points	ТГПС / ТГПБ	jump-point codes	ТГПС/ТГПБ		map codes for the Sun and Betelgeuse hyperjump points	Proprolog.qmm
+lemma.hypnosleep	гипносон	hypnosleep	гіпносна		the base rest pod; coined	Proprolog.qmm
+lemma.neoorganic	неоорганический	neo-organic	нэаарганічным/нэаарганічнага		the living pilot chair; coined; G нэаарганічнага	Proprolog.qmm
+lemma.ternary	троичный	ternary	траістую		Starnik траісты is «траякі», not the math name; the sentence adds «з трыма лічбамі». Hunspell rejects траічную	https://starnik.by/pravapis/154491
+lemma.hitch	загвоздка	snag	закавыка	загадка	a hitch in a plan, not a riddle	https://starnik.by/pravapis/26771
+lemma.deceased	почивший	the late	памерлы	загінулы	who has died; hunspell rejects the nominative загінулы	https://starnik.by/pravapis/135329
+lemma.manager	менеджер	manager	мэнэджар/мэнэджара		shop manager; Starnik менеджар, hunspell мэнэджар	https://starnik.by/pravapis/42835
+lemma.lieutenant	лейтенант	lieutenant	лейтэнант/лейтэнанта	ляйтэнант	Starnik лейтэнант with ей, not ляйтэнант	https://starnik.by/pravapis/39027
+lemma.anabiosis	анабиоз	suspended animation	анабіёз/анабіёзу		the cryo-chamber; G анабіёзу	https://starnik.by/pravapis/4534
+lemma.hairpin	шпилька	hairpin	шпілька/шпільку/Срэбная		the Silver Hairpin order	https://starnik.by/pravapis/85605
+lemma.katar	Катар	Katar	Катар/Катара/Катарам/Катару		the OSEB fighter on Half-axis; G Катара, D Катару, I Катарам	Proprolog.qmm
+lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
+lemma.spark	Спарк	Spark	Спарк/Спаркам		regional head of OSEB on Half-axis; I Спаркам	Proprolog.qmm
+lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
+lemma.walker	Крутой Уокер	Cool Walker	Ўокера		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
+lemma.texas	Техас	Texas	Тэхас/Тэхаса		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
+lemma.cheer	ура	cheer	УРРРАААА/УРРРААААА		the victory shout, both spellings from the source	Proprolog.qmm
+lemma.trala	тра-ля-ля	tra-la-la	тра		Venus refrain; hunspell splits the hyphen and rejects тра	Proprolog.qmm
+lemma.pneumodraisine	пневмодрезина	pneumatic trolley	пнэўмадрэзіна/пнэўмадрэзіну/пнэўмадрэзіны		the base rail trolley; coined	Proprolog.qmm
+lemma.temporal	темпоральный	temporal	тэмпаральны/тэмпаральных		of time; G pl тэмпаральных; hunspell lacks it	https://starnik.by/pravapis/155618
+lemma.lazaret	лазарет	infirmary	лязарэт	лазарэт	field hospital; Starnik лазарэт, hunspell лязарэт	https://starnik.by/pravapis/38370
+lemma.forest_edge	опушка	forest edge	ўзьлесак/ўзьлеску		Starnik узлесак; hunspell inserts ь; L ўзьлеску	https://starnik.by/pravapis/78000
+lemma.wire	провод	wire	дрот/дратамі		a metal wire; I pl дратамі	https://starnik.by/pravapis/23484
+lemma.recruit	вербовать	recruit	вэрбаваць		Starnik вербаваць, to hire people; hunspell вэрбаваць	https://starnik.by/pravapis/172244
+lemma.hall	зала	hall	залю/залі		a large room; Starnik A залу G залы, hunspell залю/залі	https://starnik.by/pravapis/27004
+lemma.lime	известь	lime	вапна/вапны		the Kefron medicine; G вапны	https://starnik.by/pravapis/13340
+lemma.destroyer	эсминец	destroyer	эсьмінец/эсьмінца	эсмінец	Starnik эсмінец; hunspell inserts ь; G эсьмінца	https://starnik.by/pravapis/87784
+lemma.armed_robbery	разбой	armed robbery	разбой/разбоі		attack to rob, distinct from рабунак; L разбоі	https://starnik.by/pravapis/62959
+lemma.field_hospital	госпиталь	military hospital	шпіталь/шпіталі		a military hospital, not лякарня; L шпіталі	https://starnik.by/pravapis/85615
+lemma.amnesty	амнистия	amnesty	амністыя/амністыю		a pardon; A амністыю	https://starnik.by/pravapis/4441
+lemma.necktie	галстук	necktie	гальштук/гальштуку		L гальштуку	https://starnik.by/pravapis/17810
+lemma.sushi	суши	sushi	сушы		the dish served with sake; indeclinable	https://starnik.by/pravapis/73759
+lemma.sake	сакэ	sake	сакэ		Japanese rice wine; hunspell accepts the loan	Proprolog.qmm
+lemma.terrorism	терроризм	terrorism	тэрарызм/тэрарызьме		Starnik L тэрарызме; hunspell L тэрарызьме	https://starnik.by/pravapis/77233
+lemma.dossier	досье	dossier	дасье		a file of papers; indeclinable	https://starnik.by/pravapis/22218
+lemma.antiterror	антитеррористический	antiterrorist	антытэрарыстычную		A f; hunspell lacks the adjective	https://starnik.by/pravapis/95949
+lemma.helfer	Хелфер	Helfer	Хелфер		the Venus hospital	Proprolog.qmm
+lemma.hmm	хмм	hmm	Хмм		Raphael's hum, kept from the source	Proprolog.qmm
+lemma.konnichi	коннити	konnichi	Конніці		the greeting Конніці-ва; hunspell splits the hyphen	Proprolog.qmm
+lemma.rabble	шваль	rabble	зброд/зброду		dangerous riffraff; G зброду	https://starnik.by/pravapis/28357
+lemma.incorrigible	отъявленный	hardened	адпеты/адпетым		incorrigible; D pl адпетым	https://starnik.by/pravapis/235136
+lemma.house_brand	фирменный	house specialty	фірмавы/фірмавым		Starnik фірмавы is фірменны; I фірмавым	https://starnik.by/pravapis/158456
+lemma.vasilievich	Васильевич	Vasilievich	Васільевіч/Васільевіча/Васільевічам/Анатоль/Анатолем		the barman's patronymic; G Васільевіча, I Васільевічам; Anatoly is Анатоль	Proprolog.qmm
+lemma.police_ships	Петр Первый / Николай Второй / Александр Третий / Иван Четвертый	tsar destroyers	Пётар Першы/Мікалай Другі/Аляксандар Трэці/Іван Чацьвёрты		four distinct hulls; this corpus spells Петр as Пётар, Starnik nominative is Пятро	https://starnik.by/pravapis/90541
+lemma.scrap_metal	металлолом	scrap metal	мэталалом/мэталалому		Starnik металалом, G металалому; hunspell мэталалом	https://starnik.by/pravapis/42997
+lemma.demining	разминирование	mine clearing	размініраваньне/размініраваць		clear a mine; Starnik размініраваць, hunspell lacks it	https://starnik.by/pravapis/209772
+lemma.sapper	сапер	sapper	сапэр/сапэраў		Starnik сапёр; hunspell drops ё; G pl сапэраў	https://starnik.by/pravapis/67602
+lemma.mavrikus	Маврикус	Mavrikus	Маўрыкус/Маўрыкуса		the agent named in the bar gossip; G Маўрыкуса	Proprolog.qmm
+lemma.pshlberg	Пшльберг	Pshlberg	Пшльбэрг/Пшльбэрга		doctor who wrote the black-hole notes; G Пшльбэрга	Proprolog.qmm
+lemma.hastalavista	асталависта	hasta la vista	Асталавіста		the shout before the laser; kept from the source	Proprolog.qmm
+lemma.millivolt	мВ	millivolt	мВ		the signal-puzzle unit; the abbreviation stays	Proprolog.qmm
+lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's story	Proprolog.qmm
+lemma.rowdy	буйный	rowdy	буйны		unruly, sense 1, not the size sense	https://starnik.by/pravapis/100280
+lemma.cloudy	мутный	cloudy	мутны/мутным		cloudy gaze; I мутным	https://starnik.by/pravapis/125228
+lemma.mite	лепта	mite	лепта/лепту		a small contribution; A лепту	https://starnik.by/pravapis/39161
