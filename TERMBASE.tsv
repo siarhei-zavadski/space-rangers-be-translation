@@ -2407,7 +2407,7 @@ lemma.pudding	пудинг	pudding	пудынг		a baked dessert	https://starnik
 lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь; hunspell wants the soft sign	https://starnik.by/pravapis/70264
 lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона		star system; G Кефрона	Proprolog.qmm
 lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота		coined ground craft on Полуось; G гравімота	Proprolog.qmm
-lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў	Proprolog.qmm
+lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца/АСЭБаўцы/АСЭБаўцаў		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў; N pl АСЭБаўцы, G pl АСЭБаўцаў	Proprolog.qmm
 lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
 lemma.chen	Чен	Chen	Чэн/Чэна		the professor who sends Lens back; G Чэна	Proprolog.qmm
 lemma.cherpak	Черпак	Cherpak	Чэрпак		the science base where Makar waits	Proprolog.qmm
@@ -2425,7 +2425,7 @@ lemma.vesta	Вестала	Vesta	Вэстала		star on the Kefron route map; s
 lemma.ruktuk	Руктук	Ruktuk	Руктук		captain of the ship Верабей	Proprolog.qmm
 lemma.jump_points	ТГПС / ТГПБ	jump-point codes	ТГПС/ТГПБ		map codes for the Sun and Betelgeuse hyperjump points	Proprolog.qmm
 lemma.hypnosleep	гипносон	hypnosleep	гіпносна		the base rest pod; coined	Proprolog.qmm
-lemma.neoorganic	неоорганический	neo-organic	нэаарганічным		the living pilot chair; coined	Proprolog.qmm
+lemma.neoorganic	неоорганический	neo-organic	нэаарганічным/нэаарганічнага		the living pilot chair; coined; G нэаарганічнага	Proprolog.qmm
 lemma.ternary	троичный	ternary	траістую		Starnik траісты is «траякі», not the math name; the sentence adds «з трыма лічбамі». Hunspell rejects траічную	https://starnik.by/pravapis/154491
 lemma.hitch	загвоздка	snag	закавыка	загадка	a hitch in a plan, not a riddle	https://starnik.by/pravapis/26771
 lemma.deceased	почивший	the late	памерлы	загінулы	who has died; hunspell rejects the nominative загінулы	https://starnik.by/pravapis/135329
@@ -2433,5 +2433,18 @@ lemma.manager	менеджер	manager	мэнэджар/мэнэджара		shop
 lemma.lieutenant	лейтенант	lieutenant	лейтэнант/лейтэнанта	ляйтэнант	Starnik лейтэнант with ей, not ляйтэнант	https://starnik.by/pravapis/39027
 lemma.anabiosis	анабиоз	suspended animation	анабіёз/анабіёзу		the cryo-chamber; G анабіёзу	https://starnik.by/pravapis/4534
 lemma.hairpin	шпилька	hairpin	шпілька/шпільку/Срэбная		the Silver Hairpin order	https://starnik.by/pravapis/85605
-lemma.katar	Катар	Katar	Катар/Катара		the OSEB fighter on Half-axis; G Катара	Proprolog.qmm
+lemma.katar	Катар	Katar	Катар/Катара/Катарам		the OSEB fighter on Half-axis; G Катара, I Катарам	Proprolog.qmm
 lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
+lemma.spark	Спарк	Spark	Спарк		regional head of OSEB on Half-axis	Proprolog.qmm
+lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
+lemma.walker	Крутой Уокер	Cool Walker	Ўокера		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
+lemma.texas	Техас	Texas	Тэхас/Тэхаса		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
+lemma.cheer	ура	cheer	УРРРАААА/УРРРААААА		the victory shout, both spellings from the source	Proprolog.qmm
+lemma.trala	тра-ля-ля	tra-la-la	тра		Venus refrain; hunspell splits the hyphen and rejects тра	Proprolog.qmm
+lemma.pneumodraisine	пневмодрезина	pneumatic trolley	пнэўмадрэзіна/пнэўмадрэзіну/пнэўмадрэзіны		the base rail trolley; coined	Proprolog.qmm
+lemma.temporal	темпоральный	temporal	тэмпаральны/тэмпаральных		of time; G pl тэмпаральных; hunspell lacks it	https://starnik.by/pravapis/155618
+lemma.lazaret	лазарет	infirmary	лязарэт	лазарэт	field hospital; Starnik лазарэт, hunspell лязарэт	https://starnik.by/pravapis/38370
+lemma.forest_edge	опушка	forest edge	ўзьлесак/ўзьлеску		Starnik узлесак; hunspell inserts ь; L ўзьлеску	https://starnik.by/pravapis/78000
+lemma.wire	провод	wire	дрот/дратамі		a metal wire; I pl дратамі	https://starnik.by/pravapis/23484
+lemma.recruit	вербовать	recruit	вэрбаваць		Starnik вербаваць, to hire people; hunspell вэрбаваць	https://starnik.by/pravapis/172244
+lemma.hall	зала	hall	залю/залі		a large room; Starnik A залу G залы, hunspell залю/залі	https://starnik.by/pravapis/27004
