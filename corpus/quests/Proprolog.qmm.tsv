@@ -3168,56 +3168,62 @@ ________________________
 - Кажу, грошы давай, і хутчэй, тут вас шмат лятае, а з усіх сабраць не пасьпяваю.
 - А, дык ты вымагальнік! Не думай, што ў няшчаснага дыплямата няма чаго табе супрацьпаставіць.
 Дыпляматычны карабель рэзка разгарнуўся і паляцеў у ваш бок."
-"/quests/Proprolog.qmm/jumps/228/text"	"Включить форсаж и удрать"	"Quest Proprolog.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/228/text"	"Включить форсаж и удрать"	"Quest Proprolog.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Уключыць фарсаж і ўцячы"
 "/quests/Proprolog.qmm/jumps/228/description"	"Вы развернули корабль, включили форсаж и кинулись удирать на всех парах. Дипломат кричал вам вдогонку:
 
 - Куда же ты? Я ведь еще не закончил!
 
-В глубине души вы признались себе, что бежать с поля боя - позорно, но это было где-то очень глубоко."	"Quest Proprolog.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/229/text"	"Атаковать дипломата"	"Quest Proprolog.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/231/text"	"Изучить остатки дипломатического корабля"	"Quest Proprolog.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/232/text"	"Подобрать и установить новый радар"	"Quest Proprolog.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+В глубине души вы признались себе, что бежать с поля боя - позорно, но это было где-то очень глубоко."	"Quest Proprolog.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"Вы разгарнулі карабель, уключылі фарсаж і кінуліся ўцякаць на ўсіх парах. Дыплямат крычаў вам усьлед:
+
+- Куды ж ты? Я ж яшчэ не скончыў!
+
+У глыбіні душы вы прызналіся сабе, што ўцякаць з поля бою — ганебна, але гэта было дзесьці вельмі глыбока."
+"/quests/Proprolog.qmm/jumps/229/text"	"Атаковать дипломата"	"Quest Proprolog.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Атакаваць дыплямата"
+"/quests/Proprolog.qmm/jumps/231/text"	"Изучить остатки дипломатического корабля"	"Quest Proprolog.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Вывучыць рэшткі дыпляматычнага карабля"
+"/quests/Proprolog.qmm/jumps/232/text"	"Подобрать и установить новый радар"	"Quest Proprolog.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Падабраць і ўсталяваць новы радар"
 "/quests/Proprolog.qmm/jumps/233/text"	"Лететь по своим делам"	"Quest Proprolog.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Ляцець па сваіх справах"
-"/quests/Proprolog.qmm/jumps/234/text"	"Взять деньги ({2,2*(250-[p33])} cr)"	"Quest Proprolog.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/234/text"	"Взять деньги ({2,2*(250-[p33])} cr)"	"Quest Proprolog.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Узяць грошы ({2,2*(250-[p33])} cr)"
 "/quests/Proprolog.qmm/jumps/234/description"	"- Вот видишь, хотел сэкономить, а сам прогорел. А сразу бы заплатил - и ты при деньгах, и мне проблем меньше.
-Дипломат в ответ промолчал."	"Quest Proprolog.qmm: jumps.234.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/235/text"	"Восстановить 10% целостности оборудования (18 cr)"	"Quest Proprolog.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/236/text"	"Восстановить 10% целостности оборудования (20 cr)"	"Quest Proprolog.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/237/text"	"Восстановить 10 ед. целостности корпуса (22 cr)"	"Quest Proprolog.qmm: jumps.237.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/238/text"	"Восстановить 10 ед. целостности корпуса (24 cr)"	"Quest Proprolog.qmm: jumps.238.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/239/text"	"Восстановить 10 ед. целостности корпуса ({10*(3,2-[p2]/2)} cr)"	"Quest Proprolog.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/240/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.240.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+Дипломат в ответ промолчал."	"Quest Proprolog.qmm: jumps.234.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"- Вось бачыш, хацеў зэканоміць, а сам прагарэў. А адразу б заплаціў — і ты пры грошах, і мне праблемаў меней.
+Дыплямат у адказ прамаўчаў."
+"/quests/Proprolog.qmm/jumps/235/text"	"Восстановить 10% целостности оборудования (18 cr)"	"Quest Proprolog.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10% цэласнасьці абсталяваньня (18 cr)"
+"/quests/Proprolog.qmm/jumps/236/text"	"Восстановить 10% целостности оборудования (20 cr)"	"Quest Proprolog.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10% цэласнасьці абсталяваньня (20 cr)"
+"/quests/Proprolog.qmm/jumps/237/text"	"Восстановить 10 ед. целостности корпуса (22 cr)"	"Quest Proprolog.qmm: jumps.237.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10 адз. цэласнасьці карпуса (22 cr)"
+"/quests/Proprolog.qmm/jumps/238/text"	"Восстановить 10 ед. целостности корпуса (24 cr)"	"Quest Proprolog.qmm: jumps.238.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10 адз. цэласнасьці карпуса (24 cr)"
+"/quests/Proprolog.qmm/jumps/239/text"	"Восстановить 10 ед. целостности корпуса ({10*(3,2-[p2]/2)} cr)"	"Quest Proprolog.qmm: jumps.239.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10 адз. цэласнасьці карпуса ({10*(3,2-[p2]/2)} cr)"
+"/quests/Proprolog.qmm/jumps/240/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.240.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Мяне цікавіць слізь (даць 20 cr)"
 "/quests/Proprolog.qmm/jumps/241/text"	"Я передумал"	"Quest Proprolog.qmm: jumps.241.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я перадумаў"
-"/quests/Proprolog.qmm/jumps/241/description"	"- Ну что же, дело ваше, мое дело предложить. В следующий раз слизи может и не быть."	"Quest Proprolog.qmm: jumps.241.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/242/text"	"Я возьму 25 т (375 cr)"	"Quest Proprolog.qmm: jumps.242.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/243/text"	"Я возьму 20 т (320 cr)"	"Quest Proprolog.qmm: jumps.243.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/244/text"	"Я возьму 15 т (270 cr)"	"Quest Proprolog.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/245/text"	"Я возьму 10 т (190 cr)"	"Quest Proprolog.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/246/text"	"Я возьму 5 т (100 cr)"	"Quest Proprolog.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/247/text"	"Хочу что-нибудь купить"	"Quest Proprolog.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/250/text"	"У меня есть лишнее оборудование и нужны деньги"	"Quest Proprolog.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/251/text"	"Хочу обменять свой радар на Ламповый v4 (+15 т свободного места, {140+64*([p8]=1)} cr)"	"Quest Proprolog.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/252/text"	"Хочу купить захват (55 т, 100 cr)"	"Quest Proprolog.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/253/text"	"Хочу купить генератор защиты ""Альфа"" (55 т, 100 cr)"	"Quest Proprolog.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/254/text"	"Хочу купить генератор защиты ""Бета"" (40 т, 350 cr)"	"Quest Proprolog.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/255/text"	"Хочу обменять генератор защиты ""Альфа"" на ""Бета""-версию (+15 т свободного места, 270 cr)"	"Quest Proprolog.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/256/text"	"Хочу купить промышленный лазер (45 т, 120 cr)"	"Quest Proprolog.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/257/text"	"Хочу купить насадку на промышленный лазер (25 т, 80 cr)"	"Quest Proprolog.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/258/text"	"С покупками на сегодня все"	"Quest Proprolog.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/259/text"	"Меня интересует Насадка-на-насадку на промышленный лазер"	"Quest Proprolog.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/241/description"	"- Ну что же, дело ваше, мое дело предложить. В следующий раз слизи может и не быть."	"Quest Proprolog.qmm: jumps.241.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"- Ну што ж, справа ваша, мая справа прапанаваць. Наступным разам слізі можа і не быць."
+"/quests/Proprolog.qmm/jumps/242/text"	"Я возьму 25 т (375 cr)"	"Quest Proprolog.qmm: jumps.242.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я вазьму 25 т (375 cr)"
+"/quests/Proprolog.qmm/jumps/243/text"	"Я возьму 20 т (320 cr)"	"Quest Proprolog.qmm: jumps.243.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я вазьму 20 т (320 cr)"
+"/quests/Proprolog.qmm/jumps/244/text"	"Я возьму 15 т (270 cr)"	"Quest Proprolog.qmm: jumps.244.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я вазьму 15 т (270 cr)"
+"/quests/Proprolog.qmm/jumps/245/text"	"Я возьму 10 т (190 cr)"	"Quest Proprolog.qmm: jumps.245.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я вазьму 10 т (190 cr)"
+"/quests/Proprolog.qmm/jumps/246/text"	"Я возьму 5 т (100 cr)"	"Quest Proprolog.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Я вазьму 5 т (100 cr)"
+"/quests/Proprolog.qmm/jumps/247/text"	"Хочу что-нибудь купить"	"Quest Proprolog.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу нешта купіць"
+"/quests/Proprolog.qmm/jumps/250/text"	"У меня есть лишнее оборудование и нужны деньги"	"Quest Proprolog.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"У мяне ёсьць лішняе абсталяваньне, і патрэбныя грошы"
+"/quests/Proprolog.qmm/jumps/251/text"	"Хочу обменять свой радар на Ламповый v4 (+15 т свободного места, {140+64*([p8]=1)} cr)"	"Quest Proprolog.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу абмяняць свой радар на Лямпавы v4 (+15 т вольнага месца, {140+64*([p8]=1)} cr)"
+"/quests/Proprolog.qmm/jumps/252/text"	"Хочу купить захват (55 т, 100 cr)"	"Quest Proprolog.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу купіць захоп (55 т, 100 cr)"
+"/quests/Proprolog.qmm/jumps/253/text"	"Хочу купить генератор защиты ""Альфа"" (55 т, 100 cr)"	"Quest Proprolog.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу купіць генэратар абароны ""Альфа"" (55 т, 100 cr)"
+"/quests/Proprolog.qmm/jumps/254/text"	"Хочу купить генератор защиты ""Бета"" (40 т, 350 cr)"	"Quest Proprolog.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу купіць генэратар абароны ""Бэта"" (40 т, 350 cr)"
+"/quests/Proprolog.qmm/jumps/255/text"	"Хочу обменять генератор защиты ""Альфа"" на ""Бета""-версию (+15 т свободного места, 270 cr)"	"Quest Proprolog.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу абмяняць генэратар абароны ""Альфа"" на ""Бэта""-вэрсію (+15 т вольнага месца, 270 cr)"
+"/quests/Proprolog.qmm/jumps/256/text"	"Хочу купить промышленный лазер (45 т, 120 cr)"	"Quest Proprolog.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу купіць прамысловы лязэр (45 т, 120 cr)"
+"/quests/Proprolog.qmm/jumps/257/text"	"Хочу купить насадку на промышленный лазер (25 т, 80 cr)"	"Quest Proprolog.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Хачу купіць насадку на прамысловы лязэр (25 т, 80 cr)"
+"/quests/Proprolog.qmm/jumps/258/text"	"С покупками на сегодня все"	"Quest Proprolog.qmm: jumps.258.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"З пакупкамі на сёньня ўсё"
+"/quests/Proprolog.qmm/jumps/259/text"	"Меня интересует Насадка-на-насадку на промышленный лазер"	"Quest Proprolog.qmm: jumps.259.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Мяне цікавіць Насадка-на-насадку на прамысловы лязэр"
 "/quests/Proprolog.qmm/jumps/259/description"	"Менеджер немного смутился: 
-- М-м, вы знаете, буквально полчаса назад забрали последнюю. Зайдите через недельку, возможно, будет завоз."	"Quest Proprolog.qmm: jumps.259.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/260/text"	"Продам промлазер одноствольный за 96 cr"	"Quest Proprolog.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/261/text"	"Все, у меня осталось только нужное оборудование"	"Quest Proprolog.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/262/text"	"Продам насадку на промлазер за 64 cr"	"Quest Proprolog.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/263/text"	"Продам насадку на промлазер за 152 cr"	"Quest Proprolog.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/264/text"	"Продам генератор защиты за 80 cr"	"Quest Proprolog.qmm: jumps.264.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/265/text"	"Продам генератор защиты за 270 cr"	"Quest Proprolog.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/266/text"	"Продам захват за 80 cr"	"Quest Proprolog.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/267/text"	"Продам захват за 160 cr"	"Quest Proprolog.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/268/text"	"Продам генератор помех за 650 cr"	"Quest Proprolog.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/269/text"	"Восстановить 10 ед. целостности корпуса ({(3,2+[p2])*5} cr)"	"Quest Proprolog.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/270/text"	"Восстановить 10 ед. целостности корпуса (28 cr)"	"Quest Proprolog.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+- М-м, вы знаете, буквально полчаса назад забрали последнюю. Зайдите через недельку, возможно, будет завоз."	"Quest Proprolog.qmm: jumps.259.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"Мэнэджар крыху зьбянтэжыўся:
+- М-м, ведаеце, літаральна паўгадзіны таму забралі апошнюю. Зайдзіце праз тыдзень, магчыма, будзе завоз."
+"/quests/Proprolog.qmm/jumps/260/text"	"Продам промлазер одноствольный за 96 cr"	"Quest Proprolog.qmm: jumps.260.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам прамысловы лязэр аднаствольны за 96 cr"
+"/quests/Proprolog.qmm/jumps/261/text"	"Все, у меня осталось только нужное оборудование"	"Quest Proprolog.qmm: jumps.261.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Усё, у мяне засталося толькі патрэбнае абсталяваньне"
+"/quests/Proprolog.qmm/jumps/262/text"	"Продам насадку на промлазер за 64 cr"	"Quest Proprolog.qmm: jumps.262.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам насадку на прамысловы лязэр за 64 cr"
+"/quests/Proprolog.qmm/jumps/263/text"	"Продам насадку на промлазер за 152 cr"	"Quest Proprolog.qmm: jumps.263.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам насадку на прамысловы лязэр за 152 cr"
+"/quests/Proprolog.qmm/jumps/264/text"	"Продам генератор защиты за 80 cr"	"Quest Proprolog.qmm: jumps.264.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам генэратар абароны за 80 cr"
+"/quests/Proprolog.qmm/jumps/265/text"	"Продам генератор защиты за 270 cr"	"Quest Proprolog.qmm: jumps.265.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам генэратар абароны за 270 cr"
+"/quests/Proprolog.qmm/jumps/266/text"	"Продам захват за 80 cr"	"Quest Proprolog.qmm: jumps.266.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам захоп за 80 cr"
+"/quests/Proprolog.qmm/jumps/267/text"	"Продам захват за 160 cr"	"Quest Proprolog.qmm: jumps.267.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам захоп за 160 cr"
+"/quests/Proprolog.qmm/jumps/268/text"	"Продам генератор помех за 650 cr"	"Quest Proprolog.qmm: jumps.268.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам генэратар перашкод за 650 cr"
+"/quests/Proprolog.qmm/jumps/269/text"	"Восстановить 10 ед. целостности корпуса ({(3,2+[p2])*5} cr)"	"Quest Proprolog.qmm: jumps.269.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10 адз. цэласнасьці карпуса ({(3,2+[p2])*5} cr)"
+"/quests/Proprolog.qmm/jumps/270/text"	"Восстановить 10 ед. целостности корпуса (28 cr)"	"Quest Proprolog.qmm: jumps.270.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Аднавіць 10 адз. цэласнасьці карпуса (28 cr)"
 "/quests/Proprolog.qmm/jumps/271/text"	"Прислушаться к какому-нибудь разговору"	"Quest Proprolog.qmm: jumps.271.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прыслухацца да якой-небудзь размовы"
 "/quests/Proprolog.qmm/jumps/271/description"	"Вот что вам удалось подслушать:
 - Тебе <clr>слизь<clrEnd> не нужна?
@@ -3226,19 +3232,30 @@ ________________________
 - А что?
 - Да я слышал, можно в ТЦ ее купить. Сразу даешь {20} cr - это как пароль - и берешь, сколько надо.
 - А откуда она у них?
-- Кто его знает. Говорят, обкрадывают рейнджеров, но мне кажется, что сами делают."	"Quest Proprolog.qmm: jumps.271.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+- Кто его знает. Говорят, обкрадывают рейнджеров, но мне кажется, что сами делают."	"Quest Proprolog.qmm: jumps.271.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"Вось што вам удалося падслухаць:
+- Табе <clr>слізь<clrEnd> не патрэбная?
+- Мне слізь? Навошта?
+- Ну, мала што...
+- А што?
+- Ды я чуў, можна ў гандлёвым цэнтры яе купіць. Адразу даеш {20} cr — гэта як пароль — і бярэш, колькі трэба.
+- А адкуль яна ў іх?
+- Хто яго ведае. Кажуць, абкрадаюць рэйнджэраў, але мне здаецца, што самі робяць."
 "/quests/Proprolog.qmm/jumps/273/text"	"В торговый центр"	"Quest Proprolog.qmm: jumps.273.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"У гандлёвы цэнтр"
-"/quests/Proprolog.qmm/jumps/275/text"	"Продам 5 т минералов (по 13 cr за тонну, всего 65 cr)"	"Quest Proprolog.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/276/text"	"Продам [p15] т минералов (по 13 cr за тонну, всего {[p15]*13} cr)"	"Quest Proprolog.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/277/text"	"Продам [p16] т спиртного (по 21 cr за тонну, всего {[p16]*24} cr)"	"Quest Proprolog.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/278/text"	"Продам 5 т спиртного (по 24 cr за тонну, всего {120} cr)"	"Quest Proprolog.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/279/text"	"У меня ничего нет для продажи"	"Quest Proprolog.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/280/text"	"Совершить гиперпрыжок в систему Бетельгейзе (11 парсек)"	"Quest Proprolog.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/275/text"	"Продам 5 т минералов (по 13 cr за тонну, всего 65 cr)"	"Quest Proprolog.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам 5 т мінэралаў (па 13 cr за тону, усяго 65 cr)"
+"/quests/Proprolog.qmm/jumps/276/text"	"Продам [p15] т минералов (по 13 cr за тонну, всего {[p15]*13} cr)"	"Quest Proprolog.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам [p15] т мінэралаў (па 13 cr за тону, усяго {[p15]*13} cr)"
+"/quests/Proprolog.qmm/jumps/277/text"	"Продам [p16] т спиртного (по 21 cr за тонну, всего {[p16]*24} cr)"	"Quest Proprolog.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам [p16] т сьпіртнога (па 21 cr за тону, усяго {[p16]*24} cr)"
+"/quests/Proprolog.qmm/jumps/278/text"	"Продам 5 т спиртного (по 24 cr за тонну, всего {120} cr)"	"Quest Proprolog.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Прадам 5 т сьпіртнога (па 24 cr за тону, усяго {120} cr)"
+"/quests/Proprolog.qmm/jumps/279/text"	"У меня ничего нет для продажи"	"Quest Proprolog.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"У мяне няма нічога на продаж"
+"/quests/Proprolog.qmm/jumps/280/text"	"Совершить гиперпрыжок в систему Бетельгейзе (11 парсек)"	"Quest Proprolog.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Зьдзейсьніць гіпэрскок у сыстэму Бэтэльгейзэ (11 парсэк)"
 "/quests/Proprolog.qmm/jumps/280/description"	"Вы нажали на кнопку, и автоматика вывела вас в гиперпространство. Через сутки пришло сообщение от бортового компьютера: 
 
 - Гиперпрыжок в систему <clr>Бетельгейзе<clrEnd> удачно завершен. 
 
-Вы почувствовали гордость, что уже в первый месяц своего рейнджерства сумели забраться так далеко от Солнечной системы. Вот только, может, стоило сначала слетать к профессору Макару на научную базу Черпак?"	"Quest Proprolog.qmm: jumps.280.description. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+Вы почувствовали гордость, что уже в первый месяц своего рейнджерства сумели забраться так далеко от Солнечной системы. Вот только, может, стоило сначала слетать к профессору Макару на научную базу Черпак?"	"Quest Proprolog.qmm: jumps.280.description. Preserve every <tag> exactly."	"Quest,Proprolog"	"Вы націснулі на кнопку, і аўтаматыка вывела вас у гіпэрпрастору. Праз суткі прыйшло паведамленьне ад бартавога кампутара:
+
+- Гіпэрскок у сыстэму <clr>Бэтэльгейзэ<clrEnd> удала завершаны.
+
+Вы адчулі гонар, што ўжо ў першы месяц, як сталі рэйнджэрам, змаглі забрацца так далёка ад Сонечнай сыстэмы. Вось толькі, можа, варта было спачатку зьлятаць да прафэсара Макара на навуковую базу Чэрпак?"
 "/quests/Proprolog.qmm/jumps/281/text"	"Я превысил свой платежный баланс (покинуть торговый центр)"	"Quest Proprolog.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/282/text"	"Да я вообще случайно зашел (покинуть магазин оборудования)"	"Quest Proprolog.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/283/text"	"В магазин оборудования"	"Quest Proprolog.qmm: jumps.283.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
@@ -3631,7 +3648,7 @@ ________________________
 "/quests/Proprolog.qmm/jumps/579/text"	"Сдаться властям"	"Quest Proprolog.qmm: jumps.579.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Здацца ўладам"
 "/quests/Proprolog.qmm/jumps/580/text"	"Атаковать ботов"	"Quest Proprolog.qmm: jumps.580.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/581/text"	"Далее"	"Quest Proprolog.qmm: jumps.581.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Далей"
-"/quests/Proprolog.qmm/jumps/582/text"	"Совершить гиперпрыжок в систему Бетельгейзе (11 парсек)"	"Quest Proprolog.qmm: jumps.582.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/582/text"	"Совершить гиперпрыжок в систему Бетельгейзе (11 парсек)"	"Quest Proprolog.qmm: jumps.582.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Зьдзейсьніць гіпэрскок у сыстэму Бэтэльгейзэ (11 парсэк)"
 "/quests/Proprolog.qmm/jumps/582/description"	"Вы нажали на кнопку, и автоматика вывела вас в гиперпространство. Через сутки пришло сообщение от бортового компьютера: 
 
 - Гиперпрыжок в систему <clr>Бетельгейзе<clrEnd> удачно завершен. 
@@ -3649,7 +3666,7 @@ ________________________
 "/quests/Proprolog.qmm/jumps/593/text"	"Применить Кварковую бомбу"	"Quest Proprolog.qmm: jumps.593.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/594/text"	"Продолжить полет"	"Quest Proprolog.qmm: jumps.594.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Працягнуць палёт"
 "/quests/Proprolog.qmm/jumps/595/text"	"Продолжить выполнение задания"	"Quest Proprolog.qmm: jumps.595.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Працягнуць выкананьне заданьня"
-"/quests/Proprolog.qmm/jumps/596/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.596.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/596/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.596.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Мяне цікавіць слізь (даць 20 cr)"
 "/quests/Proprolog.qmm/jumps/597/text"	"Очень жаль..."	"Quest Proprolog.qmm: jumps.597.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/598/text"	"Кварковая бомба? Беру!"	"Quest Proprolog.qmm: jumps.598.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/599/text"	"Кварковая бомба лучше, чем Генератор помех (обменять с доплатой)"	"Quest Proprolog.qmm: jumps.599.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
@@ -3670,7 +3687,7 @@ ________________________
 "/quests/Proprolog.qmm/jumps/611/text"	"Что вам известно о кораблях той эпохи?"	"Quest Proprolog.qmm: jumps.611.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/612/text"	"Продолжить полет"	"Quest Proprolog.qmm: jumps.612.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Працягнуць палёт"
 "/quests/Proprolog.qmm/jumps/613/text"	"В чем заключается моя миссия?"	"Quest Proprolog.qmm: jumps.613.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/jumps/614/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.614.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/jumps/614/text"	"Меня интересует слизь (дать 20 cr)"	"Quest Proprolog.qmm: jumps.614.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Мяне цікавіць слізь (даць 20 cr)"
 "/quests/Proprolog.qmm/jumps/615/text"	"Лететь по своим делам"	"Quest Proprolog.qmm: jumps.615.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Ляцець па сваіх справах"
 "/quests/Proprolog.qmm/jumps/616/text"	"Ничего, прорвемся!"	"Quest Proprolog.qmm: jumps.616.text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/jumps/617/text"	"Далее"	"Quest Proprolog.qmm: jumps.617.text. Preserve every <tag> exactly."	"Quest,Proprolog"	"Далей"
