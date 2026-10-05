@@ -1508,8 +1508,8 @@
 "/quests/Amnesia.qmm/jumps/110/text"	"Что это за гаалец у вас в баре?"	"Quest Amnesia.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Што гэта за гаалец у вас у бары?"
 "/quests/Amnesia.qmm/jumps/111/text"	"Осмотреть сейф"	"Quest Amnesia.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Агледзець сэйф"
 "/quests/Amnesia.qmm/jumps/112/text"	"Спросить, кто ограбил квартиру, в которой вас лишили памяти"	"Quest Amnesia.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Спытаць, хто абрабаваў кватэру, у якой вас пазбавілі памяці"
-"/quests/Amnesia.qmm/jumps/113/text"	"Обыскать стол"	"Quest Amnesia.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/114/text"	"Приступить к взлому сейфа"	"Quest Amnesia.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/113/text"	"Обыскать стол"	"Quest Amnesia.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абшукаць стол"
+"/quests/Amnesia.qmm/jumps/114/text"	"Приступить к взлому сейфа"	"Quest Amnesia.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Пачаць узлом сэйфа"
 "/quests/Amnesia.qmm/jumps/115/text"	"Набрать следующую цифру"	"Quest Amnesia.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Набраць наступную лічбу"
 "/quests/Amnesia.qmm/jumps/117/text"	"Цифры 5-9"	"Quest Amnesia.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Лічбы 5-9"
 "/quests/Amnesia.qmm/jumps/118/text"	"Цифры 0-4"	"Quest Amnesia.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Лічбы 0-4"
@@ -1523,104 +1523,126 @@
 "/quests/Amnesia.qmm/jumps/126/text"	"7"	"Quest Amnesia.qmm: jumps.126.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"7"
 "/quests/Amnesia.qmm/jumps/127/text"	"8"	"Quest Amnesia.qmm: jumps.127.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"8"
 "/quests/Amnesia.qmm/jumps/128/text"	"9"	"Quest Amnesia.qmm: jumps.128.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"9"
-"/quests/Amnesia.qmm/jumps/129/text"	"Подтвердить пароль: [p19]"	"Quest Amnesia.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/130/text"	"Подтвердить пароль: [p19]"	"Quest Amnesia.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/131/text"	"Отойти от проститутки, вспомнив о своих моральных устоях"	"Quest Amnesia.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/131/description"	"Неожиданно в вас вдруг заговорил голос совести (или жадности), который сказал, что у вас сейчас полно других проблем, кроме бесполезной траты денег и времени. Вы отошли от проститутки и смешались с толпой в баре, а раздосадованная путана пошла искать себе клиента куда-то в другое место."	"Quest Amnesia.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/132/text"	"Подойти к проститутке"	"Quest Amnesia.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/129/text"	"Подтвердить пароль: [p19]"	"Quest Amnesia.qmm: jumps.129.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Пацьвердзіць пароль: [p19]"
+"/quests/Amnesia.qmm/jumps/130/text"	"Подтвердить пароль: [p19]"	"Quest Amnesia.qmm: jumps.130.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Пацьвердзіць пароль: [p19]"
+"/quests/Amnesia.qmm/jumps/131/text"	"Отойти от проститутки, вспомнив о своих моральных устоях"	"Quest Amnesia.qmm: jumps.131.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Адысьці ад прастытуткі, успомніўшы пра свае маральныя ўстоі"
+"/quests/Amnesia.qmm/jumps/131/description"	"Неожиданно в вас вдруг заговорил голос совести (или жадности), который сказал, что у вас сейчас полно других проблем, кроме бесполезной траты денег и времени. Вы отошли от проститутки и смешались с толпой в баре, а раздосадованная путана пошла искать себе клиента куда-то в другое место."	"Quest Amnesia.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Нечакана ў вас раптам загаварыў голас сумленьня (ці прагнасьці), які сказаў, што ў вас цяпер поўна іншых праблемаў, апрача марнай траты грошай і часу. Вы адышлі ад прастытуткі і зьмяшаліся з натоўпам у бары, а раздражненая прастытутка пайшла шукаць сабе кліента кудысьці ў іншае месца."
+"/quests/Amnesia.qmm/jumps/132/text"	"Подойти к проститутке"	"Quest Amnesia.qmm: jumps.132.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да прастытуткі"
 "/quests/Amnesia.qmm/jumps/133/text"	"Подойти к гаальцу"	"Quest Amnesia.qmm: jumps.133.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да гаальца"
-"/quests/Amnesia.qmm/jumps/134/text"	"Заплатить 100 cr"	"Quest Amnesia.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/134/description"	"Заплатив проститутке деньги, вы пошли с ней в заднюю комнату бара, где хорошенько поразвлекались несколько часов и от усталости и удовольствия заснули. Проснувшись под утро, вы почувствовали себя значительно бодрее. Выйдя из бара, вы пошли к центру города."	"Quest Amnesia.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/134/text"	"Заплатить 100 cr"	"Quest Amnesia.qmm: jumps.134.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціць 100 cr"
+"/quests/Amnesia.qmm/jumps/134/description"	"Заплатив проститутке деньги, вы пошли с ней в заднюю комнату бара, где хорошенько поразвлекались несколько часов и от усталости и удовольствия заснули. Проснувшись под утро, вы почувствовали себя значительно бодрее. Выйдя из бара, вы пошли к центру города."	"Quest Amnesia.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціўшы прастытутцы грошы, вы пайшлі з ёю ў задні пакой бара, дзе добра павесяліліся некалькі гадзінаў і ад стомы і асалоды заснулі. Прачнуўшыся пад раніцу, вы адчулі сябе значна бадзёрымі. Выйшаўшы з бара, вы пайшлі да цэнтра горада."
 "/quests/Amnesia.qmm/jumps/136/text"	"Броситься врукопашную"	"Quest Amnesia.qmm: jumps.136.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Кінуцца ў рукапашную"
-"/quests/Amnesia.qmm/jumps/137/text"	"Плюнуть на задачку и вернуться в космопорт"	"Quest Amnesia.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/140/text"	"Позвать кого-нибудь"	"Quest Amnesia.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/141/text"	"Потребовать развернутый счет"	"Quest Amnesia.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/137/text"	"Плюнуть на задачку и вернуться в космопорт"	"Quest Amnesia.qmm: jumps.137.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Плюнуць на задачы і вярнуцца ў касмапорт"
+"/quests/Amnesia.qmm/jumps/140/text"	"Позвать кого-нибудь"	"Quest Amnesia.qmm: jumps.140.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Паклікаць каго-небудзь"
+"/quests/Amnesia.qmm/jumps/141/text"	"Потребовать развернутый счет"	"Quest Amnesia.qmm: jumps.141.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Запатрабаваць падрабязны рахунак"
 "/quests/Amnesia.qmm/jumps/142/text"	"Оплатить счет и выйти на улицу"	"Quest Amnesia.qmm: jumps.142.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Аплаціць рахунак і выйсьці на вуліцу"
-"/quests/Amnesia.qmm/jumps/143/text"	"Обыскать собственный корабль"	"Quest Amnesia.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/143/text"	"Обыскать собственный корабль"	"Quest Amnesia.qmm: jumps.143.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абшукаць уласны карабель"
 "/quests/Amnesia.qmm/jumps/144/text"	"Вернуться на главную улицу"	"Quest Amnesia.qmm: jumps.144.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вярнуцца на галоўную вуліцу"
-"/quests/Amnesia.qmm/jumps/145/text"	"Зайти к санитару"	"Quest Amnesia.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/145/text"	"Зайти к санитару"	"Quest Amnesia.qmm: jumps.145.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Зайсьці да санітара"
 "/quests/Amnesia.qmm/jumps/146/text"	"Поблагодарить санитара и выйти из квартиры"	"Quest Amnesia.qmm: jumps.146.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падзякаваць санітару і выйсьці з кватэры"
-"/quests/Amnesia.qmm/jumps/147/text"	"Купить ружье за 500 cr"	"Quest Amnesia.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/149/text"	"Обдумать имеющуюся информацию"	"Quest Amnesia.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/151/text"	"Проконсультироваться с гаальцем"	"Quest Amnesia.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/152/text"	"Подойти к пульту замка и ввести ответ"	"Quest Amnesia.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/153/text"	"Плюнуть на задачку и вернуться в космопорт"	"Quest Amnesia.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/147/text"	"Купить ружье за 500 cr"	"Quest Amnesia.qmm: jumps.147.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Купіць ружжо за 500 cr"
+"/quests/Amnesia.qmm/jumps/149/text"	"Обдумать имеющуюся информацию"	"Quest Amnesia.qmm: jumps.149.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абдумаць наяўную інфармацыю"
+"/quests/Amnesia.qmm/jumps/151/text"	"Проконсультироваться с гаальцем"	"Quest Amnesia.qmm: jumps.151.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Параіцца з гаальцам"
+"/quests/Amnesia.qmm/jumps/152/text"	"Подойти к пульту замка и ввести ответ"	"Quest Amnesia.qmm: jumps.152.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да пульта замка і ўвесьці адказ"
+"/quests/Amnesia.qmm/jumps/153/text"	"Плюнуть на задачку и вернуться в космопорт"	"Quest Amnesia.qmm: jumps.153.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Плюнуць на задачы і вярнуцца ў касмапорт"
 "/quests/Amnesia.qmm/jumps/154/text"	"Дать пеленгу 100 cr"	"Quest Amnesia.qmm: jumps.154.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Даць пеленгу 100 cr"
 "/quests/Amnesia.qmm/jumps/155/text"	"Сказать пароль"	"Quest Amnesia.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць пароль"
 "/quests/Amnesia.qmm/jumps/156/text"	"Спросить, что он знает про банду ""Тупые ослы"""	"Quest Amnesia.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Спытаць, што ён ведае пра банду ""Тупыя аслы"""
 "/quests/Amnesia.qmm/jumps/157/text"	"Потребовать патроны"	"Quest Amnesia.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Запатрабаваць патроны"
-"/quests/Amnesia.qmm/jumps/158/text"	"Напоить пеленга водкой"	"Quest Amnesia.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/158/text"	"Напоить пеленга водкой"	"Quest Amnesia.qmm: jumps.158.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Напаіць пеленга гарэлкай"
 "/quests/Amnesia.qmm/jumps/158/description"	"Вы насильно всунули пеленгу в рот бутылку водки и держали, пока все ее содержимое не перекочевало в желудок Пуляя Косорукого. Через несколько минут пеленг был уже омерзительно пьян. Затем вы повторили свой вопрос:
 
-- Что ты знаешь про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.158.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/159/text"	"Напоить пеленга водкой"	"Quest Amnesia.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+- Что ты знаешь про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.158.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы гвалтам усунулі пеленгу ў рот бутэльку гарэлкі і трымалі, пакуль усё яе зьмесьціва не перайшло ў страўнік Пуляя Касарукі. Праз некалькі хвілінаў пеленг быў ужо агідна п'яны. Затым вы паўтарылі сваё пытаньне:
+
+— Што ты ведаеш пра банду ""Тупыя аслы""?"
+"/quests/Amnesia.qmm/jumps/159/text"	"Напоить пеленга водкой"	"Quest Amnesia.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Напаіць пеленга гарэлкай"
 "/quests/Amnesia.qmm/jumps/159/description"	"Вы насильно всунули пеленгу в рот бутылку водки и держали, пока все ее содержимое не перекочевало в желудок Пуляя Косорукого. Через несколько минут пеленг был уже омерзительно пьян. Затем вы повторили свой вопрос:
 
-- Где взять патроны для снайперской винтовки?"	"Quest Amnesia.qmm: jumps.159.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/160/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+- Где взять патроны для снайперской винтовки?"	"Quest Amnesia.qmm: jumps.159.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы гвалтам усунулі пеленгу ў рот бутэльку гарэлкі і трымалі, пакуль усё яе зьмесьціва не перайшло ў страўнік Пуляя Касарукі. Праз некалькі хвілінаў пеленг быў ужо агідна п'яны. Затым вы паўтарылі сваё пытаньне:
+
+— Дзе ўзяць патроны для снайпэрскай вінтоўкі?"
+"/quests/Amnesia.qmm/jumps/160/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.160.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Біць пеленга нагамі"
 "/quests/Amnesia.qmm/jumps/160/description"	"Вы принялись жестоко пинать пеленга, круша ему ребра и отбивая внутренности, пока, наконец, пеленг не стал просить вас о пощаде. Тогда вы повторили свой вопрос:
 
-- Что ты знаешь про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.160.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/161/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+- Что ты знаешь про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.160.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы ўзяліся жорстка пінаць пеленга, крышачы яму рэбры і адбіваючы вантробы, пакуль нарэшце пеленг не стаў прасіць у вас літасьці. Тады вы паўтарылі сваё пытаньне:
+
+— Што ты ведаеш пра банду ""Тупыя аслы""?"
+"/quests/Amnesia.qmm/jumps/161/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.161.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Біць пеленга нагамі"
 "/quests/Amnesia.qmm/jumps/161/description"	"Вы принялись жестоко пинать пеленга, круша ему ребра и отбивая внутренности, пока, наконец, пеленг не стал просить вас о пощаде. Тогда вы повторили свой вопрос:
 
-- Где взять патроны для снайперской винтовки?"	"Quest Amnesia.qmm: jumps.161.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/162/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/162/description"	"Вы принялись жестоко пинать пеленга, круша ему ребра и отбивая внутренности. Когда же вы наконец остановились, пеленг был уже мертв. Плюнув с досады, вы выбрались из магазина и вернулись на центральную улицу."	"Quest Amnesia.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+- Где взять патроны для снайперской винтовки?"	"Quest Amnesia.qmm: jumps.161.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы ўзяліся жорстка пінаць пеленга, крышачы яму рэбры і адбіваючы вантробы, пакуль нарэшце пеленг не стаў прасіць у вас літасьці. Тады вы паўтарылі сваё пытаньне:
+
+— Дзе ўзяць патроны для снайпэрскай вінтоўкі?"
+"/quests/Amnesia.qmm/jumps/162/text"	"Бить пеленга ногами"	"Quest Amnesia.qmm: jumps.162.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Біць пеленга нагамі"
+"/quests/Amnesia.qmm/jumps/162/description"	"Вы принялись жестоко пинать пеленга, круша ему ребра и отбивая внутренности. Когда же вы наконец остановились, пеленг был уже мертв. Плюнув с досады, вы выбрались из магазина и вернулись на центральную улицу."	"Quest Amnesia.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы ўзяліся жорстка пінаць пеленга, крышачы яму рэбры і адбіваючы вантробы. Калі ж вы нарэшце спыніліся, пеленг быў ужо мёртвы. Плюнуўшы з прыкрасьці, вы выбраліся з крамы і вярнуліся на цэнтральную вуліцу."
 "/quests/Amnesia.qmm/jumps/163/text"	"Заплатить"	"Quest Amnesia.qmm: jumps.163.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціць"
-"/quests/Amnesia.qmm/jumps/164/text"	"Сказать, что у вас столько нет"	"Quest Amnesia.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/165/text"	"Сказать, что у вас столько нет"	"Quest Amnesia.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/164/text"	"Сказать, что у вас столько нет"	"Quest Amnesia.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас столькі няма"
+"/quests/Amnesia.qmm/jumps/165/text"	"Сказать, что у вас столько нет"	"Quest Amnesia.qmm: jumps.165.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас столькі няма"
 "/quests/Amnesia.qmm/jumps/166/text"	"Отказаться"	"Quest Amnesia.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Адмовіцца"
-"/quests/Amnesia.qmm/jumps/167/text"	"Согласиться"	"Quest Amnesia.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/168/text"	"Расходимся!"	"Quest Amnesia.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/167/text"	"Согласиться"	"Quest Amnesia.qmm: jumps.167.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Згадзіцца"
+"/quests/Amnesia.qmm/jumps/168/text"	"Расходимся!"	"Quest Amnesia.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Разыходзімся!"
 "/quests/Amnesia.qmm/jumps/168/description"	"- И чтоб духу твоего больше не было в этом магазине, понял?! - сказал вам на прощание Пуляй Косорукий, после чего его подручные вышвырнули вас на улицу. 
 
-""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/169/text"	"Что вы знаете про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/170/text"	"Отказаться платить"	"Quest Amnesia.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— І каб духу твайго больш не было ў гэтай краме, зразумеў?! — сказаў вам на разьвітаньне Пуляй Касарукі, пасьля чаго ягоныя падручныя выкінулі вас на вуліцу.
+
+""Ды трэба мне твая крама!"" — думалі вы, вяртаючыся на цэнтральную вуліцу."
+"/quests/Amnesia.qmm/jumps/169/text"	"Что вы знаете про банду ""Тупые ослы""?"	"Quest Amnesia.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Што вы ведаеце пра банду ""Тупыя аслы""?"
+"/quests/Amnesia.qmm/jumps/170/text"	"Отказаться платить"	"Quest Amnesia.qmm: jumps.170.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Адмовіцца плаціць"
 "/quests/Amnesia.qmm/jumps/170/description"	"- Не хочешь - не надо, - рассудил Пуляй Косорукий. - А теперь убирайся отсюда, и чтоб духу твоего больше не было в этом магазине, понял?! - добавил он вам на прощание, после чего его подручные вышвырнули вас на улицу. 
 
-""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.170.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/171/text"	"Заплатить 200 cr"	"Quest Amnesia.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.170.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Ня хочаш — ня трэба, — разважыў Пуляй Касарукі. — А цяпер вымятайся адсюль, і каб духу твайго больш не было ў гэтай краме, зразумеў?! — дадаў ён вам на разьвітаньне, пасьля чаго ягоныя падручныя выкінулі вас на вуліцу.
+
+""Ды трэба мне твая крама!"" — думалі вы, вяртаючыся на цэнтральную вуліцу."
+"/quests/Amnesia.qmm/jumps/171/text"	"Заплатить 200 cr"	"Quest Amnesia.qmm: jumps.171.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціць 200 cr"
 "/quests/Amnesia.qmm/jumps/171/description"	"- Я знаю этих ребят. Банда ""Тупые Ослы"" - это личная гвардия наркобарона <clr>Паатрона<clrEnd>, одного из наших крутых бандитов. Он использует этих головорезов для выполнения особо грязной работы, - объяснил вам Пуляй Косорукий. - А теперь вали отсюда, и чтоб духу твоего больше не было в этом магазине, понял?! - добавил он вам на прощание, после чего его подручные вышвырнули вас на улицу. 
 
-""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.171.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/173/text"	"Что ты знаешь про банду ""Тупые Ослы""?"	"Quest Amnesia.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/177/text"	"Спасибо, я узнал все, что хотел"	"Quest Amnesia.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/179/text"	"Обдумать имеющуюся информацию"	"Quest Amnesia.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/181/text"	"Купить глушитель за 100 cr"	"Quest Amnesia.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+""Нужен мне больно твой магазин!"" - думали вы, возвращаясь на центральную улицу."	"Quest Amnesia.qmm: jumps.171.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Я ведаю гэтых хлопцаў. Банда ""Тупыя Аслы"" — гэта асабістая гвардыя наркобарона <clr>Паатрона<clrEnd>, аднаго з нашых крутых бандытаў. Ён ужывае гэтых галаварэзаў для асабліва гразкай працы, — патлумачыў вам Пуляй Касарукі. — А цяпер вымятайся адсюль, і каб духу твайго больш не было ў гэтай краме, зразумеў?! — дадаў ён вам на разьвітаньне, пасьля чаго ягоныя падручныя выкінулі вас на вуліцу.
+
+""Ды трэба мне твая крама!"" — думалі вы, вяртаючыся на цэнтральную вуліцу."
+"/quests/Amnesia.qmm/jumps/173/text"	"Что ты знаешь про банду ""Тупые Ослы""?"	"Quest Amnesia.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Што ты ведаеш пра банду ""Тупыя Аслы""?"
+"/quests/Amnesia.qmm/jumps/177/text"	"Спасибо, я узнал все, что хотел"	"Quest Amnesia.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Дзякуй, я даведаўся ўсё, што хацеў"
+"/quests/Amnesia.qmm/jumps/179/text"	"Обдумать имеющуюся информацию"	"Quest Amnesia.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абдумаць наяўную інфармацыю"
+"/quests/Amnesia.qmm/jumps/181/text"	"Купить глушитель за 100 cr"	"Quest Amnesia.qmm: jumps.181.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Купіць глушыцель за 100 cr"
 "/quests/Amnesia.qmm/jumps/182/text"	"Подойти к бармену"	"Quest Amnesia.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да бармэна"
 "/quests/Amnesia.qmm/jumps/183/text"	"Подойти к гаальцу"	"Quest Amnesia.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да гаальца"
-"/quests/Amnesia.qmm/jumps/184/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/185/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/184/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціць і выйсьці на вуліцу"
+"/quests/Amnesia.qmm/jumps/185/text"	"Заплатить и выйти на улицу"	"Quest Amnesia.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Заплаціць і выйсьці на вуліцу"
 "/quests/Amnesia.qmm/jumps/186/text"	"Сказать, что у вас нет таких денег"	"Quest Amnesia.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас няма такіх грошай"
 "/quests/Amnesia.qmm/jumps/186/description"	"- Нет денег? - переспросил продавец. - Ладно, тогда я обменяю вам <clr>винтовку на станнер<clrEnd>. Идет?
 
-Вы совершили обмен и вышли на улицу."	"Quest Amnesia.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+Вы совершили обмен и вышли на улицу."	"Quest Amnesia.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Няма грошай? — перапытаў прадавец. — Добра, тады я абмяняю вам <clr>вінтоўку на станэр<clrEnd>. Ідзе?
+
+Вы зрабілі абмен і выйшлі на вуліцу."
 "/quests/Amnesia.qmm/jumps/187/text"	"Сказать, что у вас нет таких денег"	"Quest Amnesia.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас няма такіх грошай"
 "/quests/Amnesia.qmm/jumps/187/description"	"- Нет денег? - переспросил продавец. - Ладно, тогда я обменяю вам <clr>винтовку на бутылку водки<clrEnd>. Идет?
 
-Вы совершили обмен и вышли на улицу."	"Quest Amnesia.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+Вы совершили обмен и вышли на улицу."	"Quest Amnesia.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Няма грошай? — перапытаў прадавец. — Добра, тады я абмяняю вам <clr>вінтоўку на бутэльку гарэлкі<clrEnd>. Ідзе?
+
+Вы зрабілі абмен і выйшлі на вуліцу."
 "/quests/Amnesia.qmm/jumps/188/text"	"Сказать, что у вас нет таких денег"	"Quest Amnesia.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас няма такіх грошай"
 "/quests/Amnesia.qmm/jumps/188/description"	"- Нет 50 cr? - переспросил продавец. - Эх, ладно, давайте сколько есть!
 
-Вы отдали все свои деньги и получили <clr>10 патронов<clrEnd> к снайперской винтовке, после чего, попрощавшись с продавцом, вышли на улицу."	"Quest Amnesia.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+Вы отдали все свои деньги и получили <clr>10 патронов<clrEnd> к снайперской винтовке, после чего, попрощавшись с продавцом, вышли на улицу."	"Quest Amnesia.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Няма 50 cr? — перапытаў прадавец. — Эх, добра, давайце колькі ёсьць!
+
+Вы аддалі ўсе свае грошы і атрымалі <clr>10 патронаў<clrEnd> да снайпэрскай вінтоўкі, пасьля чаго, разьвітаўшыся з прадаўцом, выйшлі на вуліцу."
 "/quests/Amnesia.qmm/jumps/189/text"	"Сказать, что у вас нет таких денег"	"Quest Amnesia.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сказаць, што ў вас няма такіх грошай"
 "/quests/Amnesia.qmm/jumps/189/description"	"- Нет 500 cr? - переспросил продавец. - Эх, ладно, давайте сколько есть!
 
-Вы отдали все свои деньги и получили <clr>снайперскую винтовку и 10 патронов<clrEnd> к ней. Попрощавшись с продавцом, вы вышли на улицу."	"Quest Amnesia.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+Вы отдали все свои деньги и получили <clr>снайперскую винтовку и 10 патронов<clrEnd> к ней. Попрощавшись с продавцом, вы вышли на улицу."	"Quest Amnesia.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"— Няма 500 cr? — перапытаў прадавец. — Эх, добра, давайце колькі ёсьць!
+
+Вы аддалі ўсе свае грошы і атрымалі <clr>снайпэрскую вінтоўку і 10 патронаў<clrEnd> да яе. Разьвітаўшыся з прадаўцом, вы выйшлі на вуліцу."
 "/quests/Amnesia.qmm/jumps/190/text"	"Выйти из бара и направиться в центр"	"Quest Amnesia.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Выйсьці з бара і накіравацца ў цэнтар"
 "/quests/Amnesia.qmm/jumps/191/text"	"Обыскать труп"	"Quest Amnesia.qmm: jumps.191.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абшукаць труп"
-"/quests/Amnesia.qmm/jumps/192/description"	"Обыскав убитого, вы нашли <clr>аптечку<clrEnd> и благородно отдали ее <clr>гаальцу<clrEnd> - ему она сейчас нужнее, чем вам!"	"Quest Amnesia.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/193/description"	"Сунув руку в карман убитого, вы тут же закричали от боли - ваша рука угодила в <clr>капкан<clrEnd>! Надо отдать должное убитому охраннику - он придумал отличное средство для борьбы с карманными ворами. Самое обидное заключалось в том, что после аккуратного осмотра карманов охранника <clr>ничего ценного<clrEnd> вы там так и не обнаружили..."	"Quest Amnesia.qmm: jumps.193.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/194/description"	"Вы наклонились над трупом... и тут же получили от него <clr>удар ножом<clrEnd>! Ай да охранник - он так ловко притворился мертвым, что ни вы, ни гаалец ничего не заподозрили! Гаалец тут же добил охранника, но вам-то от этого не легче, особенно если учесть, что в карманах убитого ровным счетом <clr>ничего не было<clrEnd>..."	"Quest Amnesia.qmm: jumps.194.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/195/description"	"В карманах убитого оказалось <clr>50 cr<clrEnd>, которые тут же сменили владельца. Гаалец, заметив это, лишь презрительно ухмыльнулся."	"Quest Amnesia.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/196/description"	"К сожалению, карманы убитого оказались <clr>совершенно пусты<clrEnd>..."	"Quest Amnesia.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/192/description"	"Обыскав убитого, вы нашли <clr>аптечку<clrEnd> и благородно отдали ее <clr>гаальцу<clrEnd> - ему она сейчас нужнее, чем вам!"	"Quest Amnesia.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абшукаўшы забітага, вы знайшлі <clr>аптэчку<clrEnd> і высакародна аддалі яе <clr>гаальцу<clrEnd> — яму яна цяпер патрэбней, чым вам!"
+"/quests/Amnesia.qmm/jumps/193/description"	"Сунув руку в карман убитого, вы тут же закричали от боли - ваша рука угодила в <clr>капкан<clrEnd>! Надо отдать должное убитому охраннику - он придумал отличное средство для борьбы с карманными ворами. Самое обидное заключалось в том, что после аккуратного осмотра карманов охранника <clr>ничего ценного<clrEnd> вы там так и не обнаружили..."	"Quest Amnesia.qmm: jumps.193.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Сунуўшы руку ў кішэню забітага, вы адразу закрычалі ад болю: ваша рука трапіла ў <clr>капкан<clrEnd>! Трэба аддаць належнае забітаму ахоўніку — ён прыдумаў выдатны сродак барацьбы з кішэннымі зладзеямі. Самае крыўднае было ў тым, што пасьля акуратнага агляду кішэняў ахоўніка <clr>нічога каштоўнага<clrEnd> вы там так і не выявілі..."
+"/quests/Amnesia.qmm/jumps/194/description"	"Вы наклонились над трупом... и тут же получили от него <clr>удар ножом<clrEnd>! Ай да охранник - он так ловко притворился мертвым, что ни вы, ни гаалец ничего не заподозрили! Гаалец тут же добил охранника, но вам-то от этого не легче, особенно если учесть, что в карманах убитого ровным счетом <clr>ничего не было<clrEnd>..."	"Quest Amnesia.qmm: jumps.194.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы нахіліліся над трупам... і адразу атрымалі ад яго <clr>ўдар нажом<clrEnd>! Ну і ахоўнік: ён так спрытна прыкінуўся мёртвым, што ні вы, ні гаалец нічога не западозрылі! Гаалец адразу дабіў ахоўніка, але вам ад гэтага не лягчэй, асабліва калі ўлічыць, што ў кішэнях забітага <clr>нічога не было<clrEnd>..."
+"/quests/Amnesia.qmm/jumps/195/description"	"В карманах убитого оказалось <clr>50 cr<clrEnd>, которые тут же сменили владельца. Гаалец, заметив это, лишь презрительно ухмыльнулся."	"Quest Amnesia.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"У кішэнях забітага аказалася <clr>50 cr<clrEnd>, якія адразу зьмянілі ўладальніка. Гаалец, заўважыўшы гэта, толькі пагардліва ўсьміхнуўся."
+"/quests/Amnesia.qmm/jumps/196/description"	"К сожалению, карманы убитого оказались <clr>совершенно пусты<clrEnd>..."	"Quest Amnesia.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"На жаль, кішэні забітага аказаліся <clr>зусім пустыя<clrEnd>..."
 "/quests/Amnesia.qmm/jumps/198/text"	"Броситься врукопашную"	"Quest Amnesia.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Кінуцца ў рукапашную"
-"/quests/Amnesia.qmm/jumps/199/description"	"Порывшись в карманах убитого, вы нашли <clr>несколько патронов<clrEnd> для своей винтовки."	"Quest Amnesia.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/200/description"	"В карманах убитого оказалась <clr>аптечка<clrEnd>! Вы тут же пустили ее в ход, немного <clr>поправив свое здоровье<clrEnd>."	"Quest Amnesia.qmm: jumps.200.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/201/description"	"В карманах убитого <clr>ничего не было<clrEnd>, а вот его винтовка вызвала у вас интерес, так как на ней стоял отличный <clr>оптический прицел<clrEnd>! Через пару минут этот прицел стоял уже на вашей винтовке."	"Quest Amnesia.qmm: jumps.201.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/202/description"	"В карманах убитого было <clr>пусто<clrEnd>. Зато вы обратили внимание на то, что его винтовка была такая же как у вас, но при этом она имела <clr>глушитель<clrEnd>. Вы немедленно сняли его и переставили на свою винтовку."	"Quest Amnesia.qmm: jumps.202.description. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/199/description"	"Порывшись в карманах убитого, вы нашли <clr>несколько патронов<clrEnd> для своей винтовки."	"Quest Amnesia.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"Вы парыліся ў кішэнях забітага і знайшлі <clr>некалькі патронаў<clrEnd> для сваёй вінтоўкі."
+"/quests/Amnesia.qmm/jumps/200/description"	"В карманах убитого оказалась <clr>аптечка<clrEnd>! Вы тут же пустили ее в ход, немного <clr>поправив свое здоровье<clrEnd>."	"Quest Amnesia.qmm: jumps.200.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"У кішэнях забітага аказалася <clr>аптэчка<clrEnd>! Вы адразу пусьцілі яе ў ход, крыху <clr>паправіўшы сваё здароўе<clrEnd>."
+"/quests/Amnesia.qmm/jumps/201/description"	"В карманах убитого <clr>ничего не было<clrEnd>, а вот его винтовка вызвала у вас интерес, так как на ней стоял отличный <clr>оптический прицел<clrEnd>! Через пару минут этот прицел стоял уже на вашей винтовке."	"Quest Amnesia.qmm: jumps.201.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"У кішэнях забітага <clr>нічога не было<clrEnd>, а вось ягоная вінтоўка выклікала ў вас цікавасьць, бо на ёй стаяў выдатны <clr>аптычны прыцэл<clrEnd>! Праз пару хвілінаў гэты прыцэл стаяў ужо на вашай вінтоўцы."
+"/quests/Amnesia.qmm/jumps/202/description"	"В карманах убитого было <clr>пусто<clrEnd>. Зато вы обратили внимание на то, что его винтовка была такая же как у вас, но при этом она имела <clr>глушитель<clrEnd>. Вы немедленно сняли его и переставили на свою винтовку."	"Quest Amnesia.qmm: jumps.202.description. Preserve every <tag> exactly."	"Quest,Amnesia"	"У кішэнях забітага было <clr>пуста<clrEnd>. Затое вы зьвярнулі ўвагу на тое, што ягоная вінтоўка была такая самая, як у вас, але пры гэтым яна мела <clr>глушыцель<clrEnd>. Вы неадкладна зьнялі яго і пераставілі на сваю вінтоўку."
 "/quests/Amnesia.qmm/jumps/204/param_changes/0/crit_text"	"Вы открыли беспорядочную стрельбу, но и пеленги не остались в долгу. Одна из пуль попала вам в грудь, нанеся серьезное ранение. Поскольку вы были уже сильно изранены, это ранение оказалось для вас смертельным..."	"Quest Amnesia.qmm: jumps.204.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/204/param_changes/2/crit_text"	"Вы начали перестрелку, но, к сожалению, ваши действия оказались слишком шумными. Может быть, стоило заранее позаботиться о <clr>глушителе<clrEnd>?
 
@@ -1700,7 +1722,7 @@
 "/quests/Amnesia.qmm/jumps/251/text"	"Сказать гаальцу идти в среднюю комнату первым"	"Quest Amnesia.qmm: jumps.251.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/252/text"	"Сказать гаальцу идти в среднюю комнату первым"	"Quest Amnesia.qmm: jumps.252.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/253/text"	"Идти в среднюю комнату"	"Quest Amnesia.qmm: jumps.253.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Ісьці ў сярэдні пакой"
-"/quests/Amnesia.qmm/jumps/254/text"	"Обыскать стол"	"Quest Amnesia.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/254/text"	"Обыскать стол"	"Quest Amnesia.qmm: jumps.254.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Абшукаць стол"
 "/quests/Amnesia.qmm/jumps/255/text"	"Осмотреть сейф"	"Quest Amnesia.qmm: jumps.255.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Агледзець сэйф"
 "/quests/Amnesia.qmm/jumps/256/text"	"Сказать гаальцу идти в среднюю комнату первым"	"Quest Amnesia.qmm: jumps.256.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/257/text"	"Стрелять длинными очередями"	"Quest Amnesia.qmm: jumps.257.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
@@ -1811,7 +1833,7 @@
 "/quests/Amnesia.qmm/jumps/344/text"	"Спуститься на нижний этаж"	"Quest Amnesia.qmm: jumps.344.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/345/text"	"Откуда в вашем кабинете взялась засада? Ведь на мониторе охраны было видно, что вы один!"	"Quest Amnesia.qmm: jumps.345.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/346/text"	"Почему же вы не вышли на меня раньше и не предотвратили штурм виллы?"	"Quest Amnesia.qmm: jumps.346.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
-"/quests/Amnesia.qmm/jumps/347/text"	"Подойти к пульту замка и ввести ответ"	"Quest Amnesia.qmm: jumps.347.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
+"/quests/Amnesia.qmm/jumps/347/text"	"Подойти к пульту замка и ввести ответ"	"Quest Amnesia.qmm: jumps.347.text. Preserve every <tag> exactly."	"Quest,Amnesia"	"Падысьці да пульта замка і ўвесьці адказ"
 "/quests/Amnesia.qmm/jumps/348/text"	"Перечитать условие задачи"	"Quest Amnesia.qmm: jumps.348.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/349/text"	"Вместе с гаальцем расстрелять пеленгов"	"Quest Amnesia.qmm: jumps.349.text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
 "/quests/Amnesia.qmm/jumps/350/param_changes/0/crit_text"	"Вместе с гаальцем вы принялись методично расстреливать охранников, как вдруг почувствовали резкую боль в груди - очередное ранение стало для вас смертельным..."	"Quest Amnesia.qmm: jumps.350.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Amnesia"	""
