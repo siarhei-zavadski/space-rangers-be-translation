@@ -2193,8 +2193,8 @@ lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloqui
 lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
 lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
 lemma.paatron	Паатрон	Paatron	Паатрон/Паатрона		the drug baron; the name is a patron pun	Amnesia.qmm
-lemma.tyapsha	Тяпша Ляпц	Tyapsha Lyapts	Тяпша/Ляпц		the hospital doctor	Amnesia.qmm
-lemma.pulyay	Пуляй Косорукий	Pulyay the Clumsy	Пуляй/Пуляяў/Касарукі/касарукія		arms dealer; the nickname is касарукі	Amnesia.qmm
+lemma.tyapsha	Тяпша Ляпц	Tyapsha Lyapts	Тяпша/Тяпшам/Ляпц/Ляпцам		the hospital doctor	Amnesia.qmm
+lemma.pulyay	Пуляй Косорукий	Pulyay the Clumsy	Пуляй/Пуляя/Пуляяў/Касарукі/касарукія		arms dealer; the nickname is касарукі	Amnesia.qmm
 lemma.gaal_god	Гаал	Gaal	Гаал/Гаала		the gaal deity named in the password Дзеці Гаала	Amnesia.qmm
 lemma.pachryamba	пачрямба	pachryamba	пачрямба		peleng password token, not a dictionary word	Amnesia.qmm
 lemma.thrushfly	дроздофилл	thrush-fly	драздафілаў		joke insect, a thrush crossed with a fruit fly	Amnesia.qmm
@@ -2212,7 +2212,7 @@ lemma.gun	ружье	gun	ружжо/ружжа		a smoothbore gun; the quest slot
 lemma.reinforcement	подкрепление	reinforcement	падмацаваньне/падмацаваньня	падмацаванне	troops sent to help, sense 3; hunspell inserts ь	https://starnik.by/pravapis/50768
 lemma.wounded	раненый	wounded	паранены/параненая/параненыя		someone who has a wound	https://starnik.by/pravapis/53045
 lemma.carefree	безмятежный	carefree	бестурботны/бестурботныя	безтурботны	untroubled; hunspell rejects безтурботны	https://starnik.by/pravapis/99322
-lemma.drug_baron	наркобарон	drug baron	наркобарон/Наркобарон/наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
+lemma.drug_baron	наркобарон	drug baron	наркобарон/Наркобарон/наркобарона/Наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
 lemma.entry	вход	entrance	уваход/увахода/ўвахода		the place one enters, sense 2; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/77595
 lemma.command	командный	command	камандны/камандным		of command; a command post	https://starnik.by/pravapis/116899
 lemma.map	карта	map	мапа/мапу/мапе		a map of a place	https://starnik.by/pravapis/41694
@@ -2221,8 +2221,9 @@ lemma.layout	планировка	layout	пляніроўка/пляніроўк
 lemma.backroom	подсобка	back room	падсобка/падсобку		a side room off a shop	https://starnik.by/pravapis/51134
 lemma.canteen	столовая	canteen	сталовая		a room where people eat	https://starnik.by/pravapis/71821
 lemma.khryakoplyukh	хрякоплюх	squeal-splash	хрыкаплюх/хрыкаплюхаў		coined livestock in the bunker riddle	Amnesia.qmm
-lemma.dlubagryz	долбогрыз	peck-gnaw	длубагрыз/длубагрызаў		coined predator in the bunker riddle	Amnesia.qmm
+lemma.dlubagryz	долбогрыз	peck-gnaw	длубагрыз/длубагрызы/длубагрызаў		coined predator in the bunker riddle	Amnesia.qmm
 lemma.bukheryk	Бух'ерик	Bukheryk	Бух'ерык		peleng farmer in the code riddle	Amnesia.qmm
 lemma.green_peace	Грин Пиис	Green Peace	Грын/Пііс		joke gaal factory name	Amnesia.qmm
-lemma.gravimobile	гравимобиль	gravimobile	гравімабіль/гравімабіля		coined vehicle	Amnesia.qmm
+lemma.gravimobile	гравимобиль	gravimobile	гравімабіль/гравімабіля/гравімабілі		coined vehicle	Amnesia.qmm
 lemma.graviton	гравитонный	graviton	гравітонны/гравітонным		of a graviton; the knife that cuts metal	Amnesia.qmm
+lemma.address	адрес	address	адрас/адраса		a place's address, genitive -а; hunspell only offers -у	https://starnik.by/pravapis/2722
