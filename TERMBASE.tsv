@@ -1934,7 +1934,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, m gen плязменнага	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, m gen плязменнага, N pl плязменныя	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2260,7 +2260,7 @@ lemma.halotext	галотекст	holotext	галятэкст		a transparent she
 lemma.halopaper	галобумага	holopaper	галяпапера/галяпаперу		a transparent sheet with a 3D interface	Colonization.qmm
 lemma.halosheet	галолист	holosheet	галяліст/галяліста		the builder's transparent list	Colonization.qmm
 lemma.polyconcrete	полибетон	polyconcrete	полібэтон/полібэтонную		the landing pad's concrete	Colonization.qmm
-lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону/крыябэтоннай		the wall's concrete; G f крыябэтоннай	Colonization.qmm
+lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону/крыябэтоннай/крыябэтонную/крыябэтонам		the wall's concrete; G f крыябэтоннай; f acc крыябэтонную; I noun крыябэтонам	Colonization.qmm
 lemma.mutenok	мутенок	little muten	мутэнак/мутэнка/мутэнку/Мутэнку/мутэнкаў		a small ship in the ranger's dream; D Мутэнку, Gpl мутэнкаў	Colonization.qmm
 lemma.hegemon	эгемон	hegemon	эгемон		a klissan ship in the ranger's dream	Colonization.qmm
 lemma.castor	Кастор	Castor	Кастар		the star the dream leaves	Colonization.qmm
@@ -2305,3 +2305,4 @@ lemma.hyperration	гиперрация	hyperration	гіпэррацыі		coined 
 lemma.bargaplomacy	баргапломатия	bargaplomacy	баргапломатыя		rhyme of дыпляматыя	Colonization.qmm
 lemma.varlex	варлекс	varlex	варлекс		barbarian language name; frozen	Colonization.qmm
 lemma.cad	ЦОД	droid service initials	ЦАД		jump label; initials of Цэнтар абслугоўваньня дроідаў	Colonization.qmm
+lemma.from_above	сверху	from above	зьверху		hunspell soft sign; Starnik зверху	https://starnik.by/pravapis/224328

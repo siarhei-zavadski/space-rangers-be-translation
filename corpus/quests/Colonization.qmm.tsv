@@ -1654,102 +1654,121 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 — Так, сэр! — гаркнуў малок і сышоў. Праз пару гадзінаў рабочыя пачалі ўзводзіць новы будынак. У змроку бліскалі ўспышкі электрычнасьці і разрады плязмы, на тле неба выразна вымалёўваўся складаны і тэхналягічны каркас аўтаматызаванага завода, які, як гэта ні дзіўна, будавалі вайсковыя дроіды. На пытаньне, чаму яны гэтак не будуюць і іншыя будынкі, Раганрок адказаў, што ў іх няма такой праграмы. На тле зорнага неба, што хутка цямнела, дзе-нідзе перасечанага рэдкімі перыстымі аблокамі, кіпела праца. Вы зірнулі на гадзіньнік — было {[20..30]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка. Заўтра яшчэ адзін завод па вытворчасьці дроідаў будзе гатовы штампаваць незьлічоную колькасьць баявых адзінак без твару... Праўда, толькі калі іх вытворчасьць уключаная ў вайсковых функцыях..."
 "/quests/Colonization.qmm/jumps/20/text"	"Центр обслуживания дроидов (50 000 cr) - выключено =("	"Quest Colonization.qmm: jumps.20.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Цэнтар абслугоўваньня дроідаў (50 000 cr) — выключаны =("
 "/quests/Colonization.qmm/jumps/20/description"	"ЦОД"	"Quest Colonization.qmm: jumps.20.description. Preserve every <tag> exactly."	"Quest,Colonization"	"ЦАД"
-"/quests/Colonization.qmm/jumps/21/text"	"Генератор силового поля (125 000 cr)"	"Quest Colonization.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/21/text"	"Генератор силового поля (125 000 cr)"	"Quest Colonization.qmm: jumps.21.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Генэратар сілавога поля (125 000 cr)"
 "/quests/Colonization.qmm/jumps/21/description"	"- Строим генератор силового поля! - приказали вы. - Нам нужна защита от этих диких племен!
-- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сперва огромный бур зачем-то два часа подряд вгрызался в землю. Затем рабочие доставили с технического завода сложный конусообразный агрегат, весь в проводах и схемах, и установили его в вырытое углубление, которое предварительно выложили каким-то черным блестящим материалом. Затем накрыли все это сверху полупрозрачной непробиваемой крышей и подвели проводную систему к центральной электростанции, сделав разводку управления к вашему компьютеру. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати. Теперь, если генератор силового поля активирован, можно практически не бояться дикарей-аборигенов..."	"Quest Colonization.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/22/text"	"Криобетонная стена (100 000 cr)"	"Quest Colonization.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сперва огромный бур зачем-то два часа подряд вгрызался в землю. Затем рабочие доставили с технического завода сложный конусообразный агрегат, весь в проводах и схемах, и установили его в вырытое углубление, которое предварительно выложили каким-то черным блестящим материалом. Затем накрыли все это сверху полупрозрачной непробиваемой крышей и подвели проводную систему к центральной электростанции, сделав разводку управления к вашему компьютеру. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати. Теперь, если генератор силового поля активирован, можно практически не бояться дикарей-аборигенов..."	"Quest Colonization.qmm: jumps.21.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Будуем генэратар сілавога поля! — загадалі вы. — Нам патрэбная абарона ад гэтых дзікіх плямёнаў!
+— Так, сэр! — гаркнуў малок і сышоў. Праз пару гадзінаў рабочыя пачалі ўзводзіць новы будынак. Спачатку вялізны бур дзьве гадзіны запар угрызаўся ў зямлю. Потым рабочыя даставілі з тэхнічнага завода складаны конусападобны агрэгат, увесь у правадах і схемах, і ўсталявалі яго ў вырытае паглыбленьне, якое папярэдне выклалі нейкім чорным бліскучым матэрыялам. Потым накрылі ўсё гэта зьверху паўпразрыстай непрабівальнай страхой і падвялі правадную сыстэму да цэнтральнай электрастанцыі, зрабіўшы разводку кіраваньня да вашага кампутара. Вы зірнулі на гадзіньнік — было {[20..30]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка. Цяпер, калі генэратар сілавога поля ўключаны, можна практычна не баяцца дзікуноў-абарыгенаў..."
+"/quests/Colonization.qmm/jumps/22/text"	"Криобетонная стена (100 000 cr)"	"Quest Colonization.qmm: jumps.22.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Крыябэтонная сьцяна (100 000 cr)"
 "/quests/Colonization.qmm/jumps/22/description"	"- Строим кольцевую криобетонную стену! - приказали вы. 
-- Да, сэр! - гаркнул малок и удалился. Работы начались на рассвете. Каркас стены был возведен достаточно быстро, за пару часов, а вот ее заполнение криобетоном и встройка в него энергетических ячеек проходили до самой глубокой ночи. Вы глянули на часы - было {[30..40]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати. Теперь можно меньше опасаться атак варварских племен... Правда, лишь в том случае, если вы во время осады включите энергоплазменные разряды на поверхности стены..."	"Quest Colonization.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
+- Да, сэр! - гаркнул малок и удалился. Работы начались на рассвете. Каркас стены был возведен достаточно быстро, за пару часов, а вот ее заполнение криобетоном и встройка в него энергетических ячеек проходили до самой глубокой ночи. Вы глянули на часы - было {[30..40]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати. Теперь можно меньше опасаться атак варварских племен... Правда, лишь в том случае, если вы во время осады включите энергоплазменные разряды на поверхности стены..."	"Quest Colonization.qmm: jumps.22.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Будуем кальцавую крыябэтонную сьцяну! — загадалі вы.
+— Так, сэр! — гаркнуў малок і сышоў. Працы пачаліся на сьвітаньні. Каркас сьцяны быў узьведзены даволі хутка, за пару гадзінаў, а вось яе запаўненьне крыябэтонам і ўбудаваньне ў яго энэргетычных ячэек ішлі да самай глыбокай ночы. Вы зірнулі на гадзіньнік — было {[30..40]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка. Цяпер можна менш асьцерагацца нападаў варварскіх плямёнаў... Праўда, толькі калі вы падчас аблогі ўключыце энэргетычныя плязменныя разрады на паверхні сьцяны..."
 "/quests/Colonization.qmm/jumps/23/text"	"Ничего не строить"	"Quest Colonization.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Нічога не будаваць"
 "/quests/Colonization.qmm/jumps/24/text"	"Ничего не строить"	"Quest Colonization.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Нічога не будаваць"
-"/quests/Colonization.qmm/jumps/25/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/26/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/27/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/28/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/29/text"	"Особые постройки"	"Quest Colonization.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/25/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
+"/quests/Colonization.qmm/jumps/26/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
+"/quests/Colonization.qmm/jumps/27/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
+"/quests/Colonization.qmm/jumps/28/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
+"/quests/Colonization.qmm/jumps/29/text"	"Особые постройки"	"Quest Colonization.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Асаблівыя пабудовы"
 "/quests/Colonization.qmm/jumps/30/text"	"Ничего не строить"	"Quest Colonization.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Нічога не будаваць"
-"/quests/Colonization.qmm/jumps/31/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/32/text"	"Здание правительства (300 000 cr)"	"Quest Colonization.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/33/text"	"Торговый центр (50 000 cr)"	"Quest Colonization.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/31/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
+"/quests/Colonization.qmm/jumps/32/text"	"Здание правительства (300 000 cr)"	"Quest Colonization.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Будынак урада (300 000 cr)"
+"/quests/Colonization.qmm/jumps/33/text"	"Торговый центр (50 000 cr)"	"Quest Colonization.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Гандлёвы цэнтар (50 000 cr)"
 "/quests/Colonization.qmm/jumps/33/description"	"- Строим торговый центр! - приказали вы. - Заодно смогу завтра и ресурсы прикупить...
-- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, четко вырисовывался широкий каркас всепланетного торгового центра на фоне быстро темнеющего неба. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/34/text"	"Магазин оборудования (150 000 cr)"	"Quest Colonization.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, четко вырисовывался широкий каркас всепланетного торгового центра на фоне быстро темнеющего неба. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.33.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Будуем гандлёвы цэнтар! — загадалі вы. — Заадно змагу заўтра і рэсурсы прыкупіць...
+— Так, сэр! — гаркнуў малок і сышоў. Праз пару гадзінаў рабочыя пачалі ўзводзіць новы будынак. У змроку бліскалі ўспышкі электрычнасьці і разрады плязмы, выразна вымалёўваўся шырокі каркас гандлёвага цэнтра на ўсю плянэту на тле неба, што хутка цямнела. Вы зірнулі на гадзіньнік — было {[20..30]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка..."
+"/quests/Colonization.qmm/jumps/34/text"	"Магазин оборудования (150 000 cr)"	"Quest Colonization.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Крама абсталяваньня (150 000 cr)"
 "/quests/Colonization.qmm/jumps/34/description"	"- Строим магазин оборудования! - приказали вы.
-- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, четко вырисовывался высокотехнологичный каркас магазина оборудования на фоне быстро темнеющего неба. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/35/text"	"Информационный центр (100 000 cr)"	"Quest Colonization.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, четко вырисовывался высокотехнологичный каркас магазина оборудования на фоне быстро темнеющего неба. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Будуем краму абсталяваньня! — загадалі вы.
+— Так, сэр! — гаркнуў малок і сышоў. Праз пару гадзінаў рабочыя пачалі ўзводзіць новы будынак. У змроку бліскалі ўспышкі электрычнасьці і разрады плязмы, выразна вымалёўваўся высока тэхналягічны каркас крамы абсталяваньня на тле неба, што хутка цямнела. Вы зірнулі на гадзіньнік — было {[20..30]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка..."
+"/quests/Colonization.qmm/jumps/35/text"	"Информационный центр (100 000 cr)"	"Quest Colonization.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Інфармацыйны цэнтар (100 000 cr)"
 "/quests/Colonization.qmm/jumps/35/description"	"Строим информационный центр! - приказали вы. - Как давно я ждал этого момента...
-- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, на фоне быстро темнеющего неба четко вырисовывался стройный каркас будущего информационного центра, с лесом антенн и спутниковых тарелок на крыше. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/36/text"	"Космопорт (200 000 cr)"	"Quest Colonization.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/37/text"	"Гражданские функции"	"Quest Colonization.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/38/text"	"Оставить налоги прежними"	"Quest Colonization.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/39/text"	"А знаешь, не нужны нам эти налоги, пусть народ живет свободно"	"Quest Colonization.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+- Да, сэр! - гаркнул малок и удалился. Спустя пару часов рабочие начали возводить новое здание. Сверкали в сумерках вспышки электричества и разряды плазмы, на фоне быстро темнеющего неба четко вырисовывался стройный каркас будущего информационного центра, с лесом антенн и спутниковых тарелок на крыше. Вы глянули на часы - было {[20..30]}:{[10..59]} по местному времени. Зевнув, вы направились к кровати..."	"Quest Colonization.qmm: jumps.35.description. Preserve every <tag> exactly."	"Quest,Colonization"	"Будуем інфармацыйны цэнтар! — загадалі вы. — Як даўно я чакаў гэтага моманту...
+— Так, сэр! — гаркнуў малок і сышоў. Праз пару гадзінаў рабочыя пачалі ўзводзіць новы будынак. У змроку бліскалі ўспышкі электрычнасьці і разрады плязмы, на тле неба, што хутка цямнела, выразна вымалёўваўся стрункі каркас будучага інфармацыйнага цэнтра, з лесам антэн і талерак сувязі на даху. Вы зірнулі на гадзіньнік — было {[20..30]}:{[10..59]} па мясцовым часе. Пазяхнуўшы, вы накіраваліся да ложка..."
+"/quests/Colonization.qmm/jumps/36/text"	"Космопорт (200 000 cr)"	"Quest Colonization.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Касмапорт (200 000 cr)"
+"/quests/Colonization.qmm/jumps/37/text"	"Гражданские функции"	"Quest Colonization.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Грамадзянскія функцыі"
+"/quests/Colonization.qmm/jumps/38/text"	"Оставить налоги прежними"	"Quest Colonization.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Пакінуць падаткі ранейшымі"
+"/quests/Colonization.qmm/jumps/39/text"	"А знаешь, не нужны нам эти налоги, пусть народ живет свободно"	"Quest Colonization.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Colonization"	"А ведаеш, не патрэбныя нам гэтыя падаткі, хай народ жыве вольна"
 "/quests/Colonization.qmm/jumps/39/description"	"- А вы уверены, сэр? - усомнился Гражд Цивилл. - Видите ли, с такими средствами население быстро станет счастливым, но государственная казна опустеет.
 - Никаких отговорок, - прервали вы его, - я знаю, что делаю... у нас все-таки демократия, пусть народ живет свободно...
 - Да, сэр, - пролепетал эксперт, - я все сделаю. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.39.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/40/text"	"5 cr"	"Quest Colonization.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.39.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— А вы ўпэўненыя, сэр? — засумняваўся Грамадзянскі Цывіл. — Бачыце, з такімі сродкамі насельніцтва хутка стане шчасьлівым, але дзяржаўная казна апусьцее.
+— Ніякіх адгаворак, — перапынілі вы яго, — я ведаю, што раблю... у нас усё ж дэмакратыя, хай народ жыве вольна...
+— Так, сэр, — пралепетаў экспэрт, — я ўсё зраблю. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/40/text"	"5 cr"	"Quest Colonization.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Colonization"	"5 cr"
 "/quests/Colonization.qmm/jumps/40/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/41/text"	"10 cr"	"Quest Colonization.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/41/text"	"10 cr"	"Quest Colonization.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Colonization"	"10 cr"
 "/quests/Colonization.qmm/jumps/41/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/42/text"	"20 cr"	"Quest Colonization.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/42/text"	"20 cr"	"Quest Colonization.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Colonization"	"20 cr"
 "/quests/Colonization.qmm/jumps/42/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/43/text"	"50 cr"	"Quest Colonization.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.42.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/43/text"	"50 cr"	"Quest Colonization.qmm: jumps.43.text. Preserve every <tag> exactly."	"Quest,Colonization"	"50 cr"
 "/quests/Colonization.qmm/jumps/43/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/44/text"	"Надо сдирать с народа все до последнего кредита! Поставь максимальные налоги - 100 cr с человека!"	"Quest Colonization.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.43.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/44/text"	"Надо сдирать с народа все до последнего кредита! Поставь максимальные налоги - 100 cr с человека!"	"Quest Colonization.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Трэба зьдзіраць з народу ўсё да апошняга крэдыту! Пастаў максымальныя падаткі — 100 cr з чалавека!"
 "/quests/Colonization.qmm/jumps/44/description"	"- Но сэр... - замялся Гражд Цивилл. - Видите ли, с такими средствами население вас возненавидит еще больше, хоть государственная казна и обогатеет...
 Вы прямо раздулись от ярости:
 - Никаких ""но"", - прервали вы его, - я единоличный диктатор планеты, а диктаторы вправе делать все, что хотят! Выполняй, а то мало не покажется!
 - Да, сэр, - пролепетал эксперт по социальным вопросам, - я все сделаю. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Прощайте...
-Цивилл в панике покинул кабинет."	"Quest Colonization.qmm: jumps.44.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/45/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/46/text"	"Заняться своими делами, а затем идти спать"	"Quest Colonization.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/47/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/48/text"	"Напасть на варварские поселения"	"Quest Colonization.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/50/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/52/text"	"Смотреть статистическую информацию"	"Quest Colonization.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/59/text"	"Установить уровень налогов"	"Quest Colonization.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл в панике покинул кабинет."	"Quest Colonization.qmm: jumps.44.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Але сэр... — запнуўся Грамадзянскі Цывіл. — Бачыце, з такімі сродкамі насельніцтва будзе ненавідзець вас яшчэ мацней, хоць дзяржаўная казна і пабагацее...
+Вы проста разьдзьмуліся ад лютасьці:
+— Ніякіх «але», — перапынілі вы яго, — я адзіны дыктатар плянэты, а дыктатары маюць права рабіць усё, што захочуць! Выконвай, а то мала не падасца!
+— Так, сэр, — пралепетаў экспэрт па сацыяльных пытаньнях, — я ўсё зраблю. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Бывайце...
+Цывіл у паніцы пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/45/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.45.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
+"/quests/Colonization.qmm/jumps/46/text"	"Заняться своими делами, а затем идти спать"	"Quest Colonization.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Заняцца сваімі справамі, а потым ісьці спаць"
+"/quests/Colonization.qmm/jumps/47/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Выслухаць незадаволеных"
+"/quests/Colonization.qmm/jumps/48/text"	"Напасть на варварские поселения"	"Quest Colonization.qmm: jumps.48.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Напасьці на варварскія паселішчы"
+"/quests/Colonization.qmm/jumps/50/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
+"/quests/Colonization.qmm/jumps/52/text"	"Смотреть статистическую информацию"	"Quest Colonization.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець статыстычную інфармацыю"
+"/quests/Colonization.qmm/jumps/59/text"	"Установить уровень налогов"	"Quest Colonization.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Усталяваць узровень падаткаў"
 "/quests/Colonization.qmm/jumps/60/text"	"Посмотреть что-нибудь другое"	"Quest Colonization.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Паглядзець нешта іншае"
-"/quests/Colonization.qmm/jumps/61/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/67/text"	"Уйти в отставку"	"Quest Colonization.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/68/text"	"Запрос планеты <FromPlanet> (звездная система <FromStar>)"	"Quest Colonization.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/69/text"	"Заняться другими делами"	"Quest Colonization.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/70/text"	"Прошу прощения, мне ничего не надо, у нас на планете <ToPlanet> все отлично"	"Quest Colonization.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/71/text"	"Ресурсы (-40%)"	"Quest Colonization.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/72/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/73/text"	"Деньги (-75%)"	"Quest Colonization.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/74/text"	"Заводы (-100%)"	"Quest Colonization.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/75/text"	"Установить пределы иммиграции на планету"	"Quest Colonization.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/76/text"	"Оставить уровень иммиграции прежним"	"Quest Colonization.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/77/text"	"Законсервировать колонию до приезда комиссии"	"Quest Colonization.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/78/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/79/text"	"10% уровень иммиграции"	"Quest Colonization.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/61/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца ў цэнтр кіраваньня"
+"/quests/Colonization.qmm/jumps/67/text"	"Уйти в отставку"	"Quest Colonization.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Падаць у адстаўку"
+"/quests/Colonization.qmm/jumps/68/text"	"Запрос планеты <FromPlanet> (звездная система <FromStar>)"	"Quest Colonization.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Запыт плянэты <FromPlanet> (зорная сыстэма <FromStar>)"
+"/quests/Colonization.qmm/jumps/69/text"	"Заняться другими делами"	"Quest Colonization.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Заняцца іншымі справамі"
+"/quests/Colonization.qmm/jumps/70/text"	"Прошу прощения, мне ничего не надо, у нас на планете <ToPlanet> все отлично"	"Quest Colonization.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Прашу прабачэньня, мне нічога не трэба, у нас на плянэце <ToPlanet> усё выдатна"
+"/quests/Colonization.qmm/jumps/71/text"	"Ресурсы (-40%)"	"Quest Colonization.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Рэсурсы (-40%)"
+"/quests/Colonization.qmm/jumps/72/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Канец сувязі, <FromPlanet>"
+"/quests/Colonization.qmm/jumps/73/text"	"Деньги (-75%)"	"Quest Colonization.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Грошы (-75%)"
+"/quests/Colonization.qmm/jumps/74/text"	"Заводы (-100%)"	"Quest Colonization.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Заводы (-100%)"
+"/quests/Colonization.qmm/jumps/75/text"	"Установить пределы иммиграции на планету"	"Quest Colonization.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Усталяваць межы іміграцыі на плянэту"
+"/quests/Colonization.qmm/jumps/76/text"	"Оставить уровень иммиграции прежним"	"Quest Colonization.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Пакінуць узровень іміграцыі ранейшым"
+"/quests/Colonization.qmm/jumps/77/text"	"Законсервировать колонию до приезда комиссии"	"Quest Colonization.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Закансэрваваць калёнію да прылёту камісіі"
+"/quests/Colonization.qmm/jumps/78/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
+"/quests/Colonization.qmm/jumps/79/text"	"10% уровень иммиграции"	"Quest Colonization.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Colonization"	"10% узровень іміграцыі"
 "/quests/Colonization.qmm/jumps/79/description"	"- Я должен распространить уведомление о том, что иммиграция на нашу планету разрешена только на {10}%.
-Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.79.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/80/text"	"25% уровень иммиграции"	"Quest Colonization.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.79.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Я мушу распаўсюдзіць паведамленьне пра тое, што іміграцыя на нашу плянэту дазволеная толькі на {10}%.
+Грамадзянскі Цывіл сышоў з кабінэта."
+"/quests/Colonization.qmm/jumps/80/text"	"25% уровень иммиграции"	"Quest Colonization.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Colonization"	"25% узровень іміграцыі"
 "/quests/Colonization.qmm/jumps/80/description"	"- Я должен распространить уведомление о том, что иммиграция на нашу планету разрешена только на {25}%.
-Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/81/text"	"50% уровень иммиграции"	"Quest Colonization.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.80.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Я мушу распаўсюдзіць паведамленьне пра тое, што іміграцыя на нашу плянэту дазволеная толькі на {25}%.
+Грамадзянскі Цывіл сышоў з кабінэта."
+"/quests/Colonization.qmm/jumps/81/text"	"50% уровень иммиграции"	"Quest Colonization.qmm: jumps.81.text. Preserve every <tag> exactly."	"Quest,Colonization"	"50% узровень іміграцыі"
 "/quests/Colonization.qmm/jumps/81/description"	"- Я должен распространить уведомление о том, что иммиграция на нашу планету разрешена только на {50}%.
-Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/82/text"	"75% уровень иммиграции, у нас демократия, а значит, планета открыта для всех"	"Quest Colonization.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.81.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Я мушу распаўсюдзіць паведамленьне пра тое, што іміграцыя на нашу плянэту дазволеная толькі на {50}%.
+Грамадзянскі Цывіл сышоў з кабінэта."
+"/quests/Colonization.qmm/jumps/82/text"	"75% уровень иммиграции, у нас демократия, а значит, планета открыта для всех"	"Quest Colonization.qmm: jumps.82.text. Preserve every <tag> exactly."	"Quest,Colonization"	"75% узровень іміграцыі, у нас дэмакратыя, а значыць, плянэта адкрытая для ўсіх"
 "/quests/Colonization.qmm/jumps/82/description"	"- Я должен распространить уведомление о том, что иммиграция на планету разрешена на {75}%.
 Гражд Цивилл удалился из кабинета."	"Quest Colonization.qmm: jumps.82.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/84/text"	"Все, хватит, надоело! Отныне ни одному новому иммигранту сюда не попасть - доступ закрыт, так и скажи"	"Quest Colonization.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/84/description"	"- Да, сэр, - побледнел Цивилл, видя, что вы злитесь. - Я уведомлю новых переселенцев о том, что иммиграция на планету <clr>запрещена<clrEnd>. Позволите удалиться?
 - Да, - сухо сказали вы.
 Гражд Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.84.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/88/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/88/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.88.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Канец сувязі, <FromPlanet>"
 "/quests/Colonization.qmm/jumps/89/text"	"100 000 cr"	"Quest Colonization.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/89/description"	"- Хороший выбор. 100 000 cr зачислено на счет вашего правительства. Удачи! Конец связи."	"Quest Colonization.qmm: jumps.89.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/90/text"	"200 000 cr"	"Quest Colonization.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/90/description"	"- Золотая середина! 200 000 cr зачислено на счет вашего правительства. Удачи! Конец связи."	"Quest Colonization.qmm: jumps.90.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/91/text"	"300 000 cr"	"Quest Colonization.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/91/description"	"- Многовато... Похоже, у вас серьезные финансовые проблемы. 300 000 cr зачислено на счет вашего правительства. Удачи! Конец связи."	"Quest Colonization.qmm: jumps.91.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/92/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/92/text"	"Конец связи, <FromPlanet>"	"Quest Colonization.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Канец сувязі, <FromPlanet>"
 "/quests/Colonization.qmm/jumps/93/text"	"Энергия (50 000 мВт)"	"Quest Colonization.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/94/text"	"Вода (50 000 т)"	"Quest Colonization.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/95/text"	"Пища (50 000 т)"	"Quest Colonization.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -1761,15 +1780,15 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 "/quests/Colonization.qmm/jumps/103/text"	"Я объясню им, что завтра все будет на нужном им уровне. А пока разгоните демонстрацию. Только мирно!"	"Quest Colonization.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/104/text"	"Используйте армию дроидов для разгона демонстрации! Насилие по отношению к поселенцам допускаю"	"Quest Colonization.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/105/text"	"Разгоните демонстрацию без насилия!"	"Quest Colonization.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/113/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/114/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/113/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца ў цэнтр кіраваньня"
+"/quests/Colonization.qmm/jumps/114/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/115/text"	"Разгоните демонстрацию без насилия!"	"Quest Colonization.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/116/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/117/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/116/text"	"Вернуться в центр управления"	"Quest Colonization.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца ў цэнтр кіраваньня"
+"/quests/Colonization.qmm/jumps/117/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/118/text"	"Заводы воды и техники"	"Quest Colonization.qmm: jumps.118.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/119/text"	"Заводы воды и пищи"	"Quest Colonization.qmm: jumps.119.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/120/text"	"Заводы пищи и техники"	"Quest Colonization.qmm: jumps.120.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/122/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/122/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.122.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/123/text"	"Военные функции"	"Quest Colonization.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/124/text"	"Посмотреть что-нибудь другое"	"Quest Colonization.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Паглядзець нешта іншае"
 "/quests/Colonization.qmm/jumps/125/text"	"Да, включите производство"	"Quest Colonization.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -1831,7 +1850,7 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 - Ладно, ладно! Выполняю! - быстро сказал Амиолис и щелкнул парой кнопок на компьютере. Через пару минут завыли сирены и вы услышали собственную фразу - <clr>""Объявляю жесткую тоталитарную политику! Диктатура на всей планете! При мне ни один человек жить свободно не будет! Все обязаны поклоняться мне - великому вождю этой планеты!""<clrEnd>. А спустя еще пару минут увидели на улице толпы людей, которые кричали: ""<Ranger>! Гоу хоум!!!"", ""<Ranger> капут!!!"" и ""Руки прочь от планеты <ToPlanet>!!!"", размахивая агитационными и противорейнджерскими плакатами. Толпа даже попыталась ворваться в здание правительства, но потерпела поражение от военных. На кровавую резню на улице было тяжело, если не невозможно, смотреть. Вот что значит диктатура! Завтра будет произведен пересчет погибших в демонстрации...
 - Могу я выспаться? - устало спросили вы у фэянина, а потом добавили: - ой, чего это я? Конечно, единовластный вождь великой земной расы может выспаться, не слушая никого... и всякие фэянишки мне тут не указ!
 Вы вошли в свою спальню, обвели взглядом роскошный интерьер и повалились на кровать, заснув как убитый."	"Quest Colonization.qmm: jumps.168.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/169/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/169/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
 "/quests/Colonization.qmm/jumps/178/text"	"А кого выбирать-то?"	"Quest Colonization.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/179/text"	"Военным"	"Quest Colonization.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/179/description"	"- Отлично, <Ranger>! Малоки дроидов недолюбливают, особенно старых, поэтому будут выгружать их на складах нашей планеты. В военной силе можно не сомневаться.
@@ -1848,9 +1867,9 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 - Я знаю, что делаю, - зевнули вы, - а теперь могу я выспаться? - сонно спросили вы у фэянина.
 - Да, конечно! - ответил Амиолис.
 Вы вернулись в свое жилище и уснули крепким сном."	"Quest Colonization.qmm: jumps.181.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/182/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/182/text"	"Смотреть интересные сны"	"Quest Colonization.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Глядзець цікавыя сны"
 "/quests/Colonization.qmm/jumps/192/text"	"Заказать ресурсы в торговом центре"	"Quest Colonization.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/193/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/193/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/194/text"	"Пища ({60000*[p45]-([p27]*1000*([p32]+1))} cr)"	"Quest Colonization.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/194/description"	"Гражд Цивилл что-то быстро записал в блокноте и попросил выписать ему сумму в {60000*[p45]-([p27]*1000*([p32]+1))} cr. Вы нехотя это сделали и откинулись на спинку кресла. Цивилл вышел из кабинета и направился в здание галактического торгового центра. Там выписанную сумму перевели на ближайшую заселенную планету этой системы, откуда стартовал загруженный транспортник. Через какое-то время ваши рабочие уже разгружали прибывший товар.
 - {50000} т пищи доставлены на транспортном корабле, - проинформировал вошедший в кабинет Гражд. Вы позволили ему покинуть кабинет и решили вернуться к работе. Ну и влетел же вам в копеечку этот заказ!"	"Quest Colonization.qmm: jumps.194.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -1861,15 +1880,15 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 "/quests/Colonization.qmm/jumps/196/description"	"Гражд Цивилл что-то быстро записал в блокноте и попросил выписать ему сумму в {50000*[p45]-([p27]*1000*([p32]+1))} cr. Вы нехотя это сделали и откинулись на спинку кресла. Цивилл вышел из кабинета и направился в здание галактического торгового центра. Там выписанную сумму перевели на ближайшую заселенную планету этой системы, откуда стартовал загруженный транспортник. Через какое-то время ваши рабочие уже разгружали прибывший товар.
 - {50000} т воды доставлены на транспортном корабле, - проинформировал вошедший в кабинет Гражд. Вы позволили ему покинуть кабинет и решили вернуться к работе. Ну и влетел же вам в копеечку этот заказ!"	"Quest Colonization.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/197/text"	"А впрочем, я передумал. Ничего не будем покупать... с такими ценами!"	"Quest Colonization.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/198/text"	"Законсервировать колонию до приезда комиссии"	"Quest Colonization.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/198/text"	"Законсервировать колонию до приезда комиссии"	"Quest Colonization.qmm: jumps.198.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Закансэрваваць калёнію да прылёту камісіі"
 "/quests/Colonization.qmm/jumps/199/text"	"Отключить генератор силового поля"	"Quest Colonization.qmm: jumps.199.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/199/description"	"- Да, сэр! - гаркнул малок. - Генератор силового поля перестанет действовать с завтрашнего дня."	"Quest Colonization.qmm: jumps.199.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/201/text"	"Вернуться в свой кабинет"	"Quest Colonization.qmm: jumps.201.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/202/text"	"Заняться делом"	"Quest Colonization.qmm: jumps.202.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/204/text"	"Используйте армию дроидов для разгона демонстрации! Насилие по отношению к поселенцам допускаю"	"Quest Colonization.qmm: jumps.204.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/205/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/206/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/207/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/205/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Выслухаць незадаволеных"
+"/quests/Colonization.qmm/jumps/206/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Выслухаць незадаволеных"
+"/quests/Colonization.qmm/jumps/207/text"	"Выслушать недовольных"	"Quest Colonization.qmm: jumps.207.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Выслухаць незадаволеных"
 "/quests/Colonization.qmm/jumps/208/text"	"День приезда комиссии. Представительно одеться и ехать на космодром"	"Quest Colonization.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/209/text"	"Ехать в космопорт"	"Quest Colonization.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/210/text"	"Ехать в космопорт"	"Quest Colonization.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -1880,7 +1899,7 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 "/quests/Colonization.qmm/jumps/215/text"	"Посмотреть другие функции"	"Quest Colonization.qmm: jumps.215.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/219/text"	"Оставить отпечаток и вернуться на корабль"	"Quest Colonization.qmm: jumps.219.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/220/text"	"Передумать и продолжить выполнение задания"	"Quest Colonization.qmm: jumps.220.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/221/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/221/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/222/text"	"Постой! У меня пара вопросов к тебе"	"Quest Colonization.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/223/text"	"Расскажи мне о местном населении"	"Quest Colonization.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/225/text"	"Город имеет свои вооруженные силы?"	"Quest Colonization.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -1971,7 +1990,7 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 "/quests/Colonization.qmm/jumps/274/text"	"Я передумал, давай построим другие производственные структуры"	"Quest Colonization.qmm: jumps.274.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/275/text"	"Включите разборку дроидов на запчасти"	"Quest Colonization.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/276/text"	"Ничего мы покупать не будем, лучше продадим что-нибудь"	"Quest Colonization.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/277/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/277/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.277.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/278/text"	"Продадим дроидов"	"Quest Colonization.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/279/text"	"Продадим 100 дроидов"	"Quest Colonization.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/279/description"	"- Отлично, - ответил Цивилл, - мы получили с продажи дроидов {[50..100]} тонн техники и {[50..100]} мВт энергии.
@@ -1994,7 +2013,7 @@ P.S. Гэты чат не выдаляць! Хай будзе велікодны
 "/quests/Colonization.qmm/jumps/289/description"	"ДИПЛОМАТИЯ С ВАРВАРАМИ
 Var=[p11]
 Поселений=[p38]"	"Quest Colonization.qmm: jumps.289.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/290/text"	"Запрос планеты <FromPlanet> (звездная система <FromStar>)"	"Quest Colonization.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/290/text"	"Запрос планеты <FromPlanet> (звездная система <FromStar>)"	"Quest Colonization.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Запыт плянэты <FromPlanet> (зорная сыстэма <FromStar>)"
 "/quests/Colonization.qmm/jumps/291/text"	"Так тому и быть. Конец связи"	"Quest Colonization.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/292/text"	"Продадим 10000 человек"	"Quest Colonization.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/293/text"	"Продадим 5000 человек"	"Quest Colonization.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -2016,8 +2035,8 @@ Var=[p11]
 "/quests/Colonization.qmm/jumps/299/text"	"Пеленгам за 400 000 cr"	"Quest Colonization.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/299/description"	"- Да, сэр, - угрюмо пробурчал Цивилл, - я уведомил пеленгов... они обещали перечислить деньги час назад, но... - у Гражда дыхание перехватило, - но не... не перечислили... сэр, они нас надули!!! Я, я... корабли с рабами отчалили... планета <FromPlanet> объявила вас диктатором и не желает с вами общаться... Это конец, сэр!
 Вы были в ярости, желали отомстить пеленгам, но поделать ничего не могли. Пришлось в расстроенных чувствах вернуться к работе."	"Quest Colonization.qmm: jumps.299.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/300/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/301/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.301.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/300/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
+"/quests/Colonization.qmm/jumps/301/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.301.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/302/text"	"А впрочем, я передумал. Продадим что-нибудь другое"	"Quest Colonization.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/303/text"	"А впрочем, я передумал. Продадим что-нибудь другое"	"Quest Colonization.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/306/text"	"Ждать исхода сражения"	"Quest Colonization.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -2025,7 +2044,7 @@ Var=[p11]
 "/quests/Colonization.qmm/jumps/308/text"	"Стоп! Сегодня воевать мы не будем. Пошлите к вождю варварского племени дипломатического дроида"	"Quest Colonization.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/309/text"	"Стоп! Сегодня воевать мы не будем. Пошлите к вождю варварского племени дипломатического дроида"	"Quest Colonization.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/310/text"	"Нет. Ну его, кто знает, что на уме у дикаря. Расстрелять!"	"Quest Colonization.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/311/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/311/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/312/text"	"Впустите, но перед этим заберите все вооружение"	"Quest Colonization.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/313/text"	"Компьютер, перевод: общегалактический -> варлекс. Да, ты свободен. Надеюсь, нам удастся достигнуть мира между нашими народами"	"Quest Colonization.qmm: jumps.313.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/313/description"	"- Перевод: с языка разумной жизни планеты <ToPlanet> (варлекс) -> общегалактический язык
@@ -2039,7 +2058,7 @@ Var=[p11]
 ""Я благодарю вас, небесный владыка, за почтительное предложение остаться тут, и прославляю всех богов лун, звезд и солнца за вашу снисходительность, но я не могу оставаться в вашем мире... э-э-э... странных коробок, ненастоящих солнц и летающих колесниц. Я должен донести вождю о вашем согласии мира. Вождь вас навестит, когда вы пришлете механического"", - ошибка, - замигал компьютер, порядочно напугав варвара, - слово не зарегистрировано: ""кшонгу"", продолжение перевода, - ""прощайте, владыка, только помните, вождь будет приходить в ваш странный мир <clr>только 3 раза<clrEnd>, если договориться вы не сможете, война вечно длиться будет"".
 
 Варвар удалился, а вы тем временем рассмотрели меч, который он вам подарил. Красиво, ничего не скажешь. Такой даже сейчас нигде на черных рынках не найдешь. Что ж, теперь можно и к работе вернуться."	"Quest Colonization.qmm: jumps.314.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/315/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.315.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/315/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.315.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/320/text"	"Отдать 7000 дроидов"	"Quest Colonization.qmm: jumps.320.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/320/description"	"Вы со страшным недовольством подарили вождю 7000 выключенных дроидов. Вождь призвал свою армаду забрать каждого из них в поселение. После чего сообщил, что больше атаковать ""небесных демонов"" они не будут. Неуклюже развернувшись, он вышел из кабинета в сопровождении своей охраны. Армада варваров отошла от города, волоча за собой выключенных дроидов...
 ""Интересно, - довольно подумали вы, - а вождь знает, как их включить?"", - и радостно расхохотались. Жаль, что планета <FromPlanet> получила выговор в Галактическом Совете и снизила поддержку на 15%."	"Quest Colonization.qmm: jumps.320.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -2052,14 +2071,14 @@ Var=[p11]
 Вождь что-то пробурчал в ответ на своем (вы не стали переключать переводчик) и повернулся к вам спиной, готовясь покинуть кабинет в сопровождении своей охраны.
 - Огонь!!! - крикнули вы, и кабинет потонул в бластерных вспышках, дыму, рычании варваров и ругани малока. Когда же дым рассеялся, вашим глазам предстало поле битвы: прожженные стены, груда убитых варваров с бездыханным вождем, перевернутые столы и стулья, разбитые галокомпьютеры. Вы вызвали уборщиков и ремонтников, и подготовились к атаке варваров снаружи. О дипломатии, понятно, речи больше не идет."	"Quest Colonization.qmm: jumps.322.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/323/text"	"Отложить сделку на время"	"Quest Colonization.qmm: jumps.323.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/324/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.324.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/324/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.324.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/325/text"	"Отказаться от требований вождя"	"Quest Colonization.qmm: jumps.325.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/325/description"	"- Компьютер, перевод: общегалактический -> варлекс, - сказали вы. - Ваши требования необоснованны, вы хотите слишком много. Я отказываюсь. Все останется как прежде. Вы свободны. Можете идти. Может, в следующий раз мы сумеем договориться. Прощайте!
 Вождь что-то пробурчал в ответ на своем (вы не стали переключать переводчик) и покинул кабинет в сопровождении своей охраны. Армада варваров угрожающе двинулась на город. Началась битва."	"Quest Colonization.qmm: jumps.325.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/326/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.326.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/326/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.326.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/327/text"	"Спросить о дипломатических отношениях с варварами"	"Quest Colonization.qmm: jumps.327.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/328/text"	"Понятно, давай посмотрим, что еще можно сделать"	"Quest Colonization.qmm: jumps.328.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/329/text"	"Напасть на варварские поселения"	"Quest Colonization.qmm: jumps.329.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/329/text"	"Напасть на варварские поселения"	"Quest Colonization.qmm: jumps.329.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Напасьці на варварскія паселішчы"
 "/quests/Colonization.qmm/jumps/330/text"	"Ждать исхода сражения"	"Quest Colonization.qmm: jumps.330.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/331/text"	"Посовещаться с советниками"	"Quest Colonization.qmm: jumps.331.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/332/text"	"Продолжить переговоры"	"Quest Colonization.qmm: jumps.332.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
@@ -2095,33 +2114,41 @@ Var=[p11]
 "/quests/Colonization.qmm/jumps/348/text"	"Продадим всех [p9] дроидов, которые у нас есть"	"Quest Colonization.qmm: jumps.348.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/348/description"	"- Отлично, - ответил Цивилл, - мы получили с продажи дроидов {[p9]/2} тонн техники и {[p9]/2} мВт энергии.
 Вы решили вернуться к работе."	"Quest Colonization.qmm: jumps.348.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/349/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.349.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/349/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.349.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/350/text"	"Лечь спать"	"Quest Colonization.qmm: jumps.350.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Легчы спаць"
-"/quests/Colonization.qmm/jumps/351/text"	"5 cr"	"Quest Colonization.qmm: jumps.351.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/351/text"	"5 cr"	"Quest Colonization.qmm: jumps.351.text. Preserve every <tag> exactly."	"Quest,Colonization"	"5 cr"
 "/quests/Colonization.qmm/jumps/351/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.351.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/352/text"	"10 cr"	"Quest Colonization.qmm: jumps.352.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.351.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/352/text"	"10 cr"	"Quest Colonization.qmm: jumps.352.text. Preserve every <tag> exactly."	"Quest,Colonization"	"10 cr"
 "/quests/Colonization.qmm/jumps/352/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.352.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/353/text"	"20 cr"	"Quest Colonization.qmm: jumps.353.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.352.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/353/text"	"20 cr"	"Quest Colonization.qmm: jumps.353.text. Preserve every <tag> exactly."	"Quest,Colonization"	"20 cr"
 "/quests/Colonization.qmm/jumps/353/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.353.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/354/text"	"50 cr"	"Quest Colonization.qmm: jumps.354.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.353.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/354/text"	"50 cr"	"Quest Colonization.qmm: jumps.354.text. Preserve every <tag> exactly."	"Quest,Colonization"	"50 cr"
 "/quests/Colonization.qmm/jumps/354/description"	"- Да, сэр, я уже установил средний умеренный уровень налогов в {[p26]} cr с человека. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Удачи!
-Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.354.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/355/text"	"Надо сдирать с народа все до последнего кредита! Поставь максимальные налоги - 100 cr с человека!"	"Quest Colonization.qmm: jumps.355.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл покинул кабинет."	"Quest Colonization.qmm: jumps.354.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Так, сэр, я ўжо ўсталяваў сярэдні ўмераны ўзровень падаткаў у {[p26]} cr з чалавека. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Посьпеху!
+Цывіл пакінуў кабінэт."
+"/quests/Colonization.qmm/jumps/355/text"	"Надо сдирать с народа все до последнего кредита! Поставь максимальные налоги - 100 cr с человека!"	"Quest Colonization.qmm: jumps.355.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Трэба зьдзіраць з народу ўсё да апошняга крэдыту! Пастаў максымальныя падаткі — 100 cr з чалавека!"
 "/quests/Colonization.qmm/jumps/355/description"	"- Но сэр... - замялся Гражд Цивилл. - Видите ли, с такими средствами население вас возненавидит еще больше, хоть государственная казна и обогатеет...
 Вы прямо раздулись от ярости:
 - Никаких ""но"", - прервали вы его, - я единоличный диктатор планеты, а диктаторы вправе делать все, что хотят! Выполняй, а то мало не покажется!
 - Да, сэр, - пролепетал эксперт по социальным вопросам, - я все сделаю. Завтра вы сможете увидеть реакцию населения на этот уровень налогов. Прощайте...
-Цивилл в панике покинул кабинет."	"Quest Colonization.qmm: jumps.355.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
+Цивилл в панике покинул кабинет."	"Quest Colonization.qmm: jumps.355.description. Preserve every <tag> exactly."	"Quest,Colonization"	"— Але сэр... — запнуўся Грамадзянскі Цывіл. — Бачыце, з такімі сродкамі насельніцтва будзе ненавідзець вас яшчэ мацней, хоць дзяржаўная казна і пабагацее...
+Вы проста разьдзьмуліся ад лютасьці:
+— Ніякіх «але», — перапынілі вы яго, — я адзіны дыктатар плянэты, а дыктатары маюць права рабіць усё, што захочуць! Выконвай, а то мала не падасца!
+— Так, сэр, — пралепетаў экспэрт па сацыяльных пытаньнях, — я ўсё зраблю. Заўтра вы зможаце ўбачыць рэакцыю насельніцтва на гэты ўзровень падаткаў. Бывайце...
+Цывіл у паніцы пакінуў кабінэт."
 "/quests/Colonization.qmm/jumps/356/text"	"75% уровень иммиграции, мне нужно больше налогоплательщиков"	"Quest Colonization.qmm: jumps.356.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/357/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.357.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/357/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.357.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/358/text"	"Они что там, с ума сошли! Передай им, что денег не будет"	"Quest Colonization.qmm: jumps.358.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/358/description"	"Гражд Цивилл поспешил удалиться с ваших глаз. Похоже, значительного притока иммигрантов вам не дождаться."	"Quest Colonization.qmm: jumps.358.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/359/text"	"Да хоть сколько, все равно с народа деньги безлимитно черпаем, решай этот вопрос поживее!"	"Quest Colonization.qmm: jumps.359.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/359/description"	"- Будет сделано, - сказал Цивилл и поспешил удалиться. Спустя пару минут ваш кабинет был обставлен галокамерами, стереомикрофонами и прочими СМИ-атрибутами, а вы, надев генеральский костюм, вещали, словно велесианский соловей, как прекрасна жизнь на вашей планете. Вы никогда в жизни столько не лгали, сколько за эти жалкие пятнадцать минут. Все это было прикрыто сфальсифицированными кадрами и хвалебными одами подкупленных жителей (деньги у которых, впрочем, потом забрали, пригрозив репрессиями). В итоге вы остались довольны работой СМИ и лениво развалились в кресле. По крайней мере, обвести всех вокруг пальца вам удалось отлично."	"Quest Colonization.qmm: jumps.359.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
-"/quests/Colonization.qmm/jumps/360/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.360.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
+"/quests/Colonization.qmm/jumps/360/text"	"Вернуться к работе"	"Quest Colonization.qmm: jumps.360.text. Preserve every <tag> exactly."	"Quest,Colonization"	"Вярнуцца да працы"
 "/quests/Colonization.qmm/jumps/361/text"	"Да хоть сколько, все равно с народа деньги безлимитно черпаем, решай этот вопрос поживее!"	"Quest Colonization.qmm: jumps.361.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/361/description"	"- Будет сделано, - сказал Цивилл и поспешил удалиться. Спустя пару минут он вернулся, но никаких галокамер с ним не было, впрочем, как и работников СМИ. Судя по виноватому лицу специалиста по гражданским вопросам, сделка не удалась. Вы пригрозили ему геенной огненной и погнали прочь из кабинета, забрав при этом назад свои 350 000 cr."	"Quest Colonization.qmm: jumps.361.description. Preserve every <tag> exactly."	"Quest,Colonization"	""
 "/quests/Colonization.qmm/jumps/363/text"	"Ждать исхода сражения"	"Quest Colonization.qmm: jumps.363.text. Preserve every <tag> exactly."	"Quest,Colonization"	""
