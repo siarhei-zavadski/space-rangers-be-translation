@@ -426,7 +426,7 @@ lemma.red_axes	Красные топоры	Red Axes	Чырвоныя тапар�
 lemma.kill_or_lose	Убей или проиграешь	Kill or Lose	Забі або прайграеш		quoted peleng TV show KillShip/10	—
 lemma.crimson_skull	Багровый Череп	Crimson Skull	Барвовы Чэрап		keep in <clr>; nephew of Чырвоны Чэрап	—
 lemma.bukhus	Букхус	Bukhus	Букхус		keep in <clr>; supreme lyakusha on fakes	—
-lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую/Пеленг/пеленгах/пеленгша/пеленгшы/пеленгшу/пеленгскі/Пеленгша/Пеленгскі/Пеленга/Пеленгі/пеленгшаў/Пеленгаў/пеленгскае/пеленгскімі/Пеленгу		race; N пеленг already in lemma.golden_peleng; I pl пеленгскімі	—
+lemma.peleng	пеленг	peleng	пеленга/пеленгаў/пеленгі/пеленгскіх/пеленгам/Пеленгам/пеленгу/пеленгскай/пеленгскім/пеленгскія/пеленгская/Пеленгская/пеленгскага/непеленгі/пеленгску/пеленгамі/пеленгскую/Пеленг/пеленгах/пеленгша/пеленгшы/пеленгшу/пеленгскі/Пеленгша/Пеленгскі/Пеленга/Пеленгі/пеленгшаў/Пеленгаў/пеленгскае/пеленгскімі/Пеленгу		race; N пеленг already in lemma.golden_peleng; I pl пеленгскімі; D pl Пеленгам	—
 lemma.golden_peleng	Золотой пеленг	Golden Peleng	Залаты пеленг		quoted illegal casino liner	—
 lemma.gaan_chuak	Гаан Чуак	Gaan Chewack	Гаан Чуак		keep in <clr>; gaal hypnotist	—
 lemma.jokh_puk	Джох Пук	Jokh Puk	Джох Пук		keep in <clr>; peleng-turned-gaal ranger	—
@@ -1684,7 +1684,7 @@ lemma.shaitan_babai	Шайтан-бабай	Sheitan-Babai	Шайтан-баба�
 lemma.bookmaker	букмекер	bookmaker	букмекер/букмекера		race bookie; hunspell gap, Starnik spelling	https://starnik.by/pravapis/11895
 lemma.allah	Аллах	Allah	Алах/Алаха/Алаху/Алахам		name of God; hunspell gap, Starnik Алах	https://starnik.by/pravapis/3851
 lemma.shesh_besh	шеш-беш	shesh-besh	Шэш-беш		dice-game joke against шах-мат; not in Starnik	—
-lemma.menzol_phrase	Ээнти макунка ист кшонга	Aenthi makhoonkaah ist kschongha	Ээнти/макунка/ист/кшонга		frozen Menzol lesson phrase	—
+lemma.menzol_phrase	Ээнти макунка ист кшонга	Aenthi makhoonkaah ist kschongha	Ээнти/макунка/ист/кшонга/кшонгу		frozen Menzol lesson phrase; the unregistered dative кшонгу	—
 lemma.pissling	писярик	pissling	ПІСЯРЫК		malok name for eggheads; English PISSLING; not in Starnik	—
 lemma.regenerine	регенерин	regenerine	Рэгенерын		coined tissue drug Regenerine-X; not in Starnik	—
 lemma.oinker	хрюнис	oinker	хруніс/хруніса/хрунісаў		milk-oinker meat; coined game animal; not in Starnik	—
@@ -2234,7 +2234,7 @@ lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/н�
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
 lemma.factory	завод	factory	завод/завода/заводаў		an industrial plant, sense 1; genitive -а	https://starnik.by/pravapis/26361
-lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/варвары/варварам/Варвар		Starnik noun; hunspell wants барбар. New lines use варвар; D pl варварам	https://starnik.by/pravapis/13378
+lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/ВАРВАРАМІ/варвары/варварам/Варвар		Starnik noun; hunspell wants барбар. New lines use варвар; D pl варварам; I pl caps ВАРВАРАМІ	https://starnik.by/pravapis/13378
 lemma.civill	Цивилл	Civill	Цывіл/Цывіла		colony civil-affairs specialist; coined surname; G Цывіла	Colonization.qmm
 lemma.wall	стена	wall	сьцяна/сьцяны/сьцяне		a wall; Starnik сцяна, hunspell inserts ь	https://starnik.by/pravapis/73984
 lemma.discharge	разряд	discharge	разрад/разрады/разраду		electrical discharge, sense 2; not the stunner charge зарад	https://starnik.by/pravapis/63503
@@ -2300,7 +2300,7 @@ lemma.unrecognizability	неузнаваемость	unrecognizability	непа�
 lemma.scornfully	презрительно	scornfully	пагардліва		adverb	https://starnik.by/pravapis/228306
 lemma.inhabit	населять	to inhabit	насяляюць		3pl; Starnik насяляць	https://starnik.by/pravapis/191034
 lemma.halonotepad	галоблокнот	holonotepad	галянататнік/галянататніка		G галянататніка	Colonization.qmm
-lemma.holocomputer	галокомпьютер	holocomputer	галякампутар		a desk holocomputer	Colonization.qmm
+lemma.holocomputer	галокомпьютер	holocomputer	галякампутар/галякампутары		a desk holocomputer; N pl галякампутары	Colonization.qmm
 lemma.hyperration	гиперрация	hyperration	гіпэррацыі		coined drive; G	Colonization.qmm
 lemma.bargaplomacy	баргапломатия	bargaplomacy	баргапломатыя		rhyme of дыпляматыя	Colonization.qmm
 lemma.varlex	варлекс	varlex	варлекс		barbarian language name; frozen	Colonization.qmm
@@ -2331,3 +2331,4 @@ lemma.bark	гаркнуть	to bark an order	гаркнуў		past m	https://star
 lemma.flash	вспышка	flash	успышка/успышкі		N pl успышкі	https://starnik.by/pravapis/78914
 lemma.sleep_out	выспаться	to sleep enough	выспацца		to sleep one's fill	https://starnik.by/pravapis/174481
 lemma.emergency	экстренный	emergency	надзвычайны/надзвычайным	экстраны	L m надзвычайным; Starnik adverb надзвычайна	https://starnik.by/pravapis/225897
+lemma.mmm	Ммм	hmm	Ммм		a hesitant hum before changing the order	Colonization.qmm
