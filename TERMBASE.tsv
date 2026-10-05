@@ -1112,6 +1112,7 @@ lemma.shocker	шокер	shocker	шокер/шокерам/шокера	шокэ
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
 lemma.mental	ментал	mental	мэнтал/мэнталаў/мэнталы/Мэнтал		brain-load unit; G pl мэнталаў	Gaidnet.qmm
 lemma.cyberflea	киберблоха	cyberflea	кіберблыха/кіберблыхі	кібэрблыха	spy bug; G кіберблыхі; кібер https://starnik.by/pravapis/35243	https://starnik.by/pravapis/10994
+lemma.cybermind	Киберразум	Cybermind	Кіберрозум/Кіберрозуму		the AI; кібер not кібэр; G Кіберрозуму	https://starnik.by/pravapis/35243
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
 lemma.initializer	инициализация	initialization	ініцыялізацыя/ініцыялізатар/Ініцыялізацыя	сацыялізацыя	boot log; ініцыялізатар https://starnik.by/pravapis/30816	https://starnik.by/pravapis/30817
 lemma.interactive	интерактивный	interactive	інтэрактыўны/інтэрактыўныя/інтэрактыўная	інтраспэктыўныя	models you can handle	https://starnik.by/pravapis/115967
@@ -1944,7 +1945,7 @@ lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма/Др�
 lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng clan; keep the apostrophe	—
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
-lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка		the tool with charges, not a burglar; hunspell splits it; I узломнікам, G узломніка	—
+lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/узломнікаў/ўзломнік/ўзломніка/ўзломнікаў		the tool with charges, not a burglar; hunspell splits it; I узломнікам, G узломніка, G pl узломнікаў; ў after a vowel	—
 lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
 lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
 lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
