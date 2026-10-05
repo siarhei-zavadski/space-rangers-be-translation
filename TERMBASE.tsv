@@ -363,7 +363,7 @@ lemma.safronova	Наталья Сафронова	Natalya Safronova	Наталь
 lemma.zhuker	Жукер и сыновья	Zhuker and Sons	Жукер і сыны		quoted uranium firm	—
 lemma.stepan_jackson	Степан Джексон	Stepan Jackson	Сьцяпан Джэксан		council candidate; keep in <clr>	—
 lemma.obmanushechki	Обманушечки	Punk'd	Абманушачкі		hidden-camera show; host Вэй-Дыс Пеш	—
-lemma.mentoscopy	ментоскопия	mentoscopy	мэнтаскапія		with мэнтаскоп; Quest DefShip/19	—
+lemma.mentoscopy	ментоскопия	mentoscopy	мэнтаскапія/мэнтаскапію/мэнтаскапіі		with мэнтаскоп; A мэнтаскапію, L мэнтаскапіі; Quest DefShip/19, Amnesia	—
 lemma.elvis	Элвис Пресли	Elvis Presley	Элвіс Прэсьлі		keep in <clr>; frozen singer	—
 lemma.oscar	Оскар	Oscar	Оскар		quoted Latin-shape award; already Script lock	—
 lemma.yellow_cross_quest	Желтый крест	Yellow Cross	Жоўты Крыж		International in DefShip/25; same lemma.yellow_cross	—
@@ -638,7 +638,7 @@ lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; �
 lemma.monstrodile_aug	чудище	beast	пачварышча		augmentative of пачвара; Depth monstrodile	—
 lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
-lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
+lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
 lemma.diver	подводник	diver	падводнік		submariner; G падводніка; спэцыяліст-падводнік	hunspell-be-tarask
 lemma.pi00m	P I-00-M	R I-00-M	P I-00-M		keep Latin-Cyrillic hull code; sister P I-00-Ж / P II-00	Depth.qmm
@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай/Лякушаў		peleng clerical rank used before a name; G pl Лякушаў	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай/Лякушаў/лякуш		peleng clerical rank used before a name; G pl Лякушаў	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі/Гравікар		peleng ground craft; Starnik has no entry	Pachvarash.qmm
 lemma.patch	патч	patch	патч/патчам		software patch; I патчам; hunspell maps it to путчам	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -1012,7 +1012,7 @@ lemma.alioth	Алиот	Alioth	Аліот		star name; hunspell splits it	Borzukh
 lemma.rastaban	Растабан	Rastaban	Растабан		star name	Borzukhan.qmm
 lemma.linux_planet	Линукс	Linux	Лінукс		joke planet; hunspell suggests Лінус	Borzukhan.qmm
 lemma.rambo	Джон Рембо	John Rambo	Рэмба		ranger name; hunspell maps to Рэмбрант	Borzukhan.qmm
-lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам/станэраў/станэрамі/станэрная		handheld stun weapon; hunspell maps to сканэр; I станэрамі	Borzukhan.qmm
+lemma.stunner	станнер	stunner	станэр/Станэр/станэра/станэрам/станэраў/станэрамі/станэрная/станэры		handheld stun weapon; hunspell maps to сканэр; I станэрамі; L станэры	Borzukhan.qmm
 lemma.lvpb	ЛВПБ	CRLG	ЛВПБ		sniper rifle code on the Baron2 HUD	STQ_Baron2.qmm
 lemma.boog	буг	boog	буг		cargo unit; hunspell suggestions are unrelated	STQ_Baron2.qmm
 lemma.kinetator	кинетатор	kinetisizer	кінетатар/кінетатара		coined charge device; hunspell maps it to a cinema	STQ_Baron2.qmm
@@ -2030,7 +2030,7 @@ lemma.simsim	Симсим	lock brand	Сымсым		Open-sesame lock; a proper na
 lemma.stretch_von	воооон	stretched there	вооось		the farmer stretches вось	—
 lemma.stretch_how	каааак	stretched how	яяяк		the farmer stretches як	—
 lemma.defeatist	пораженческий	defeatist	паражэнскія		Starnik паражэнскі; the plural is a hunspell gap	https://starnik.by/pravapis/136022
-lemma.handle	рукоять	handle	дзяржальні		Starnik дзяржальня; the plural is a hunspell gap	https://starnik.by/pravapis/22971
+lemma.handle	рукоять	handle	дзяржальні/дзяржальню		Starnik дзяржальня, A дзяржальню; hunspell inserts ь	https://starnik.by/pravapis/22971
 lemma.password_guess	Пассворд	failed password token	Пассворд		frozen joke; the engine does not read the word	TRANSLATION.md
 lemma.autodiag	автодиагностика	transmitter system	Аўтадыягностыка/аўтадыягностыка		starts with А; the lock order names this system	—
 lemma.autotune	автонастройка	transmitter system	Аўтаналадка/аўтаналадка/Аўтаналадкі/аўтаналадкі		starts with А; the book plural is Аўтаналадкі	—
@@ -2188,3 +2188,47 @@ lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		
 lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
 lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
 lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
+lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні		a hospital; hunspell lacks the word	https://starnik.by/pravapis/40441
+lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloquial mental hospital; hunspell lacks it	https://starnik.by/pravapis/61474
+lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
+lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
+lemma.paatron	Паатрон	Paatron	Паатрон/Паатрона/Паатронам		the drug baron; the name is a patron pun	Amnesia.qmm
+lemma.tyapsha	Тяпша Ляпц	Tyapsha Lyapts	Тяпша/Тяпшам/Тяпшы/Ляпц/Ляпцам/Ляпца		the hospital doctor; G Тяпшы Ляпца	Amnesia.qmm
+lemma.pulyay	Пуляй Косорукий	Pulyay the Clumsy	Пуляй/Пуляя/Пуляяў/Касарукі/касарукі/касарукія		arms dealer; the nickname is касарукі	Amnesia.qmm
+lemma.gaal_god	Гаал	Gaal	Гаал/Гаала		the gaal deity named in the password Дзеці Гаала	Amnesia.qmm
+lemma.pachryamba	пачрямба	pachryamba	пачрямба		peleng password token, not a dictionary word	Amnesia.qmm
+lemma.thrushfly	дроздофилл	thrush-fly	драздафілаў		joke insect, a thrush crossed with a fruit fly	Amnesia.qmm
+lemma.swampgoods	болотопродукты	swamp goods	балотапрадукты		joke grocery label	Amnesia.qmm
+lemma.radio	рация	radio	рацыя/рацыі/рацыю		portable radio, sense 1, not the "reason" sense	https://starnik.by/pravapis/64614
+lemma.scope	прицел	sight	прыцэл/прыцэла/прыцэлам		firearm sight, genitive -а, not the action (-у)	https://starnik.by/pravapis/60982
+lemma.silencer	глушитель	silencer	глушыцель/глушыцеля/глушыцелем		a device that muffles a shot, sense 1	https://starnik.by/pravapis/20094
+lemma.rifle	винтовка	rifle	вінтоўка/вінтоўкі/вінтоўку/вінтоўкай		a rifled long gun	https://starnik.by/pravapis/14724
+lemma.vodka	водка	vodka	гарэлка/гарэлкі/гарэлку	водка	a strong spirit	https://starnik.by/pravapis/18382
+lemma.bottle	бутылка	bottle	бутэлька/бутэлькі/бутэльку		a glass bottle	https://starnik.by/pravapis/12209
+lemma.magazine	магазин	magazine	магазын/магазына/магазыне		firearm magazine, Starnik sense 2; hunspell spelling. Shop lines already say магазін	https://starnik.by/pravapis/40580
+lemma.round	патрон	cartridge	патрон/патрона/патроны/патронаў		a rifle round, sense 1, not a patron	https://starnik.by/pravapis/53906
+lemma.charge	заряд	charge	зарад/зараду		electrical charge of a stunner, sense 3	https://starnik.by/pravapis/27607
+lemma.gun	ружье	gun	ружжо/ружжа		a smoothbore gun; the quest slot is already Ружжо	https://starnik.by/pravapis/64981
+lemma.reinforcement	подкрепление	reinforcement	падмацаваньне/падмацаваньня	падмацаванне	troops sent to help, sense 3; hunspell inserts ь	https://starnik.by/pravapis/50768
+lemma.wounded	раненый	wounded	паранены/параненая/параненыя		someone who has a wound	https://starnik.by/pravapis/53045
+lemma.carefree	безмятежный	carefree	бестурботны/бестурботныя	безтурботны	untroubled; hunspell rejects безтурботны	https://starnik.by/pravapis/99322
+lemma.drug_baron	наркобарон	drug baron	наркобарон/Наркобарон/наркобарона/Наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
+lemma.entry	вход	entrance	уваход/увахода/ўвахода		the place one enters, sense 2; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/77595
+lemma.command	командный	command	камандны/камандным		of command; a command post	https://starnik.by/pravapis/116899
+lemma.map	карта	map	мапа/мапу/мапе		a map of a place	https://starnik.by/pravapis/41694
+lemma.trap	капкан	spring trap	капкан/капкана		a hunting trap of two jaws and a spring	https://starnik.by/pravapis/33546
+lemma.layout	планировка	layout	пляніроўка/пляніроўку		how the parts of a building sit; Starnik планіроўка	https://starnik.by/pravapis/57071
+lemma.backroom	подсобка	back room	падсобка/падсобку		a side room off a shop	https://starnik.by/pravapis/51134
+lemma.canteen	столовая	canteen	сталовая		a room where people eat	https://starnik.by/pravapis/71821
+lemma.khryakoplyukh	хрякоплюх	squeal-splash	хрыкаплюх/хрыкаплюхаў		coined livestock in the bunker riddle	Amnesia.qmm
+lemma.dlubagryz	долбогрыз	peck-gnaw	длубагрыз/длубагрызы/длубагрызаў		coined predator in the bunker riddle	Amnesia.qmm
+lemma.bukheryk	Бух'ерик	Bukheryk	Бух'ерык		peleng farmer in the code riddle	Amnesia.qmm
+lemma.green_peace	Грин Пиис	Green Peace	Грын/Пііс		joke gaal factory name	Amnesia.qmm
+lemma.gravimobile	гравимобиль	gravimobile	гравімабіль/гравімабіля/гравімабілі		coined vehicle	Amnesia.qmm
+lemma.graviton	гравитонный	graviton	гравітонны/гравітонным		of a graviton; the knife that cuts metal	Amnesia.qmm
+lemma.address	адрес	address	адрас/адраса		a place's address, genitive -а; hunspell only offers -у	https://starnik.by/pravapis/2722
+lemma.cold_blood	хладнокровие	cold blood	халаднакроўе/халаднакроўем		composure; instrumental халаднакроўем is a hunspell gap	https://starnik.by/pravapis/81367
+lemma.whose_some	чей-то	someone's	чыесьці		plural nominative of чыйсьці; hunspell lists only the feminine	https://starnik.by/pravapis/234043
+lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнтаграме		a mentoscopy record; L мэнтаграме	Amnesia.qmm
+lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/наркокур'еры		a courier of drugs; hunspell lacks the compound	Amnesia.qmm
+lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
