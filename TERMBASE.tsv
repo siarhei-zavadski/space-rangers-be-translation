@@ -230,7 +230,7 @@ lemma.muscle	мышца	muscle	мышца		G мышцы, pl мышцы	https://s
 lemma.achievement	достижение	achievement	дасягненьне		already FormMain GI. G дасягненьня, pl дасягненьні	https://starnik.by/pravapis/22223
 lemma.archaeologist	археолог	archaeologist	археоляг		Starnik археолаг; tarask ля	https://starnik.by/pravapis/6186
 lemma.champion	чемпион	champion	чэмпіён		G чэмпіёна	https://starnik.by/pravapis/84504
-lemma.veteran	ветеран	veteran	ветэран		Starnik 1=old warrior	https://starnik.by/pravapis/14157
+lemma.veteran	ветеран	veteran	ветэран/ветэрана		Starnik 1=old warrior; G ветэрана; hunspell wants вэтэран	https://starnik.by/pravapis/14157
 lemma.pacifist	пацифист	pacifist	пацыфіст		L пацыфісце	https://starnik.by/pravapis/54480
 lemma.peacemaker	миротворец	peacemaker	міратворац		G міратворца	https://starnik.by/pravapis/43899
 lemma.leader	вождь	leader	правадыр		G правадыра	https://starnik.by/pravapis/58197
@@ -2147,7 +2147,7 @@ lemma.oaf	остолоп	oaf	асталоп/асталопа/асталопаў	
 lemma.binary	двоичный	binary code	двайковы/двайковага/двайковым/двайковых		base-two numeral; the lock shows a binary code	https://starnik.by/pravapis/108480
 lemma.gallows	виселица	gallows	шыбеніца/шыбеніцы/шыбеніцу		the hanging structure	https://starnik.by/pravapis/86162
 lemma.crutch	костыль	crutch	мыліца/мыліцу/мыліцы/мыліцах		an arm crutch, not the stick кульба	https://starnik.by/pravapis/44809
-lemma.extortion	вымогательство	extortion	вымагальніцтва		forcing money by a threat	https://starnik.by/pravapis/16082
+lemma.extortion	вымогательство	extortion	вымагальніцтва/вымагальніцтве		forcing money by a threat; L вымагальніцтве	https://starnik.by/pravapis/16082
 lemma.blackmail	шантаж	blackmail	шантаж/шантажаваць		a threat to reveal something	https://starnik.by/pravapis/84732
 lemma.henchman	прихвостень	henchman	клеўрэт/клеўрэты/клеўрэта/клеўрэтаў		a boss's creature; прихвостень is not a Starnik headword	https://starnik.by/pravapis/35936
 lemma.enclosure	ограда	enclosure	агароджа/агароджы/агароджу/агароджай		a fence around a mansion; the yard fence забор stays плот	https://starnik.by/pravapis/1549
@@ -2405,7 +2405,7 @@ lemma.beer	пиво	beer	піва		G піва	https://starnik.by/pravapis/56497
 lemma.pie	пирог	pie	пірог/пірага		G пірага	https://starnik.by/pravapis/56762
 lemma.pudding	пудинг	pudding	пудынг		a baked dessert	https://starnik.by/pravapis/61580
 lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь; hunspell wants the soft sign	https://starnik.by/pravapis/70264
-lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона		star system; G Кефрона	Proprolog.qmm
+lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона/кефронскай		star system; G Кефрона; adj G f кефронскай, the lime	Proprolog.qmm
 lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота		coined ground craft on Полуось; G гравімота	Proprolog.qmm
 lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца/АСЭБаўцы/АСЭБаўцаў		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў; N pl АСЭБаўцы, G pl АСЭБаўцаў	Proprolog.qmm
 lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
@@ -2448,3 +2448,22 @@ lemma.forest_edge	опушка	forest edge	ўзьлесак/ўзьлеску		St
 lemma.wire	провод	wire	дрот/дратамі		a metal wire; I pl дратамі	https://starnik.by/pravapis/23484
 lemma.recruit	вербовать	recruit	вэрбаваць		Starnik вербаваць, to hire people; hunspell вэрбаваць	https://starnik.by/pravapis/172244
 lemma.hall	зала	hall	залю/залі		a large room; Starnik A залу G залы, hunspell залю/залі	https://starnik.by/pravapis/27004
+lemma.lime	известь	lime	вапна/вапны		the Kefron medicine; G вапны	https://starnik.by/pravapis/13340
+lemma.destroyer	эсминец	destroyer	эсьмінец/эсьмінца	эсмінец	Starnik эсмінец; hunspell inserts ь; G эсьмінца	https://starnik.by/pravapis/87784
+lemma.armed_robbery	разбой	armed robbery	разбой/разбоі		attack to rob, distinct from рабунак; L разбоі	https://starnik.by/pravapis/62959
+lemma.field_hospital	госпиталь	military hospital	шпіталь/шпіталі		a military hospital, not лякарня; L шпіталі	https://starnik.by/pravapis/85615
+lemma.amnesty	амнистия	amnesty	амністыя/амністыю		a pardon; A амністыю	https://starnik.by/pravapis/4441
+lemma.necktie	галстук	necktie	гальштук/гальштуку		L гальштуку	https://starnik.by/pravapis/17810
+lemma.sushi	суши	sushi	сушы		the dish served with sake; indeclinable	https://starnik.by/pravapis/73759
+lemma.sake	сакэ	sake	сакэ		Japanese rice wine; hunspell accepts the loan	Proprolog.qmm
+lemma.terrorism	терроризм	terrorism	тэрарызм/тэрарызьме		Starnik L тэрарызме; hunspell L тэрарызьме	https://starnik.by/pravapis/77233
+lemma.dossier	досье	dossier	дасье		a file of papers; indeclinable	https://starnik.by/pravapis/22218
+lemma.antiterror	антитеррористический	antiterrorist	антытэрарыстычную		A f; hunspell lacks the adjective	https://starnik.by/pravapis/95949
+lemma.helfer	Хелфер	Helfer	Хелфер		the Venus hospital	Proprolog.qmm
+lemma.hmm	хмм	hmm	Хмм		Raphael's hum, kept from the source	Proprolog.qmm
+lemma.konnichi	коннити	konnichi	Конніці		the greeting Конніці-ва; hunspell splits the hyphen	Proprolog.qmm
+lemma.rabble	шваль	rabble	зброд/зброду		dangerous riffraff; G зброду	https://starnik.by/pravapis/28357
+lemma.incorrigible	отъявленный	hardened	адпеты/адпетым		incorrigible; D pl адпетым	https://starnik.by/pravapis/235136
+lemma.house_brand	фирменный	house specialty	фірмавы/фірмавым		Starnik фірмавы is фірменны; I фірмавым	https://starnik.by/pravapis/158456
+lemma.vasilievich	Васильевич	Vasilievich	Васільевіч/Васільевіча/Васільевічам/Анатоль/Анатолем		the barman's patronymic; G Васільевіча, I Васільевічам; Anatoly is Анатоль	Proprolog.qmm
+lemma.police_ships	Петр Первый / Николай Второй / Александр Третий / Иван Четвертый	tsar destroyers	Пётар Першы/Мікалай Другі/Аляксандар Трэці/Іван Чацьвёрты		four distinct hulls; this corpus spells Петр as Пётар, Starnik nominative is Пятро	https://starnik.by/pravapis/90541
