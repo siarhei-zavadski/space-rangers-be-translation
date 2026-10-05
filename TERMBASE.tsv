@@ -1116,7 +1116,7 @@ lemma.cybermind	Киберразум	Cybermind	Кіберрозум/Кіберр
 lemma.cyberspace	киберпространство	cyberspace	кіберпрастора/кіберпрасторы/кіберпрастору/кіберпрасторавай/кіберпрасторавая/кіберпрасторавымі		compound of кібер + прастора; hunspell misses it	https://starnik.by/pravapis/35243
 lemma.steve	Стив	Steve	Стыў/Стыва		the guard in the desert; hunspell misses the name	—
 lemma.umbrotek	Умбротек	Umbrotek	Умбротэк/Умбротэка/Умбротэку		the corporation; tarask э	—
-lemma.simons	Симонс	Simons	Сімонс/Сімонса/Сімонсам		the employer; hunspell misses the name	—
+lemma.simons	Симонс	Simons	Сімонс/Сімонса/Сімонсам/Сімонсу		the employer; D Сімонсу; hunspell misses the name	—
 lemma.point_joke	Тшеймс Пойнт	the Bond-shaped joke	Тшэймс/Пойнт		Simons says Point... James Point	—
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
 lemma.initializer	инициализация	initialization	ініцыялізацыя/ініцыялізатар/Ініцыялізацыя	сацыялізацыя	boot log; ініцыялізатар https://starnik.by/pravapis/30816	https://starnik.by/pravapis/30817
@@ -1950,8 +1950,8 @@ lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма/Др�
 lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng clan; keep the apostrophe	—
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
-lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/узломнікаў/ўзломнік/ўзломніка/ўзломнікаў/ўзломнікі		the tool with charges, not a burglar; hunspell splits it; I узломнікам, G узломніка, G pl узломнікаў, N pl ўзломнікі; ў after a vowel	—
-lemma.blocker	блокиратор	blocker program	блакіратар/блакіратара/блакіратараў/блакіратары		program class that blocks a hack; N pl блакіратары, G блакіратара, G pl блакіратараў; hunspell misses the word	https://starnik.by/pravapis/10790
+lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/узломнікаў/ўзломнік/ўзломніка/ўзломнікаў/ўзломнікі/ўзломнікамі		the tool with charges, not a burglar; hunspell splits it; I узломнікам, I pl ўзломнікамі, G узломніка, G pl узломнікаў, N pl ўзломнікі; ў after a vowel	—
+lemma.blocker	блокиратор	blocker program	блакіратар/блакіратара/блакіратараў/блакіратары/блакіратарамі		program class that blocks a hack; N pl блакіратары, G блакіратара, G pl блакіратараў, I pl блакіратарамі; hunspell misses the word	https://starnik.by/pravapis/10790
 lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
 lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
 lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
