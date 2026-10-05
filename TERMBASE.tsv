@@ -2468,3 +2468,5 @@ lemma.house_brand	фирменный	house specialty	фірмавы/фірмав
 lemma.vasilievich	Васильевич	Vasilievich	Васільевіч/Васільевіча/Васільевічам/Анатоль/Анатолем		the barman's patronymic; G Васільевіча, I Васільевічам; Anatoly is Анатоль	Proprolog.qmm
 lemma.police_ships	Петр Первый / Николай Второй / Александр Третий / Иван Четвертый	tsar destroyers	Пётар Першы/Мікалай Другі/Аляксандар Трэці/Іван Чацьвёрты		four distinct hulls; this corpus spells Петр as Пётар, Starnik nominative is Пятро	https://starnik.by/pravapis/90541
 lemma.scrap_metal	металлолом	scrap metal	мэталалом/мэталалому		Starnik металалом, G металалому; hunspell мэталалом	https://starnik.by/pravapis/42997
+lemma.demining	разминирование	mine clearing	размініраваньне/размініраваць		clear a mine; Starnik размініраваць, hunspell lacks it	https://starnik.by/pravapis/209772
+lemma.sapper	сапер	sapper	сапэр/сапэраў		Starnik сапёр; hunspell drops ё; G pl сапэраў	https://starnik.by/pravapis/67602
