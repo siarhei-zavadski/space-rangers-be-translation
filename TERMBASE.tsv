@@ -2433,7 +2433,7 @@ lemma.manager	менеджер	manager	мэнэджар/мэнэджара		shop
 lemma.lieutenant	лейтенант	lieutenant	лейтэнант/лейтэнанта	ляйтэнант	Starnik лейтэнант with ей, not ляйтэнант	https://starnik.by/pravapis/39027
 lemma.anabiosis	анабиоз	suspended animation	анабіёз/анабіёзу		the cryo-chamber; G анабіёзу	https://starnik.by/pravapis/4534
 lemma.hairpin	шпилька	hairpin	шпілька/шпільку/Срэбная		the Silver Hairpin order	https://starnik.by/pravapis/85605
-lemma.katar	Катар	Katar	Катар/Катара/Катарам		the OSEB fighter on Half-axis; G Катара, I Катарам	Proprolog.qmm
+lemma.katar	Катар	Katar	Катар/Катара/Катарам/Катару		the OSEB fighter on Half-axis; G Катара, D Катару, I Катарам	Proprolog.qmm
 lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
 lemma.spark	Спарк	Spark	Спарк		regional head of OSEB on Half-axis	Proprolog.qmm
 lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
@@ -2467,3 +2467,4 @@ lemma.incorrigible	отъявленный	hardened	адпеты/адпетым		
 lemma.house_brand	фирменный	house specialty	фірмавы/фірмавым		Starnik фірмавы is фірменны; I фірмавым	https://starnik.by/pravapis/158456
 lemma.vasilievich	Васильевич	Vasilievich	Васільевіч/Васільевіча/Васільевічам/Анатоль/Анатолем		the barman's patronymic; G Васільевіча, I Васільевічам; Anatoly is Анатоль	Proprolog.qmm
 lemma.police_ships	Петр Первый / Николай Второй / Александр Третий / Иван Четвертый	tsar destroyers	Пётар Першы/Мікалай Другі/Аляксандар Трэці/Іван Чацьвёрты		four distinct hulls; this corpus spells Петр as Пётар, Starnik nominative is Пятро	https://starnik.by/pravapis/90541
+lemma.scrap_metal	металлолом	scrap metal	мэталалом/мэталалому		Starnik металалом, G металалому; hunspell мэталалом	https://starnik.by/pravapis/42997
