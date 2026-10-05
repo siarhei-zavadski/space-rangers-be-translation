@@ -1950,8 +1950,8 @@ lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма/Др�
 lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng clan; keep the apostrophe	—
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
-lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/узломнікаў/ўзломнік/ўзломніка/ўзломнікаў/ўзломнікі/ўзломнікамі		the tool with charges, not a burglar; hunspell splits it; I узломнікам, I pl ўзломнікамі, G узломніка, G pl узломнікаў, N pl ўзломнікі; ў after a vowel	—
-lemma.blocker	блокиратор	blocker program	блакіратар/блакіратара/блакіратараў/блакіратары/блакіратарамі		program class that blocks a hack; N pl блакіратары, G блакіратара, G pl блакіратараў, I pl блакіратарамі; hunspell misses the word	https://starnik.by/pravapis/10790
+lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/узломнікаў/ўзломнік/ўзломніка/ўзломнікаў/ўзломнікі/ўзломнікамі/ўзломнікам		the tool with charges, not a burglar; hunspell splits it; I узломнікам, I pl ўзломнікамі, D pl ўзломнікам, G узломніка, G pl узломнікаў, N pl ўзломнікі; ў after a vowel	—
+lemma.blocker	блокиратор	blocker program	блакіратар/блакіратара/блакіратараў/блакіратары/блакіратарамі/блакіратарам		program class that blocks a hack; N pl блакіратары, G блакіратара, G pl блакіратараў, I pl блакіратарамі, D pl блакіратарам; hunspell misses the word	https://starnik.by/pravapis/10790
 lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
 lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
 lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
@@ -2485,3 +2485,8 @@ lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's
 lemma.rowdy	буйный	rowdy	буйны		unruly, sense 1, not the size sense	https://starnik.by/pravapis/100280
 lemma.cloudy	мутный	cloudy	мутны/мутным		cloudy gaze; I мутным	https://starnik.by/pravapis/125228
 lemma.mite	лепта	mite	лепта/лепту		a small contribution; A лепту	https://starnik.by/pravapis/39161
+lemma.grain_bin	закрома	grain bin	засек/засека/засекі/засекаў/засеках	закром	a store bin, not a hiding place; N pl засекі, L pl засеках	https://starnik.by/pravapis/27722
+lemma.loop_on	зацикливаясь	looping on	зацыкліваць/зацыкліваючы		to fix attention on; present adverbial зацыкліваючы; hunspell lacks it	https://starnik.by/pravapis/182924
+lemma.capitulate	капитулировать	capitulate	капітуляваць		to give up; infinitive	https://starnik.by/pravapis/186207
+lemma.tester	тестер	tester	тэстэр/тэстэра	тэстар	a software tester; G тэстэра	https://starnik.by/pravapis/77414
+lemma.security_gap	брешей	security gap	шчыліна/шчыліны/шчылін		a gap in a defense; G pl шчылін	https://starnik.by/pravapis/86101
