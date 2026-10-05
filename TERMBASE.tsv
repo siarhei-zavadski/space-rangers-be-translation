@@ -101,7 +101,7 @@ lemma.defend	защищать	defend	бараніць		Starnik: ён барон�
 lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia tantum; добрыя паводзіны, родны паводзін	—
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
-lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт	—
+lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/Пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт; table label Пілотаў	—
 lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
@@ -2334,3 +2334,45 @@ lemma.emergency	экстренный	emergency	надзвычайны/надзв
 lemma.mmm	Ммм	hmm	Ммм		a hesitant hum before changing the order	Colonization.qmm
 lemma.holocamera	галокамера	holocamera	галякамэра/галякамэрамі/галякамэр		coined news camera; I pl галякамэрамі; G pl галякамэр	Colonization.qmm
 lemma.stereomic	стереомикрофон	stereo microphone	стэрэамікрафон/стэрэамікрафонамі		I pl стэрэамікрафонамі; hunspell splits the compound	Colonization.qmm
+lemma.mechanic	механик	mechanic	мэханік/мэханіка/Мэханікі/мэханікаў	механік	a ship's or draft-office mechanic; hunspell мэ-; N pl Мэханікі	https://starnik.by/pravapis/43214
+lemma.signalman	связист	signalman	сувязіст/сувязісты/сувязістаў		a communications rating; N pl сувязісты	https://starnik.by/pravapis/72916
+lemma.navigator	штурман	navigator	штурман/штурмана/Штурманы/штурманаў		G штурмана; N pl Штурманы	https://starnik.by/pravapis/85825
+lemma.gunner	бортстрелок	crew gunner	бортстралок/бортстралка/бортстралкі		a ship's gunner; N pl бортстралкі	https://starnik.by/pravapis/11220
+lemma.conscript	призывник	conscript	прызыўнік/прызыўніка/прызыўнікоў/прызыўнікам		G pl прызыўнікоў; D pl прызыўнікам	https://starnik.by/pravapis/60253
+lemma.draft_office	военкомат	draft office	ваенкамат/ваенкамата/ваенкаматаў/ваенкаматах		a military commissariat; G pl ваенкаматаў; L pl ваенкаматах; Starnik ваенкамат	https://starnik.by/pravapis/12911
+lemma.general	генерал	general	генэрал/генэрала/генэралу	генерал	D генэралу; hunspell э; Starnik генерал	https://starnik.by/pravapis/18929
+lemma.private_rank	рядовой	private	радавы/радавога/Радавы/Радавому		the rank, and the joke surname of General Private; D Радавому	https://starnik.by/pravapis/144462
+lemma.plan	выполнить план	quota	плян/пляну		a recruitment quota; hunspell плян; the phrase keeps the matcher off планета	https://starnik.by/pravapis/57039
+lemma.vacuum_adj	вакуумный	vacuum	вакуўмны/вакуўмным		a vacuum window; hunspell ў; the Russian line misspells вакумном	https://starnik.by/pravapis/101301
+lemma.committee	комитет	committee	камітэт/камітэта/Камітэта/Камітэту		G камітэта; hunspell lacks the -а genitive	https://starnik.by/pravapis/32561
+lemma.activist	активист	activist	актывіст/актывістка/актывістак		G pl f актывістак	https://starnik.by/pravapis/3681
+lemma.shame	позор	disgrace	ганьба/ганьбу		public disgrace	https://starnik.by/pravapis/18028
+lemma.crash	треск	with a crash	трэск/трэскам	трыск	I трэскам; a crack, and a spectacular failure	https://starnik.by/pravapis/76312
+lemma.soldier	солдат	soldier	салдат/салдацкіх		adj G pl салдацкіх	https://starnik.by/pravapis/66698
+lemma.stat_abbr	Стат_	stat prefix	Стат		the statistics-counter prefix on a parameter name	Rvk.qmm
+lemma.organism	организм	organism	арганізм/арганізма/арганізмам		G арганізма; hunspell wants -у; Starnik -а	https://starnik.by/pravapis/5866
+lemma.tranquilizer	транквилизатор	tranquilizer	транквілізатар/транквілізатару/Транквілізатар		a calming drug; G транквілізатару	https://starnik.by/pravapis/75486
+lemma.summons	повестка	draft notice	павестка/павесткі/павестак/Павесткі		a call-up paper; G pl павестак	https://starnik.by/pravapis/49860
+lemma.rights_defender	правозащитник	rights defender	праваабаронца/праваабаронцы/праваабаронцаў		G pl праваабаронцаў	https://starnik.by/pravapis/58178
+lemma.ksm	КСМ	CSM	КСМ		Committee of Soldiers' Mothers; initials match Камітэт салдацкіх маці	Rvk.qmm
+lemma.burzhuy	Буржуин	Bourgeois	Буржуін		a draft dodger's father; the joke surname	Rvk.qmm
+lemma.gates	Гейтс	Gates	Гейтс/Біл		Bill Gates the Eighteenth, a draft dodger's father	Rvk.qmm
+lemma.msword	Ворд	Word	Ворд		the joke conscript М.С.Ворд	Rvk.qmm
+lemma.visiophone	визиофон	visiophone	візіяфон/візіяфоны/візіяфоне/візіяфона		a video phone in the draft office; G візіяфона	Rvk.qmm
+lemma.day24	сутки	24 hours	суткі/сутак		a full day and night; G сутак	https://starnik.by/pravapis/73616
+lemma.informer	осведомитель	informer	інфарматар/інфарматарамі/інфарматараў	асьветнік	a paid informant; I pl інфарматарамі	https://starnik.by/pravapis/31203
+lemma.bribe	взятка	bribe	хабар/хабару/хабараў	взятка	G хабару; G pl хабараў	https://starnik.by/pravapis/81283
+lemma.wage	зарплата	wage	заробак/заробку		G заробку; new lines use заробак. Older rows still say зарплата	https://starnik.by/pravapis/27655
+lemma.coffee	кофе	coffee	кава/каву		A каву	https://starnik.by/pravapis/31613
+lemma.tea	чай	tea	гарбата		Starnik marks гарбата obsolete and glosses чай; tarask keeps the word	https://starnik.by/pravapis/18114
+lemma.slogan	лозунг	slogan	лёзунг/лёзунгі	лозунг	hunspell ё; Starnik лозунг; N pl лёзунгі	https://starnik.by/pravapis/39955
+lemma.infantry	пехота	infantry	пяхота		foot soldiers in the parade	https://starnik.by/pravapis/62176
+lemma.attention	смирно	attention	сьмірна	смірна	the drill command; Starnik смірна; hunspell сьмірна	https://starnik.by/pravapis/70531
+lemma.lezginka	лезгинка	lezginka	лезгінка/лезгінку	лязгінка	the dance; hunspell е, not лязгінка	https://starnik.by/pravapis/38991
+lemma.government	правительство	government	урад/урада		G урада; hunspell wants ураду	https://starnik.by/pravapis/78646
+lemma.state	держава	the realm	дзяржава/Дзяржаву		A Дзяржаву; the film line about the realm	https://starnik.by/pravapis/22961
+lemma.scientist	ученый	scientist	навуковец/навукоўцаў		G pl навукоўцаў	https://starnik.by/pravapis/45287
+lemma.risk	риск	risk	рызыка		the chance of being caught	https://starnik.by/pravapis/65302
+lemma.rehearse	тренироваться	to rehearse	трэнаваліся	трэніраваліся	past pl; Starnik трэніраваліся; hunspell трэнаваліся	https://starnik.by/pravapis/215642
+lemma.nz	НЗ	emergency stash	НЗ		quoted print-shop reserve; недатыкальны запас	Rvk.qmm
+lemma.nescafe	Нескафе	Nescafe	Нескафэ		joke classical song the agitator is told to sing	Rvk.qmm

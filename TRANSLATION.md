@@ -143,7 +143,7 @@ one file at a time, until its `--batch` prints nothing:
 
 1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia` (filled), `Drugs` (filled).
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
-   on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk`, `Proprolog`, `Kiberrazum`.
+   on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog`, `Kiberrazum`.
 3. Puzzle files, smallest first: `Elus`, `Edelweiss`, `Doomino`, `Bomber`,
    `Xenolog`, `Evidence`, `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
