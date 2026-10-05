@@ -2420,7 +2420,7 @@ lemma.furrow	бороздить	plough a wake	барозьняць/барозь�
 lemma.eel_base	Угорь	Eel	Вугор		military base; same width as Угорь	Proprolog.qmm
 lemma.half_axis	Полуось	Half-axis	Паўвось/Паўвосі		planet; locative Паўвосі; same width as Полуось	Proprolog.qmm
 lemma.novice	новичок	novice	навічок/Навічок		Starnik навічок, a person new to the work; the ranger rank	https://starnik.by/pravapis/45262
-lemma.twodee	двадевизор	2D visor	двадэвізары		the bar's flat screen; coined from два and візар	Proprolog.qmm
+lemma.twodee	двадевизор	2D visor	двадэвізары/двадэвізара		the bar's flat screen; coined from два and візар; G двадэвізара	Proprolog.qmm
 lemma.vesta	Вестала	Vesta	Вэстала		star on the Kefron route map; same width as Вестала	Proprolog.qmm
 lemma.ruktuk	Руктук	Ruktuk	Руктук		captain of the ship Верабей	Proprolog.qmm
 lemma.jump_points	ТГПС / ТГПБ	jump-point codes	ТГПС/ТГПБ		map codes for the Sun and Betelgeuse hyperjump points	Proprolog.qmm
@@ -2470,3 +2470,4 @@ lemma.police_ships	Петр Первый / Николай Второй / Але�
 lemma.scrap_metal	металлолом	scrap metal	мэталалом/мэталалому		Starnik металалом, G металалому; hunspell мэталалом	https://starnik.by/pravapis/42997
 lemma.demining	разминирование	mine clearing	размініраваньне/размініраваць		clear a mine; Starnik размініраваць, hunspell lacks it	https://starnik.by/pravapis/209772
 lemma.sapper	сапер	sapper	сапэр/сапэраў		Starnik сапёр; hunspell drops ё; G pl сапэраў	https://starnik.by/pravapis/67602
+lemma.mavrikus	Маврикус	Mavrikus	Маўрыкус/Маўрыкуса		the agent named in the bar gossip; G Маўрыкуса	Proprolog.qmm
