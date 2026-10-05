@@ -274,7 +274,7 @@ lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; alread
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба/кваркавай		pirate plot weapon; hunspell leftover adj	—
 lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/Пачвараш/пачварашамі/пачварашу		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
-lemma.subether	субэфир	subether	субэфір/субэфірнай/субэфірны		game broadcast medium; adj субэфірны	—
+lemma.subether	субэфир	subether	субэфір/субэфірнай/субэфірны/субэфірнага		game broadcast medium; adj субэфірны; G n/m субэфірнага	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
 lemma.coopola	Коопола	Coopola	Коопола		PC_pla15 screenwriter parody; keep spelling	—
 lemma.malu_bay	Малу Бэй	Malu Bay	Малу Бэй		PC_pla15 director parody; G Малу Бэя	—
@@ -2395,7 +2395,7 @@ lemma.mineral	минерал	mineral	мінэрал/мінэралы		hunspell �
 lemma.spirits	спиртное	liquor	сьпіртное/сьпіртнога		cargo liquor; G сьпіртнога	https://starnik.by/pravapis/71436
 lemma.five_finger	пятипалый	five-fingered	пяціпальцы	пяціпалы	has five fingers; hunspell rejects пяціпалы	https://starnik.by/pravapis/144312
 lemma.four_finger	четырехпалый	four-fingered	чатырохпальцы	чатырохпалы	with four fingers; hunspell rejects чатырохпалы	https://starnik.by/pravapis/161125
-lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/вэнэрыянскія/Вэнэрыянскі/вэнэрыянскіх/вэнэрыянскім		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; N pl вэнэрыянскія; G pl вэнэрыянскіх, L вэнэрыянскім	https://starnik.by/pravapis/101927
+lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/вэнэрыянскія/Вэнэрыянскі/Вэнэрыянскае/вэнэрыянскіх/вэнэрыянскім		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; N pl вэнэрыянскія; N n caps Вэнэрыянскае; G pl вэнэрыянскіх, L вэнэрыянскім	https://starnik.by/pravapis/101927
 lemma.athanasius	Афанасий	Athanasius	Афанасій/Афанасія		the dying ranger; G Афанасія	https://starnik.by/pravapis/88682
 lemma.raphael	Рафаэль	Raphael	Рафаэль/Рафаэлю/Рафаэля		director of the ranger center; D Рафаэлю	https://starnik.by/pravapis/90593
 lemma.hannibal	Ганнибал	Hannibal	Ганібал/Ганібала		the cruiser in quotes; G Ганібала	https://starnik.by/pravapis/105186
@@ -2475,3 +2475,6 @@ lemma.pshlberg	Пшльберг	Pshlberg	Пшльбэрг/Пшльбэрга		do
 lemma.hastalavista	асталависта	hasta la vista	Асталавіста		the shout before the laser; kept from the source	Proprolog.qmm
 lemma.millivolt	мВ	millivolt	мВ		the signal-puzzle unit; the abbreviation stays	Proprolog.qmm
 lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's story	Proprolog.qmm
+lemma.rowdy	буйный	rowdy	буйны		unruly, sense 1, not the size sense	https://starnik.by/pravapis/100280
+lemma.cloudy	мутный	cloudy	мутны/мутным		cloudy gaze; I мутным	https://starnik.by/pravapis/125228
+lemma.mite	лепта	mite	лепта/лепту		a small contribution; A лепту	https://starnik.by/pravapis/39161

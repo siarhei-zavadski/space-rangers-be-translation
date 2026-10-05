@@ -93,7 +93,7 @@
 "/quests/Domoclan.qmm/parameters/18/name"	"Разговор с Курагиным"	"Quest Domoclan.qmm: parameters.18.name. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/18/lines/0/content"	"Не говорили"	"Quest Domoclan.qmm: parameters.18.lines.0.content. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/18/lines/1/content"	"Плохо"	"Quest Domoclan.qmm: parameters.18.lines.1.content. Preserve every <tag> exactly."	"Quest,Domoclan"	"Кепска"
-"/quests/Domoclan.qmm/parameters/18/lines/2/content"	"Хорошо"	"Quest Domoclan.qmm: parameters.18.lines.2.content. Preserve every <tag> exactly."	"Quest,Domoclan"	""
+"/quests/Domoclan.qmm/parameters/18/lines/2/content"	"Хорошо"	"Quest Domoclan.qmm: parameters.18.lines.2.content. Preserve every <tag> exactly."	"Quest,Domoclan"	"Добра"
 "/quests/Domoclan.qmm/parameters/18/crit_text"	"Сообщение достижения критического значения параметром 19"	"Quest Domoclan.qmm: parameters.18.crit_text. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/19/name"	"Ваше поле (темп)"	"Quest Domoclan.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/19/lines/0/content"	"Не смотрели"	"Quest Domoclan.qmm: parameters.19.lines.0.content. Preserve every <tag> exactly."	"Quest,Domoclan"	""
