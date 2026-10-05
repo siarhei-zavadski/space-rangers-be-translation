@@ -130,7 +130,7 @@
 "/quests/Losthero.qmm/parameters/19/name"	"Код"	"Quest Losthero.qmm: parameters.19.name. Preserve every <tag> exactly."	"Quest,Losthero"	"Код"
 "/quests/Losthero.qmm/parameters/19/lines/1/content"	"Вы знаете код к двери пилотского отсека"	"Quest Losthero.qmm: parameters.19.lines.1.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/19/crit_text"	"Сообщение достижения критического значения параметром 20"	"Quest Losthero.qmm: parameters.19.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
-"/quests/Losthero.qmm/parameters/20/name"	"Пища"	"Quest Losthero.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Losthero"	""
+"/quests/Losthero.qmm/parameters/20/name"	"Пища"	"Quest Losthero.qmm: parameters.20.name. Preserve every <tag> exactly."	"Quest,Losthero"	"Ежа"
 "/quests/Losthero.qmm/parameters/20/lines/0/content"	"Пища:"	"Quest Losthero.qmm: parameters.20.lines.0.content. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Losthero.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Losthero"	""
 "/quests/Losthero.qmm/parameters/21/name"	"Грибж"	"Quest Losthero.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Losthero"	""

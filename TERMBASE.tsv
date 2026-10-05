@@ -1102,7 +1102,7 @@ lemma.mengele	Менгеле	Mengele	Мэнгэле	Мэгрэле	the doctors t
 lemma.popcorn	попкорн	popcorn	папкорн/папкорну		snack the tourists chew on the bridge; G папкорну	https://starnik.by/pravapis/52746
 lemma.stereocamera	стереокамера	stereocamera	стэрэакамэра/стэрэакамэры	стэрэа камэра	peleng cameras; hunspell splits the compound	Tourists.qmm
 lemma.hussein	Хуссейн	Hussein	Хусейн/Хусейна/Хусейну/Хусейнам	Хусэйн	dictator in the desert name; G Хусейна D Хусейну I Хусейнам	https://starnik.by/pravapis/91248
-lemma.technico	Технико	Technico	Тэхніко	Тэхніка	star system name	Gaidnet.qmm
+lemma.technico	Технико	Technico	Тэхніко		star system name; the common noun for equipment is тэхніка	Gaidnet.qmm
 lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сіліконавая	hunspell сыліконавы; silicone planet	https://starnik.by/pravapis/149650
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
 lemma.ambush_star	Засадная	Ambush	Засадная		star name, feminine of засада	https://starnik.by/pravapis/27696
@@ -2232,3 +2232,4 @@ lemma.whose_some	чей-то	someone's	чыесьці		plural nominative of чы
 lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнтаграме		a mentoscopy record; L мэнтаграме	Amnesia.qmm
 lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/наркокур'еры		a courier of drugs; hunspell lacks the compound	Amnesia.qmm
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
+lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
