@@ -1267,7 +1267,7 @@ lemma.exipsus	Эксипсус	Exipsus	Эксіпсус		destination star	Gluki.
 lemma.pandora	Пандора	Pandora	Пандора		destination planet	Gluki.qmm
 lemma.govorun	Говорун	Talker	Гаварун/гаваруна		blue bird companion	Gluki.qmm
 lemma.txreagent	тх-реагент	indifferent reagent	тх		synthesizer label	Gluki.qmm
-lemma.intercom	интерком	intercom	інтэркам/інтэркаме		ship comm device	Gluki.qmm
+lemma.intercom	интерком	intercom	інтэркам/інтэркаме/інтэркама		ship comm device; G інтэркама	Gluki.qmm
 lemma.galanet	Галонет	Galonet	Галянэт/Галянэце/Галянэту		galaxy network	Gluki.qmm
 lemma.crocadine	крока-дин	crocadine	крокадын/крокадына		malok beast	Gluki.qmm
 lemma.txmodel	ТХ-8.0	synthesizer model	ТХ		model mark; keep with 8.0	Gluki.qmm
@@ -2406,7 +2406,7 @@ lemma.pie	пирог	pie	пірог/пірага		G пірага	https://starnik
 lemma.pudding	пудинг	pudding	пудынг		a baked dessert	https://starnik.by/pravapis/61580
 lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь; hunspell wants the soft sign	https://starnik.by/pravapis/70264
 lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона		star system; G Кефрона	Proprolog.qmm
-lemma.gravimot	гравимот	gravimot	гравімот/Гравімот		coined ground craft on Полуось	Proprolog.qmm
+lemma.gravimot	гравимот	gravimot	гравімот/Гравімот/гравімота		coined ground craft on Полуось; G гравімота	Proprolog.qmm
 lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў	Proprolog.qmm
 lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
 lemma.chen	Чен	Chen	Чэн/Чэна		the professor who sends Lens back; G Чэна	Proprolog.qmm
@@ -2429,3 +2429,9 @@ lemma.neoorganic	неоорганический	neo-organic	нэаарганіч
 lemma.ternary	троичный	ternary	траістую		Starnik траісты is «траякі», not the math name; the sentence adds «з трыма лічбамі». Hunspell rejects траічную	https://starnik.by/pravapis/154491
 lemma.hitch	загвоздка	snag	закавыка	загадка	a hitch in a plan, not a riddle	https://starnik.by/pravapis/26771
 lemma.deceased	почивший	the late	памерлы	загінулы	who has died; hunspell rejects the nominative загінулы	https://starnik.by/pravapis/135329
+lemma.manager	менеджер	manager	мэнэджар/мэнэджара		shop manager; Starnik менеджар, hunspell мэнэджар	https://starnik.by/pravapis/42835
+lemma.lieutenant	лейтенант	lieutenant	лейтэнант/лейтэнанта	ляйтэнант	Starnik лейтэнант with ей, not ляйтэнант	https://starnik.by/pravapis/39027
+lemma.anabiosis	анабиоз	suspended animation	анабіёз/анабіёзу		the cryo-chamber; G анабіёзу	https://starnik.by/pravapis/4534
+lemma.hairpin	шпилька	hairpin	шпілька/шпільку/Срэбная		the Silver Hairpin order	https://starnik.by/pravapis/85605
+lemma.katar	Катар	Katar	Катар/Катара		the OSEB fighter on Half-axis; G Катара	Proprolog.qmm
+lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
