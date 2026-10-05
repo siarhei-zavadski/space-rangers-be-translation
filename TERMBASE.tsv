@@ -128,7 +128,7 @@ lemma.asteroid	астероид	asteroid	астэроід		classical астэ-	�
 lemma.bubble	пузырь	bubble	бурбалка		Klissan-war tech «бурбалка» скрыўленай прасторы	—
 lemma.experience	опыт	experience	досьвед		already in FormShip; пунктаў досьведу	—
 lemma.hangar	ангар	hangar	ангар		loan; у ангары, родны ангара	—
-lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок/гіпэрскоку		matches FormGalaxy скок / скокнуць	—
+lemma.hyperjump	гиперпрыжок	hyperjump	гіпэрскок/гіпэрскоку/гіпэрскокі		matches FormGalaxy скок / скокнуць; N pl гіпэрскокі	—
 lemma.pursuit	преследование	pursuit	перасьлед		Starnik перасьледваць; звычайны/баявы перасьлед	—
 lemma.talk	разговор	talk	размова		already FormCfgSettings	—
 lemma.endturn	Конец хода	End Turn	Канец ходу		ход already: хады, хадоў	—
@@ -2376,7 +2376,7 @@ lemma.risk	риск	risk	рызыка		the chance of being caught	https://starni
 lemma.rehearse	тренироваться	to rehearse	трэнаваліся	трэніраваліся	past pl; Starnik трэніраваліся; hunspell трэнаваліся	https://starnik.by/pravapis/215642
 lemma.nz	НЗ	emergency stash	НЗ		quoted print-shop reserve; недатыкальны запас	Rvk.qmm
 lemma.nescafe	Нескафе	Nescafe	Нескафэ		joke classical song the agitator is told to sing	Rvk.qmm
-lemma.lens	Ленс	Lens	Ленс/Ленса		the ranger body the player occupies; G Ленса	Proprolog.qmm
+lemma.lens	Ленс	Lens	Ленс/Ленса/Ленсу		the ranger body the player occupies; G Ленса, D Ленсу	Proprolog.qmm
 lemma.piracy	пиратство	piracy	пірацтва		pirate activity; G пірацтва	https://starnik.by/pravapis/56754
 lemma.reputation	репутация	reputation	рэпутацыя/рэпутацыі		public standing; G рэпутацыі	https://starnik.by/pravapis/66106
 lemma.bandit	бандит	bandit	бандыт/бандыта		armed robber; G бандыта	https://starnik.by/pravapis/9011
@@ -2395,7 +2395,7 @@ lemma.mineral	минерал	mineral	мінэрал/мінэралы		hunspell �
 lemma.spirits	спиртное	liquor	сьпіртное/сьпіртнога		cargo liquor; G сьпіртнога	https://starnik.by/pravapis/71436
 lemma.five_finger	пятипалый	five-fingered	пяціпальцы	пяціпалы	has five fingers; hunspell rejects пяціпалы	https://starnik.by/pravapis/144312
 lemma.four_finger	четырехпалый	four-fingered	чатырохпальцы	чатырохпалы	with four fingers; hunspell rejects чатырохпалы	https://starnik.by/pravapis/161125
-lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/Вэнэрыянскі/вэнэрыянскіх		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; G pl вэнэрыянскіх	https://starnik.by/pravapis/101927
+lemma.venusian	венерианский	Venusian	вэнэрыянскі/вэнэрыянскага/вэнэрыянскае/Вэнэрыянскі/вэнэрыянскіх/вэнэрыянскім		Starnik венерыянскі; hunspell lacks it and suggests вэнэцыянскі; tarask э; G pl вэнэрыянскіх, L вэнэрыянскім	https://starnik.by/pravapis/101927
 lemma.athanasius	Афанасий	Athanasius	Афанасій/Афанасія		the dying ranger; G Афанасія	https://starnik.by/pravapis/88682
 lemma.raphael	Рафаэль	Raphael	Рафаэль/Рафаэлю/Рафаэля		director of the ranger center; D Рафаэлю	https://starnik.by/pravapis/90593
 lemma.hannibal	Ганнибал	Hannibal	Ганібал/Ганібала		the cruiser in quotes; G Ганібала	https://starnik.by/pravapis/105186
@@ -2421,3 +2421,11 @@ lemma.eel_base	Угорь	Eel	Вугор		military base; same width as Угор�
 lemma.half_axis	Полуось	Half-axis	Паўвось/Паўвосі		planet; locative Паўвосі; same width as Полуось	Proprolog.qmm
 lemma.novice	новичок	novice	навічок/Навічок		Starnik навічок, a person new to the work; the ranger rank	https://starnik.by/pravapis/45262
 lemma.twodee	двадевизор	2D visor	двадэвізары		the bar's flat screen; coined from два and візар	Proprolog.qmm
+lemma.vesta	Вестала	Vesta	Вэстала		star on the Kefron route map; same width as Вестала	Proprolog.qmm
+lemma.ruktuk	Руктук	Ruktuk	Руктук		captain of the ship Верабей	Proprolog.qmm
+lemma.jump_points	ТГПС / ТГПБ	jump-point codes	ТГПС/ТГПБ		map codes for the Sun and Betelgeuse hyperjump points	Proprolog.qmm
+lemma.hypnosleep	гипносон	hypnosleep	гіпносна		the base rest pod; coined	Proprolog.qmm
+lemma.neoorganic	неоорганический	neo-organic	нэаарганічным		the living pilot chair; coined	Proprolog.qmm
+lemma.ternary	троичный	ternary	траістую		Starnik траісты is «траякі», not the math name; the sentence adds «з трыма лічбамі». Hunspell rejects траічную	https://starnik.by/pravapis/154491
+lemma.hitch	загвоздка	snag	закавыка	загадка	a hitch in a plan, not a riddle	https://starnik.by/pravapis/26771
+lemma.deceased	почивший	the late	памерлы	загінулы	who has died; hunspell rejects the nominative загінулы	https://starnik.by/pravapis/135329
