@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску		Crowdin glossary; capital in the proverb; рэйнджэра, рэйнджэру, рэйнджэрам, рэйнджэрамі	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску/рэйнджэрава		Crowdin glossary; capital in the proverb; рэйнджэрава is the barman's кесарево pun	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -274,7 +274,7 @@ lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; alread
 lemma.quark_bomb	кварковая бомба	quark bomb	кваркавая бомба/кваркавай		pirate plot weapon; hunspell leftover adj	—
 lemma.pachvaraus	пачвараш	pachvaraus	пачвараш/пачвараша/пачварашам/пачварашаў/Пачварашаў/пачварашы/Пачварашы/Пачвараш/пачварашамі/пачварашу		ritual animal in Pachvarash.qmm; plural пачварашы, G пачварашаў, I пачварашам	Pachvarash.qmm
 lemma.transfactor	трансфекторный маяк	transfactorial beacon	трансфактарны маяк		invented pirate gadget	—
-lemma.subether	субэфир	subether	субэфір		game broadcast medium	—
+lemma.subether	субэфир	subether	субэфір/субэфірнай/субэфірны		game broadcast medium; adj субэфірны	—
 lemma.btsukheimer	Бцукхаймер	Btsukheimer	Бцукхаймер		PC_pla15 producer parody; G Бцукхаймера, D Бцукхаймеру	—
 lemma.coopola	Коопола	Coopola	Коопола		PC_pla15 screenwriter parody; keep spelling	—
 lemma.malu_bay	Малу Бэй	Malu Bay	Малу Бэй		PC_pla15 director parody; G Малу Бэя	—
@@ -1051,7 +1051,7 @@ lemma.egorych	Егорыч	Egorych	Ягорыч/Ягорыча/Ягорычам	
 lemma.svyatogor	Святогор	Svyatogor	Сьвятагор/Сьвятагора/Сьвятагору	Сьвятар	lead driver; epic name; hunspell splits it into other words	Rally.qmm
 lemma.suubaru	Суу-баару	Suu-baaru	Суу/баару	Суб	joke Subaru; Latin WRX STI SBR VO stays	Rally.qmm
 lemma.zhupii	жупии	zhupii	Жупіі/жупіяў/жупіі	жукі	iron body colony; coined part	Rally.qmm
-lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда	нанэтамі	repair robot; coined part	Rally.qmm
+lemma.nanitoid	нанитоид	nanitoid	Нанітоід/нанітоід/нанітоіда/нанітоідаў	нанэтамі	repair robot; coined part; G pl нанітоідаў	Rally.qmm
 lemma.oldsmobile	олдсмобиль	oldsmobile	олдсмабіль/олдсмабіляў	лякамабіляў	wheel car without antigravity; hunspell suggestion is another vehicle	Rally.qmm
 lemma.antigrav	антигравитация	antigravity	антыгравітацыя/антыгравітацыі	антыквара	Starnik genitive is антыгравітацыі; hunspell rejects it	https://starnik.by/pravapis/5012
 lemma.schulmann	Шульман	Schulmann	Міхаэль/Шульман/Міхаэля/Шульмана	Міхальчук/Кульман	Schumacher joke	Rally.qmm
@@ -1934,7 +1934,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, m gen плязменнага, N pl плязменныя	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя/плязменнай		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2408,3 +2408,14 @@ lemma.slime_adj	слизевой	slimy	сьлізевы		adjective of слізь
 lemma.kefron	Кефрон	Kefron	Кефрон/Кефрона		star system; G Кефрона	Proprolog.qmm
 lemma.gravimot	гравимот	gravimot	гравімот/Гравімот		coined ground craft on Полуось	Proprolog.qmm
 lemma.oseb	ОСЭБ	OSEB	АСЭБ/АСЭБавец/АСЭБаўца		Отряд Сопротивления Экспансии Ботов; Атрад Супраціву Экспансіі Ботаў	Proprolog.qmm
+lemma.megrez	Мегрез	Megrez	Мегрэз		star freed in the failed prologue	Proprolog.qmm
+lemma.chen	Чен	Chen	Чэн/Чэна		the professor who sends Lens back; G Чэна	Proprolog.qmm
+lemma.cherpak	Черпак	Cherpak	Чэрпак		the science base where Makar waits	Proprolog.qmm
+lemma.piatkin	Пяткин	Piatkin	Пяткіну		quest credit, dative	Proprolog.qmm
+lemma.smirnov	Смирнов	Smirnov	Смірнову		Ace Smirnov in the credits, dative	Proprolog.qmm
+lemma.ace	Эйс	Ace	Эйсу		the credited ranger, dative	Proprolog.qmm
+lemma.credit_initials	ББ / ПК / ХТ / ФЕ	credit initials	ББ/ПК/ХТ/ФЕ		nick initials and the FE sign-off in the quest credits	Proprolog.qmm
+lemma.boastful	хвастливый	boastful	хваслівы/Хваслівы		Starnik хваслівы; hunspell lacks the lemma	https://starnik.by/pravapis/159249
+lemma.furrow	бороздить	plough a wake	барозьняць/барозьніш		Starnik баразніць, 3pl барозьняць, 2sg барозьніш	https://starnik.by/pravapis/171477
+lemma.eel_base	Угорь	Eel	Вугор		military base; same width as Угорь	Proprolog.qmm
+lemma.half_axis	Полуось	Half-axis	Паўвось/Паўвосі		planet; locative Паўвосі; same width as Полуось	Proprolog.qmm
