@@ -2188,3 +2188,31 @@ lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		
 lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
 lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
 lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
+
+lemma.radio	рация	radio	рацыя/рацыі/рацыю		portable radio, sense 1, not the "reason" sense	https://starnik.by/pravapis/64614
+
+lemma.scope	прицел	sight	прыцэл/прыцэла/прыцэлам		firearm sight, genitive -а, not the action (-у)	https://starnik.by/pravapis/60982
+
+lemma.silencer	глушитель	silencer	глушыцель/глушыцеля/глушыцелем		a device that muffles a shot, sense 1	https://starnik.by/pravapis/20094
+
+lemma.rifle	винтовка	rifle	вінтоўка/вінтоўкі/вінтоўку/вінтоўкай		a rifled long gun	https://starnik.by/pravapis/14724
+
+lemma.vodka	водка	vodka	гарэлка/гарэлкі/гарэлку	водка	a strong spirit	https://starnik.by/pravapis/18382
+
+lemma.bottle	бутылка	bottle	бутэлька/бутэлькі/бутэльку		a glass bottle	https://starnik.by/pravapis/12209
+
+lemma.magazine	магазин	magazine	магазын/магазына/магазыне		firearm magazine, Starnik sense 2; hunspell spelling. Shop lines already say магазін	https://starnik.by/pravapis/40580
+
+lemma.round	патрон	cartridge	патрон/патрона/патроны/патронаў		a rifle round, sense 1, not a patron	https://starnik.by/pravapis/53906
+
+lemma.charge	заряд	charge	зарад/зараду		electrical charge of a stunner, sense 3	https://starnik.by/pravapis/27607
+
+lemma.gun	ружье	gun	ружжо/ружжа		a smoothbore gun; the quest slot is already Ружжо	https://starnik.by/pravapis/64981
+
+lemma.reinforcement	подкрепление	reinforcement	падмацаваньне/падмацаваньня	падмацаванне	troops sent to help, sense 3; hunspell inserts ь	https://starnik.by/pravapis/50768
+
+lemma.wounded	раненый	wounded	паранены/параненая/параненыя		someone who has a wound	https://starnik.by/pravapis/53045
+
+lemma.carefree	безмятежный	carefree	бестурботны/бестурботныя	безтурботны	untroubled; hunspell rejects безтурботны	https://starnik.by/pravapis/99322
+
+lemma.drug_baron	наркобарон	drug baron	наркобарон/наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
