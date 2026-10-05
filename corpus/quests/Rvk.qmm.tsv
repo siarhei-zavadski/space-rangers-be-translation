@@ -669,123 +669,162 @@
 Няма нічога прасьцейшага, чым арганізаваць канцэрт сіламі агітбрыгады. І вынікі імгненна, як у лятарэі."
 "/quests/Rvk.qmm/jumps/53/description"	"- Запускайте рекламу! - гаркнули вы своим командирским голосом.
 
-И машина завертелась - агитаторы мгновенно связались со всеми представительствами средств массовой информации, заказали рекламные ролики и проспекты, запустили их в эфир. Результаты не заставили себя долго ждать, и призывники посыпались в военкомат."	"Quest Rvk.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/54/text"	"Перевести 100 cr в фонд Комитета Защитников и Полузащитников"	"Quest Rvk.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/54/description"	"Представители Комитета Защитников и Полузащитников были весьма благодарны и даже прослезились."	"Quest Rvk.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/56/text"	"Чем занимается агитбригада?"	"Quest Rvk.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/58/text"	"Какие есть дополнительные способы привлечения призывников?"	"Quest Rvk.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/59/text"	"Зачем нужны повестки?"	"Quest Rvk.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+И машина завертелась - агитаторы мгновенно связались со всеми представительствами средств массовой информации, заказали рекламные ролики и проспекты, запустили их в эфир. Результаты не заставили себя долго ждать, и призывники посыпались в военкомат."	"Quest Rvk.qmm: jumps.53.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Запускайце рэкляму! — гаркнулі вы сваім камандзірскім голасам.
+
+І машына закруцілася — агітатары імгненна зьвязаліся з усімі прадстаўніцтвамі сродкаў масавай інфармацыі, замовілі рэклямныя ролікі і праспэкты, запусьцілі іх у эфір. Вынікі не прымусілі сябе доўга чакаць, і прызыўнікі пасыпаліся ў ваенкамат."
+"/quests/Rvk.qmm/jumps/54/text"	"Перевести 100 cr в фонд Комитета Защитников и Полузащитников"	"Quest Rvk.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Перавесьці 100 cr у фонд Камітэта Абаронцаў і Паўабаронцаў"
+"/quests/Rvk.qmm/jumps/54/description"	"Представители Комитета Защитников и Полузащитников были весьма благодарны и даже прослезились."	"Quest Rvk.qmm: jumps.54.description. Preserve every <tag> exactly."	"Quest,Rvk"	"Прадстаўнікі Камітэта Абаронцаў і Паўабаронцаў былі вельмі ўдзячныя і нават прасьлязіліся."
+"/quests/Rvk.qmm/jumps/56/text"	"Чем занимается агитбригада?"	"Quest Rvk.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Чым займаецца агітбрыгада?"
+"/quests/Rvk.qmm/jumps/58/text"	"Какие есть дополнительные способы привлечения призывников?"	"Quest Rvk.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Якія ёсьць дадатковыя спосабы прыцягненьня прызыўнікоў?"
+"/quests/Rvk.qmm/jumps/59/text"	"Зачем нужны повестки?"	"Quest Rvk.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Навошта патрэбныя павесткі?"
 "/quests/Rvk.qmm/jumps/60/text"	"К заместителю"	"Quest Rvk.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/60/description"	"- Извините, у меня обед. Если не сложно - говорите побыстрее."	"Quest Rvk.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/60/description"	"- Извините, у меня обед. Если не сложно - говорите побыстрее."	"Quest Rvk.qmm: jumps.60.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Прабачце, у мяне абед. Калі не складана — гаварыце хутчэй."
 "/quests/Rvk.qmm/jumps/61/text"	"К заместителю"	"Quest Rvk.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/61/description"	"- По-моему вы частенько наведываетесь ко мне. Нет, нет, не подумайте ничего плохого!!! Я всегда рад вас видеть!"	"Quest Rvk.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/61/description"	"- По-моему вы частенько наведываетесь ко мне. Нет, нет, не подумайте ничего плохого!!! Я всегда рад вас видеть!"	"Quest Rvk.qmm: jumps.61.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Па-мойму, вы часта наведваецеся да мяне. Не, не, не падумайце нічога дрэннага!!! Я заўсёды рады вас бачыць!"
 "/quests/Rvk.qmm/jumps/62/text"	"К заместителю"	"Quest Rvk.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/62/description"	"- Здравия желаю, о великий комиссар планеты <ToPlanet>, рейнджер <Ranger>. Под вашим руководством наш военкомат процветает. Я сейчас крайне занят, но для вас прервусь и окажу всестороннюю помощь и поддержку."	"Quest Rvk.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/62/description"	"- Здравия желаю, о великий комиссар планеты <ToPlanet>, рейнджер <Ranger>. Под вашим руководством наш военкомат процветает. Я сейчас крайне занят, но для вас прервусь и окажу всестороннюю помощь и поддержку."	"Quest Rvk.qmm: jumps.62.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Здароўя жадаю, о вялікі камісар плянэты <ToPlanet>, рэйнджэр <Ranger>. Пад вашым кіраўніцтвам наш ваенкамат квітнее. Я зараз вельмі заняты, але для вас перапынюся і акажу ўсебаковую дапамогу і падтрымку."
 "/quests/Rvk.qmm/jumps/63/text"	"К заместителю"	"Quest Rvk.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/63/description"	"- Как хорошо, что вы зашли. Такой приятный собеседник не каждый день посещает эти стены!!!"	"Quest Rvk.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/63/description"	"- Как хорошо, что вы зашли. Такой приятный собеседник не каждый день посещает эти стены!!!"	"Quest Rvk.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Як добра, што вы зайшлі. Такі прыемны суразмоўца не кожны дзень наведвае гэтыя сьцены!!!"
 "/quests/Rvk.qmm/jumps/64/text"	"К заместителю"	"Quest Rvk.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/64/description"	"- Присаживайтесь, дорогой мой! А вы все вон из кабинета! Сам комиссар <Ranger> хочет со мной побеседовать!"	"Quest Rvk.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/64/description"	"- Присаживайтесь, дорогой мой! А вы все вон из кабинета! Сам комиссар <Ranger> хочет со мной побеседовать!"	"Quest Rvk.qmm: jumps.64.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Прысаджвайцеся, дарагі мой! А вы ўсе прэч з кабінэта! Сам камісар <Ranger> хоча са мной пагутарыць!"
 "/quests/Rvk.qmm/jumps/65/text"	"К заместителю"	"Quest Rvk.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
 "/quests/Rvk.qmm/jumps/65/description"	"- Вас только что искали с медкомиссии. Или с агитбригады - точно не помню..."	"Quest Rvk.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Вас толькі што шукалі з мэдкамісіі. Ці з агітбрыгады — дакладна не памятаю..."
 "/quests/Rvk.qmm/jumps/66/text"	"К заместителю"	"Quest Rvk.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/66/description"	"- Здравия желаю, комиссар <Ranger>. Чем могу служить? - вопрошал ваш зам."	"Quest Rvk.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/66/description"	"- Здравия желаю, комиссар <Ranger>. Чем могу служить? - вопрошал ваш зам."	"Quest Rvk.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Здароўя жадаю, камісар <Ranger>. Чым магу служыць? — пытаў ваш намесьнік."
 "/quests/Rvk.qmm/jumps/67/text"	"К заместителю"	"Quest Rvk.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/67/description"	"- Вы по делу или так - потрепаться? Всегда рад! - зам был рад вас видеть, это очевидно."	"Quest Rvk.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/67/description"	"- Вы по делу или так - потрепаться? Всегда рад! - зам был рад вас видеть, это очевидно."	"Quest Rvk.qmm: jumps.67.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Вы па справе ці так — пабалбатаць? Заўсёды рады! — намесьнік быў рады вас бачыць, гэта відавочна."
 "/quests/Rvk.qmm/jumps/68/text"	"К заместителю"	"Quest Rvk.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/68/description"	"- Я слышал, что правозащитники подали на вас жалобу за некорректную работу в Книгу Аккордов Фитнеса, - изобразил удивление на лице ваш заместитель. - Какая наглость с их стороны!"	"Quest Rvk.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/68/description"	"- Я слышал, что правозащитники подали на вас жалобу за некорректную работу в Книгу Аккордов Фитнеса, - изобразил удивление на лице ваш заместитель. - Какая наглость с их стороны!"	"Quest Rvk.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Я чуў, што праваабаронцы падалі на вас скаргу за некарэктную працу ў Кнігу Акордаў Фітнэсу, — паказаў зьдзіўленьне на твары ваш намесьнік. — Якая нахабнасьць зь іх боку!"
 "/quests/Rvk.qmm/jumps/69/text"	"К заместителю"	"Quest Rvk.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/69/description"	"- Ну как? Готовы к сдаче отчета? Вижу, работа проведена не маленькая! - заместитель добродушно улыбался вам. - План-то, поди, почти выполнен? Можно вас поздравить?"	"Quest Rvk.qmm: jumps.69.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/69/description"	"- Ну как? Готовы к сдаче отчета? Вижу, работа проведена не маленькая! - заместитель добродушно улыбался вам. - План-то, поди, почти выполнен? Можно вас поздравить?"	"Quest Rvk.qmm: jumps.69.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Ну як? Гатовыя да здачы справаздачы? Бачу, праца праведзеная не маленькая! — намесьнік лагодна ўсьміхаўся вам. — Плян, мусіць, амаль выкананы? Можна вас павіншаваць?"
 "/quests/Rvk.qmm/jumps/70/text"	"К заместителю"	"Quest Rvk.qmm: jumps.70.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/70/description"	"- Не расстраивайтесь вы так по мелочам. Ну не пошел план. Бывает такое. Помню, я в 91-м году... - разглагольствовал ваш заместитель, но вы его слушали в пол уха."	"Quest Rvk.qmm: jumps.70.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/70/description"	"- Не расстраивайтесь вы так по мелочам. Ну не пошел план. Бывает такое. Помню, я в 91-м году... - разглагольствовал ваш заместитель, но вы его слушали в пол уха."	"Quest Rvk.qmm: jumps.70.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Не засмучайцеся вы так праз дробязі. Ну не пайшоў плян. Бывае такое. Памятаю, я ў 91-м годзе... — разводзіў прамовы ваш намесьнік, але вы яго слухалі краем вуха."
 "/quests/Rvk.qmm/jumps/71/text"	"К заместителю"	"Quest Rvk.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Да намесьніка"
-"/quests/Rvk.qmm/jumps/71/description"	"- Заходите быстрее, как раз начинаются новости, - приглашал вас заместитель."	"Quest Rvk.qmm: jumps.71.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/72/text"	"Что-то я не врубился, повтори с самого начала!"	"Quest Rvk.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/73/text"	"На доклад"	"Quest Rvk.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/74/text"	"На доклад"	"Quest Rvk.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/75/text"	"На доклад"	"Quest Rvk.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/76/text"	"На доклад"	"Quest Rvk.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/77/text"	"На доклад"	"Quest Rvk.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/71/description"	"- Заходите быстрее, как раз начинаются новости, - приглашал вас заместитель."	"Quest Rvk.qmm: jumps.71.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Заходзьце хутчэй, якраз пачынаюцца навіны, — запрашаў вас намесьнік."
+"/quests/Rvk.qmm/jumps/72/text"	"Что-то я не врубился, повтори с самого начала!"	"Quest Rvk.qmm: jumps.72.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Нешта я не ўцяміў, паўтары з самага пачатку!"
+"/quests/Rvk.qmm/jumps/73/text"	"На доклад"	"Quest Rvk.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На даклад"
+"/quests/Rvk.qmm/jumps/74/text"	"На доклад"	"Quest Rvk.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На даклад"
+"/quests/Rvk.qmm/jumps/75/text"	"На доклад"	"Quest Rvk.qmm: jumps.75.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На даклад"
+"/quests/Rvk.qmm/jumps/76/text"	"На доклад"	"Quest Rvk.qmm: jumps.76.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На даклад"
+"/quests/Rvk.qmm/jumps/77/text"	"На доклад"	"Quest Rvk.qmm: jumps.77.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На даклад"
 "/quests/Rvk.qmm/jumps/78/text"	"В коридор"	"Quest Rvk.qmm: jumps.78.text. Preserve every <tag> exactly."	"Quest,Rvk"	"У калідор"
-"/quests/Rvk.qmm/jumps/79/text"	"Ладно, давай хоть столько"	"Quest Rvk.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+"/quests/Rvk.qmm/jumps/79/text"	"Ладно, давай хоть столько"	"Quest Rvk.qmm: jumps.79.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Добра, давай хоць столькі"
 "/quests/Rvk.qmm/jumps/80/text"	"В коридор"	"Quest Rvk.qmm: jumps.80.text. Preserve every <tag> exactly."	"Quest,Rvk"	"У калідор"
 "/quests/Rvk.qmm/jumps/83/description"	"На совещании вы выступили с пламенной речью:
 
 - В то время, когда космические корабли бороздят... Короче, план под угрозой срыва, придется идти на экстренные меры - сегодня вечером проводим рейды по барам!
 
-Бары были переполнены, да только вы зря потратили время и попали во внимание правозащитников - какие могут быть призывники <clr>без повесток<clrEnd>?"	"Quest Rvk.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Бары были переполнены, да только вы зря потратили время и попали во внимание правозащитников - какие могут быть призывники <clr>без повесток<clrEnd>?"	"Quest Rvk.qmm: jumps.83.description. Preserve every <tag> exactly."	"Quest,Rvk"	"На нарадзе вы выступілі з палымянай прамовай:
+
+— У той час, калі касьмічныя караблі барозьняць... Карацей, плян пад пагрозай зрыву, давядзецца пайсьці на надзвычайныя захады — сёньня ўвечары праводзім рэйды па барах!
+
+Бары былі перапоўненыя, ды толькі вы дарэмна страцілі час і трапілі пад увагу праваабаронцаў — якія могуць быць прызыўнікі <clr>без павестак<clrEnd>?"
 "/quests/Rvk.qmm/jumps/84/text"	"В коридор"	"Quest Rvk.qmm: jumps.84.text. Preserve every <tag> exactly."	"Quest,Rvk"	"У калідор"
 "/quests/Rvk.qmm/jumps/85/description"	"- Запускайте рекламу! - гаркнули вы своим командирским голосом.
 
-И машина завертелась - агитаторы мгновенно связались со всеми представительствами средств массовой информации, заказали рекламные ролики и проспекты, запустили их в эфир. К сожалению, результата вы этим не достигли - сказывалось <clr>отсутствие повесток<clrEnd>."	"Quest Rvk.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+И машина завертелась - агитаторы мгновенно связались со всеми представительствами средств массовой информации, заказали рекламные ролики и проспекты, запустили их в эфир. К сожалению, результата вы этим не достигли - сказывалось <clr>отсутствие повесток<clrEnd>."	"Quest Rvk.qmm: jumps.85.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Запускайце рэкляму! — гаркнулі вы сваім камандзірскім голасам.
+
+І машына закруцілася — агітатары імгненна зьвязаліся з усімі прадстаўніцтвамі сродкаў масавай інфармацыі, замовілі рэклямныя ролікі і праспэкты, запусьцілі іх у эфір. На жаль, выніку вы гэтым не дасягнулі — адбівалася <clr>адсутнасьць павестак<clrEnd>."
 "/quests/Rvk.qmm/jumps/86/description"	"- А ну-ка спой ""Светит месяц, светит ясный..."" в оранжировке бас-гитары или эту, из классики - ""Нескафе..."", - остановили вы первого попавшегося агитатора, - Отлично. На концерт с сольной программой.
 
 - Стой, - придержали вы второго, пытавшегося прошмыгнуть в дверь позади вас, - А ну станцуй лезгинку в стиле хэви метал... Отлично - на подтанцовку.
 
-Нет ничего проще, чем организовать концерт силами агитбригады. Только отдачи от этого не было - <clr>нет повесток<clrEnd>, нет и результата!"	"Quest Rvk.qmm: jumps.86.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Нет ничего проще, чем организовать концерт силами агитбригады. Только отдачи от этого не было - <clr>нет повесток<clrEnd>, нет и результата!"	"Quest Rvk.qmm: jumps.86.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— А ну-ка засьпявай «Сьвеціць месяц, сьвеціць ясны...» у апрацоўцы бас-гітары ці гэтую, з клясыкі — «Нескафэ...», — спынілі вы першага сустрэчнага агітатара, — Выдатна. На канцэрт з сольнай праграмай.
+
+— Стой, — прытрымалі вы другога, які спрабаваў прашмыгнуць у дзьверы ззаду вас, — А ну станцуй лезгінку ў стылі цяжкага мэталу... Выдатна — будзеш падтанцоўваць.
+
+Няма нічога прасьцейшага, чым арганізаваць канцэрт сіламі агітбрыгады. Толькі аддачы ад гэтага не было — <clr>няма павестак<clrEnd>, няма і выніку!"
 "/quests/Rvk.qmm/jumps/87/description"	"- Участники парада, равняйсь, смирно! Равнение на право! - тренировались вы перед зеркалом. - Управлять войсками - моя стихия, а парад - лучший способ проявить себя.
 
 На парад собралась огромная толпа народу, все приветствовали храбрых воинов-освободителей. Шли пехота, техника. Зрители кричали ""Ура!"" и прочие воинственные лозунги.
 
-Проведение парада принесло положительные результаты - призывники опять начали прибывать в военкомат. Вот только повесток для их обслуживания у вас практически не оказалось..."	"Quest Rvk.qmm: jumps.87.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Проведение парада принесло положительные результаты - призывники опять начали прибывать в военкомат. Вот только повесток для их обслуживания у вас практически не оказалось..."	"Quest Rvk.qmm: jumps.87.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Удзельнікі параду, раўняйся, сьмірна! Раўненьне направа! — трэнаваліся вы перад люстэркам. — Кіраваць войскамі — мая стыхія, а парад — найлепшы спосаб праявіць сябе.
+
+На парад сабраўся вялізны натоўп людзей, усе віталі адважных воінаў-вызваленцаў. Ішлі пяхота, тэхніка. Гледачы крычалі «Ура!» і іншыя ваяўнічыя лёзунгі.
+
+Правядзеньне параду прынесла станоўчыя вынікі — прызыўнікі зноў пачалі прыбываць у ваенкамат. Вось толькі павестак для іх абслугоўваньня ў вас практычна не аказалася..."
 "/quests/Rvk.qmm/jumps/88/description"	"- А кто тут самый умный и начитанный? - спросили вы фэянина - начальника агитбригады.
 - Я, - ответил тот.
 - Тогда вам и флаг в ваши могучие фэянские руки! Срочно необходимо прочитать цикл лекций!
 
-Сказано - сделано. К сожалению, лекции на тему ""Все на борьбу с доминаторскими захватчиками"" не принесли абсолютно никакого результата в связи с <clr>отсутствием повесток<clrEnd>."	"Quest Rvk.qmm: jumps.88.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/89/text"	"Просто хотел нанести визит вежливости. Всего хорошего"	"Quest Rvk.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/90/text"	"Есть дело"	"Quest Rvk.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/91/text"	"Вежливо попрощаться и отключить связь"	"Quest Rvk.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/92/text"	"Предложить взятку"	"Quest Rvk.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/94/description"	"- Какая может быть взятка с копейками на твоем счету?!! Пока. Приходи, когда разбогатеешь! Ха-ха-ха!"	"Quest Rvk.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/95/description"	"- Как вы смеете? - вскричал профессор Тупица. - Я никогда не брал взяток и не собираюсь попадать во внимание нашего справедливого Комитета Защитников и Полузащитников!!!"	"Quest Rvk.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/96/text"	"К моему большому сожалению, сейчас с деньгами небольшие затруднения. Но я искренне надеюсь на дальнейшее наше взаимовыгодное сотрудничество"	"Quest Rvk.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/97/text"	"Предложить 500 cr"	"Quest Rvk.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Сказано - сделано. К сожалению, лекции на тему ""Все на борьбу с доминаторскими захватчиками"" не принесли абсолютно никакого результата в связи с <clr>отсутствием повесток<clrEnd>."	"Quest Rvk.qmm: jumps.88.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— А хто тут самы разумны і начытаны? — спыталі вы фэяніна — начальніка агітбрыгады.
+— Я, — адказаў той.
+— Тады вам і сьцяг у вашы магутныя фэянскія рукі! Тэрмінова неабходна прачытаць цыкль лекцый!
+
+Сказана — зроблена. На жаль, лекцыі на тэму «Усе на барацьбу з дамінатарскімі захопнікамі» не прынесьлі абсалютна ніякага выніку праз <clr>адсутнасьць павестак<clrEnd>."
+"/quests/Rvk.qmm/jumps/89/text"	"Просто хотел нанести визит вежливости. Всего хорошего"	"Quest Rvk.qmm: jumps.89.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Проста хацеў нанесьці візыт ветлівасьці. Усяго добрага"
+"/quests/Rvk.qmm/jumps/90/text"	"Есть дело"	"Quest Rvk.qmm: jumps.90.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Ёсьць справа"
+"/quests/Rvk.qmm/jumps/91/text"	"Вежливо попрощаться и отключить связь"	"Quest Rvk.qmm: jumps.91.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Ветліва разьвітацца і адключыць сувязь"
+"/quests/Rvk.qmm/jumps/92/text"	"Предложить взятку"	"Quest Rvk.qmm: jumps.92.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Прапанаваць хабар"
+"/quests/Rvk.qmm/jumps/94/description"	"- Какая может быть взятка с копейками на твоем счету?!! Пока. Приходи, когда разбогатеешь! Ха-ха-ха!"	"Quest Rvk.qmm: jumps.94.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Які можа быць хабар з капейкамі на тваім рахунку?!! Пакуль. Прыходзь, калі разбагацееш! Ха-ха-ха!"
+"/quests/Rvk.qmm/jumps/95/description"	"- Как вы смеете? - вскричал профессор Тупица. - Я никогда не брал взяток и не собираюсь попадать во внимание нашего справедливого Комитета Защитников и Полузащитников!!!"	"Quest Rvk.qmm: jumps.95.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Як вы сьмееце? — закрычаў прафэсар Тупіца. — Я ніколі не браў хабараў і не зьбіраюся трапляць пад увагу нашага справядлівага Камітэта Абаронцаў і Паўабаронцаў!!!"
+"/quests/Rvk.qmm/jumps/96/text"	"К моему большому сожалению, сейчас с деньгами небольшие затруднения. Но я искренне надеюсь на дальнейшее наше взаимовыгодное сотрудничество"	"Quest Rvk.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Rvk"	"На мой вялікі жаль, зараз з грашыма невялікія цяжкасьці. Але я шчыра спадзяюся на далейшае наша ўзаемавыгаднае супрацоўніцтва"
+"/quests/Rvk.qmm/jumps/97/text"	"Предложить 500 cr"	"Quest Rvk.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Прапанаваць 500 cr"
 "/quests/Rvk.qmm/jumps/97/description"	"- За такие деньжищи я постараюсь придумать что-нибудь необычное... - пробормотал ректор. - О, придумал! Пора бороться за чистоту и гигиену! Сегодня все, кто придет в университет без сменной обуви, будут отчислены!
 
 Драконовская мера ректора дала ошеломляющие результаты - к вечеру из университета было доставлено [p11] механиков, [p12] связистов, [p13] пилотов, [p15] штурманов и [p16] бортстрелков!
 
-- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/98/text"	"Предложить 250 cr"	"Quest Rvk.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.97.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— За такія грашышчы я пастараюся прыдумаць нешта незвычайнае... — прамармытаў рэктар. — О, прыдумаў! Пара змагацца за чысьціню і гігіену! Сёньня ўсе, хто прыйдзе ва ўнівэрсытэт без зьменнага абутку, будуць адлічаныя!
+
+Драконаўская мера рэктара дала ашаламляльныя вынікі — да вечара з унівэрсытэту было дастаўлена [p11] мэханікаў, [p12] сувязістаў, [p13] пілотаў, [p15] штурманаў і [p16] бортстралкоў!
+
+— Спадзяюся, што вас уладкуе такая колькасьць прызыўнікоў, — сказаў вам у той самы вечар прафэсар Тупіца, пералічваючы грошы."
+"/quests/Rvk.qmm/jumps/98/text"	"Предложить 250 cr"	"Quest Rvk.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Прапанаваць 250 cr"
 "/quests/Rvk.qmm/jumps/98/description"	"- Проведу-ка я сегодня коллоквиум по средневековой гаальской философии! - решил ректор. - Думаю, это позволит отправить в армию немало лентяев и разгильдяев!
 
 Похоже, коллоквиум ректора оказался весьма непростым, так как к вечеру из университета было доставлено [p11] механиков, [p12] связистов, [p13] пилотов, [p15] штурманов и [p16] бортстрелков. 
 
-- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/99/text"	"Предложить 100 cr"	"Quest Rvk.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.98.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Правяду-ка я сёньня калёквіюм па сярэднявечнай гаальскай філязофіі! — вырашыў рэктар. — Думаю, гэта дазволіць адправіць у войска нямала гультаёў і разгільдзяяў!
+
+Здаецца, калёквіюм рэктара аказаўся вельмі няпростым, бо да вечара з унівэрсытэту было дастаўлена [p11] мэханікаў, [p12] сувязістаў, [p13] пілотаў, [p15] штурманаў і [p16] бортстралкоў. 
+
+— Спадзяюся, што вас уладкуе такая колькасьць прызыўнікоў, — сказаў вам у той самы вечар прафэсар Тупіца, пералічваючы грошы."
+"/quests/Rvk.qmm/jumps/99/text"	"Предложить 100 cr"	"Quest Rvk.qmm: jumps.99.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Прапанаваць 100 cr"
 "/quests/Rvk.qmm/jumps/99/description"	"- Проведу-ка я внеплановую контрольную по механике защитных полей! - решил ректор. - Не самая сложная дисциплина, конечно, но все, кто ее провалит, пополнят ряды вооруженных сил!
 
 Профессор сдержал слово - к вечеру из университета было доставлено [p11] механиков, [p12] связистов, [p13] пилотов, [p15] штурманов и [p16] бортстрелков. 
 
-- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/100/text"	"Как нет? А ну-ка посмотри на складе повнимательнее!"	"Quest Rvk.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Надеюсь, что вас устроит такое количество призывников, - сказал вам в тот же вечер профессор Тупица, пересчитывая деньги."	"Quest Rvk.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Правяду-ка я пазаплянавую кантрольную па мэханіцы абарончых палёў! — вырашыў рэктар. — Не самая складаная дысцыпліна, вядома, але ўсе, хто яе праваліць, папоўняць шэрагі ўзброеных сіл!
+
+Прафэсар стрымаў слова — да вечара з унівэрсытэту было дастаўлена [p11] мэханікаў, [p12] сувязістаў, [p13] пілотаў, [p15] штурманаў і [p16] бортстралкоў. 
+
+— Спадзяюся, што вас уладкуе такая колькасьць прызыўнікоў, — сказаў вам у той самы вечар прафэсар Тупіца, пералічваючы грошы."
+"/quests/Rvk.qmm/jumps/100/text"	"Как нет? А ну-ка посмотри на складе повнимательнее!"	"Quest Rvk.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Як няма? А ну-ка паглядзі на складзе ўважлівей!"
 "/quests/Rvk.qmm/jumps/100/description"	"- Что значит ""посмотри на складе""? У меня и склада-то нет, - ответил В.В.Од. - Я же тебе человеческим языком сказал: БОЛЬШЕ ПОВЕСТОК НЕТ!!! А если у тебя проблемы со слухом - обратись к докторам своей медкомиссии - они твои ушки прочистят!
 
-Ох уж эти штатские - только и умеют, что ругаться и безобразие разводить!"	"Quest Rvk.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/101/text"	"Как нет? А ну-ка посмотри на складе повнимательнее!"	"Quest Rvk.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/102/text"	"Спасибо, ты настоящий друг"	"Quest Rvk.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/103/text"	"Ладно, печатай пока еще. Зайду позже"	"Quest Rvk.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/104/text"	"Может, как-то договоримся?"	"Quest Rvk.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/105/text"	"Может, как-то договоримся, и ты еще повесток подкинешь?"	"Quest Rvk.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/106/description"	"- Я же сказал, что больше повесток нет!!! - В.В.Од начинал свирепеть. - Иди, занимайся своими делами и не мешай мне заниматься своими!!!"	"Quest Rvk.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/107/description"	"- Ты чего? С одного раза не врубаешься? Сколько раз тебе еще повторить, что нет повесток!!! Не-е-ет!!! - нежелание В.В.Ода вести с вами дальнейшую беседу было очевидным."	"Quest Rvk.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/108/text"	"Уже договорились. Пока"	"Quest Rvk.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Ох уж эти штатские - только и умеют, что ругаться и безобразие разводить!"	"Quest Rvk.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Што значыць «паглядзі на складзе»? У мяне і складу-та няма, — адказаў В.В.Од. — Я ж табе чалавечай мовай сказаў: БОЛЬШ ПАВЕСТАК НЯМА!!! А калі ў цябе праблемы са слыхам — зьвярніся да дактароў сваёй мэдкамісіі — яны твае вушкі прачысьцяць!
+
+Ох ужо гэтыя цывільныя — толькі і ўмеюць, што лаяцца і бясчынства заводзіць!"
+"/quests/Rvk.qmm/jumps/101/text"	"Как нет? А ну-ка посмотри на складе повнимательнее!"	"Quest Rvk.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Як няма? А ну-ка паглядзі на складзе ўважлівей!"
+"/quests/Rvk.qmm/jumps/102/text"	"Спасибо, ты настоящий друг"	"Quest Rvk.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Дзякуй, ты сапраўдны сябар"
+"/quests/Rvk.qmm/jumps/103/text"	"Ладно, печатай пока еще. Зайду позже"	"Quest Rvk.qmm: jumps.103.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Добра, друкуй пакуль яшчэ. Зайду пазьней"
+"/quests/Rvk.qmm/jumps/104/text"	"Может, как-то договоримся?"	"Quest Rvk.qmm: jumps.104.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Можа, як-небудзь дамовімся?"
+"/quests/Rvk.qmm/jumps/105/text"	"Может, как-то договоримся, и ты еще повесток подкинешь?"	"Quest Rvk.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Можа, як-небудзь дамовімся, і ты яшчэ павестак падкінеш?"
+"/quests/Rvk.qmm/jumps/106/description"	"- Я же сказал, что больше повесток нет!!! - В.В.Од начинал свирепеть. - Иди, занимайся своими делами и не мешай мне заниматься своими!!!"	"Quest Rvk.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Я ж сказаў, што больш павестак няма!!! — В.В.Од пачынаў шалець. — Ідзі, займайся сваімі справамі і не замінай мне займацца сваімі!!!"
+"/quests/Rvk.qmm/jumps/107/description"	"- Ты чего? С одного раза не врубаешься? Сколько раз тебе еще повторить, что нет повесток!!! Не-е-ет!!! - нежелание В.В.Ода вести с вами дальнейшую беседу было очевидным."	"Quest Rvk.qmm: jumps.107.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Ты чаго? З аднаго разу не ўцяміш? Колькі разоў табе яшчэ паўтарыць, што няма павестак!!! Няма-а-а!!! — нежаданьне В.В.Ода весьці з вамі далейшую гаворку было відавочным."
+"/quests/Rvk.qmm/jumps/108/text"	"Уже договорились. Пока"	"Quest Rvk.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Ужо дамовіліся. Пакуль"
 "/quests/Rvk.qmm/jumps/110/description"	"- Ладно, уговорил, - заулыбался В.В.Од, - за <clr>25<clrEnd> cr я дам тебе десяток-другой повесток. Ты не подумай, что я взятки беру, будем считать, что ты просто у меня эти повестки купил! 
 
-Заплатить <clr>25<clrEnd> cr за {[p17]} шт. - удачная сделка!"	"Quest Rvk.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+Заплатить <clr>25<clrEnd> cr за {[p17]} шт. - удачная сделка!"	"Quest Rvk.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Rvk"	"— Добра, угаварыў, — заўсьміхаўся В.В.Од, — за <clr>25<clrEnd> cr я дам табе дзясятак-другі павестак. Ты не падумай, што я хабары бяру, будзем лічыць, што ты проста ў мяне гэтыя павесткі купіў! 
+
+Заплаціць <clr>25<clrEnd> cr за {[p17]} шт. — удалая купля!"
 "/quests/Rvk.qmm/jumps/111/description"	"В.В.Од буквально рассвирепел после вашего предложения.
-- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
-"/quests/Rvk.qmm/jumps/112/text"	"Могу предложить небольшое денежное вознаграждение за ваш вклад в общее дело, если вы поможете повестками"	"Quest Rvk.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Rvk"	"В.В.Од літаральна ашалеў пасьля вашай прапановы.
+— Ты спрабуеш мяне падкупіць?! Ды пляваў я на твае грошы!!! Я сам табе магу даць у два разы больш, каб толькі больш ніколі не бачыць тут тваю пысу!!!"
+"/quests/Rvk.qmm/jumps/112/text"	"Могу предложить небольшое денежное вознаграждение за ваш вклад в общее дело, если вы поможете повестками"	"Quest Rvk.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Rvk"	"Магу прапанаваць невялікую грашовую ўзнагароду за ваш уклад у агульную справу, калі вы дапаможаце павесткамі"
 "/quests/Rvk.qmm/jumps/113/text"	"А впрочем, я передумал. Пока"	"Quest Rvk.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
 "/quests/Rvk.qmm/jumps/114/text"	"Предложить <clr>25<clrEnd> cr"	"Quest Rvk.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
 "/quests/Rvk.qmm/jumps/115/text"	"Предложить <clr>100<clrEnd> cr"	"Quest Rvk.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
 "/quests/Rvk.qmm/jumps/116/text"	"Предложить <clr>50<clrEnd> cr"	"Quest Rvk.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Rvk"	""
 "/quests/Rvk.qmm/jumps/117/description"	"В.В.Од буквально рассвирепел после вашего предложения.
-- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Rvk"	"В.В.Од літаральна ашалеў пасьля вашай прапановы.
+— Ты спрабуеш мяне падкупіць?! Ды пляваў я на твае грошы!!! Я сам табе магу даць у два разы больш, каб толькі больш ніколі не бачыць тут тваю пысу!!!"
 "/quests/Rvk.qmm/jumps/118/description"	"- Ладно, уговорил, - заулыбался В.В.Од, - за <clr>50<clrEnd> cr я дам тебе немного повесток из своих тайных запасов. Я эту заначку прячу даже от жены, но от тебя у меня секретов нет. Ты не подумай, что я взятки беру, будем считать, что ты просто у меня эти повестки купил. 
 
 Заплатить <clr>50<clrEnd> cr за {[p17]} шт. - удачная сделка!"	"Quest Rvk.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
 "/quests/Rvk.qmm/jumps/119/description"	"В.В.Од буквально рассвирепел после вашего предложения.
-- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
+- Ты пытаешься меня подкупить?! Да плевал я на твои деньги!!! Я сам тебе могу дать в два раза больше, чтобы только не видеть больше никогда здесь твою рожу!!!"	"Quest Rvk.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Rvk"	"В.В.Од літаральна ашалеў пасьля вашай прапановы.
+— Ты спрабуеш мяне падкупіць?! Ды пляваў я на твае грошы!!! Я сам табе магу даць у два разы больш, каб толькі больш ніколі не бачыць тут тваю пысу!!!"
 "/quests/Rvk.qmm/jumps/120/description"	"- Ладно, уговорил, - заулыбался В.В.Од, - за <clr>100<clrEnd> cr я дам тебе немало повесток. Перерою все и обеспечу тебя повестками на пару дней. Ты не подумай, что я взятки беру, будем считать, что ты просто у меня эти повестки купил. 
 
 Заплатить <clr>100<clrEnd> cr за {[p17]} шт. - очень удачная сделка!"	"Quest Rvk.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Rvk"	""
