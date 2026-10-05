@@ -1944,7 +1944,7 @@ lemma.lost_dream	Лост Дрим	Lost Dream	Лост/Дрым/Дрыма/Др�
 lemma.coor_leone	Коор-Ле'Оне	clan name	Коор/Ле'Оне		the peleng clan; keep the apostrophe	—
 lemma.karl_street	Карл-стрит	Karl Street clan	стрыт		the human clan; hunspell wants other words	—
 lemma.headache_bat	головобольная	headache bat	галаўбольная		the melee joke; hunspell wants other words	—
-lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка		the tool with charges, not a burglar; hunspell splits it; I узломнікам, G узломніка	—
+lemma.lockpick_tool	взломщик	charged lockpick	узломнік/узломнікам/узломніка/ўзломнік		the tool with charges, not a burglar; hunspell splits it; I узломнікам, G узломніка; ў after a hyphen	—
 lemma.cleaner	уборщица	cleaner	прыбіральніца/прыбіральніцы	прыбіральшчыца	Starnik lists both agent nouns; hunspell knows прыбіральніца	https://starnik.by/pravapis/59928
 lemma.hun	Хун	the contact Hun	Хун/Хуна		a proper name; hunspell wants another word	—
 lemma.va_lin	Линь	Va Lin	Ва/Лінь		the fei businessman; keep both tokens	—
@@ -2485,7 +2485,7 @@ lemma.elus_yellow	Желтый	yellow figure	Жоўты		attribute column, width
 lemma.elus_circle	Круг	circle figure	Круг		attribute column, width 5; the disk, not акружнасьць	https://starnik.by/pravapis/250463
 lemma.elus_rhomb	Ромб	lozenge figure	Ромб		attribute column, width 5	https://starnik.by/pravapis/64837
 lemma.truth	истинность	truth value	ісьціннасьць/ісьціннасьці		logic truth; Starnik ісціннасць, G ісціннасці; tarask keeps the soft signs; hunspell lacks it	https://starnik.by/pravapis/31455
-lemma.elus_onyke	Онайк	O'Nyke	Анайк		contestant; the short form fits the width-17 scoreboard	Elus.qmm
+lemma.elus_onyke	Онайк	O'Nyke	Анайк/Анайка/Анайку/Анайкам		contestant; the short form fits the width-17 scoreboard; G Анайка, D Анайку, I Анайкам	Elus.qmm
 lemma.elus_eo	Эо	Eo	Эо		contestant	Elus.qmm
 lemma.elus_loon	Лун	Loon	Лун		contestant	Elus.qmm
 lemma.elus_ellinar	Эллинар	Ellinar	Эллінар		contestant	Elus.qmm
@@ -2494,3 +2494,10 @@ lemma.elus_phocus	Фокус	Phocus	Фокус		contestant name Phocus, not the 
 lemma.elus_bliuk	Блюк	Bliuk	Блюк		contestant	Elus.qmm
 lemma.elus_agaric	Груздь	Agaric	Грузд		contestant; the mushroom spelling	https://starnik.by/pravapis/20817
 lemma.elus_clod	Тупой	Clod	Тупы		contestant name, the blunt sense	https://starnik.by/pravapis/155278
+lemma.elunie	элуни	elunie	элуні/Элуні		lifelong Elus title; coined from the game name	Elus.qmm
+lemma.laptop	лаптоп	laptop	лэптоп/лэптопа/лэптопе/лэптопам		a small computer; hunspell suggestions are unrelated	https://starnik.by/pravapis/40251
+lemma.envelope	конверт	envelope	канвэрт/канвэрта		paper packet; Starnik канверт, tarask hunspell канвэрт	https://starnik.by/pravapis/32911
+lemma.assistant_title	ассистент	assistant	асыстэнт/Асыстэнт		junior academic title; Starnik асістэнт, hunspell асыстэнт	https://starnik.by/pravapis/6496
+lemma.elus_game	Элус	Elus	Элус/Элусе		the logic game; L Элусе	Elus.qmm
+lemma.elus_lantid	Лантид	Lantid	Лантыд		contestant surname on the width-17 scoreboard	Elus.qmm
+lemma.penalty_adj	штрафной	penalty	штрафное/штрафных		a penalty point; N n штрафное, the о is stressed; G pl штрафных	https://starnik.by/pravapis/162544
