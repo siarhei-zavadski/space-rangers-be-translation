@@ -2539,20 +2539,32 @@ lemma.rustle	шорох	rustle	шорхат/шорхату		a soft scraping soun
 lemma.inward	внутрь	inward	унутр/ўнутр		direction into; hunspell only has унутры, which is location	https://starnik.by/pravapis/250761
 lemma.tseekus	Цикус	Tseekus	Цікус/Цікуса/ЦІКУСА		domino champion; G Цікуса	Doomino.qmm
 lemma.kazaa	Казаа	Kazaa	Казаа/КАЗАА		a domino player	Doomino.qmm
-lemma.faa_luun	Фаа-Луунь	Faa-Luun	Фаа-Луунь/ФАА/ЛУУНЯ		domino player Б.Г.Фаа-Луунь; the header uses the genitive	Doomino.qmm
+lemma.faa_luun	Фаа-Луунь	Faa-Luun	Фаа-Луунь/ФАА/ЛУУНЯ/Лууню		domino player Б.Г.Фаа-Луунь; the header uses the genitive, dative Лууню	Doomino.qmm
 lemma.right_hand_abbr	ПР	RH	ПР		short label for the opponent's right-hand end	Doomino.qmm
 lemma.left_hand_abbr	ЛР	LH	ЛР		short label for the opponent's left-hand end	Doomino.qmm
-lemma.doomino	доомино	doomino	дааміна		coined gaal game; indeclinable, the doubled vowel stays	Doomino.qmm
+lemma.doomino	доомино	doomino	дааміна/Дааміна		coined gaal game; indeclinable, the doubled vowel stays	Doomino.qmm
 lemma.buks	букс	buks	букс/буксу		malok combat sport	Doomino.qmm
-lemma.bbrumel	Ббрумель	Bbrumel	Ббрумель		sports director; the doubled б is the name	Doomino.qmm
+lemma.bbrumel	Ббрумель	Bbrumel	Ббрумель/Ббрумеля/Ббрумелю/ббрумелевага		sports director; the doubled б is the name	Doomino.qmm
 lemma.maadrapur	Маадрапур	Maadrapur	Маадрапур		championship host	Doomino.qmm
 lemma.taron	Тарон	Taron	Тарон		the star this quest starts from	Doomino.qmm
 lemma.olympiad	олимпиада	olympiad	алімпіяда/алімпіяды		the games	https://starnik.by/pravapis/4001
 lemma.olympic	олимпийский	Olympic	алімпійскі/алімпійскай		the Olympic team	https://starnik.by/pravapis/95113
-lemma.humanoid	гуманоид	humanoid	гуманоід/гуманоіды			a person-shaped being	https://starnik.by/pravapis/21226
-lemma.tournament	турнир	tournament	турнір			a sports tournament	https://starnik.by/pravapis/76551
+lemma.humanoid	гуманоид	humanoid	гуманоід/гуманоіды		a person-shaped being	https://starnik.by/pravapis/21226
+lemma.tournament	турнир	tournament	турнір		a sports tournament	https://starnik.by/pravapis/76551
 lemma.hotel	гостиница	hotel	гасьцініца/гасьцініцу	гасцініца	hunspell soft sign; Starnik гасцініца	https://starnik.by/pravapis/18468
-lemma.national_team	сборная	national team	зборная/зборнай			the Olympic squad	https://starnik.by/pravapis/28342
-lemma.uranium_adj	урановый	uranium	уранавы/уранавыя			made of uranium	https://starnik.by/pravapis/157110
+lemma.national_team	сборная	national team	зборная/зборнай		the Olympic squad	https://starnik.by/pravapis/28342
+lemma.uranium_adj	урановый	uranium	уранавы/уранавыя		made of uranium	https://starnik.by/pravapis/157110
 lemma.invitation	приглашение	invitation	запрашэньне	запрашэнне	tarask ь; Starnik запрашэнне	https://starnik.by/pravapis/27542
 lemma.duty_free	беспошлинно	duty-free	бяспошлінна	беспашлінна		https://starnik.by/pravapis/222667
+lemma.mokus	Мокус	Mokus	Мокус		a miswritten dalani in one draw; kept as printed	Doomino.qmm
+lemma.puntsa	Пунца	Puntsa	Пунца/Пунцу		the peleng gambler	Doomino.qmm
+lemma.chekulyaska	Чекуляска	Chekulyaska	Чэкуляска		Puntsa's family name	Doomino.qmm
+lemma.penchkryak	пенчекряк	penchkryak	пэнчэкряк/пэнчэкрякаў		fried snack in the con man's proverb	Doomino.qmm
+lemma.galabook	галакнига	galabook	галякніга/галякнігу/галякнізе/галякнігай		a handheld galactic book	Doomino.qmm
+lemma.galacamera	галакамера	galacamera	галякамэра/галякамэры		a galactic broadcast camera	Doomino.qmm
+lemma.wood_combine	древкомбинат	woodworks	дрэвакамбінат		the furniture sponsor named inside the quote	Doomino.qmm
+lemma.pneumodraisine	пневмодрезина	pneumodraisine	пнеўмадрэзіна/пнеўмадрэзіну		a rail car the ranger jokes into orbit	Doomino.qmm
+lemma.omm	амм	omm	амм		the gaal chant	Doomino.qmm
+lemma.right_cutoff	Спра	cut-off right	Спра		she starts справа and breaks off	Doomino.qmm
+lemma.terroroid	терроноид	terroroid	тэраноід/тэраноіды		a hostile alien the ranger mistakes a green blur for	Doomino.qmm
+lemma.thirst_quencher	УБУЖ	UBUZh	УБУС/УБУСа		Universal Non-Alcoholic Thirst Quencher; the initials follow the Belarusian name	Doomino.qmm
