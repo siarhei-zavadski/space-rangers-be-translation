@@ -1112,10 +1112,10 @@ lemma.shocker	шокер	shocker	шокер/шокерам/шокера	шокэ
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
 lemma.mental	ментал	mental	мэнтал/мэнталаў/мэнталы/Мэнтал		brain-load unit; G pl мэнталаў	Gaidnet.qmm
 lemma.cyberflea	киберблоха	cyberflea	кіберблыха/кіберблыхі	кібэрблыха	spy bug; G кіберблыхі; кібер https://starnik.by/pravapis/35243	https://starnik.by/pravapis/10994
-lemma.cybermind	Киберразум	Cybermind	Кіберрозум/Кіберрозуму		the AI; кібер not кібэр; G Кіберрозуму	https://starnik.by/pravapis/35243
+lemma.cybermind	Киберразум	Cybermind	Кіберрозум/Кіберрозуму/Кіберрозумам/Кіберрозумы		the AI; кібер not кібэр; G Кіберрозуму; D pl Кіберрозумам; N pl Кіберрозумы	https://starnik.by/pravapis/35243
 lemma.cyberspace	киберпространство	cyberspace	кіберпрастора/кіберпрасторы/кіберпрастору/кіберпрасторавай/кіберпрасторавая/кіберпрасторавымі		compound of кібер + прастора; hunspell misses it	https://starnik.by/pravapis/35243
 lemma.steve	Стив	Steve	Стыў/Стыва		the guard in the desert; hunspell misses the name	—
-lemma.umbrotek	Умбротек	Umbrotek	Умбротэк/Умбротэка/Умбротэку		the corporation; tarask э	—
+lemma.umbrotek	Умбротек	Umbrotek	Умбротэк/Умбротэка/Умбротэку/Умбротек		the corporation; tarask э; Умбротек is the console password, frozen	—
 lemma.simons	Симонс	Simons	Сімонс/Сімонса/Сімонсам/Сімонсу		the employer; D Сімонсу; hunspell misses the name	—
 lemma.point_joke	Тшеймс Пойнт	the Bond-shaped joke	Тшэймс/Пойнт		Simons says Point... James Point	—
 lemma.download	скачать	download	спампаваць/спампуйце	пампаваць	imperative спампуйце; hunspell suggests to pump	https://starnik.by/pravapis/213632
