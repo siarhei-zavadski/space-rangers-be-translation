@@ -117,7 +117,7 @@ lemma.missile	ракета	rocket	ракета		Starnik: ракетная збр
 lemma.skill	навык	skill	навык		Starnik: мн. навыкі	—
 lemma.license	лицензия	license	ліцэнзія		Starnik	—
 lemma.hull_pl	корпуса	hulls	карпусы/карпус/карпуса/карпусе		Starnik: ship/mech pl карпусы, родны карпусоў	—
-lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
+lemma.droid	дроид	droid	дроід/дроіды/дроідаў/дроіда/дроіду/дроідзе/Дроід/Дроіды/дроідамі/дроідных/Дроідных/Дроідны		N pl дроіды; Gpl дроідаў; I pl дроідамі; adj Gpl дроідных	—
 lemma.die	погибнуть	die	загінуць		Starnik	—
 lemma.hull_skin	обшивка	hull plating	абшыўка		Starnik	—
 lemma.klissan	клисан	klissan	клісан/клісанаў/клісанамі/клісанскі/Клісанскі/клісаны/Клісаны/клісана/клісанскай/клісаніна/клісанін/клісанскіх/Клісан/Клісанскай/клісанка/клісанскую/клісанам		game race; pl клісаны, клісанаў; instrumental клісанамі, sg клісанам; song клісанка	—
@@ -1021,7 +1021,7 @@ lemma.jumpmeter	Джамперметр	Jumpmeter	Джампэрмэтар/Джа
 lemma.grabitization	прихватизация	expropriation	прыхватызацыі	прыватызацыі	joke blend of grabbing and privatization; hunspell drops the pun	STQ_Baron2.qmm
 lemma.san_holo	Сан Холо	San Holo	Сан/Сана/Хола		the name shouted at the suppressor; hunspell maps Сана elsewhere	STQ_Baron2.qmm
 lemma.nevits_gnik	Невитс и Гник	Nevits & Gnik	Нэвіц/Гнік		horror-park company; hunspell maps the names to nicknames	Badday.qmm
-lemma.videophone	видеофон	videophone	відэафон/відэафона	відэадамафон	wall screen-phone; hunspell invents a ladies' phone	Badday.qmm
+lemma.videophone	видеофон	videophone	відэафон/відэафона/відэафонам	відэадамафон	wall screen-phone; hunspell invents a ladies' phone	Badday.qmm
 lemma.cesska	Цесска	Cesska	Цэска/Цэскай/Цэскі/Цэску		album name; hunspell has no such name	Badday.qmm
 lemma.ritz	Риц	Ritz	Рыц/Рыцам/Рыца		album surname; hunspell has no such name	Badday.qmm
 lemma.shitzka	Шицка	Shitzka	Шыцка/Шыцку		album name; hunspell has no such name	Badday.qmm
@@ -1221,7 +1221,7 @@ lemma.goshi	гоши	Goshi	гошы		lost civilisation; the cipher words stay ap
 lemma.goshi_code	чеза / ти / пнял	Goshi cipher	чеза/ти/пнял		cipher atoms stay byte-identical, including Russian и in ти	Muzon.qmm
 lemma.lamer	ламер	lamer	ламер/ламеры		insult beside the ranger name Лаамер	Muzon.qmm
 lemma.gulden	гольден	gulden	гульдэн/гульдэнаў	гальден	local taxi currency	https://starnik.by/pravapis/21175
-lemma.fellow	попутчик	fellow rider	папутнік/Папутнік/папутніка	спадарожнік	hunspell suggestions are unrelated	https://starnik.by/pravapis/52815
+lemma.fellow	попутчик	fellow rider	папутнік/Папутнік/папутніка/папутнікі	спадарожнік	hunspell suggestions are unrelated; N pl папутнікі	https://starnik.by/pravapis/52815
 lemma.colander	дуршлаг	colander	друшляк	дуршлаг	the shot-up car	https://starnik.by/pravapis/23541
 lemma.canopus	Канопус	Canopus	Канопус		star name	Taxist.qmm
 lemma.daniel	Даниэль	Daniel	Даніель	Даніэль	hunspell е; Starnik headword is Даніэль	https://starnik.by/pravapis/89266
@@ -1806,7 +1806,7 @@ lemma.streglyach	стреглячка	coined bird	стрэглячка/стрэ�
 lemma.stereograph	стереографика	stereographics	стэрэаграфіка/стэрэаграфіку		the fake stump's graphics; Starnik has the adjective стэрэаграфічны	https://starnik.by/pravapis/152378
 lemma.cutoff_stolen	украден	stolen, cut off	укра		the healer's укра... before he says куплены	—
 lemma.fasttalk	скороговорка	tongue-twister	хуткамоўка/хуткамоўкай		Starnik хуткамоўка; hunspell suggests хутканогай, a different word	https://starnik.by/pravapis/82481
-lemma.interface	интерфейс	interface	інтэрфэйс/інтэрфэйсо/інтэрфэйсу		Starnik інтэрфэйс; hunspell suggests інтэрфэрон, a different word; інтэрфэйсо is the door's broken try	https://starnik.by/pravapis/31175
+lemma.interface	интерфейс	interface	інтэрфэйс/інтэрфэйсо/інтэрфэйсу/інтэрфэйсам		Starnik інтэрфэйс; hunspell suggests інтэрфэрон, a different word; інтэрфэйсо is the door's broken try; I інтэрфэйсам	https://starnik.by/pravapis/31175
 lemma.init_module	инициализация	initialization	ініцыялізацыі		the linguistic-module error; Starnik ініцыялізацыя; G is a hunspell gap	https://starnik.by/pravapis/30817
 lemma.vat	НДС	VAT	ПДВ		value-added tax on the buyer's sign; hunspell suggestion is another word	—
 lemma.kuroswin	куросвин	hen-pig	курасвіна		the malok who looks like a hen and a pig; not in Starnik	—
@@ -1934,7 +1934,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны		Starnik плазменны; tarask пля-; hunspell wants another word	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, m gen плязменнага	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2234,7 +2234,7 @@ lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/н�
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
 lemma.factory	завод	factory	завод/завода/заводаў		an industrial plant, sense 1; genitive -а	https://starnik.by/pravapis/26361
-lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/варвары		Starnik noun; hunspell wants барбар. New lines use варвар	https://starnik.by/pravapis/13378
+lemma.barbarian_n	варвар	barbarian	варвар/варвара/варвараў/варварамі/варвары/варварам		Starnik noun; hunspell wants барбар. New lines use варвар; D pl варварам	https://starnik.by/pravapis/13378
 lemma.civill	Цивилл	Civill	Цывіл		colony civil-affairs specialist; coined surname	Colonization.qmm
 lemma.wall	стена	wall	сьцяна/сьцяны/сьцяне		a wall; Starnik сцяна, hunspell inserts ь	https://starnik.by/pravapis/73984
 lemma.discharge	разряд	discharge	разрад/разрады/разраду		electrical discharge, sense 2; not the stunner charge зарад	https://starnik.by/pravapis/63503
@@ -2249,3 +2249,28 @@ lemma.democracy	демократия	democracy	дэмакратыя		rule by the
 lemma.dictatorship	диктатура	dictatorship	дыктатура		rule that rests on force	https://starnik.by/pravapis/24036
 lemma.commission	комиссия	commission	камісія/камісіі		a body sent to inspect	https://starnik.by/pravapis/32554
 lemma.village	деревня	village	вёска/вёскі/вёсках		a village; locative plural вёсках	https://starnik.by/pravapis/14071
+lemma.amiolis	Амиолис	Amiolis	Аміёліс		temporary governor of the colony	Colonization.qmm
+lemma.sid_meier	Сид Мейер	Sid Meier	Сід/Мэер		the default ranger name, a Sid Meier joke	Colonization.qmm
+lemma.zhorsh	Жорш Бдуш	Zhorsh Bdush	Жорш/Бдуш/Жоршам/Бдушам		Amiolis's colleague on the videophone	Colonization.qmm
+lemma.raganrok	Раганрок	Raganrok	Раганрок		the maloq in charge of construction	Colonization.qmm
+lemma.lyaobab	ляобаб	lyaobab	ляобаб		the tree the hot chocolate comes from	Colonization.qmm
+lemma.pirella	пирелла	pirella	пірэла/пірэламі		a wild spider the settlers throw	Colonization.qmm
+lemma.kvakto	квакто-усы	cactus-whiskers	квакта-вусы/квакта-вусоў		a desert plant	Colonization.qmm
+lemma.halotext	галотекст	holotext	галятэкст		a transparent sheet with a speech	Colonization.qmm
+lemma.halopaper	галобумага	holopaper	галяпапера/галяпаперу		a transparent sheet with a 3D interface	Colonization.qmm
+lemma.halosheet	галолист	holosheet	галяліст/галяліста		the builder's transparent list	Colonization.qmm
+lemma.polyconcrete	полибетон	polyconcrete	полібэтон/полібэтонную		the landing pad's concrete	Colonization.qmm
+lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону		the wall's concrete	Colonization.qmm
+lemma.mutenok	мутенок	little muten	мутэнак/мутэнка/мутэнку/Мутэнку/мутэнкаў		a small ship in the ranger's dream; D Мутэнку, Gpl мутэнкаў	Colonization.qmm
+lemma.hegemon	эгемон	hegemon	эгемон		a klissan ship in the ranger's dream	Colonization.qmm
+lemma.castor	Кастор	Castor	Кастар		the star the dream leaves	Colonization.qmm
+lemma.rigger	Риггер	Rigger	Рыгер		the hegemon that turns into Blazer	Colonization.qmm
+lemma.terronoid	терроноид	terronoid	тэроноід/тэроноідаў		a robot of Terron in the dream	Colonization.qmm
+lemma.synthesization	синтезация	synthesization	сынтэзацыі		Amiolis's made-up word for synthesis	Colonization.qmm
+lemma.betelgeuse_full	Бетельгейзе	Betelgeuse	Бэтэльгейзэ		the star; same spelling as Бельгейзе	Colonization.qmm
+lemma.oasis	оазис	oasis	аазіс/аазіса		a watered place in the desert; G аазіса	https://starnik.by/pravapis/5
+lemma.manmade	рукотворный	man-made	рукатворны/рукатворнага		made by people	https://starnik.by/pravapis/146756
+lemma.shower	обсыпать	to shower	абсыпаўшы		gerund of абсыпаць	https://starnik.by/pravapis/166181
+lemma.cknp	ЦКНП	CCUP	ЦКНП		Center for Colonization of Uninhabited Planets	Colonization.qmm
+lemma.raygun	лучемет	raygun	прамянёмёт/прамянёмётаў		a ray gun in the dream	Colonization.qmm
+lemma.polyplastic	полипластик	polyplastic	поліплястык/поліплястыку/поліплястыкавыя		the colony's plastic	Colonization.qmm

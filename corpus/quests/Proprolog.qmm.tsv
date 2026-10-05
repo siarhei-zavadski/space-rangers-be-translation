@@ -202,7 +202,7 @@
 "/quests/Proprolog.qmm/tostar"	"Солнце"	"Quest Proprolog.qmm: tostar. Preserve every <tag> exactly."	"Quest,Proprolog"	"Сонца"
 "/quests/Proprolog.qmm/toplanet"	"Земля"	"Quest Proprolog.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Proprolog"	"Зямля"
 "/quests/Proprolog.qmm/fromplanet"	"Большой Котел"	"Quest Proprolog.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Proprolog"	""
-"/quests/Proprolog.qmm/fromstar"	"Бетельгейзе"	"Quest Proprolog.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Proprolog"	""
+"/quests/Proprolog.qmm/fromstar"	"Бетельгейзе"	"Quest Proprolog.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Proprolog"	"Бэтэльгейзэ"
 "/quests/Proprolog.qmm/ranger"	"Bret"	"Quest Proprolog.qmm: ranger. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/success_text"	"Наслышан о ваших приключениях, <Ranger>! Вы добыли чрезвычайно полезную научную информацию. Подумать только, рейнджеры действительно бороздят космос уже более тысячелетия! Вот только как это может помочь нам решить наши сегодняшние проблемы, разбить доминаторов? А впрочем, Галактическому Совету виднее. Раз уж они перевели на ваш счет <Money> cr, то, наверное, в этом есть какой-то толк."	"Quest Proprolog.qmm: success_text. Preserve every <tag> exactly."	"Quest,Proprolog"	""
 "/quests/Proprolog.qmm/task_text"	"Знаете ли вы, <Ranger>, что рейнджерское движение на самом деле зародилось более 1000 лет назад? Такое открытие сделал институт Истории Освоения Космоса на планете <ToPlanet> в системе <ToStar>. Так вот, им сейчас нужен рейнджер для одного опасного, но безумно интересного эксперимента. Что-то связанное с путешествиями во времени...
