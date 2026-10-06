@@ -2784,7 +2784,7 @@ lemma.master_gonsky	Мастер-Гонский	Master-Gonsky	Майстар-Г�
 lemma.imbets	Имбец	Imbets	Імбец		censor; фон and Даўні pass hunspell	—
 lemma.odnobraz	Однобраз	Odnobraz	Аднабраз		censor; the name echoes однообразие	—
 lemma.ayaya	Аяя	Ayaya	Аяя		censor	—
-lemma.shmak	Ля-ле-Шмак	Lya-le-Shmak	Ля-ле-Шмаку		censor; dative in the bribe line	—
+lemma.shmak	Ля-ле-Шмак	Lya-le-Shmak	Ля-ле-Шмаку/Шмака		censor; dative Шмаку, genitive Шмака	—
 lemma.tuf_tuev	Туф-Туев	Tuf-Tuev	Туф-Туеў		censor; Туф passes hunspell	—
 lemma.pl_marker	Пл.	dev abbreviation	Пл		left in the GLAVRED news-parameter name	—
 lemma.capital	столица	capital	сталіца/Сталіца		the main city	https://starnik.by/pravapis/71818
@@ -2825,3 +2825,25 @@ lemma.toggle	тумблер	toggle	тумблер/тумблеры		a mechanical
 lemma.trifle	пустяк	trifle	дробязь/дробязяў		something too small to matter	https://starnik.by/pravapis/23466
 lemma.expertise	экспертиза	expertise	экспэртыза/экспэртызу	экспертыза	an expert review; hunspell э	https://starnik.by/pravapis/86725
 lemma.antediluvian	допотопный	antediluvian	дапатопны		outdated, sense 2	https://starnik.by/pravapis/108105
+lemma.grade	оценка	grade	адзнака/Адзнакі/адзнаку		numeric mark; ацэнка sense 3 names адзнака, and пяцібальная is that scale	https://starnik.by/pravapis/2201
+lemma.expert	эксперт	expert	экспэрт/экспэртамі	эксперт	Starnik official е; hunspell э	https://starnik.by/pravapis/86723
+lemma.section	раздел	section	разьдзел/разьдзелы	раздзел	a part of a book or paper, sense 2; hunspell soft sign	https://starnik.by/pravapis/63213
+lemma.verdict	вердикт	verdict	вэрдыкт	вердыкт	a ruling; Starnik е, hunspell э	https://starnik.by/pravapis/13954
+lemma.humor	юмор	humor	гумар/Гумару		the comic department of a paper, sense 2; G гумару	https://starnik.by/pravapis/21228
+lemma.review	рецензия	review	рэцэнзія/Рэцэнзіямі		a critical notice; instrumental plural рэцэнзіямі	https://starnik.by/pravapis/66336
+lemma.connoisseur	знаток	connoisseur	знаўца		nominative variant of знавец	https://starnik.by/pravapis/29500
+lemma.layout	оформление	layout	афармленьне/афармленьня	афармленне	the look of a book, sense 2; hunspell ь	https://starnik.by/pravapis/7755
+lemma.voting	голосование	voting	галасаваньне/галасаваньня	галасаванне	casting votes; hunspell ь; G галасаваньня	https://starnik.by/pravapis/17604
+lemma.opinion	мнение	opinion	меркаваньне/меркаваньні	меркаванне	a view, sense 1; hunspell ь	https://starnik.by/pravapis/42888
+lemma.hack	поделка	hack	халтура		slipshod work and its product, sense 2; Эта here is the pronoun	https://starnik.by/pravapis/81440
+lemma.reader	читатель	reader	чытач/чытачоў		the person a text addresses, sense 1; G pl чытачоў	https://starnik.by/pravapis/84476
+lemma.laziness	лень	laziness	лянота		sense 2, a predicate: no wish to act	https://starnik.by/pravapis/40492
+lemma.duty	долг	duty	абавязак		what one must carry out	https://starnik.by/pravapis/57
+lemma.hardware	железо	hardware	Жалеза		magazine hardware rubric; the metal, products of iron, sense 2	https://starnik.by/pravapis/25490
+lemma.gamestroy	Игрострой	game industry	Гульнябуд		coined magazine section	—
+lemma.literary	литературный	literary	літаратурны		matching the written norm; літаратурны стыль	https://starnik.by/pravapis/121601
+lemma.style	стиль	style	стыль		a manner of execution	https://starnik.by/pravapis/72588
+lemma.artistic	художественный	artistic	мастацкі/мастацкага		of the form of a work of art, sense 4	https://starnik.by/pravapis/123422
+lemma.sacred	священный	sacred	сьвяшчэнны	свяшчэнны	sense 4, noble; the Starnik example is свяшчэнны абавязак; hunspell soft sign	https://starnik.by/pravapis/149194
+lemma.feeling	чувство	feeling	пачуцьце/пачуцьцях		a mental state, sense 2; locative plural пачуцьцях	https://starnik.by/pravapis/54547
+lemma.cabinet	кабинет	office	кабінэт/кабінэце		a work room, sense 1; Starnik кабінет, hunspell кабінэт; older rows keep кабінет	https://starnik.by/pravapis/31587
