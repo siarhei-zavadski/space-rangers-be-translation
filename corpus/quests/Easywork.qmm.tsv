@@ -1337,28 +1337,32 @@
 "/quests/Easywork.qmm/jumps/23/text"	"Съездить на улицу Яркого Альтаира"	"Quest Easywork.qmm: jumps.23.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Зьезьдзіць на вуліцу Яркага Альтаіра"
 "/quests/Easywork.qmm/jumps/24/text"	"Поехать на улицу Яркого Альтаира"	"Quest Easywork.qmm: jumps.24.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Паехаць на вуліцу Яркага Альтаіра"
 "/quests/Easywork.qmm/jumps/25/text"	"Поехать на Грязеболотный Проспект"	"Quest Easywork.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Паехаць на Гразебалотны праспэкт"
-"/quests/Easywork.qmm/jumps/26/text"	"Отправиться на стоянку гравитакси и начать проверять адреса"	"Quest Easywork.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/26/text"	"Отправиться на стоянку гравитакси и начать проверять адреса"	"Quest Easywork.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адправіцца на стаянку гравітаксі і пачаць правяраць адрасы"
 "/quests/Easywork.qmm/jumps/26/description"	"Уже подойдя к стоянке, вы увидели рекламный плакат, гласивший: ""Такси Каа-Заани - <clr>всего за 10 cr мы доставим вас в любую точку города<clrEnd>!"" 
 Итак, вы стоите на стоянке гравитакси."	"Quest Easywork.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Ужо падышоўшы да стаянкі, вы ўбачылі рэклямны плякат, які абвяшчаў: «Таксі Каа-Заань — <clr>усяго за 10 cr мы даставім вас у любы пункт горада<clrEnd>!» 
 Такім чынам, вы стаіце на стаянцы гравітаксі."
-"/quests/Easywork.qmm/jumps/27/text"	"Достал меня этот агент, еще время на его поиски тратить! Улетаю отсюда!"	"Quest Easywork.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/28/text"	"Уйти от этой чокнутой барышни"	"Quest Easywork.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/27/text"	"Достал меня этот агент, еще время на его поиски тратить! Улетаю отсюда!"	"Quest Easywork.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Надакучыў мне гэты агент, яшчэ час на яго пошукі траціць! Адлятаю адсюль!"
+"/quests/Easywork.qmm/jumps/28/text"	"Уйти от этой чокнутой барышни"	"Quest Easywork.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Сысьці ад гэтай шалёнай дзяўчыны"
 "/quests/Easywork.qmm/jumps/28/description"	"- Да ну тебя! Мне мама говорила не общаться с незнакомцами! - ответили вы, и пошли обратно на площадь. Девушка остановилась, но не предприняла попытки вас задержать. Потом она еще некоторое время растерянно смотрела вам вслед. 
-- Черт! Ну ладно, сам виноват, - произнесла она, резко развернулась и пошла по улице. Впрочем, вы этого уже не видели."	"Quest Easywork.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/29/text"	"Подойти к пеленгу, перед которым стоит гора выпивки"	"Quest Easywork.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/30/text"	"Отойти от служащего почты"	"Quest Easywork.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/31/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/32/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/33/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/34/text"	"Найти свободное такси"	"Quest Easywork.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+- Черт! Ну ладно, сам виноват, - произнесла она, резко развернулась и пошла по улице. Впрочем, вы этого уже не видели."	"Quest Easywork.qmm: jumps.28.description. Preserve every <tag> exactly."	"Quest,Easywork"	"- Ды ну цябе! Мне мама казала не гаварыць з незнаёмцамі! — адказалі вы і пайшлі назад на плошчу. Дзяўчына спынілася, але не зрабіла спробы вас затрымаць. Потым яна яшчэ нейкі час разгублена глядзела вам усьлед. 
+- Чорт! Ну добра, сам вінаваты, — прамовіла яна, рэзка разьвярнулася і пайшла па вуліцы. Зрэшты, вы гэтага ўжо не бачылі."
+"/quests/Easywork.qmm/jumps/29/text"	"Подойти к пеленгу, перед которым стоит гора выпивки"	"Quest Easywork.qmm: jumps.29.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Падысьці да пеленга, перад якім стаіць гара выпіўкі"
+"/quests/Easywork.qmm/jumps/30/text"	"Отойти от служащего почты"	"Quest Easywork.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адысьці ад службоўца пошты"
+"/quests/Easywork.qmm/jumps/31/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
+"/quests/Easywork.qmm/jumps/32/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
+"/quests/Easywork.qmm/jumps/33/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
+"/quests/Easywork.qmm/jumps/34/text"	"Найти свободное такси"	"Quest Easywork.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Знайсьці вольнае таксі"
 "/quests/Easywork.qmm/jumps/34/description"	"Вы сели в первое попавшееся свободное такси.  
 - Куда едем? - спросил вас водитель.
-- А я не знаю... - ответили вы и, почувствовав себя полным придурком, вышли из машины и отправились обратно на площадь."	"Quest Easywork.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/35/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/36/text"	"Дать денег"	"Quest Easywork.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+- А я не знаю... - ответили вы и, почувствовав себя полным придурком, вышли из машины и отправились обратно на площадь."	"Quest Easywork.qmm: jumps.34.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы селі ў першае вольнае таксі, якое трапілася.  
+- Куды едзем? — спытаў вас кіроўца.
+- А я ня ведаю... — адказалі вы і, адчуўшы сябе поўным прыдуркам, выйшлі з машыны і адправіліся назад на плошчу."
+"/quests/Easywork.qmm/jumps/35/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
+"/quests/Easywork.qmm/jumps/36/text"	"Дать денег"	"Quest Easywork.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Даць грошай"
 "/quests/Easywork.qmm/jumps/36/description"	"Гаалец быстро сунул купюру в карман и начал демонстративно рыться в компьютере. 
-- О! Нашел! Номер 407 как раз недавно освободился."	"Quest Easywork.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/37/text"	"Пройти в номер"	"Quest Easywork.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+- О! Нашел! Номер 407 как раз недавно освободился."	"Quest Easywork.qmm: jumps.36.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Гаалец хутка сунуў купюру ў кішэню і пачаў паказальна рыцца ў кампутары. 
+- О! Знайшоў! Нумар 407 якраз нядаўна вызваліўся."
+"/quests/Easywork.qmm/jumps/37/text"	"Пройти в номер"	"Quest Easywork.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Прайсьці ў нумар"
 "/quests/Easywork.qmm/jumps/38/text"	"Зайти в отель"	"Quest Easywork.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/39/text"	"Найти информацию по предоставлению номера в отеле"	"Quest Easywork.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/40/text"	"Подойти к роботу-информатору"	"Quest Easywork.qmm: jumps.40.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
@@ -1722,7 +1726,7 @@
 "/quests/Easywork.qmm/jumps/275/text"	"Сказать пароль"	"Quest Easywork.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Сказаць пароль"
 "/quests/Easywork.qmm/jumps/276/text"	"Пойти в бар ""Д-эль"""	"Quest Easywork.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/278/text"	"В бар ""Д-эль"""	"Quest Easywork.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Easywork"	"У бар «Д-эль»"
-"/quests/Easywork.qmm/jumps/279/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/279/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
 "/quests/Easywork.qmm/jumps/280/text"	"Отпить немного"	"Quest Easywork.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/281/text"	"Отказаться"	"Quest Easywork.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адмовіцца"
 "/quests/Easywork.qmm/jumps/282/text"	"Отпить немного, но не глотать"	"Quest Easywork.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
@@ -1736,8 +1740,8 @@
 "/quests/Easywork.qmm/jumps/289/description"	"Вы с силой толкнули столик, стоящий перед вами, на Либермана. Удар пришелся ему как раз по коленным чашечкам. Теряя равновесие и падая, он выстрелил в вас и <clr>попал в плечо<clrEnd>. Падая, он ударился головой об угол стола. Вы подошли к нему и пощупали пульс. <clr>Либерман был мертв.<clrEnd>
 Вы решили взять бластер, но он не работал у вас в руках, так как, видимо, был закодирован на отпечатки владельца. 
 Выйдя из дома, вы отправились в сторону города, так как такси здесь не ездили. На дорогу ушло около получаса, а затем, уже в черте города, вы смогли поймать такси. Куда же теперь ехать? Может быть, вообще убраться с этой планеты поскорее, от греха подальше?"	"Quest Easywork.qmm: jumps.289.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/290/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/291/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/290/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.290.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
+"/quests/Easywork.qmm/jumps/291/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.291.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца на плошчу"
 "/quests/Easywork.qmm/jumps/292/text"	"Кто вы, и почему вы угрожали мне пистолетом?"	"Quest Easywork.qmm: jumps.292.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/293/text"	"Кто вы такая?"	"Quest Easywork.qmm: jumps.293.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/294/text"	"А про это-то вы откуда знаете?"	"Quest Easywork.qmm: jumps.294.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
