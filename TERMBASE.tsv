@@ -1919,7 +1919,7 @@ lemma.headshot	хедшот	headshot	хедшот		the gamer word in quotes; hun
 lemma.send_cutoff	отпра	cut-off sent	адпра		she starts адправіла and breaks off; hunspell wants other words	—
 lemma.autodoc	автодок	autodoc	аўтадок/аўтадока		the virtual hospital machine; coined; hunspell wants another word	—
 lemma.glitch_verb	глючить	to glitch	глючыць		game slang; Starnik; hunspell wants ўключыць	https://starnik.by/pravapis/175761
-lemma.perverted	извращенец	pervert	збочаны		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/113580
+lemma.perverted	извращенец	pervert	збочаны/збочаным		Starnik; hunspell suggestions are other words; D pl збочаным	https://starnik.by/pravapis/113580
 lemma.merry	весело	merrily	вясёла		adverb; Starnik; hunspell wants вясла, the oars	https://starnik.by/pravapis/223120
 lemma.predatory	хищно	predatorily	Драпежна/драпежна		adverb of драпежны; Starnik; hunspell has the adjective only	https://starnik.by/pravapis/223652
 lemma.body_move	телодвижение	body movement	целарух/целарухі		Starnik; hunspell splits it	https://starnik.by/pravapis/82654
@@ -2901,3 +2901,4 @@ lemma.tumbler	стаканчик	disposable cup	кубачак/кубачкі		S
 lemma.brawl	драка	brawl	бойка/бойку		a fight with blows, sense 2	https://starnik.by/pravapis/11123
 lemma.pupyrkin	Пупыркин	Pupyrkin	Пупыркін		joke surname in a game title	—
 lemma.malokhasoft	МалёхаСофт	MalokhaSoft	МалёхаСофт		coined game publisher	—
+lemma.ahem	кхм	ahem	Кхм		a throat-clearing sound, not a word	—
