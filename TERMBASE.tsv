@@ -1242,7 +1242,7 @@ lemma.shumalko	Михалко Шумалько	Mikhalko Shumalko	Міхалка/
 lemma.shmalts	Виктор Шмальц	Viktor Shmalts	Віктар/Шмальц/Шмальца	Шмалец	surname; hunspell Шмалец is lard	Taxist.qmm
 lemma.borjomi	Боржоми	Borjomi	Баржомі		mineral-water brand in the proverb	Taxist.qmm
 lemma.ginosol	гиносол	ginosol	гінасол/Гінасол/гінаправод		coined car fluid and its hose	Taxist.qmm
-lemma.explosive	взрывчатка	explosive	выбухоўка/выбухоўкі/выбухоўку/выбухоўкай/выбухоўцы		substance; hunspell only suggests the adjective	https://starnik.by/pravapis/15603
+lemma.explosive	взрывчатка	explosive	выбухоўка/выбухоўкі/выбухоўку/выбухоўкай/выбухоўцы/Выбухоўка		substance; hunspell only suggests the adjective; bill capital Выбухоўка	https://starnik.by/pravapis/15603
 lemma.narcotic	наркотик	narcotic	наркотык/наркотыку/наркотыкі/наркотыкаў/наркотыкамі	наркатык	substance, genitive -у; addict sense takes -а	https://starnik.by/pravapis/46135
 lemma.vial	флакон	vial	флякон/флякончык	флакон/флакончык	hunspell wins	https://starnik.by/pravapis/80420
 lemma.porter	портье	hotel porter	парцье/Парцье	порцье	indeclinable hotel porter	https://starnik.by/pravapis/53429
@@ -3098,7 +3098,7 @@ lemma.middle_earth	Средиземье	Middle-earth	Міжзем'е/Міжзе�
 lemma.mordor	Мордор	Mordor	Мордар/Мордара/Мордару		coined place; not Морда, which is a muzzle	—
 lemma.cloaca	клоака	cloaca	кляака/кляацы	клаака/клоака	a filthy place; Starnik клаака, hunspell я	https://starnik.by/pravapis/35790
 lemma.sprat	селявка	sprat	кілька/кількі		a small herring; the fish flopping in the fisherman's hands	https://starnik.by/pravapis/35363
-lemma.training	тренировка	training	трэніроўка/трэніроўкі		practice; Starnik трэніроўка, hunspell lacks it	https://starnik.by/pravapis/76302
+lemma.training	тренировка	training	трэніроўка/трэніроўкі/трэніроўкам		practice; Starnik трэніроўка, hunspell lacks the dative plural	https://starnik.by/pravapis/76302
 lemma.sagard	Сагард	Sagard	Сагард/Сагарда		the vrell trader	—
 lemma.hvacheron	хвачерон	hvacheron	хвачэрон		coined shell of a hvacher; ч+э	—
 lemma.shaman	шаман	shaman	шаман/шамана/Шаман/Шаманам		a spirit-priest; N шаман G шамана I Шаманам	https://starnik.by/pravapis/84690
@@ -3123,7 +3123,7 @@ lemma.kuchum	кучум	kuchum	кучум/кучуме		coined pointed vrell dwe
 lemma.parcel	посылка	parcel	пасылка/пасылку		a packed thing that is sent, sense 2	https://starnik.by/pravapis/53767
 lemma.sniper	снайпер	sniper	снайпэр	снайпер	a marksman; Starnik снайпер, hunspell э	https://starnik.by/pravapis/70622
 lemma.hryupel	хрюпель	hryupel	хрюпель/хрюпеляў/Хрюпелі/хрюпелі		coined local coin; G pl хрюпеляў; hunspell suggestion is a tiller	—
-lemma.commando	коммандо	commando	камандо		a commando unit; hunspell suggestions are other words	—
+lemma.commando	коммандо	commando	камандо/Камандо		a commando unit; hunspell suggestions are other words	—
 lemma.gravcushion	гравиподушка	grav-cushion	гравіпадушка/гравіпадушцы		the train's hover cushion; L гравіпадушцы	—
 lemma.emp	ЭМИ	EMP	ЭМІ		electromagnetic pulse	—
 lemma.breakfast	завтрак	breakfast	сьняданак/сьняданкі	сняданак	a morning meal, colloquial for снеданне; Starnik сняданак, hunspell сь; N pl сьняданкі	https://starnik.by/pravapis/70709
@@ -3326,3 +3326,5 @@ lemma.pretext	предлог	a pretext	падстава		a stated reason, sense 
 lemma.assault	штурм	an assault	штурм/штурму	штурман	sense 1, an attack on a strongpoint; G штурму, not the navigator	https://starnik.by/pravapis/85821
 lemma.snare	ловушка	a snare	пастка/пастку		sense 2, a lure into danger; A пастку	https://starnik.by/pravapis/53695
 lemma.corpse	труп	a corpse	труп		a dead body	https://starnik.by/pravapis/75935
+lemma.infantryman	пехотинец	infantryman	пехацінец/пехацінцаў/пехацінца	пяхотнік	Starnik пехацінец, a foot soldier; hunspell accepts it and rejects пяхотнікаў	https://starnik.by/pravapis/56474
+lemma.electronics_tech	электронщик	electronics tech	электроншчык/Электроншчык/Электроншчыкаў		colloquial specialist; hunspell suggestions are other words	https://starnik.by/pravapis/87245

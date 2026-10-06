@@ -909,7 +909,29 @@
 <format=left,1></format><format=left,20>Граната с газом</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
 <format=left,1></format><format=left,20>ЭМИ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
 <format=left,1></format><format=left,20>Электронная разведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
-<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.137.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.137.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы можаце наняць байцоў наступных спэцыяльнасьцяў:
+<clr>Лёгкі пехацінец<clrEnd> — баец зь лёгкай зброяй. Дзякуючы гэтаму можа перасоўвацца даволі хутка. 
+Найм — {500} cr.
+<clr>Цяжкі пехацінец<clrEnd> — баец зь цяжкай магутнай зброяй. Праз гэта перасоўваецца марудна і неасьцярожна. 
+Найм — {700} cr.
+<clr>Камандо<clrEnd> — прафэсійны, добра ўзброены баец. Дзякуючы пастаянным трэніроўкам можа перасоўвацца хутка і неўзаметку. 
+Найм — {1000} cr.
+<clr>Снайпэр<clrEnd> — прафэсійны стралок з далёкіх дыстанцыяў. 
+Найм — {2000} cr.
+<clr>Электроншчык<clrEnd> — прафэсіянал у галіне электронікі. Можа ўзломваць электронную абарону. 
+Найм — {4000} cr.
+
+<fix><format=left,1></format><format=center,20>У замове:</format><format=left,3></format><format=center,10>Цана, cr:</format><format=left,3></format><format=center,10>Колькасьць:</format>
+<format=left,1></format><format=left,20>Лёгкіх пехацінцаў</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
+<format=left,1></format><format=left,20>Цяжкіх пехацінцаў</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
+<format=left,1></format><format=left,20>Камандо</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p9]}</format>
+<format=left,1></format><format=left,20>Снайпэраў</format><format=left,3></format><format=right,7>{2000}</format><format=left,3></format><format=right,12>{[p11]div1000}</format>
+<format=left,1></format><format=left,20>Электроншчыкаў</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p11]mod1000}</format>
+<format=left,1></format><format=left,20>Выбухоўка</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[5;6;8;9]}</format>
+<format=left,1></format><format=left,20>Граната з газам</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
+<format=left,1></format><format=left,20>ЭМІ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
+<format=left,1></format><format=left,20>Электронная выведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
+<format=left,1></format><format=left,20>Дэсантны флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"
 "/quests/Easywork.qmm/locations/138/texts/0/text"	"Снаряжение оказалось довольно дорогим, да, к тому же, все было только в одном экземпляре. Итак, вы можете:
 Купить <clr>гранату с сонным газом<clrEnd> - хорошо действует против пехоты в закрытых помещениях. Требует аккуратного обращения. 
 Цена: {1000} cr.
@@ -931,7 +953,28 @@
 <format=left,1></format><format=left,20>Граната с газом</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
 <format=left,1></format><format=left,20>ЭМИ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
 <format=left,1></format><format=left,20>Электронная разведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
-<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.138.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.138.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Рыштунак аказаўся даволі дарагім, ды, да таго ж, усё было толькі ў адным асобніку. Такім чынам, вы можаце:
+Купіць <clr>гранату са снатворным газам<clrEnd> — добра дзейнічае супраць пяхоты ў зачыненых памяшканьнях. Патрабуе акуратнага абыходжаньня. 
+Цана: {1000} cr.
+Купіць <clr>выбухоўку<clrEnd> — закладваецца непасрэдна каля мэты або на яе. Мае дыстанцыйнае кіраваньне. 
+Цана: {1000} cr.
+Купіць <clr>ЭМІ-бомбу<clrEnd> — пры актывацыі выпускае моцны электрамагнітны імпульс, здольны пашкодзіць электроніку, мае вялікі радыюс дзеяньня. Цана: {1000} cr.
+Замовіць <clr>электронную выведку<clrEnd> — дае інфармацыю пра ўнутранае ўладкаваньне будынка. 
+Цана: {4000} cr.
+Купіць <clr>дэсантны флаер<clrEnd> — з яго магчымая высадка да 10 салдатаў. 
+Цана: {15000} cr.
+
+<fix><format=left,1></format><format=center,20>У замове:</format><format=left,3></format><format=center,10>Цана, cr:</format><format=left,3></format><format=center,10>Колькасьць:</format>
+<format=left,1></format><format=left,20>Лёгкіх пехацінцаў</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
+<format=left,1></format><format=left,20>Цяжкіх пехацінцаў</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
+<format=left,1></format><format=left,20>Камандо</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p9]}</format>
+<format=left,1></format><format=left,20>Снайпэраў</format><format=left,3></format><format=right,7>{2000}</format><format=left,3></format><format=right,12>{[p11]div1000}</format>
+<format=left,1></format><format=left,20>Электроншчыкаў</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p11]mod1000}</format>
+<format=left,1></format><format=left,20>Выбухоўка</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[5;6;8;9]}</format>
+<format=left,1></format><format=left,20>Граната з газам</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
+<format=left,1></format><format=left,20>ЭМІ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
+<format=left,1></format><format=left,20>Электронная выведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
+<format=left,1></format><format=left,20>Дэсантны флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"
 "/quests/Easywork.qmm/locations/141/texts/0/text"	"Итак, вы заказали все, что было вам нужно.
 
 Итог:
@@ -951,8 +994,27 @@
 <format=left,30>Потрачено денег оппозиции:</format><format=right,10>{20000-[p6]} cr.</format>
 <format=left,30>Потрачено своих денег:</format><format=right,10>{[p13]-[p3]+[p6]} cr.</format>
 
-Теперь вы должны сказать, как будет производиться штурм."	"Quest Easywork.qmm: locations.141.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/locations/142/texts/0/text"	"Что будете отменять?"	"Quest Easywork.qmm: locations.142.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Теперь вы должны сказать, как будет производиться штурм."	"Quest Easywork.qmm: locations.141.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Такім чынам, вы замовілі ўсё, што вам было патрэбна.
+
+Вынік:
+
+<fix><format=left,1></format><format=center,20>У замове:</format><format=left,3></format><format=center,10>Цана, cr:</format><format=left,3></format><format=center,10>Колькасьць:</format>
+<format=left,1></format><format=left,20>Лёгкіх пехацінцаў</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
+<format=left,1></format><format=left,20>Цяжкіх пехацінцаў</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
+<format=left,1></format><format=left,20>Камандо</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p9]}</format>
+<format=left,1></format><format=left,20>Снайпэраў</format><format=left,3></format><format=right,7>{2000}</format><format=left,3></format><format=right,12>{[p11]div1000}</format>
+<format=left,1></format><format=left,20>Электроншчыкаў</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p11]mod1000}</format>
+<format=left,1></format><format=left,20>Выбухоўка</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[5;6;8;9]}</format>
+<format=left,1></format><format=left,20>Граната з газам</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
+<format=left,1></format><format=left,20>ЭМІ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
+<format=left,1></format><format=left,20>Электронная выведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
+<format=left,1></format><format=left,20>Дэсантны флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format>
+
+<format=left,30>Патрачана грошай апазыцыі:</format><format=right,10>{20000-[p6]} cr.</format>
+<format=left,30>Патрачана сваіх грошай:</format><format=right,10>{[p13]-[p3]+[p6]} cr.</format>
+
+Цяпер вы мусіце сказаць, як будзе праводзіцца штурм."
+"/quests/Easywork.qmm/locations/142/texts/0/text"	"Что будете отменять?"	"Quest Easywork.qmm: locations.142.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Што будзеце адмяняць?"
 "/quests/Easywork.qmm/locations/143/texts/0/text"	"<fix><format=left,1></format><format=center,20>В заказе:</format><format=left,3></format><format=center,10>Цена, cr:</format><format=left,3></format><format=center,10>Количество:</format>
 <format=left,1></format><format=left,20>Легких пехотинцев</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
 <format=left,1></format><format=left,20>Тяжелых пехотинцев</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
@@ -963,7 +1025,17 @@
 <format=left,1></format><format=left,20>Граната с газом</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
 <format=left,1></format><format=left,20>ЭМИ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
 <format=left,1></format><format=left,20>Электронная разведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
-<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.143.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.143.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"<fix><format=left,1></format><format=center,20>У замове:</format><format=left,3></format><format=center,10>Цана, cr:</format><format=left,3></format><format=center,10>Колькасьць:</format>
+<format=left,1></format><format=left,20>Лёгкіх пехацінцаў</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
+<format=left,1></format><format=left,20>Цяжкіх пехацінцаў</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
+<format=left,1></format><format=left,20>Камандо</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p9]}</format>
+<format=left,1></format><format=left,20>Снайпэраў</format><format=left,3></format><format=right,7>{2000}</format><format=left,3></format><format=right,12>{[p11]div1000}</format>
+<format=left,1></format><format=left,20>Электроншчыкаў</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p11]mod1000}</format>
+<format=left,1></format><format=left,20>Выбухоўка</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[5;6;8;9]}</format>
+<format=left,1></format><format=left,20>Граната з газам</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
+<format=left,1></format><format=left,20>ЭМІ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
+<format=left,1></format><format=left,20>Электронная выведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
+<format=left,1></format><format=left,20>Дэсантны флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"
 "/quests/Easywork.qmm/locations/144/texts/0/text"	"<fix><format=left,1></format><format=center,20>В заказе:</format><format=left,3></format><format=center,10>Цена, cr:</format><format=left,3></format><format=center,10>Количество:</format>
 <format=left,1></format><format=left,20>Легких пехотинцев</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
 <format=left,1></format><format=left,20>Тяжелых пехотинцев</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
@@ -974,8 +1046,18 @@
 <format=left,1></format><format=left,20>Граната с газом</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
 <format=left,1></format><format=left,20>ЭМИ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
 <format=left,1></format><format=left,20>Электронная разведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
-<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.144.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/locations/147/texts/0/text"	"Что будете заказывать?"	"Quest Easywork.qmm: locations.147.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+<format=left,1></format><format=left,20>Десантный флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"	"Quest Easywork.qmm: locations.144.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"<fix><format=left,1></format><format=center,20>У замове:</format><format=left,3></format><format=center,10>Цана, cr:</format><format=left,3></format><format=center,10>Колькасьць:</format>
+<format=left,1></format><format=left,20>Лёгкіх пехацінцаў</format><format=left,3></format><format=right,7>{500}</format><format=left,3></format><format=right,12>{[p8]}</format>
+<format=left,1></format><format=left,20>Цяжкіх пехацінцаў</format><format=left,3></format><format=right,7>{700}</format><format=left,3></format><format=right,12>{[p10]}</format>
+<format=left,1></format><format=left,20>Камандо</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p9]}</format>
+<format=left,1></format><format=left,20>Снайпэраў</format><format=left,3></format><format=right,7>{2000}</format><format=left,3></format><format=right,12>{[p11]div1000}</format>
+<format=left,1></format><format=left,20>Электроншчыкаў</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p11]mod1000}</format>
+<format=left,1></format><format=left,20>Выбухоўка</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[5;6;8;9]}</format>
+<format=left,1></format><format=left,20>Граната з газам</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[3;4;8;9]}</format>
+<format=left,1></format><format=left,20>ЭМІ-бомба</format><format=left,3></format><format=right,7>{1000}</format><format=left,3></format><format=right,12>{[p7]in[1;4;6;9]}</format>
+<format=left,1></format><format=left,20>Электронная выведка</format><format=left,3></format><format=right,7>{4000}</format><format=left,3></format><format=right,12>{[p12]in[1;3]}</format>
+<format=left,1></format><format=left,20>Дэсантны флаер</format><format=left,3></format><format=right,7>{15000}</format><format=left,3></format><format=right,12>{[p12]in[2;3]}</format></fix>"
+"/quests/Easywork.qmm/locations/147/texts/0/text"	"Что будете заказывать?"	"Quest Easywork.qmm: locations.147.texts.0.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Што будзеце замаўляць?"
 "/quests/Easywork.qmm/locations/148/texts/0/text"	"Вы обосновались на крыше соседнего со штабом здания. Перед вами было несколько мониторов, на которые подавалась картинка с камер, установленных на шлемах ваших бойцов. Таким образом, вы могли руководить по специальному каналу связи всеми бойцами отряда. Под вашим чутким руководством они двинулись вперед. Внешний периметр тяжелая пехота зачистила довольно быстро. Взорвав дверь, штурмовая группа ворвалась в здание. В результате упорного боя, ваши бойцы пробились через защитный лабиринт и, подавив последние очаги сопротивления, завладели зданием.
 Вдруг вы увидели, как с крыши взлетел флаер и быстро умчался куда-то. Тут же на вашу крышу приземлился еще один флаер. В кресле пилота сидела предводительница отряда оппозиции. 
 - Залезай быстрее, - прокричала она вам, - нам нельзя упускать Молгаара.
