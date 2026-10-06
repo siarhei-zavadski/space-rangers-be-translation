@@ -1426,24 +1426,30 @@
 "/quests/Easywork.qmm/jumps/58/text"	"Поехать в космопорт и улететь с планеты"	"Quest Easywork.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Паехаць у касмапорт і адляцець з плянэты"
 "/quests/Easywork.qmm/jumps/58/description"	"""К черту все! С самого начала здесь дела не заладились, надо быстрее убираться с этой планеты!"" - с такими мыслями вы вышли из отеля, сели в такси и отправились на главную площадь. Там дождались скоростного вагончика и отправились в космопорт. Прибыв на место, вы направились к ангарам."	"Quest Easywork.qmm: jumps.58.description. Preserve every <tag> exactly."	"Quest,Easywork"	"«К чорту ўсё! З самага пачатку тут справы ня ладзіліся, трэба хутчэй звальваць з гэтай плянэты!» — з такімі думамі вы выйшлі з гатэля, селі ў таксі і адправіліся на галоўную плошчу. Там дачакаліся хуткаснага вагончыка і адправіліся ў касмапорт. Прыбыўшы на месца, вы накіраваліся да ангараў."
 "/quests/Easywork.qmm/jumps/59/text"	"Отправиться к профессору"	"Quest Easywork.qmm: jumps.59.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адправіцца да прафэсара"
-"/quests/Easywork.qmm/jumps/59/description"	"Вы вышли из отеля, поймали такси и направились к профессору. Прибыв на место и поднявшись на 4 этаж, вы увидели, что дверь в квартиру профессора приоткрыта. Зайти?"	"Quest Easywork.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/59/description"	"Вы вышли из отеля, поймали такси и направились к профессору. Прибыв на место и поднявшись на 4 этаж, вы увидели, что дверь в квартиру профессора приоткрыта. Зайти?"	"Quest Easywork.qmm: jumps.59.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы выйшлі з гатэля, злавілі таксі і накіраваліся да прафэсара. Прыбыўшы на месца і падняўшыся на 4 паверх, вы ўбачылі, што дзьверы ў кватэру прафэсара прыадчыненыя. Зайсьці?"
 "/quests/Easywork.qmm/jumps/60/text"	"Войти в дверь"	"Quest Easywork.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Увайсьці ў дзьверы"
 "/quests/Easywork.qmm/jumps/61/text"	"Зайти в отель"	"Quest Easywork.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Зайсьці ў гатэль"
-"/quests/Easywork.qmm/jumps/62/text"	"Извините, у меня нет времени на разговоры"	"Quest Easywork.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/62/text"	"Извините, у меня нет времени на разговоры"	"Quest Easywork.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Прабачце, у мяне няма часу на размовы"
 "/quests/Easywork.qmm/jumps/63/description"	"Вы осторожно постучали. Из-за двери спросили: 
 - Кто там? 
 - Я представитель фирмы Танзупар. Вы посылку заказывали? 
 - Да-да... Я заказывал тридцать пять малокских табуреток. Неужели вы притащили их сюда? 
 - Э-э-э... У меня совсем маленькая посылочка... Видимо, я ошибся адресом, извините...
 
-Вы спустились и сели в такси. Куда теперь?"	"Quest Easywork.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Вы спустились и сели в такси. Куда теперь?"	"Quest Easywork.qmm: jumps.63.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы асьцярожна пастукалі. З-за дзьвярэй спыталі: 
+- Хто там? 
+- Я прадстаўнік фірмы Танзупар. Вы пасылку замаўлялі? 
+- Так-так... Я замаўляў трыццаць пяць малокскіх табурэтак. Няўжо вы прыцягнулі іх сюды? 
+- Э-э-э... У мяне зусім маленькая пасылачка... Відаць, я памыліўся адрасам, прабачце...
+
+Вы спусьціліся і селі ў таксі. Куды цяпер?"
 "/quests/Easywork.qmm/jumps/64/text"	"Ехать в отель"	"Quest Easywork.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ехаць у гатэль"
-"/quests/Easywork.qmm/jumps/65/text"	"Поймать такси"	"Quest Easywork.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/65/description"	"- Куда едем? - спросил таксист."	"Quest Easywork.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/66/text"	"Отправиться пешком до главной площади города"	"Quest Easywork.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/65/text"	"Поймать такси"	"Quest Easywork.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Злавіць таксі"
+"/quests/Easywork.qmm/jumps/65/description"	"- Куда едем? - спросил таксист."	"Quest Easywork.qmm: jumps.65.description. Preserve every <tag> exactly."	"Quest,Easywork"	"- Куды едзем? — спытаў таксіст."
+"/quests/Easywork.qmm/jumps/66/text"	"Отправиться пешком до главной площади города"	"Quest Easywork.qmm: jumps.66.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адправіцца пешшу да галоўнай плошчы горада"
 "/quests/Easywork.qmm/jumps/67/text"	"Ехать в отель"	"Quest Easywork.qmm: jumps.67.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ехаць у гатэль"
-"/quests/Easywork.qmm/jumps/68/text"	"Выйти из отеля"	"Quest Easywork.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/68/description"	"Вы вышли из отеля. Что дальше?"	"Quest Easywork.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/68/text"	"Выйти из отеля"	"Quest Easywork.qmm: jumps.68.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Выйсьці з гатэля"
+"/quests/Easywork.qmm/jumps/68/description"	"Вы вышли из отеля. Что дальше?"	"Quest Easywork.qmm: jumps.68.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы выйшлі з гатэля. Што далей?"
 "/quests/Easywork.qmm/jumps/69/text"	"Выспаться хорошенько"	"Quest Easywork.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/72/description"	"Вы проспали около {([p1]-[p11]) mod 1440 div 60} часа и восстановили силы.
 
@@ -1540,7 +1546,7 @@
 "/quests/Easywork.qmm/jumps/122/description"	"Вы послали гаальца к доминаторовой матери и вышли из отеля."	"Quest Easywork.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/123/text"	"Отправиться к журналисту"	"Quest Easywork.qmm: jumps.123.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/124/text"	"Поехать к журналисту"	"Quest Easywork.qmm: jumps.124.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/125/text"	"Выйти из отеля"	"Quest Easywork.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/125/text"	"Выйти из отеля"	"Quest Easywork.qmm: jumps.125.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Выйсьці з гатэля"
 "/quests/Easywork.qmm/jumps/125/description"	"Вы стоите перед отелем, из которого только что вышли."	"Quest Easywork.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/126/description"	"Вы вошли в отель. В центре фойе стояла стойка, за которой лениво расположился гаалец-метрдотель. Конечно, удивительно, что в этой должности использовался не робот, но надо признать, что живое существо видеть перед собой было приятнее. Вы подошли к нему и поинтересовались о возможности получить номер на ночь. Однако в ответ вы услышали следующее: 
 - Извините, но у нас все номера заняты или забронированы. 
