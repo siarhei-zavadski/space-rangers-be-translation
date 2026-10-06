@@ -2001,7 +2001,7 @@ lemma.pal	кореш	pal	сябрук/сябрука		criminal address; G сяб
 lemma.showoff	фраер	show-off	хлюст/хлюста		sly dandy; prison slang	https://starnik.by/pravapis/82112
 lemma.hoodlum	отморозок	hoodlum	шаленец/шаленца		reckless violent inmate; G шаленца	https://starnik.by/pravapis/84630
 lemma.chick	цыпа	sweetlips	цыпачка		address to the nurse	https://starnik.by/pravapis/83174
-lemma.bar_pub	бар	bar	бар/бара/бары		restaurant; G бара, L бары; not the unit	https://starnik.by/pravapis/9094
+lemma.bar_pub	бар	bar	бар/бара/бары/БАРА		restaurant; G бара, L бары; not the unit	https://starnik.by/pravapis/9094
 lemma.billiard_pocket	луза	billiard pocket	луза/лузу/лузы		pocket a ball falls into; A лузу	https://starnik.by/pravapis/40052
 lemma.zoom	зум	zoom	зум/зумам/зуму		camera zoom; I зумам, G зуму	https://starnik.by/pravapis/29873
 lemma.burger	бургер	burger	бургер/бургеры/бургераў		the snack; pl бургеры	https://starnik.by/pravapis/12069
@@ -3360,3 +3360,20 @@ lemma.daynight	сутки	a day and a night	суткі/сутак		24 hours; G �
 lemma.vicious	порочный	vicious	заганны/Заганны	парочны	sense 2, immoral	https://starnik.by/pravapis/111637
 lemma.initiation	посвящение	initiation	пасьвячэньне/Пасьвячэньне		a rite of initiation; Starnik пасвячэнне, hunspell inserts ь	https://starnik.by/pravapis/53519
 lemma.latch	ручка	a door handle	клямка/клямку		sense 1, the fitting that opens a door, not a pen	https://starnik.by/pravapis/36105
+lemma.angel	anгел	an angel	anёл/анёлаў		a messenger with wings, sense 1; G pl анёлаў	https://starnik.by/pravapis/4766
+lemma.devil	бес	a devil	чорт/чортаў		the folk devil paired with an angel; G pl чортаў	https://starnik.by/pravapis/84240
+lemma.statue	статуя	a statue	статуя/статуі		a sculpted figure; G статуі	https://starnik.by/pravapis/72049
+lemma.closet	кладовка	a closet	кладоўка/кладоўку		a small storeroom; A кладоўку	https://starnik.by/pravapis/35814
+lemma.curtain	занавеска	a curtain	занавеска/занавескі		a cloth hung over a window; pl занавескі	https://starnik.by/pravapis/27284
+lemma.chasm	провал	a dark opening	прорва/прорву		a dark drop, sense of a depth; A прорву	https://starnik.by/pravapis/59767
+lemma.belated	запоздало	belatedly	запозна		too late, colloquial	https://starnik.by/pravapis/224165
+lemma.realize	осознать	to realize	усьвядомілі	усвядомілі	past pl; Starnik усвядоміць, hunspell inserts ь	https://starnik.by/pravapis/217846
+lemma.lick	зализывать	to lick	залізвае		present 3sg, to lick a wound	https://starnik.by/pravapis/180586
+lemma.cotton	ватный	cottony	ватны/ватнымі		sense 1, limp like cotton; I pl ватнымі	https://starnik.by/pravapis/101753
+lemma.clutter	захламленный	cluttered	захламлены		piled with junk	https://starnik.by/pravapis/238754
+lemma.faint	притомность	consciousness	прытомнасьць	прытомнасць	Starnik прытомнасць; hunspell inserts ь	https://starnik.by/pravapis/60871
+lemma.ray	луч	a ray	прамень/прамені		a beam of light; pl прамені	https://starnik.by/pravapis/58919
+lemma.pierce	пронзить	to pierce	пранізаць/пранізаў		past m пранізаў, of pain	https://starnik.by/pravapis/205303
+lemma.flight	полет	a flight	палёт		moving through the air	https://starnik.by/pravapis/51925
+lemma.weaken	ослабеть	to grow weak	аслаблі		past pl of аслабнуць	https://starnik.by/pravapis/170547
+lemma.properly	толком	properly	толкам		as one should, sense 2	https://starnik.by/pravapis/232265
