@@ -1535,9 +1535,9 @@
 "/quests/Easywork.qmm/jumps/106/text"	"Что ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Што «так-так, сапраўды»?"
 "/quests/Easywork.qmm/jumps/107/text"	"Вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы нават не паглядзіце, што ў скрынцы?"
 "/quests/Easywork.qmm/jumps/108/text"	"А почему вы сказали ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Easywork"	"А чаму вы сказалі «так-так, сапраўды»?"
-"/quests/Easywork.qmm/jumps/109/text"	"И вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/110/text"	"Да нет, что вы! Мне было бы очень интересно"	"Quest Easywork.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/111/text"	"Да, вы правы, меня это не интересует"	"Quest Easywork.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/109/text"	"И вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Easywork"	"І вы нават не паглядзіце, што ў скрынцы?"
+"/quests/Easywork.qmm/jumps/110/text"	"Да нет, что вы! Мне было бы очень интересно"	"Quest Easywork.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ды не, што вы! Мне было б вельмі цікава"
+"/quests/Easywork.qmm/jumps/111/text"	"Да, вы правы, меня это не интересует"	"Quest Easywork.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Так, вы маеце рацыю, мяне гэта не цікавіць"
 "/quests/Easywork.qmm/jumps/112/text"	"Поехать в центр города"	"Quest Easywork.qmm: jumps.112.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Паехаць у цэнтр горада"
 "/quests/Easywork.qmm/jumps/112/description"	"Профессор оказался прав! Вы простояли в пробке почти {3} часа. 
 - Елки зеленые! Я бы за это время пешком дошел! - сказали вы таксисту.
@@ -1546,9 +1546,16 @@
 Вдруг в такси включился голографический проектор. На нем появился профессор Мухуш: 
 - <Ranger>! Извините старика! Я ведь забыл поставить вам отметку в ID-карте о выполнении миссии! Сейчас уже очень поздно, так что вы лучше сейчас езжайте в отель, а завтра утром отправляйтесь ко мне домой.
 
-Итак, вы уже почти добрались до главной площади города. Что дальше?"	"Quest Easywork.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/113/text"	"Доехать до площади"	"Quest Easywork.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/114/text"	"Сказать водителю, чтобы ехал к отелю"	"Quest Easywork.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Итак, вы уже почти добрались до главной площади города. Что дальше?"	"Quest Easywork.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Прафэсар аказаўся правы! Вы прастаялі ў корку амаль {3} гадзіны. 
+- Ёлкі зялёныя! Я б за гэты час пешшу дайшоў! — сказалі вы таксісту.
+- Прабачце, гэта не мая віна, — адказаў ён. 
+
+Раптам у таксі ўключыўся галяграфічны праектар. На ім зьявіўся прафэсар Мухуш: 
+- <Ranger>! Прабачце старога! Я ж забыўся паставіць вам адзнаку ў ID-картцы пра выкананьне місіі! Зараз ужо вельмі позна, так што вы лепей зараз едзьце ў гатэль, а заўтра раніцай адпраўляйцеся да мяне дадому.
+
+Такім чынам, вы ўжо амаль дабраліся да галоўнай плошчы горада. Што далей?"
+"/quests/Easywork.qmm/jumps/113/text"	"Доехать до площади"	"Quest Easywork.qmm: jumps.113.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Даехаць да плошчы"
+"/quests/Easywork.qmm/jumps/114/text"	"Сказать водителю, чтобы ехал к отелю"	"Quest Easywork.qmm: jumps.114.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Сказаць кіроўцу, каб ехаў да гатэля"
 "/quests/Easywork.qmm/jumps/115/text"	"Ехать в музей"	"Quest Easywork.qmm: jumps.115.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ехаць у музэй"
 "/quests/Easywork.qmm/jumps/116/text"	"Ехать в музей"	"Quest Easywork.qmm: jumps.116.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ехаць у музэй"
 "/quests/Easywork.qmm/jumps/117/text"	"Ехать в музей"	"Quest Easywork.qmm: jumps.117.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ехаць у музэй"
