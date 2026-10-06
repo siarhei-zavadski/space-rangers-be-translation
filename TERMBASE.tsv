@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра/лязэрнай		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -3128,7 +3128,7 @@ lemma.gravcushion	гравиподушка	grav-cushion	гравіпадушка
 lemma.emp	ЭМИ	EMP	ЭМІ		electromagnetic pulse	—
 lemma.breakfast	завтрак	breakfast	сьняданак/сьняданкі	сняданак	a morning meal, colloquial for снеданне; Starnik сняданак, hunspell сь; N pl сьняданкі	https://starnik.by/pravapis/70709
 lemma.falling	падать	to fall	падаць/падае		imperfective, to drop under gravity; 3sg падае	https://starnik.by/pravapis/193941
-lemma.molgaar	Молгаар	Molgaar	Молгаар/Молгаара		coined cult leader; G Молгаара	—
+lemma.molgaar	Молгаар	Molgaar	Молгаар/Молгаара/МОЛГААР		coined cult leader; G Молгаара	—
 lemma.barely	еле	barely	ледзь		barely, with difficulty	https://starnik.by/pravapis/225287
 lemma.hold_on	держаться	to hold on	трымацца/трымаецца		3sg трымаецца	https://starnik.by/pravapis/215623
 lemma.burn	гореть	to burn	гарэць/гарыць		3sg гарыць	https://starnik.by/pravapis/175555
@@ -3191,3 +3191,12 @@ lemma.drunk_noise	ик	hiccup	Ік/тыры/пыры/папапакусаю		the
 lemma.kaaro	Кааро	Kaaro	Кааро/Амі/Аамі/Омі/Оолі		mountain and forest names on this planet	—
 lemma.extreme	экстремал	extreme-sports fan	экстрэмал/экстрэмалаў		a person who goes in for extreme sports; G pl экстрэмалаў; hunspell suggestions are other words	https://starnik.by/pravapis/86831
 lemma.closing	закрытие	closing	зачыненьне	зачыненне	the act of closing; Starnik зачыненне; hunspell lacks the noun; tarask -ньне	https://starnik.by/pravapis/28159
+lemma.klakser	Кляксэр	Klakser	Кляксэр		ink-pen brand; клякса is the blot	—
+lemma.outcry	окрик	shout	вокрык	акрык	a sharp shout of warning; акрык is a different word	https://starnik.by/pravapis/15149
+lemma.turn_back	обернуться	turn around	абярнуцца/абярнуліся		to turn one's head or body; not абвярнуць 'to wrap'	https://starnik.by/pravapis/166676
+lemma.lastly	напоследок	lastly	напрыканцы	напрыканец	tarask adverb; Starnik напрыканец; hunspell lacks both and suggests other words	https://starnik.by/pravapis/250525
+lemma.supersonic	сверхзвук	supersonic	звышгук/звышгуку	зьверху	speed above sound; not the adverb зьверху	https://starnik.by/pravapis/28560
+lemma.renaissance	ренессанс	Renaissance	Рэнэсанс/Рэнэсансу	рэнесанс	architectural style; Starnik рэнесанс; hunspell only has the capital tarask form	https://starnik.by/pravapis/65994
+lemma.postmodern	постмодернизм	postmodernism	постмадэрнізм/постмадэрнізму		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/58011
+lemma.poison	ядовитый	poisonous	атрутны/атрутна		compound атрутна-зялёны; hunspell has the adjective, not this stem	https://starnik.by/pravapis/97241
+lemma.aah	Аа-а	aah	Аа		realization stutter; hunspell suggestions are other words	—
