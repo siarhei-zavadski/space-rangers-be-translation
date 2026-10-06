@@ -2756,3 +2756,20 @@ lemma.iilkach	Йилкач	Iilkach	Йілкач/Йілкача		author of the le
 lemma.shletsozorg	Щлецозорг	Shletsozorg	Шчлецозарг/Шчлецозарга		surname; tarask шч for щ	—
 lemma.glob_marker	глоб	dev marker	глоб		left in GLAVRED parameter names; not a word	—
 lemma.pzh_marker	ПЖ	dev marker	ПЖ		left in GLAVRED parameter names	—
+lemma.design	дизайн	design	дызайн/Дызайн		magazine layout	https://starnik.by/pravapis/23996
+lemma.deduction	отчисление	deduction	адлічэньне/Адлічэньні/Адлічваем		allocated sum, usually plural; hunspell ь	https://starnik.by/pravapis/2326
+lemma.advertising	реклама	advertising	рэкляма/рэкляму	рэклама	hunspell ля; Starnik official рэклама	https://starnik.by/pravapis/65867
+lemma.promptness	оперативность	promptness	апэратыўнасьць/Апэратыўнасьць		how promptly the work is done	https://starnik.by/pravapis/5432
+lemma.subjectivity	субъективность	subjectivity	суб'ектыўнасьць/Суб'ектыўнасьць		a person's own slant	https://starnik.by/pravapis/72797
+lemma.political_correctness	политкорректность	political correctness	Палітычная карэктнасьць	паліткарэктнасьць	the one-word compound fails hunspell; Starnik карэктнасць	https://starnik.by/pravapis/34281
+lemma.variety	разнообразие	variety	разнастайнасьць/Разнастайнасьць		many unlike elements	https://starnik.by/pravapis/63465
+lemma.complexity	сложность	complexity	складанасьць/Складанасьць		how hard something is	https://starnik.by/pravapis/69763
+lemma.emotionality	эмоциональность	emotionality	эмацыянальнасьць/Эмацыянальнасьць		filled with emotion	https://starnik.by/pravapis/87318
+lemma.rubric	рубрика	rubric	рубрыка/рубрыкі		a newspaper section	https://starnik.by/pravapis/64938
+lemma.page	страница	page	старонка/старонак		a leaf of a publication, sense 1	https://starnik.by/pravapis/71970
+lemma.quantity	количество	quantity	колькасьць	колькасць	how many; hunspell ь	https://starnik.by/pravapis/36345
+lemma.region	регион	region	рэгіён/Рэгіён/рэгіёну	рэгіёна	territorial unit; hunspell genitive -у	https://starnik.by/pravapis/65611
+lemma.test_adj	тестовый	test	тэставы/Тэставы		related to a test	https://starnik.by/pravapis/155776
+lemma.bank	банк	bank	банк		financial institution, sense 1	https://starnik.by/pravapis/9030
+lemma.number	номер	number	нумар/Нумар		an issue or item number, sense 1	https://starnik.by/pravapis/48972
+lemma.text	текст	text	тэкст		written or printed words, sense 1	https://starnik.by/pravapis/76897
