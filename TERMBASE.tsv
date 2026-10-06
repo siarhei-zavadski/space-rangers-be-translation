@@ -2120,7 +2120,7 @@ lemma.riemann	Риман	Riemann	Рымана		the mathematician named in the fe
 lemma.grubb	Грубб	Grubb	Грубб/Грубба		mad peleng mathematician in the lab	Drugs.qmm
 lemma.plengotherm	пленготерм	plengotherm	плэнгатэрм/плэнгатэрма/плэнгатэрмаў		coined distance in the claybelly hunt; not in Starnik	Drugs.qmm
 lemma.superglucose	суперглюковый	superglucose	суперглюковы		coined lab generator; not in Starnik	Drugs.qmm
-lemma.camouflage	маскировка	camouflage	маскіроўка		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/42058
+lemma.camouflage	маскировка	camouflage	маскіроўка/маскіравальным		Starnik; the adjective is маскіравальны	https://starnik.by/pravapis/42058
 lemma.anteroom	предбанник	anteroom	сенцы		small entrance room of a house	https://starnik.by/pravapis/68728
 lemma.scum	сволочь	scum	сволач		spoken insult, an odious person	https://starnik.by/pravapis/68216
 lemma.freak	урод	freak	вырадак		a person who has lost sound qualities	https://starnik.by/pravapis/16386
@@ -3398,7 +3398,7 @@ lemma.nerve	нерв	a nerve	нэрвы/нэрвуецца/Нэрвы	нервы
 lemma.clip	обойма	a clip	абойма/абоймай		a frame of cartridges, sense 1; I абоймай	https://starnik.by/pravapis/767
 lemma.native	абориген	a native	тубылец/тубыльца		a local inhabitant; G тубыльца	https://starnik.by/pravapis/76360
 lemma.tarantula	тарантул	a tarantula	Тарантул/тарантул		a venomous spider	https://starnik.by/pravapis/74840
-lemma.stump	пень	a stump	пень		the base of a cut tree, sense 1	https://starnik.by/pravapis/54884
+lemma.stump	пень	a stump	пень/пянёк		the base of a cut tree, sense 1; diminutive пянёк	https://starnik.by/pravapis/54884
 lemma.dose	доза	a dose	доза/доз		a portion taken at one time; G pl доз, not дозаў	https://starnik.by/pravapis/23156
 lemma.joke	прикол	a gag	жарт		a funny trick, sense 1 of жарт	https://starnik.by/pravapis/25615
 lemma.gizmo	фиговина	a gizmo	штуковіна	фіговіна	an odd complicated thing	https://starnik.by/pravapis/85810
@@ -3427,3 +3427,20 @@ lemma.overstrain	надорваться	to overstrain	надарвецца/на�
 lemma.roof	крыша	a roof	дах		the cover of a building, sense 1	https://starnik.by/pravapis/22298
 lemma.passion	страсть	passion	жарсьць	жарсць	a strong desire; Starnik жарсць, hunspell inserts ь	https://starnik.by/pravapis/25614
 lemma.numb	окоченеть	to go numb	акачанелым/акачанець	акачэнелым	to stiffen with cold; past participle акачанелым	https://starnik.by/pravapis/169477
+lemma.cosmolet	космолет	spaceship cabin	касмалёт/касмалёта		a spacecraft, G касмалёта	https://starnik.by/pravapis/34375
+lemma.dictaphone	диктофон	dictaphone	дыктафон/дыктафона		a voice recorder, G дыктафона	https://starnik.by/pravapis/24037
+lemma.brick	кирпич	a brick	цэгла/цэглы/цэглу/цагляны/цагляных		a clay block; A цэглу; adjective цагляны	https://starnik.by/pravapis/83351
+lemma.hedgehog	ёж	a hedgehog	вожык/вожыка		the animal, sense 1; A animate вожыка	https://starnik.by/pravapis/15113
+lemma.termite	термит	a termite	тэрміт/тэрмітнік		the insect, sense 2, not the incendiary mixture; the mound тэрмітнік is https://starnik.by/pravapis/77365	https://starnik.by/pravapis/77363
+lemma.skeleton	скелет	a skeleton	шкілет/шкілета		the bones of a body, sense 1	https://starnik.by/pravapis/85071
+lemma.pillar	столб	a pillar	слуп/слупа		a post set upright, sense 1; not слупок, a column of figures	https://starnik.by/pravapis/70366
+lemma.salty	соляной	of salt	саляны		related to salt, sense 2; the pillar-of-salt idiom	https://starnik.by/pravapis/147985
+lemma.plop	плюхнуться	to plop	бултыхнуліся/бултыхнуцца		to fall into water; past pl бултыхнуліся; hunspell lacks the verb	https://starnik.by/pravapis/171905
+lemma.drizzle	морось	drizzle	імжа/імжы		fine rain, G імжы	https://starnik.by/pravapis/30480
+lemma.seat	седалище	the seat	сядалішча		the part of the body one sits on	https://starnik.by/pravapis/74201
+lemma.rubber	резиновый	rubber	гумавы		made of rubber; stress on the first syllable	https://starnik.by/pravapis/107398
+lemma.chameleon	хамелеон	a chameleon	хамэлеон/хамэлеона		the lizard, sense 1; Starnik хамелеон, hunspell inserts э	https://starnik.by/pravapis/81478
+lemma.fillet	филей	the rump	філей		the same cut as філе, sense 1	https://starnik.by/pravapis/80165
+lemma.dying	умирающий	dying	паміраючым/Паміраючым		instrumental of the participle паміраючы; hunspell keeps only the gerund	https://starnik.by/pravapis/197308
+lemma.whistle_ear	свистоплюхий	whistle-eared	сьвістаплюхі/сьвістаплюхага		coined sibolusovt epithet; hunspell suggestions are other words	—
+lemma.jumpcrawl	прыгоползущий	jump-crawling	прыгапаўзучы/прыгапаўзучага		coined sibolusovt epithet; hunspell suggestions are other words	—

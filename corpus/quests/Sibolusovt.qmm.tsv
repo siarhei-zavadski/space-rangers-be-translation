@@ -205,7 +205,20 @@ It felt as if something pleasantly warm was spreading across your neck. You put 
 The gaal, who had been muttering something hastily into his dictating machine, stopped what he was doing and looked at your bitterly.
 ""You are a clinical idiot,"" he barked. ""What are you doing here anyway?""
 Embarrassed, you replied that you were sent to help the gaal expedition which had gotten itself into a heap of trouble that it couldn't resolve. 
-""Well, congratulations! Right now you're in such a heap of trouble that ours seems like a relative trifle,"" said the gaalian with a sad smile. ""You landed right on the home of a whistle-nosed, spitting, hoppity-crawling, long-eared sibolusoft. That was your first mistake. You're wearing a bright uniform. That's your second mistake. And on top of it all, you just killed the antidote for the poison that the long-eared just injected under your skin"""	"Quest,Sibolusovt"	""
+""Well, congratulations! Right now you're in such a heap of trouble that ours seems like a relative trifle,"" said the gaalian with a sad smile. ""You landed right on the home of a whistle-nosed, spitting, hoppity-crawling, long-eared sibolusoft. That was your first mistake. You're wearing a bright uniform. That's your second mistake. And on top of it all, you just killed the antidote for the poison that the long-eared just injected under your skin"""	"Quest,Sibolusovt"	"Вы акуратна правялі карабель над кронамі высозных дрэваў і, выбраўшы прыдатную палянку, прызямліліся. Потым пакінулі кабіну касмалёта і адразу бултыхнуліся ў лужу, пасьлізнуўшыся на мокрай брані.
+Так, тое яшчэ месца. Сапраўднае балота. Вы вылезьлі з лужы, зябка скурчыліся і паднялі каўнер, баронячыся ад пранізьлівай імжы. Цікава, дзе ж экспэдыцыя?
+У гэты момант перад вамі зашуршэлі галінкі, і паказаўся кволы гаалец-біёляг у маскіравальным халаце.
+- Не рухайцеся. — Пасьпешліва прашаптаў ён, гледзячы кудысьці ў раён вашай шыі.
+Вы замерлі, нічога не разумеючы. 
+- Што адбываецца?
+- Не рухайцеся, не гаварыце, не дыхайце. — Люта зашыпеў гаалец. — Ад гэтага залежыць ваша жыцьцё.
+Вы, натуральна, адразу зьвярнуліся ў саляны слуп.
+- У вас за каўняром сядзіць вуханогі сібалусаўт. Маліце Бога, каб ён вас не... Чорт! — Гаалец кінуў шаптаць і дастаў дыктафон.
+Вы адчулі, як па вашай шыі разьліваецца прыемнае цяпло, і працягнулі руку да сваёй шыі. Рука намацала нешта, што капашылася і было сьлізкім. Гэта вам не спадабалася, і вы хутчэй схапілі зьвяругу. Зьвяруга аказалася дзіўнай мешанкай хамэлеона, папугая і слана. Апроч усяго іншага, яна брыдка стракатала. Вы здрыгануліся ад агіды і, кінуўшы сібалусаўта на зямлю, растапталі яго сваёй магутнай рэйнджэрскай нагой.
+Гаалец, які ў гэты момант нешта пасьпешліва мармытаў у дыктафон, спыніў гэты занятак і са смуткам у позірку паглядзеў на вас.
+- Вы клінічны ідыёт. — Буркнуў ён. — Што вы тут увогуле робіце?
+Вы зьбянтэжана адказалі, што вас прыслалі дапамагчы гаальскай экспэдыцыі, якая нажыла на сваё сядалішча кучу праблемаў і не можа ўсяго гэтага разгрэбці. 
+- Што ж, віншую, цяпер вы нажылі сабе на сядалішча столькі праблемаў, што ўсе нашыя ў параўнаньні з вашай — проста лухта. — Гаалец сумна ўхмыльнуўся. — Вы прызямліліся проста на гняздо сьвістаплюхага прыгапаўзучага вуханогага сібалусаўта. Гэта ваша першая памылка. Вы апранулі яркі касьцюм — гэта ваша другая памылка. Ну, і да ўсяго іншага, вы толькі што забілі супрацьядзьдзе ад атруты, якую вуханогі ўпырснуў вам пад скуру, ў раёне шыі."
 "/quests/Sibolusovt.qmm/locations/1/texts/0/text"	"После всего пережитого, весть о яде внутри своего организма вы перенесли спокойно. Главное не запаниковать, пока не станет ясно, что спасения нет.
 Вот и дождь внезапно закончился - это уже было здорово, а зеленое солнце даже заставило вас усмехнуться. Видимо свет преломлялся в атмосфере.
 - Так, вот. - Гаалец присел на пенек, предварительно осмотрев его со всех сторон. - Первым делом уясните, что на этой планете, если ничего о ней не знать, можно умереть за день сотней различных способов. И это только в этой местности...
@@ -228,19 +241,35 @@ The gaal approached the crushed carcass, sat down next to it, pushed it little w
 ""You'll die..."" said the gaal, shrugging his shoulders philosophically.
 ""But can you help me?"" you asked in a dying voice. ""I can't...
 Unfortunately, I can't help. I still have to prepare a tincture made from symgrass root. Otherwise my brain will burn up by evening - I pricked myself on a venomous hedgehog,"" said the gaal before he turned and walked on the path toward the base.
-Well, time on this planet doesn't stretch far, and you needed to hurry..."	"Quest,Sibolusovt"	""
+Well, time on this planet doesn't stretch far, and you needed to hurry..."	"Quest,Sibolusovt"	"Пасьля ўсяго перажытага вестку пра атруту ў вашым арганізьме вы перанесьлі спакойна. Галоўнае — не запанікаваць, пакуль не стане ясна, што выратаваньня няма.
+Вось і дождж раптам скончыўся — гэта ўжо было выдатна, а зялёнае сонца нават прымусіла вас усьміхнуцца. Відаць, сьвятло пераламлялася ў атмасфэры.
+- Так, вось. — Гаалец прысеў на пянёк, папярэдне агледзеўшы яго з усіх бакоў. — Найперш усьвядомце, што на гэтай плянэце, калі нічога пра яе ня ведаць, можна памерці за дзень сотняй розных спосабаў. І гэта толькі ў гэтай мясцовасьці...
+- Можа, ўжо пагаворым пра мяне. — Ветліва нагадалі пра сябе вы. — Я ўсё ж памерці магу.
+- Так, пра вас. — Гаалец тыцнуў у вас абодвума ўказальнымі пальцамі. — Заражаныя атрутай вуханогага сібалусаўта — гэта кепска, але ня горш за раненьне ў жывот. Я, асабіста, два разы быў заражаны, але, як бачыце, дагэтуль жывы. Вы значна ўскладнілі сабе задачу тым, што забілі сібалусаўта, які вас заразіў, цяпер давядзецца знайсьці іншага вуханогага, або памерці. Дарэчы...
+Гаалец падышоў да раздушанай тушы і прысеў каля яе, паварушыў палкай, хмыкнуў.
+- Калі б вы не скакалі па бедным зьвярку, як падстрэлены ў філей габзаўр, мы б зразумелі, якога полу яно было. А, дакладна... гэта самец. Добра. Вы мусіце знайсьці за бліжэйшы дзень сібалусаўта мужчынскага полу і данесьці яго да лябараторыі. А цяпер мне трэба ісьці.
+- А калі я не знайду яго за дзень? — Жаласна загаласілі вы.
+- Памраце... — Філязофску паціснуў плячыма гаалец.
+- А вы можаце мне дапамагчы? — Паміраючым тонам спыталі вы. — Я не змагу...
+- На жаль, дапамагчы не магу. Мне самому яшчэ трэба прыгатаваць настойку з кораня сім-травы, інакш да вечара мозг выгарыць, укалоўся аб атрутнага вожыка. — Гаалец разьвярнуўся і пайшоў па сьцежцы да базы.
+Такім чынам, час на гэтай плянэце зусім ня гумавы, і вам трэба было пасьпяшацца..."
 "/quests/Sibolusovt.qmm/locations/2/texts/0/text"	"Вы поднесли к виску два пальца правой руки и, медленно взведя большой палец, сказали:
 - Бум!
 Потом жестом ковбоя задули дымок в стволе, вернули оружие в кобуру и свалились замертво на землю."	"Quest Sibolusovt.qmm: locations.2.texts.0.text. Preserve every <tag> exactly. English reference: You brought two of the fingers on your right hand up to your temple and, cocking your thumb slowly, said:
 ""Boom!""
-Following this cowboy gesture, you blew the smoke from the barrel, returned the gun to your holster, and collapsed to the ground, dead."	"Quest,Sibolusovt"	""
+Following this cowboy gesture, you blew the smoke from the barrel, returned the gun to your holster, and collapsed to the ground, dead."	"Quest,Sibolusovt"	"Вы паднесьлі да скроні два пальцы правай рукі і, павольна ўзьвёўшы вялікі палец, сказалі:
+- Бум!
+Потым жэстам каўбоя задулі дымок у ствале, вярнулі зброю ў кабуру і зваліліся мёртвыя на зямлю."
 "/quests/Sibolusovt.qmm/locations/2/texts/1/text"	"Вы вернулись в корабль, взяли там чудом завалявшийся кирпич и стали целенаправленно колотить себя по голове. После двадцатого по счету удара раздался-таки глухой треск, и вы выбросили за борт два обломка. 
 Видимо, надо было найти что-нибудь более ударопрочное.
 Вы огляделись и заметили, что люк трюма вашего истребителя вполне сойдет для самоубийства.
 Подобрав один из кирпичных обломков, вы нарисовали на шлюзе неровный круг, чтобы не промахнуться ненароком, и через минуту воплотили желаемое в действительное."	"Quest Sibolusovt.qmm: locations.2.texts.1.text. Preserve every <tag> exactly. English reference: You returned to your ship; picked up a brick, which had been left there by some miracle; and began to intentionally beat yourself in the head. After the twentieth blow, there was a dull crack and you threw two fragments of brink overboard. 
 Obviously, you needed to find something more effective.
 You looked around and noticed that the door to the hold of your fighter would work just fine for suicide.
-You picked up a brick fragment and drew an uneven circle on the airlock in order to avoid an accidental miss. Then after a minute you put your plan into action."	"Quest,Sibolusovt"	""
+You picked up a brick fragment and drew an uneven circle on the airlock in order to avoid an accidental miss. Then after a minute you put your plan into action."	"Quest,Sibolusovt"	"Вы вярнуліся ў карабель, узялі там цэглу, што цудам завалялася, і сталі мэтанакіравана біць сябе па галаве. Пасьля дваццатага па рахунку ўдару раздаўся-такі глухі трэск, і вы выкінулі за борт два абломкі. 
+Відаць, трэба было знайсьці нешта больш ударатрывалае.
+Вы агледзеліся і заўважылі, што люк труму вашага зьнішчальніка цалкам падыдзе для самагубства.
+Падняўшы адзін з цагляных абломкаў, вы намалявалі на шлюзе няроўнае кола, каб не прамахнуцца незнарок, і праз хвіліну ўвасобілі жаданае ў сапраўднае."
 "/quests/Sibolusovt.qmm/locations/3/texts/0/text"	"- Господи, за что! - Завопили вы и картинно упали, закатив глаза, прямиком на раздавленного ухоногого.
 Когда вы открыли глаза, то увидели перед собой грустное лицо гаальского ученого.
 - Вы точно псих. Свалились прямо на термитник. Они бы от вас оставили полированный скелет через час. Я не понимаю, вы, может, умереть сюда приехали? 
@@ -251,7 +280,12 @@ When you opened your eyes you saw the sad face of a gaalian scientist.
 ""You must be looney. You came down right on top of a termite mound. They'd make a polished skeleton out of you in an hour. I don't understand. Did you come here to die, perhaps? 
 ""No,"" you whispered in the voice of someone dying.
 ""Hmm. That's what I thought,"" agreed the gaal.
-The rain gradually stopped, and the yellow sun peeped through the clouds."	"Quest,Sibolusovt"	""
+The rain gradually stopped, and the yellow sun peeped through the clouds."	"Quest,Sibolusovt"	"- Божа, за што! — Загаласілі вы і тэатральна ўпалі, закаціўшы вочы, проста на раздушанага вуханогага.
+Калі вы раскрылі вочы, то ўбачылі перад сабой сумны твар гаальскага навукоўца.
+- Вы сапраўды псых. Зваліліся проста на тэрмітнік. Яны б ад вас пакінулі паліраваны шкілет праз гадзіну. Я не разумею, вы, можа, памерці сюды прыехалі? 
+- Не. — Паміраючым тонам прашапталі вы.
+- Гм, я так і падумаў. — Прымірэнча пагадзіўся гаалец.
+Дождж паступова спыніўся, і скрозь хмары праглянула зялёнае сонца."
 "/quests/Sibolusovt.qmm/locations/4/texts/0/text"	"Вы издали истошный вопль и бросились бегать кругами по поляне.
 Все закончилось тем, что гаалец плюнул на вас, когда вы пробегали мимо, и ушел.
 Вы же на десятом круге обнаружили две неприятных неожиданности. 
