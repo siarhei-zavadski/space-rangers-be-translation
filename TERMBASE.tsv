@@ -1747,7 +1747,7 @@ lemma.riddle_cave	Пещера Загадок	Cave of Riddles	Пячора За�
 lemma.bool_flag	флаг	flag bit	сьцяг/Сьцяг/Сьцягі		quest boolean marker; the cloth sense is the same word	https://starnik.by/pravapis/73968
 lemma.potion	зелье	potion	зелле/зеллі/Зеллі/зелля/зеллямі/зелляў/Зелляў/зеллем/Зелле		herbal draught; Starnik зелле, not зёльле; every form is a hunspell gap; I зеллем	https://starnik.by/pravapis/28990
 lemma.life	жизнь	life	жыцьцё/жыцьцяў		Starnik жыццё; tarask soft sign; Gpl жыцьцяў is a hunspell gap	https://starnik.by/pravapis/26025
-lemma.universe	вселенная	universe	сусьвет/сусьветах		Starnik сусвет; tarask сь; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
+lemma.universe	вселенная	universe	сусьвет/сусьветах/сусьвеце		Starnik сусвет; tarask сь; L сусьвеце; L pl сусьветах is a hunspell gap	https://starnik.by/pravapis/73571
 lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны/мярцвяка/мярцвяку/мярцвячынай		a walking corpse; hunspell gap; keep Starnik мярцвяк, not мярцьвяк	https://starnik.by/pravapis/45012
 lemma.elf_adj	эльфийский	elven	эльфійскі/эльфійская/эльфійскай		of an elf; hunspell suggestion is a different word	https://starnik.by/pravapis/163591
 lemma.fantasy	фэнтези	fantasy	фэнтэзі		the genre; hunspell gap	https://starnik.by/pravapis/81266
@@ -1858,7 +1858,7 @@ lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсе�
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
 lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра		a beast mosquitoes do not bother; coined	—
 lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам/ваяроў/ваяра		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам; G pl ваяроў	https://starnik.by/pravapis/13675
-lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
+lemma.discount	скидка	discount	зьніжка/зьніжкі/зьніжкай		a price cut; Starnik зніжка, tarask soft sign; I зьніжкай is a hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
 lemma.gameskin	скин	game skin	скін/скіне		a character texture; Starnik noun; hunspell wants the imperative скінь	https://starnik.by/pravapis/69730
 lemma.madam	мадам	madam	мадам		address to a woman; Starnik; kept indeclinable	https://starnik.by/pravapis/40704
@@ -3205,3 +3205,17 @@ lemma.smitters	Смиттерс	Smitters	Сьмітэрс		journalist; hunspell 
 lemma.malok_slur	че	slur	чо/хош		the malok's slur of што and хочаш; hunspell suggestions are other words	—
 lemma.cut_did	сде	cut-off did	зра		stuttered зрабіў; hunspell suggestions are other words	—
 lemma.zalivayka	Заливайко	Zalivayko	Залівайка		pour-joke name; spell_allow already has Залівайка; hunspell suggests Залівака	—
+lemma.customer	покупатель	customer	пакупнік/пакупнікоў		the person who buys, not the reseller скупшчык; G pl пакупнікоў	https://starnik.by/pravapis/51741
+lemma.triangle	треугольник	triangle	трохкутнік/Трохкутніка		already чырвоны трохкутнік; G Трохкутніка	https://starnik.by/pravapis/75849
+lemma.octahedron	октаэдр	octahedron	актаэдр/Актаэдра		eight-faced solid; G Актаэдра	https://starnik.by/pravapis/3655
+lemma.hyperbolic	гиперболическая	hyperbolic	гіпэрбалічная/гіпэрбалічны	гіпербалічная	Starnik е; hunspell and the гіпэр prefix win	https://starnik.by/pravapis/106091
+lemma.klepsha	Клепша	Klepsha	Клепша/Клепшы		avenue's namesake; hunspell suggests Лепшы, a different word	—
+lemma.straight_cross	Прямопоперечно	straight-cross	Прамапапярочна		coined address adjective; hunspell splits it into two words	—
+lemma.incandescent	накаливания	incandescent	напальваньня	напальвання	lamp filament; Starnik напальванне; hunspell inserts ь	https://starnik.by/pravapis/45936
+lemma.strained	истошный	strained scream	надрывісты/надрывістыя		a scream torn from the throat; Starnik example надрывісты крык	https://starnik.by/pravapis/126049
+lemma.poor_dear	бедняжка	poor thing	бядачка/бядачцы		sympathetic feminine of бядак, not the penniless бяднячка; D бядачцы	https://starnik.by/pravapis/12430
+lemma.mummy	мумия	mummy	мумія/муміі		a preserved corpse; G муміі	https://starnik.by/pravapis/44616
+lemma.gene	генами	gene	ген/генамі		hereditary unit, not a generator; I pl генамі	https://starnik.by/pravapis/18909
+lemma.laboratory	лабораторные	laboratory	лябараторныя	лабараторныя	Starnik а; hunspell я, matching лябараторыя	https://starnik.by/pravapis/120451
+lemma.spiral_stair	винтовой	spiral stair	вінтавой		locative of вінтавы; Starnik and hunspell agree	https://starnik.by/pravapis/102402
+lemma.burst_in	вломимся	burst in	ўварвёмся/уварвёмся		to force one's way in; уламацца is a ceiling collapse	https://starnik.by/pravapis/215999
