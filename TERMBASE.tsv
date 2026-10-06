@@ -1982,7 +1982,7 @@ lemma.lid	крышка	lid	крышка/Крышка/крышкай/крышцы
 lemma.stout	дородный	portly	дародны		the painted malok on the barrel; hunspell suggestions are other words	https://starnik.by/pravapis/108196
 lemma.etude	этюд	performance study	эцюд		acrobatic study; Starnik sense 3; hunspell wants юдэй	https://starnik.by/pravapis/88037
 lemma.unforced	непринужденно	casually	нязмушана		adverb, one word in Starnik; hunspell wants it split	https://starnik.by/pravapis/227627
-lemma.librarian	библиотекарь	librarian	бібліятэкар/бібліятэкара		prison librarian; G бібліятэкара	https://starnik.by/pravapis/10253
+lemma.librarian	библиотекарь	librarian	бібліятэкар/бібліятэкара/бібліятэкарка		prison librarian; G бібліятэкара; feminine бібліятэкарка, https://starnik.by/pravapis/10254	https://starnik.by/pravapis/10253
 lemma.cement	цемент	cement	цэмэнт/цэмэнту	цэмент	hunspell over Starnik цэмент; G цэмэнту	https://starnik.by/pravapis/83407
 lemma.toilet_brush	ершик	toilet brush	ёршык		brush, not the fish; inanimate A = N	https://starnik.by/pravapis/25336
 lemma.cache	тайник	cache	тайнік/тайніка		hiding place in the wall; the loot is скарб	https://starnik.by/pravapis/74478
@@ -2945,3 +2945,4 @@ lemma.jug	кувшин	jug	збан/збана		a tall clay vessel	https://starn
 lemma.jalopy	колымага	jalopy	калымага/калымазе		an awkward heavy cart, ironic	https://starnik.by/pravapis/32258
 lemma.bat	бита	bat	біта/біту		the stick one hits with in a game	https://starnik.by/pravapis/10506
 lemma.old_age	старость	old age	старасьць/старасьці		Starnik старасць; hunspell сь	https://starnik.by/pravapis/71954
+lemma.signboard	вывеска	signboard	шыльда/шыльду		a board with an institution's name	https://starnik.by/pravapis/86202
