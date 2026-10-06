@@ -636,7 +636,7 @@ lemma.jab_il_musto	Жаб Ил Мусто	Jab Hick Gusto	Жаб Іл Мусто	
 lemma.gargyng	Гаргынг	Gargyng	Гаргынг		planet of Жаб Іл Мусто	Depth.qmm
 lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; оптронная печ	Depth.qmm
 lemma.monstrodile_aug	чудище	beast	пачварышча/Пачварышча		augmentative of пачвара; Depth monstrodile; capital for the status name	—
-lemma.plateau	плато	plateau	плато		underwater shelf; keep loan	Depth.qmm
+lemma.plateau	плато	plateau	плато/Плато		underwater shelf; keep loan; capital at a sentence start	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
 lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
 lemma.spaceship	звездолет	spaceship	зорны карабель	зоркалёт	player contrast to bathyscaph; not hangar спадарожнік	—
@@ -3273,3 +3273,7 @@ lemma.alarm	аварийный	alarm	аварыйны/аварыйнага		for 
 lemma.crunch	хруст	crunch	хруст		the crack of something breaking	https://starnik.by/pravapis/82344
 lemma.alley	переулок	alley	завулак/завулку		a short street; L завулку	https://starnik.by/pravapis/26387
 lemma.grasp	хватка	grip	хватка/хватку		how something is seized; not хват, a dashing fellow	https://starnik.by/pravapis/81728
+lemma.rope	веревка	rope	вяроўка/вяроўку/вяроўкі		a twisted cord; A вяроўку G вяроўкі	https://starnik.by/pravapis/17040
+lemma.skein	моток	skein	маток		a coil of thread or rope	https://starnik.by/pravapis/42214
+lemma.ledge	уступ	ledge	уступ/ўступ/ўступе		a step out from a slope, sense 1	https://starnik.by/pravapis/78956
+lemma.foot	подножие	foot	падножжа		the base of something high, sense 1	https://starnik.by/pravapis/50841
