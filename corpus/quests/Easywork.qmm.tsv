@@ -207,7 +207,7 @@
 "/quests/Easywork.qmm/parameters/45/lines/5/content"	"Ракеты: OOOOOX"	"Quest Easywork.qmm: parameters.45.lines.5.content. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/parameters/45/lines/6/content"	"Ракеты: OOOOOO"	"Quest Easywork.qmm: parameters.45.lines.6.content. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 40"	"Quest Easywork.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/parameters/46/name"	"Скорость ветра"	"Quest Easywork.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/parameters/46/name"	"Скорость ветра"	"Quest Easywork.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Easywork"	"Хуткасьць ветру"
 "/quests/Easywork.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 38"	"Quest Easywork.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/parameters/47/name"	"Ветер"	"Quest Easywork.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/parameters/47/lines/0/content"	"Ветра почти нет<br>"	"Quest Easywork.qmm: parameters.47.lines.0.content. Preserve every <tag> exactly."	"Quest,Easywork"	""
