@@ -266,7 +266,7 @@ lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr>
 lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
-lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак		pirate slur for goody ranger; invented	—
+lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак/пэнчэ		pirate slur for goody ranger; invented; clipped пенче is пэнчэ	—
 lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
@@ -3077,3 +3077,7 @@ lemma.slider	ползунок	slider	паўзунок/Паўзунок		a mechan
 lemma.nip	куснуть	nip	куснуў		one bite; past m куснуў	https://starnik.by/pravapis/187031
 lemma.bite	укусить	bite	укусіў		a wounding bite; past m укусіў after a non-vowel	https://starnik.by/pravapis/217147
 lemma.maul	искусать	maul	пакусаў		bit in many places; past m пакусаў	https://starnik.by/pravapis/196932
+lemma.eat	съесть	eat	зьеў	з'еў	hunspell spelling; Starnik writes the apostrophe; past m зьеў	https://starnik.by/pravapis/178611
+lemma.both	оба	both	абодвух		animate accusative of абодва	https://starnik.by/pravapis/220776
+lemma.row	строка	text line	радок/Радок		a line of text, sense 2	https://starnik.by/pravapis/62458
+lemma.wait	ожидание	waiting	чаканьне/Чаканьне		tarask -ньне; Starnik headword чаканне	https://starnik.by/pravapis/83775
