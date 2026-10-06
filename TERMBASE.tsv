@@ -1857,7 +1857,7 @@ lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		th
 lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
 lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра		a beast mosquitoes do not bother; coined	—
-lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам	https://starnik.by/pravapis/13675
+lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам/ваяроў		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам; G pl ваяроў	https://starnik.by/pravapis/13675
 lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
 lemma.gameskin	скин	game skin	скін/скіне		a character texture; Starnik noun; hunspell wants the imperative скінь	https://starnik.by/pravapis/69730
@@ -2690,8 +2690,8 @@ lemma.chantal	Шанталь	Chantal	Шанталь		the wine in the rich pools;
 lemma.duremar	Дуремар	Duremar	Дурэмар/Дурэмара		the hyacinth joke, after the leech-seller; hunspell lacks the name	Bomber.qmm
 lemma.hyacinth	гиацинт	hyacinth	гіяцынт/гіяцынтаў		the flower, sense 1; G pl гіяцынтаў	https://starnik.by/pravapis/19901
 lemma.flowerbed	клумба	flowerbed	кветнік/кветніку		a flower plot; hunspell rejects клумба; L кветніку	https://starnik.by/pravapis/35040
-lemma.kizut	Кизут	Kizut	Кізут/Кізута		akabos brother; hunspell lacks the name; G Кізута	Xenolog.qmm
-lemma.xenologist	ксенолог	xenologist	ксеналаг/Ксеналаг/ксеналага/ксеналагам/ксеналагаў		formed like ксенафоб + тэхнолаг; hunspell lacks it; G ксеналага, I ксеналагам, G pl ксеналагаў	https://starnik.by/pravapis/77515
+lemma.kizut	Кизут	Kizut	Кізут/Кізута/Кізутам		akabos brother; hunspell lacks the name; G Кізута; I Кізутам	Xenolog.qmm
+lemma.xenologist	ксенолог	xenologist	ксеналаг/Ксеналаг/ксеналага/ксеналагам/ксеналагаў/ксеналагі		formed like ксенафоб + тэхнолаг; hunspell lacks it; G ксеналага, I ксеналагам, G pl ксеналагаў, N pl ксеналагі	https://starnik.by/pravapis/77515
 lemma.xenostation	ксеностанция	xenostation	ксенастанцыя/ксенастанцыі/Ксенастанцыя/ксенастанцыяй/ксенастанцыю		the planetary base; coined on ксеналаг; I ксенастанцыяй, A ксенастанцыю	Xenolog.qmm
 lemma.rulez	Рулез	Rulez	Рулез/Рулеза/Рулезам		the faeyan xenologist; hunspell lacks the name; G Рулеза, I Рулезам	Xenolog.qmm
 lemma.zeon	Зеон	Zeon	Зэон		default destination planet; hunspell lacks the name	Xenolog.qmm
@@ -2704,7 +2704,7 @@ lemma.matlya	Матля	Matlya	Матля/Матлі		faeyan xenobiologist; huns
 lemma.gurin	Андрей Гурин	Andrei Gurin	Гурын/Гурына		human trainee; Андрэй passes hunspell; G Гурына	Xenolog.qmm
 lemma.guardtech	Гардтех	Guardtech	Гардтэх		the guard-robot company; hunspell lacks the name	Xenolog.qmm
 lemma.galit	галит	galit	галіт/галітаў		a bulk unit; hunspell lacks it	Xenolog.qmm
-lemma.xenobio	ксенобиолог	xenobiologist	ксенабіёляг/ксенабіёляга		alien-life specialist, coined like ксеналаг; G ксенабіёляга	https://starnik.by/pravapis/77515
+lemma.xenobio	ксенобиолог	xenobiologist	ксенабіёляг/ксенабіёляга/Ксенабіёляг		alien-life specialist, coined like ксеналаг; G ксенабіёляга	https://starnik.by/pravapis/77515
 lemma.gravicarchik	Гравикарчик	little gravicar	Гравікарчык		the toy gravicar	Xenolog.qmm
 lemma.hypersphere	гипершар	hypersphere	гіпэршар		the teleporter misreads the mouse; гіпэр + шар	Xenolog.qmm
 lemma.redbelly	краснобрюх	red-belly	чырванабрух/чырванабруха		a malok beast; G чырванабруха	Xenolog.qmm
@@ -2717,3 +2717,10 @@ lemma.kizhmizh	Киж-миж	Kizh-mizh	Кіж		the plant in the drink; між is
 lemma.sanogon	Саногон	Sanogon	Санагон		the akabos drink; hunspell lacks the name	Xenolog.qmm
 lemma.old_burzhun	древнебуржунский	ancient Burzhun	старажытнабуржунскім		the language the professor recognizes; locative	Xenolog.qmm
 lemma.akabos_phrase	Остра чикла духинам	akabos sentence	Остра/чикла/духинам/Овир/маруган/зинловден		frozen exam sentence; the disks teach these tokens	Xenolog.qmm
+lemma.loupe	лупа	magnifying glass	лупа/лупы/лупу		a strong lens; hunspell lacks the noun; A лупу	https://starnik.by/pravapis/40087
+lemma.tablet	планшет	tablet	планшэт/планшэта		a flat reader; Starnik planchette, hunspell gap; G планшэта	https://starnik.by/pravapis/57086
+lemma.kirash	Кираш	Kirash	Кіраш		akabos shaman; hunspell lacks the name	Xenolog.qmm
+lemma.guano	Гуано	Guano	Гуана	Гуано	the akabos game; Starnik guano, hunspell accepts Гуана	https://starnik.by/pravapis/21025
+lemma.xenology	ксенология	xenology	ксеналёгія/ксеналёгіі		the xenologist's science, coined like ксеналаг; G ксеналёгіі	https://starnik.by/pravapis/77515
+lemma.xenobiology	ксенобиология	xenobiology	Ксенабіялёгія		the journal title, coined like ксенабіёляг	https://starnik.by/pravapis/77515
+lemma.akabos_mutter	Срипча	akabos mutter	Срипча/злинжа/утраба/похача/адогиб/одынбаж/бирмах/килупа/ваджо/бурако/вичапко		frozen gibberish in the den; not Belarusian words	Xenolog.qmm
