@@ -1713,7 +1713,7 @@ lemma.earth	земля	earth	зямля/Зямля/Зямлі		element and groun
 lemma.spirit	дух	spirit	дух/Дух/Духа		psychic power, not a ghost; G духа	https://starnik.by/pravapis/23816
 lemma.gold	золото	gold	золата/Золата/залацінка		the metal and the coin label; залацінка is the small piece	https://starnik.by/pravapis/29691
 lemma.book	книга	book	кніга/Кніга		spellbook	https://starnik.by/pravapis/36147
-lemma.wind	ветер	wind	вецер/Ветру		G ветру	https://starnik.by/pravapis/14169
+lemma.wind	ветер	wind	вецер/Ветру/вятры		G ветру; N pl вятры	https://starnik.by/pravapis/14169
 lemma.wave	волна	wave	хваля/Хваляў		G pl хваляў	https://starnik.by/pravapis/81699
 lemma.light	свет	light	сьвятло/Сьвятла		Starnik святло; tarask сь; G сьвятла	https://starnik.by/pravapis/68276
 lemma.harvest	урожай	harvest	ураджай/Ураджаю		G ураджаю	https://starnik.by/pravapis/78648
@@ -3299,3 +3299,15 @@ lemma.target	цель	target	цэль/цэлі		the thing a shot is aimed at	htt
 lemma.wreckage	крушение	wreckage	крушэньне/крушэньня	крушэння	a wreck; hunspell inserts ь	https://starnik.by/pravapis/37122
 lemma.vengeful	мстительный	vengeful	помсьлівы	помслівы	inclined to revenge; hunspell inserts ь	https://starnik.by/pravapis/140349
 lemma.belt	пояс	belt	пояс/пояса		a waist belt, sense 1	https://starnik.by/pravapis/58113
+lemma.attempt	попытка	an attempt	спроба/спробу		a try without certainty of success, sense 1; A спробу	https://starnik.by/pravapis/71608
+lemma.catch	поймать	to catch	злавіць		perfective	https://starnik.by/pravapis/184476
+lemma.launcher	гранатомет	grenade launcher	гранатамёт/гранатамётам		I гранатамётам	https://starnik.by/pravapis/20607
+lemma.correction	поправка	a correction	папраўка/папраўку/папраўкі	паправка	sense 4, a value added to an instrument reading	https://starnik.by/pravapis/52774
+lemma.division	деление	a scale mark	дзяленьне/дзяленьні	дзяленне	sense 3, a mark on a measuring scale; hunspell -ньне	https://starnik.by/pravapis/22934
+lemma.indicator	индикатор	an indicator	індыкатар/індыкатара		G індыкатара	https://starnik.by/pravapis/30750
+lemma.district	район	a district	раён/раёне		L раёне, sense 2	https://starnik.by/pravapis/62868
+lemma.corner	угол	a corner	кут/куце		L куце	https://starnik.by/pravapis/38129
+lemma.screen	экран	a screen	экран/экрана		G экрана, sense 2	https://starnik.by/pravapis/86639
+lemma.conserve	беречь	to spare	берагчы/беражы		imperative беражы, sense 1	https://starnik.by/pravapis/171593
+lemma.shut	закрытый	shut	зачынены/зачыненыя		plural зачыненыя	https://starnik.by/pravapis/113371
+lemma.takeoff	взлетать	to take off	узьлятаць/ўзьляталі	узляталі	hunspell inserts ь; Starnik узлятаць	https://starnik.by/pravapis/216814
