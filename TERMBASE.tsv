@@ -883,7 +883,7 @@ lemma.quack_tose	Квак То-Ус	quack-tose	Квак/квак/КВАК/Ус/�
 lemma.haapt	Хаапт	Khahapt	Хаапта/Хаапт		globules named for Haapt	Xenopark.qmm
 lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/Зіркі	зірка	granules; not the star зірка	Xenopark.qmm
 lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша/лаап/шу/Шу		glandular fodder	Xenopark.qmm
-lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/аэракараў		the ranger's car at the park	Xenopark.qmm
+lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/Аэракары/аэракараў		the ranger's car at the park	Xenopark.qmm
 lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
 lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст/бааністы/бааністамі/бааністаў		gaal scholar of ііке-баан	Xenopark.qmm
 lemma.kabaan	Ка-баан Здоох	Pestupohn Yer	Ка/Здоох		author of the aishaut note	Xenopark.qmm
@@ -1174,7 +1174,7 @@ lemma.shmyak	Шмяк	Shmyak	Шмяк/Шмякоўка		Citadels planet and syst
 lemma.bumburovka	Бумбуровка	Bumburovka	Бумбуроўка		home system of the Citadels	Citadels.qmm
 lemma.ragnar	Рагнар	Ragnar	Рагнар		default ranger name in the briefing	Citadels.qmm
 lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны/ховерлета		coined tracked gunship; hunspell has no entry; G ховерлета	Citadels.qmm
-lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус	струс зямлі	Starnik lemma; hunspell rejects the word	https://starnik.by/pravapis/29049
+lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус/землятрусу	струс зямлі	Starnik lemma; hunspell rejects the word; G землятрусу	https://starnik.by/pravapis/29049
 lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў	шахтар	mine worker; Starnik spelling, hunspell rejects the forms	https://starnik.by/pravapis/84972
 lemma.adore	обожать	adore	абажаю/Абажаю/абажае		1sg of абажаць; hunspell suggestions are unrelated	https://starnik.by/pravapis/164532
 lemma.citadel_abbr	Эн	En	Эн/Ме		Citadels stock abbreviations for energy and metal; the help line quotes them	Citadels.qmm
@@ -2195,7 +2195,7 @@ lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		
 lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
 lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
 lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
-lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні/лякарнях		a hospital; hunspell lacks the word	https://starnik.by/pravapis/40441
+lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні/лякарнях/лякарняй		a hospital; hunspell lacks the word; I лякарняй	https://starnik.by/pravapis/40441
 lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloquial mental hospital; hunspell lacks it	https://starnik.by/pravapis/61474
 lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
 lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
@@ -2686,3 +2686,4 @@ lemma.parade_ground	плац	parade ground	пляц/пляцу/пляцы		a dri
 lemma.barracks	казарма	barracks	казарма/казармы/казармаў		a soldiers' quarters; G pl казармаў	https://starnik.by/pravapis/31779
 lemma.extinguisher	огнетушитель	extinguisher	вогнетушыцель/вогнетушыцеля/вогнетушыцелямі		a fire extinguisher; I pl вогнетушыцелямі	https://starnik.by/pravapis/14962
 lemma.rebar	арматура	rebar	арматура/арматуры		steel reinforcement, sense 2; G арматуры	https://starnik.by/pravapis/5986
+lemma.chantal	Шанталь	Chantal	Шанталь		the wine in the rich pools; a proper name	Bomber.qmm

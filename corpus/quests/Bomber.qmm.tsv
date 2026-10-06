@@ -1221,28 +1221,52 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.100.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад скалыхнуў будынак крамы і ператварыў яго ў груду абломкаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/101/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал в районе заводоуправления, но особого ущерба не принес.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў у раёне кіраваньня заводу, але асаблівай шкоды не прынёс.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/102/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал в районе заводоуправления, и здание содрогнулось. Затем неторопливо, словно при замедленном воспроизведении, здание осело и рухнуло.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.102.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў у раёне кіраваньня заводу, і будынак здрыгануўся. Затым паволі, быццам пры запаволеным прайграваньні, будынак асеў і абрынуўся.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/103/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Сейсмический заряд заставил содрогнуться землю в районе заводского магазина, но больших разрушений не вызвал.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад прымусіў здрыгануцца зямлю ў раёне заводзкай крамы, але вялікіх разбурэньняў не выклікаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/104/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Сейсмическая мина упала возле здания мэрии. С мерным грохотом здание затряслось, но устояло, сделанное на совесть и на века.
 
@@ -1262,14 +1286,26 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.105.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад успушыў пакрыцьцё на плошчы і абрынуў пару дрэваў, але большай шкоды не нанёс.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/106/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал возле больницы, но подоспевшие военные вовремя деактивировали его.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.106.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў каля лякарні, але вайскоўцы, што падасьпелі, своечасова яго абясшкодзілі.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/107/description"	"Снаряд упал в секторе <clr>А-<clrEnd>{[p11] mod 10}
 Облако яда окутало складские помещения, но не причинило никакого вреда, да и некому было его причинять.
 
@@ -1289,7 +1325,13 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.108.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.108.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад прымусіў здрыгануцца зямлю ў раёне цэнтральнага супэрмаркету, але акрамя пары перакуленых караў і паваленых дрэваў вялікіх разбурэньняў не выклікаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/109/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Он упал посреди музея, но все уцелевшие экспонаты и посетители были уже эвакуированы.
 
@@ -1309,301 +1351,559 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.110.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад скалыхнуў шэраг небаскробаў, але ці то яны былі зробленыя сумленна, ці то іх пасьпелі абкружыць ахоўным полем — ніводзін будынак не пацярпеў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/111/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Сейсмическая мина упала посреди жилого квартала, но военные успели среагировать и обезвредили ее.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.111.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічная міна ўпала пасярод жылога кварталу, але вайскоўцы пасьпелі зрэагаваць і абясшкодзілі яе.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/112/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал в реку, и берег затрясся, словно при землетрясении, однако никакого вреда стоявшим на берегу легким домикам это не причинило, зато основательно перепугало их обитателей.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.112.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў у раку, і бераг закалаціўся, быццам ад землятрусу, аднак ніякай шкоды лёгкім домікам, што стаялі на беразе, гэта не прычыніла, затое добра напалохала іх жыхароў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/113/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Сейсмический заряд всколыхнул огромное здание супермаркета, превратив его в груду дымящихся обломков.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.113.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад скалыхнуў вялізны будынак супэрмаркету і ператварыў яго ў груду дымных абломкаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/114/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Он упал посреди музея под открытым небом, и его сила превратила большую часть экспонатов в груду обломков.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.114.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Ён упаў пасярод музэя пад адкрытым небам, і ягоная сіла ператварыла большую частку экспанатаў у груду абломкаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/115/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Ударная волна заряда сотрясла высокие здания. Часть из них устояла, но остальные с грохотом обрушились.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.115.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Ударная хваля зараду скаланула высокія будынкі. Частка зь іх выстаяла, але астатнія з грукатам абрынуліся.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/116/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал возле общежитий, и мощная встряска разрушила некоторые из них.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.116.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў каля інтэрнатаў, і моцная трасяніна разбурыла некаторыя зь іх.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/117/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Сейсмический заряд упал в реку, и на берег обрушилась ударная волна, однако особого вреда стоявшим на берегу домикам она не причинила.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.117.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад упаў у раку, і на бераг абрынулася ўдарная хваля, аднак асаблівай шкоды домікам, што стаялі на беразе, яна не прычыніла.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/118/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Заряд падал на один из красавцев-небоскребов, когда откуда-то снизу вырвался яркий луч, и снаряд исчез в неяркой вспышке. Похоже, военные всерьез взялись за защиту этого района.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.118.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Зарад падаў на адзін з небаскробаў-прыгажуноў, калі аднекуль зьнізу вырваўся яркі прамень, і снарад зьнік у цьмяным выбліску. Падобна, вайскоўцы сур'ёзна ўзяліся за абарону гэтага раёну.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/119/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Термический заряд упал напротив супермаркета, но практически не нанес вреда, оперативно обезвреженный командой службы спасения.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.119.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад упаў насупраць супэрмаркету, але практычна не нанёс шкоды: каманда службы выратаваньня амаль адразу яго абясшкодзіла.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/120/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Термический заряд упал среди небоскребов, и вскоре огненный шквал несся по узким улочкам, сметая все на своем пути.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.120.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад упаў сярод небаскробаў, і неўзабаве вогненны шквал імчаў па вузкіх завулках, зьмятаючы ўсё на сваім шляху.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/121/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Огненный вал пронесся по жилому кварталу, сжигая все на своем пути и взрывая многочисленные аэрокары.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.121.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.121.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Вогненны вал прайшоў па жылым квартале, спальваючы ўсё на сваім шляху і падрываючы шматлікія аэракары.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/122/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Заряд сдетонировал на берегу реки, и огненная волна сожгла цветущий парк. Река заметно помелела, берег заволокло густым паром.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.122.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Зарад здэтанаваў на беразе ракі, і вогненная хваля спаліла квітнеючы парк. Рака прыкметна памялела, бераг зацягнула густой парай.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/123/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Огненная волна накрыла огромное здание центрального супермаркета и стоянку. Черные клубы дыма скрыли сооружение из виду.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.123.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Вогненная хваля накрыла вялізны будынак цэнтральнага супэрмаркету і стаянку. Чорныя клубы дыму схавалі збудаваньне з вачэй.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/124/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Упавший на музей под открытым небом снаряд устроил небольшую репетицию конца света для многочисленных посетителей.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.124.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Снарад, які ўпаў на музэй пад адкрытым небам, уладкаваў невялікую рэпэтыцыю канца сьвету для шматлікіх наведнікаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/125/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Термический заряд сдетонировал возле дома отдыха, но защитное поле сдержало бушующее пламя.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.125.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад здэтанаваў каля дома адпачынку, але ахоўнае поле стрымала шалёнае полымя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/126/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Термический заряд полыхнул ярким пламенем в жилом квартале, но служба спасения обезвредила пламя, успевшее слегка опалить пару зданий.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.126.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.126.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад пыхнуў яркім полымем у жылым квартале, але служба выратаваньня абясшкодзіла полымя, якое пасьпела крыху апаліць пару будынкаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/127/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула с ядовитым газом разорвалась возле супермаркета. Но почти все посетители были эвакуированы службой спасения.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.127.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.127.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула з атрутным газам разарвалася каля супэрмаркету. Але амаль усіх наведнікаў эвакуявала служба выратаваньня.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/128/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула ударилась о землю в жилом районе, но кроме устранявших последствия предыдущей бомбардировки спасателей в защитных костюмах здесь никого не было.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.128.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.128.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула ўдарылася аб зямлю ў жылым раёне, але акрамя выратавальнікаў у ахоўных касьцюмах, якія ліквідавалі наступствы папярэдняй бамбардзіроўкі, тут нікога не было.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/129/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула с ядовитым газом разорвалась возле супермаркета. Ядовитый дым проник в магазин, и посетителям пришлось туго в тесном помещении.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.129.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.129.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула з атрутным газам разарвалася каля супэрмаркету. Атрутны дым пранік у краму, і наведнікам у цесным памяшканьні давялося цяжка.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/130/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула разорвалась прямо в центре музея, окутав ядовитым дымом многочисленных посетителей.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.130.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.130.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула разарвалася проста ў цэнтры музэя, ахутаўшы атрутным дымам шматлікіх наведнікаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/131/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Ядовитое облако накрыло райское местечко на берегу реки.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.131.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Атрутнае воблака накрыла райскі куточак на беразе ракі.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/132/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Разорвавшаяся между стройными небоскребами капсула вызвала настоящую катастрофу. Множество каров потеряли управление, и вскоре часть зданий полыхала, выбрасывая маслянисто-черные клубы дыма.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.132.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.132.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула, што разарвалася паміж стройнымі небаскробамі, выклікала сапраўдную катастрофу. Мноства караў страцілі кіраваньне, і неўзабаве частка будынкаў палала, выкідваючы густыя чорныя клубы дыму.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/133/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула разорвалась в тесных улочках жилого сектора, дорожки ядовитого дыма стелились между домами.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула разарвалася ў цесных завулках жылога сэктара, сьцежкі атрутнага дыму слаліся між дамоў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/134/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула разорвалась прямо в центре музея, окутав ядовитым дымом разрушенную экспозицию, но в музее уже никого не было, кроме немногочисленных спасателей.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.134.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула разарвалася проста ў цэнтры музэя, ахутаўшы атрутным дымам разбураную экспазыцыю, але ў музэі ўжо нікога не было, акрамя нешматлікіх выратавальнікаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/135/description"	"Снаряд упал в секторе <clr>C-<clrEnd>{[p11] mod 10}
 Капсула разорвалась между небоскребами, но кроме спасателей, одетых в защитные костюмы и устранявших последствия предыдущей бомбардировки, здесь никого не было. Все пострадавшие давно были эвакуированы.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>C-<clrEnd>{[p11] mod 10}
+Капсула разарвалася паміж небаскробамі, але акрамя выратавальнікаў, апранутых у ахоўныя касьцюмы, якія ліквідавалі наступствы папярэдняй бамбардзіроўкі, тут нікога не было. Усе пацярпелыя даўно былі эвакуяваныя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/136/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Термический заряд упал напротив магазина, но практически не нанес вреда, оперативно обезвреженный.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.136.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад упаў насупраць крамы, але практычна не нанёс шкоды: яго амаль адразу абясшкодзілі.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/137/description"	"Снаряд упал в секторе <clr>B-<clrEnd>{[p11] mod 10}
 Капсула с ядом разорвалась на лужайке перед больницей, но все, кто находился в этой зоне, были в противогазах.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.137.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>B-<clrEnd>{[p11] mod 10}
+Капсула з атрутай разарвалася на лужку перад лякарняй, але ўсе, хто быў у гэтай зоне, мелі супрацьгаз.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/138/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Термический заряд упал на свалке, но существенного вреда не нанес, разве что запах гари перебил ее ядреный аромат.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.138.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад упаў на сьметніку, але істотнай шкоды не нанёс, хіба што пах гарэлага перабіў ягоны ядзерны водар.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/139/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Огненный шквал пронесся по опустевшей стоянке, но ничего, что способно гореть, там уже не осталось.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.139.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Вогненны шквал прайшоў па спусьцелай стаянцы, але там ужо нічога, што здольна гарэць, не засталося.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/140/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Термический заряд обрушил на гостиницу и ресторан мощь своего пламени, сжигая все, что только могло гореть.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.140.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад абрынуў на гасьцініцу і рэстаран моц свайго полымя, спальваючы ўсё, што толькі магло гарэць.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/141/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Термический заряд полыхнул над куполом стадиона, но купол по-прежнему устоял.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.141.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.141.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад пыхнуў над купалам стадыёну, але купал па-ранейшаму выстаяў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/142/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Термический заряд обрушил стену огня на купол стадиона, но тот оказался на удивление прочным. Зато все машины на стоянке оказались уничтожены.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.142.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад абрынуў сьцяну агню на купал стадыёну, але той аказаўся на дзіва трывалым. Затое ўсе машыны на стаянцы аказаліся зьнішчаныя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/143/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Плазменный снаряд падал на местный рай для богачей, но еще в полете оказался захвачен в магнитное поле - к повторной атаке толстосумы оказались готовы.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.143.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Плязменны снарад падаў на мясцовы рай для багацеяў, але яшчэ ў палёце трапіў у магнітнае поле — да паўторнай атакі багацеі аказаліся гатовыя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/144/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Плазменный снаряд падал на местный рай для богачей. Потирая от удовольствия руки, вы смотрели, как полыхают изящные домики и роскошные дворцы, взрываются позолоченные аэрокары и испаряется шантальское вино из бассейнов.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.144.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.144.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Плязменны снарад падаў на мясцовы рай для багацеяў. Паціраючы ад асалоды рукі, вы глядзелі, як палаюць вытанчаныя домікі і раскошныя палацы, выбухаюць пазалочаныя аэракары і выпараецца віно Шанталь з басэйнаў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/145/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Он летел к гостинице, но еще в воздухе был уничтожен лазерным лучом - военные взялись за защиту этого района весьма основательно.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.145.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.145.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Ён ляцеў да гасьцініцы, але яшчэ ў паветры быў зьнішчаны лазерным промнем — вайскоўцы сур'ёзна ўзяліся за абарону гэтага раёну.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/146/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Огненный шквал пронесся по стоянке, сопровождаемый глухими взрывами и оставляющий за собой покореженные остовы аэрокаров.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.146.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Вогненны шквал прайшоў па стаянцы ў суправаджэньні глухіх выбухаў і пакінуў за сабою пакамечаныя каркасы аэракараў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/147/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Упавший посреди свалки термический заряд во мгновение ока утилизировал горы мусора, выбросив в небо столб черного дыма.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.147.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.147.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Тэрмічны зарад, які ўпаў пасярод сьметніка, за імгненьне ўтылізаваў горы сьмецьця і выкінуў у неба слуп чорнага дыму.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/148/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Такой встряски свалка давно не знала - весь мусор оказался равномерно перемешанным и разбросанным по округе, а пара лачуг рассыпалась за минуту.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.148.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Так сьметнік даўно не трэсла — усё сьмецьце аказалася раўнамерна перамяшаным і раскіданым па навакольлі, а пара хацін рассыпалася за хвіліну.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/149/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Аэрокары на стоянке содрогнулись, когда сейсмический заряд сотряс землю. Многие машины сорвались с удерживающих полей и рухнули вниз. Цепочка взрывов пронеслась из одного конца стоянки в другой.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.149.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Аэракары на стаянцы здрыгануліся, калі сэйсьмічны зарад скалануў зямлю. Многія машыны сарваліся з палёў, што іх трымалі, і рухнулі ўніз. Ланцуг выбухаў прайшоў з аднаго канца стаянкі ў другі.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/150/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Снаряд летел к гостинице, но еще в полете был уничтожен лазерным лучом - военные взялись за защиту этого района весьма основательно.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.150.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Снарад ляцеў да гасьцініцы, але яшчэ ў палёце быў зьнішчаны лазерным промнем — вайскоўцы сур'ёзна ўзяліся за абарону гэтага раёну.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/151/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Сейсмический заряд всколыхнул купол стадиона, но тот оказался на удивление прочным. Зато все машины на стоянке оказались уничтожены.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.151.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад скалыхнуў купал стадыёну, але той аказаўся на дзіва трывалым. Затое ўсе машыны на стаянцы аказаліся зьнішчаныя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/152/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Сейсмический заряд падал на местный рай для богачей, но еще в полете оказался захвачен в магнитное поле - к повторной атаке толстосумы оказались готовы.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.152.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>D-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад падаў на мясцовы рай для багацеяў, але яшчэ ў палёце трапіў у магнітнае поле — да паўторнай атакі багацеі аказаліся гатовыя.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/153/description"	"Снаряд упал в секторе <clr>D-<clrEnd>{[p11] mod 10}
 Снаряд падал на местный рай для богачей. Потирая от удовольствия руки, вы смотрели, как рушатся изящные домики и роскошные дворцы, взрываются позолоченные аэрокары и трескаются мраморные садовые дорожки.
 
@@ -1878,7 +2178,13 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.201.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.201.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>E-<clrEnd>{[p11] mod 10}
+Капсула, што разарвалася паміж стройнымі небаскробамі, выклікала сапраўдную катастрофу. Мноства караў страцілі кіраваньне, і неўзабаве частка будынкаў палала, выкідваючы густыя чорныя клубы дыму.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/202/description"	"Снаряд упал в секторе <clr>E-<clrEnd>{[p11] mod 10}
 Капсула разорвалась между небоскребами, но кроме устранявших последствия предыдущей бомбардировки спасателей в защитных костюмах здесь никого не было. Все пострадавшие давно были эвакуированы.
 
@@ -1892,14 +2198,26 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.203.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>E-<clrEnd>{[p11] mod 10}
+Ударная хваля зараду скаланула высокія будынкі. Частка зь іх выстаяла, але астатнія з грукатам абрынуліся.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/204/description"	"Снаряд упал в секторе <clr>E-<clrEnd>{[p11] mod 10}
 Сейсмический заряд всколыхнул ряд небоскребов, но то ли они были сделаны на совесть, то ли их успели окружить защитным полем - ни одно здание не пострадало.
 
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.204.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.204.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>E-<clrEnd>{[p11] mod 10}
+Сэйсьмічны зарад скалыхнуў шэраг небаскробаў, але ці то яны былі зробленыя сумленна, ці то іх пасьпелі абкружыць ахоўным полем — ніводзін будынак не пацярпеў.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/205/description"	"Снаряд упал в секторе <clr>E-<clrEnd>{[p11] mod 10}
 Термический заряд упал среди небоскребов, и вскоре огненный шквал несся по узким улочкам, сметая все на своем пути
 
@@ -1913,7 +2231,13 @@
 <clr>ЭФФЕКТИВНОСТЬ БОМБЕЖКИ:<clrEnd>
 Паника: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
 Разрушения: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
-Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.206.description. Preserve every <tag> exactly."	"Quest,Bomber"	""
+Смертность: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"	"Quest Bomber.qmm: jumps.206.description. Preserve every <tag> exactly."	"Quest,Bomber"	"Снарад упаў у сэктары <clr>E-<clrEnd>{[p11] mod 10}
+Зарад падаў на адзін з небаскробаў-прыгажуноў, калі аднекуль зьнізу вырваўся яркі прамень, і снарад зьнік у цьмяным выбліску. Падобна, вайскоўцы сур'ёзна ўзяліся за абарону гэтага раёну.
+
+<clr>ЭФЭКТЫЎНАСЬЦЬ БАМБЁЖКІ:<clrEnd>
+Паніка: <clr>+<clrEnd>{[p7]-[p25]}<clr>%<clrEnd>
+Разбурэньні: <clr>+<clrEnd>{[p8]-[p26]}<clr>%<clrEnd>
+Сьмяротнасьць: <clr>+<clrEnd>{[p9]-[p27]}<clr>%<clrEnd>"
 "/quests/Bomber.qmm/jumps/232/text"	"Расскажите мне об управлении самолетом"	"Quest Bomber.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Bomber"	"Раскажыце мне пра кіраваньне самалётам"
 "/quests/Bomber.qmm/jumps/233/text"	"На север"	"Quest Bomber.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Bomber"	"На поўнач"
 "/quests/Bomber.qmm/jumps/234/text"	"На юг"	"Quest Bomber.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Bomber"	"На поўдзень"
