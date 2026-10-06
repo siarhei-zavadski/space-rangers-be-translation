@@ -63,33 +63,37 @@
 "/quests/Xenolog.qmm/parameters/20/crit_text"	"Сообщение достижения критического значения параметром 21"	"Quest Xenolog.qmm: parameters.20.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 21"
 "/quests/Xenolog.qmm/parameters/21/name"	"Обедненный уран"	"Quest Xenolog.qmm: parameters.21.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"Зьбеднены ўран"
 "/quests/Xenolog.qmm/parameters/21/lines/0/content"	"Обедненный уран"	"Quest Xenolog.qmm: parameters.21.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Зьбеднены ўран"
-"/quests/Xenolog.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Xenolog.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/22/name"	"Детонатор"	"Quest Xenolog.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/22/lines/0/content"	"Детонатор"	"Quest Xenolog.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Xenolog.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/23/name"	"Таймер"	"Quest Xenolog.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/23/lines/0/content"	"Таймер"	"Quest Xenolog.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Xenolog.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+"/quests/Xenolog.qmm/parameters/21/crit_text"	"Сообщение достижения критического значения параметром 22"	"Quest Xenolog.qmm: parameters.21.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 22"
+"/quests/Xenolog.qmm/parameters/22/name"	"Детонатор"	"Quest Xenolog.qmm: parameters.22.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"Дэтанатар"
+"/quests/Xenolog.qmm/parameters/22/lines/0/content"	"Детонатор"	"Quest Xenolog.qmm: parameters.22.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Дэтанатар"
+"/quests/Xenolog.qmm/parameters/22/crit_text"	"Сообщение достижения критического значения параметром 23"	"Quest Xenolog.qmm: parameters.22.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 23"
+"/quests/Xenolog.qmm/parameters/23/name"	"Таймер"	"Quest Xenolog.qmm: parameters.23.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"Таймэр"
+"/quests/Xenolog.qmm/parameters/23/lines/0/content"	"Таймер"	"Quest Xenolog.qmm: parameters.23.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Таймэр"
+"/quests/Xenolog.qmm/parameters/23/crit_text"	"Сообщение достижения критического значения параметром 24"	"Quest Xenolog.qmm: parameters.23.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 24"
 "/quests/Xenolog.qmm/parameters/24/name"	"Бомба"	"Quest Xenolog.qmm: parameters.24.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"Бомба"
 "/quests/Xenolog.qmm/parameters/24/lines/0/content"	"Бомба"	"Quest Xenolog.qmm: parameters.24.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Бомба"
-"/quests/Xenolog.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Xenolog.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/25/name"	"честность"	"Quest Xenolog.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+"/quests/Xenolog.qmm/parameters/24/crit_text"	"Сообщение достижения критического значения параметром 25"	"Quest Xenolog.qmm: parameters.24.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 25"
+"/quests/Xenolog.qmm/parameters/25/name"	"честность"	"Quest Xenolog.qmm: parameters.25.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"сумленнасьць"
 "/quests/Xenolog.qmm/parameters/25/lines/0/content"	"Параметр номер 26: <>"	"Quest Xenolog.qmm: parameters.25.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Парамэтар нумар 26: <>"
-"/quests/Xenolog.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Xenolog.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/parameters/26/name"	"БОМБА ДА!"	"Quest Xenolog.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+"/quests/Xenolog.qmm/parameters/25/crit_text"	"Сообщение достижения критического значения параметром 26"	"Quest Xenolog.qmm: parameters.25.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 26"
+"/quests/Xenolog.qmm/parameters/26/name"	"БОМБА ДА!"	"Quest Xenolog.qmm: parameters.26.name. Preserve every <tag> exactly."	"Quest,Xenolog"	"БОМБА ТАК!"
 "/quests/Xenolog.qmm/parameters/26/lines/0/content"	"Параметр номер 27: <>"	"Quest Xenolog.qmm: parameters.26.lines.0.content. Preserve every <tag> exactly."	"Quest,Xenolog"	"Парамэтар нумар 27: <>"
-"/quests/Xenolog.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Xenolog.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/tostar"	"Под землей"	"Quest Xenolog.qmm: tostar. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/toplanet"	"Зеон"	"Quest Xenolog.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/fromplanet"	"Отстой"	"Quest Xenolog.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Xenolog"	""
-"/quests/Xenolog.qmm/fromstar"	"Лажовая"	"Quest Xenolog.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+"/quests/Xenolog.qmm/parameters/26/crit_text"	"Сообщение достижения критического значения параметром 27"	"Quest Xenolog.qmm: parameters.26.crit_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 27"
+"/quests/Xenolog.qmm/tostar"	"Под землей"	"Quest Xenolog.qmm: tostar. Preserve every <tag> exactly."	"Quest,Xenolog"	"Пад зямлёй"
+"/quests/Xenolog.qmm/toplanet"	"Зеон"	"Quest Xenolog.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Xenolog"	"Зэон"
+"/quests/Xenolog.qmm/fromplanet"	"Отстой"	"Quest Xenolog.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Xenolog"	"Дрэнь"
+"/quests/Xenolog.qmm/fromstar"	"Лажовая"	"Quest Xenolog.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Xenolog"	"Ліпавая"
 "/quests/Xenolog.qmm/ranger"	"Нео"	"Quest Xenolog.qmm: ranger. Preserve every <tag> exactly."	"Quest,Xenolog"	"Нэо"
 "/quests/Xenolog.qmm/success_text"	"Мы рады приветствовать ксенолога на нашей планете! Ксенолог Рулез прислал нам подробный отчет о вашей работе и о собственных исследованиях. Подумать только, у акабосов в организме есть специальный орган, позволяющий им при некоторых условиях вступать в симбиоз с деревом <clr>ляобаб<clrEnd>! В результате их личность как бы записывается в структуру дерева, так что другие акабосы, медитируя возле этого дерева, могут, по сути, общаться со своим давно умершим собратом! Вы представляете, какие здесь открываются научные горизонты?! 
 
-Ну ладно, <Ranger>, хватит зевать! Вы успешно справились с заданием, и мы с удовольствием выплачиваем вам <Money> cr. Благодарим вас за сотрудничество и за ваш вклад в науку!"	"Quest Xenolog.qmm: success_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+Ну ладно, <Ranger>, хватит зевать! Вы успешно справились с заданием, и мы с удовольствием выплачиваем вам <Money> cr. Благодарим вас за сотрудничество и за ваш вклад в науку!"	"Quest Xenolog.qmm: success_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Мы рады вітаць ксеналага на нашай плянэце! Ксеналаг Рулез прыслаў нам падрабязную справаздачу пра вашу працу і пра ўласныя дасьледаваньні. Падумаць толькі, у акабосаў у арганізьме ёсьць адмысловы орган, які дазваляе ім пры пэўных умовах уступаць у сымбіёз з дрэвам <clr>ляобаб<clrEnd>! У выніку іх асоба быццам запісваецца ў структуру дрэва, так што іншыя акабосы, моўчкі седзячы каля гэтага дрэва, могуць, па сутнасьці, мець зносіны са сваім даўно памерлым сабратам! Вы ўяўляеце, якія тут адкрываюцца навуковыя гарызонты?!
+
+Ну добра, <Ranger>, хопіць пазяхаць! Вы пасьпяхова справіліся з заданьнем, і мы з асалодай выплачваем вам <Money> cr. Дзякуем вам за супрацоўніцтва і за ваш унёсак у навуку!"
 "/quests/Xenolog.qmm/task_text"	"Приветствую вас, <Ranger>! Мы наслышаны о ваших талантах общаться с другими расами - когда надо выстрелите, когда надо решите мирным путем. Такой замечательный подход к делу натолкнул нас на мысль, что можно дать вам одно интересное задание. Недавно на незаселенной планете <ToPlanet>, которая находится в системе <ToStar>, было убито двое наших ксенологов. Почему это произошло, мы не знаем, нужно отправить на планетарную базу ксенологов опытного в межрасовом общении гуманоида, который поможет выяснить, что же там случилось. Если вы справитесь с этим непростым заданием, то мы выплатим вам <Money> cr, и в следующий раз обратимся именно к вам!
 
-Ах да, чуть не забыл! Вам нужно успеть попасть на планету до <Date>."	"Quest Xenolog.qmm: task_text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+Ах да, чуть не забыл! Вам нужно успеть попасть на планету до <Date>."	"Quest Xenolog.qmm: task_text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Вітаю вас, <Ranger>! Мы начуліся пра вашы таленты мець зносіны з іншымі расамі — калі трэба, стрэліце, калі трэба, вырашыце мірным шляхам. Такі выдатны падыход да справы навёў нас на думку, што можна даць вам адно цікавае заданьне. Нядаўна на незаселенай плянэце <ToPlanet>, якая знаходзіцца ў сыстэме <ToStar>, было забіта двое нашых ксеналагаў. Чаму гэта адбылося, мы ня ведаем, трэба адправіць на плянэтарную базу ксеналагаў дасьведчанага ў зносінах з рознымі расамі гуманоіда, які дапаможа высьветліць, што ж там здарылася. Калі вы справіцеся з гэтым няпростым заданьнем, мы выплацім вам <Money> cr, і наступным разам зьвернемся менавіта да вас.
+
+Ах так, ледзь не забыўся! Вам трэба пасьпець трапіць на плянэту да <Date>."
 "/quests/Xenolog.qmm/locations/0/texts/0/text"	"Ваш космический конь хорошо вел себя в слоях атмосферы. Даже отсутствие космодрома не помешало мягко приземлиться на поверхность. Вы посадили корабль на огороженной мощным забором территории ксеностанции. Планета <ToPlanet> выглядела замечательно. Хотелось бы иметь домик на краю одного из местных зеленых полей и уединенно жить в нем! Домик в деревне, так сказать. 
 
 - Нравится? - прервал мечты незнакомый голос и, не дожидаясь ответа, добавил: - Мне тоже! 
@@ -98,7 +102,15 @@
 - Меня зовут <Ranger>, я прилетел со специальным заданием с планеты <FromPlanet>, чтобы выяснить, по какой причине...
 - Не продолжайте, <Ranger>, я об этом проинформирован. Ну, надеюсь, у вас получится. Вас рекомендовали, как очень опытного специалиста в общении с другими расами. Давайте продолжим наш разговор внутри станции. Кстати, ваш корабль придется на время замаскировать, чтоб его громада не привлекала внимания местных жителей; этим сейчас займется наш робот. Не смотрите в недоумении. Мы вынуждены скрывать наши технические достижения, чтобы не пугать <clr>акабосов<clrEnd> и не повредить чистоте исследований.
 
-Планетарная ксеностанция представляла собой здание небольшого размера. Ксенолог с помощью электронного ключа открыл дверь."	"Quest Xenolog.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Xenolog"	""
+Планетарная ксеностанция представляла собой здание небольшого размера. Ксенолог с помощью электронного ключа открыл дверь."	"Quest Xenolog.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Xenolog"	"Ваш касьмічны конь добра паводзіў сябе ў пластах атмасфэры. Нават адсутнасьць касмадрому не перашкодзіла мякка прызямліцца на паверхню. Вы пасадзілі карабель на тэрыторыі ксенастанцыі, абгароджанай магутным плотам. Плянэта <ToPlanet> выглядала выдатна. Хацелася б мець домік на краі аднаго з мясцовых зялёных палёў і жыць у ім адасоблена! Домік у вёсцы, так бы мовіць.
+
+- Падабаецца? — перапыніў мары незнаёмы голас і, не чакаючы адказу, дадаў: — Мне таксама!
+Перад вамі стаяў усьмешлівы фэянін гадоў 25. У яго было крыху апухлае аблічча — калі фэяне апухаюць, то гэта, хутчэй за ўсё, наступствы фэянскай вадзянкі. Ён паціснуў вам руку і прадставіўся:
+- Мяне тут усе клічуць <clr>Рулез<clrEnd>, вось ужо 3 гады я працую ксеналагам на гэтай утульнай плянэце.
+- Мяне завуць <Ranger>, я прыляцеў са спэцыяльным заданьнем з плянэты <FromPlanet>, каб высьветліць, зь якой прычыны...
+- Не працягвайце, <Ranger>, я пра гэта праінфармаваны. Ну, спадзяюся, у вас атрымаецца. Вас рэкамэндавалі як вельмі дасьведчанага спэцыяліста ў зносінах з іншымі расамі. Давайце працягнем нашу размову ўнутры станцыі. Дарэчы, ваш карабель давядзецца на час замаскаваць, каб ягоная грамада не прыцягвала ўвагі мясцовых жыхароў; гэтым зараз зоймецца наш робат. Не глядзіце зьдзіўлена. Мы мусім хаваць нашы тэхнічныя дасягненьні, каб не палохаць <clr>акабосаў<clrEnd> і не пашкодзіць чысьціні дасьледаваньняў.
+
+Плянэтарная ксенастанцыя ўяўляла сабою будынак невялікага памеру. Ксеналаг з дапамогай электроннага ключа адчыніў дзьверы."
 "/quests/Xenolog.qmm/locations/1/texts/0/text"	"Станция внутри оказалась гораздо технологичнее, чем выглядела снаружи.
 
 Рулез провел вас в кабинет с надписью на двери <clr>""Лаборатория ксенологов""<clrEnd>. Из мебели в комнате находился один диван, два стола с компьютерами, чертежами и бумагами, исписанными от руки. На стене висело громадных размеров видеопанно. На нем помигивало изображение какого-то существа. ""Акабос"", - подумали вы.
