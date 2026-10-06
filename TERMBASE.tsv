@@ -2236,7 +2236,7 @@ lemma.graviton	гравитонный	graviton	гравітонны/гравіт
 lemma.address	адрес	address	адрас/адраса		a place's address, genitive -а; hunspell only offers -у	https://starnik.by/pravapis/2722
 lemma.cold_blood	хладнокровие	cold blood	халаднакроўе/халаднакроўем		composure; instrumental халаднакроўем is a hunspell gap	https://starnik.by/pravapis/81367
 lemma.whose_some	чей-то	someone's	чыесьці		plural nominative of чыйсьці; hunspell lists only the feminine	https://starnik.by/pravapis/234043
-lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнтаграме		a mentoscopy record; L мэнтаграме	Amnesia.qmm
+lemma.mentogram	ментограмма	mentogram	мэнтаграма/мэнтаграме/мэнтаграмы		a mentoscopy record; L мэнтаграме	Amnesia.qmm
 lemma.drug_courier	наркокурьер	drug courier	наркокур'ер/наркокур'еры		a courier of drugs; hunspell lacks the compound	Amnesia.qmm
 lemma.berserk	берсерк	berserk	бэрсэрк		a warrior in a blind rage; a loan, Starnik has no headword	Amnesia.qmm
 lemma.milliwatt	мВт	milliwatt	мВт		colony energy unit; the SI symbol stays	Colonization.qmm
@@ -3277,3 +3277,18 @@ lemma.rope	веревка	rope	вяроўка/вяроўку/вяроўкі		a t
 lemma.skein	моток	skein	маток		a coil of thread or rope	https://starnik.by/pravapis/42214
 lemma.ledge	уступ	ledge	уступ/ўступ/ўступе		a step out from a slope, sense 1	https://starnik.by/pravapis/78956
 lemma.foot	подножие	foot	падножжа		the base of something high, sense 1	https://starnik.by/pravapis/50841
+lemma.azimuth	азимут	azimuth	азімут		a bearing from north, senses 1–2	https://starnik.by/pravapis/3220
+lemma.hollow	полый	hollow	парожні		empty, nothing inside, sense 1	https://starnik.by/pravapis/136377
+lemma.offering	жертвоприношение	offering	ахвярапрынашэньне/ахвярапрынашэньняў	ахвярапрынашэнняў	the rite and what is offered; G pl with ь	https://starnik.by/pravapis/7903
+lemma.neodominator	Неодоминатор	neodominator	Нэадамінатар/Нэадамінатараў	Неадамінатараў	coined neo-dominator; нэа- is the tarask prefix	—
+lemma.civilization	цивилизация	civilization	цывілізацыя		a society's culture, sense 1; not the surname Цывіл	https://starnik.by/pravapis/83043
+lemma.serviceman	военнослужащий	serviceman	вайсковец/вайскоўцаў		a person in the army; G pl вайскоўцаў	https://starnik.by/pravapis/12982
+lemma.hill	холм	hill	узгорак		a rise with gentle slopes	https://starnik.by/pravapis/77965
+lemma.cave	пещера	cave	пячора/пячору		a hollow under the ground, sense 1; A пячору	https://starnik.by/pravapis/62250
+lemma.majestic	величественный	majestic	велічны/велічныя		full of grandeur, sense 1	https://starnik.by/pravapis/101899
+lemma.brisk	бодро	briskly	бадзёра		lively, energetic	https://starnik.by/pravapis/221919
+lemma.altar	алтарь	altar	алтар		the stone of a rite	https://starnik.by/pravapis/4066
+lemma.throne	трон	throne	трон		a monarch's seat	https://starnik.by/pravapis/75803
+lemma.honor	честь	honor	гонар		dignity and glory, senses 1–2	https://starnik.by/pravapis/20368
+lemma.yank	дергать	yank	тузаць/тузайцеся		to jerk, sense 1; stress ту́заць so ня тузайцеся	https://starnik.by/pravapis/215669
+lemma.cherished	заветный	cherished	запаветны/запаветнай		dearly held, long awaited, sense 1	https://starnik.by/pravapis/112545
