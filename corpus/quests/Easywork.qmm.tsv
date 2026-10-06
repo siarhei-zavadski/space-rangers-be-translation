@@ -1510,23 +1510,31 @@
 "/quests/Easywork.qmm/jumps/98/text"	"Зайти в отель"	"Quest Easywork.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Зайсьці ў гатэль"
 "/quests/Easywork.qmm/jumps/99/description"	"Сколько вы ни пытались разбудить пеленга, у вас ничего не получилось."	"Quest Easywork.qmm: jumps.99.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Колькі вы ні спрабавалі разбудзіць пеленга, у вас нічога не атрымалася."
 "/quests/Easywork.qmm/jumps/100/text"	"Войти в дом Левого Усеченного Октаэдра"	"Quest Easywork.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Увайсьці ў дом Левага Усечанага Актаэдра"
-"/quests/Easywork.qmm/jumps/101/text"	"Вернуться к такси"	"Quest Easywork.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/101/description"	"Вы быстро спустились по лестнице и сели в такси. Куда теперь отправимся?"	"Quest Easywork.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/102/text"	"Попросить 300 cr"	"Quest Easywork.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/101/text"	"Вернуться к такси"	"Quest Easywork.qmm: jumps.101.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца да таксі"
+"/quests/Easywork.qmm/jumps/101/description"	"Вы быстро спустились по лестнице и сели в такси. Куда теперь отправимся?"	"Quest Easywork.qmm: jumps.101.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы хутка спусьціліся па лесьвіцы і селі ў таксі. Куды цяпер адправімся?"
+"/quests/Easywork.qmm/jumps/102/text"	"Попросить 300 cr"	"Quest Easywork.qmm: jumps.102.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Папрасіць 300 cr"
 "/quests/Easywork.qmm/jumps/103/description"	"Вы отыскали в голографической менюшке раздел ""финансовая помощь"" и ткнули пальцем кнопку ""послать запрос"". Через секунду перед вами появилась объемная голограмма гаальца. Послушаем, что он скажет...
 
  - Рейнджер <Ranger>? У вас на счете всего [p3] cr! Так и быть, <clr>мы дополним ваш счет до 300 cr<clrEnd>, но в этот раз постарайтесь тратить их разумнее.
 
-Итак, деньги вы, к счастью, получили. Что дальше?"	"Quest Easywork.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Итак, деньги вы, к счастью, получили. Что дальше?"	"Quest Easywork.qmm: jumps.103.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы адшукалі ў галяграфічным мэню разьдзел «фінансавая дапамога» і ткнулі пальцам кнопку «паслаць запыт». Праз сэкунду перад вамі зьявілася аб'ёмная галяграма гаальца. Паслухаем, што ён скажа...
+
+ - Рэйнджэр <Ranger>? У вас на рахунку ўсяго [p3] cr! Няхай будзе, <clr>мы дапоўнім ваш рахунак да 300 cr<clrEnd>, але гэтым разам пастарайцеся траціць іх разумней.
+
+Такім чынам, грошы вы, на шчасьце, атрымалі. Што далей?"
 "/quests/Easywork.qmm/jumps/104/description"	"Вы отыскали в голографической менюшке раздел ""финансовая помощь"" и ткнули пальцем кнопку ""послать запрос"". Через секунду перед вами появилась объемная голограмма гаальца. Послушаем, что он скажет...
 
 - Рейнджер <Ranger>? У вас на счете [p3] cr, этого вполне достаточно для нормального существования! <clr>Вы ничего не получите!<clrEnd>
 
-Да, гаальцев вам так просто не обмануть. Хотя, наверное, правильно говорят, что не в деньгах счастье..."	"Quest Easywork.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Да, гаальцев вам так просто не обмануть. Хотя, наверное, правильно говорят, что не в деньгах счастье..."	"Quest Easywork.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы адшукалі ў галяграфічным мэню разьдзел «фінансавая дапамога» і ткнулі пальцам кнопку «паслаць запыт». Праз сэкунду перад вамі зьявілася аб'ёмная галяграма гаальца. Паслухаем, што ён скажа...
+
+- Рэйнджэр <Ranger>? У вас на рахунку [p3] cr, гэтага цалкам дастаткова для нармальнага існаваньня! <clr>Вы нічога не атрымаеце!<clrEnd>
+
+Так, гаальцаў вам так проста не абдурыць. Хоць, мусіць, правільна кажуць, што не ў грошах шчасьце..."
 "/quests/Easywork.qmm/jumps/105/text"	"На стоянку гравитакси"	"Quest Easywork.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На стаянку гравітаксі"
-"/quests/Easywork.qmm/jumps/106/text"	"Что ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/107/text"	"Вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/108/text"	"А почему вы сказали ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/106/text"	"Что ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Што «так-так, сапраўды»?"
+"/quests/Easywork.qmm/jumps/107/text"	"Вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы нават не паглядзіце, што ў скрынцы?"
+"/quests/Easywork.qmm/jumps/108/text"	"А почему вы сказали ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Easywork"	"А чаму вы сказалі «так-так, сапраўды»?"
 "/quests/Easywork.qmm/jumps/109/text"	"И вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.109.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/110/text"	"Да нет, что вы! Мне было бы очень интересно"	"Quest Easywork.qmm: jumps.110.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/111/text"	"Да, вы правы, меня это не интересует"	"Quest Easywork.qmm: jumps.111.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
@@ -1582,7 +1590,7 @@
 "/quests/Easywork.qmm/jumps/133/description"	"Вы поднялись в кабину и откинулись в своем любимом кресле пилота. Получив разрешение на взлет, вы занесли палец над кнопкой запуска двигателей, подождали несколько секунд, и, окончательно решив лететь, вдавили ее до упора.
 Ничего не произошло. Вы нажали кнопку еще раз, но и это не помогло. Вы ругнулись и запустили программу диагностики. Через минуту она выдала весьма неутешительное заключение - поломка двигателя. Вам пришлось обратиться к техникам космопорта. После получасового осмотра они выдали заключение, но из всего огромного потока технических терминов вы поняли только то, что поломка очень серьезная и на починку может уйти несколько дней.
 Вам пришлось возвратиться в город."	"Quest Easywork.qmm: jumps.133.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/135/text"	"Вернуться к такси"	"Quest Easywork.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/135/text"	"Вернуться к такси"	"Quest Easywork.qmm: jumps.135.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Вярнуцца да таксі"
 "/quests/Easywork.qmm/jumps/135/description"	"- Куда теперь? - спросил таксист."	"Quest Easywork.qmm: jumps.135.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/136/description"	"Вы осторожно приоткрыли дверь и вошли. В квартире царил полнейший разгром, мебель была разрушена, на полу валялись обломки, а в стене зияла дыра. Судя по количеству растерзанных листочков, это были обломки книжного шкафа. На стенах и полу были зеленые следы пеленгской крови. Вы подняли с пола обломок поувесистее и медленно двинулись в другую комнату. Там вы нашли профессора. Вернее то, что от него осталось. Беднягу просто... съели! От Лягуша осталось немного - различные части, из которых торчали обломки костей, были разбросаны по залитой кровью комнате. На потолке была надпись зеленого цвета - ""МОЛГААР"". Вы отвернулись от жуткого зрелища, пытаясь сдержать тошноту.
 Немного придя в себя, вы решили осмотреть комнату. Около письменного стола вы нашли разодранные остатки каких-то записей профессора. На обрывках листочков часто встречались слова ""МОЛГААР"", ""Создатель"", ""Неодоминаторы"", ""Порочный мир"", ""Очищение от грязи"". В общем, вы сделали вывод, что профессор то ли исследовал какую-то секту, то ли сам состоял в ней. На одной из первых страниц на полях был какой-то адрес, а под ним подпись: ""Посвящение"". Вы переписали адрес себе. Больше путного ничего найти не удалось. Вам ничего не оставалось, как выйти из дома и поймать такси.
