@@ -1940,7 +1940,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/плязменнага/плязменныя/плязменнай/плязменных		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя, G pl плязменных	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/Плязменныя/плязменнага/плязменныя/плязменнай/плязменных		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя, G pl плязменных	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2626,3 +2626,21 @@ lemma.ail	Айль Фасист	Ail the Fascist	Айль Фашыст		origin pl
 lemma.bunder	Бундер	Bunder	Бундэр		origin star	Bomber.qmm
 lemma.hiroshima	Хиросима	Hiroshima	Хірасіма/Хірасімы		the callsign Навала Хірасімы	Bomber.qmm
 lemma.gromykhal	Громыхал	Gromykhal	Грамыхал		the general; грамыхаць	Bomber.qmm
+lemma.garrison	гарнизон	garrison	гарнізон/гарнізона		a stationed unit; G гарнізона	https://starnik.by/pravapis/18247
+lemma.bombing	бомбежка	bombing	бамбёжка/бамбёжкі		a bombing run; G бамбёжкі	https://starnik.by/pravapis/8954
+lemma.poisoning	отравление	poisoning	атручваньне/атручваньні	атручванне	hunspell ь; Starnik атручванне	https://starnik.by/pravapis/7016
+lemma.reservoir	водохранилище	reservoir	вадасховішча		a stored body of water	https://starnik.by/pravapis/12870
+lemma.skyscraper	небоскреб	skyscraper	небаскроб/небаскробамі		a very tall building; I pl небаскробамі	https://starnik.by/pravapis/47030
+lemma.atv	вездеход	all-terrain vehicle	усюдыход/усюдыхода		a vehicle for any ground; G усюдыхода	https://starnik.by/pravapis/79011
+lemma.helmet	шлем	helmet	шлем/шлемам		head armor; I шлемам	https://starnik.by/pravapis/85227
+lemma.city_hall	мэрия	city hall	мэрыя/мэрыю		the municipal government	https://starnik.by/pravapis/44891
+lemma.pavilion	павильон	pavilion	павільён/павільёнаў		a show building; G pl павільёнаў	https://starnik.by/pravapis/49917
+lemma.landmark	достопримечательность	landmark	славутасьць/славутасьці	славутасць	hunspell ь; Starnik славутасць	https://starnik.by/pravapis/70155
+lemma.farm	ферма	farm	фэрма/фэрмы	ферма	hunspell э; Starnik ферма	https://starnik.by/pravapis/79936
+lemma.dam	плотина	dam	грэбля/грэбляй		a barrier across a river; I грэбляй	https://starnik.by/pravapis/20991
+lemma.snack_bar	закусочная	snack bar	забягалаўка		a small eatery	https://starnik.by/pravapis/26257
+lemma.elite	элитный	elite	элітны/элітнага		of the rich district	https://starnik.by/pravapis/163581
+lemma.infrastructure	инфраструктура	infrastructure	інфраструктура/інфраструктуры		the city's supporting works; G інфраструктуры	https://starnik.by/pravapis/31250
+lemma.expedient	целесообразный	expedient	мэтазгодны/мэтазгодным		worth doing; I мэтазгодным	https://starnik.by/pravapis/125325
+lemma.burned_out	выгоревший	burned out	выгаралы/выгаралымі		burned empty; I pl выгаралымі	https://starnik.by/pravapis/103330
+lemma.passerby	прохожий	passerby	прахожы/прахожых		a person going by; G pl прахожых	https://starnik.by/pravapis/59575
