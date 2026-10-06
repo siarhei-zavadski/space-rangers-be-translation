@@ -252,7 +252,7 @@ lemma.range	дальность	range	дальнасьць		weapon/gripper range;
 lemma.speed	скорость	speed	хуткасьць		hunspell -сьць	https://starnik.by/pravapis/82488
 lemma.cannon	орудие	cannon	гармата		G гарматы A гармату D/L гармаце	https://starnik.by/pravapis/18223
 lemma.satellite	зонд	satellite	спадарожнік	зонд	Items/Ruins SB probe; G спадарожніка	https://starnik.by/pravapis/70914
-lemma.container	контейнер	container	кантэйнэр	кантэйнер	Starnik кантэйнер; hunspell кантэйнэр	https://starnik.by/pravapis/33251
+lemma.container	контейнер	container	кантэйнэр/кантэйнерах	кантэйнер	Starnik кантэйнер; hunspell кантэйнэр; L pl кантэйнерах	https://starnik.by/pravapis/33251
 lemma.artifact	артефакт	artefact	артэфакт		G артэфакта L артэфакце	https://starnik.by/pravapis/6139
 lemma.generator	генератор	generator	генэратар	генератар	already FormRuins CB; hunspell э	https://starnik.by/pravapis/18947
 lemma.shield_gen	генератор защиты	shield generator	генэратар абароны		already FormRuins CB AddDefGenerator	https://starnik.by/pravapis/18947
@@ -1088,7 +1088,7 @@ lemma.plasmobus	плазмобус	plasmobus	плазмобус/плазмобу
 lemma.site_mx	№7-МХ	site 7-MX	МХ		site code; Cyrillic М and Х stay byte-identical	Tourists.qmm
 lemma.akinak	акинак	akinakes	акінак/акінакі	асінак	Scythian short sword; not in Starnik	Tourists.qmm
 lemma.shuriken	сюрикен	shuriken	сюрыкэн/сюрыкэны	сюрпрыз	throwing star; not in Starnik	Tourists.qmm
-lemma.beamer	лучемет	ion beamer	прамянёмёт/прамянёмёта/прамянёмётам	лучамёт	ray gun; coined from прамень; I прамянёмётам	https://starnik.by/pravapis/58919
+lemma.beamer	лучемет	ion beamer	прамянёмёт/прамянёмёта/прамянёмётам/прамянёмётамі	лучамёт	ray gun; coined from прамень; I прамянёмётам; I pl прамянёмётамі	https://starnik.by/pravapis/58919
 lemma.coraller	Кораллер	Coraller	Каралер	Каралаў	coral island; coined from карал	https://starnik.by/pravapis/33725
 lemma.bachekvak	Бачеквак	Bachekvak	Бачэквак/Бачэквака		peleng name on the coffin	Tourists.qmm
 lemma.shasapus	Шасапус	Shasapus	Шасапус/Шасапуса		peleng commander	Tourists.qmm
@@ -2678,3 +2678,5 @@ lemma.dreary	унылый	dreary	маркотны/маркотна		gloomy, not 
 lemma.howling	вой	howl	завываньне/завываньня/завываньні	вой/выццё/завыванне	the sound; hunspell -ньне; Starnik вой is the interjection	https://starnik.by/pravapis/26396
 lemma.deserter	дезертир	deserter	дэзерцір/дэзерціраў		a soldier who leaves his post; hunspell lacks the word	https://starnik.by/pravapis/24663
 lemma.holopetard	голопетарда	holo-petard	галапятарда/галапятардаў		coined holiday firecracker	Bomber.qmm
+lemma.neanderthal	неандерталец	neanderthal	неандэрталец/неандэртальца		hunspell lacks the word; G неандэртальца	https://starnik.by/pravapis/46923
+lemma.greenmuzzles	зеленорожие	green-muzzles	Зялёнарогія/зялёнарогім		hatchball team name	Bomber.qmm
