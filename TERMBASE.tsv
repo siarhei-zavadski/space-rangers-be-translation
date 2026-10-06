@@ -2160,7 +2160,7 @@ lemma.henchman	прихвостень	henchman	клеўрэт/клеўрэты/�
 lemma.enclosure	ограда	enclosure	агароджа/агароджы/агароджу/агароджай		a fence around a mansion; the yard fence забор stays плот	https://starnik.by/pravapis/1549
 lemma.grish	Грышш	maloc name	Грышш		the scarred maloc who carries the peleng	Drugs.qmm
 lemma.wreck	развалина	wreck of a person	разваліна/разваліны/разваліну		an old broken-down person, sense 2	https://starnik.by/pravapis/63010
-lemma.folder	папка	folder	тэчка/тэчку/тэчцы		a folder of papers; hunspell suggests other words	https://starnik.by/pravapis/77531
+lemma.folder	папка	folder	тэчка/тэчку/тэчцы/тэчкі		a folder of papers; hunspell suggests other words; N pl тэчкі	https://starnik.by/pravapis/77531
 lemma.glock	Глок	guard name	Глок		the guard the other calls over; not in Starnik	Drugs.qmm
 lemma.drowsiness	дремота	drowsiness	дрымота/дрымоту		sleepiness, half-sleep; the Starnik example is перамагчы дрымоту	https://starnik.by/pravapis/23580
 lemma.log	чурбан	log	цурбан/цурбана	чурбан	a short log, and the insult for a clumsy person	https://starnik.by/pravapis/83000
@@ -2827,7 +2827,7 @@ lemma.expertise	экспертиза	expertise	экспэртыза/экспэр
 lemma.antediluvian	допотопный	antediluvian	дапатопны		outdated, sense 2	https://starnik.by/pravapis/108105
 lemma.grade	оценка	grade	адзнака/Адзнакі/адзнаку		numeric mark; ацэнка sense 3 names адзнака, and пяцібальная is that scale	https://starnik.by/pravapis/2201
 lemma.expert	эксперт	expert	экспэрт/экспэртамі	эксперт	Starnik official е; hunspell э	https://starnik.by/pravapis/86723
-lemma.section	раздел	section	разьдзел/разьдзелы	раздзел	a part of a book or paper, sense 2; hunspell soft sign	https://starnik.by/pravapis/63213
+lemma.section	раздел	section	разьдзел/разьдзелы/разьдзелаў	раздзел	a part of a book or paper, sense 2; hunspell soft sign; G pl разьдзелаў	https://starnik.by/pravapis/63213
 lemma.verdict	вердикт	verdict	вэрдыкт	вердыкт	a ruling; Starnik е, hunspell э	https://starnik.by/pravapis/13954
 lemma.humor	юмор	humor	гумар/Гумару		the comic department of a paper, sense 2; G гумару	https://starnik.by/pravapis/21228
 lemma.review	рецензия	review	рэцэнзія/Рэцэнзіямі		a critical notice; instrumental plural рэцэнзіямі	https://starnik.by/pravapis/66336
@@ -2887,3 +2887,15 @@ lemma.bartender	бармен	bartender	бармэн		Starnik also lists барм
 lemma.tag	бирка	tag	бірка		a label on goods, sense 1	https://starnik.by/pravapis/10469
 lemma.outsider	посторонний	outsider	староньні/староньніх		Starnik старонні; hunspell soft sign in the genitive plural	https://starnik.by/pravapis/151859
 lemma.oink	хрю	oink	Хрю/хры/хра/Хры/Хрюха		gas-mask grunts, not words	—
+lemma.carafe	графин	carafe	графін/графіна		a glass vessel with a narrow neck; G графіна	https://starnik.by/pravapis/20698
+lemma.uproar	гвалт	uproar	гвалт		Starnik sense 3 is noise; sense 1 is violence, already used in Evidence	https://starnik.by/pravapis/18555
+lemma.tattle	ябедничать	to tattle	фіскаліць		colloquial: to inform on someone	https://starnik.by/pravapis/218945
+lemma.gulp	хлебнуть	to gulp	хлебануць/хлебануў		one swallow of a liquid, sense 2	https://starnik.by/pravapis/219208
+lemma.editorial_board	редколлегия	editorial board	рэдкалегія/рэдкалегіі		the board of a publication; G рэдкалегіі	https://starnik.by/pravapis/65671
+lemma.session	заседание	session	паседжаньне		a meeting of a body; Starnik пасяджэнне, hunspell soft sign	https://starnik.by/pravapis/53783
+lemma.butt	окурок	cigarette butt	акурак/акуркаў		the rest of a smoked cigarette; G pl акуркаў	https://starnik.by/pravapis/3745
+lemma.sill	подоконник	windowsill	падаконьнік/падаконьніку		Starnik падваконнік, hunspell падаконьнік; L падаконьніку	https://starnik.by/pravapis/50282
+lemma.ram	баран	ram	баран/бараноў		a male sheep and a dull person, sense 4; G pl бараноў	https://starnik.by/pravapis/9146
+lemma.police	полиция	police	паліцыя/паліцыі		the police force; G паліцыі	https://starnik.by/pravapis/52127
+lemma.tumbler	стаканчик	disposable cup	кубачак/кубачкі		Starnik: аднаразовы кубачак is a disposable cup	https://starnik.by/pravapis/37607
+lemma.brawl	драка	brawl	бойка/бойку		a fight with blows, sense 2	https://starnik.by/pravapis/11123
