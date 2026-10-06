@@ -1033,7 +1033,7 @@ lemma.kryshyva	крошево	hash	крышыва	крошава	finely crushed 
 lemma.pilotka	пилотка	side cap	пілотка/Пілотка/пілотку	фуражка	summer military side cap; hunspell suggestions are nonsense	https://starnik.by/pravapis/56624
 lemma.glyddl	Глыдл	Glyddl	Глыдл/Глыдла		casino owner; hunspell suggestions are nonsense	Ministry.qmm
 lemma.rectal_island	Прямокишечный остров	Rectal Island	Прамой/кішкі	прамакішачны	vulgar island name; rectum is прамая кішка	https://starnik.by/pravapis/35771
-lemma.chvakha	Чваха	Chvakha	Чваха	Наваха	planet name; hunspell suggestion is a different word	Ministry.qmm
+lemma.chvakha	Чваха	Chvakha	Чваха/Чвахі	Наваха	planet name; hunspell suggestion is a different word; G Чвахі	Ministry.qmm
 lemma.bolotinka	Болотинка	Bolotinka	Балацінка	Балаціна	star name; Starnik lists the noun, hunspell suggestions are other words	https://starnik.by/pravapis/8772
 lemma.ko_chegara	Ко Чегара	Ge Chevara	Ко/Чэгара	Нэгара	watchman's name; parody of Che Guevara; hunspell suggestions are other words	Ministry.qmm
 lemma.rachekhanovna	Рачехановна	Rachehanovna	Рачэханаўна/Рачэханаўне	Раўназначна	secretary's patronymic; hunspell suggestion is a different word	Ministry.qmm
@@ -1653,7 +1653,7 @@ lemma.stoltz	Штольц	Stoltz	Штольц/Штольца		gas-station owner	
 lemma.heliosy	Гелиосы	Helios	Геліёсы		nonsense rhyme with шмеліёсы	Driver.qmm
 lemma.shmeliosy	шмелиосы	schmelios	шмеліёсы		nonsense rhyme with Геліёсы	Driver.qmm
 lemma.chateau	Шато	Chateau	Шато		wine brand Шато-Шпіку	Driver.qmm
-lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі/хвачыкаў		local creature; N pl хвачыкі; G pl хвачыкаў	Driver.qmm
+lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі/хвачыкаў/хвачыку		local creature; N pl хвачыкі; G pl хвачыкаў; D хвачыку	Driver.qmm
 lemma.digson	Землероев	Digson	Землярой/Землярояў		farm family	Driver.qmm
 lemma.yellowtail	Желтохвостиков	Yellowtailer	Жаўтахвосьцікаў/Жаўтахвосьцікава		water deputy	Driver.qmm
 lemma.screw	Шуруп	Screw	Шруб/Шруба/Шрубу/Шрубе		mechanic; Starnik noun шруб	https://starnik.by/pravapis/85679
@@ -3057,8 +3057,8 @@ lemma.curious	любопытно	curiously	цікаўна/Цікаўна		adverb
 lemma.wetness_joke	мокрость	nonce wetness	мокрасьць		the farm bulletin's fake measure, not real humidity	—
 lemma.placefinder	местоопределитель	place finder	месцавызначнік		coined instrument next to the compass	—
 lemma.guiding_star	звезда	guiding star	Зорка		quoted compass-device; celestial body, sense 1	https://starnik.by/pravapis/29720
-lemma.dynator	Динатор	Dynator	Дынатар		coined half of Кара-Дынатар; hunspell lacks it	—
-lemma.crispo	Криспо	Crispo	Крыспа		blind larva that squeaks near medicinal roots; hunspell lacks it	—
+lemma.dynator	Динатор	Dynator	Дынатар/Дынатарам		coined half of Кара-Дынатар; hunspell lacks it; I Дынатарам	—
+lemma.crispo	Криспо	Crispo	Крыспа/крыспа/крыспу		blind larva that squeaks near medicinal roots; hunspell lacks it	—
 lemma.manishka	манишка	bib	Манішка/манішка		a shirt-front used to train hatchlings	https://starnik.by/pravapis/41606
 lemma.powder	порошок	powder	Парашок/парашок		a dosed medicine; Starnik sense 2	https://starnik.by/pravapis/53161
 lemma.portion	порция	portion	порцыя/порцыі/порцый		N порцыя, N pl порцыі, G pl порцый	https://starnik.by/pravapis/57972
@@ -3085,7 +3085,7 @@ lemma.kritautas	Критаутас	Kritautas	Крытаўтас		coined star; hu
 lemma.minotaurus	Минотаурус	Minotaurus	Мінатаўрус		coined planet; not the shortened Мінатаўр	—
 lemma.zapolosh	Заполошная	Zapoloshnaya	Запалошная		coined planet; hunspell wants a different word	—
 lemma.tezarius	Тезариус	Tezarius	Тэзарыюс		coined star; -иус like радыюс	—
-lemma.vrell	врелл	vrell	врэл/врэла/врэлаў/врэлы/врэлам		local people; G pl врэлаў; N pl врэлы	—
+lemma.vrell	врелл	vrell	врэл/врэла/врэлаў/врэлы/врэлам/врэлу/Врэл		local people; G pl врэлаў; N pl врэлы; D врэлу	—
 lemma.hvacher	хвачер	hvacher	хвачэр/хвачэра		the adult beast; ч+э; parent of хвачык	—
 lemma.energomineral	энергоминерал	energy mineral	энэргамінэрал/энэргамінэралаў		a delicacy mined on the home planet; G pl энэргамінэралаў	—
 lemma.jaunty	разбитной	jaunty	разьбітны	разбітны	ловкі, бойкі; Starnik разбітны, hunspell inserts ь; not гарэзны	https://starnik.by/pravapis/144755
@@ -3098,3 +3098,6 @@ lemma.middle_earth	Средиземье	Middle-earth	Міжзем'е/Міжзе�
 lemma.mordor	Мордор	Mordor	Мордар/Мордара/Мордару		coined place; not Морда, which is a muzzle	—
 lemma.cloaca	клоака	cloaca	кляака/кляацы	клаака/клоака	a filthy place; Starnik клаака, hunspell я	https://starnik.by/pravapis/35790
 lemma.sprat	селявка	sprat	кілька/кількі		a small herring; the fish flopping in the fisherman's hands	https://starnik.by/pravapis/35363
+lemma.training	тренировка	training	трэніроўка/трэніроўкі		practice; Starnik трэніроўка, hunspell lacks it	https://starnik.by/pravapis/76302
+lemma.sagard	Сагард	Sagard	Сагард		the vrell trader	—
+lemma.hvacheron	хвачерон	hvacheron	хвачэрон		coined shell of a hvacher; ч+э	—
