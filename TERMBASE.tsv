@@ -2847,7 +2847,7 @@ lemma.artistic	художественный	artistic	мастацкі/маста
 lemma.sacred	священный	sacred	сьвяшчэнны	свяшчэнны	sense 4, noble; the Starnik example is свяшчэнны абавязак; hunspell soft sign	https://starnik.by/pravapis/149194
 lemma.feeling	чувство	feeling	пачуцьце/пачуцьцях		a mental state, sense 2; locative plural пачуцьцях	https://starnik.by/pravapis/54547
 lemma.cabinet	кабинет	office	кабінэт/кабінэце		a work room, sense 1; Starnik кабінет, hunspell кабінэт; older rows keep кабінет	https://starnik.by/pravapis/31587
-lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага/Пузі		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў; company name ПузіLend	—
+lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага/Пузі/пузілендзкай		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў; company name ПузіLend; G sg feminine пузілендзкай	—
 lemma.lu_pin_duk	Лу-Пин-Дук	Lu-Pin-Duk	Лу-Пін-Дук/Лу-Пін-Дука/Лу-Пін-Дукам/Лу-Пін-Дуку		dictator; genitive Дука; I Дукам; D Дуку	—
 lemma.chuke_puks	Чуке-Пукс	Chuke-Puks	Чуке-Пукс/Чуке-Пуксаў/Пукса/Чуке-Пуксы/Чуке-пуксавы/Чуке-пуксістка		the fruit; genitive plural Пуксаў; N pl Пуксы; adjective пуксавы; devotee пуксістка; G sg Пукса	—
 lemma.hilling	окучивание	hilling	падгортваньне/падгортваньнем	падгортванне	earthing up the roots; hunspell soft sign	https://starnik.by/pravapis/50420
@@ -2978,3 +2978,5 @@ lemma.fake_art	фун-ху / дзю-дэ	fake martial arts	фунху/дзюдэ
 lemma.teleport	телепортировать	teleport	тэлепартаваць		to teleport; not in Starnik	—
 lemma.puziland_beasts	Хоботорылы / Жабодроны / Шушкешаны	zoo beasts	Хобатарылы/Жабадроны/Шушкешаны		coined zoo animals; the trunk is хобат	—
 lemma.column_insults	жидоглистоны / перистопады / мозжеложцы	column insults	жыдаглістоны/перыстапады/мазгажэрцы		coined insults in the Anan-Us column; not terms to reuse	—
+lemma.ken_mun_dak	Кен-Мун-Дак	Ken-Mun-Dak	Кен-Мун-Дак		the mosaic maker in Dun-Duk	—
+lemma.luk_ya_navt	Лук-Я-Навт	Luk-Ya-Navt	Лук-Я-Наўт		the zoo official with the long title; hyphen splits, including Я	—
