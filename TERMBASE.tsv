@@ -2048,7 +2048,7 @@ lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
 lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
 lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
 lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
-lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта		coined beast; frightened comparison in the department	—
+lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты		coined beast; N pl сібалусаўты, G pl сібалусаўтаў	—
 lemma.verpenchekrak	верпенчекряк	verpenchecrak	вэрпэнчэкрак		coined night-park beast; пэнчэкрак already	—
 lemma.haapt_balls	Шарики Хаапта	Haapt balls	Шарыкі/Хаапта/Хаапт		street-mugger password; Хаапт is the name	—
 lemma.windows	Виндовс	Windows	Віндоўс		shelf title; the letter is on Усталяваньне	—
@@ -2737,3 +2737,20 @@ lemma.scissors	ножницы	scissors	нажніцы/нажніц/нажніц�
 lemma.boulder	валун	boulder	валун/валуна		a large rock; G валуна	https://starnik.by/pravapis/13199
 lemma.blade	лезвие	blade	лязо/ляза/лёзы/лёзамі/лёзах/лёзаў	лезвие	cutting edge; pl лёзы, I pl лёзамі, L pl лёзах	https://starnik.by/pravapis/40432
 lemma.maple	клен	maple	клён/клёна/клёну	клен	tree G клёна; wood G клёну	https://starnik.by/pravapis/35909
+lemma.booties	бахилы	shoe covers	бахіла/бахілы/бахіл		disposable covers worn over shoes; N pl бахілы, G pl бахіл	https://starnik.by/pravapis/9481
+lemma.aquarium	аквариум	aquarium	акварыюм/акварыюма	акварыум	hunspell spelling; Starnik's adjective gloss still writes акварыума	https://starnik.by/pravapis/94745
+lemma.heel	каблук	heel	абцас/абцаса	каблук	footwear heel; G абцаса	https://starnik.by/pravapis/1101
+lemma.rag	тряпка	rag	ануча/анучу/анучы		a cloth for wiping; A анучу	https://starnik.by/pravapis/5216
+lemma.daub	мазня	daub	мазаніна/мазаніну/мазаніны		careless painting	https://starnik.by/pravapis/40805
+lemma.lid	крышка	lid	века/векам		container cover; hunspell rejects крышка, Starnik века is the cover	https://starnik.by/pravapis/13726
+lemma.doozdov	Никлаай Дооздов	Niklaai Doozdov	Ніклаай/Ніклаая/Дооздаў/Дооздава		mangled Drozdov on the sibolusovt breeding book	—
+lemma.achoo	апчхи	achoo	апчхі/Апчхі		sneeze; hunspell has no entry	https://starnik.by/pravapis/250975
+lemma.holster	кобура	holster	кабура/кабуры	кобура	pistol case; G кабуры	https://starnik.by/pravapis/31607
+lemma.commandment	заповедь	commandment	запаведзь/запаведзі		strict rule, sense 2	https://starnik.by/pravapis/27346
+lemma.track_dirt	наследить	leave tracks	наслядзіць/наслядзі/Не наслядзі	наследиць	imperative Не наслядзі; footprints, not inheritance	https://starnik.by/pravapis/190795
+lemma.masterpiece	шедевр	masterpiece	шэдэўр/шэдэўра		ironic for the painting	https://starnik.by/pravapis/86302
+lemma.panel	панель	panel	панэль/панэлі		wall panel, sense 3	https://starnik.by/pravapis/52659
+lemma.sole	подошва	sole	падэшва/падэшвы/падэшваў		boot sole; G pl падэшваў	https://starnik.by/pravapis/51414
+lemma.now_typo	Типерь	painted typo	Ціпер		graffiti only: second letter і is crossed out and replaced with я, which yields Цяпер; not a reusable word	—
+lemma.iilkach	Йилкач	Iilkach	Йілкач/Йілкача		author of the legal handbook; invented name	—
+lemma.shletsozorg	Щлецозорг	Shletsozorg	Шчлецозарг/Шчлецозарга		surname; tarask шч for щ	—
