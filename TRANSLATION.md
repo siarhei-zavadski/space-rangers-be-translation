@@ -80,10 +80,10 @@ says a URL and the jump text is the same URL. Keep both copies identical:
 `gns://riaskaportal.peleng/`, and the same host tokens
 `createbomb`, `hammerthor`.
 
-**`Easywork.qmm`** (empty). One status line is a letter grid,
+**`Easywork.qmm`** (filled). One status line is a letter grid,
 `. а б в г`, over digits taken from `[p25]`–`[p28]`. Those four letters
-are the alphabet the player reads. Leave them. The order tables lower in
-the same file are ordinary fixed-width bills (see below).
+stayed. The order tables lower in the same file are ordinary fixed-width
+bills; they were translated.
 
 **`Kidnapped.qmm`**, location `210` (filled; the three tokens kept). Not a gate. The coin at the
 end of the quest is a Vigenère easter egg. Leave these three tokens
@@ -146,7 +146,7 @@ one file at a time, until its `--batch` prints nothing:
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
 3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork`, `Sibolusovt`,
+   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork` (filled), `Sibolusovt`,
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
    puzzle's table row to stderr; read its whole section above first, and
    edit every copy of a name (diary, statue, jump) in the same batch.
