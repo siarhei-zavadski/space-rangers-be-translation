@@ -2048,7 +2048,7 @@ lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
 lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
 lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
 lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
-lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты		coined beast; N pl сібалусаўты, G pl сібалусаўтаў	—
+lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты/Сібалусаўт		coined beast; N pl сібалусаўты, G pl сібалусаўтаў; capital singular is a hunspell gap	—
 lemma.verpenchekrak	верпенчекряк	verpenchecrak	вэрпэнчэкрак		coined night-park beast; пэнчэкрак already	—
 lemma.haapt_balls	Шарики Хаапта	Haapt balls	Шарыкі/Хаапта/Хаапт		street-mugger password; Хаапт is the name	—
 lemma.windows	Виндовс	Windows	Віндоўс		shelf title; the letter is on Усталяваньне	—
@@ -3300,7 +3300,7 @@ lemma.wreckage	крушение	wreckage	крушэньне/крушэньня	�
 lemma.vengeful	мстительный	vengeful	помсьлівы	помслівы	inclined to revenge; hunspell inserts ь	https://starnik.by/pravapis/140349
 lemma.belt	пояс	belt	пояс/пояса		a waist belt, sense 1	https://starnik.by/pravapis/58113
 lemma.attempt	попытка	an attempt	спроба/спробу		a try without certainty of success, sense 1; A спробу	https://starnik.by/pravapis/71608
-lemma.catch	поймать	to catch	злавіць		perfective	https://starnik.by/pravapis/184476
+lemma.catch	поймать	to catch	злавіць/злоўлены		perfective; passive злоўлены	https://starnik.by/pravapis/184476
 lemma.launcher	гранатомет	grenade launcher	гранатамёт/гранатамётам		I гранатамётам	https://starnik.by/pravapis/20607
 lemma.correction	поправка	a correction	папраўка/папраўку/папраўкі	паправка	sense 4, a value added to an instrument reading	https://starnik.by/pravapis/52774
 lemma.division	деление	a scale mark	дзяленьне/дзяленьні	дзяленне	sense 3, a mark on a measuring scale; hunspell -ньне	https://starnik.by/pravapis/22934
@@ -3393,3 +3393,23 @@ lemma.acid	кислота	acid	кіслата/кіслатой		a sour chemical,
 lemma.rod	прут	a rod	прут		a long thin bar; the iron example is жалезны прут	https://starnik.by/pravapis/90515
 lemma.dart	дротик	a dart	дроцік/дроцікам/дроцікамі/дроцікаў		a small throwing spear, sense 2; I дроцікам	https://starnik.by/pravapis/23487
 lemma.net_gear	сеть	a capture net	сетка/сеткі		a net for catching; G сеткі	https://starnik.by/pravapis/68878
+lemma.gear_wheel	шестерня	a gear	шасьцярня/шасьцярэнька	шасцярня/шасцярэнька	a toothed wheel, sense 1; Starnik шасцярня, diminutive шасцярэнька 84884; hunspell inserts ь	https://starnik.by/pravapis/84882
+lemma.nerve	нерв	a nerve	нэрвы/нэрвуецца/Нэрвы	нервы/нервуецца	fibers that govern the body, sense 2 pl; Starnik нерв, hunspell writes э; verb form нэрвуецца	https://starnik.by/pravapis/48216
+lemma.clip	обойма	a clip	абойма/абоймай		a frame of cartridges, sense 1; I абоймай	https://starnik.by/pravapis/767
+lemma.native	абориген	a native	тубылец/тубыльца		a local inhabitant; G тубыльца	https://starnik.by/pravapis/76360
+lemma.tarantula	тарантул	a tarantula	Тарантул/тарантул		a venomous spider	https://starnik.by/pravapis/74840
+lemma.stump	пень	a stump	пень		the base of a cut tree, sense 1	https://starnik.by/pravapis/54884
+lemma.dose	доза	a dose	доза/доз		a portion taken at one time; G pl доз, not дозаў	https://starnik.by/pravapis/23156
+lemma.joke	прикол	a gag	жарт		a funny trick, sense 1 of жарт	https://starnik.by/pravapis/25615
+lemma.gizmo	фиговина	a gizmo	штуковіна	фіговіна	an odd complicated thing	https://starnik.by/pravapis/85810
+lemma.biting	кусачий	biting	кусьлівы	куслівы	able to bite, colloquial; Starnik куслівы, hunspell inserts ь	https://starnik.by/pravapis/120370
+lemma.mood	настрой	mood	настрой		inner state, sense 1	https://starnik.by/pravapis/46339
+lemma.warehouse	склад	a warehouse	склад/складу		a place where goods are kept, sense 1; G складу	https://starnik.by/pravapis/69755
+lemma.lock_key	ключ	a key	ключ		the piece that opens a lock	https://starnik.by/pravapis/36082
+lemma.symgrass	Сим-трава	symgrass	Сім-трава		quest plant; трава is the grass	https://starnik.by/pravapis/75349
+lemma.gender	пол	sex	пол	падлога	biological sex, пол 1; the floor is падлога	https://starnik.by/pravapis/57677
+lemma.flow	поток	a stream	паток/патоку		a mass moving one way, sense 2; G патоку	https://starnik.by/pravapis/53861
+lemma.thrust	вонзить	to thrust	ўсадзіў/усадзіць		to drive a point in; past m ўсадзіў after a vowel	https://starnik.by/pravapis/217832
+lemma.calm	спокойный	calm	спакойны		not agitated, sense 2	https://starnik.by/pravapis/151063
+lemma.cross	сердитый	cross	сярдзіты		angry at someone, sense 2	https://starnik.by/pravapis/153586
+lemma.ooze	сочиться	to ooze	сачылася/сачыцца		of a liquid seeping; past f сачылася	https://starnik.by/pravapis/212499
