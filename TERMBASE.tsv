@@ -1857,7 +1857,7 @@ lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		th
 lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
 lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра		a beast mosquitoes do not bother; coined	—
-lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі	https://starnik.by/pravapis/13675
+lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам	https://starnik.by/pravapis/13675
 lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
 lemma.gameskin	скин	game skin	скін/скіне		a character texture; Starnik noun; hunspell wants the imperative скінь	https://starnik.by/pravapis/69730
@@ -2687,3 +2687,6 @@ lemma.barracks	казарма	barracks	казарма/казармы/казар�
 lemma.extinguisher	огнетушитель	extinguisher	вогнетушыцель/вогнетушыцеля/вогнетушыцелямі		a fire extinguisher; I pl вогнетушыцелямі	https://starnik.by/pravapis/14962
 lemma.rebar	арматура	rebar	арматура/арматуры		steel reinforcement, sense 2; G арматуры	https://starnik.by/pravapis/5986
 lemma.chantal	Шанталь	Chantal	Шанталь		the wine in the rich pools; a proper name	Bomber.qmm
+lemma.duremar	Дуремар	Duremar	Дурэмар/Дурэмара		the hyacinth joke, after the leech-seller; hunspell lacks the name	Bomber.qmm
+lemma.hyacinth	гиацинт	hyacinth	гіяцынт/гіяцынтаў		the flower, sense 1; G pl гіяцынтаў	https://starnik.by/pravapis/19901
+lemma.flowerbed	клумба	flowerbed	кветнік/кветніку		a flower plot; hunspell rejects клумба; L кветніку	https://starnik.by/pravapis/35040
