@@ -2074,20 +2074,32 @@ AI сапернікаў? І ці трэба? Вядома — не! Гэтая
 "/quests/GLAVRED.qmm/jumps/162/description"	"В кабинет просунула голову секретарша:
 - Извините, но в коридоре никого нет. Может быть, появятся на следующей неделе...
 - Хорошо. Вы свободны.
-Кажется, на этот раз журнал остался без иллюстраций..."	"Quest GLAVRED.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+Кажется, на этот раз журнал остался без иллюстраций..."	"Quest GLAVRED.qmm: jumps.162.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"У кабінэт прасунула галаву сакратарка:
+- Прабачце, але ў калідоры нікога няма. Можа быць, зьявяцца на наступным тыдні...
+- Добра. Вы вольныя.
+Здаецца, гэтым разам часопіс застаўся без ілюстрацый..."
 "/quests/GLAVRED.qmm/jumps/163/description"	"На пороге появилась бойкая секретарша:
 - Ой, я же совсем забыла, что художники приходят устраиваться на работу только в рабочие дни. А суббота и воскресенье считаются выходными...
 - У нормальных людей, конечно, - недовольно добавила она.
 
 - Я понял. Сходите в архив и принесите мне все номера журналов за январь позапрошлого года, - строго сказали вы. 
-После того, как секретарша отправилась в пыльный подвал архива, Вы попили чайку и еще долго восхищались тем, как ловко перевели беседу в другое русло... А то вдруг бы ей взбрело в голову требовать увеличения зарплаты за переработку?"	"Quest GLAVRED.qmm: jumps.163.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+После того, как секретарша отправилась в пыльный подвал архива, Вы попили чайку и еще долго восхищались тем, как ловко перевели беседу в другое русло... А то вдруг бы ей взбрело в голову требовать увеличения зарплаты за переработку?"	"Quest GLAVRED.qmm: jumps.163.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"На парозе зьявілася бойкая сакратарка:
+- Ой, я ж зусім забылася, што мастакі прыходзяць уладкоўвацца на працу толькі ў працоўныя дні. А субота і нядзеля лічацца выходнымі...
+- У нармальных людзей, вядома, — незадаволеная дадала яна.
+
+- Я зразумеў. Схадзіце ў архіў і прынясіце мне ўсе нумары часопісаў за студзень пазалеташняга году, — строга сказалі вы. 
+Пасьля таго, як сакратарка адправілася ў пыльнае сутарэньне архіва, Вы папілі гарбаткі і яшчэ доўга захапляліся тым, як спрытна перавялі размову ў іншае рэчышча... А то раптам ёй убілася б у галаву патрабаваць павелічэньня заробку за звышурочную працу?"
 "/quests/GLAVRED.qmm/jumps/164/text"	"Не брать его на ответственную должность главного художника"	"Quest GLAVRED.qmm: jumps.164.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Не браць яго на адказную пасаду галоўнага мастака"
 "/quests/GLAVRED.qmm/jumps/166/text"	"Подписать контракт на одну неделю и выплатить сумму в размере 3000 cr"	"Quest GLAVRED.qmm: jumps.166.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Падпісаць кантракт на адзін тыдзень і выплаціць суму ў памеры 3000 cr"
 "/quests/GLAVRED.qmm/jumps/166/description"	"Вы попытались получить 3000 cr с редакционного счета, однако ничего не вышло:
 - У вас недостаточно денег для завершения операции! - выдал компьютер. 
 - Ну что там с оплатой? - забеспокоился художник.
 До самого вечера вы убеждали его в том, какая честь выпала на его долю - работать в прославленном журнале о компьютерных играх, плечом к плечу с таким мастером пера, как вы - <Ranger>! Только художник попался несговорчивый и не соглашался трудиться без оплаты. Он ушел из офиса, хлопнув дверью.
-А вы остались с невеселыми мыслями о том, что в следующий раз нужно проверять наличие денег в редакции, прежде чем предлагать кому-нибудь работу в журнале..."	"Quest GLAVRED.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+А вы остались с невеселыми мыслями о том, что в следующий раз нужно проверять наличие денег в редакции, прежде чем предлагать кому-нибудь работу в журнале..."	"Quest GLAVRED.qmm: jumps.166.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Вы паспрабавалі атрымаць 3000 cr з рэдакцыйнага рахунку, аднак нічога не выйшла:
+- У вас недастаткова грошай для завяршэньня апэрацыі! — выдаў кампутар. 
+- Ну што там з аплатай? — занепакоіўся мастак.
+Да самага вечара вы пераконвалі яго ў тым, які гонар выпаў на ягоную долю — працаваць у славутым часопісе пра кампутарныя гульні, плячо ў плячо з такім майстрам пяра, як вы — <Ranger>! Толькі мастак трапіўся незгаворлівы і не згаджаўся працаваць без аплаты. Ён выйшаў з офіса, ляснуўшы дзьвярыма.
+А вы засталіся з невясёлымі думкамі пра тое, што наступным разам трэба правяраць наяўнасьць грошай у рэдакцыі, перш чым прапаноўваць каму-небудзь працу ў часопісе..."
 "/quests/GLAVRED.qmm/jumps/168/text"	"Заняться чем-нибудь другим"	"Quest GLAVRED.qmm: jumps.168.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Заняцца чым-небудзь іншым"
 "/quests/GLAVRED.qmm/jumps/169/text"	"Заняться другими вопросами"	"Quest GLAVRED.qmm: jumps.169.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Заняцца іншымі пытаньнямі"
 "/quests/GLAVRED.qmm/jumps/173/text"	"Заняться чем-нибудь еще..."	"Quest GLAVRED.qmm: jumps.173.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Заняцца чым-небудзь яшчэ..."
@@ -2101,25 +2113,26 @@ AI сапернікаў? І ці трэба? Вядома — не! Гэтая
 "/quests/GLAVRED.qmm/jumps/183/text"	"Вернуться, и заниматься изготовлением журнала, а не шастать по городу"	"Quest GLAVRED.qmm: jumps.183.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Вярнуцца, і займацца вырабам часопіса, а не швэндаць па горадзе"
 "/quests/GLAVRED.qmm/jumps/184/text"	"1000 cr"	"Quest GLAVRED.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"1000 cr"
 "/quests/GLAVRED.qmm/jumps/184/description"	"- Хорошо, - Туф-Туев тщательно записал название вашего журнала. - Это благородно с вашей стороны.
-- Рады были помочь, - вы поняли, что один лишний балл за дизайн журнала практически у вас в кармане."	"Quest GLAVRED.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+- Рады были помочь, - вы поняли, что один лишний балл за дизайн журнала практически у вас в кармане."	"Quest GLAVRED.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"- Добра, — Туф-Туеў старанна запісаў назву вашага часопіса. — Гэта высакародна з вашага боку.
+- Радыя былі дапамагчы, — вы зразумелі, што адзін лішні бал за дызайн часопіса практычна ў вас у кішэні."
 "/quests/GLAVRED.qmm/jumps/185/text"	"3000 cr"	"Quest GLAVRED.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"3000 cr"
-"/quests/GLAVRED.qmm/jumps/185/description"	"- Хорошо, я посмотрю, что можно сделать за эти гроши, - сказал напыщенный индюк и отключился."	"Quest GLAVRED.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/185/description"	"- Хорошо, я посмотрю, что можно сделать за эти гроши, - сказал напыщенный индюк и отключился."	"Quest GLAVRED.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"- Добра, я пагляджу, што можна зрабіць за гэтыя грошы, — сказаў надзьмуты індык і адключыўся."
 "/quests/GLAVRED.qmm/jumps/186/text"	"1000 cr"	"Quest GLAVRED.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"1000 cr"
-"/quests/GLAVRED.qmm/jumps/186/description"	"Аяя покивал головой в противогазе и отключился."	"Quest GLAVRED.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/186/description"	"Аяя покивал головой в противогазе и отключился."	"Quest GLAVRED.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Аяя паківаў галавой у супрацьгазавай масцы і адключыўся."
 "/quests/GLAVRED.qmm/jumps/187/text"	"3000 cr"	"Quest GLAVRED.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"3000 cr"
-"/quests/GLAVRED.qmm/jumps/187/description"	"- Хорошо. Я подправлю свои выводы на эту сумму, и не буду замечать самые откровенные ляпсусы, - проскрипел Ля-ле-Шмак и отключился."	"Quest GLAVRED.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/187/description"	"- Хорошо. Я подправлю свои выводы на эту сумму, и не буду замечать самые откровенные ляпсусы, - проскрипел Ля-ле-Шмак и отключился."	"Quest GLAVRED.qmm: jumps.187.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"- Добра. Я падпраўлю свае высновы на гэтую суму і не буду заўважаць самыя відавочныя ляпсусы, — праскрыпеў Ля-ле-Шмак і адключыўся."
 "/quests/GLAVRED.qmm/jumps/190/text"	"Увеличить тираж"	"Quest GLAVRED.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Павялічыць наклад"
 "/quests/GLAVRED.qmm/jumps/191/text"	"Добавьте 1000 номеров (требуется {(1000+[p5]+[p6]<10001)*2000+(1000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]-7000)+([p5]+[p6]>10000)*3000)} cr)"	"Quest GLAVRED.qmm: jumps.191.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Дадайце 1000 нумароў (патрабуецца {(1000+[p5]+[p6]<10001)*2000+(1000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]-7000)+([p5]+[p6]>10000)*3000)} cr)"
 "/quests/GLAVRED.qmm/jumps/192/text"	"Добавить 2000 номеров (требуется {(2000+[p5]+[p6]<10001)*4000+(2000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]-4000)+([p5]+[p6]>10000)*6000)} cr)"	"Quest GLAVRED.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Дадаць 2000 нумароў (патрабуецца {(2000+[p5]+[p6]<10001)*4000+(2000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]-4000)+([p5]+[p6]>10000)*6000)} cr)"
 "/quests/GLAVRED.qmm/jumps/193/text"	"Заказать 5000 номеров (требуется {(5000+[p5]+[p6]<10001)*10000+(5000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]+5000)+([p5]+[p6]>10000)*15000)} cr)"	"Quest GLAVRED.qmm: jumps.193.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Замовіць 5000 нумароў (патрабуецца {(5000+[p5]+[p6]<10001)*10000+(5000+[p5]+[p6]>10000)*(([p5]+[p6]<10001)*([p5]+[p6]+5000)+([p5]+[p6]>10000)*15000)} cr)"
 "/quests/GLAVRED.qmm/jumps/194/text"	"Замахнуться на 10 000 дополнительных номеров (требуется {([p5]+[p6]<10001)*(20000+[p5]+[p6])+([p5]+[p6]>10000)*30000} cr)"	"Quest GLAVRED.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Замахнуцца на 10 000 дадатковых нумароў (патрабуецца {([p5]+[p6]<10001)*(20000+[p5]+[p6])+([p5]+[p6]>10000)*30000} cr)"
 "/quests/GLAVRED.qmm/jumps/195/text"	"Спасибо, как-нибудь в другой раз..."	"Quest GLAVRED.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Дзякуй, неяк іншым разам..."
-"/quests/GLAVRED.qmm/jumps/196/text"	"Я, пожалуй, подумаю еще..."	"Quest GLAVRED.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/205/text"	"Продолжить работу над журналом"	"Quest GLAVRED.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/206/text"	"Продолжить работу над журналом"	"Quest GLAVRED.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/208/text"	"Есть над чем подумать. А пока, вернемся к изготовлению журнала."	"Quest GLAVRED.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/196/text"	"Я, пожалуй, подумаю еще..."	"Quest GLAVRED.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Я, бадай, падумаю яшчэ..."
+"/quests/GLAVRED.qmm/jumps/205/text"	"Продолжить работу над журналом"	"Quest GLAVRED.qmm: jumps.205.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Працягнуць працу над часопісам"
+"/quests/GLAVRED.qmm/jumps/206/text"	"Продолжить работу над журналом"	"Quest GLAVRED.qmm: jumps.206.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Працягнуць працу над часопісам"
+"/quests/GLAVRED.qmm/jumps/208/text"	"Есть над чем подумать. А пока, вернемся к изготовлению журнала."	"Quest GLAVRED.qmm: jumps.208.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Ёсьць над чым падумаць. А пакуль, вернемся да вырабу часопіса."
 "/quests/GLAVRED.qmm/jumps/209/text"	"Вернуться в свой кабинет"	"Quest GLAVRED.qmm: jumps.209.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Вярнуцца ў свой кабінэт"
-"/quests/GLAVRED.qmm/jumps/210/text"	"Займусь этим в другой раз"	"Quest GLAVRED.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/210/text"	"Займусь этим в другой раз"	"Quest GLAVRED.qmm: jumps.210.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Займуся гэтым іншым разам"
 "/quests/GLAVRED.qmm/jumps/212/description"	"Вы набрали номер зама и попросили проследить за отправкой номера в регионы. Таинственно намекнули ему, что будете разрабатывать у себя в номере секретную стратегию развития журнала. Попросили по пустякам не  беспокоить.
 ... Девушки приехали без задержек. Их было много. Во всех смыслах, поскольку они оказались малокской расы. Поначалу вы расстроились. Но малокские дамы умели пить ведрами любые напитки, содержащие алкоголь. Сойтись с ними было легко. После этого в памяти провал... Вспоминаются только скачки верхом на голых малокских проказницах по этажам, испуганные лица постояльцев и надоедливый администратор, которого девчата, в конце концов, выкинули в окно... В общем - отдых  удался.
 Воскресным утром монументальные подружки поехали по домам. Вы целый день приводили себя в порядок, готовясь к новой рабочей неделе."	"Quest GLAVRED.qmm: jumps.212.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
@@ -2429,7 +2442,7 @@ AI сапернікаў? І ці трэба? Вядома — не! Гэтая
 "/quests/GLAVRED.qmm/jumps/394/text"	"Нанять художника"	"Quest GLAVRED.qmm: jumps.394.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Наняць мастака"
 "/quests/GLAVRED.qmm/jumps/395/text"	"Нанять художника"	"Quest GLAVRED.qmm: jumps.395.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Наняць мастака"
 "/quests/GLAVRED.qmm/jumps/396/text"	"Определить свои литературные способности"	"Quest GLAVRED.qmm: jumps.396.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Вызначыць свае літаратурныя здольнасьці"
-"/quests/GLAVRED.qmm/jumps/397/text"	"Займусь этим в другой раз"	"Quest GLAVRED.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+"/quests/GLAVRED.qmm/jumps/397/text"	"Займусь этим в другой раз"	"Quest GLAVRED.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Займуся гэтым іншым разам"
 "/quests/GLAVRED.qmm/jumps/401/text"	"Сходить в банк"	"Quest GLAVRED.qmm: jumps.401.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
 "/quests/GLAVRED.qmm/jumps/402/text"	"Нет, спасибо, обойдусь"	"Quest GLAVRED.qmm: jumps.402.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Не, дзякуй, абыдуся"
 "/quests/GLAVRED.qmm/jumps/403/text"	"Поэма из Шакиш-Ма? Это интересно..."	"Quest GLAVRED.qmm: jumps.403.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
