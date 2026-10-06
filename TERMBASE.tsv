@@ -2797,3 +2797,17 @@ lemma.bribed	подкупленный	bribed	падкуплены/Падкупл
 lemma.grateful	благодарный	grateful	удзячны		feeling thanks	https://starnik.by/pravapis/156049
 lemma.print_run	тираж	print run	наклад/накладу		genitive накладу	https://starnik.by/pravapis/45685
 lemma.decisive	решающий	decisive	вырашальны/Вырашальны		the decisive one, sense 2; Starnik also рашаючы	https://starnik.by/pravapis/103862
+lemma.lyakusha_initial	Ф	lyakusha initial	Ф		Cyrillic initial left in the GLAVRED parameter Лякуша Ф	—
+lemma.rt_marker	РТ	dev abbreviation	РТ		left in the temporary GLAVRED value; not a word	—
+lemma.price	цена	price	цана/Цана		what something costs	https://starnik.by/pravapis/82539
+lemma.periodical	журнал	magazine	часопіс/часопіса/часопісаў		a periodical, not the firearm magazine	https://starnik.by/pravapis/84062
+lemma.temporary	временный	temporary	часовы/Часовы		lasting for a while; часавы means related to time, not a rejected form	https://starnik.by/pravapis/161009
+lemma.description	описание	description	апісаньне/апісаньняў	апісанне	a verbal account; hunspell ь	https://starnik.by/pravapis/5481
+lemma.telegram	телеграмма	telegram	тэлеграма/тэлеграму		a message sent by telegraph	https://starnik.by/pravapis/76974
+lemma.editorship	редакция	editorship	рэдакцыя/рэдакцыю		the editor's office	https://starnik.by/pravapis/65664
+lemma.editor	редактор	editor	рэдактар/рэдактара		the person who edits	https://starnik.by/pravapis/65659
+lemma.urgent	срочный	urgent	тэрміновы/тэрміновая		needs doing at once; Starnik example is a telegram	https://starnik.by/pravapis/155747
+lemma.homeland	родина	homeland	радзіма/радзіму		the country that is one's own, sense 1	https://starnik.by/pravapis/62440
+lemma.height	высота	height	вышыня/вышыню		distance from base to top, sense 1	https://starnik.by/pravapis/16873
+lemma.day	день	day	дзень/дзён		a calendar day; G pl дзён	https://starnik.by/pravapis/22654
+lemma.historical	исторический	historical	гістарычны/гістарычную		belonging to history, sense 1	https://starnik.by/pravapis/106277
