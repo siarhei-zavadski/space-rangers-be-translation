@@ -784,7 +784,7 @@ lemma.furi	Фури-Бури-Дури	Furi-Buri-Duri	Фуры/Буры/Дуры	
 lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Лякушатніка		sacred peleng office; Лякуша is already the ruler	Pachvarash.qmm
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
-lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай/Лякушаў/лякуш		peleng clerical rank used before a name; G pl Лякушаў	Pachvarash.qmm
+lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай/Лякушаў/лякуш/Лякушу		peleng clerical rank used before a name; G pl Лякушаў	Pachvarash.qmm
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі/Гравікар/гравікарам		peleng ground craft; Starnik has no entry; I гравікарам	Pachvarash.qmm
 lemma.patch	патч	patch	патч/патчам		software patch; I патчам; hunspell maps it to путчам	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
@@ -2773,7 +2773,7 @@ lemma.test_adj	тестовый	test	тэставы/Тэставы		related to a
 lemma.bank	банк	bank	банк		financial institution, sense 1	https://starnik.by/pravapis/9030
 lemma.number	номер	number	нумар/Нумар		an issue or item number, sense 1	https://starnik.by/pravapis/48972
 lemma.text	текст	text	тэкст		written or printed words, sense 1	https://starnik.by/pravapis/76897
-lemma.dun_duk	Дун-Дук	Dun-Duk	Дун-Дук		Puziland capital	—
+lemma.dun_duk	Дун-Дук	Dun-Duk	Дун-Дук/Дун-Дуку		Puziland capital; prepositional Дуку	—
 lemma.mun_chun	Мунь-Чунь	Mun-Chun	Мунь-Чунь		Puziland city	—
 lemma.shakish_ma	Шакиш-Ма	Shakish-Ma	Шакіш-Ма		Puziland province	—
 lemma.yopt	Йопт	Yopt	Йопт		Puziland province	—
@@ -2854,3 +2854,6 @@ lemma.hilling	окучивание	hilling	падгортваньне/падго
 lemma.machination	происки	machination	махінацыя/махінацыі		a dishonest way of getting something	https://starnik.by/pravapis/42349
 lemma.planetoid	планетоид	planetoid	плянэтоід/плянэтоідзе	планетоід	Starnik е, hunspell э; locative плянэтоідзе	https://starnik.by/pravapis/57063
 lemma.plasma	плазма	plasma	плязма/плязмы		sense 4, the state of matter; Starnik плазма, hunspell я; older rows already use both spellings	https://starnik.by/pravapis/56986
+lemma.bindyuzhnik	Биндюжник	Bindyuzhnik	Біндужнік/Біндужніка		peleng hauler; accusative Біндужніка	—
+lemma.grouper	Групер	Grouper	Групэр/Групэра		news writer; genitive Групэра	—
+lemma.jolly_cosmonaut	У веселого космонавта	Jolly Cosmonaut	У вясёлага касманаўта		the bar where Lyakusha drinks	—
