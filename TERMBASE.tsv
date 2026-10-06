@@ -1708,7 +1708,7 @@ lemma.healing	исцеление	healing	гаеньне/Гаеньня	ацал�
 lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		unconscious sense; G інтуіцыі	https://starnik.by/pravapis/30976
 lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
 lemma.water	вода	water	вада/Вада/Вады		the liquid, not the dialect flaw ва́да	https://starnik.by/pravapis/12817
-lemma.air	воздух	air	паветра/Паветра		element	https://starnik.by/pravapis/49864
+lemma.air	воздух	air	паветра/Паветра/паветры		element	https://starnik.by/pravapis/49864
 lemma.earth	земля	earth	зямля/Зямля/Зямлі		element and ground; G зямлі	https://starnik.by/pravapis/29980
 lemma.spirit	дух	spirit	дух/Дух/Духа		psychic power, not a ghost; G духа	https://starnik.by/pravapis/23816
 lemma.gold	золото	gold	золата/Золата/залацінка		the metal and the coin label; залацінка is the small piece	https://starnik.by/pravapis/29691
@@ -3129,3 +3129,19 @@ lemma.emp	ЭМИ	EMP	ЭМІ		electromagnetic pulse	—
 lemma.breakfast	завтрак	breakfast	сьняданак/сьняданкі	сняданак	a morning meal, colloquial for снеданне; Starnik сняданак, hunspell сь; N pl сьняданкі	https://starnik.by/pravapis/70709
 lemma.falling	падать	to fall	падаць/падае		imperfective, to drop under gravity; 3sg падае	https://starnik.by/pravapis/193941
 lemma.molgaar	Молгаар	Molgaar	Молгаар/Молгаара		coined cult leader; G Молгаара	—
+lemma.barely	еле	barely	ледзь		barely, with difficulty	https://starnik.by/pravapis/225287
+lemma.hold_on	держаться	to hold on	трымацца/трымаецца		3sg трымаецца	https://starnik.by/pravapis/215623
+lemma.burn	гореть	to burn	гарэць/гарыць		3sg гарыць	https://starnik.by/pravapis/175555
+lemma.smoke_verb	дымиться	to smoke	дымецца/дыміцца		infinitive дымецца; 3sg дыміцца	https://starnik.by/pravapis/177921
+lemma.damaged	поврежден	damaged	пашкоджаны		masculine participle	https://starnik.by/pravapis/245017
+lemma.a_little	немного	a little	трохі		a small amount	https://starnik.by/pravapis/232306
+lemma.excellent	отличный	excellent	выдатны/выдатным		L m выдатным	https://starnik.by/pravapis/103390
+lemma.condition_state	состояние	state	стан/стане		condition something is in; L стане	https://starnik.by/pravapis/71854
+lemma.upward	вверх	upward	уверх/ўверх		direction	https://starnik.by/pravapis/232452
+lemma.rightward	вправо	rightward	управа/ўправа		direction; also the noun управа, a board	https://starnik.by/pravapis/232900
+lemma.downward	вниз	downward	уніз/ўніз		direction	https://starnik.by/pravapis/232768
+lemma.leftward	влево	leftward	улева/ўлева		direction	https://starnik.by/pravapis/232689
+lemma.almost	почти	almost	амаль		nearly	https://starnik.by/pravapis/250803
+lemma.centaur	кентавр	centaur	Цэнтаўр/Цэнтаўра		G Цэнтаўра	https://starnik.by/pravapis/91270
+lemma.alphacentauri	Альфацентавра	Alpha Centauri	Альфацэнтаўр/Альфацэнтаўра		quest star, genitive; Альфа plus Цэнтаўр	https://starnik.by/pravapis/91270
+lemma.freeloader	халявщик	freeloader	халяўшчык/Халяўшчык		quest nickname; same word as ShipGreetings	https://starnik.by/pravapis/81471
