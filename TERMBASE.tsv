@@ -2846,7 +2846,7 @@ lemma.style	стиль	style	стыль		a manner of execution	https://starnik.b
 lemma.artistic	художественный	artistic	мастацкі/мастацкага		of the form of a work of art, sense 4	https://starnik.by/pravapis/123422
 lemma.sacred	священный	sacred	сьвяшчэнны	свяшчэнны	sense 4, noble; the Starnik example is свяшчэнны абавязак; hunspell soft sign	https://starnik.by/pravapis/149194
 lemma.feeling	чувство	feeling	пачуцьце/пачуцьцях		a mental state, sense 2; locative plural пачуцьцях	https://starnik.by/pravapis/54547
-lemma.cabinet	кабинет	office	кабінэт/кабінэце		a work room, sense 1; Starnik кабінет, hunspell кабінэт; older rows keep кабінет	https://starnik.by/pravapis/31587
+lemma.cabinet	кабинет	office	кабінэт/кабінэце/кабінэта		a work room, sense 1; Starnik кабінет, hunspell кабінэт; G кабінэта; older rows keep кабінет	https://starnik.by/pravapis/31587
 lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага/Пузі/пузілендзкай/Пузілендзкай/Пузіленду		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў; company name ПузіLend; G sg feminine пузілендзкай; D Пузіленду	—
 lemma.lu_pin_duk	Лу-Пин-Дук	Lu-Pin-Duk	Лу-Пін-Дук/Лу-Пін-Дука/Лу-Пін-Дукам/Лу-Пін-Дуку		dictator; genitive Дука; I Дукам; D Дуку	—
 lemma.chuke_puks	Чуке-Пукс	Chuke-Puks	Чуке-Пукс/Чуке-Пуксаў/Пукса/Чуке-Пуксы/Чуке-пуксавы/Чуке-пуксістка		the fruit; genitive plural Пуксаў; N pl Пуксы; adjective пуксавы; devotee пуксістка; G sg Пукса	—
@@ -3393,7 +3393,7 @@ lemma.acid	кислота	acid	кіслата/кіслатой		a sour chemical,
 lemma.rod	прут	a rod	прут		a long thin bar; the iron example is жалезны прут	https://starnik.by/pravapis/90515
 lemma.dart	дротик	a dart	дроцік/дроцікам/дроцікамі/дроцікаў		a small throwing spear, sense 2; I дроцікам	https://starnik.by/pravapis/23487
 lemma.net_gear	сеть	a capture net	сетка/сеткі		a net for catching; G сеткі	https://starnik.by/pravapis/68878
-lemma.gear_wheel	шестерня	a gear	шасьцярня/шасьцярэнька	шасцярня/шасцярэнька	a toothed wheel, sense 1; Starnik шасцярня, diminutive шасцярэнька 84884; hunspell inserts ь	https://starnik.by/pravapis/84882
+lemma.gear_wheel	шестерня	a gear	шасьцярня/шасьцярэнька/шасьцерневы	шасцярня/шасцярэнька/шасьцярневы	a toothed wheel, sense 1; Starnik шасцярня, diminutive шасцярэнька 84884; adjective шасцерневы 161762; hunspell inserts ь	https://starnik.by/pravapis/84882
 lemma.nerve	нерв	a nerve	нэрвы/нэрвуецца/Нэрвы	нервы/нервуецца	fibers that govern the body, sense 2 pl; Starnik нерв, hunspell writes э; verb form нэрвуецца	https://starnik.by/pravapis/48216
 lemma.clip	обойма	a clip	абойма/абоймай		a frame of cartridges, sense 1; I абоймай	https://starnik.by/pravapis/767
 lemma.native	абориген	a native	тубылец/тубыльца		a local inhabitant; G тубыльца	https://starnik.by/pravapis/76360
@@ -3448,3 +3448,6 @@ lemma.chem_mess	химичить	to mess with chemicals	хімічыць		to exp
 lemma.freezer	морозилка	a freezer	маразілка/маразілкі		the freezing compartment; G маразілкі	https://starnik.by/pravapis/41709
 lemma.tachorg	тахорг	a toruk	тахорг/тахоргаў		the beast the English calls a toruk; hunspell suggestions are other words	—
 lemma.foremother	прапрапрапрабабушка	great-great-great-great-grandmother	прапрапрапрабабка/прапрапрапрабабкай		four пра, matching four English greats; Starnik stops at прапрабабка; I прапрапрапрабабкай	https://starnik.by/pravapis/59089
+lemma.ammunition	боеприпасы	ammunition	боепрыпасы/боепрыпасаў/боепрыпасамі		cartridges and shells; G боепрыпасаў; I боепрыпасамі	https://starnik.by/pravapis/11110
+lemma.keycard	ключ-карта	a key card	ключ-картка		the card that opens a lock; картка is the card, sense 3; not карта, a reject would match G pl картак	https://starnik.by/pravapis/34115
+lemma.pedestal	постамент	a pedestal	пастамэнт/пастамэнце	пастамент	a base a thing stands on, sense 2; Starnik пастамент, hunspell пастамэнт; L пастамэнце	https://starnik.by/pravapis/53665
