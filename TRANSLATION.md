@@ -91,9 +91,9 @@ unchanged: `VIGENERE`, `kiiltgjtfjph kqxwzr`, `virsle`. With key `virsle`
 the longer string decrypts to “particolored pigeon”. Translate the
 paragraph around them.
 
-**`GLAVRED.qmm`** (empty). Not a gate. A newspaper joke expands `КВМ` as
-`КиВи Ем` and names the prize `КИВИМ`. Translate it only if the
-abbreviation still equals the expansion.
+**`GLAVRED.qmm`** (filled). Not a gate. A newspaper joke expands `КВМ` as
+`КіВі Ем` and names the prize `КІВІМ`. The abbreviation still equals the
+expansion, so the joke is translated.
 
 ### Diagrams — the picture is the puzzle
 
@@ -146,7 +146,7 @@ one file at a time, until its `--batch` prints nothing:
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
 3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog` (filled), `Evidence` (filled), `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
+   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze`, `Easywork`, `Sibolusovt`,
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
    puzzle's table row to stderr; read its whole section above first, and
    edit every copy of a name (diary, statue, jump) in the same batch.
