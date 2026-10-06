@@ -1653,7 +1653,7 @@ lemma.stoltz	Штольц	Stoltz	Штольц/Штольца		gas-station owner	
 lemma.heliosy	Гелиосы	Helios	Геліёсы		nonsense rhyme with шмеліёсы	Driver.qmm
 lemma.shmeliosy	шмелиосы	schmelios	шмеліёсы		nonsense rhyme with Геліёсы	Driver.qmm
 lemma.chateau	Шато	Chateau	Шато		wine brand Шато-Шпіку	Driver.qmm
-lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі/хвачыкаў/хвачыку		local creature; N pl хвачыкі; G pl хвачыкаў; D хвачыку	Driver.qmm
+lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі/хвачыкаў/хвачыку/Хвачык		local creature; N pl хвачыкі; G pl хвачыкаў; D хвачыку	Driver.qmm
 lemma.digson	Землероев	Digson	Землярой/Землярояў		farm family	Driver.qmm
 lemma.yellowtail	Желтохвостиков	Yellowtailer	Жаўтахвосьцікаў/Жаўтахвосьцікава		water deputy	Driver.qmm
 lemma.screw	Шуруп	Screw	Шруб/Шруба/Шрубу/Шрубе		mechanic; Starnik noun шруб	https://starnik.by/pravapis/85679
@@ -3086,7 +3086,7 @@ lemma.minotaurus	Минотаурус	Minotaurus	Мінатаўрус		coined pl
 lemma.zapolosh	Заполошная	Zapoloshnaya	Запалошная		coined planet; hunspell wants a different word	—
 lemma.tezarius	Тезариус	Tezarius	Тэзарыюс		coined star; -иус like радыюс	—
 lemma.vrell	врелл	vrell	врэл/врэла/врэлаў/врэлы/врэлам/врэлу/Врэл		local people; G pl врэлаў; N pl врэлы; D врэлу	—
-lemma.hvacher	хвачер	hvacher	хвачэр/хвачэра		the adult beast; ч+э; parent of хвачык	—
+lemma.hvacher	хвачер	hvacher	хвачэр/хвачэра/хвачэру		the adult beast; ч+э; parent of хвачык	—
 lemma.energomineral	энергоминерал	energy mineral	энэргамінэрал/энэргамінэралаў		a delicacy mined on the home planet; G pl энэргамінэралаў	—
 lemma.jaunty	разбитной	jaunty	разьбітны	разбітны	ловкі, бойкі; Starnik разбітны, hunspell inserts ь; not гарэзны	https://starnik.by/pravapis/144755
 lemma.heat	зной	heat	сьпёка	спёка	sultry heat; Starnik спёка, tarask сь	https://starnik.by/pravapis/71185
