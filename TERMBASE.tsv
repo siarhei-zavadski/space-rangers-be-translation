@@ -2754,3 +2754,5 @@ lemma.sole	подошва	sole	падэшва/падэшвы/падэшваў		b
 lemma.now_typo	Типерь	painted typo	Ціпер		graffiti only: second letter і is crossed out and replaced with я, which yields Цяпер; not a reusable word	—
 lemma.iilkach	Йилкач	Iilkach	Йілкач/Йілкача		author of the legal handbook; invented name	—
 lemma.shletsozorg	Щлецозорг	Shletsozorg	Шчлецозарг/Шчлецозарга		surname; tarask шч for щ	—
+lemma.glob_marker	глоб	dev marker	глоб		left in GLAVRED parameter names; not a word	—
+lemma.pzh_marker	ПЖ	dev marker	ПЖ		left in GLAVRED parameter names	—
