@@ -111,7 +111,7 @@ width as the Russian line.
 | `Doomino.qmm` | Domino faces `[p40]<clr>=<clrEnd>[p41]` | empty; do not edit inside the brackets |
 | `Edelweiss.qmm` | Badge number, one digit per cell, from `[p20]` | empty |
 | `Testing.qmm` | Magic square `1`–`9` summing to 15 | empty; keep the digits, flavor text is free |
-| `Xenolog.qmm` | Tiny map with `o` inside `<fix>` | empty |
+| `Xenolog.qmm` | Tiny map with `o` inside `<fix>` | filled; the `o` map is unchanged |
 | `Elus.qmm` | Attribute grid. Widths are the Russian words: `<format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format>`, and the same for `Малый`, `Желтый`, `Ромб` | empty; a longer word smashes the columns and the logic puzzle cannot be read |
 | `Shashki.qmm` | Checker cells `Б` and `Ч` (white / black) | filled; those two letters stayed, keep them |
 | `Domoclan.qmm` | Machine line `ACCESS CARD; ID = 2111; OBJECT = LAB; … NAME = Аакси-Тоон` | empty; keep the tokens and the id |
@@ -145,7 +145,7 @@ one file at a time, until its `--batch` prints nothing:
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
 3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog`, `Evidence`, `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
+   `Xenolog` (filled), `Evidence`, `GLAVRED`, `Maze`, `Easywork`, `Sibolusovt`,
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
    puzzle's table row to stderr; read its whole section above first, and
    edit every copy of a name (diary, statue, jump) in the same batch.
