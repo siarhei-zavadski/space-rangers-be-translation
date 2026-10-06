@@ -1527,14 +1527,25 @@
 5. Туф-Туев заведует графикой
 - И все могут помочь! Если с какой-то рубрикой непорядок - звоните им в любой момент, - продолжал визитер. - Правда иногда связь подводит…
 С этими словами пеленг положил на Ваш стол мобильный коммуникатор и убежал. На экранчике были записаны имена всех членов совета.
-Кого же выбрать?"	"Quest GLAVRED.qmm: jumps.29.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/30/text"	"Туф-Туев - художественное оформление журнала, <clr>Дизайн<clrEnd>"	"Quest GLAVRED.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/31/text"	"Ля-ле-Шмак разбирается с рубрикой <clr>Юмор<clrEnd>"	"Quest GLAVRED.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/32/text"	"Однобраз Аяя ведет рубрики <clr>Рецензии<clrEnd> и <clr>Внекомпьютерные игры<clrEnd>"	"Quest GLAVRED.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/33/text"	"фон Дауни отслеживает состояние рубрики <clr>Игрострой<clrEnd> и общего <clr>Стиля<clrEnd> журнальных статей (по результатам литературного теста)"	"Quest GLAVRED.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/34/text"	"Мастер Гонский отвечает за рубрики <clr>Новости<clrEnd> и <clr>Железо<clrEnd>"	"Quest GLAVRED.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/35/text"	"Вернуться к этому позже"	"Quest GLAVRED.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
-"/quests/GLAVRED.qmm/jumps/36/text"	"Рекламой займемся в другой раз."	"Quest GLAVRED.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
+Кого же выбрать?"	"Quest GLAVRED.qmm: jumps.29.description. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Нехта пастукаў у дзьверы. У пакой зазірнула маладая асобіна пеленга. 
+- Да вас можна? — бліснуўшы хітрым вокам, ветліва пацікавіўся наведнік. — Я малодшы памочнік па сьлізкіх справах аддзелу PR. Нам бы вырашыць пытаньне пра матэрыяльную дапамогу некаторым чальцам Рады Непахісных Цэнзараў...
+- Яны хіба маюць патрэбу? — спыталі Вы.
+- А як жа! Пастаянна. Інакш могуць арыштаваць увесь наклад! У Радзе 5 цэнзараў. Кожны пасецца на сваім полі:
+1. Майстар-Гонскі сачыць за апэратыўнасьцю і палітычнай карэктнасьцю
+2. Імбец фон Даўні адказвае за складанасьць і літаратурнасьць
+3. Аднабраз Аяя загадвае суб'ектыўнасьцю і разнастайнасьцю
+4. Ля-ле-Шмак судзіць пра эмацыянальнасьць
+5. Туф-Туеў загадвае графікай
+- І ўсе могуць дапамагчы! Калі зь нейкай рубрыкай непарадак — тэлефануйце ім у любы момант, — працягваў наведнік. — Праўда, часам сувязь падводзіць…
+З гэтымі словамі пеленг паклаў на Ваш стол мабільны камунікатар і ўцёк. На экране былі запісаныя імёны ўсіх чальцоў рады.
+Каго ж абраць?"
+"/quests/GLAVRED.qmm/jumps/30/text"	"Туф-Туев - художественное оформление журнала, <clr>Дизайн<clrEnd>"	"Quest GLAVRED.qmm: jumps.30.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Туф-Туеў — мастацкае афармленьне часопіса, <clr>Дызайн<clrEnd>"
+"/quests/GLAVRED.qmm/jumps/31/text"	"Ля-ле-Шмак разбирается с рубрикой <clr>Юмор<clrEnd>"	"Quest GLAVRED.qmm: jumps.31.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Ля-ле-Шмак разьбіраецца з рубрыкай <clr>Гумар<clrEnd>"
+"/quests/GLAVRED.qmm/jumps/32/text"	"Однобраз Аяя ведет рубрики <clr>Рецензии<clrEnd> и <clr>Внекомпьютерные игры<clrEnd>"	"Quest GLAVRED.qmm: jumps.32.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Аднабраз Аяя вядзе рубрыкі <clr>Рэцэнзіі<clrEnd> і <clr>Гульні па-за кампутарам<clrEnd>"
+"/quests/GLAVRED.qmm/jumps/33/text"	"фон Дауни отслеживает состояние рубрики <clr>Игрострой<clrEnd> и общего <clr>Стиля<clrEnd> журнальных статей (по результатам литературного теста)"	"Quest GLAVRED.qmm: jumps.33.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"фон Даўні сачыць за станам рубрыкі <clr>Гульнябуд<clrEnd> і агульнага <clr>Стылю<clrEnd> часопісных артыкулаў (па выніках літаратурнага тэсту)"
+"/quests/GLAVRED.qmm/jumps/34/text"	"Мастер Гонский отвечает за рубрики <clr>Новости<clrEnd> и <clr>Железо<clrEnd>"	"Quest GLAVRED.qmm: jumps.34.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Майстар-Гонскі адказвае за рубрыкі <clr>Навіны<clrEnd> і <clr>Жалеза<clrEnd>"
+"/quests/GLAVRED.qmm/jumps/35/text"	"Вернуться к этому позже"	"Quest GLAVRED.qmm: jumps.35.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Вярнуцца да гэтага пазьней"
+"/quests/GLAVRED.qmm/jumps/36/text"	"Рекламой займемся в другой раз."	"Quest GLAVRED.qmm: jumps.36.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Рэклямай зоймемся іншым разам."
 "/quests/GLAVRED.qmm/jumps/37/text"	"Делать номер"	"Quest GLAVRED.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
 "/quests/GLAVRED.qmm/jumps/38/text"	"Распределить объем рубрик."	"Quest GLAVRED.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	""
 "/quests/GLAVRED.qmm/jumps/39/text"	"Новости"	"Quest GLAVRED.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,GLAVRED"	"Навіны"
