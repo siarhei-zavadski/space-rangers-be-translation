@@ -2692,7 +2692,7 @@ lemma.hyacinth	гиацинт	hyacinth	гіяцынт/гіяцынтаў		the fl
 lemma.flowerbed	клумба	flowerbed	кветнік/кветніку		a flower plot; hunspell rejects клумба; L кветніку	https://starnik.by/pravapis/35040
 lemma.kizut	Кизут	Kizut	Кізут/Кізута		akabos brother; hunspell lacks the name; G Кізута	Xenolog.qmm
 lemma.xenologist	ксенолог	xenologist	ксеналаг/Ксеналаг/ксеналага/ксеналагам/ксеналагаў		formed like ксенафоб + тэхнолаг; hunspell lacks it; G ксеналага, I ксеналагам, G pl ксеналагаў	https://starnik.by/pravapis/77515
-lemma.xenostation	ксеностанция	xenostation	ксенастанцыя/ксенастанцыі/Ксенастанцыя/ксенастанцыяй		the planetary base; coined on ксеналаг; I ксенастанцыяй	Xenolog.qmm
+lemma.xenostation	ксеностанция	xenostation	ксенастанцыя/ксенастанцыі/Ксенастанцыя/ксенастанцыяй/ксенастанцыю		the planetary base; coined on ксеналаг; I ксенастанцыяй, A ксенастанцыю	Xenolog.qmm
 lemma.rulez	Рулез	Rulez	Рулез/Рулеза/Рулезам		the faeyan xenologist; hunspell lacks the name; G Рулеза, I Рулезам	Xenolog.qmm
 lemma.zeon	Зеон	Zeon	Зэон		default destination planet; hunspell lacks the name	Xenolog.qmm
 lemma.detonator	детонатор	detonator	дэтанатар/дэтанатара		a blasting cap, sense as Starnik; G дэтанатара	https://starnik.by/pravapis/25123
@@ -2700,7 +2700,7 @@ lemma.timer	таймер	timer	таймэр/таймэра	таймер	Starnik 
 lemma.liao	Ляо	Liao	Ляо		akabos xenologist Liao Mo; hunspell lacks the name	Xenolog.qmm
 lemma.zhurdano	Журдано	Zhurdano	Журдана/Гуно		faeyan xenobiologist; hunspell lacks the name	Xenolog.qmm
 lemma.seevi	Сер Сееви	Ser Seevi	Сееві		gaal professor, the Sergei Sergeevich pun; Сэр passes hunspell	Xenolog.qmm
-lemma.matlya	Матля	Matlya	Матля		faeyan xenobiologist; hunspell lacks the name	Xenolog.qmm
+lemma.matlya	Матля	Matlya	Матля/Матлі		faeyan xenobiologist; hunspell lacks the name; G Матлі	Xenolog.qmm
 lemma.gurin	Андрей Гурин	Andrei Gurin	Гурын/Гурына		human trainee; Андрэй passes hunspell; G Гурына	Xenolog.qmm
 lemma.guardtech	Гардтех	Guardtech	Гардтэх		the guard-robot company; hunspell lacks the name	Xenolog.qmm
 lemma.galit	галит	galit	галіт/галітаў		a bulk unit; hunspell lacks it	Xenolog.qmm
@@ -2711,3 +2711,9 @@ lemma.redbelly	краснобрюх	red-belly	чырванабрух/чырва�
 lemma.mutras	Мутрас	Mutras	Мутрас		a destination planet; hunspell lacks the name	Xenolog.qmm
 lemma.anyuta	Анюта	Anyuta	Анюта		the note's diminutive; hunspell lacks it	Xenolog.qmm
 lemma.lenka	Ленка	Lenka	Ленка		the note's signature; hunspell lacks it	Xenolog.qmm
+lemma.kvazis	Квазис	Kvazis	Квазіс/Квазіса		the table the professor swears by; hunspell lacks the name; G Квазіса	Xenolog.qmm
+lemma.kibob	Кибоб	Kibob	Кібоб/Кібоба/Кібобам		akabos brother of Кізут; hunspell lacks the name; G Кібоба, I Кібобам	Xenolog.qmm
+lemma.kizhmizh	Киж-миж	Kizh-mizh	Кіж		the plant in the drink; між is the ordinary preposition	Xenolog.qmm
+lemma.sanogon	Саногон	Sanogon	Санагон		the akabos drink; hunspell lacks the name	Xenolog.qmm
+lemma.old_burzhun	древнебуржунский	ancient Burzhun	старажытнабуржунскім		the language the professor recognizes; locative	Xenolog.qmm
+lemma.akabos_phrase	Остра чикла духинам	akabos sentence	Остра/чикла/духинам/Овир/маруган/зинловден		frozen exam sentence; the disks teach these tokens	Xenolog.qmm
