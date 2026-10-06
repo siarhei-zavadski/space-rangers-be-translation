@@ -2701,11 +2701,11 @@ lemma.liao	Ляо	Liao	Ляо		akabos xenologist Liao Mo; hunspell lacks the nam
 lemma.zhurdano	Журдано	Zhurdano	Журдана/Гуно		faeyan xenobiologist; hunspell lacks the name	Xenolog.qmm
 lemma.seevi	Сер Сееви	Ser Seevi	Сееві		gaal professor, the Sergei Sergeevich pun; Сэр passes hunspell	Xenolog.qmm
 lemma.matlya	Матля	Matlya	Матля/Матлі		faeyan xenobiologist; hunspell lacks the name; G Матлі	Xenolog.qmm
-lemma.gurin	Андрей Гурин	Andrei Gurin	Гурын/Гурына		human trainee; Андрэй passes hunspell; G Гурына	Xenolog.qmm
+lemma.gurin	Андрей Гурин	Andrei Gurin	Гурын/Гурына/Гурынам		human trainee; Андрэй passes hunspell; G Гурына, I Гурынам	Xenolog.qmm
 lemma.guardtech	Гардтех	Guardtech	Гардтэх		the guard-robot company; hunspell lacks the name	Xenolog.qmm
 lemma.galit	галит	galit	галіт/галітаў		a bulk unit; hunspell lacks it	Xenolog.qmm
 lemma.xenobio	ксенобиолог	xenobiologist	ксенабіёляг/ксенабіёляга/Ксенабіёляг		alien-life specialist, coined like ксеналаг; G ксенабіёляга	https://starnik.by/pravapis/77515
-lemma.gravicarchik	Гравикарчик	little gravicar	Гравікарчык		the toy gravicar	Xenolog.qmm
+lemma.gravicarchik	Гравикарчик	little gravicar	Гравікарчык/гравікарчыка/гравікарчыкаў		the toy gravicar; G гравікарчыка, G pl гравікарчыкаў	Xenolog.qmm
 lemma.hypersphere	гипершар	hypersphere	гіпэршар		the teleporter misreads the mouse; гіпэр + шар	Xenolog.qmm
 lemma.redbelly	краснобрюх	red-belly	чырванабрух/чырванабруха		a malok beast; G чырванабруха	Xenolog.qmm
 lemma.mutras	Мутрас	Mutras	Мутрас		a destination planet; hunspell lacks the name	Xenolog.qmm
@@ -2726,3 +2726,8 @@ lemma.xenobiology	ксенобиология	xenobiology	Ксенабіялёг�
 lemma.akabos_mutter	Срипча	akabos mutter	Срипча/злинжа/утраба/похача/адогиб/одынбаж/бирмах/килупа/ваджо/бурако/вичапко		frozen gibberish in the den; not Belarusian words	Xenolog.qmm
 lemma.acetonus	ацитонус	acetonus	ацытонус/ацытонуса/ацытонусе		coined solvent on the xenobiologist's shelf; G ацытонуса, L ацытонусе	Xenolog.qmm
 lemma.peleng_snacks	гумысы	peleng snacks	гумысы/шлячысы/пачоніюмы		coined peleng foods the student prefers to Earth sauces	Xenolog.qmm
+lemma.sentry	часовой	sentry	вартавы/вартавых		a guard on watch, noun sense 2; G pl вартавых	https://starnik.by/pravapis/13427
+lemma.dynamite	динамит	dynamite	дынаміт/дынаміту		explosive; G дынаміту	https://starnik.by/pravapis/24126
+lemma.spy	шпион	spy	шпіён/шпіёнаў		a secret agent; G pl шпіёнаў	https://starnik.by/pravapis/85594
+lemma.interrogation	допрос	interrogation	допыт/допыты		questioning a prisoner; N pl допыты	https://starnik.by/pravapis/23242
+lemma.torture_joke	пытошными	mangled torture rooms	каташнямі		broken instrumental of катавальня; the Russian line misspells пыточными	https://starnik.by/pravapis/34513
