@@ -1940,7 +1940,7 @@ lemma.legfight	ногопашный	hand-and-foot fighting	нагапашнаг�
 lemma.showdown	разборка	a criminal showdown	разборак		genitive plural; Starnik разборка; hunspell wants other forms	https://starnik.by/pravapis/62966
 lemma.dab	даб	local coin	даб/дабаў/дабы/Дабы/даба/дабах		the planet currency; G даба, L pl дабах; not Starnik даба	—
 lemma.tommygun	томмиган	plasma tommy gun	томміган		the ranged weapon; hunspell wants another word	—
-lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменная/Плязменныя/плязменнага/плязменныя/плязменнай/плязменных		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя, G pl плязменных	https://starnik.by/pravapis/139746
+lemma.plasma_adj	плазменный	plasma, adjective	плязменны/Плязменны/Плязменная/Плязменныя/плязменнага/плязменныя/плязменнай/плязменных		Starnik плазменны; tarask пля-; hunspell wants another word; f nom Плязменная, f gen плязменнай, m gen плязменнага, N pl плязменныя, G pl плязменных	https://starnik.by/pravapis/139746
 lemma.asleep	спящий	asleep	спячае		neuter of спячы; Starnik; hunspell wants another word	https://starnik.by/pravapis/71689
 lemma.tipsy	под мухой	tipsy	падпіты/падпітыя		Starnik падпіты; the plural is a hunspell gap	https://starnik.by/pravapis/133848
 lemma.bryan_villa	Брайанская	Bryan villa	Брайанскай/Брайанская/Брайанскую		the clan house; hunspell wants other names	—
@@ -2681,3 +2681,8 @@ lemma.holopetard	голопетарда	holo-petard	галапятарда/га�
 lemma.neanderthal	неандерталец	neanderthal	неандэрталец/неандэртальца		hunspell lacks the word; G неандэртальца	https://starnik.by/pravapis/46923
 lemma.greenmuzzles	зеленорожие	green-muzzles	Зялёнарогія/зялёнарогім		hatchball team name	Bomber.qmm
 lemma.titanic	Титаник	Titanic	Тытанік		the lake's name, after the ship	https://starnik.by/pravapis/91039
+lemma.loader	погрузчик	loader	пагрузчык/пагрузчыка/пагрузчыкаў		a mobile lifting machine; G pl пагрузчыкаў	https://starnik.by/pravapis/50101
+lemma.parade_ground	плац	parade ground	пляц/пляцу/пляцы		a drill square, sense 3; Starnik G пляца, hunspell rejects it, so D/G пляцу; L пляцы	https://starnik.by/pravapis/57506
+lemma.barracks	казарма	barracks	казарма/казармы/казармаў		a soldiers' quarters; G pl казармаў	https://starnik.by/pravapis/31779
+lemma.extinguisher	огнетушитель	extinguisher	вогнетушыцель/вогнетушыцеля/вогнетушыцелямі		a fire extinguisher; I pl вогнетушыцелямі	https://starnik.by/pravapis/14962
+lemma.rebar	арматура	rebar	арматура/арматуры		steel reinforcement, sense 2; G арматуры	https://starnik.by/pravapis/5986
