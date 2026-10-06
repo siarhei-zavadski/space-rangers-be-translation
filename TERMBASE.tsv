@@ -2784,7 +2784,7 @@ lemma.master_gonsky	Мастер-Гонский	Master-Gonsky	Майстар-Г�
 lemma.imbets	Имбец	Imbets	Імбец		censor; фон and Даўні pass hunspell	—
 lemma.odnobraz	Однобраз	Odnobraz	Аднабраз		censor; the name echoes однообразие	—
 lemma.ayaya	Аяя	Ayaya	Аяя		censor	—
-lemma.shmak	Ля-ле-Шмак	Lya-le-Shmak	Ля-ле-Шмаку/Шмака		censor; dative Шмаку, genitive Шмака	—
+lemma.shmak	Ля-ле-Шмак	Lya-le-Shmak	Ля-ле-Шмак/Ля-ле-Шмаку/Шмака		censor; nominative Шмак, dative Шмаку, genitive Шмака	—
 lemma.tuf_tuev	Туф-Туев	Tuf-Tuev	Туф-Туеў		censor; Туф passes hunspell	—
 lemma.pl_marker	Пл.	dev abbreviation	Пл		left in the GLAVRED news-parameter name	—
 lemma.capital	столица	capital	сталіца/Сталіца		the main city	https://starnik.by/pravapis/71818
@@ -2886,3 +2886,4 @@ lemma.mukey	Мукей	Mukey	Мукей		Grouper's surname	—
 lemma.bartender	бармен	bartender	бармэн		Starnik also lists бармен; hunspell э	https://starnik.by/pravapis/9250
 lemma.tag	бирка	tag	бірка		a label on goods, sense 1	https://starnik.by/pravapis/10469
 lemma.outsider	посторонний	outsider	староньні/староньніх		Starnik старонні; hunspell soft sign in the genitive plural	https://starnik.by/pravapis/151859
+lemma.oink	хрю	oink	Хрю/хры/хра/Хры/Хрюха		gas-mask grunts, not words	—
