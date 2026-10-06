@@ -2847,7 +2847,7 @@ lemma.artistic	художественный	artistic	мастацкі/маста
 lemma.sacred	священный	sacred	сьвяшчэнны	свяшчэнны	sense 4, noble; the Starnik example is свяшчэнны абавязак; hunspell soft sign	https://starnik.by/pravapis/149194
 lemma.feeling	чувство	feeling	пачуцьце/пачуцьцях		a mental state, sense 2; locative plural пачуцьцях	https://starnik.by/pravapis/54547
 lemma.cabinet	кабинет	office	кабінэт/кабінэце		a work room, sense 1; Starnik кабінет, hunspell кабінэт; older rows keep кабінет	https://starnik.by/pravapis/31587
-lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў	—
+lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага/Пузі		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў; company name ПузіLend	—
 lemma.lu_pin_duk	Лу-Пин-Дук	Lu-Pin-Duk	Лу-Пін-Дук/Лу-Пін-Дука		dictator; genitive Дука	—
 lemma.chuke_puks	Чуке-Пукс	Chuke-Puks	Чуке-Пукс/Чуке-Пуксаў/Пукса		the fruit; genitive plural Пуксаў; the title Сьвяты Пукс reuses Пукс; G sg Пукса	—
 lemma.hilling	окучивание	hilling	падгортваньне/падгортваньнем	падгортванне	earthing up the roots; hunspell soft sign	https://starnik.by/pravapis/50420
@@ -2958,3 +2958,6 @@ lemma.pushup	отжимание	push-up	адцісканьне/адціскан�
 lemma.squat	приседание	squat	прысяданьне/прысяданьняў	прысяданняў/прыседаньняў	a squat, sense 1; Starnik official without ь, hunspell ь	https://starnik.by/pravapis/60845
 lemma.themis	Фемида	Themis	Феміда/Феміды		goddess of justice; hunspell lacks the name; Starnik example is служкі Феміды	https://starnik.by/pravapis/79862
 lemma.kuker	Кукер	Kuker	Кукер		the cop named over the radio	—
+lemma.malchi_palchi	Мальчи-Пальчи	Malchi-Palchi	Мальчы-Пальчы/Мальчы/Пальчы		the traveler; hyphen splits, so both halves are listed	—
+lemma.ovnishcha	Овнища	Ovnishcha	Аўнішчы		the hamlet Вялікія Аўнішчы	—
+lemma.boom	БООМ	BOOM	БООМ		the game title in the suicide note; Cyrillic Doom pun	—
