@@ -79,7 +79,7 @@ FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick La
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
 lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску/рэйнджэрава		Crowdin glossary; capital in the proverb; рэйнджэрава is the barman's кесарево pun	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
-lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія		Crowdin glossary	—
+lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія/Дамінатарамі		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
 lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
@@ -2195,7 +2195,7 @@ lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		
 lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
 lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
 lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
-lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні		a hospital; hunspell lacks the word	https://starnik.by/pravapis/40441
+lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні/лякарнях		a hospital; hunspell lacks the word	https://starnik.by/pravapis/40441
 lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloquial mental hospital; hunspell lacks it	https://starnik.by/pravapis/61474
 lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
 lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
@@ -2646,3 +2646,33 @@ lemma.burned_out	выгоревший	burned out	выгаралы/выгарал
 lemma.passerby	прохожий	passerby	прахожы/прахожых		a person going by; G pl прахожых	https://starnik.by/pravapis/59575
 lemma.indistinguishable	неотличимый	indistinguishable	неадрозны/неадрозным		cannot be told apart; hunspell lacks the word	https://starnik.by/pravapis/127967
 lemma.pseudomimicry	псевдомимика	pseudomimicry	псэўдаміміка/псэўдаміміку		the visitor's joke plastic face; coined	Bomber.qmm
+lemma.faceless	безликий	faceless	бязлікі/бязлікіх		without a character of its own	https://starnik.by/pravapis/100735
+lemma.silhouette	силуэт	silhouette	сілуэт/сілуэты		an outline; hunspell lacks the word	https://starnik.by/pravapis/69074
+lemma.nostalgically	ностальгически	nostalgically	настальгічна		adverb; hunspell has only the adjective	https://starnik.by/pravapis/226225
+lemma.balcony	балкон	balcony	балькон/бальконах	балкон	hunspell ь; Starnik балкон; L pl бальконах	https://starnik.by/pravapis/8844
+lemma.pool	бассейн	pool	басэйн/басэйна	басейн	swimming pool, sense 1; hunspell э; Starnik басейн	https://starnik.by/pravapis/9352
+lemma.transience	тленность	transience	тленнасьць/тленнасьці	тленнасць	frailty of being; hunspell сь	https://starnik.by/pravapis/75158
+lemma.archaeological	археологический	archaeological	археалягічны/археалягічных	археалагічны	hunspell я; Starnik археалагічны	https://starnik.by/pravapis/96615
+lemma.geometry	геометрия	geometry	геамэтрыя/геамэтрыі	геаметрыя	hunspell э; Starnik геаметрыя	https://starnik.by/pravapis/18617
+lemma.being	бытие	being	быцьцё/быцьця	быццё	existence; hunspell ь	https://starnik.by/pravapis/12322
+lemma.lawn	лужайка	lawn	лужок/лужкамі	лужайка	a green lawn; Starnik лужок	https://starnik.by/pravapis/40047
+lemma.umbrella	зонтик	umbrella	парасон/парасонамі		a rain umbrella	https://starnik.by/pravapis/53091
+lemma.binoculars	бинокль	binoculars	бінокль/біноклем		field glasses	https://starnik.by/pravapis/10448
+lemma.sock	носок	sock	шкарпэтка/шкарпэткі/шкарпэтак	шкарпетка	hunspell э	https://starnik.by/pravapis/85060
+lemma.ruins	развалины	ruins	руіна/руіны/руін		physical ruins of a building; not разруха	https://starnik.by/pravapis/64988
+lemma.flasher	мигалка	flasher	мігалка/мігалкі		a flashing signal light, sense 2	https://starnik.by/pravapis/43259
+lemma.colormusic	цветомузыка	color music	колерамузыка		flashing colored lights	https://starnik.by/pravapis/36309
+lemma.fireproof	огнеупорный	fireproof	вогнетрывалы/вогнетрывалых		resistant to fire	https://starnik.by/pravapis/102616
+lemma.loudspeaker	динамик	loudspeaker	дынамік/дынамікаў		a speaker; G pl дынамікаў	https://starnik.by/pravapis/24124
+lemma.descendant	потомок	descendant	патомак/патомкамі		a descendant; I pl патомкамі	https://starnik.by/pravapis/53869
+lemma.cloth_scrap	лоскуток	scrap of cloth	лапік/лапікі		a cloth scrap, sense 2; not ашмёткі	https://starnik.by/pravapis/38630
+lemma.washbasin	таз	washbasin	таз		a wide metal basin, sense 1	https://starnik.by/pravapis/74448
+lemma.dances	пляски	dances	скокі		plural-only noun; dances	https://starnik.by/pravapis/69858
+lemma.spreading	раскидистый	spreading	разложысты/разложыстых		of a tree with a wide crown	https://starnik.by/pravapis/145123
+lemma.prehistoric	доисторический	prehistoric	дагістарычны/дагістарычных			https://starnik.by/pravapis/107739
+lemma.ethnographic	этнографический	ethnographic	этнаграфічны/этнаграфічнага			https://starnik.by/pravapis/163958
+lemma.enterprising	предприимчивый	enterprising	прадпрымальны/прадпрымальныя			https://starnik.by/pravapis/140946
+lemma.charred	обуглившийся	charred	абвуглены/Абвугленыя		burnt to charcoal	https://starnik.by/pravapis/91771
+lemma.everyday	быт	everyday life	побыт/побыту		daily life; G побыту	https://starnik.by/pravapis/57582
+lemma.dreary	унылый	dreary	маркотны/маркотна		gloomy, not merely boring	https://starnik.by/pravapis/123220
+lemma.howling	вой	howl	завываньне/завываньня/завываньні	вой/выццё/завыванне	the sound; hunspell -ньне; Starnik вой is the interjection	https://starnik.by/pravapis/26396
