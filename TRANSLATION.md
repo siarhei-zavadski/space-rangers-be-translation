@@ -102,7 +102,7 @@ width as the Russian line.
 
 | Quest | What is stored | State |
 |---|---|---|
-| `Maze.qmm` | Corridor map of `#`, `^`, `\|` inside `<fix>` | empty |
+| `Maze.qmm` | Corridor map of `#`, `^`, `\|` inside `<fix>` | filled; the maps were copied byte-identical |
 | `Logic.qmm` | Grids `[ ]`, `[0]`, `[+]` | filled, grids intact |
 | `Codebox.qmm` | Two keypads. Header was `Ключ` / `Образец`; digits come from `[p2]`–`[p5]` and `{n}` | filled; `Образец` is `Узор` padded back to 7 columns so the label sits on the sample grid |
 | `Bomber.qmm` | Grid rows `A`–`E` in `<format=center, 40>` | filled; the Latin letters stayed, and the Cyrillic `А` stayed where the Russian cell used it |
@@ -146,7 +146,7 @@ one file at a time, until its `--batch` prints nothing:
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
 3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze`, `Easywork`, `Sibolusovt`,
+   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork`, `Sibolusovt`,
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
    puzzle's table row to stderr; read its whole section above first, and
    edit every copy of a name (diary, statue, jump) in the same batch.

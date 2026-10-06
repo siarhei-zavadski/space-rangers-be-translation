@@ -266,7 +266,7 @@ lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr>
 lemma.memory_module	модуль памяти	memory module	модуль памяці		pirate quest item; UselessItems Usl_MemoryModule	—
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
-lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак/пэнчэ		pirate slur for goody ranger; invented; clipped пенче is пэнчэ	—
+lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак/пэнчэ/пэнчэкракам		pirate slur for goody ranger; invented; clipped пенче is пэнчэ	—
 lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
@@ -1857,7 +1857,7 @@ lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		th
 lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
 lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра		a beast mosquitoes do not bother; coined	—
-lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам/ваяроў		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам; G pl ваяроў	https://starnik.by/pravapis/13675
+lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам/ваяроў/ваяра		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам; G pl ваяроў	https://starnik.by/pravapis/13675
 lemma.discount	скидка	discount	зьніжка/зьніжкі		a price cut; Starnik зніжка, tarask soft sign, hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
 lemma.gameskin	скин	game skin	скін/скіне		a character texture; Starnik noun; hunspell wants the imperative скінь	https://starnik.by/pravapis/69730
@@ -3085,8 +3085,8 @@ lemma.kritautas	Критаутас	Kritautas	Крытаўтас		coined star; hu
 lemma.minotaurus	Минотаурус	Minotaurus	Мінатаўрус		coined planet; not the shortened Мінатаўр	—
 lemma.zapolosh	Заполошная	Zapoloshnaya	Запалошная		coined planet; hunspell wants a different word	—
 lemma.tezarius	Тезариус	Tezarius	Тэзарыюс		coined star; -иус like радыюс	—
-lemma.vrell	врелл	vrell	врэл/врэла/врэлаў/врэлы/врэлам/врэлу/Врэл		local people; G pl врэлаў; N pl врэлы; D врэлу	—
-lemma.hvacher	хвачер	hvacher	хвачэр/хвачэра/хвачэру		the adult beast; ч+э; parent of хвачык	—
+lemma.vrell	врелл	vrell	врэл/врэла/врэлаў/врэлы/врэлам/врэлу/Врэл/Врэлы		local people; G pl врэлаў; N pl врэлы; D врэлу	—
+lemma.hvacher	хвачер	hvacher	хвачэр/хвачэра/хвачэру/Хвачэр		the adult beast; ч+э; parent of хвачык	—
 lemma.energomineral	энергоминерал	energy mineral	энэргамінэрал/энэргамінэралаў		a delicacy mined on the home planet; G pl энэргамінэралаў	—
 lemma.jaunty	разбитной	jaunty	разьбітны	разбітны	ловкі, бойкі; Starnik разбітны, hunspell inserts ь; not гарэзны	https://starnik.by/pravapis/144755
 lemma.heat	зной	heat	сьпёка	спёка	sultry heat; Starnik спёка, tarask сь	https://starnik.by/pravapis/71185
@@ -3099,5 +3099,24 @@ lemma.mordor	Мордор	Mordor	Мордар/Мордара/Мордару		coi
 lemma.cloaca	клоака	cloaca	кляака/кляацы	клаака/клоака	a filthy place; Starnik клаака, hunspell я	https://starnik.by/pravapis/35790
 lemma.sprat	селявка	sprat	кілька/кількі		a small herring; the fish flopping in the fisherman's hands	https://starnik.by/pravapis/35363
 lemma.training	тренировка	training	трэніроўка/трэніроўкі		practice; Starnik трэніроўка, hunspell lacks it	https://starnik.by/pravapis/76302
-lemma.sagard	Сагард	Sagard	Сагард		the vrell trader	—
+lemma.sagard	Сагард	Sagard	Сагард/Сагарда		the vrell trader	—
 lemma.hvacheron	хвачерон	hvacheron	хвачэрон		coined shell of a hvacher; ч+э	—
+lemma.shaman	шаман	shaman	шаман/шамана/Шаман/Шаманам		a spirit-priest; N шаман G шамана I Шаманам	https://starnik.by/pravapis/84690
+lemma.papyrus	папирус	papyrus	папірус/папірусу		writing material, sense 2; G папірусу	https://starnik.by/pravapis/52735
+lemma.platform	помост	platform	памост/памосьце	памосце	a raised board floor; Starnik памосце, hunspell памосьце	https://starnik.by/pravapis/52386
+lemma.robe	балахон	robe	балахон/балахоне		a loose garment; L балахоне	https://starnik.by/pravapis/8766
+lemma.staff	посох	staff	посах/посахам		a long walking stick; I посахам	https://starnik.by/pravapis/57977
+lemma.crocodile	крокодил	crocodile	кракадзіл/кракадзіла		a large armored reptile; G кракадзіла	https://starnik.by/pravapis/36721
+lemma.skull	череп	skull	чэрап/чэрапа		the head's bone; G чэрапа	https://starnik.by/pravapis/84519
+lemma.temple	висок	temple	скронь/скронях		the side of the head; L pl скронях	https://starnik.by/pravapis/69940
+lemma.sacral	сакральный	sacral	сакральны/сакральную		ritual, bookish sense 1; A f сакральную	https://starnik.by/pravapis/147852
+lemma.aide	приспешник	aide	памагаты/памагатыя		a leader's helper, sense 2; N pl памагатыя	https://starnik.by/pravapis/52316
+lemma.claw	коготь	claw	кіпцюр/кіпцюры/кіпцюрамі		a hooked talon; N pl кіпцюры I pl кіпцюрамі	https://starnik.by/pravapis/35642
+lemma.scale_skin	чешуя	scale	луска/луской		plates on a reptile, sense 1; I луской	https://starnik.by/pravapis/40109
+lemma.disgraced	посрамлен	disgraced	пасаромлены		put to shame	https://starnik.by/pravapis/136545
+lemma.scorched	смаленый	scorched	смалены/смаленым		burnt by fire, sense 2; the trouble idiom пахне смаленым	https://starnik.by/pravapis/248477
+lemma.elder	старец	elder	старац/старца		an old man, sense 2	https://starnik.by/pravapis/71956
+lemma.serpak	Серпак	Serpak	Сярпак/Сярпака		the ritual hero's name; G Сярпака	—
+lemma.shmyakodin	Шмякодин	Shmyakodin	Шмякодын/Шмякодына		vrell god of brute force	—
+lemma.pravdimuka	Правдимука	Pravdimuka	Праўдзімука/Праўдзімуку		vrell god of enlightenment; D Праўдзімуку	—
+lemma.kuchum	кучум	kuchum	кучум/кучуме		coined pointed vrell dwelling; L кучуме	—
