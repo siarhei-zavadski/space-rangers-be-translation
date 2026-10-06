@@ -1653,7 +1653,7 @@ lemma.stoltz	Штольц	Stoltz	Штольц/Штольца		gas-station owner	
 lemma.heliosy	Гелиосы	Helios	Геліёсы		nonsense rhyme with шмеліёсы	Driver.qmm
 lemma.shmeliosy	шмелиосы	schmelios	шмеліёсы		nonsense rhyme with Геліёсы	Driver.qmm
 lemma.chateau	Шато	Chateau	Шато		wine brand Шато-Шпіку	Driver.qmm
-lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка		local creature	Driver.qmm
+lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі		local creature; N pl хвачыкі	Driver.qmm
 lemma.digson	Землероев	Digson	Землярой/Землярояў		farm family	Driver.qmm
 lemma.yellowtail	Желтохвостиков	Yellowtailer	Жаўтахвосьцікаў/Жаўтахвосьцікава		water deputy	Driver.qmm
 lemma.screw	Шуруп	Screw	Шруб/Шруба/Шрубу/Шрубе		mechanic; Starnik noun шруб	https://starnik.by/pravapis/85679
@@ -3055,3 +3055,4 @@ lemma.presnogorye	Пресногорье	Presnogorye	Прэснагор'я		coin
 lemma.pos_ogon	Пос-О-Гон	Pos-O-Gon	Пос		coined lake; hunspell lacks Пос; the letter О is not locked	—
 lemma.curious	любопытно	curiously	цікаўна/Цікаўна		adverb of цікаўны; hunspell lacks the adverb; sentence-initial Цікаўна	https://starnik.by/pravapis/233423
 lemma.wetness_joke	мокрость	nonce wetness	мокрасьць		the farm bulletin's fake measure, not real humidity	—
+lemma.placefinder	местоопределитель	place finder	месцавызначнік		coined instrument next to the compass	—
