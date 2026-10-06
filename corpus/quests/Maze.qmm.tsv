@@ -661,7 +661,17 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.8.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.8.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы ўпэўнена крочылі наперад, пільна ўглядаючыся ў цемру, што абступала вас.
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/8/texts/3/text"	"Вы уверенно топали вперед по коридору. ""Что нам снег, что нам зной, что нам хвачер разбитной"", - напевали вы про себя, стараясь отогнать тревожные мысли.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -735,7 +745,17 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы павольна ішлі па камяністай падлозе падзямельля. У ноздры вам сачыўся затхлае паветра, крышталь кепска асьвятляў памяшканьне, прымушаючы напружваць вочы, але вы ўсё адно ішлі далей. 
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/9/texts/4/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -743,7 +763,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/9/texts/5/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -751,7 +778,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/9/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -759,7 +793,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.9.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/10/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно шли дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -770,7 +811,17 @@
 #####
 ## ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.10.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы павольна ішлі па камяністай падлозе падзямельля. У ноздры вам сачыўся затхлае паветра, крышталь кепска асьвятляў памяшканьне, прымушаючы напружваць вочы, але вы ўсё адно ішлі далей. 
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Вы стаіце ў тупіку. Сьцяна перад вамі парэзаная трэшчынамі, зь якіх час ад часу капае вада. Паветра тут не такое затхлае і смуроднае, як у падзямельлі ў цэлым. Яго нават можна назваць сьвежым і чыстым.
+
+<format><fix>
+#####
+#####
+## ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/10/texts/4/text"	"Вы стоите в тупике. Стена перед вами изрезана трещинами, из которых время от времени капает вода. Воздух здесь не такой затхлый и вонючий, как в подземелье в целом. Его даже можно назвать свежим и чистым.
 
 <format><fix>
@@ -778,7 +829,14 @@
 #####
 ## ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.10.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.10.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы стаіце ў тупіку. Сьцяна перад вамі парэзаная трэшчынамі, зь якіх час ад часу капае вада. Паветра тут не такое затхлае і смуроднае, як у падзямельлі ў цэлым. Яго нават можна назваць сьвежым і чыстым.
+
+<format><fix>
+#####
+#####
+## ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/11/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно двигались дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -849,7 +907,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/11/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -857,7 +922,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/11/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -865,7 +937,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.11.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/12/texts/0/text"	"Шаг за шагом вы продвигались вперед. Вдруг своды пещеры будто начали смыкаться, пытаясь вас раздавить. Зажмурившись, вы пару раз тряхнули головой - все прошло. Похоже, затхлый воздух пещеры губительно влияет на вас...
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -999,7 +1078,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/13/texts/5/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1007,7 +1093,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/13/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1015,7 +1108,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.13.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/14/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно шли дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -1147,7 +1247,18 @@
 И объединить навек в их земной юдоли
 Под владычеством всесильным Властелина Мордора.<clrEnd>
 
-Мда. Видно, этот бедняга совсем отчаялся выбраться из подземелья... Внезапно и вам стало отчего-то не по себе. Но вы тут же прогнали тревожные мысли."	"Quest Maze.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+Мда. Видно, этот бедняга совсем отчаялся выбраться из подземелья... Внезапно и вам стало отчего-то не по себе. Но вы тут же прогнали тревожные мысли."	"Quest Maze.qmm: locations.17.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы апынуліся ў тупіку. У куце ляжыць шкілет нейкага бедалага, ён сьціскае ў сваёй касьцяной руцэ іржавы жалезны конус. Правёўшы крышталём ля сьцяны тупіка, вы заўважылі выдзеўбаны надпіс:
+
+<clr>Тры Пярсьцёнкі — прамудрым эльфам — дзеля дабра іх ганарлівага,
+Сем Пярсьцёнкаў — пячорным гномам — дзеля працы іх горнай,
+Дзевяць — людзям Міжзем'я — дзеля служэньня чорнага
+І бясстрашша ў бойках сьмяротна цьвёрдага.
+А Адзін — усемагутны — Уладару Мордара,
+Каб разьяднаць іх усіх, каб пазбавіць іх волі
+І зьяднаць навек у іх зямной юдолі
+Пад уладарствам усемагутным Уладара Мордара.<clrEnd>
+
+М-да. Відаць, гэты бедалага зусім адчаяўся выбрацца з падзямельля... Раптам і вам стала чамусьці не па сабе. Але вы адразу прагналі трывожныя думкі."
 "/quests/Maze.qmm/locations/18/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно двигались дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -1218,7 +1329,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/18/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1226,7 +1344,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/18/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1234,7 +1359,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.18.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/19/texts/1/text"	"Маленькие камешки, проворачиваясь, выскакивали у вас из-под ног. Как бы этот шум не привлек хвачера! Б-р-р-р. От одной мысли об этом вам становилось не по себе.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
  
@@ -1509,7 +1641,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/24/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1517,7 +1656,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/24/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -1525,7 +1671,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.24.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/25/texts/0/text"	"Зеленый свет кристалла мало что давал вам разглядеть. Да и смотреть-то было не на что. Ведь не на голые стены пещеры?
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -1677,7 +1830,17 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.27.texts.3.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.27.texts.3.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы павольна ішлі па камяністай падлозе падзямельля. У ноздры вам сачыўся затхлае паветра, крышталь кепска асьвятляў памяшканьне, прымушаючы напружваць вочы, але вы ўсё адно ішлі далей. 
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/28/texts/0/text"	"Вы уверенно шагали вперед, бдительно вглядываясь в окружавшую вас тьму.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -1794,7 +1957,18 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.30.texts.0.text. Preserve every <tag> exactly."	"Quest,Maze"	"Павольна прасоўваючыся наперад, вы з тугой успаміналі космас. Як прыемна было б цяпер сядзець у мяккім крэсьле свайго зорнага карабля, з грузам лекаў на борце. Але не — блукаеце ў цёмнай пячоры. Адагнаўшы сумныя думкі, вы расправілі плечы і паскорылі крок.
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+<clr>Ззаду выхад зь лябірынту.<clrEnd>
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/30/texts/1/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно двигались дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -1806,7 +1980,18 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.30.texts.1.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.30.texts.1.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы павольна ішлі па камяністай падлозе падзямельля. У ноздры вам сачыўся затхлае паветра, крышталь кепска асьвятляў памяшканьне, прымушаючы напружваць вочы, але вы ўсё адно рухаліся далей. 
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+Справа зіхаціць тытанавымі шрубамі дзьверы — <clr>ВЫХАД з падзямельля<clrEnd>.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/30/texts/3/text"	"Вы уверенно шагали вперед, во тьму. Видимость не больше пяти метров... И зачем вам все это нужно? Глупый вопрос - все из-за <Money> cr, конечно.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -2119,7 +2304,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/36/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -2127,7 +2319,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/36/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -2135,7 +2334,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.36.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/37/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно шли дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -2366,7 +2572,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/41/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -2374,7 +2587,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/41/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -2382,7 +2602,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.41.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/42/texts/2/text"	"Вы уверенно шагали вперед, во тьму. Видимость не больше пяти метров... И зачем вам все это нужно? Глупый вопрос - все из-за <Money> cr, конечно.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
  
@@ -3008,7 +3235,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/54/texts/5/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3016,7 +3250,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/54/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3024,7 +3265,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.54.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/55/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно шли дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -3212,7 +3460,17 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.58.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.58.texts.2.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы павольна ішлі па камяністай падлозе падзямельля. У ноздры вам сачыўся затхлае паветра, крышталь кепска асьвятляў памяшканьне, прымушаючы напружваць вочы, але вы ўсё адно ішлі далей. 
+Нарэшце, пераадолеўшы {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>мэтраў<clrEnd>, вы спыніліся.
+
+Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/59/texts/1/text"	"Вы уверенно шагали вперед, во тьму. Видимость не больше пяти метров... И зачем вам все это нужно? Глупый вопрос - все из-за <Money> cr, конечно.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
  
@@ -3325,7 +3583,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/60/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3333,7 +3598,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/60/texts/7/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3341,7 +3613,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.60.texts.7.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/61/texts/0/text"	"Вы уверенно шагали вперед, во тьму. Видимость не больше пяти метров... И зачем вам все это нужно? Глупый вопрос - все из-за <Money> cr, конечно.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -3574,7 +3853,14 @@
 #####
 ## ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.65.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.65.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Вы стаіце ў тупіку. Сьцяна перад вамі парэзаная трэшчынамі, зь якіх час ад часу капае вада. Паветра тут не такое затхлае і смуроднае, як у падзямельлі ў цэлым. Яго нават можна назваць сьвежым і чыстым.
+
+<format><fix>
+#####
+#####
+## ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/66/texts/0/text"	"Вы уверенно шагали вперед, во тьму. Видимость не больше пяти метров... И зачем вам все это нужно? Глупый вопрос - все из-за <Money> cr, конечно.
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
@@ -3645,7 +3931,14 @@
 ## ##
    ##
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.4.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+   ##
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/66/texts/5/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3653,7 +3946,14 @@
 #####
      
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.5.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+#####
+#####
+     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/66/texts/6/text"	"Впереди развилка. Вы стоите прямо перед ней и, освещая своды пещеры своим кристаллом, думаете, куда направиться.
 
 <format><fix>
@@ -3661,7 +3961,14 @@
 ## ##
 ##     
 ##^##
-##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	""
+##|##</fix></format>"	"Quest Maze.qmm: locations.66.texts.6.text. Preserve every <tag> exactly."	"Quest,Maze"	"Наперадзе раздарожжа. Вы стаіце проста перад ім і, асьвятляючы скляпеньні пячоры сваім крышталём, думаеце, куды падацца.
+
+<format><fix>
+## ##
+## ##
+##     
+##^##
+##|##</fix></format>"
 "/quests/Maze.qmm/locations/67/texts/1/text"	"Шаг за шагом вы продвигались вперед. Вдруг своды пещеры будто начали смыкаться, пытаясь раздавить вас. Зажмурившись, вы пару раз тряхнули головой - все прошло. Похоже, затхлый воздух пещеры губительно влияет на вас...
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
  
