@@ -201,21 +201,27 @@
 "/quests/Maze.qmm/parameters/45/crit_text"	"Сообщение достижения критического значения параметром 46"	"Quest Maze.qmm: parameters.45.crit_text. Preserve every <tag> exactly."	"Quest,Maze"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 46"
 "/quests/Maze.qmm/parameters/46/name"	"Ожидание первого"	"Quest Maze.qmm: parameters.46.name. Preserve every <tag> exactly."	"Quest,Maze"	"Чаканьне першага"
 "/quests/Maze.qmm/parameters/46/crit_text"	"Сообщение достижения критического значения параметром 47"	"Quest Maze.qmm: parameters.46.crit_text. Preserve every <tag> exactly."	"Quest,Maze"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 47"
-"/quests/Maze.qmm/parameters/47/name"	"Ожидание второго"	"Quest Maze.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Maze.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/tostar"	"Критаутас"	"Quest Maze.qmm: tostar. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/toplanet"	"Минотаурус"	"Quest Maze.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/fromplanet"	"Заполошная"	"Quest Maze.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/fromstar"	"Тезариус"	"Quest Maze.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/ranger"	"Бравый"	"Quest Maze.qmm: ranger. Preserve every <tag> exactly."	"Quest,Maze"	""
-"/quests/Maze.qmm/success_text"	"<Ranger>! Рад видеть вас. Хорошо, что вы смогли пройти испытание этих привередливых вреллов. В результате этого мы без проблем договорились с Верховным Шаманом, и теперь наши рабочие уже строят шахты по добыче энергоминералов - изысканного деликатеса у нас, на <FromPlanet>. Еще раз спасибо. Кстати, <Money> cr уже переведены на ваш счет."	"Quest Maze.qmm: success_text. Preserve every <tag> exactly."	"Quest,Maze"	""
+"/quests/Maze.qmm/parameters/47/name"	"Ожидание второго"	"Quest Maze.qmm: parameters.47.name. Preserve every <tag> exactly."	"Quest,Maze"	"Чаканьне другога"
+"/quests/Maze.qmm/parameters/47/crit_text"	"Сообщение достижения критического значения параметром 48"	"Quest Maze.qmm: parameters.47.crit_text. Preserve every <tag> exactly."	"Quest,Maze"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 48"
+"/quests/Maze.qmm/tostar"	"Критаутас"	"Quest Maze.qmm: tostar. Preserve every <tag> exactly."	"Quest,Maze"	"Крытаўтас"
+"/quests/Maze.qmm/toplanet"	"Минотаурус"	"Quest Maze.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Maze"	"Мінатаўрус"
+"/quests/Maze.qmm/fromplanet"	"Заполошная"	"Quest Maze.qmm: fromplanet. Preserve every <tag> exactly."	"Quest,Maze"	"Запалошная"
+"/quests/Maze.qmm/fromstar"	"Тезариус"	"Quest Maze.qmm: fromstar. Preserve every <tag> exactly."	"Quest,Maze"	"Тэзарыюс"
+"/quests/Maze.qmm/ranger"	"Бравый"	"Quest Maze.qmm: ranger. Preserve every <tag> exactly."	"Quest,Maze"	"Бравы"
+"/quests/Maze.qmm/success_text"	"<Ranger>! Рад видеть вас. Хорошо, что вы смогли пройти испытание этих привередливых вреллов. В результате этого мы без проблем договорились с Верховным Шаманом, и теперь наши рабочие уже строят шахты по добыче энергоминералов - изысканного деликатеса у нас, на <FromPlanet>. Еще раз спасибо. Кстати, <Money> cr уже переведены на ваш счет."	"Quest Maze.qmm: success_text. Preserve every <tag> exactly."	"Quest,Maze"	"<Ranger>! Рады бачыць вас. Добра, што вы змаглі прайсьці выпрабаваньне гэтых пераборлівых врэлаў. У выніку гэтага мы без праблем дамовіліся з Вярхоўным Шаманам, і цяпер нашы работнікі ўжо будуюць шахты па здабычы энэргамінэралаў — вытанчанага ласунку ў нас, на <FromPlanet>. Яшчэ раз дзякуй. Дарэчы, <Money> cr ужо пераведзеныя на ваш рахунак."
 "/quests/Maze.qmm/task_text"	"На планете <ToPlanet> звездной системы <ToStar> обнаружено месторождение энергонасыщенного минерала. Но для безопасного проведения работ нам нужно быть уверенными в лояльности вреллов - местных аборигенов. 
 
 Правительство не хочет прибегать к насильственным методам (вреллы проживают на гаальской планете и насилие может вызвать серьезный резонанс в обществе), а уговоры с нашей стороны ни к чему не привели. Верховный Шаман заявил, что наши расы слишком оторваны от природы, слишком зависимы от техники. 
 
 С большим трудом нам удалось договориться о ритуале, который должен доказать, что наши расы столь же близки с природой, как и вреллы. Для этого наш герой, то есть вы, должен будет пройти ""Спор богов"" - ритуал посвящения в воины-вреллы. Нам удалось узнать, что основная часть ""Спора богов"" заключается в блуждании по лабиринту, в котором живет чудовище - хвачер. Но вы ведь не боитесь быть съеденным или попросту заблудиться. Верно? 
 
-Тогда мы объявим, что наш герой появится на планете не позже <Date>. Разумеется, ваши услуги будут оплачены - думаю, <Money> cr будет достаточно."	"Quest Maze.qmm: task_text. Preserve every <tag> exactly."	"Quest,Maze"	""
+Тогда мы объявим, что наш герой появится на планете не позже <Date>. Разумеется, ваши услуги будут оплачены - думаю, <Money> cr будет достаточно."	"Quest Maze.qmm: task_text. Preserve every <tag> exactly."	"Quest,Maze"	"На плянэце <ToPlanet> зорнай сыстэмы <ToStar> знойдзена радовішча энэрганасычанага мінэралу. Але для бясьпечнага правядзеньня работ нам трэба быць упэўненымі ў ляяльнасьці врэлаў — мясцовых абарыгенаў.
+
+Урад не хоча зьвяртацца да гвалтоўных мэтадаў (врэлы жывуць на гаальскай плянэце, і гвалт можа выклікаць сур'ёзны рэзананс у грамадзтве), а ўгаворы з нашага боку ні да чаго не прывялі. Вярхоўны Шаман заявіў, што нашы расы занадта адарваныя ад прыроды, занадта залежныя ад тэхнікі.
+
+Зь вялікай цяжкасьцю нам удалося дамовіцца пра рытуал, які мусіць даказаць, што нашы расы гэтак сама блізкія да прыроды, як і врэлы. Дзеля гэтага наш герой, гэта значыць вы, мусіць прайсьці «Спрэчку багоў» — рытуал пасьвячэньня ў ваяры-врэлы. Нам удалося даведацца, што асноўная частка «Спрэчкі багоў» палягае ў блуканьні па лябірынце, у якім жыве пачвара — хвачэр. Але вы ж не баіцеся быць зьедзеным або папросту заблудзіцца. Праўда?
+
+Тады мы абвесьцім, што наш герой зьявіцца на плянэце не пазьней за <Date>. Вядома, вашы паслугі будуць аплачаныя — думаю, <Money> cr будзе дастаткова."
 "/quests/Maze.qmm/locations/0/texts/0/text"	"Вы медленно шли по каменистому полу подземелья. В ноздри вам сочился затхлый воздух, кристалл плохо освещал помещение, заставляя напрягать глаза, но вы все равно шли дальше. 
 Наконец, преодолев {(  (([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)) + ((([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100))<0)*((-2)*(([p16] div 100) - ([p25] div 100) + ([p16] mod 100) - ([p25] mod 100)))  )*10} <clr>метров<clrEnd>, вы остановились.
 
