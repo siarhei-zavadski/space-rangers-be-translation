@@ -785,7 +785,7 @@ lemma.lyakushatnik	Лякушатник	Lyakushatnik	Лякушатнік/Ляк
 lemma.chag	чг	chag	чг		pachvarash weight unit shown beside the number	Pachvarash.qmm
 lemma.borka	Борька	Borka	Борка		default ranger name in this quest; diminutive of Барыс	Pachvarash.qmm
 lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/лякушы/лякушам/лякушаў/лякушу/Лякушам/лякушай/Лякушаў/лякуш		peleng clerical rank used before a name; G pl Лякушаў	Pachvarash.qmm
-lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі/Гравікар		peleng ground craft; Starnik has no entry	Pachvarash.qmm
+lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі/Гравікар/гравікарам		peleng ground craft; Starnik has no entry; I гравікарам	Pachvarash.qmm
 lemma.patch	патч	patch	патч/патчам		software patch; I патчам; hunspell maps it to путчам	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
 lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
@@ -2724,3 +2724,5 @@ lemma.guano	Гуано	Guano	Гуана	Гуано	the akabos game; Starnik guan
 lemma.xenology	ксенология	xenology	ксеналёгія/ксеналёгіі		the xenologist's science, coined like ксеналаг; G ксеналёгіі	https://starnik.by/pravapis/77515
 lemma.xenobiology	ксенобиология	xenobiology	Ксенабіялёгія		the journal title, coined like ксенабіёляг	https://starnik.by/pravapis/77515
 lemma.akabos_mutter	Срипча	akabos mutter	Срипча/злинжа/утраба/похача/адогиб/одынбаж/бирмах/килупа/ваджо/бурако/вичапко		frozen gibberish in the den; not Belarusian words	Xenolog.qmm
+lemma.acetonus	ацитонус	acetonus	ацытонус/ацытонуса/ацытонусе		coined solvent on the xenobiologist's shelf; G ацытонуса, L ацытонусе	Xenolog.qmm
+lemma.peleng_snacks	гумысы	peleng snacks	гумысы/шлячысы/пачоніюмы		coined peleng foods the student prefers to Earth sauces	Xenolog.qmm
