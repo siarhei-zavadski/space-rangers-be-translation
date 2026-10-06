@@ -3200,7 +3200,7 @@ lemma.renaissance	ренессанс	Renaissance	Рэнэсанс/Рэнэсан
 lemma.postmodern	постмодернизм	postmodernism	постмадэрнізм/постмадэрнізму		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/58011
 lemma.poison	ядовитый	poisonous	атрутны/атрутна		compound атрутна-зялёны; hunspell has the adjective, not this stem	https://starnik.by/pravapis/97241
 lemma.aah	Аа-а	aah	Аа		realization stutter; hunspell suggestions are other words	—
-lemma.liberman	Либерман	Liberman	Лібэрман/Лібэрмана		journalist; G Лібэрмана; hunspell suggestions are other words	—
+lemma.liberman	Либерман	Liberman	Лібэрман/Лібэрмана/Лібэрманам		journalist; G Лібэрмана, I Лібэрманам; hunspell suggestions are other words	—
 lemma.smitters	Смиттерс	Smitters	Сьмітэрс		journalist; hunspell suggests Містэр, a different word	—
 lemma.malok_slur	че	slur	чо/хош		the malok's slur of што and хочаш; hunspell suggestions are other words	—
 lemma.cut_did	сде	cut-off did	зра		stuttered зрабіў; hunspell suggestions are other words	—
@@ -3323,3 +3323,6 @@ lemma.rage	бешенство	rage	шаленства/шаленстве		sense 
 lemma.sectarian	сектант	a sectarian	сэктант/сэктантам	сектантам	hunspell э; I сэктантам	https://starnik.by/pravapis/68497
 lemma.peck	клюнуть	to peck	клюнуць		one peck; here the bait idiom	https://starnik.by/pravapis/186661
 lemma.pretext	предлог	a pretext	падстава		a stated reason, sense 1	https://starnik.by/pravapis/51147
+lemma.assault	штурм	an assault	штурм/штурму	штурман	sense 1, an attack on a strongpoint; G штурму, not the navigator	https://starnik.by/pravapis/85821
+lemma.snare	ловушка	a snare	пастка/пастку		sense 2, a lure into danger; A пастку	https://starnik.by/pravapis/53695
+lemma.corpse	труп	a corpse	труп		a dead body	https://starnik.by/pravapis/75935
