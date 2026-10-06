@@ -1653,7 +1653,7 @@ lemma.stoltz	Штольц	Stoltz	Штольц/Штольца		gas-station owner	
 lemma.heliosy	Гелиосы	Helios	Геліёсы		nonsense rhyme with шмеліёсы	Driver.qmm
 lemma.shmeliosy	шмелиосы	schmelios	шмеліёсы		nonsense rhyme with Геліёсы	Driver.qmm
 lemma.chateau	Шато	Chateau	Шато		wine brand Шато-Шпіку	Driver.qmm
-lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі		local creature; N pl хвачыкі	Driver.qmm
+lemma.hvachyk	хвачик	Snatcher	хвачык/хвачыка/хвачыкі/Хвачыкі/хвачыкаў		local creature; N pl хвачыкі; G pl хвачыкаў	Driver.qmm
 lemma.digson	Землероев	Digson	Землярой/Землярояў		farm family	Driver.qmm
 lemma.yellowtail	Желтохвостиков	Yellowtailer	Жаўтахвосьцікаў/Жаўтахвосьцікава		water deputy	Driver.qmm
 lemma.screw	Шуруп	Screw	Шруб/Шруба/Шрубу/Шрубе		mechanic; Starnik noun шруб	https://starnik.by/pravapis/85679
@@ -3064,3 +3064,10 @@ lemma.powder	порошок	powder	Парашок/парашок		a dosed medici
 lemma.portion	порция	portion	порцыя/порцыі/порцый		N порцыя, N pl порцыі, G pl порцый	https://starnik.by/pravapis/57972
 lemma.aggressive	агрессивный	aggressive	агрэсіўны		hostile, attacking; Starnik sense 2	https://starnik.by/pravapis/93041
 lemma.enrage	рассвирепел	flew into a rage	разьюшыўся	раз'юшыўся	hunspell spelling; Starnik writes the apostrophe	https://starnik.by/pravapis/208772
+lemma.egg_noun	яйцо	egg	яйка/яйкі		N pl яйкі	https://starnik.by/pravapis/88253
+lemma.distribution	распределение	distribution	разьмеркаваньне		tarask зь and -ньне; Starnik headword размеркаванне	https://starnik.by/pravapis/63384
+lemma.compass	компас	compass	компас	кампас	hunspell; Starnik also lists кампас	https://starnik.by/pravapis/36371
+lemma.west	запад	west	захад		cardinal, sense 2	https://starnik.by/pravapis/28017
+lemma.delta	дельта	delta	дэльта/дэльтаў		Greek letter, sense 2; G pl дэльтаў	https://starnik.by/pravapis/24842
+lemma.monster	тварь	monster	пачвара/Пачвара		a large scary creature, sense 1; not твар, which is a face	https://starnik.by/pravapis/54529
+lemma.encounter	встречаемость	encounter rate	сустракальнасьць		tarask сь; hunspell lacks it; Starnik headword сустракальнасць	https://starnik.by/pravapis/73596
