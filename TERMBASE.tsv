@@ -1963,7 +1963,7 @@ lemma.feyada	Фэйада	Faeyada clan	Фэйада/фэйады/Фэйадзе/
 lemma.laptop	лаптоп	laptop	лэптоп/Лэптоп/лэптопа/лэптопе		Starnik лэптоп; hunspell suggestion is another word	https://starnik.by/pravapis/40251
 lemma.holovisor	галовизор	holovisor	галявізар/галявізара		the bar screen; coined like галяграма; not in Starnik	—
 lemma.elevated_rail	надземка	elevated rail	надземка/надземкі		the city line; not Starnik надзем'е	—
-lemma.there_adj	тамошний	of that place	тамтэйшага		Starnik тамтэйшы; hunspell wants тутэйшы, a different word	https://starnik.by/pravapis/153935
+lemma.there_adj	тамошний	of that place	тамтэйшага/тамтэйшыя		Starnik тамтэйшы; hunspell wants тутэйшы, a different word	https://starnik.by/pravapis/153935
 lemma.kungfu	кунг-фу	kung fu	кунфу		the film joke, one token; not in Starnik	—
 lemma.ringleader	главарь	ringleader	верхавод/верхаводы/верхаводам		gang leader; Starnik верхавод	https://starnik.by/pravapis/14014
 lemma.klizma_kit	КЛИЗМА	the medkit initials	Крывяаднаўляльная/Імунагенная		the acronym stays КЛІЗМА; Starnik імунагенны; the крывя- compound is coined	https://starnik.by/pravapis/115598
@@ -2840,7 +2840,7 @@ lemma.reader	читатель	reader	чытач/чытачоў		the person a tex
 lemma.laziness	лень	laziness	лянота		sense 2, a predicate: no wish to act	https://starnik.by/pravapis/40492
 lemma.duty	долг	duty	абавязак		what one must carry out	https://starnik.by/pravapis/57
 lemma.hardware	железо	hardware	Жалеза		magazine hardware rubric; the metal, products of iron, sense 2	https://starnik.by/pravapis/25490
-lemma.gamestroy	Игрострой	game industry	Гульнябуд		coined magazine section	—
+lemma.gamestroy	Игрострой	game industry	Гульнябуд/ГУЛЬНЯБУД		coined magazine section	—
 lemma.literary	литературный	literary	літаратурны		matching the written norm; літаратурны стыль	https://starnik.by/pravapis/121601
 lemma.style	стиль	style	стыль		a manner of execution	https://starnik.by/pravapis/72588
 lemma.artistic	художественный	artistic	мастацкі/мастацкага		of the form of a work of art, sense 4	https://starnik.by/pravapis/123422
@@ -2855,7 +2855,7 @@ lemma.machination	происки	machination	махінацыя/махінацы
 lemma.planetoid	планетоид	planetoid	плянэтоід/плянэтоідзе	планетоід	Starnik е, hunspell э; locative плянэтоідзе	https://starnik.by/pravapis/57063
 lemma.plasma	плазма	plasma	плязма/плязмы		sense 4, the state of matter; Starnik плазма, hunspell я; older rows already use both spellings	https://starnik.by/pravapis/56986
 lemma.bindyuzhnik	Биндюжник	Bindyuzhnik	Біндужнік/Біндужніка		peleng hauler; accusative Біндужніка	—
-lemma.grouper	Групер	Grouper	Групэр/Групэра		news writer; genitive Групэра	—
+lemma.grouper	Групер	Grouper	Групэр/Групэра/Групэрам		news writer; genitive Групэра; instrumental Групэрам	—
 lemma.jolly_cosmonaut	У веселого космонавта	Jolly Cosmonaut	У вясёлага касманаўта		the bar where Lyakusha drinks	—
 lemma.jumpsuit	комбинезон	jumpsuit	камбінэзон/камбінэзона	камбінезон	Starnik е, hunspell э; G камбінэзона	https://starnik.by/pravapis/32429
 lemma.confetti	конфетти	confetti	канфэці	канфеці	indeclinable; Starnik е, hunspell э	https://starnik.by/pravapis/33294
@@ -2927,3 +2927,4 @@ lemma.pneumatic_mail	пневмопочта	pneumatic mail	пнеўмапошт�
 lemma.work_order	разнарядка	work order	разнарадка/разнарадкі		N pl разнарадкі; a written assignment of work	https://starnik.by/pravapis/63461
 lemma.overtime	сверхурочный	overtime	звышурочны/звышурочна		adverb звышурочна; work beyond the set hours	https://starnik.by/pravapis/113955
 lemma.painless	безболезненный	painless	бязбольны/бязбольна		adverb бязбольна	https://starnik.by/pravapis/100624
+lemma.okay	о'кей	okay	О'кей		the Earth-native word Gruper quotes; hunspell suggests an unrelated word	—
