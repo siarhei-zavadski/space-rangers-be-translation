@@ -3200,7 +3200,7 @@ lemma.renaissance	ренессанс	Renaissance	Рэнэсанс/Рэнэсан
 lemma.postmodern	постмодернизм	postmodernism	постмадэрнізм/постмадэрнізму		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/58011
 lemma.poison	ядовитый	poisonous	атрутны/атрутна		compound атрутна-зялёны; hunspell has the adjective, not this stem	https://starnik.by/pravapis/97241
 lemma.aah	Аа-а	aah	Аа		realization stutter; hunspell suggestions are other words	—
-lemma.liberman	Либерман	Liberman	Лібэрман		journalist; hunspell suggestions are other words	—
+lemma.liberman	Либерман	Liberman	Лібэрман/Лібэрмана		journalist; G Лібэрмана; hunspell suggestions are other words	—
 lemma.smitters	Смиттерс	Smitters	Сьмітэрс		journalist; hunspell suggests Містэр, a different word	—
 lemma.malok_slur	че	slur	чо/хош		the malok's slur of што and хочаш; hunspell suggestions are other words	—
 lemma.cut_did	сде	cut-off did	зра		stuttered зрабіў; hunspell suggestions are other words	—
@@ -3221,7 +3221,7 @@ lemma.spiral_stair	винтовой	spiral stair	вінтавой		locative of �
 lemma.burst_in	вломимся	burst in	ўварвёмся/уварвёмся		to force one's way in; уламацца is a ceiling collapse	https://starnik.by/pravapis/215999
 lemma.exhibit	экспонат	exhibit	экспанат/экспанатаў/экспанаты		a museum piece; G pl экспанатаў	https://starnik.by/pravapis/86699
 lemma.history	история	history	гісторыя/гісторыяй		I гісторыяй	https://starnik.by/pravapis/19865
-lemma.goblet	фужер	goblet	фужэр/фужэрамі		a tall wine glass; I pl фужэрамі	https://starnik.by/pravapis/81123
+lemma.goblet	фужер	goblet	фужэр/фужэра/фужэрамі		a tall wine glass; G фужэра, I pl фужэрамі	https://starnik.by/pravapis/81123
 lemma.sensor	датчик	sensor	датчык/датчыкам		a detector on the door; I датчыкам	https://starnik.by/pravapis/22236
 lemma.coal_black	угольно	coal-black	вугальна		combining stem of вугальны, as in вугальна-чорны; hunspell lacks the bare stem	https://starnik.by/pravapis/102949
 lemma.edifice	сооружение	edifice	збудова		what has been built; hunspell suggests будова, a different word	https://starnik.by/pravapis/28374
@@ -3311,3 +3311,9 @@ lemma.screen	экран	a screen	экран/экрана		G экрана, sense 
 lemma.conserve	беречь	to spare	берагчы/беражы		imperative беражы, sense 1	https://starnik.by/pravapis/171593
 lemma.shut	закрытый	shut	зачынены/зачыненыя		plural зачыненыя	https://starnik.by/pravapis/113371
 lemma.takeoff	взлетать	to take off	узьлятаць/ўзьляталі	узляталі	hunspell inserts ь; Starnik узлятаць	https://starnik.by/pravapis/216814
+lemma.cheek	щека	cheek	шчака/шчокі		N pl шчокі, sense 1	https://starnik.by/pravapis/86011
+lemma.aroma	аромат	aroma	водар/водарам	арамат	pleasant smell, sense as written; I водарам	https://starnik.by/pravapis/15049
+lemma.tart	терпкий	tart	церпкі/церпкім	тэрпкі	hunspell keeps е; I церпкім; Starnik церпкі	https://starnik.by/pravapis/160070
+lemma.sort	сорт	a grade	гатунак/гатунку	сорт	a grade of goods, sense 1; N гатунак	https://starnik.by/pravapis/18488
+lemma.swallow	проглотить	to swallow	праглынуць/праглынулі		perfective, sense 1	https://starnik.by/pravapis/204379
+lemma.mock	издевательский	mocking	зьдзеклівы	здзеклівы	hunspell inserts ь; Starnik здзеклівы	https://starnik.by/pravapis/114196
