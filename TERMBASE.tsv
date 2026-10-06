@@ -2195,7 +2195,7 @@ lemma.fourth	четвертый	fourth	чацьвёрты/чацьвёртае		
 lemma.madman	безумец	madman	вар'ят/вар'ята/вар'яты		a mentally ill person, sense 1; the sanity-riddle answers	https://starnik.by/pravapis/13355
 lemma.liquidate	ликвидировать	liquidate	ліквідаваць		to carry out a liquidation	https://starnik.by/pravapis/187272
 lemma.chatter	болтать	chatter	балбатаць/пабалбатаць		to talk rapidly, colloquial sense 1	https://starnik.by/pravapis/171424
-lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні/лякарнях/лякарняй		a hospital; hunspell lacks the word; I лякарняй	https://starnik.by/pravapis/40441
+lemma.hospital	больница	hospital	лякарня/Лякарня/лякарні/лякарнях/лякарняй/лякарню		a hospital; hunspell lacks the word; I лякарняй; A лякарню	https://starnik.by/pravapis/40441
 lemma.madhouse	дурдом	madhouse	псіхушка/Псіхушка		colloquial mental hospital; hunspell lacks it	https://starnik.by/pravapis/61474
 lemma.entrance	подъезд	entrance	пад'езд/пад'езда		building entrance, sense 3; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/50117
 lemma.ya_saam	Яа Саам	Yaa Saam	Яа/Саам		gaal resident on the peleng planet	Amnesia.qmm
@@ -2777,7 +2777,7 @@ lemma.dun_duk	Дун-Дук	Dun-Duk	Дун-Дук/Дун-Дуку		Puziland capi
 lemma.mun_chun	Мунь-Чунь	Mun-Chun	Мунь-Чунь		Puziland city	—
 lemma.shakish_ma	Шакиш-Ма	Shakish-Ma	Шакіш-Ма		Puziland province	—
 lemma.yopt	Йопт	Yopt	Йопт		Puziland province	—
-lemma.derde_kefir	Дерде-Кефир	Derde-Kefir	Дэрдэ-Кефір		Puziland province; the kefir joke, Кефір passes hunspell	—
+lemma.derde_kefir	Дерде-Кефир	Derde-Kefir	Дэрдэ-Кефір/Дэрдэ-Кефіра		Puziland province; the kefir joke, Кефір passes hunspell; G Кефіра	—
 lemma.anan_us	Анан-Ус	Anan-Us	Анан-Ус		Puziland province	—
 lemma.khali_gali	Хали-Гали	Khali-Gali	Халі-Галі		Puziland province	—
 lemma.master_gonsky	Мастер-Гонский	Master-Gonsky	Майстар-Гонскі		censor; Майстар passes hunspell	—
@@ -2848,8 +2848,8 @@ lemma.sacred	священный	sacred	сьвяшчэнны	свяшчэнны	s
 lemma.feeling	чувство	feeling	пачуцьце/пачуцьцях		a mental state, sense 2; locative plural пачуцьцях	https://starnik.by/pravapis/54547
 lemma.cabinet	кабинет	office	кабінэт/кабінэце		a work room, sense 1; Starnik кабінет, hunspell кабінэт; older rows keep кабінет	https://starnik.by/pravapis/31587
 lemma.puziland	Пузиленд	Puziland	Пузіленд/Пузіленда/Пузілендам/пузілендца/пузілендзкім/пузілендцы/Пузілендзе/Пузілендзкая/пузілендцаў/пузілендзкага/Пузі		the satellite and its people; feminine adjective Пузілендзкая; G sg masculine пузілендзкага; G pl пузілендцаў; company name ПузіLend	—
-lemma.lu_pin_duk	Лу-Пин-Дук	Lu-Pin-Duk	Лу-Пін-Дук/Лу-Пін-Дука		dictator; genitive Дука	—
-lemma.chuke_puks	Чуке-Пукс	Chuke-Puks	Чуке-Пукс/Чуке-Пуксаў/Пукса		the fruit; genitive plural Пуксаў; the title Сьвяты Пукс reuses Пукс; G sg Пукса	—
+lemma.lu_pin_duk	Лу-Пин-Дук	Lu-Pin-Duk	Лу-Пін-Дук/Лу-Пін-Дука/Лу-Пін-Дукам		dictator; genitive Дука; I Дукам	—
+lemma.chuke_puks	Чуке-Пукс	Chuke-Puks	Чуке-Пукс/Чуке-Пуксаў/Пукса/Чуке-Пуксы/Чуке-пуксавы		the fruit; genitive plural Пуксаў; N pl Пуксы; adjective пуксавы; G sg Пукса	—
 lemma.hilling	окучивание	hilling	падгортваньне/падгортваньнем	падгортванне	earthing up the roots; hunspell soft sign	https://starnik.by/pravapis/50420
 lemma.machination	происки	machination	махінацыя/махінацыі		a dishonest way of getting something	https://starnik.by/pravapis/42349
 lemma.planetoid	планетоид	planetoid	плянэтоід/плянэтоідзе	планетоід	Starnik е, hunspell э; locative плянэтоідзе	https://starnik.by/pravapis/57063
@@ -2961,3 +2961,14 @@ lemma.kuker	Кукер	Kuker	Кукер		the cop named over the radio	—
 lemma.malchi_palchi	Мальчи-Пальчи	Malchi-Palchi	Мальчы-Пальчы/Мальчы/Пальчы		the traveler; hyphen splits, so both halves are listed	—
 lemma.ovnishcha	Овнища	Ovnishcha	Аўнішчы		the hamlet Вялікія Аўнішчы	—
 lemma.boom	БООМ	BOOM	БООМ		the game title in the suicide note; Cyrillic Doom pun	—
+lemma.kiwi	киви	kiwi	ківі/Ківі/КіВі/КІВІМ/КВМ		the fruit; КВМ expands as «КіВі Ем», capitals К and В stay; the prize КІВІМ is ківі plus М	https://starnik.by/pravapis/35277
+lemma.diabolo	Диаболо	Diabolo	Дыябала		the game Diabolo 666	—
+lemma.rpg	РПГ	RPG	РПГ		role-playing-game abbreviation	—
+lemma.tardy_kurlyev	Тарды-Курлыев	Tardy-Kurlyev	Тарды-Курлыеў		rector of the university of the significant belly	—
+lemma.scream_ay	Ааайяяя	scream	Ааайяяя/ааайяяя		the inventor's stretched cry, written down as a new word	—
+lemma.rector	ректор	rector	рэктар/рэктара		head of a university	https://starnik.by/pravapis/65902
+lemma.boa	удав	boa	удаў/удава		the snake; A удава	https://starnik.by/pravapis/77726
+lemma.rabbit	кролик	rabbit	трус/трусоў		the animal; A pl трусоў	https://starnik.by/pravapis/75949
+lemma.nostril	ноздря	nostril	ноздра/ноздраў		G pl ноздраў	https://starnik.by/pravapis/48861
+lemma.fruit	фрукт	fruit	фрукт/фрукта		one piece of fruit	https://starnik.by/pravapis/81019
+lemma.shave	брить	shave	галіць		to cut hair with a razor	https://starnik.by/pravapis/175420
