@@ -102,7 +102,7 @@ lemma.conduct	поведение	conduct	паводзіны		Starnik: pluralia t
 lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	—
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
 lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/Пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт; table label Пілотаў	—
-lemma.autopilot	автопилот	autopilot	аўтапілот		Starnik	—
+lemma.autopilot	автопилот	autopilot	аўтапілот/аўтапілоце		locative аўтапілоце; hunspell wants аўтапілёт	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
 lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
 lemma.hold	трюм	hold	трум		Starnik: у труме, not трюме	—
@@ -2616,3 +2616,13 @@ lemma.change	изменение	change	зьмена/зьмены	змена	huns
 lemma.point	точка	point	кропка/кропкі		a small mark or a place, sense 1; G кропкі	https://starnik.by/pravapis/36951
 lemma.coordinate	координата	coordinate	каардыната/каардынаты/каардынатаў		a position number; pl каардынаты	https://starnik.by/pravapis/31537
 lemma.dialogue	диалог	dialogue	дыялёг/дыялёгу	дыялог	hunspell ё; Starnik дыялог; a conversation, sense 1	https://starnik.by/pravapis/24494
+lemma.invisibling	невидимка	invisible one	нябачнік/нябачніка/Нябачнік		the stealth bomber and its project name; Starnik has the noun, hunspell does not	https://starnik.by/pravapis/49054
+lemma.merciless	безжалостный	merciless	бязьлітасны	бязлітасны	without pity; hunspell ь; Starnik бязлітасны	https://starnik.by/pravapis/100741
+lemma.coldblooded	хладнокровный	cold-blooded	халаднакроўны	халоднакроўны	hunspell а; Starnik халаднакроўны	https://starnik.by/pravapis/159023
+lemma.warrior	вояка	warrior	ваяка/ваякаў		a soldier; G pl ваякаў	https://starnik.by/pravapis/13674
+lemma.polygon_pun	Поли Гон	proving ground	Палі Гон		the split of палігон, the star this quest flies to	Bomber.qmm
+lemma.khananam	Хананам	Khananam	Хананам		the planet; the name is хана нам written together	Bomber.qmm
+lemma.ail	Айль Фасист	Ail the Fascist	Айль Фашыст		origin planet; Фашыст is the ordinary word	Bomber.qmm
+lemma.bunder	Бундер	Bunder	Бундэр		origin star	Bomber.qmm
+lemma.hiroshima	Хиросима	Hiroshima	Хірасіма/Хірасімы		the callsign Навала Хірасімы	Bomber.qmm
+lemma.gromykhal	Громыхал	Gromykhal	Грамыхал		the general; грамыхаць	Bomber.qmm
