@@ -3181,7 +3181,7 @@ lemma.periodic	периодический	periodic	пэрыядычна	перы
 lemma.rub	растирать	to rub	расьціраць/расьціраньня	расціраць	the action of rubbing; hunspell ь	https://starnik.by/pravapis/64390
 lemma.kaa_zaan	Каа-Заань	Kaa-Zaan	Каа/Заань/Каа-Заань		city on this planet	—
 lemma.altair	Альтаир	Altair	Альтаір/Альтаіра		street of the Bright Altair	—
-lemma.prunella	Прунелла	Prunella	Прунэла/Прунэлачка		diminutive in -ачка	—
+lemma.prunella	Прунелла	Prunella	Прунэла/Прунэлачка/Прунэлу		diminutive in -ачка; A Прунэлу, hunspell lacks it	—
 lemma.zhabush	Лягуш	Frogush	Жабуш/Жабуша		frog pun on лягушка	—
 lemma.mukhush	Мухуш	Flyush	Мухуш/Мухуша		fly pun; муха stays	—
 lemma.mud_avenue	Грязеболотный	Mudmarsh	Гразебалотны/Гразебалотным		street name, гразь plus балота	—
@@ -3334,3 +3334,6 @@ lemma.jewelry	ювелирный	fine work	ювэлірны/ювэлірная/�
 lemma.trained	тренированный	trained	трэніраваны/трэніраваныя		someone who has trained; hunspell lacks the form	https://starnik.by/pravapis/155161
 lemma.attacker	нападающий	an attacker	нападальнік/нападальнікам		D pl нападальнікам	https://starnik.by/pravapis/45915
 lemma.specialist	специалист	a specialist	спэцыяліст/спэцыялісьце	спецыяліст	locative спэцыялісьце; hunspell uses э	https://starnik.by/pravapis/71363
+lemma.pedigree	родословная	a pedigree	радавод/радаводу/Радаводу		a family line; D радаводу; hunspell lacks the form	https://starnik.by/pravapis/62417
+lemma.poodle_f	пуделиха	a female poodle	пудэліха		comic feminine of пудзель; hunspell lacks it	https://starnik.by/pravapis/61568
+lemma.flyslap	Мухошлеп	Flyslap	Мухашлеп		comic surname, a fly-slapper	—

@@ -1282,12 +1282,14 @@
 Итак, перед вами парадный выход в город ""Каа-Заань"". Вас не мучает совесть из-за того, что вы так и не отдали посылку? Может, вернуться?"	"Quest Easywork.qmm: jumps.0.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы спакойна паехалі ў кірунку горада. За дзесяць хвілін пераезду вы пасьпелі добра разгледзець навакольнае хараство (вагончык ехаў па празрыстым шкляным тунэлі). Лес сапраўды ўражваў!
 Такім чынам, перад вамі парадны выхад у горад «Каа-Заань». Вас не мучыць сумленьне праз тое, што вы так і не аддалі пасылку? Можа, вярнуцца?"
 "/quests/Easywork.qmm/jumps/1/text"	"Пойти за ней"	"Quest Easywork.qmm: jumps.1.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Пайсьці за ёю"
-"/quests/Easywork.qmm/jumps/2/text"	"Окончательно забить на представителя планеты <FromPlanet> и пойти за девушкой"	"Quest Easywork.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/3/text"	"Мучает, конечно, возвращаюсь!"	"Quest Easywork.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/2/text"	"Окончательно забить на представителя планеты <FromPlanet> и пойти за девушкой"	"Quest Easywork.qmm: jumps.2.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Канчаткова плюнуць на прадстаўніка плянэты <FromPlanet> і пайсьці за дзяўчынай"
+"/quests/Easywork.qmm/jumps/3/text"	"Мучает, конечно, возвращаюсь!"	"Quest Easywork.qmm: jumps.3.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Мучыць, вядома, вяртаюся!"
 "/quests/Easywork.qmm/jumps/3/description"	"Вы решили вернуться в космопорт. На это, как ни странно, ушло уже больше времени - около 15 минут. Хотя, быть может, вам это только показалось. 
 Полчаса просидев в главном зале космопорта и так и не дождавшись агента планеты <FromPlanet> (может быть, потому, что вы опоздали на встречу?), вы поняли, что вам ничего не остается делать, кроме как вернуться в город.
-На обратном пути вам вдруг почудилось, что лес выглядит немного странно. Деревья будто бы начали передвигаться... ""Глюки?!"" - подумали вы. Похоже, местная звезда <ToStar> сквозь прозрачные стенки тоннеля немного нагрела ваши мозги. Стараясь не смотреть в окно, вы спокойно продолжили свой путь. Он занял уже около 30-ти минут... Вы почувствовали, что <clr>вам стало очень жарко<clrEnd>."	"Quest Easywork.qmm: jumps.3.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/4/text"	"Еще раз, от нечего делать, съездить в космопорт"	"Quest Easywork.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+На обратном пути вам вдруг почудилось, что лес выглядит немного странно. Деревья будто бы начали передвигаться... ""Глюки?!"" - подумали вы. Похоже, местная звезда <ToStar> сквозь прозрачные стенки тоннеля немного нагрела ваши мозги. Стараясь не смотреть в окно, вы спокойно продолжили свой путь. Он занял уже около 30-ти минут... Вы почувствовали, что <clr>вам стало очень жарко<clrEnd>."	"Quest Easywork.qmm: jumps.3.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Вы вырашылі вярнуцца ў касмапорт. На гэта, як ні дзіўна, сышло ўжо больш часу — каля 15 хвілін. Хоць, можа быць, вам гэта толькі здалося. 
+Паўгадзіны прасядзеўшы ў галоўнай залі касмапорта і так і не дачакаўшыся агента плянэты <FromPlanet> (можа быць, таму, што вы спазьніліся на сустрэчу?), вы зразумелі, што вам нічога не застаецца, акрамя як вярнуцца ў горад.
+На зваротным шляху вам раптам здалося, што лес выглядае трохі дзіўна. Дрэвы быццам пачалі перасоўвацца... «Галюцынацыі?!» — падумалі вы. Падобна, мясцовая зорка <ToStar> скрозь празрыстыя сьценкі тунэля трохі нагрэла вашы мазгі. Стараючыся не глядзець у акно, вы спакойна працягнулі свой шлях. Ён заняў ужо каля 30-ці хвілін... Вы адчулі, што <clr>вам стала вельмі горача<clrEnd>."
+"/quests/Easywork.qmm/jumps/4/text"	"Еще раз, от нечего делать, съездить в космопорт"	"Quest Easywork.qmm: jumps.4.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Яшчэ раз, калі няма чаго рабіць, зьезьдзіць у касмапорт"
 "/quests/Easywork.qmm/jumps/5/text"	"Погрузиться в безумие"	"Quest Easywork.qmm: jumps.5.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Паглыбіцца ў вар'яцтва"
 "/quests/Easywork.qmm/jumps/5/description"	"На следующий день все газеты планеты <ToPlanet> сообщали о странном происшествии, случившемся с известным рейнджером <Ranger>: 
 
@@ -1297,15 +1299,24 @@
 Переходим к более важным новостям:
 Вчера во дворце губернатора произошло радостное событие - его любимая супер-мини-карликовая той-пуделиха Мери родила пять очаровательных щенят. Родословной этих малышей могут позавидовать многие аристократы, и хотя щенята пока еще совсем микроскопических размеров, суммы за них предлагают уже астрономические. Господин губернатор, однако, заявляет, что продавать этих крошек пока не намерен. Как бы то ни было, мы от лица всего населения планеты <ToPlanet> поздравляем семью губернатора с пополнением и желаем новорожденным щенятам долгой и счастливой жизни! 
 
-А теперь о погоде..."""	"Quest Easywork.qmm: jumps.5.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/6/text"	"Да пошел он, этот агент, еще возвращаться из-за него. Пойду в город"	"Quest Easywork.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/7/text"	"На стоянку гравитакси"	"Quest Easywork.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+А теперь о погоде..."""	"Quest Easywork.qmm: jumps.5.description. Preserve every <tag> exactly."	"Quest,Easywork"	"На наступны дзень усе газэты плянэты <ToPlanet> паведамлялі пра дзіўнае здарэньне, якое здарылася з вядомым рэйнджэрам <Ranger>: 
+
+«Незадоўга да прыбыцьця цягніка рэйсам Каа-Заань — Касмапорт да канцавога пункту рэйнджэр нечакана ўскочыў са свайго месца, пачаў бегаць па вагоне, біцца галавой аб сьцены, выдаваць неразборлівыя гукі і нават паспрабаваў укусіць за ніжнюю правую руку вядомую пеленгскую актрысу Прунэлу Жабуша-Мухашлеп XIV!!! Брыгада лекараў, што прыбыла на месца здарэньня, прызнала рэйнджэра <Ranger> вар'ятам і адправіла, каб пазьбегнуць далейшых здарэньняў, у наш лепшы псыханэўралягічны дыспансэр «Ліловы дзьмухавец». Там вядучыя спэцыялісты ўжывуць да яго курс прымусовага лячэньня шокавай тэрапіяй.
+Прычынай такога незвычайнага і раптоўнага вар'яцтва, мусіць, зьяўляецца анамальная актыўнасьць зоркі <ToStar> у гэты пэрыяд. Курс лячэньня, па заявах лекараў, зойме прыкладна тыдзень.
+
+Пераходзім да больш важных навінаў:
+Учора ў палацы губэрнатара адбылася радасная падзея — ягоная ўлюбёная супэр-міні-карлікавая той-пудэліха Мэры нарадзіла пяць чароўных шчанят. Радаводу гэтых малышоў могуць пазайздросьціць многія арыстакраты, і хоць шчаняты пакуль яшчэ зусім мікраскапічных памераў, сумы за іх прапануюць ужо астранамічныя. Спадар губэрнатар, аднак, заяўляе, што прадаваць гэтых малютак пакуль не зьбіраецца. Як бы там ні было, мы ад імя ўсяго насельніцтва плянэты <ToPlanet> віншуем сям'ю губэрнатара з прыбаўленьнем і жадаем нованароджаным шчанятам доўгага і шчасьлівага жыцьця! 
+
+А цяпер пра надвор'е...»"
+"/quests/Easywork.qmm/jumps/6/text"	"Да пошел он, этот агент, еще возвращаться из-за него. Пойду в город"	"Quest Easywork.qmm: jumps.6.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ды пайшоў ён, гэты агент, яшчэ вяртацца з-за яго. Пайду ў горад."
+"/quests/Easywork.qmm/jumps/7/text"	"На стоянку гравитакси"	"Quest Easywork.qmm: jumps.7.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На стаянку гравітаксі"
 "/quests/Easywork.qmm/jumps/7/description"	"Уже подойдя к стоянке, вы увидели рекламный плакат, гласивший: ""Такси Каа-Заани - <clr>всего за 10 cr мы доставим вас в любую точку города<clrEnd>!"" 
-Итак, вы стоите на стоянке гравитакси."	"Quest Easywork.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/8/text"	"В бар ""Д-эль"""	"Quest Easywork.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/9/text"	"Идти в туристический центр"	"Quest Easywork.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/10/text"	"На почту"	"Quest Easywork.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/11/text"	"На улицу Красного Треугольника"	"Quest Easywork.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Итак, вы стоите на стоянке гравитакси."	"Quest Easywork.qmm: jumps.7.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Ужо падышоўшы да стаянкі, вы ўбачылі рэклямны плякат, які абвяшчаў: «Таксі Каа-Заань — <clr>усяго за 10 cr мы даставім вас у любы пункт горада<clrEnd>!» 
+Такім чынам, вы стаіце на стаянцы гравітаксі."
+"/quests/Easywork.qmm/jumps/8/text"	"В бар ""Д-эль"""	"Quest Easywork.qmm: jumps.8.text. Preserve every <tag> exactly."	"Quest,Easywork"	"У бар «Д-эль»"
+"/quests/Easywork.qmm/jumps/9/text"	"Идти в туристический центр"	"Quest Easywork.qmm: jumps.9.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Ісьці ў турыстычны цэнтр"
+"/quests/Easywork.qmm/jumps/10/text"	"На почту"	"Quest Easywork.qmm: jumps.10.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На пошту"
+"/quests/Easywork.qmm/jumps/11/text"	"На улицу Красного Треугольника"	"Quest Easywork.qmm: jumps.11.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На вуліцу Чырвонага Трохвугольніка"
 "/quests/Easywork.qmm/jumps/12/text"	"К улице Яркого Альтаира"	"Quest Easywork.qmm: jumps.12.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/13/text"	"На Грязеболотный Проспект"	"Quest Easywork.qmm: jumps.13.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/14/text"	"Вернуться на главную площадь города"	"Quest Easywork.qmm: jumps.14.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
@@ -1325,7 +1336,8 @@
 "/quests/Easywork.qmm/jumps/25/text"	"Поехать на Грязеболотный Проспект"	"Quest Easywork.qmm: jumps.25.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/26/text"	"Отправиться на стоянку гравитакси и начать проверять адреса"	"Quest Easywork.qmm: jumps.26.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/26/description"	"Уже подойдя к стоянке, вы увидели рекламный плакат, гласивший: ""Такси Каа-Заани - <clr>всего за 10 cr мы доставим вас в любую точку города<clrEnd>!"" 
-Итак, вы стоите на стоянке гравитакси."	"Quest Easywork.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
+Итак, вы стоите на стоянке гравитакси."	"Quest Easywork.qmm: jumps.26.description. Preserve every <tag> exactly."	"Quest,Easywork"	"Ужо падышоўшы да стаянкі, вы ўбачылі рэклямны плякат, які абвяшчаў: «Таксі Каа-Заань — <clr>усяго за 10 cr мы даставім вас у любы пункт горада<clrEnd>!» 
+Такім чынам, вы стаіце на стаянцы гравітаксі."
 "/quests/Easywork.qmm/jumps/27/text"	"Достал меня этот агент, еще время на его поиски тратить! Улетаю отсюда!"	"Quest Easywork.qmm: jumps.27.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/28/text"	"Уйти от этой чокнутой барышни"	"Quest Easywork.qmm: jumps.28.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/28/description"	"- Да ну тебя! Мне мама говорила не общаться с незнакомцами! - ответили вы, и пошли обратно на площадь. Девушка остановилась, но не предприняла попытки вас задержать. Потом она еще некоторое время растерянно смотрела вам вслед. 
@@ -1470,7 +1482,7 @@
 - Рейнджер <Ranger>? У вас на счете [p3] cr, этого вполне достаточно для нормального существования! <clr>Вы ничего не получите!<clrEnd>
 
 Да, гаальцев вам так просто не обмануть. Хотя, наверное, правильно говорят, что не в деньгах счастье..."	"Quest Easywork.qmm: jumps.104.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/105/text"	"На стоянку гравитакси"	"Quest Easywork.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/105/text"	"На стоянку гравитакси"	"Quest Easywork.qmm: jumps.105.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На стаянку гравітаксі"
 "/quests/Easywork.qmm/jumps/106/text"	"Что ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.106.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/107/text"	"Вы даже не посмотрите, что в коробке?"	"Quest Easywork.qmm: jumps.107.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/108/text"	"А почему вы сказали ""да-да, действительно""?"	"Quest Easywork.qmm: jumps.108.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
@@ -1706,7 +1718,7 @@
 "/quests/Easywork.qmm/jumps/274/text"	"Вернуться к решению"	"Quest Easywork.qmm: jumps.274.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/275/text"	"Сказать пароль"	"Quest Easywork.qmm: jumps.275.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Сказаць пароль"
 "/quests/Easywork.qmm/jumps/276/text"	"Пойти в бар ""Д-эль"""	"Quest Easywork.qmm: jumps.276.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
-"/quests/Easywork.qmm/jumps/278/text"	"В бар ""Д-эль"""	"Quest Easywork.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/278/text"	"В бар ""Д-эль"""	"Quest Easywork.qmm: jumps.278.text. Preserve every <tag> exactly."	"Quest,Easywork"	"У бар «Д-эль»"
 "/quests/Easywork.qmm/jumps/279/text"	"Вернуться на площадь"	"Quest Easywork.qmm: jumps.279.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/280/text"	"Отпить немного"	"Quest Easywork.qmm: jumps.280.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/281/text"	"Отказаться"	"Quest Easywork.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Адмовіцца"
@@ -1826,7 +1838,7 @@
 "/quests/Easywork.qmm/jumps/412/text"	"10"	"Quest Easywork.qmm: jumps.412.text. Preserve every <tag> exactly."	"Quest,Easywork"	"10"
 "/quests/Easywork.qmm/jumps/413/text"	"1"	"Quest Easywork.qmm: jumps.413.text. Preserve every <tag> exactly."	"Quest,Easywork"	"1"
 "/quests/Easywork.qmm/jumps/414/text"	"3"	"Quest Easywork.qmm: jumps.414.text. Preserve every <tag> exactly."	"Quest,Easywork"	"3"
-"/quests/Easywork.qmm/jumps/415/text"	"На почту"	"Quest Easywork.qmm: jumps.415.text. Preserve every <tag> exactly."	"Quest,Easywork"	""
+"/quests/Easywork.qmm/jumps/415/text"	"На почту"	"Quest Easywork.qmm: jumps.415.text. Preserve every <tag> exactly."	"Quest,Easywork"	"На пошту"
 "/quests/Easywork.qmm/jumps/420/text"	"Правая"	"Quest Easywork.qmm: jumps.420.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Правая"
 "/quests/Easywork.qmm/jumps/420/description"	"Верно! Но это лишь результат везения. Я не засчитываю вам ответ. Теперь вам придется ждать <clr>60 секунд<clrEnd> до следующей попытки. <clr>Учтите, что кнопки и пеленги могут поменяться!<clrEnd>"	"Quest Easywork.qmm: jumps.420.description. Preserve every <tag> exactly."	"Quest,Easywork"	""
 "/quests/Easywork.qmm/jumps/421/text"	"Левая"	"Quest Easywork.qmm: jumps.421.text. Preserve every <tag> exactly."	"Quest,Easywork"	"Левая"
