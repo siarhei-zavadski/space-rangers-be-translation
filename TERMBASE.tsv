@@ -650,7 +650,7 @@ lemma.pryhun	Прыгун	Jumper (patent)	Прыгун		quoted patent name in su
 lemma.runner_dev	Бегун	Runner	Бягун		quoted sequel device in success_text	Jumper.qmm
 lemma.iiii	ИИИИ	IIII	ІІІІ		Institute acronym; и→і	Jumper.qmm
 lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
-lemma.teleporter_dev	телепортатор	teleport	тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
+lemma.teleporter_dev	телепортатор	teleport	тэлепартатар/тэлепартатара/тэлепартатарам		portable one-shot return; G тэлепартатара I тэлепартатарам	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга/квангі		invented fruit; A квангу	Jumper.qmm
 lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў/мэнзола		invented folk; G мэнзола	Jumper.qmm
@@ -1370,7 +1370,7 @@ lemma.abatch	А-Батч	A-Batch	Батч/інфэрнэтнік		distorted inte
 lemma.bolf_an	Болф-Ан	Bolf-An	Болф		faeyan gambler	Feipsycho.qmm
 lemma.turnip_cast	Дедка	turnip cast	Дедка/Внучка/Репка		turnip-gate names; initials stay so the letter jumps still match	Feipsycho.qmm
 lemma.cthulhu	Ктулху	Cthulhu	Абыр/Ктулху/Пх/вгах/кю/льех/мглв/нагл/нафх/нглуи/фхтагн		incantation kept byte-identical	Feipsycho.qmm
-lemma.android	андроид	android	андроід/андроіду/Андроід/Андроіда/андроіда/андроіды/андроідамі		humanoid robot; D андроіду; G андроіда; monument	https://starnik.by/pravapis/4739
+lemma.android	андроид	android	андроід/андроіду/Андроід/Андроіда/андроіда/андроіды/андроідамі/андроідам		humanoid robot; D андроіду; G андроіда; I андроідам; monument	https://starnik.by/pravapis/4739
 lemma.lytdybr	Шо за лытдыбр	what is this longread	Шо/лытдыбр		shout kept byte-identical	Feipsycho.qmm
 lemma.faeyan_crack	ФэянТреск	Faeyan crack	ФэянТрэск		elastic-glass brand on the ward window	Feipsycho.qmm
 lemma.plintusizin	плинтусизин	plintusizin	плінтусізін/плінтусізінам		coined asylum drug	Feipsycho.qmm
@@ -2644,3 +2644,5 @@ lemma.infrastructure	инфраструктура	infrastructure	інфраст�
 lemma.expedient	целесообразный	expedient	мэтазгодны/мэтазгодным		worth doing; I мэтазгодным	https://starnik.by/pravapis/125325
 lemma.burned_out	выгоревший	burned out	выгаралы/выгаралымі		burned empty; I pl выгаралымі	https://starnik.by/pravapis/103330
 lemma.passerby	прохожий	passerby	прахожы/прахожых		a person going by; G pl прахожых	https://starnik.by/pravapis/59575
+lemma.indistinguishable	неотличимый	indistinguishable	неадрозны/неадрозным		cannot be told apart; hunspell lacks the word	https://starnik.by/pravapis/127967
+lemma.pseudomimicry	псевдомимика	pseudomimicry	псэўдаміміка/псэўдаміміку		the visitor's joke plastic face; coined	Bomber.qmm
