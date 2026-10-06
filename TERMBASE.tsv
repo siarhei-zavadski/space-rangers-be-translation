@@ -2048,7 +2048,7 @@ lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
 lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
 lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
 lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
-lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты/Сібалусаўт		coined beast; N pl сібалусаўты, G pl сібалусаўтаў; capital singular is a hunspell gap	—
+lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты/Сібалусаўт/сіба		coined beast; N pl сібалусаўты, G pl сібалусаўтаў; capital singular is a hunspell gap	—
 lemma.verpenchekrak	верпенчекряк	verpenchecrak	вэрпэнчэкрак		coined night-park beast; пэнчэкрак already	—
 lemma.haapt_balls	Шарики Хаапта	Haapt balls	Шарыкі/Хаапта/Хаапт		street-mugger password; Хаапт is the name	—
 lemma.windows	Виндовс	Windows	Віндоўс		shelf title; the letter is on Усталяваньне	—
@@ -3420,3 +3420,10 @@ lemma.vain	тщетно	in vain	дарэмна		useless, as a predicate	https://
 lemma.yanxex	Янхех	Yanxex	Янхэх		the search engine the scene spells Yanxex; coined	—
 lemma.refract	преломлять	to refract	пераламляе		of a ray changing direction; hunspell has пераламляць	https://starnik.by/pravapis/202283
 lemma.question	вопрос	a question	пытаньне/пытаньні/пытаньняў/Пытаньні	пытанне/пытанні	a request for an answer, sense 1; Starnik пытанне, tarask -ньне; G pl пытаньняў	https://starnik.by/pravapis/61960
+lemma.dreadful	жуткий	dreadful	жудасны/жудаснай/Жудасна		frightening, sense 1; I f жудаснай	https://starnik.by/pravapis/111124
+lemma.frost	иней	frost	іней		ice crystals from cold breath	https://starnik.by/pravapis/30784
+lemma.veil	пелена	a veil	завеса		that which covers the sight, sense 2	https://starnik.by/pravapis/26324
+lemma.overstrain	надорваться	to overstrain	надарвецца/надарвацца		to injure yourself by effort, sense 2; fut. надарвецца	https://starnik.by/pravapis/188905
+lemma.roof	крыша	a roof	дах		the cover of a building, sense 1	https://starnik.by/pravapis/22298
+lemma.passion	страсть	passion	жарсьць	жарсць	a strong desire; Starnik жарсць, hunspell inserts ь	https://starnik.by/pravapis/25614
+lemma.numb	окоченеть	to go numb	акачанелым/акачанець	акачэнелым	to stiffen with cold; past participle акачанелым	https://starnik.by/pravapis/169477
