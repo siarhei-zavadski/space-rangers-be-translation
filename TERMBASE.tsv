@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра/лязэрнай		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра/лязэрнай/лязэрнага		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -3295,3 +3295,6 @@ lemma.cherished	заветный	cherished	запаветны/запаветна
 lemma.shot	выстрел	shot	стрэл/стрэлы		a firearm discharge; not the arrow страла	https://starnik.by/pravapis/72452
 lemma.revive	очнуться	come to	апрытомнець/апрытомнелі		to regain consciousness	https://starnik.by/pravapis/170173
 lemma.whew	уф	whew	Ух		interjection of relief, sense 2	https://starnik.by/pravapis/251376
+lemma.target	цель	target	цэль/цэлі		the thing a shot is aimed at	https://starnik.by/pravapis/83398
+lemma.wreckage	крушение	wreckage	крушэньне/крушэньня	крушэння	a wreck; hunspell inserts ь	https://starnik.by/pravapis/37122
+lemma.vengeful	мстительный	vengeful	помсьлівы	помслівы	inclined to revenge; hunspell inserts ь	https://starnik.by/pravapis/140349
