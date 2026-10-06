@@ -211,7 +211,7 @@
 "/quests/Testing.qmm/parameters/49/lines/0/content"	"Параметр номер 50: <>"	"Quest Testing.qmm: parameters.49.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Парамэтар нумар 50: <>"
 "/quests/Testing.qmm/parameters/49/crit_text"	"Сообщение достижения критического значения параметром 50"	"Quest Testing.qmm: parameters.49.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 50"
 "/quests/Testing.qmm/tostar"	"Матрица"	"Quest Testing.qmm: tostar. Preserve every <tag> exactly."	"Quest,Testing"	"Матрыца"
-"/quests/Testing.qmm/toplanet"	"Зеон"	"Quest Testing.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/toplanet"	"Зеон"	"Quest Testing.qmm: toplanet. Preserve every <tag> exactly."	"Quest,Testing"	"Зэон"
 "/quests/Testing.qmm/ranger"	"Избранный"	"Quest Testing.qmm: ranger. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/success_text"	"Подождите, а где же здесь голографическая наклейка? Вы не пиратскую ли копию пытаетесь нам всучить? :)
 Ну что ж, вы великолепно справились с заданием и имя ваше будет золотыми буквами написано в титрах. Мелким шрифтом в самом конце.
@@ -1004,7 +1004,7 @@
 "/quests/Testing.qmm/jumps/176/text"	"Я передумал, не буду выступать"	"Quest Testing.qmm: jumps.176.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/177/text"	"Вот тебе {75*(1-([p4]*0,06+[p3])*0,03)} бкз, а теперь посторонись - маэстро идет к публике"	"Quest Testing.qmm: jumps.177.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/178/text"	"Покинуть сцену и уйти в зал"	"Quest Testing.qmm: jumps.178.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/179/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/179/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.179.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/179/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""Попали как-то в плен к малокам-каннибалам фэянин, человек и пеленг. Фэянин говорит:
 - Эх, и почему я всю жизнь одни овощи ел? Теперь меня самого первым скушают, вместо салата.
@@ -1014,7 +1014,7 @@
 - Да ну вас... меня вообще завялят - и под пиво!""
 
 Вы напряглись, ожидая атаки тухлыми яйцами, но вместо этого вас встретил дружный хохот и шум аплодисментов! Все, пора идти в артисты разговорного жанра. Конферансье незаметно от публики дал вам мешочек с {165*(1+([p4]*0,05+[p3])*0,02)} бкз в качестве вознаграждения."	"Quest Testing.qmm: jumps.179.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/180/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/180/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/180/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""В малокскую дивизию назначили командира-гаальца. Он построил солдат на плацу, прохаживается вдоль шеренги и говорит:
 - Я сделаю эту дивизию лучшей в исследованных секторах. Вы все мне в этом поможете, да, рядовой?
@@ -1050,7 +1050,7 @@
 "/quests/Testing.qmm/jumps/192/text"	"Швырнуть в толпу"	"Quest Testing.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/192/description"	"Помидор исчез среди публики, кажется, сбив кого-то с ног."	"Quest Testing.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/194/text"	"Срочно покинуть сцену"	"Quest Testing.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/195/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/195/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/195/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""Биржа труда. Два клерка-пеленга перебирают заявки:
 - ...Общительный и обаятельный малок ищет высокооплачиваемую работу. Этого в психбольницу санитаром запиши.
@@ -1062,7 +1062,7 @@
 - Пациентом"".
 
 Шутка в принципе удовлетворила потребность зрителей в зрелищах, но из-за недостатка остроумия вы были вознаграждены лишь {100*(1+([p4]*0,05+[p3])*0,02)} бкз."	"Quest Testing.qmm: jumps.195.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/196/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/196/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.196.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/196/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""Что будет, если на необитаемом острове окажутся два пеленга, два малока, два человека, два гаальца, два фэянина и два мензола?
 Люди организуют ООО ""Таинственный остров"" и станут торговать участками земли с мензолами.
@@ -1073,7 +1073,7 @@
 Гаальцы клонируют людей в кокосовой скорлупе вместо пробирок, помирят малоков, выкупят океан и небо, нарисуют фэянам новые чертежи, наймут пеленгов для операции по освобождению мензолов-каторжников, а затем примутся составлять икебаны, размышлять о сущности мироздания и просто радоваться жизни"".
 
 Не все зрители поняли сложную мораль анекдота, но многим он показался остроумным. Конферансье вознаградил вас {120*(1+([p4]*0,05+[p3])*0,02)} бкз."	"Quest Testing.qmm: jumps.196.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/197/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/197/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.197.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/197/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""Центр рейнджеров. За столом сидит сержант-малок, к нему тянется очередь желающих записаться в рейнджеры. Малок принимает у каждого документы и неуклюже тыкает пальцами в клавиатуру компьютера:
 - ...Пехи Дан, прописан на Шухэо, Пхедок. Принят, следующий. Так... Лаенни-Га с Эйланка, Атлан... принят, следующий. Хм... Доолки с планеты номер шесть тысяч три...
@@ -1232,7 +1232,7 @@
 Вы изо всех сил старались обыграть старика, но это было непросто - опыт того был неимоверно велик. В результате вы закончили игру с [p14] бкз."	"Quest Testing.qmm: jumps.279.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/281/text"	"Ну что, распишем пулю?"	"Quest Testing.qmm: jumps.281.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/281/description"	"- Нет, - ответил старец. - Ты теперь уже не хуже, чем старый Посрыц, играешь. Я передал тебе все свои бесценные знания, и теперь ты, как мой последователь, должен обучать неофитов. Да пребудет с тобой сила, ловкость, интеллект и харизма."	"Quest Testing.qmm: jumps.281.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/282/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/282/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.282.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/282/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""Памятка рейнджера.
 1) Если вам нечего делать, летите бить доминаторов.
