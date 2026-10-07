@@ -104,7 +104,7 @@ lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not д�
 lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/Пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт; table label Пілотаў	—
 lemma.autopilot	автопилот	autopilot	аўтапілот/аўтапілоце		locative аўтапілоце; hunspell wants аўтапілёт	—
 lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
-lemma.contract	контракт	contract	кантракт		Starnik: родны кантракта	—
+lemma.contract	контракт	contract	кантракт/кантракта		Starnik genitive кантракта; hunspell wants кантракту	—
 lemma.hold	трюм	hold	трум		Starnik: у труме, not трюме	—
 lemma.award	награда	award	узнагарода		Starnik: родны мн. узнагарод	—
 lemma.news	новость	news	навіна		Starnik: родны мн. навін	—
@@ -3584,3 +3584,8 @@ lemma.submission	подача	submission	падача/падачы		the act of s
 lemma.parry	блок	a combat block	блёк		a raised guard; hunspell writes блёк; Starnik 10931 is the pulley and the political bloc	—
 lemma.melee	рукопах	melee	Рукапаш		coined clip of рукапашны; hunspell suggests the adjective Рукапашны	—
 lemma.location	локация	a location	лякацыя/лякацый		hunspell has the nominative and lacks the genitive plural; a feminine -цыя noun takes -цый	—
+lemma.tadrun	Тадрун	Tadrun	Тадрун		captain of the landing party	—
+lemma.kundynsky	Кундынский	mangled Kandinsky	Кундынскі/Кундынскага		the prehistoric painter, Kandinsky misremembered	—
+lemma.plasmapushka	плазмопушка	plasma cannon	плязмапушка/плязмапушку		the huge gun in the malok's hand	—
+lemma.miniship	миникорабельный	mini-ship	мінікарабельнай		the adjective of a small ship's gun	—
+lemma.tadrun_stammer	замаске	broken briefing	замаске/замыскі/інстра/інтрыск/кантыкты		Tadrun's failed attempts at замаскіраваныя, інструктаж, and кантактаваць	—
