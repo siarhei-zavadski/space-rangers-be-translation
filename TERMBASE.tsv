@@ -805,7 +805,7 @@ lemma.menu	меню	menu	мэню	меню	restaurant menu; hunspell rejects м�
 lemma.torment	томить	keep in suspense	таміце	марудзьце	button imperative; Starnik sense 2, moral torment	https://starnik.by/pravapis/215275
 lemma.nonsense	чушь	nonsense	лухту		idiom малоць лухту; accusative	https://starnik.by/pravapis/40127
 lemma.pedestrian	прохожий	passer-by	пешаход/пешаходаў		ask the way	https://starnik.by/pravapis/56488
-lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі/МАЛОКАЎ/Малокскае		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
+lemma.malok	малок	maloq	малок/малокі/малокаў/малокскай/малокскі/малокску/малокская/Малокская/малокскіх/малокскага/малокамі/малока/малокскае/малокскую/малокскія/немалок/немалока/немалокаў/немалокскія/немалокскіх/малокскім/малокам/немалокам/Малокскі/Малокскія/малокскаму/немалокскую/Малокаў/малокскімі/МАЛОКАЎ/Малокскае		race; adjective keeps the малок stem; па-малокску	Photorobot.qmm
 lemma.gaal	гаальцы	gaals	гаальцы/гаальцаў/гаальцамі/гаальцам/гаалец/гаальскі/гаальскія/гаальскімі/гаальца/Гаалец/гаальская/гаальскай/Гаальцы/Гаальскі/Гаальскія/гаальскім/гаальцу/Гаальцаў/Гаальца/Гаальцам/гаальску/гаальскага		Coalition race; adverb па-гаальску; G m гаальскага; hunspell suggestions are other words	Photorobot.qmm
 lemma.gobzaur	гобзавр	gobzaur	гобзаўр/Гобзаўр/гобзаўра/гобзаўры		invented carcass on the menu	Photorobot.qmm
 lemma.sausageburger	колбасбургер	sausage burger	Каўбасбургер/каўбасбургерамі/бургер/бургерамі		human food joke	Photorobot.qmm
@@ -2355,7 +2355,7 @@ lemma.committee	комитет	committee	камітэт/камітэта/Кам�
 lemma.activist	активист	activist	актывіст/актывістка/актывістак		G pl f актывістак	https://starnik.by/pravapis/3681
 lemma.shame	позор	disgrace	ганьба/ганьбу		public disgrace	https://starnik.by/pravapis/18028
 lemma.crash	треск	with a crash	трэск/трэскам	трыск	I трэскам; a crack, and a spectacular failure	https://starnik.by/pravapis/76312
-lemma.soldier	солдат	soldier	салдат/салдацкіх		adj G pl салдацкіх	https://starnik.by/pravapis/66698
+lemma.soldier	солдат	soldier	салдат/салдацкіх/салдатамі		adj G pl салдацкіх; I pl салдатамі	https://starnik.by/pravapis/66698
 lemma.stat_abbr	Стат_	stat prefix	Стат		the statistics-counter prefix on a parameter name	Rvk.qmm
 lemma.organism	организм	organism	арганізм/арганізма/арганізмам		G арганізма; hunspell wants -у; Starnik -а	https://starnik.by/pravapis/5866
 lemma.tranquilizer	транквилизатор	tranquilizer	транквілізатар/транквілізатару/Транквілізатар		a calming drug; G транквілізатару	https://starnik.by/pravapis/75486
@@ -2729,7 +2729,7 @@ lemma.peleng_snacks	гумысы	peleng snacks	гумысы/шлячысы/па�
 lemma.sentry	часовой	sentry	вартавы/вартавых		a guard on watch, noun sense 2; G pl вартавых	https://starnik.by/pravapis/13427
 lemma.dynamite	динамит	dynamite	дынаміт/дынаміту		explosive; G дынаміту	https://starnik.by/pravapis/24126
 lemma.spy	шпион	spy	шпіён/шпіёнаў		a secret agent; G pl шпіёнаў	https://starnik.by/pravapis/85594
-lemma.interrogation	допрос	interrogation	допыт/допыты		questioning a prisoner; N pl допыты	https://starnik.by/pravapis/23242
+lemma.interrogation	допрос	interrogation	допыт/допыты/допыту		questioning a prisoner; N pl допыты; G допыту	https://starnik.by/pravapis/23242
 lemma.torture_joke	пытошными	mangled torture rooms	каташнямі		broken instrumental of катавальня; the Russian line misspells пыточными	https://starnik.by/pravapis/34513
 lemma.exam_gibber	Примаж опиран	fake exam sentence	Примаж/опиран/демол/виосан/газион		frozen wrong answer on the language test; not Belarusian	Xenolog.qmm
 lemma.paper	бумага	paper	папера/паперы/паперу/паперамі	бумага	a sheet of paper; the rock-paper-scissors object; G паперы	https://starnik.by/pravapis/52703
@@ -3323,7 +3323,7 @@ lemma.rage	бешенство	rage	шаленства/шаленстве		sense 
 lemma.sectarian	сектант	a sectarian	сэктант/сэктантам	сектантам	hunspell э; I сэктантам	https://starnik.by/pravapis/68497
 lemma.peck	клюнуть	to peck	клюнуць		one peck; here the bait idiom	https://starnik.by/pravapis/186661
 lemma.pretext	предлог	a pretext	падстава		a stated reason, sense 1	https://starnik.by/pravapis/51147
-lemma.assault	штурм	an assault	штурм/штурму	штурман	sense 1, an attack on a strongpoint; G штурму, not the navigator	https://starnik.by/pravapis/85821
+lemma.assault	штурм	an assault	штурм/штурму/штурме	штурман	sense 1, an attack on a strongpoint; G штурму; L штурме; not the navigator	https://starnik.by/pravapis/85821
 lemma.snare	ловушка	a snare	пастка/пастку		sense 2, a lure into danger; A пастку	https://starnik.by/pravapis/53695
 lemma.corpse	труп	a corpse	труп		a dead body	https://starnik.by/pravapis/75935
 lemma.infantryman	пехотинец	infantryman	пехацінец/пехацінцаў/пехацінца	пяхотнік	Starnik пехацінец, a foot soldier; hunspell accepts it and rejects пяхотнікаў	https://starnik.by/pravapis/56474
@@ -3346,7 +3346,7 @@ lemma.fare	ладиться	to go well	ладзіцца/ладзіліся		sens
 lemma.careful	осторожно	carefully	асьцярожна	асцярожна	Starnik асцярожна; hunspell inserts ь	https://starnik.by/pravapis/221773
 lemma.tin	жестянка	a tin	бляшанка/бляшанку	жестянку	a tin can; A бляшанку	https://starnik.by/pravapis/11034
 lemma.shvarka	шварка	a shvarka	шварка/шваркі		coined small coin, smaller than a хрюпель; G шваркі	—
-lemma.shoulder	плечо	a shoulder	плячо/пляча/у плячо		body part; A плячо	https://starnik.by/pravapis/57519
+lemma.shoulder	плечо	a shoulder	плячо/пляча/у плячо/плячы		body part; A плячо; L плячы	https://starnik.by/pravapis/57519
 lemma.hit_target	попасть	to hit a target	патрапіць/патрапіў		sense 1, to strike; past m патрапіў	https://starnik.by/pravapis/200153
 lemma.foyer	фойе	a foyer	фае	фойе	a lobby	https://starnik.by/pravapis/79301
 lemma.maitre	метрдотель	a maitre d'hotel	мэтрадатэль	метрдатэль	hotel manager, sense 1; Starnik метрдатэль, hunspell мэтрадатэль	https://starnik.by/pravapis/43123
@@ -3410,7 +3410,7 @@ lemma.symgrass	Сим-трава	symgrass	Сім-трава		quest plant; тра
 lemma.gender	пол	sex	пол	падлога	biological sex, пол 1; the floor is падлога	https://starnik.by/pravapis/57677
 lemma.flow	поток	a stream	паток/патоку		a mass moving one way, sense 2; G патоку	https://starnik.by/pravapis/53861
 lemma.thrust	вонзить	to thrust	ўсадзіў/усадзіць		to drive a point in; past m ўсадзіў after a vowel	https://starnik.by/pravapis/217832
-lemma.calm	спокойный	calm	спакойны		not agitated, sense 2	https://starnik.by/pravapis/151063
+lemma.calm	спокойный	calm	спакойны/спакойна		not agitated, sense 2; adverb спакойна	https://starnik.by/pravapis/151063
 lemma.cross	сердитый	cross	сярдзіты		angry at someone, sense 2	https://starnik.by/pravapis/153586
 lemma.ooze	сочиться	to ooze	сачылася/сачыцца		of a liquid seeping; past f сачылася	https://starnik.by/pravapis/212499
 lemma.fear	страх	fear	страх/страху		a feeling of danger; G страху	https://starnik.by/pravapis/251569
@@ -3837,3 +3837,16 @@ lemma.pick_up	набрать	to pick	набраць/набралі		to gather a 
 lemma.seek_out	выискивать	to seek out	вышукваць/вышукваючы		imperfective of вышукаць; gerund вышукваючы	https://starnik.by/pravapis/175206
 lemma.turn_out	оказаться	to turn out	аказаліся		perfective past; the cited page is the imperfective pair аказвацца	https://starnik.by/pravapis/169399
 lemma.appealing	аппетитный	appealing	прывабны/прывабныя		attractive to the eye; loc 11 already has непрывабна for the opposite; the cited page is the noun прывабнасць	https://starnik.by/pravapis/59977
+lemma.official	чиновник	an official	чыноўнік/чыноўнікам		a state employee, sense 1; I чыноўнікам	https://starnik.by/pravapis/84380
+lemma.strafer	штурмовик	an attack craft	штурмавік/штурмавіка		a military aircraft for a low attack, sense 1; G штурмавіка	https://starnik.by/pravapis/85824
+lemma.storming	штурмовой	assault	штурмавы/штурмавых		meant for an assault; G pl штурмавых	https://starnik.by/pravapis/162563
+lemma.colleague	коллега	a colleague	калега/калег		someone one works with; G pl калег	https://starnik.by/pravapis/32081
+lemma.convoy	конвой	an escort	канвой/канвоем		an armed party that guards prisoners, sense 1; I канвоем	https://starnik.by/pravapis/32920
+lemma.insignia	эмблема	an emblem	эмблема/эмблемамі		a symbolic picture, not the painted cross; I pl эмблемамі	https://starnik.by/pravapis/87321
+lemma.officer	офицер	an officer	афіцэр/афіцэра		a commissioned commander; G афіцэра	https://starnik.by/pravapis/7815
+lemma.glade	полянка	a glade	палянка/палянцы		a small clearing; L палянцы	https://starnik.by/pravapis/52267
+lemma.antiair	противовоздушный	anti-aircraft	супрацьпаветраны/супрацьпаветранай		made to fight enemy aircraft; G feminine супрацьпаветранай абароны	https://starnik.by/pravapis/152878
+lemma.anguish	мытарство	an ordeal	пакута/пакуты		great suffering; N pl пакуты; мытарства is not in Starnik	https://starnik.by/pravapis/51747
+lemma.alight	посадка	a landing	пасадка/пасадку		an aircraft touchdown, sense 4; A пасадку	https://starnik.by/pravapis/53491
+lemma.high_command	командование	command	камандаваньне/камандаваньнем	камандаваннем	a body of commanders, sense 1; I камандаваньнем; Starnik камандаваннем; hunspell inserts ь	https://starnik.by/pravapis/32365
+lemma.squad	команда	a squad	каманда/каманды		a small military party, sense 3; G and N pl каманды; not the music band	https://starnik.by/pravapis/32363
