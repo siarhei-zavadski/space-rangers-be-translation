@@ -68,22 +68,26 @@
 "/quests/Testing.qmm/parameters/10/lines/3/content"	"Ближний бой: шокер"	"Quest Testing.qmm: parameters.10.lines.3.content. Preserve every <tag> exactly."	"Quest,Testing"	"Блізкі бой: шокер"
 "/quests/Testing.qmm/parameters/10/lines/4/content"	"Ближний бой: лазерная шпага"	"Quest Testing.qmm: parameters.10.lines.4.content. Preserve every <tag> exactly."	"Quest,Testing"	"Блізкі бой: лазерная шпага"
 "/quests/Testing.qmm/parameters/10/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Testing.qmm: parameters.10.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 11"
-"/quests/Testing.qmm/parameters/11/name"	"Время до падения/События после падения"	"Quest Testing.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/11/lines/0/content"	"Время до падения: <> сек"	"Quest Testing.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/parameters/11/name"	"Время до падения/События после падения"	"Quest Testing.qmm: parameters.11.name. Preserve every <tag> exactly."	"Quest,Testing"	"Час да падзеньня/Падзеі пасьля падзеньня"
+"/quests/Testing.qmm/parameters/11/lines/0/content"	"Время до падения: <> сек"	"Quest Testing.qmm: parameters.11.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Час да падзеньня: <> сэк"
 "/quests/Testing.qmm/parameters/11/crit_text"	"Работавшие вразнос двигатели в конце концов отключились, и корабль охватила тишина, казавшаяся гробовой по сравнению с предшествовавшим шумом. 
 Спустя мгновение последовал удар невероятной силы. Вы успели увидеть, как на вас несется потолок, а затем провалились в небытие. Не думай о секундах свысока...
 
 Усилием воли приоткрыв глаза, вы обнаружили себя в ""дантистском кресле"", вокруг сновали фэяне в халатах, сотрудники фирмы. Затем тьма поглотила вас навсегда.
-Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/name"	"Мастерство игры"	"Quest Testing.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/0/content"	"Вы новичок в азартных играх"	"Quest Testing.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/1/content"	"Вы неопытный игрок в карты"	"Quest Testing.qmm: parameters.12.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/2/content"	"Вы неплохой игрок в карты"	"Quest Testing.qmm: parameters.12.lines.2.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/3/content"	"Вы хороший игрок в карты"	"Quest Testing.qmm: parameters.12.lines.3.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/4/content"	"Вы отличный игрок в карты"	"Quest Testing.qmm: parameters.12.lines.4.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/5/content"	"Вы профессионал в азартных играх"	"Quest Testing.qmm: parameters.12.lines.5.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/lines/6/content"	"Вы просто шулер"	"Quest Testing.qmm: parameters.12.lines.6.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Testing.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: parameters.11.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Рухавікі, што працавалі ў разнос, урэшце адключыліся, і карабель ахапіла цішыня, якая здавалася труннай у параўнаньні з папярэднім шумам. 
+Праз імгненьне адбыўся ўдар неверагоднай сілы. Вы пасьпелі ўбачыць, як на вас нясецца столь, а затым праваліліся ў нябыт. Ня думай пра сэкунды звысоку...
+
+Намаганьнем волі прыадкрыўшы вочы, вы выявілі сябе ў ""дантысцкім крэсьле"", вакол сноўдалі фэяне ў халатах, супрацоўнікі фірмы. Затым цемра паглынула вас назаўжды.
+Затое цяпер вы ведаеце, што такое ""эфэкт псэўдасьмерці"", падумалі вы, марна ловячы сьвядомасьць, якая высьлізгвае."
+"/quests/Testing.qmm/parameters/12/name"	"Мастерство игры"	"Quest Testing.qmm: parameters.12.name. Preserve every <tag> exactly."	"Quest,Testing"	"Майстэрства гульні"
+"/quests/Testing.qmm/parameters/12/lines/0/content"	"Вы новичок в азартных играх"	"Quest Testing.qmm: parameters.12.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы навічок у азартных гульнях"
+"/quests/Testing.qmm/parameters/12/lines/1/content"	"Вы неопытный игрок в карты"	"Quest Testing.qmm: parameters.12.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы нявопытны гулец у карты"
+"/quests/Testing.qmm/parameters/12/lines/2/content"	"Вы неплохой игрок в карты"	"Quest Testing.qmm: parameters.12.lines.2.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы нядрэнны гулец у карты"
+"/quests/Testing.qmm/parameters/12/lines/3/content"	"Вы хороший игрок в карты"	"Quest Testing.qmm: parameters.12.lines.3.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы добры гулец у карты"
+"/quests/Testing.qmm/parameters/12/lines/4/content"	"Вы отличный игрок в карты"	"Quest Testing.qmm: parameters.12.lines.4.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы выдатны гулец у карты"
+"/quests/Testing.qmm/parameters/12/lines/5/content"	"Вы профессионал в азартных играх"	"Quest Testing.qmm: parameters.12.lines.5.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы прафэсіянал у азартных гульнях"
+"/quests/Testing.qmm/parameters/12/lines/6/content"	"Вы просто шулер"	"Quest Testing.qmm: parameters.12.lines.6.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы проста шулер"
+"/quests/Testing.qmm/parameters/12/crit_text"	"Сообщение достижения критического значения параметром 14"	"Quest Testing.qmm: parameters.12.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 14"
 "/quests/Testing.qmm/parameters/13/name"	"Вспомогательная переменная"	"Quest Testing.qmm: parameters.13.name. Preserve every <tag> exactly."	"Quest,Testing"	"Дапаможная зьменная"
 "/quests/Testing.qmm/parameters/13/lines/0/content"	"Параметр номер 16: <>"	"Quest Testing.qmm: parameters.13.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Парамэтар нумар 16: <>"
 "/quests/Testing.qmm/parameters/13/crit_text"	"Сообщение достижения критического значения параметром 16"	"Quest Testing.qmm: parameters.13.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
