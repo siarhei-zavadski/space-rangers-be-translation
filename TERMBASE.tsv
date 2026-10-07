@@ -3534,3 +3534,10 @@ lemma.suffocating	удушающий	suffocating	удушлівы/удушлів
 lemma.filth	гадость	filth	паскудзтва/паскудзтвам		filth, sense 1; hunspell inserts ь; Starnik headword паскудства	https://starnik.by/pravapis/53582
 lemma.doorlet	дверца	a small door	дзьверцы		plural only; a small door; Starnik headword дзверцы; hunspell and the door lemma use ь	https://starnik.by/pravapis/22588
 lemma.paw	лапа	a paw	лапа/лапай		an animal's foot	https://starnik.by/pravapis/38598
+lemma.barrel	ствол	a gun barrel	ствал/ствалы		the file already uses ствалы; hunspell lacks the nominative and suggests ствол	—
+lemma.wool	шерсть	wool	поўсць/поўсьці		fur; hunspell inserts ь in the genitive; Starnik headword поўсць, G поўсці	https://starnik.by/pravapis/58073
+lemma.stop	упор	a stop	ўпор/ўпору		pressed to the stop, sense 1, genitive -у; not all the way	https://starnik.by/pravapis/78588
+lemma.blizzard	буран	a blizzard	буран		a wind that lifts dry snow	https://starnik.by/pravapis/12047
+lemma.flesh	плоть	flesh	плоць		the body of a living being, sense 1	https://starnik.by/pravapis/57355
+lemma.devour	пожирать	to devour	пажыраць/пажыраючы		sense 2, a flame destroying	https://starnik.by/pravapis/195862
+lemma.gun_muzzle	дуло	a gun muzzle	дула		the barrel of a firearm, or its mouth	https://starnik.by/pravapis/23718
