@@ -38,20 +38,22 @@
 "/quests/Testing.qmm/parameters/5/lines/0/content"	"Здоровье: <>"	"Quest Testing.qmm: parameters.5.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Здароўе: <>"
 "/quests/Testing.qmm/parameters/5/crit_text"	"Виртуальность перед вашими глазами вдруг стала расплываться, превращаться в хаотичное мельтешение красок и ощущений. Вы начали проваливаться в небытие.
 Усилием воли приоткрыв глаза, вы обнаружили себя в ""дантистском кресле"", вокруг сновали фэяне в халатах, сотрудники фирмы. Затем тьма поглотила вас навсегда.
-Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/6/name"	"Буказоиды"	"Quest Testing.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/6/lines/0/content"	"Буказоиды: <>"	"Quest Testing.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Testing.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: parameters.5.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Віртуальнасьць перад вашымі вачыма раптам пачала расплывацца, ператварацца ў хаатычнае мільгаценьне фарбаў і адчуваньняў. Вы пачалі правальвацца ў нябыт.
+Намаганьнем волі прыадкрыўшы вочы, вы выявілі сябе ў ""дантысцкім крэсьле"", вакол сноўдалі фэяне ў халатах, супрацоўнікі фірмы. Затым цемра паглынула вас назаўжды.
+Затое цяпер вы ведаеце, што такое ""эфэкт псэўдасьмерці"", падумалі вы, марна ловячы сьвядомасьць, якая высьлізгвае."
+"/quests/Testing.qmm/parameters/6/name"	"Буказоиды"	"Quest Testing.qmm: parameters.6.name. Preserve every <tag> exactly."	"Quest,Testing"	"Буказоіды"
+"/quests/Testing.qmm/parameters/6/lines/0/content"	"Буказоиды: <>"	"Quest Testing.qmm: parameters.6.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Буказоіды: <>"
+"/quests/Testing.qmm/parameters/6/crit_text"	"Сообщение достижения критического значения параметром 8"	"Quest Testing.qmm: parameters.6.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 8"
 "/quests/Testing.qmm/parameters/7/name"	"Код"	"Quest Testing.qmm: parameters.7.name. Preserve every <tag> exactly."	"Quest,Testing"	"Код"
-"/quests/Testing.qmm/parameters/7/lines/0/content"	"Вы не можете использовать секретный код"	"Quest Testing.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/7/lines/1/content"	"Вы можете использовать секретный код"	"Quest Testing.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Testing.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/parameters/7/lines/0/content"	"Вы не можете использовать секретный код"	"Quest Testing.qmm: parameters.7.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы ня можаце выкарыстоўваць сакрэтны код"
+"/quests/Testing.qmm/parameters/7/lines/1/content"	"Вы можете использовать секретный код"	"Quest Testing.qmm: parameters.7.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	"Вы можаце выкарыстоўваць сакрэтны код"
+"/quests/Testing.qmm/parameters/7/crit_text"	"Сообщение достижения критического значения параметром 12"	"Quest Testing.qmm: parameters.7.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 12"
 "/quests/Testing.qmm/parameters/8/name"	"Броня"	"Quest Testing.qmm: parameters.8.name. Preserve every <tag> exactly."	"Quest,Testing"	"Браня"
-"/quests/Testing.qmm/parameters/8/lines/0/content"	"На вас легкий бронежилет"	"Quest Testing.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/8/lines/1/content"	"На вас тяжелый бронежилет"	"Quest Testing.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/8/lines/2/content"	"На вас полный бронекостюм"	"Quest Testing.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/8/lines/3/content"	"На вас тяжелый бронекостюм"	"Quest Testing.qmm: parameters.8.lines.3.content. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Testing.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/parameters/8/lines/0/content"	"На вас легкий бронежилет"	"Quest Testing.qmm: parameters.8.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	"На вас лёгкі бронежылет"
+"/quests/Testing.qmm/parameters/8/lines/1/content"	"На вас тяжелый бронежилет"	"Quest Testing.qmm: parameters.8.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	"На вас цяжкі бронежылет"
+"/quests/Testing.qmm/parameters/8/lines/2/content"	"На вас полный бронекостюм"	"Quest Testing.qmm: parameters.8.lines.2.content. Preserve every <tag> exactly."	"Quest,Testing"	"На вас поўны бранявы касьцюм"
+"/quests/Testing.qmm/parameters/8/lines/3/content"	"На вас тяжелый бронекостюм"	"Quest Testing.qmm: parameters.8.lines.3.content. Preserve every <tag> exactly."	"Quest,Testing"	"На вас цяжкі бранявы касьцюм"
+"/quests/Testing.qmm/parameters/8/crit_text"	"Сообщение достижения критического значения параметром 7"	"Quest Testing.qmm: parameters.8.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Паведамленьне пра дасягненьне крытычнага значэньня парамэтрам 7"
 "/quests/Testing.qmm/parameters/9/name"	"Оружие дальнего боя"	"Quest Testing.qmm: parameters.9.name. Preserve every <tag> exactly."	"Quest,Testing"	"Зброя дальняга бою"
 "/quests/Testing.qmm/parameters/9/lines/0/content"	"Дальний бой: лазерный резак"	"Quest Testing.qmm: parameters.9.lines.0.content. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/parameters/9/lines/1/content"	"Дальний бой: бластер"	"Quest Testing.qmm: parameters.9.lines.1.content. Preserve every <tag> exactly."	"Quest,Testing"	""
@@ -220,7 +222,9 @@
 Поспешите с доставкой первой копии, мы вот-вот развернем рекламную кампанию, обещающую выпуск игры к <Date>, а обманутые геймеры способны на все."	"Quest Testing.qmm: task_text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/locations/0/pars/4/crit_text"	"Виртуальность перед вашими глазами вдруг стала расплываться, превращаться в хаотичное мельтешение красок и ощущений. Вы начали проваливаться в небытие.
 Усилием воли приоткрыв глаза, вы обнаружили себя в ""дантистском кресле"", вокруг сновали фэяне в халатах, сотрудники фирмы. Затем тьма поглотила вас навсегда.
-Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: locations.0.pars.4.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: locations.0.pars.4.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	"Віртуальнасьць перад вашымі вачыма раптам пачала расплывацца, ператварацца ў хаатычнае мільгаценьне фарбаў і адчуваньняў. Вы пачалі правальвацца ў нябыт.
+Намаганьнем волі прыадкрыўшы вочы, вы выявілі сябе ў ""дантысцкім крэсьле"", вакол сноўдалі фэяне ў халатах, супрацоўнікі фірмы. Затым цемра паглынула вас назаўжды.
+Затое цяпер вы ведаеце, што такое ""эфэкт псэўдасьмерці"", падумалі вы, марна ловячы сьвядомасьць, якая высьлізгвае."
 "/quests/Testing.qmm/locations/0/texts/0/text"	"Вы прибыли на планету <ToPlanet> поздним вечером. В космопорте вас встретил фэянин, назвавшийся далани Иррационом, представителем фирмы ""Elementar Games"". Он был высок и худ даже для своей расы, хотя толстых фэян вы не видели никогда в жизни. Вот к чему приводит вегетарианская диета, удрученно подумали вы. Вы сели в роскошный аэрокар, припаркованный поблизости, и отправились к зданию корпорации.
 Пока вы еще не доехали, у вас есть время поболтать с Иррационом. О чем вы спросите?"	"Quest Testing.qmm: locations.0.texts.0.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/locations/1/texts/0/text"	"- Ну, она ведь фактически готова, - ответил фэянин. - Осталась лишь калибровка узлов ментальной связи, которая автоматически проводится во время тестирования. А само оно длится считанные минуты, хотя и кажется тестеру довольно долгим. Это все, видите ли, субъективное восприятие времени..."	"Quest Testing.qmm: locations.1.texts.0.text. Preserve every <tag> exactly."	"Quest,Testing"	""
