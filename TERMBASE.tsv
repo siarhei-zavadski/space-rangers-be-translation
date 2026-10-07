@@ -314,7 +314,7 @@ lemma.partner	напарник	partner	напарнік		hired wingman; NOT сп
 lemma.bubblist	пузырист	bubblist	пузырыст		hyperspace prank-cult; already ShipGreetings/421 пузырызм	—
 lemma.chekumash	чекумаш	chekumash	чэкумаш		invented pirate disease; Talk PirateClan	—
 lemma.petushkan	петушкан	petushkan	петушкан/петушкана/петушканамі/петушканаў		invented beast; genitive on the tenderloin; Dpl петушканам	—
-lemma.rahish	рахишский	Rahish	рахіскі/рахіскую		invented citizen-poet homeland; Talk PirateClan; A f рахіскую	—
+lemma.rahish	рахишский	Rahish	рахіскі/рахіскую/рахіскага		invented citizen-poet homeland; Talk PirateClan; A f рахіскую; G m рахіскага	—
 lemma.linuxian	линуксианский	Linuxian	лінуксіянскі		pirate wine joke; G лінуксіянскага	—
 lemma.submodem	Сабмодем	Submodem	Сабмодэм		Terron plot program in <clr>; Script MS_Terron shape (not Programms/SabCrack Сабмадэм)	—
 lemma.lyakusha_title	Верховный Лякуша	Supreme Lyakusha	Вярхоўны Лякуша		peleng ruler; G Вярхоўнага Лякушы; company «Лякуша і карашы» already	—
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя		already Baron4; G блястэра; N pl adj блястэрныя	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -2988,7 +2988,7 @@ lemma.hydra	гидра	hydra	гідра/гідраў		mythic many-headed snake; 
 lemma.torchun	Торчун	Torchun	Тарчун		coined magazine title, not a reusable noun	—
 lemma.popsa_games	ПопСа	PopSa	ПопСа		PC/попса parody on a magazine button	—
 lemma.game_sexe	Гаме.СЕКСЕ	Game.SEXE	Гэйм/СЭКСЭ		parody of Game.EXE; the title still shows сэкс	—
-lemma.teleport_verb	телепортировались	teleported	тэлепартаваліся	тэлепортыраваліся	they vanished by teleporting; Starnik past plural; hunspell lacks the verb	https://starnik.by/pravapis/215819
+lemma.teleport_verb	телепортировались	teleported	тэлепартаваліся/тэлепартаваўся	тэлепортыраваліся	they vanished by teleporting; Starnik past plural; hunspell lacks the verb; past m тэлепартаваўся	https://starnik.by/pravapis/215819
 lemma.pakusy	Пакусы-Какусы	Pakusy-Kakusy	Пакусы/Какусы		coined game beside Дзятлі Долзэн; hunspell lacks both halves	—
 lemma.chopengunger	Шопенгунгер	Chopengunger	Шапэнгунгер/Шапэнгунгера		parody of Schopenhauer; hunspell wants the real name	—
 lemma.spignosa	Спигноза	Spignosa	Спігноза/Спігнозу		parody of Spinoza	—
@@ -4365,3 +4365,9 @@ lemma.kerd	керд	minced oath	керд		the cut-off swear stays керд	—
 lemma.unidentified	неидентифицированный	unidentified	неапазнаны/неапазнаных		not recognized by features; G pl неапазнаных; непазнаны is a different entry	https://starnik.by/pravapis/128091
 lemma.hard_earned	кровный	hard-earned	крэўны/крэўнымі		colloquial крэўны, sense 4, earned by one's own work; I pl крэўнымі	https://starnik.by/pravapis/120050
 lemma.depths	недра	depths	нетра/нетрах		depths under a surface; L pl нетрах	https://starnik.by/pravapis/48410
+lemma.stairs	лестница	a staircase	лесьвіца/лесьвіцай/лесьвіцы		Starnik лесвіца; hunspell inserts ь; I лесьвіцай; G лесьвіцы	https://starnik.by/pravapis/39278
+lemma.elinia	Элиния	Elinia	Элінія		gaal planet in the action film	—
+lemma.poloskin	Полоскин	Poloskin	Паласкін/Паласкіна		book captain; the strip pun of паласа; G Паласкіна	—
+lemma.yellowhide	желтокожий	yellow-skinned	жаўтаскуры/жаўтаскурыя		yellow skin; N pl жаўтаскурыя	https://starnik.by/pravapis/111015
+lemma.spjana	нетрезво	drunkenly	сп'яна		while drunk, colloquial adverb	https://starnik.by/pravapis/231695
+lemma.hicbits	ттро	drunken stutter	ччапайце/ннічога/шшто		the peleng's doubled stutter; not separate words	—
