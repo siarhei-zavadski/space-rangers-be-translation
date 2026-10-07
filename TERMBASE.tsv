@@ -2454,7 +2454,7 @@ lemma.lazaret	лазарет	infirmary	лязарэт	лазарэт	field hospi
 lemma.forest_edge	опушка	forest edge	ўзьлесак/ўзьлеску		Starnik узлесак; hunspell inserts ь; L ўзьлеску	https://starnik.by/pravapis/78000
 lemma.wire	провод	wire	дрот/дратамі		a metal wire; I pl дратамі	https://starnik.by/pravapis/23484
 lemma.recruit	вербовать	recruit	вэрбаваць		Starnik вербаваць, to hire people; hunspell вэрбаваць	https://starnik.by/pravapis/172244
-lemma.hall	зала	hall	залю/залі		a large room; Starnik A залу G залы, hunspell залю/залі	https://starnik.by/pravapis/27004
+lemma.hall	зала	hall	залю/залі/заля		a large room; nominative заля; Starnik зала; hunspell залю/залі/заля	https://starnik.by/pravapis/27004
 lemma.lime	известь	lime	вапна/вапны		the Kefron medicine; G вапны	https://starnik.by/pravapis/13340
 lemma.destroyer	эсминец	destroyer	эсьмінец/эсьмінца	эсмінец	Starnik эсмінец; hunspell inserts ь; G эсьмінца	https://starnik.by/pravapis/87784
 lemma.armed_robbery	разбой	armed robbery	разбой/разбоі		attack to rob, distinct from рабунак; L разбоі	https://starnik.by/pravapis/62959
@@ -4237,3 +4237,10 @@ lemma.oh_verb	охать	to groan oh	вохкаць/вохкаеце		to exclaim
 lemma.cost_tag	ценник	a price tag	цэньнік/цэньніках		a price label; Starnik цэннік; hunspell inserts ь; L pl цэньніках	https://starnik.by/pravapis/83428
 lemma.compere	конферансье	a compere	канфэрансье		the artist who announces the acts; Starnik канферансье; hunspell writes э	https://starnik.by/pravapis/33287
 lemma.insolence	наглость	insolence	нахабнасьць/нахабнасьці		shameless pushiness; Starnik нахабнасць; hunspell inserts ь; G нахабнасьці	https://starnik.by/pravapis/46574
+lemma.coryphaeus	корифей	a leading light	карыфэй/карыфэя		an outstanding figure in a field, sense 2; G карыфэя; Starnik карыфей; hunspell writes э	https://starnik.by/pravapis/34254
+lemma.trajectory	траектория	a trajectory	траекторыя/траекторыю		the path a body describes in flight; A траекторыю	https://starnik.by/pravapis/75397
+lemma.auditorium	зрительный зал	an auditorium	глядзельная		the room meant for spectators, sense 2; feminine глядзельная	https://starnik.by/pravapis/106602
+lemma.wrench	гаечный	a wrench	гаечны/гаечнага		meant for a nut; the example is гаечны ключ; G гаечнага	https://starnik.by/pravapis/104751
+lemma.fortitude	стойкость	fortitude	стойкасьць		the quality of holding firm; Starnik стойкасць; hunspell inserts ь	https://starnik.by/pravapis/72128
+lemma.courage	мужество	courage	мужнасьць		bravery joined with resolve; Starnik мужнасць; hunspell inserts ь	https://starnik.by/pravapis/44461
+lemma.danger	опасность	danger	небясьпека/небясьпеку		a state that can cause harm; A небясьпеку; Starnik небяспека; hunspell inserts ь; Diver already has the capital Starnik form	https://starnik.by/pravapis/47055
