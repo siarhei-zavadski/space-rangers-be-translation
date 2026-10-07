@@ -3414,7 +3414,7 @@ lemma.calm	спокойный	calm	спакойны/спакойна		not agitat
 lemma.cross	сердитый	cross	сярдзіты		angry at someone, sense 2	https://starnik.by/pravapis/153586
 lemma.ooze	сочиться	to ooze	сачылася/сачыцца		of a liquid seeping; past f сачылася	https://starnik.by/pravapis/212499
 lemma.fear	страх	fear	страх/страху		a feeling of danger; G страху	https://starnik.by/pravapis/251569
-lemma.oxygen	кислород	oxygen	кісларод		the gas in air that you breathe	https://starnik.by/pravapis/35699
+lemma.oxygen	кислород	oxygen	кісларод/кіслароду		the gas in air that you breathe; partitive G кіслароду	https://starnik.by/pravapis/35699
 lemma.mark	отметка	a mark	адзнака/адзнакі		a mark you judge a level by; G адзнакі	https://starnik.by/pravapis/2201
 lemma.vain	тщетно	in vain	дарэмна		useless, as a predicate	https://starnik.by/pravapis/223471
 lemma.yanxex	Янхех	Yanxex	Янхэх		the search engine the scene spells Yanxex; coined	—
@@ -3955,3 +3955,11 @@ lemma.garb	облачение	garb	адзеньне	адзенне	clothing one 
 lemma.residential	жилой	residential	жылы/жылыя		set aside for people to live in, sense 1; A pl жылыя	https://starnik.by/pravapis/111237
 lemma.prevail	превосходить	to surpass	пераважаць/пераважае		to have the advantage over someone	https://starnik.by/pravapis/201422
 lemma.principal	главный	chief	галоўны	галаўны	the most important one, sense 1; not галаўны, which is of the head	https://starnik.by/pravapis/105033
+lemma.strike	бить	to strike	біць/Біць		to deal blows, sense of hitting; infinitive біць	https://starnik.by/pravapis/171627
+lemma.pate	голова	a head	галава/галаву		the head, sense 1; A галаву	https://starnik.by/pravapis/17486
+lemma.torso	торс	a torso	торс		a human trunk, sense 1; A торс	https://starnik.by/pravapis/75300
+lemma.soma	тело	a body	цела		a living body; A цела	https://starnik.by/pravapis/82650
+lemma.finish_off	прикончить	to finish off	дабіць/Дабіць		to kill a wounded creature, sense 1	https://starnik.by/pravapis/176157
+lemma.fish_noun	рыба	a fish	рыба/рыбу/рыбы		the animal, sense 1; A animate рыбу	https://starnik.by/pravapis/65176
+lemma.oven	испечь	to bake	сьпячы/Сьпячы	спячы	to cook by dry heat, perfective; Starnik спячы; hunspell inserts ь	https://starnik.by/pravapis/71689
+lemma.dine	есть	to eat	есьці/Есьці	есці	to take food, imperfective, sense 1; Starnik есці; hunspell inserts ь	https://starnik.by/pravapis/178439
