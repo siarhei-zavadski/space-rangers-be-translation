@@ -2530,7 +2530,21 @@ You offered the symgrass to the gaal, who immediately tried to run off somewhere
 ""Too late. He must have learned of your arrival and sped off to a different end of the galaxy, but the base was loaded with landmines. It's been destroyed. And now if you will please excuse me. I need to go be treated.""
 ""But..."" you said, feeling a bit depressed. ""Then let's say goodbye.""
 ""Goodbye,"" said the gaal dryly. ""By the way, don't deviate from your course to your destination. The antidote isn't a complete cure, so the poison will reach a lethal concentration again. You can get full treatment in a professional equipped clinic. I don't know how long the poison will be inactive - anywhere from a month to several decades - but you still shouldn't put off the antidote.""
-This news actually helped you sober up and, after shaking the gaal's hand again, you set off in search of your ship..."	"Quest,Sibolusovt"	""
+This news actually helped you sober up and, after shaking the gaal's hand again, you set off in search of your ship..."	"Quest,Sibolusovt"	"- О! — Кінуліся вы на шыю гаальца, шчодра арашаючы яго сьлязьмі падзякі. — Дружа, як жа я рады цябе бачыць!
+- Ды я ўжо бачу. — Моршчачыся, адазваўся гаалец, аддзіраючы вас ад сябе. — Ды і супрацьядзьдзе, я бачу, падзейнічала. 
+- А, дарэчы, гаалец... ты ж мне як... як брат, во! Я ж для цябе траву знайшоў.
+- Вось гэта мяне ўжо радуе. — Заўважна павесялеў гаалец. — Давайце яе сюды.
+- Зараз. — Вы зачапіліся для ўстойлівасьці за сьцяну і пачалі рыцца ў кішэнях. — Так, гэта не тое... гэта таксама не тое... а гэта што тут робіць? Ах, вось жа яна!
+Вы працягнулі сім-траву гаальцу, і той адразу сабраўся ўцякаць кудысьці.
+- Стой! — Схапілі вы яго за рукаў. — А навошта мяне ўвогуле сюды паслалі? Заданьне ж я яшчэ не выканаў...
+- А... — Адмахнуўся рукой гаалец. — Была тут справа, ды ўжо мінула. 
+- А ўсё-ткі? — Не супакойваліся вы.
+- Так, нейкі Злы Геній прыстасаваў гэтую плянэту пад сваё рэзыдэнцыю. 
+- О, дык я яго зараз. — Вы адлюстравалі жэст, якім звычайна адчыняеце піўныя бутэлькі.
+- Ужо позна. Ён, відаць, даведаўся пра ваш прыезд і тэрмінова пераехаў на другі канец галяктыкі, а базу замінаваў і ўзарваў. А цяпер прашу мяне прабачыць, пайду лячыцца.
+- А... — Вы нават пасумнелі. — Тады давайце разьвітвацца.
+- Бывайце. — Суха сказаў гаалец. — Дарэчы, па дарозе не збочвайце ад пункту прызначэньня, бо гэтае супрацьядзьдзе не дае поўнага вылячэньня, і атрута зноў дасягне сьмяротнай канцэнтрацыі. Цалкам вылечыцца вы зможаце ў прафэсійна абсталяванай лячэбніцы. Я ня ведаю, колькі атрута будзе бязьдзейнічаць, ад месяца да некалькіх дзесяцігодзьдзяў, але вы ўсё адно не цягніце з супрацьядзьдзем.
+Вы нават працьверазелі ад гэтай навіны і, чарговым разам паціснуўшы гаальцу руку, кінуліся шукаць свой карабель..."
 "/quests/Sibolusovt.qmm/jumps/327/text"	"Поговорить с гаальцем"	"Quest Sibolusovt.qmm: jumps.327.text. Preserve every <tag> exactly. English reference: Talk with the gaal"	"Quest,Sibolusovt"	"Пагаварыць з гаальцам"
 "/quests/Sibolusovt.qmm/jumps/327/description"	"- О! - Бросились вы на шею гаальца, обильно орошая его слезами благодарности. - Дружище, как же я рад тебя видеть!
 - Да я уж вижу. - Морщась, отозвался гаалец, отдирая вас от себя. - Да и противоядие, я вижу, подействовало.
@@ -2554,7 +2568,18 @@ After tearing you off, he tried to start running off somewhere.
 ""Too late. He must have learned of your arrival and sped off to a different end of the galaxy, but the base was loaded with landmines. It's been destroyed. And now if you will please excuse me. I need to go be treated.""
 ""But..."" you said, feeling a bit depressed. ""Then let's say goodbye.""
 ""Goodbye,"" said the gaal dryly. ""By the way, don't deviate from your course to your destination. The antidote isn't a complete cure, so the poison will reach a lethal concentration again. You can get full treatment in a professional equipped clinic. I don't know how long the poison will be inactive - anywhere from a month to several decades - but you still shouldn't put off the antidote.""
-This news actually helped you sober up and, after shaking the gaal's hand again, you set off in search of your ship..."	"Quest,Sibolusovt"	""
+This news actually helped you sober up and, after shaking the gaal's hand again, you set off in search of your ship..."	"Quest,Sibolusovt"	"- О! — Кінуліся вы на шыю гаальца, шчодра арашаючы яго сьлязьмі падзякі. — Дружа, як жа я рады цябе бачыць!
+- Ды я ўжо бачу. — Моршчачыся, адазваўся гаалец, аддзіраючы вас ад сябе. — Ды і супрацьядзьдзе, я бачу, падзейнічала.
+Аддзёршы вас, ён адразу сабраўся кудысьці бегчы. 
+- Стой! — Схапілі вы яго за рукаў. — А навошта мяне ўвогуле сюды паслалі? Заданьне ж я яшчэ не выканаў...
+- А... — Адмахнуўся рукой гаалец. — Была тут справа, ды ўжо мінула. Хутчэй, а то я ўсё яшчэ сім-траву не знайшоў.
+- А ўсё-ткі? — Не супакойваліся вы.
+- Так, нейкі Злы Геній прыстасаваў гэтую плянэту пад сваё рэзыдэнцыю. 
+- О, дык я яго зараз. — Вы адлюстравалі жэст, якім звычайна адчыняеце піўныя бутэлькі.
+- Ужо позна. Ён, відаць, даведаўся пра ваш прыезд і тэрмінова пераехаў на другі канец галяктыкі, а базу замінаваў і ўзарваў. А цяпер прашу мяне прабачыць, пайду лячыцца.
+- А... — Вы нават пасумнелі. — Тады давайце разьвітвацца.
+- Бывайце. — Суха сказаў гаалец. — Дарэчы, па дарозе не збочвайце ад пункту прызначэньня, бо гэтае супрацьядзьдзе не дае поўнага вылячэньня, і атрута зноў дасягне сьмяротнай канцэнтрацыі. Цалкам вылечыцца вы зможаце ў прафэсійна абсталяванай лячэбніцы. Я ня ведаю, колькі атрута будзе бязьдзейнічаць, ад месяца да некалькіх дзесяцігодзьдзяў, але вы ўсё адно не цягніце з супрацьядзьдзем.
+Вы нават працьверазелі ад гэтай навіны і, чарговым разам паціснуўшы гаальцу руку, кінуліся шукаць свой карабель..."
 "/quests/Sibolusovt.qmm/jumps/328/text"	"Идти на юг"	"Quest Sibolusovt.qmm: jumps.328.text. Preserve every <tag> exactly. English reference: Go south"	"Quest,Sibolusovt"	"Ісьці на поўдзень"
 "/quests/Sibolusovt.qmm/jumps/329/text"	"Идти на юг"	"Quest Sibolusovt.qmm: jumps.329.text. Preserve every <tag> exactly. English reference: Go south"	"Quest,Sibolusovt"	"Ісьці на поўдзень"
 "/quests/Sibolusovt.qmm/jumps/330/text"	"Идти на юг"	"Quest Sibolusovt.qmm: jumps.330.text. Preserve every <tag> exactly. English reference: Go south"	"Quest,Sibolusovt"	"Ісьці на поўдзень"
