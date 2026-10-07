@@ -2874,7 +2874,7 @@ lemma.peasant	крестьянин	peasant	селянін		a villager	https://st
 lemma.gesture	жест	gesture	жэст/жэстаў/жэсту		G pl жэстаў; G sg жэсту	https://starnik.by/pravapis/26076
 lemma.thanks	благодарность	thanks	падзяка/падзякі		G падзякі	https://starnik.by/pravapis/50541
 lemma.foolishness	глупость	foolishness	глупства/глупстваў		G pl глупстваў	https://starnik.by/pravapis/20068
-lemma.tired	усталый	tired	стомлены		exhausted	https://starnik.by/pravapis/248743
+lemma.tired	усталый	tired	стомлены/стомлена		exhausted; adverb стомлена	https://starnik.by/pravapis/248743
 lemma.lisp	шепелявить	lisp	шапялявіць/прашапялявіў		past perfective прашапялявіў	https://starnik.by/pravapis/219993
 lemma.square	площадь	square	плошча/плошчу/плошчы		a city square; A плошчу, G/L плошчы	https://starnik.by/pravapis/57356
 lemma.bed	кровать	bed	ложак/ложка		G ложка	https://starnik.by/pravapis/39950
@@ -3169,7 +3169,7 @@ lemma.device	устройство	device	прылада/прылад		an impleme
 lemma.museum	музей	museum	музэй/Музэі	музей	hunspell э; Starnik музей, L музеі	https://starnik.by/pravapis/44485
 lemma.cloak	плащ	cloak	плашч		a light coat; A плашч	https://starnik.by/pravapis/57195
 lemma.otel	отель	hotel	гатэль/гатэля/гатэлю		this quest's отель; Starnik G гатэля, D гатэлю; hunspell lacks the genitive	https://starnik.by/pravapis/18493
-lemma.cruel	жестокий	cruel	жорсткі/жорстка		harsh, sense 3; adverb жорстка; not the gesture	https://starnik.by/pravapis/111089
+lemma.cruel	жестокий	cruel	жорсткі/жорстка/жорсткай		harsh, sense 3; adverb жорстка; feminine instrumental жорсткай	https://starnik.by/pravapis/111089
 lemma.attached	прицепленный	attached	прычэпленая		feminine past participle of прычапіць	https://starnik.by/pravapis/143470
 lemma.cowboy	ковбой	cowboy	каўбой/каўбойскі/каўбойскім/каўбойскай/каўбойскія		a mounted herdsman	https://starnik.by/pravapis/34657
 lemma.wrap	закутать	to wrap	ахутаць/ахутаную/ахуталася		to cover on all sides; Starnik gives захутаць as a synonym	https://starnik.by/pravapis/171009
@@ -3779,3 +3779,12 @@ lemma.handshake	пожать	to shake a hand	паціснуць		sense 1, to pre
 lemma.accord	мир	peace	мір/міру		absence of hostility, sense 1; G міру	https://starnik.by/pravapis/90205
 lemma.produce	плод	a fruit	плод/пладоў		the edible part of a plant, sense 1; G pl пладоў	https://starnik.by/pravapis/57320
 lemma.puzzled	недоуменно	puzzled	недаўменна		adverb; the noun недаўменне is puzzlement from not understanding	https://starnik.by/pravapis/47386
+lemma.foist	подсунуть	to foist	падсунуць/падсунула		colloquial, to slip someone something unsuitable, sense 3; feminine past падсунула	https://starnik.by/pravapis/195345
+lemma.vanquish	одолеть	to defeat	падолець/падолела		to win a fight, sense 1; feminine past падолела	https://starnik.by/pravapis/194891
+lemma.necessity	необходимость	necessity	неабходнасьць/неабходнасьцю		something unavoidable, sense 1; I неабходнасьцю; Starnik неабходнасцю; hunspell ь	https://starnik.by/pravapis/46801
+lemma.unwell	нехорошо	feeling unwell	кепска		impersonal, a bad physical state, sense 3	https://starnik.by/pravapis/225033
+lemma.sadly	печально	sadly	сумна		adverb of сумны	https://starnik.by/pravapis/232018
+lemma.pretend	прикидываться	to pretend	прыкідвацца		to pass oneself off as someone; the dictionary example is прыкідвацца авечкай	https://starnik.by/pravapis/206966
+lemma.jest	пошутить	to joke	пажартаваць		to say or do something as a joke, sense 1	https://starnik.by/pravapis/195821
+lemma.bound	ускакать	to bound off	паскакаць/паскакаў		to set off leaping, sense 1; the dictionary example is a hare bounding into the forest	https://starnik.by/pravapis/199633
+lemma.doff	снять	to take off	зьняць/зьняў		sense 2, to take off clothing; Starnik зняў; hunspell ь	https://starnik.by/pravapis/185203
