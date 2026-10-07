@@ -3576,7 +3576,7 @@ lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сь�
 lemma.optical_focus	фокус	optical focus	фокус/фокусе/Фокус		monocle sharpness, sense 2; the concentration lemma is separate	https://starnik.by/pravapis/80592
 lemma.signal	сигнал	a signal	сыгнал/сыгналу/Сыгнал		hunspell ы; Starnik writes сігнал	https://starnik.by/pravapis/68956
 lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага/пілоцкім/пілоцкай		Starnik пілоцкі; hunspell lacks it and suggests пілёцкім; feminine пілоцкай	https://starnik.by/pravapis/139588
-lemma.primate	примат	animal primate	Прымат/прымат/прымата		the island animal; genitive прымата; Starnik 60405 is primacy, a different sense	—
+lemma.primate	примат	animal primate	Прымат/прымат/прымата/прымату		the island animal; genitive прымата; dative прымату; Starnik 60405 is primacy, a different sense	—
 lemma.mushroom	гриб	a mushroom	грыб/грыбоў		genitive plural грыбоў	https://starnik.by/pravapis/20888
 lemma.berry	ягода	a berry	ягада/ягад		genitive plural ягад	https://starnik.by/pravapis/88172
 lemma.foliage	листья	leaves	лісьце/лісток/лістка/лістоў		collective лісьце, Starnik лісце; diminutive лісток, genitive лістка; countable genitive plural лістоў	https://starnik.by/pravapis/39713
@@ -4035,7 +4035,7 @@ lemma.ahead	опередить	to get there first	апярэдзіць/апяр�
 lemma.run_up	подбежать	to run up	падбегчы/падбег		to run up close; past masculine падбег	https://starnik.by/pravapis/193966
 lemma.snap	цапнуть	to snap at	цапнуць/цапнуў		one grab, semelfactive of цапаць; past masculine цапнуў	https://starnik.by/pravapis/219380
 lemma.fight_on	биться	to keep fighting	біцца/Біцца		to fight, sense 2	https://starnik.by/pravapis/171626
-lemma.ready_up	приготовиться	to get ready	прыгатавацца/Прыгатавацца		to become ready for something	https://starnik.by/pravapis/206721
+lemma.ready_up	приготовиться	to get ready	прыгатавацца/Прыгатавацца/прыгатаваліся		to become ready for something; past plural прыгатаваліся	https://starnik.by/pravapis/206721
 lemma.unarmed	рукопашный	hand-to-hand	рукапашны/рукапашнай		done with cold arms or none, sense 1; genitive feminine рукапашнай	https://starnik.by/pravapis/146751
 lemma.scuffle	схватка	a fight	схватка/схваткі		a clash in combat, sense 1; genitive схваткі	https://starnik.by/pravapis/73817
 lemma.hoop	кольцо	a hoop	кальцо		a metal hoop, sense 1; the finger ring stays пярсьцёнак	https://starnik.by/pravapis/32294
@@ -4094,3 +4094,10 @@ lemma.get_up	вставать	to get up	уставаць/устаём/ўстаё
 lemma.lie_awhile	полежать	to lie a while	паляжаць/паляжым		to lie for some time; 1pl future паляжым	https://starnik.by/pravapis/197144
 lemma.enough	хватит	enough	хопіць/Хопіць		predicative, that's enough; not the verb хапіць	https://starnik.by/pravapis/251573
 lemma.still	еще	still	яшчэ/Яшчэ		some more, or again, sense 1	https://starnik.by/pravapis/250940
+lemma.shoot_dead	пристрелить	to shoot dead	прыстрэліць/Прыстрэліць		to kill with a shot	https://starnik.by/pravapis/207917
+lemma.take_aim	прицелиться	to take aim	прыцэліцца/прыцэліліся		to point a weapon at a target, sense 1; past plural прыцэліліся	https://starnik.by/pravapis/208300
+lemma.press_on	нажать	to press	націснуць		to press on something, sense 1	https://starnik.by/pravapis/191352
+lemma.finger_hook	спуск	a trigger	спуск		the finger hook of a firearm, sense 3; genitive спуска	https://starnik.by/pravapis/71654
+lemma.put_away	убрать	to put away	прыбраць/Прыбраць		to take something away from where it was, sense 3	https://starnik.by/pravapis/206548
+lemma.weapon	оружие	a weapon	зброя/зброю		a thing for attack or defense, sense 1; accusative зброю	https://starnik.by/pravapis/28366
+lemma.ones_own	свой	one's own	свой/сваім		instrumental masculine сваім	https://starnik.by/pravapis/234010
