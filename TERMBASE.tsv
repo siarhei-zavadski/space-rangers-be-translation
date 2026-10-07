@@ -3558,7 +3558,7 @@ lemma.jar	баночка	a small jar	слоік		a small glass vessel; the acid 
 lemma.shiver	дрожь	a shiver	дрыжыкі/дрыжыкаў		plural only; a tremor of the body	https://starnik.by/pravapis/23569
 lemma.crystal_ring	хрустальный	of cut glass	хрустальны		sense 2, a clear ringing sound; the example is хрустальны звон	https://starnik.by/pravapis/159620
 lemma.pushka	пушка	a gun	пушка/пушку/пушцы		a cannon with a flat trajectory, sense 1; the handheld gadget; орудие is гармата	https://starnik.by/pravapis/61849
-lemma.lifeless	бездыханный	lifeless	бяздыханную/бяздыханны/бяздыханныя/бяздыханных		not breathing; accusative feminine бяздыханную; masculine бяздыханны; hunspell suggestions are other words	https://starnik.by/pravapis/100705
+lemma.lifeless	бездыханный	lifeless	бяздыханную/бяздыханны/бяздыханныя/бяздыханных/бяздыханнае		not breathing; accusative feminine бяздыханную; masculine бяздыханны; neuter бяздыханнае; hunspell suggestions are other words	https://starnik.by/pravapis/100705
 lemma.whirlpool	омут	a whirl	вір/вірах		a deep whirl in a river, sense 1; locative plural вірах	https://starnik.by/pravapis/14738
 lemma.reed	камыш	reeds	чарот		a tall sedge in river water, sense 1; трыснёг is also a reed	https://starnik.by/pravapis/83990
 lemma.notskats	Йа-Ноцкац	Aye-Notskats	Я-Ноцкац/Ноцкац		coined river in the documentary cut; English Aye-Notskats	—
@@ -4450,3 +4450,23 @@ lemma.greasy	засалиться	to get greasy	засаліцца/засалі�
 lemma.dirtiest	грязнейший	dirtiest	найбруднейшы/найбруднейшай		hunspell suggests other words; I f найбруднейшай	https://starnik.by/pravapis/126214
 lemma.perk_up	оживиться	to perk up	ажывіцца/ажывіўся		sense 2, to brighten; not апрытомнець	https://starnik.by/pravapis/169276
 lemma.technostyle	техно-стиль	techno-style	тэхнастыль/тэхнастылі		coined style name; hunspell suggests тэкстыльны, another word	—
+lemma.fluid_ram	гідраўлічны	hydraulic	гідраўлічны/гідраўлічная		of hydraulics; feminine гідраўлічная	https://starnik.by/pravapis/19473
+lemma.mechanism_n	механизм	a mechanism	мэханізм/мэханізмы		Starnik механізм; hunspell writes э	https://starnik.by/pravapis/43213
+lemma.lampstand	светильник	a lamp	сьвяцільнік/сьвяцільнікі		Starnik свяцільнік; hunspell inserts ь	https://starnik.by/pravapis/68336
+lemma.steel_adj	стальной	of steel	сталёвы		the same as стальны; hunspell сталёвы	https://starnik.by/pravapis/151659
+lemma.waymark	стрелка	a pointer	стрэлка/стрэлкі		a direction mark, sense 2; not the weapon страла	https://starnik.by/pravapis/72457
+lemma.scorch_hole	прожечь	to burn through	прапаліць/прапалены		to burn a hole through, sense 1; participle прапалены	https://starnik.by/pravapis/205349
+lemma.trash_bin	мусорка	a trash bin	сьметніца/сьметніцы		Starnik сметніца; hunspell inserts ь	https://starnik.by/pravapis/70506
+lemma.mirrorlike	зеркальный	mirror-like	люстраны/люстранага		a surface like a mirror; G m люстранага	https://starnik.by/pravapis/122014
+lemma.colossus	махина	a hulk	махіна/махіну		something huge and bulky; A махіну	https://starnik.by/pravapis/42345
+lemma.gadget_n	гаджет	a gadget	гаджэт/гаджэты		hunspell suggestions are other words	https://starnik.by/pravapis/17255
+lemma.sneak_up	подкрасться	to sneak up	падкрасьціся/падкраліся		Starnik падкрасціся; hunspell inserts ь; past падкраліся	https://starnik.by/pravapis/194550
+lemma.covert_act	диверсия	sabotage	дывэрсія/дывэрсію		Starnik дыверсія; hunspell writes э; A дывэрсію	https://starnik.by/pravapis/23939
+lemma.equilibrium	равновесие	balance	раўнавага/раўнавагу		physical balance, sense 2; A раўнавагу	https://starnik.by/pravapis/64524
+lemma.bottomless	бездонный	bottomless	бяздонны/бяздонную		immeasurably deep; A f бяздонную	https://starnik.by/pravapis/100699
+lemma.neck_n	шея	a neck	шыя/шыю		the neck; A шыю	https://starnik.by/pravapis/86295
+lemma.betrayal_n	предательство	betrayal	здрада/здрады		treachery, sense 1; G здрады	https://starnik.by/pravapis/28929
+lemma.shaft_n	шахта	a shaft	шахта/шахту		a vertical cavity in a structure, sense 2; A шахту	https://starnik.by/pravapis/84964
+lemma.exhausted_adj	изнуренный	exhausted	зьняможаны		Starnik зняможаны; hunspell inserts ь	https://starnik.by/pravapis/114903
+lemma.unattractive	неказистый	plain-looking	непрывабны/непрывабную		lacking appeal; A f непрывабную	https://starnik.by/pravapis/130104
+lemma.gravpress	грависжимающий	gravity-pressing	гравісьціскальны/гравісьціскальнай		coined bin that compresses trash; G f гравісьціскальнай	—
