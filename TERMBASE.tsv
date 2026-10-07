@@ -1547,7 +1547,7 @@ lemma.faeyan_iee	Иээ	Hey	Іээ		faeyan barker's shout	STQ_Headhunter.qmm
 lemma.gyy	Гыы	Gee	Гыы		maloc guard's grunt	STQ_Headhunter.qmm
 lemma.pasiba	пасиба	thanks	пасіба		maloc guard's thanks	STQ_Headhunter.qmm
 lemma.eis_smirnov	Эйс Смирнов	Ace Smirnov	Эйс/Смирнов		tester credit; keep the source spelling	STQ_Headhunter.qmm
-lemma.machete	мачете	machete	мачэтэ		loan blade; Starnik has no entry	Stealth.qmm
+lemma.machete	мачете	machete	мачэтэ/Мачэтэ		loan blade; Starnik has no entry; capital Мачэтэ	Stealth.qmm
 lemma.megavision	Мегавижн	Megavision	Мэгавіжн		coined glasses brand	Stealth.qmm
 lemma.zelabne	Зелабне	Zelabne	Зелабне		star name	Stealth.qmm
 lemma.penella	Пенелла	Penella	Пенелла		planet name	Stealth.qmm
@@ -3568,3 +3568,4 @@ lemma.crambule	крямбуль	a six-legged beast	крамбуль/крамбу
 lemma.fluctuation	флюктуально	by fluctuation	флюктуацыйна		adverb of флюктуацыя; hunspell lists only the noun	https://starnik.by/pravapis/80573
 lemma.lyaceskish	Ляцескиш	Lyatseskish	Ляцэскіш		coined bank on the fireproof cheque; hunspell suggests the different word Ляскаціш	—
 lemma.vizdrop	виздропсядзждные	nonsense gate	віздропсядзждныя		coined technobabble in the dimension gates; the syllable string stays	—
+lemma.beastfae	зверофэй	beast fae	Зьверафэй		coined island primate; зьвер plus фэй; hunspell suggests the different word зьверафэрма	—
