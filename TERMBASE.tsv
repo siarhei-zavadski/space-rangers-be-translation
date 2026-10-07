@@ -4421,7 +4421,7 @@ lemma.unshaven	небритый	unshaven	непаголены		a face that has n
 lemma.proportion	пропорция	a proportion	прапорцыя/прапорцыях		L pl прапорцыях	https://starnik.by/pravapis/59088
 lemma.cocktail_mix	коктейль	a cocktail	кактэйль/кактэйлю		G кактэйлю	https://starnik.by/pravapis/31926
 lemma.cohort	поколение	a generation	пакаленьне/пакаленьня	пакалення	Starnik пакаленне; hunspell inserts ь; G пакаленьня	https://starnik.by/pravapis/51614
-lemma.century	век	a century	стагодзьдзе/стагодзьдзі	стагоддзе/стагоддзі	Starnik стагоддзе; hunspell inserts ь; L стагодзьдзі	https://starnik.by/pravapis/71745
+lemma.century	век	a century	стагодзьдзе/стагодзьдзі/стагодзьдзяў	стагоддзе/стагоддзі	Starnik стагоддзе; hunspell inserts ь; L стагодзьдзі	https://starnik.by/pravapis/71745
 lemma.guest_n	гость	a guest	госьць/госьці	госць/госці	Starnik госць; hunspell inserts ь; N pl госьці	https://starnik.by/pravapis/20428
 lemma.stemwood	стволовой	of a trunk	ствалавы/ствалавога	стваловы	the tree's trunk, sense 1; G m ствалавога	https://starnik.by/pravapis/72105
 lemma.treat_n	угощение	a treat	пачастунак/пачастунку		food and drink offered to a guest; G пачастунку	https://starnik.by/pravapis/54516
@@ -4494,3 +4494,6 @@ lemma.pirashka	пирашка	a little biter	пірашка/пірашкі/пі�
 lemma.tuft	клок	a tuft	жмут		a small bundle of grass or algae	https://starnik.by/pravapis/25749
 lemma.aafriika	Аафриика	Aafriika	Аафрыіка		coined gaal planet; not in Starnik	—
 lemma.eeey	Эээй	a yell	Эээй		the sunbather's shout; hunspell's Энэй is another name	—
+lemma.star_group	созвездие	a constellation	сузор'е/сузор'яў		a named group of stars; G pl сузор'яў	https://starnik.by/pravapis/73043
+lemma.fish_fin	плавник	a fin	плаўнік/плаўніком		a fish's limb; I плаўніком	https://starnik.by/pravapis/57156
+lemma.wheeze	хрип	a wheeze	хрып		a hoarse sound of hard breathing, sense 1	https://starnik.by/pravapis/82377
