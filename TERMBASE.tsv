@@ -4354,7 +4354,7 @@ lemma.component	компонент	a component	кампанэнт/кампанэ
 lemma.navalship	крейсер	a cruiser	крэйсэр/крэйсэра		Starnik крэйсер; hunspell крэйсэр; G крэйсэра	https://starnik.by/pravapis/37450
 lemma.trashhaul	мусоровоз	a garbage truck	сьмецьцявоз		Starnik смеццявоз; hunspell inserts ь	https://starnik.by/pravapis/70522
 lemma.fork	вилка	a fork	відэлец/відэльца/Відэлец	вілка	a table fork, masculine; G відэльца; not the plug вілка	https://starnik.by/pravapis/14493
-lemma.noble_gas	неон	neon	нэон/нэонавых		Starnik неон; hunspell нэон; G pl adj нэонавых	https://starnik.by/pravapis/47816
+lemma.noble_gas	неон	neon	нэон/нэонавых/нэонавай		Starnik неон; hunspell нэон; G pl adj нэонавых; fem I нэонавай	https://starnik.by/pravapis/47816
 lemma.darkglass	тонированный	tinted	таніраваны/таніраванага		window film, past participle; G m таніраванага; hunspell suggestions are other words	https://starnik.by/pravapis/153963
 lemma.hulk	верзила	a hulk	здаравіла/здаравіл		a hulking person; the noun is feminine; G pl здаравіл	https://starnik.by/pravapis/28841
 lemma.autotaster	автодегустатор	an automatic taster	аўтадэгустатар/аўтадэгустатара		a machine that tastes a drink; coined compound; G аўтадэгустатара	—
@@ -4391,3 +4391,7 @@ lemma.kdpjoke	КДП	the show's rate	КДП		the faeyan show's frozen acronym	�
 lemma.ssrbloc	ССР	free Rahish	ССР		the history show's frozen acronym	—
 lemma.poknose	сунуть	to stick	сунуць/сунь		imperative сунь; don't stick your nose in	https://starnik.by/pravapis/214687
 lemma.fayjoule	ФэйДжоуль	FayJoule	ФэйДжоуль		the teleporter brand; hunspell's Фэйдар is another name	—
+lemma.iceblaster	криобластер	a cryoblaster	крыяблястэр/крыяблястэрам		a blaster that freezes; I крыяблястэрам	—
+lemma.sterek	стерек	the stereo	Стэрэк		Katsap's short name for the stereovisor	—
+lemma.jailbar	тюремок	a little prison	ТУРЭМАК		the bar's name, a diminutive of турма; not турэмшчык	https://starnik.by/pravapis/76545
+lemma.umm	Эмм	a hesitation	Эмм		the ranger's hesitation	—
