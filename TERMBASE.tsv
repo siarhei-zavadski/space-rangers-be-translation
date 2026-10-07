@@ -1249,7 +1249,7 @@ lemma.porter	портье	hotel porter	парцье/Парцье	порцье	in
 lemma.nolo	Нолоо	Noloo	Нолоо/нолоо		city and its currency	Deadoralive.qmm
 lemma.roktornak	Рокторнак	Roktornak	Рокторнак/Рокторнака/Рокторнаку/Рокторнакам		malok agent on trial	Deadoralive.qmm
 lemma.shiza	Шиза Голд	Shiza Gold	Шыза/Голд	Шиза	credit-card brand	Deadoralive.qmm
-lemma.barman	бармен	bartender	бармэн/бармэнам	бармен	hunspell wins	https://starnik.by/pravapis/9250
+lemma.barman	бармен	bartender	бармэн/бармэнам/бармэна	бармен	hunspell wins; G бармэна	https://starnik.by/pravapis/9250
 lemma.cup	чашка	cup	філіжанка/філіжанку/філіжанкі		hunspell suggests філіпінка	https://starnik.by/pravapis/80176
 lemma.hardcore	хардкор	hardcore	хардкор/хардкора		hunspell suggests харкота; G хардкора is a hunspell gap, Starnik genitive	https://starnik.by/pravapis/81568
 lemma.tesseract	Тессерактовый	Tesseract	Тэссэрактавы		bar name, coined	Deadoralive.qmm
@@ -3080,7 +3080,7 @@ lemma.maul	искусать	maul	пакусаў		bit in many places; past m па
 lemma.eat	съесть	eat	зьеў/зьесьці	з'еў	hunspell spelling; Starnik writes the apostrophe; past m зьеў; infinitive зьесьці	https://starnik.by/pravapis/178611
 lemma.both	оба	both	абодвух		animate accusative of абодва	https://starnik.by/pravapis/220776
 lemma.row	строка	text line	радок/Радок		a line of text, sense 2	https://starnik.by/pravapis/62458
-lemma.wait	ожидание	waiting	чаканьне/Чаканьне		tarask -ньне; Starnik headword чаканне	https://starnik.by/pravapis/83775
+lemma.wait	ожидание	waiting	чаканьне/Чаканьне/чаканьня		tarask -ньне; Starnik headword чаканне; G чаканьня	https://starnik.by/pravapis/83775
 lemma.kritautas	Критаутас	Kritautas	Крытаўтас		coined star; hunspell lacks it	—
 lemma.minotaurus	Минотаурус	Minotaurus	Мінатаўрус		coined planet; not the shortened Мінатаўр	—
 lemma.zapolosh	Заполошная	Zapoloshnaya	Запалошная		coined planet; hunspell wants a different word	—
@@ -3363,7 +3363,7 @@ lemma.latch	ручка	a door handle	клямка/клямку		sense 1, the fit
 lemma.angel	anгел	an angel	anёл/анёлаў		a messenger with wings, sense 1; G pl анёлаў	https://starnik.by/pravapis/4766
 lemma.devil	бес	a devil	чорт/чортаў/чортавага		the folk devil paired with an angel; G pl чортаў; damned adjective, G чортавага	https://starnik.by/pravapis/84240
 lemma.statue	статуя	a statue	статуя/статуі		a sculpted figure; G статуі	https://starnik.by/pravapis/72049
-lemma.closet	кладовка	a closet	кладоўка/кладоўку		a small storeroom; A кладоўку	https://starnik.by/pravapis/35814
+lemma.closet	кладовка	a closet	кладоўка/кладоўку/кладоўкі		a small storeroom; A кладоўку; G кладоўкі	https://starnik.by/pravapis/35814
 lemma.curtain	занавеска	a curtain	занавеска/занавескі		a cloth hung over a window; pl занавескі	https://starnik.by/pravapis/27284
 lemma.chasm	провал	a dark opening	прорва/прорву		a dark drop, sense of a depth; A прорву	https://starnik.by/pravapis/59767
 lemma.belated	запоздало	belatedly	запозна		too late, colloquial	https://starnik.by/pravapis/224165
@@ -4333,6 +4333,15 @@ lemma.wicklet	фитилек	a little wick	кноцік		diminutive of кнот;
 lemma.thrower	метатель	a thrower	кідальнік/кідальнікам		an athlete who throws; I кідальнікам	https://starnik.by/pravapis/35287
 lemma.smallstreet	улочка	a small street	вулачка/вулачкам		a little narrow street; D pl вулачкам	https://starnik.by/pravapis/15417
 lemma.porcelain	фарфор	porcelain	фарфоравы/фарфоравага/фарфоравыя	фарфорныя	Starnik adjective фарфорны; hunspell фарфоравы; Complex already uses фарфоравага	https://starnik.by/pravapis/158062
-lemma.armoire	шкаф	a cupboard	шафа/шафу	шкаф	a tall cupboard with doors, sense 1; A шафу	https://starnik.by/pravapis/84933
+lemma.armoire	шкаф	a cupboard	шафа/шафу/шафы/шафе/шафай	шкаф	a tall cupboard with doors, sense 1; A шафу; G шафы; D/L шафе; I шафай	https://starnik.by/pravapis/84933
 lemma.devastator	девастатор	a devastator	дэвастатар/дэвастатарам		handheld weapon that sprays the target into particles; hunspell suggestions are other words	—
 lemma.multiplast	мультипластик	multiplastic	мультыплястык/мультыплястыку		coined self-heating boot plastic; hunspell suggestions are other words	—
+lemma.binge	пьянка	a drinking bout	п'янка		a party where people drink a lot, sense 1	https://starnik.by/pravapis/49720
+lemma.hint	намек	a hint	намёк/намёку		an indirect indication, sense 1; G намёку	https://starnik.by/pravapis/45815
+lemma.mystery	секрет	a secret	сакрэт		something kept unknown, sense 1	https://starnik.by/pravapis/66612
+lemma.neighbour	сосед	a neighbor	сусед/суседа		a person who lives next door, sense 1; A animate суседа	https://starnik.by/pravapis/73574
+lemma.magnetic	магнитный	magnetic	магнітны/магнітная	магнэтны	Starnik and hunspell магнітны; магнэтны failed	https://starnik.by/pravapis/122257
+lemma.rob_verb	грабить	to rob	грабіць/грабілі		to take goods by force; past pl грабілі	https://starnik.by/pravapis/175845
+lemma.bargain	торг	a bargaining	торг		haggling over a price, sense 1; stressed о stays; hunspell rejects akanie тарг	https://starnik.by/pravapis/75293
+lemma.ship_hull	корабль	a ship	карабель		a large vessel; not the basket кораб	https://starnik.by/pravapis/33658
+lemma.mini_porter	телепортер	a teleporter	тэлепартэр		a floor teleporter; RobotsMap already; hunspell suggestions are other words	—
