@@ -2529,7 +2529,7 @@ lemma.ammonia	аммиак	ammonia	аміяк/аміяку/аміякам		a pun
 lemma.hose	шланг	hose	шлянга/шлянгі/шлянгам		a flexible tube; Starnik шланг, hunspell шлянга	https://starnik.by/pravapis/85213
 lemma.rack	стеллаж	rack	стэляж/стэляжа		a stack of shelves; Starnik стэлаж, hunspell стэляж	https://starnik.by/pravapis/72631
 lemma.air_duct	воздуховод	air duct	паветраправод/паветраправода		a duct that carries air; G паветраправода	https://starnik.by/pravapis/49898
-lemma.fang	клык	fang	ікол/ікла/іклы/Ікол		a large tooth; the Violet Fang system uses Ікол	https://starnik.by/pravapis/30300
+lemma.fang	клык	fang	ікол/ікла/іклы/Ікол/іклоў		a large tooth; the Violet Fang system uses Ікол	https://starnik.by/pravapis/30300
 lemma.violet_fang	Фиолетовый Клык	Violet Fang	Фіялетавы Ікол		the analyzer system that feeds the portable radar	Edelweiss.qmm
 lemma.wade	брести	trudge	брысьці/брыдзяце		to walk slowly and with effort; 2 pl брыдзяце; Starnik брысці	https://starnik.by/pravapis/171856
 lemma.ringed	кольчатый	ringed	кальцавы/кальцавога/кальцавых		ring-shaped, of the creeper; G sg m кальцавога	https://starnik.by/pravapis/116774
@@ -3558,7 +3558,7 @@ lemma.jar	баночка	a small jar	слоік		a small glass vessel; the acid 
 lemma.shiver	дрожь	a shiver	дрыжыкі/дрыжыкаў		plural only; a tremor of the body	https://starnik.by/pravapis/23569
 lemma.crystal_ring	хрустальный	of cut glass	хрустальны		sense 2, a clear ringing sound; the example is хрустальны звон	https://starnik.by/pravapis/159620
 lemma.pushka	пушка	a gun	пушка/пушку/пушцы		a cannon with a flat trajectory, sense 1; the handheld gadget; орудие is гармата	https://starnik.by/pravapis/61849
-lemma.lifeless	бездыханный	lifeless	бяздыханную/бяздыханны/бяздыханныя		not breathing; accusative feminine бяздыханную; masculine бяздыханны; hunspell suggestions are other words	https://starnik.by/pravapis/100705
+lemma.lifeless	бездыханный	lifeless	бяздыханную/бяздыханны/бяздыханныя/бяздыханных		not breathing; accusative feminine бяздыханную; masculine бяздыханны; hunspell suggestions are other words	https://starnik.by/pravapis/100705
 lemma.whirlpool	омут	a whirl	вір/вірах		a deep whirl in a river, sense 1; locative plural вірах	https://starnik.by/pravapis/14738
 lemma.reed	камыш	reeds	чарот		a tall sedge in river water, sense 1; трыснёг is also a reed	https://starnik.by/pravapis/83990
 lemma.notskats	Йа-Ноцкац	Aye-Notskats	Я-Ноцкац/Ноцкац		coined river in the documentary cut; English Aye-Notskats	—
@@ -4246,7 +4246,7 @@ lemma.courage	мужество	courage	мужнасьць		bravery joined with r
 lemma.danger	опасность	danger	небясьпека/небясьпеку		a state that can cause harm; A небясьпеку; Starnik небяспека; hunspell inserts ь; Diver already has the capital Starnik form	https://starnik.by/pravapis/47055
 lemma.reinit	реинициализация	a reinitialization	рэініцыялізацыя/Рэініцыялізацыя		a computer starting its setup again; hunspell suggestions are other words	—
 lemma.shukher	Шухер	Shukher	Шухер		the shocker's name, a slang shout; hunspell Шахер and Шулер are other words	—
-lemma.posryts	Посрыц	Posryts	Пасрыц/Пасрыцам		the elder's vulgar short name; hunspell Патрыц is another word	—
+lemma.posryts	Посрыц	Posryts	Пасрыц/Пасрыцам/Пасрыца		the elder's vulgar short name; hunspell Патрыц is another word	—
 lemma.az_esmi	аз есмь	I am	Аз/есьмь		the Church-Slavonic joke аз есмь; do not modernize it away	—
 lemma.vasche	ваще	slang anyhow	вабшчэ		the thief-slang distortion of вообще; do not correct it to наагул	—
 lemma.song_bam	бам	a song bam	бам/ба		nonsense syllables in the road song; hunspell suggestions for бам and ба are other words	—
@@ -4298,3 +4298,6 @@ lemma.sear_lock	предохранитель	a safety catch	засьцерага
 lemma.nepis	непись	an NPC	непісь		gamer shorthand for a non-player character; hunspell suggests непісьменны, a different word	—
 lemma.respawn	респаун	respawn	рэспаўн/Рэспаўн	рэспандэнт	gamer respawn; hunspell suggests рэспандэнт, a different word	—
 lemma.khrebet	хребет	a mountain ridge	хрыбет/хрыбта		sense 4, a chain of mountains; G хрыбта	https://starnik.by/pravapis/82359
+lemma.fetch	скачать	to download	спампаваць/спампую		future спампую; hunspell suggestions are pump verbs, other words	https://starnik.by/pravapis/213632
+lemma.debugger	дебаггер	a debugger	дэбагер/Дэбагерам/дэбагерам		gamer loan; hunspell suggestions are other words; sentence-initial Дэбагерам	—
+lemma.warez	кряк	a game crack	крэк		gamer loan for a pirated crack; hunspell suggestions are other words	—

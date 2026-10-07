@@ -2063,28 +2063,39 @@
 "/quests/Testing.qmm/jumps/444/description"	"Пенчекряк упал на землю, корчась в судорогах, и вы добили его точным ударом. Затем вы методично, один за другим, выдрали у него все зубы. Вы с детства боялись стоматологов, но уважали и изучали их методы, чтобы впоследствии отомстить.
 Кстати, буказоидов у вас заметно прибавилось."	"Quest Testing.qmm: jumps.444.description. Preserve every <tag> exactly."	"Quest,Testing"	"Пэнчэкряк упаў на зямлю і курчыўся ў сутаргах, а вы дабілі яго дакладным ударам. Затым вы мэтадычна, адзін за адным, выдралі ў яго ўсе зубы. Вы зь дзяцінства баяліся стаматолягаў, але шанавалі і вывучалі іхнія мэтады, каб пасьля адпомсьціць.
 Дарэчы, буказоідаў у вас стала прыкметна больш."
-"/quests/Testing.qmm/jumps/445/text"	"Достал я тебе гаму, радуйся"	"Quest Testing.qmm: jumps.445.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/445/text"	"Достал я тебе гаму, радуйся"	"Quest Testing.qmm: jumps.445.text. Preserve every <tag> exactly."	"Quest,Testing"	"Дастаў я табе гаму, радуйся"
 "/quests/Testing.qmm/jumps/445/description"	"- Рулез!!! - заорал Думер, с дикими глазами хватая вожделенную коробку. - ""Мастер Иикэ-Бааны: Зловещий Повелитель Теней Мрака""!
 - Всегда пожалуйста, - ответили вы.
 - Блин, да мы терь друзья по гроб жизни, - восторгался Думер. - Читов не знаешь случайно?
 - Нет, прости, это уж сам как-нибудь.
 - Ладно, кряк скачаю.
-Теперь он наверняка будет за то, чтобы вас посвятили в рейнджеры... во второй раз."	"Quest Testing.qmm: jumps.445.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/446/text"	"Вот тебе пенчекрячьи зубы, я чуть свои не потерял, добывая их"	"Quest Testing.qmm: jumps.446.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Теперь он наверняка будет за то, чтобы вас посвятили в рейнджеры... во второй раз."	"Quest Testing.qmm: jumps.445.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Рулез!!! — закрычаў Думер, з дзікімі вачыма хапаючы жаданую скрынку. — ""Майстар Ііке-Бааны: Злавесны Ўладар Ценяў Змроку""!
+- Заўсёды калі ласка, — адказалі вы.
+- Блін, ды мы цяпер сябры да самай труны, — захапляўся Думер. — Чытаў не ведаеш выпадкова?
+- Не, прабач, гэта ўжо сам неяк.
+- Добра, крэк спампую.
+Цяпер ён напэўна будзе за тое, каб вас пасьвяцілі ў рэйнджэры... ў другі раз."
+"/quests/Testing.qmm/jumps/446/text"	"Вот тебе пенчекрячьи зубы, я чуть свои не потерял, добывая их"	"Quest Testing.qmm: jumps.446.text. Preserve every <tag> exactly."	"Quest,Testing"	"Вось табе зубы пэнчэкряка, я ледзь свае не згубіў, здабываючы іх"
 "/quests/Testing.qmm/jumps/446/description"	"- Смотри, что у меня есть, - похвастались вы, демонстрируя полный набор пенчекрячьих клыков.
 - Не может быть, - охнул Лезок, - дай сюда!!!
-Малок подставил руки, и вы ссыпали ему все свое богатство. Он со счастливым видом принялся сверлить в них дырки и нанизывать на ниточку. Один лишний голос в вашу пользу обеспечен!"	"Quest Testing.qmm: jumps.446.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/447/text"	"Я собрал сумму!"	"Quest Testing.qmm: jumps.447.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/448/text"	"Все кончено, Посрыца больше нет"	"Quest Testing.qmm: jumps.448.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Малок подставил руки, и вы ссыпали ему все свое богатство. Он со счастливым видом принялся сверлить в них дырки и нанизывать на ниточку. Один лишний голос в вашу пользу обеспечен!"	"Quest Testing.qmm: jumps.446.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Глядзі, што ў мяне ёсьць, — пахваліліся вы, паказваючы поўны набор іклоў пэнчэкряка.
+- Ня можа быць, — ахнуў Лязок, — дай сюды!!!
+Малок падставіў рукі, і вы высыпалі яму ўсё сваё багацьце. Ён са шчасьлівым выглядам пачаў сьвідраваць у іх дзіркі і нанізваць на нітачку. Адзін лішні голас на вашу карысьць забясьпечаны!"
+"/quests/Testing.qmm/jumps/447/text"	"Я собрал сумму!"	"Quest Testing.qmm: jumps.447.text. Preserve every <tag> exactly."	"Quest,Testing"	"Я сабраў суму!"
+"/quests/Testing.qmm/jumps/448/text"	"Все кончено, Посрыца больше нет"	"Quest Testing.qmm: jumps.448.text. Preserve every <tag> exactly."	"Quest,Testing"	"Усё скончана, Пасрыца больш няма"
 "/quests/Testing.qmm/jumps/448/description"	"- Да ну? - воскликнул Бен. - Быть не может! Как тебе удалось?
 - Дебаггером сгубил, - мрачно пошутили вы.
-- Ну, спасибо, вот тебе {700*(1-([p4]*0,05+[p3])*0,02)} бкз за это."	"Quest Testing.qmm: jumps.448.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/450/text"	"Зубки притуплены, сэр!"	"Quest Testing.qmm: jumps.450.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+- Ну, спасибо, вот тебе {700*(1-([p4]*0,05+[p3])*0,02)} бкз за это."	"Quest Testing.qmm: jumps.448.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Ды ну? — ўсклікнуў Бэн. — Быць ня можа! Як табе ўдалося?
+- Дэбагерам загубіў, — змрочна пажартавалі вы.
+- Ну, дзякуй, вось табе {700*(1-([p4]*0,05+[p3])*0,02)} бкз за гэта."
+"/quests/Testing.qmm/jumps/450/text"	"Зубки притуплены, сэр!"	"Quest Testing.qmm: jumps.450.text. Preserve every <tag> exactly."	"Quest,Testing"	"Зубкі прытупленыя, сэр!"
 "/quests/Testing.qmm/jumps/450/description"	"- Ну и молодец, - лениво отозвался старик.
 - А как же заплатить? - недоумевали вы.
-- А на его телесах бездыханных ты разве денег вовсе не нашел? - грозно спросил Добрис."	"Quest Testing.qmm: jumps.450.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/452/text"	"Положить на чашу гранату"	"Quest Testing.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/452/description"	"Вы достали из бездонных глубин своих карманов гранату и осторожно положили на чашу. Никакого эффекта, хотя вы ждали довольно долго и уже были готовы выдернуть чеку от тоски. Возможно, граната была недостаточно тяжелой."	"Quest Testing.qmm: jumps.452.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+- А на его телесах бездыханных ты разве денег вовсе не нашел? - грозно спросил Добрис."	"Quest Testing.qmm: jumps.450.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Ну і малайчына, — млява адазваўся старац.
+- А як жа заплаціць? — зьдзіўляліся вы.
+- А на ягоных бяздыханных целах ты хіба грошай зусім не знайшоў? — грозна спытаў Добрыс."
+"/quests/Testing.qmm/jumps/452/text"	"Положить на чашу гранату"	"Quest Testing.qmm: jumps.452.text. Preserve every <tag> exactly."	"Quest,Testing"	"Пакласьці на чару гранату"
+"/quests/Testing.qmm/jumps/452/description"	"Вы достали из бездонных глубин своих карманов гранату и осторожно положили на чашу. Никакого эффекта, хотя вы ждали довольно долго и уже были готовы выдернуть чеку от тоски. Возможно, граната была недостаточно тяжелой."	"Quest Testing.qmm: jumps.452.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы дасталі з бяздонных глыбіняў сваіх кішэняў гранату і асьцярожна паклалі на чару. Ніякага эфэкту, хоць вы чакалі даволі доўга і ўжо былі гатовыя выцягнуць чэку ад нуды. Магчыма, граната была недастаткова цяжкая."
 "/quests/Testing.qmm/jumps/462/text"	"Подойти к гаальцу"	"Quest Testing.qmm: jumps.462.text. Preserve every <tag> exactly."	"Quest,Testing"	"Падысьці да гаальца"
 "/quests/Testing.qmm/jumps/463/text"	"Ладно, я пошел"	"Quest Testing.qmm: jumps.463.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/464/text"	"Вот тебе {50*(1-([p4]*0,05+[p3])*0,02)} бкз, расскажи про окрестное зверье"	"Quest Testing.qmm: jumps.464.text. Preserve every <tag> exactly."	"Quest,Testing"	""
