@@ -4170,7 +4170,7 @@ lemma.type_n	тип	a type	тып/Тып		a model a group of things shares, sens
 lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
 lemma.ben_npc	Бен	Ben	Бэн		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
-lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса		the elder who fights for the good; hunspell suggestions are other words	—
+lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса/Добрысам		the elder who fights for the good; hunspell suggestions are other words	—
 lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер/Кааттера		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
 lemma.three_legged	трехногий	three-legged	трохногі/трохногага		on three legs; G m animate трохногага	https://starnik.by/pravapis/154863
 lemma.fever	лихорадка	a fever	ліхаманка/Ліхаманка		feverish hurried activity, sense 3; the example is біржавая ліхаманка	https://starnik.by/pravapis/39835
@@ -4246,7 +4246,7 @@ lemma.courage	мужество	courage	мужнасьць		bravery joined with r
 lemma.danger	опасность	danger	небясьпека/небясьпеку		a state that can cause harm; A небясьпеку; Starnik небяспека; hunspell inserts ь; Diver already has the capital Starnik form	https://starnik.by/pravapis/47055
 lemma.reinit	реинициализация	a reinitialization	рэініцыялізацыя/Рэініцыялізацыя		a computer starting its setup again; hunspell suggestions are other words	—
 lemma.shukher	Шухер	Shukher	Шухер		the shocker's name, a slang shout; hunspell Шахер and Шулер are other words	—
-lemma.posryts	Посрыц	Posryts	Пасрыц		the elder's vulgar short name; hunspell Патрыц is another word	—
+lemma.posryts	Посрыц	Posryts	Пасрыц/Пасрыцам		the elder's vulgar short name; hunspell Патрыц is another word	—
 lemma.az_esmi	аз есмь	I am	Аз/есьмь		the Church-Slavonic joke аз есмь; do not modernize it away	—
 lemma.vasche	ваще	slang anyhow	вабшчэ		the thief-slang distortion of вообще; do not correct it to наагул	—
 lemma.song_bam	бам	a song bam	бам/ба		nonsense syllables in the road song; hunspell suggestions for бам and ба are other words	—
@@ -4294,3 +4294,6 @@ lemma.gutta	гуттаперча	gutta-percha	гутаперчавымі		rubber
 lemma.x7crit	крит	a critical hit	крыт		gamer shorthand for a critical hit; hunspell suggestions are other words	—
 lemma.lyudi_stretch	ЛЮЮЮДИ	a stretched shout	ЛЮЮЮДЗІ		the stretched людзі; hunspell wants the unstretched ЛЮДЗІ	—
 lemma.ayd_nid	ай нид хелп	I need help	Бен/нид/хелп		frozen shout inside Бен, ай нид хелп; the name elsewhere is Бэн; hunspell suggestions are other words	—
+lemma.sear_lock	предохранитель	a safety catch	засьцерагальніка	засцерагальніка	the catch on a gun, sense 1; G засьцерагальніка; Starnik without ь; hunspell inserts ь	https://starnik.by/pravapis/27874
+lemma.nepis	непись	an NPC	непісь		gamer shorthand for a non-player character; hunspell suggests непісьменны, a different word	—
+lemma.respawn	респаун	respawn	рэспаўн	рэспандэнт	gamer respawn; hunspell suggests рэспандэнт, a different word	—
