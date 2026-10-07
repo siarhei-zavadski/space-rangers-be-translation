@@ -3264,7 +3264,7 @@ lemma.plaque	табличка	plaque	таблічка		a small chart drawn besid
 lemma.despair	отчаяние	despair	адчай/адчаі		sense 1; L адчаі	https://starnik.by/pravapis/2963
 lemma.gleam	блеск	gleam	бляск		reflected light, sense 1	https://starnik.by/pravapis/11025
 lemma.clawed	когтистый	clawed	кіпцюрасты/кіпцюрастыя		with large sharp claws	https://starnik.by/pravapis/118871
-lemma.bare	оскалить	bare the teeth	ашчэрыць/ашчэрыўшы		sense 1, an animal baring its teeth	https://starnik.by/pravapis/171305
+lemma.bare	оскалить	bare the teeth	ашчэрыць/ашчэрыўшы/ашчэрваўся		sense 1, an animal baring its teeth; imperfective reflexive ашчэрваўся, hunspell rejects ашчэрываўся	https://starnik.by/pravapis/171305
 lemma.gradually	потихоньку	gradually	патроху		sense 2, little by little	https://starnik.by/pravapis/229768
 lemma.one_digit	единичка	one digit	адзінка/адзінкамі		the digit one, sense 1; I pl адзінкамі	https://starnik.by/pravapis/2182
 lemma.basement	подвал	basement	сутарэньне/сутарэньні	сутарэнні	a room under the ground floor; L сутарэньні; hunspell inserts ь	https://starnik.by/pravapis/73611
@@ -3575,8 +3575,8 @@ lemma.bamboo	бамбук	bamboo	бамбук/бамбуку		genitive бамб�
 lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сьцёблаў		bamboo culm; Starnik writes сцябло and hunspell inserts ь; the gun barrel stays ствал	https://starnik.by/pravapis/73966
 lemma.optical_focus	фокус	optical focus	фокус/фокусе/Фокус		monocle sharpness, sense 2; the concentration lemma is separate	https://starnik.by/pravapis/80592
 lemma.signal	сигнал	a signal	сыгнал/сыгналу/Сыгнал		hunspell ы; Starnik writes сігнал	https://starnik.by/pravapis/68956
-lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага		Starnik пілоцкі; hunspell lacks it and suggests пілёцкага	https://starnik.by/pravapis/139588
-lemma.primate	примат	animal primate	Прымат/прымат		the island animal; Starnik 60405 is primacy, a different sense	—
+lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага/пілоцкім		Starnik пілоцкі; hunspell lacks it and suggests пілёцкім	https://starnik.by/pravapis/139588
+lemma.primate	примат	animal primate	Прымат/прымат/прымата		the island animal; genitive прымата; Starnik 60405 is primacy, a different sense	—
 lemma.mushroom	гриб	a mushroom	грыб/грыбоў		genitive plural грыбоў	https://starnik.by/pravapis/20888
 lemma.berry	ягода	a berry	ягада/ягад		genitive plural ягад	https://starnik.by/pravapis/88172
 lemma.foliage	листья	leaves	лісьце/лісток/лістка/лістоў		collective лісьце, Starnik лісце; diminutive лісток, genitive лістка; countable genitive plural лістоў	https://starnik.by/pravapis/39713
@@ -3584,7 +3584,7 @@ lemma.submission	подача	submission	падача/падачы		the act of s
 lemma.parry	блок	a combat block	блёк		a raised guard; hunspell writes блёк; Starnik 10931 is the pulley and the political bloc	—
 lemma.melee	рукопах	melee	Рукапаш		coined clip of рукапашны; hunspell suggests the adjective Рукапашны	—
 lemma.location	локация	a location	лякацыя/лякацый		hunspell has the nominative and lacks the genitive plural; a feminine -цыя noun takes -цый	—
-lemma.tadrun	Тадрун	Tadrun	Тадрун		captain of the landing party	—
+lemma.tadrun	Тадрун	Tadrun	Тадрун/Тадруну		captain of the landing party; dative Тадруну; hunspell suggests the different word Адрузну	—
 lemma.kundynsky	Кундынский	mangled Kandinsky	Кундынскі/Кундынскага		the prehistoric painter, Kandinsky misremembered	—
 lemma.plasmapushka	плазмопушка	plasma cannon	плязмапушка/плязмапушку		the huge gun in the malok's hand	—
 lemma.miniship	миникорабельный	mini-ship	мінікарабельнай		the adjective of a small ship's gun	—
@@ -3625,3 +3625,13 @@ lemma.limb	конечность	a limb	канцавіна/канцавінах		
 lemma.sunken_verb	затонуть	to sink	затануць/затанулы		Starnik затануць; hunspell rejects затонулы	https://starnik.by/pravapis/182358
 lemma.eightpaw	восьмилап	eight-paw	васьмілап		the coined eight-legged beast; hunspell splits it	—
 lemma.barrack_style	баракко	barracks-baroque	баракко		the settlement's style, барак blended with барока; hunspell suggestions are other words	—
+lemma.dry_cell	батарейка	a battery	батарэйка/батарэйку		a small electric cell; accusative батарэйку	https://starnik.by/pravapis/9414
+lemma.tooth_aug	зубище	a huge tooth	зубішча/зубішчамі		augmentative of зуб; instrumental plural зубішчамі	https://starnik.by/pravapis/29843
+lemma.carelessly	небрежно	carelessly	нядбала		adverb of нядбалы	https://starnik.by/pravapis/227560
+lemma.shelter	убежище	a shelter	сховішча		sense 2, a place to hide; not вадасховішча	https://starnik.by/pravapis/73847
+lemma.ill_wisher	недоброжелатель	an ill-wisher	нядобразычлівец/нядобразычліўцамі		instrumental plural нядобразычліўцамі	https://starnik.by/pravapis/49166
+lemma.chair	кресло	a chair	крэсла/крэсьле		locative Starnik крэсле; hunspell крэсьле	https://starnik.by/pravapis/37513
+lemma.at_ready	наизготовку	at the ready	напагатове		weapon brought to the ready	https://starnik.by/pravapis/226012
+lemma.mauser	маузер	Mauser	маўзэр/маўзэрамі		Starnik маўзер/маўзерамі; hunspell writes э; instrumental plural маўзэрамі	https://starnik.by/pravapis/42305
+lemma.beastie	зверюшка	a cute beast	зьвярушка/Зьвярушка		affectionate diminutive; hunspell suggests the different diminutive зьвярка, which is зверёк	—
+lemma.little_pistol	пистолетики	little pistols	пісталетыкі		affectionate diminutive; hunspell suggestions are other words	—
