@@ -635,7 +635,7 @@ lemma.kalterbruener	Кальтербрунер	Kalterbruener	Кальтэрбр�
 lemma.jab_il_musto	Жаб Ил Мусто	Jab Hick Gusto	Жаб Іл Мусто		famous diver joke; planet Гаргынг	Depth.qmm
 lemma.gargyng	Гаргынг	Gargyng	Гаргынг		planet of Жаб Іл Мусто	Depth.qmm
 lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; оптронная печ	Depth.qmm
-lemma.monstrodile_aug	чудище	beast	пачварышча/Пачварышча/пачварышчу		augmentative of пачвара; Depth monstrodile; capital for the status name; D пачварышчу; hunspell suggestions are other words	—
+lemma.monstrodile_aug	чудище	beast	пачварышча/Пачварышча/пачварышчу/пачварышчам		augmentative of пачвара; Depth monstrodile; capital for the status name; D пачварышчу; I пачварышчам; hunspell suggestions are other words	—
 lemma.plateau	плато	plateau	плато/Плато		underwater shelf; keep loan; capital at a sentence start	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
 lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
@@ -3517,3 +3517,6 @@ lemma.cliff	утес	cliff	абрыў		a steep broken slope, sense 3	https://sta
 lemma.slippery	скользкий	slippery	сьлізкі/сьлізкіх		hard to keep one's footing, sense 1; Starnik слізкі; hunspell writes ь; G pl сьлізкіх	https://starnik.by/pravapis/150583
 lemma.vanom	Ваном	Vanom	Ваном		the peleng who calls himself great; the name stays	—
 lemma.artemer	Артемер	Artemer	Артемер		Vanom's friend; the ship name stays in this spelling	—
+lemma.meditate	медитировать	to meditate	медытаваць		Starnik медытаваць; hunspell suggestions are other words	https://starnik.by/pravapis/187774
+lemma.copse	пролесок	copse	пералесак/пералеску		a small wood; the flower пралеска is a different word	https://starnik.by/pravapis/55466
+lemma.intricate	навороченный	intricate	мудрагелісты/мудрагелістая		complicated or fanciful; наварочаны means heaped up	https://starnik.by/pravapis/125046

@@ -1821,11 +1821,17 @@ Upon seeing you, the gaal's face screwed up, and he walked by without saying a w
 ""By the way,"" you called after him, ""I found some symgrass for you!""
 The gaal turned around sharply and carefully studied the grass you were holding out to him.
 ""Damn, <Ranger>, you have no idea how grateful I am!"" 
-He took the grass and headed in the direction you had come from. You stood for a while, digesting this new information, and then walked on..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/130/text"	"Справиться с чудовищем врукопашную..."	"Quest Sibolusovt.qmm: jumps.130.text. Preserve every <tag> exactly. English reference: Engage the monster in hand-to-hand combat..."	"Quest,Sibolusovt"	""
+He took the grass and headed in the direction you had come from. You stood for a while, digesting this new information, and then walked on..."	"Quest,Sibolusovt"	"Вы ішлі па пералеску, уважліва аглядаючыся, але так захапіліся гэтай справай, што не заўважылі гаальца-біёляга проста па курсе, і калі б ён не адышоў убок, вы б яго так і не заўважылі.
+Гаалец, убачыўшы вас, паморшчыўся і прайшоў міма, нічога не сказаўшы.
+- Дарэчы, — крыкнулі вы яму ўсьлед. — я ж для вас сім-траву знайшоў!
+Гаалец адразу павярнуўся да вас і ўважліва паглядзеў на траву, якую вы яму працягвалі.
+- Чорт, <Ranger>, вы не ўяўляеце, як я вам удзячны! 
+Ён узяў у вас траву і пайшоў у бок, адкуль вы прыйшлі. Вы нейкі час пастаялі, пераварваючы атрыманую інфармацыю, і таксама пайшлі далей..."
+"/quests/Sibolusovt.qmm/jumps/130/text"	"Справиться с чудовищем врукопашную..."	"Quest Sibolusovt.qmm: jumps.130.text. Preserve every <tag> exactly. English reference: Engage the monster in hand-to-hand combat..."	"Quest,Sibolusovt"	"Справіцца з пачварышчам у рукапашную..."
 "/quests/Sibolusovt.qmm/jumps/130/description"	"Вы совершили супер хитрый боковой прием и, извернувшись, врезали чудищу по морде тяжелым сапогом.
 Однако и чудище оказалось не лыком шито, и в ответ подло куснуло вас за ногу."	"Quest Sibolusovt.qmm: jumps.130.description. Preserve every <tag> exactly. English reference: You performed a super tricky boxing move and, after dodging, you drove your heavy boot into the monster's snout.
-But this wasn't the monster's first rodeo and he responded meanly by biting your leg."	"Quest,Sibolusovt"	""
+But this wasn't the monster's first rodeo and he responded meanly by biting your leg."	"Quest,Sibolusovt"	"Вы зрабілі надзвычай хітры бакавы прыём і, выкруціўшыся, уляпілі пачварышчу па пысе цяжкім ботам.
+Аднак і пачварышча аказалася ня лыкам шыта, і ў адказ падла ўкусіла вас за нагу."
 "/quests/Sibolusovt.qmm/jumps/131/text"	"Идти на базу"	"Quest Sibolusovt.qmm: jumps.131.text. Preserve every <tag> exactly. English reference: Go to the base"	"Quest,Sibolusovt"	"Ісьці на базу"
 "/quests/Sibolusovt.qmm/jumps/131/description"	"Вы быстрее побежали за гаальцем по натоптанной тропинке, стараясь не уклониться от пути ни на шаг, так как по краям ядовито булькала какая-то мутная жижа. Однако, как вы не старались, догнать биолога у вас не получалось... Вы прибавили ходу и влетели на полном ходу во что-то мягкое, за поворотом тропинки.
 Наученные горьким опытом вы тут же, зажмурившись, отскочили назад и принялись размахивать кулаками в сторону предполагаемого противника.
@@ -1859,13 +1865,30 @@ After five minutes the gaal opened his eyes and looked at you darkly.
 For about a minute you watched his sad face. Then it suddenly became clear to you who you had collided with as you raced down the path.
 ""Oh... Sorry!"" you said, dropping your eyes in shame. ""I really didn't mean to.""
 ""Well, it's been done,"" said the gaal, waving his hand. ""Right. The base is all the way down this path. Do what you like there. You'll be all alone. I'm going to look for some symgrass.""
-He spun around and headed back down the path toward your landing place. You silently watched him go and headed toward the base which, as you approached, proved to be a small camp with a few structures that were fenced in by a lattice wall."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/132/text"	"Осмотреть первый отсек..."	"Quest Sibolusovt.qmm: jumps.132.text. Preserve every <tag> exactly. English reference: Examine the first compartment..."	"Quest,Sibolusovt"	""
+He spun around and headed back down the path toward your landing place. You silently watched him go and headed toward the base which, as you approached, proved to be a small camp with a few structures that were fenced in by a lattice wall."	"Quest,Sibolusovt"	"Вы хутчэй пабеглі за гаальцам па пратаптанай сьцежцы, стараючыся не збочыць са шляху ні на крок, бо па краях атрутна булькала нейкая мутная жыжа. Аднак, як вы ні стараліся, дагнаць біёляга ў вас не атрымлівалася... Вы паддалі ходу і на поўным ходзе ўляцелі ў нешта мяккае за паваротам сьцежкі.
+Навучаныя горкім досьведам, вы тут жа, зажмурыўшыся, адскочылі назад і ўзяліся размахваць кулакамі ў бок меркаванага праціўніка.
+- Што гэта з вамі? — Пачулі вы спакойны голас гаальца і адразу расплюшчылі вочы.
+Той стаяў перад вамі на сьцежцы і з сумам назіраў, як лябараторная прабірка з нейкай траўкай усярэдзіне зьнікае ў пашчы зялёнай расьліны, абвешанай шыпамі паўмэтровай вышыні, што расла каля сьцежкі.
+- Ух, якая ты! — Захапіліся вы бурна, разглядаючы расьліну. — А што гэта ў яе ў пашчы?
+- Што ў яе ў пашчы? — Злавесна перапытаў гаалец. — Што ў пашчы?! У яе ў пашчы мая лябараторная прабірка з сім-травой! І гэта быў адзіны кусьцік сім-травы на бліжэйшыя дзесяць сьветлавых гадоў!
+- Ну-ну, не хвалюйцеся... — Пастараліся вы супакоіць біёляга. — А навошта ж вы скармілі адзіны кусьцік сім-травы гэтаму зьверу?
+Гаалец моўчкі паглядзеў на вас, відавочна страціўшы дар мовы, потым з бледна-жоўтага ператварыўся ў цёмна-зялёнага, захрумсьцеў кулакамі і чамусьці, раптам, пачаў медытаваць проста пасярод сьцежкі.
+Вы зьдзіўлена паглядзелі на яго і ўзяліся чакаць, калі ж ён вернецца.
+Праз пяць хвілінаў гаалец адкрыў вочы і змрочна паглядзеў на вас.
+- Разумееце... дарэчы, як вас па імені называць?
+- Я рэйнджэр <Ranger>. — Горда адказалі вы.
+- Разумееце, <Ranger>, — Працягнуў біёляг. — Я стаяў за паваротам сьцежкі і акуратна спрабаваў сарваць адзіны кусьцік сім-травы ў гэтай мясцовасьці, і ў мяне гэта атрымалася. Я акуратна, стараючыся не пашкодзіць кусьцік, запхнуў яго ў прабірку і толькі зьбіраўся пакласьці яе ў кішэню, як раптам ззаду мяне нешта моцна штурхнула. Я ўзмахнуў рукамі, спрабуючы ўтрымаць раўнавагу, і прабірка выскачыла... проста да гэтай пачвары. І тады я абярнуўся і ўбачыў ззаду вас.
+Вы з хвіліну глядзелі на яго сумны твар і раптам вам стала ясна, у каго вы ўрэзаліся, гонячы па сьцежцы.
+- О... прабачце! — Вы зьбянтэжыліся і апусьцілі вочы. — Я шчыра не хацеў.
+- Так, што ўжо цяпер. — Махнуў рукой гаалец. — Добра. База па гэтай сьцежцы да самага канца. Рабіце там, што хочаце, там цяпер усё адно нікога няма. А я пайду сім-траву шукаць.
+Ён разьвярнуўся і пайшоў назад па сьцежцы, да месца вашай пасадкі. Вы моўчкі паглядзелі яму ўсьлед і пайшлі ў бок базы, якая, пры набліжэньні да яе, аказалася невялікім лягерам з некалькіх будынкаў, абнесеных сеткавай агароджай."
+"/quests/Sibolusovt.qmm/jumps/132/text"	"Осмотреть первый отсек..."	"Quest Sibolusovt.qmm: jumps.132.text. Preserve every <tag> exactly. English reference: Examine the first compartment..."	"Quest,Sibolusovt"	"Агледзець першы адсек..."
 "/quests/Sibolusovt.qmm/jumps/132/description"	"Вы подошли к двери склада, и обнаружили на ней кодовый замок. 
 - Интересно, зачем на необитаемой планете такой навороченный запор? - Подумали вы. - И какой у этой двери пароль?"	"Quest Sibolusovt.qmm: jumps.132.description. Preserve every <tag> exactly. English reference: You approached the warehouse door and noticed a combination lock. 
-""I wonder why they need such a sophisticated lock on an uninhabited planet,"" you thought to yourself. ""And what's the code for this door?"""	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/133/text"	"Подобрать железный прут..."	"Quest Sibolusovt.qmm: jumps.133.text. Preserve every <tag> exactly. English reference: Pick up the iron rod..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/133/description"	"- Он мне ещё пригодится... - Подумали вы, поднимая прут с земли. - Мало ли, какая тварь может здесь на меня напасть. Нужно быть готовым ко всему."	"Quest Sibolusovt.qmm: jumps.133.description. Preserve every <tag> exactly. English reference: ""This'll come in handy..."" you thought as you lifted the rod from the ground. ""Who knows. Some beast might attack me here. I've got to be prepared for everything."""	"Quest,Sibolusovt"	""
+""I wonder why they need such a sophisticated lock on an uninhabited planet,"" you thought to yourself. ""And what's the code for this door?"""	"Quest,Sibolusovt"	"Вы падышлі да дзьвярэй складу і выявілі на іх кодавы замок. 
+- Цікава, навошта на незаселенай плянэце такая мудрагелістая засаўка? — Падумалі вы. — І які ў гэтых дзьвярэй пароль?"
+"/quests/Sibolusovt.qmm/jumps/133/text"	"Подобрать железный прут..."	"Quest Sibolusovt.qmm: jumps.133.text. Preserve every <tag> exactly. English reference: Pick up the iron rod..."	"Quest,Sibolusovt"	"Падняць жалезны прут..."
+"/quests/Sibolusovt.qmm/jumps/133/description"	"- Он мне ещё пригодится... - Подумали вы, поднимая прут с земли. - Мало ли, какая тварь может здесь на меня напасть. Нужно быть готовым ко всему."	"Quest Sibolusovt.qmm: jumps.133.description. Preserve every <tag> exactly. English reference: ""This'll come in handy..."" you thought as you lifted the rod from the ground. ""Who knows. Some beast might attack me here. I've got to be prepared for everything."""	"Quest,Sibolusovt"	"- Ён мне яшчэ спатрэбіцца... — Падумалі вы, падымаючы прут са зямлі. — Мала што, якая пачвара можа тут на мяне напасьці. Трэба быць гатовым да ўсяго."
 "/quests/Sibolusovt.qmm/jumps/134/text"	"Накапать себе стаканчик чистого, медицинского..."	"Quest Sibolusovt.qmm: jumps.134.text. Preserve every <tag> exactly. English reference: Pour yourself a little cup of pure, medicinal..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/136/text"	"Накапать колбочку серной кислоты"	"Quest Sibolusovt.qmm: jumps.136.text. Preserve every <tag> exactly. English reference: Pour a flask of sulfuric acid"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/138/text"	"На центральную площадку базы..."	"Quest Sibolusovt.qmm: jumps.138.text. Preserve every <tag> exactly. English reference: Go to the main area of the base..."	"Quest,Sibolusovt"	""
@@ -2204,7 +2227,7 @@ It's not clear what you wanted to accomplish, but the sibolusovtus melted away a
 "/quests/Sibolusovt.qmm/jumps/243/description"	"Скалы гордо возвышались над вами, заслоняя периодически вылезающее из туч солнце, и создавая пронизывающую холодом тень.
 Вы уже собирались пожаловаться окружающему миру на вселенскую несправедливость, благодаря которой доблестный рейнджер прозябает в холоде и голоде, балансируя одной ногой над могилой, как вдруг выглянувшее солнце согрело вас своими жаркими лучами, за несколько минут пропекая вас до хрустящей корочки. Когда солнце снова скрылось за тучами, вы возблагодарили Господа, стряхнули пепел с голого обугленного черепа и продолжили свой путь."	"Quest Sibolusovt.qmm: jumps.243.description. Preserve every <tag> exactly. English reference: Cliffs towered proudly above you, obstructing the sun which occasionally crept out from the storm clouds. The result was a penetrating, chilling darkness.
 You had already begun to complain to the world around you about the infinite injustice that would cause a gallant ranger to trudge along cold and hungry, with one foot in the grave... Then suddenly the sun peeked out and toasted you with its hot rays for several minutes, baking you up to a nice and crispy crust. When the sun again hid behind the clouds, you gave thanks; shook the embers off of your naked, charred skull; and carried on your way."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/244/text"	"Справиться с чудовищем врукопашную..."	"Quest Sibolusovt.qmm: jumps.244.text. Preserve every <tag> exactly. English reference: Engage the monster in hand-to-hand combat..."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/244/text"	"Справиться с чудовищем врукопашную..."	"Quest Sibolusovt.qmm: jumps.244.text. Preserve every <tag> exactly. English reference: Engage the monster in hand-to-hand combat..."	"Quest,Sibolusovt"	"Справіцца з пачварышчам у рукапашную..."
 "/quests/Sibolusovt.qmm/jumps/244/description"	"Вы набросились на это чудовище, несмотря на внезапную слабость в коленях.
 Ничего хорошего из этой затеи не вышло. Чудовище буквально размазало вас по стенке, несмотря на то, что вы изо всех сил колотили его по чешуйчатой голове рукоятью пистолета..."	"Quest Sibolusovt.qmm: jumps.244.description. Preserve every <tag> exactly. English reference: You threw yourself onto the monster despite the sudden weakness in your knees.
 Nothing good came of this shenanigan. The monster literally smeared you across the wall, even though you were furiously pummeling his scaly head with the grip of your gun..."	"Quest,Sibolusovt"	""
