@@ -4167,11 +4167,11 @@ lemma.assortment	набор	a set	набор/наборам		a set of items for 
 lemma.sturdy	прочный	sturdy	трывалы/Трывалы		hard to break or spoil, sense 1; N m трывалы	https://starnik.by/pravapis/155043
 lemma.hand_grenade	граната	a grenade	граната/Граната		a small bursting shell thrown by hand; N граната	https://starnik.by/pravapis/20604
 lemma.type_n	тип	a type	тып/Тып		a model a group of things shares, sense 1; N тып	https://starnik.by/pravapis/76694
-lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
+lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу/армрэстлінгам		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
 lemma.ben_npc	Бен	Ben	Бэн		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
 lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса/Добрысам		the elder who fights for the good; hunspell suggestions are other words	—
-lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер/Кааттера		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
+lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер/Кааттера/Айроона/Айроону		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
 lemma.three_legged	трехногий	three-legged	трохногі/трохногага		on three legs; G m animate трохногага	https://starnik.by/pravapis/154863
 lemma.fever	лихорадка	a fever	ліхаманка/Ліхаманка		feverish hurried activity, sense 3; the example is біржавая ліхаманка	https://starnik.by/pravapis/39835
 lemma.gilt	золотой	golden	залаты/залатая/Залатая		made of gold, sense 1; N f залатая	https://starnik.by/pravapis/112214
@@ -4301,3 +4301,5 @@ lemma.khrebet	хребет	a mountain ridge	хрыбет/хрыбта		sense 4, 
 lemma.fetch	скачать	to download	спампаваць/спампую		future спампую; hunspell suggestions are pump verbs, other words	https://starnik.by/pravapis/213632
 lemma.debugger	дебаггер	a debugger	дэбагер/Дэбагерам/дэбагерам		gamer loan; hunspell suggestions are other words; sentence-initial Дэбагерам	—
 lemma.warez	кряк	a game crack	крэк		gamer loan for a pirated crack; hunspell suggestions are other words	—
+lemma.wrestle_grunt	аргх	a strain grunt	аргх		the arm-wrestle effort shout; hunspell suggestions are other words	—
+lemma.ugh	ух	a strain grunt	ўх		the U-uh effort shout; hunspell suggestions are other words	—
