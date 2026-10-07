@@ -2221,7 +2221,7 @@ lemma.wounded	раненый	wounded	паранены/параненая/пар�
 lemma.carefree	безмятежный	carefree	бестурботны/бестурботныя	безтурботны	untroubled; hunspell rejects безтурботны	https://starnik.by/pravapis/99322
 lemma.drug_baron	наркобарон	drug baron	наркобарон/Наркобарон/наркобарона/Наркобарона/наркобарону/наркобаронам/наркобаронаў	наркабарон	compound of наркотык and барон; hunspell lacks it	Amnesia.qmm
 lemma.entry	вход	entrance	уваход/увахода/ўвахода		the place one enters, sense 2; genitive -а, hunspell only offers -у	https://starnik.by/pravapis/77595
-lemma.command	командный	command	камандны/камандным		of command; a command post	https://starnik.by/pravapis/116899
+lemma.command	командный	command	камандны/камандным/каманднага		of command; a command post; genitive каманднага; hunspell suggestions are other words	https://starnik.by/pravapis/116899
 lemma.map	карта	map	мапа/мапу/мапе		a map of a place	https://starnik.by/pravapis/41694
 lemma.trap	капкан	spring trap	капкан/капкана		a hunting trap of two jaws and a spring	https://starnik.by/pravapis/33546
 lemma.layout	планировка	layout	пляніроўка/пляніроўку		how the parts of a building sit; Starnik планіроўка	https://starnik.by/pravapis/57071
@@ -3269,7 +3269,7 @@ lemma.gradually	потихоньку	gradually	патроху		sense 2, little b
 lemma.one_digit	единичка	one digit	адзінка/адзінкамі		the digit one, sense 1; I pl адзінкамі	https://starnik.by/pravapis/2182
 lemma.basement	подвал	basement	сутарэньне/сутарэньні	сутарэнні	a room under the ground floor; L сутарэньні; hunspell inserts ь	https://starnik.by/pravapis/73611
 lemma.lever	рычаг	lever	рычаг		a control rod, sense 2	https://starnik.by/pravapis/65458
-lemma.alarm	аварийный	alarm	аварыйны/аварыйнага		for an emergency; G аварыйнага	https://starnik.by/pravapis/92773
+lemma.alarm	аварийный	alarm	аварыйны/аварыйнага/аварыйнае		for an emergency; G аварыйнага; neuter аварыйнае	https://starnik.by/pravapis/92773
 lemma.crunch	хруст	crunch	хруст		the crack of something breaking	https://starnik.by/pravapis/82344
 lemma.alley	переулок	alley	завулак/завулку		a short street; L завулку	https://starnik.by/pravapis/26387
 lemma.grasp	хватка	grip	хватка/хватку		how something is seized; not хват, a dashing fellow	https://starnik.by/pravapis/81728
@@ -3665,3 +3665,14 @@ lemma.cockpit	кабина	a cockpit	кабіна/кабіны/кабіну		gen
 lemma.just_baked	выпечка	baked goods	выпечка		what has just been baked	https://starnik.by/pravapis/16244
 lemma.leopard	леопард	a leopard	леапард		a spotted big cat	https://starnik.by/pravapis/38854
 lemma.bring_up	поднести	to bring up to	паднесьці/паднесьлі		past plural паднесьлі; Starnik past паднёс/-несла, not ё	https://starnik.by/pravapis/194867
+lemma.fortification	укрепление	a fortification	умацаваньне/ўмацаваньня/Умацаваньне		Starnik умацаванне, sense 2, a defensive work; hunspell inserts ь; ў after a vowel	https://starnik.by/pravapis/78362
+lemma.lamp_bulb	лампочка	a bulb	лямпачка/лямпачкі		a small electric lamp	https://starnik.by/pravapis/40474
+lemma.energy_feed	энергоснабжение	power supply	энэргазабесьпячэньне/энэргазабесьпячэньня/энэргазабесьпячэньнем		Starnik энергазабеспячэнне; hunspell writes э and ь	https://starnik.by/pravapis/87454
+lemma.console	пульт	a console	пульт/пульце/пульта		locative пульце, genitive пульта	https://starnik.by/pravapis/61637
+lemma.plaque	табличка	a plaque	таблічка		a small sign	https://starnik.by/pravapis/74361
+lemma.reactor	реактор	a reactor	рэактар		the bunker reactor	https://starnik.by/pravapis/65494
+lemma.qm_store	каптерка	a quartermaster store	капцёрка/капцёрку		a company storeroom for kit; accusative капцёрку	https://starnik.by/pravapis/33616
+lemma.washroom	душевая	a shower room	душавая/душавой		the room, locative душавой	https://starnik.by/pravapis/23846
+lemma.vent_grate	решетка	a grate	рашотка/рашотку/рашоткі		accusative рашотку, plural рашоткі	https://starnik.by/pravapis/64640
+lemma.nailgun	гвоздемет	a nail gun	цьвікамёт/цьвікамёта		a construction nail gun; hunspell wants to split it or suggests цьвікадзёра, a different word	—
+lemma.coastal	прибрежный	coastal	прыбярэжны/прыбярэжнае		neuter прыбярэжнае	https://starnik.by/pravapis/142439
