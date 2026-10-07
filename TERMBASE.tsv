@@ -1515,7 +1515,7 @@ lemma.necril	некрил	necril	некрыл/некрылу/некрылавы/
 lemma.gravplatform	гравиплатформа	grav platform	гравіплятформа/гравіплятформу		platform that carries the new engine	Kidnapped.qmm
 lemma.varnish	лак	varnish	лак	ляк	Starnik varnish; hunspell ляк means fear	https://starnik.by/pravapis/38429
 lemma.spray	спрей	spray	Спрэй/спрэй		canister label; hunspell suggestions are unrelated	https://starnik.by/pravapis/71642
-lemma.laser_adj	лазерный	laser	лазерны/лазерныя/лазернай/лазерных		Starnik лазер; hunspell rejects the adjective; L f лазернай; G pl лазерных	https://starnik.by/pravapis/38378
+lemma.laser_adj	лазерный	laser	лазерны/лазерныя/лазернай/лазерных/лазерная		Starnik лазер; hunspell rejects the adjective; N f лазерная; L f лазернай; G pl лазерных	https://starnik.by/pravapis/38378
 lemma.geshy	Гешши	Geshy	Гешші		peleng planet	PlanetName.tsv
 lemma.valuykh	Валуйх	Valuykh	Валуйх/Валуйха		peleng planet; G Валуйха	PlanetName.tsv
 lemma.norhberch	Норхберч	Norhberch	Норхберч		peleng vandal	Kidnapped.qmm
@@ -4133,3 +4133,11 @@ lemma.elude	ускользать	to slip away	высьлізгваць/высь�
 lemma.bukazoid	Буказоиды	bukazoids	Буказоіды	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
 lemma.pseudodeath	псевдосмерть	pseudo-death	псэўдасьмерць/псэўдасьмерці	псэўданароднасьці	coined compound, псэўда- plus сьмерць; G псэўдасьмерці; hunspell suggests a different word	—
 lemma.futile	безуспешно	in vain	марна		adverb of марны, sense 1	https://starnik.by/pravapis/225542
+lemma.distant	дальний	distant	далёкі/Далёкі		at a great distance, sense 1; the opposite of блізкі	https://starnik.by/pravapis/107945
+lemma.short_range	ближний	close	блізкі/Блізкі		at a short distance, sense 1; the opposite of далёкі	https://starnik.by/pravapis/99693
+lemma.cutter	резак	a cutter	разак	рэзак	a cutting tool, sense 1; sense 2 is an oxy-fuel torch; hunspell and Starnik разак	https://starnik.by/pravapis/62904
+lemma.hairline	надломленный	cracked	надламаны		participle sense 1, cracked without breaking through; sense 2 is spiritual exhaustion	https://starnik.by/pravapis/240463
+lemma.knife	нож	a knife	нож		a cutting tool of blade and handle, sense 1	https://starnik.by/pravapis/48851
+lemma.smallsword	шпага	a smallsword	шпага		a straight thrusting sword	https://starnik.by/pravapis/85543
+lemma.gauss_gun	гаусс-ган	gauss gun	гаўсган	саўгану	coined loan; one word so the token is not the name Ган; hunspell suggests саўгану, a different word	—
+lemma.flux_thrower	плазмомет	plasma thrower	плязмамёт	плязматрон	coined plasma thrower; hunspell suggests плязматрон, a different device	—
