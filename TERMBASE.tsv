@@ -259,7 +259,7 @@ lemma.shield_gen	генератор защиты	shield generator	генэрат
 lemma.repair	ремонт	repair	рамонт		G рамонту L рамонце	https://starnik.by/pravapis/63736
 lemma.parsec	парсек	parsec	парсэк	парсек	already FormRuins WB; hunspell парсэк	—
 lemma.instructor	инструктор	instructor	інструктар		tutorial Script MS_Begin; G інструктара	hunspell-be-tarask
-lemma.spaceport	космопорт	spaceport	касмапорт		already GovGreetings; L касмапорце	hunspell-be-tarask
+lemma.spaceport	космопорт	spaceport	касмапорт/касмапорту/касмапорце		already GovGreetings; L касмапорце; G касмапорту	hunspell-be-tarask
 lemma.micromodule	микромодуль	micromodule	мікрамодуль		already FormRuins RC; G мікрамодуля pl мікрамодулі	—
 lemma.noob	салага	noob	салага/салагі		pirate starting rank; G and N pl салагі	—
 lemma.shipboy	юнга	ship boy	юнга		pirate rank; G юнгі; keep in <clr> as nominative	—
@@ -3273,7 +3273,7 @@ lemma.alarm	аварийный	alarm	аварыйны/аварыйнага/ав�
 lemma.crunch	хруст	crunch	хруст		the crack of something breaking	https://starnik.by/pravapis/82344
 lemma.alley	переулок	alley	завулак/завулку		a short street; L завулку	https://starnik.by/pravapis/26387
 lemma.grasp	хватка	grip	хватка/хватку		how something is seized; not хват, a dashing fellow	https://starnik.by/pravapis/81728
-lemma.rope	веревка	rope	вяроўка/вяроўку/вяроўкі		a twisted cord; A вяроўку G вяроўкі	https://starnik.by/pravapis/17040
+lemma.rope	веревка	rope	вяроўка/вяроўку/вяроўкі/вяроўцы		a twisted cord; A вяроўку G вяроўкі; L вяроўцы	https://starnik.by/pravapis/17040
 lemma.skein	моток	skein	маток		a coil of thread or rope	https://starnik.by/pravapis/42214
 lemma.ledge	уступ	ledge	уступ/ўступ/ўступе/ўступу		a step out from a slope, sense 1	https://starnik.by/pravapis/78956
 lemma.foot	подножие	foot	падножжа		the base of something high, sense 1	https://starnik.by/pravapis/50841
@@ -4533,3 +4533,6 @@ lemma.car_seat	сиденье	a seat	сядзеньне		a place one sits, sense
 lemma.bum_word	бомж	a bum	бамж/бамжаў		the insult; hunspell suggestions are other words; the adult without a home stays бяздомак	—
 lemma.far_cast	телепортация	a teleportation	тэлепартацыя/тэлепартацыі		the act of teleporting; hunspell suggestions are other words; G тэлепартацыі	—
 lemma.sneaky	подлый	mean	подлы		morally low, sense of подлы; not the carrion падла	https://starnik.by/pravapis/140141
+lemma.plasmonite	плазмонит	plasmonite	плязманітавую		a coined rope material; hunspell suggestions are other words; A f плязманітавую	—
+lemma.picklock	отмычка	a lockpick	адмычка/адмычку		a tool that opens a lock; A адмычку; here an electronic code pick	https://starnik.by/pravapis/2422
+lemma.swipe	угнать	to steal a vehicle	скрасьці/скраўшы		to take a vehicle; Starnik скрасці; hunspell inserts ь; gerund скраўшы	https://starnik.by/pravapis/213194
