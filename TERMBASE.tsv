@@ -1735,7 +1735,7 @@ lemma.virtual_chit	виртуальчик	virtual credit	віртуальчык/
 lemma.uses_abbr	исп.	uses	вык		abbreviation of выкарыстаньне, parallel to исп.	—
 lemma.dead	мертвый	dead	мёртвы		predicate мёртвы	https://starnik.by/pravapis/123900
 lemma.fatigue	усталость	fatigue	стома/Стома		loss of strength	https://starnik.by/pravapis/72143
-lemma.violet	фиолетовый	violet	фіялетавы/Фіялетавае		water-element color; N neuter фіялетавае	https://starnik.by/pravapis/158497
+lemma.violet	фиолетовый	violet	фіялетавы/Фіялетавае/фіялетавага		water-element color; N neuter фіялетавае; G masculine фіялетавага	https://starnik.by/pravapis/158497
 lemma.rat	крыса	rat	пацук/пацукоў/Пацукоў	крыса	Starnik has пацук; Gpl пацукоў	https://starnik.by/pravapis/54470
 lemma.stun	оглушение	stun	аглушэньне		Starnik аглушэнне, tarask soft sign	https://starnik.by/pravapis/1649
 lemma.stash	загашник	stash	тайнік/Тайнік		hiding place, sense 1	https://starnik.by/pravapis/74478
@@ -2091,7 +2091,7 @@ lemma.junk	барахло	junk	барахло		old household things, colloquial	
 lemma.pillow	подушка	pillow	падушка			https://starnik.by/pravapis/51270
 lemma.camera	фотоаппарат	camera	фотаапарат			https://starnik.by/pravapis/80694
 lemma.rusty	ржавый	rusty	іржавы			https://starnik.by/pravapis/116178
-lemma.strange	странный	strange	дзіўны/дзіўнага			https://starnik.by/pravapis/109092
+lemma.strange	странный	strange	дзіўны/дзіўнага/дзіўна		adverb дзіўна	https://starnik.by/pravapis/109092
 lemma.landing	десантный	landing	дэсантны			https://starnik.by/pravapis/110565
 lemma.compose	составить	compose	скласьці	скласці	Starnik скласці; hunspell inserts ь	https://starnik.by/pravapis/213102
 lemma.decrypt	расшифровать	decrypt	расшыфраваць			https://starnik.by/pravapis/211532
@@ -3230,9 +3230,9 @@ lemma.toggle	переключатель	switch	пераключальнік/пе
 lemma.rectangle	прямоугольник	rectangle	прамавугольнік/прамавугольніка		a right-angled quadrilateral; G прамавугольніка	https://starnik.by/pravapis/58867
 lemma.bulge	выпуклость	bulge	выпукласьць	выпукласць	a raised spot; Starnik выпукласць; hunspell -сьць	https://starnik.by/pravapis/16339
 lemma.backhand	наотмашь	backhand blow	наводмаш		a swinging blow	https://starnik.by/pravapis/225814
-lemma.cylinder	баллон	cylinder	балён	балон	a gas vessel; Starnik балон; hunspell ё	https://starnik.by/pravapis/8849
+lemma.cylinder	баллон	cylinder	балён/балёнаў	балон	a gas vessel; Starnik балон; hunspell ё; G pl балёнаў	https://starnik.by/pravapis/8849
 lemma.foam	пена	foam	пена/пены		a bubbly mass; G пены	https://starnik.by/pravapis/54789
-lemma.muzzle	морда	muzzle	пыса/пысу		an animal's muzzle; A пысу	https://starnik.by/pravapis/61954
+lemma.muzzle	морда	muzzle	пыса/пысу/пысы		an animal's muzzle, and a colloquial mug; A пысу; G пысы	https://starnik.by/pravapis/61954
 lemma.inertia	инерция	inertia	інэрцыя/інэрцыі		G інэрцыі	https://starnik.by/pravapis/31289
 lemma.shell_layer	оболочка	shell	абалонка/абалонку		a covering layer; A абалонку	https://starnik.by/pravapis/109
 lemma.jet	струя	jet	струмень		a narrow stream of liquid	https://starnik.by/pravapis/72372
@@ -3850,3 +3850,10 @@ lemma.anguish	мытарство	an ordeal	пакута/пакуты		great suff
 lemma.alight	посадка	a landing	пасадка/пасадку		an aircraft touchdown, sense 4; A пасадку	https://starnik.by/pravapis/53491
 lemma.high_command	командование	command	камандаваньне/камандаваньнем	камандаваннем	a body of commanders, sense 1; I камандаваньнем; Starnik камандаваннем; hunspell inserts ь	https://starnik.by/pravapis/32365
 lemma.squad	команда	a squad	каманда/каманды		a small military party, sense 3; G and N pl каманды; not the music band	https://starnik.by/pravapis/32363
+lemma.in_law	теща	a mother-in-law	цешча/цешчу		wife's mother; A цешчу	https://starnik.by/pravapis/82825
+lemma.perdition	ад	hell	пекла		the place of eternal torment, sense 1	https://starnik.by/pravapis/54749
+lemma.plumbing	водопровод	plumbing	водаправод/водаправодную	вадаправодную	a water main; A feminine водаправодную; Starnik вадаправод; hunspell вода-	https://starnik.by/pravapis/12858
+lemma.boredom	скука	boredom	нуда/нуды		unpleasant idleness, sense 1; G нуды	https://starnik.by/pravapis/48938
+lemma.lunge	выпад	a lunge	выпад/выпадам		a sharp move forward, sense 1; I выпадам	https://starnik.by/pravapis/16194
+lemma.breach	пролом	a breach	пралом		a hole broken through something, sense 2	https://starnik.by/pravapis/58844
+lemma.ree_klein	Рее-Кляйн	Ree-Klein	Рээ/Кляйн		the gaal doctor's name; hunspell suggestions are other words	—
