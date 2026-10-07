@@ -1978,7 +1978,7 @@ lemma.vibroknife	вибронож	vibroknife	вібранож/вібранажа
 lemma.gaal_woman	гаалица	gaal woman	гааліца		feminine of гаалец; not in Starnik	—
 lemma.little_folk	людишки	contemptible little people	людзішкі		the peleng's insult; hunspell wants a different word	—
 lemma.staromalok	Старомалок	barrel beer	Старамалок		the bar's beer; coined; hunspell wants another word	—
-lemma.lid	крышка	lid	крышка/Крышка/крышкай/крышцы		manhole cover; Starnik вечка, накрыўка; hunspell wants крошка	https://starnik.by/pravapis/37346
+lemma.lid	крышка	lid	крышка/Крышка/крышкай/крышцы/крышкі		manhole cover; Starnik вечка, накрыўка; hunspell wants крошка	https://starnik.by/pravapis/37346
 lemma.stout	дородный	portly	дародны		the painted malok on the barrel; hunspell suggestions are other words	https://starnik.by/pravapis/108196
 lemma.etude	этюд	performance study	эцюд		acrobatic study; Starnik sense 3; hunspell wants юдэй	https://starnik.by/pravapis/88037
 lemma.unforced	непринужденно	casually	нязмушана		adverb, one word in Starnik; hunspell wants it split	https://starnik.by/pravapis/227627
@@ -4198,7 +4198,7 @@ lemma.hesitation	эээ	uh	эээ		the spoken hesitation in the success text; hu
 lemma.irration	Иррацион	Irration	Іррацыён/Іррацыёнам/Іррацыёна		the faeyan from Elementar Games; doubled р stays	—
 lemma.biil	Биил	Biil	Бііл/Бііла		Bill Gates joke; the doubled і stays	—
 lemma.gaets	Гээтс	Gaets	Гээтс/Гээтса		Gates joke; the doubled э stays	—
-lemma.mind_adj	ментальный	mental	ментальны/ментальнай		relative adjective; G f ментальнай; hunspell suggestions are other words; not the unit мэнтал	https://starnik.by/pravapis/123865
+lemma.mind_adj	ментальный	mental	ментальны/ментальнай/ментальных		relative adjective; G f ментальнай; hunspell suggestions are other words; not the unit мэнтал	https://starnik.by/pravapis/123865
 lemma.zhe_name	же	the letter zhe	жэ		name of the letter ж, quoted as the g-load unit; hunspell suggestions are other words	—
 lemma.colossal	колоссальный	colossal	калясальны/калясальным		unusually large; Starnik каласальны; hunspell and this corpus use калясальны	https://starnik.by/pravapis/116612
 lemma.bur_drill	бормашина	dental drill	бормашына/бормашыны		the dental apparatus that drives the bur	https://starnik.by/pravapis/11202
@@ -4266,3 +4266,4 @@ lemma.agh	Агх	a cough	Агх		the figure's cough; hunspell suggestions are ot
 lemma.orc	орк	an orc	аркаў		the fantasy miners; hunspell suggestions are other words	—
 lemma.frock	сюртук	a frock coat	сюртук		the vampire's coat; hunspell suggestions are other words	—
 lemma.cheat_code	чит	a cheat code	чыт		the gamer loan in чыт-коды; hunspell suggestions are other words	—
+lemma.gravcomp	гравикомпенсация	gravity compensation	гравікампэнсацыі		the ship's gravity system; hunspell suggests дэкампэнсацыі, another word	—
