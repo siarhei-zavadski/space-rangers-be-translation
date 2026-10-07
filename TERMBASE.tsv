@@ -254,7 +254,7 @@ lemma.cannon	орудие	cannon	гармата		G гарматы A гармат
 lemma.satellite	зонд	satellite	спадарожнік	зонд	Items/Ruins SB probe; G спадарожніка	https://starnik.by/pravapis/70914
 lemma.container	контейнер	container	кантэйнэр/кантэйнерах	кантэйнер	Starnik кантэйнер; hunspell кантэйнэр; L pl кантэйнерах	https://starnik.by/pravapis/33251
 lemma.artifact	артефакт	artefact	артэфакт		G артэфакта L артэфакце	https://starnik.by/pravapis/6139
-lemma.generator	генератор	generator	генэратар	генератар	already FormRuins CB; hunspell э	https://starnik.by/pravapis/18947
+lemma.generator	генератор	generator	генэратар/генэратара	генератар	already FormRuins CB; hunspell э; G генэратара	https://starnik.by/pravapis/18947
 lemma.shield_gen	генератор защиты	shield generator	генэратар абароны		already FormRuins CB AddDefGenerator	https://starnik.by/pravapis/18947
 lemma.repair	ремонт	repair	рамонт		G рамонту L рамонце	https://starnik.by/pravapis/63736
 lemma.parsec	парсек	parsec	парсэк	парсек	already FormRuins WB; hunspell парсэк	—
@@ -3292,7 +3292,7 @@ lemma.throne	трон	throne	трон		a monarch's seat	https://starnik.by/prava
 lemma.honor	честь	honor	гонар		dignity and glory, senses 1–2	https://starnik.by/pravapis/20368
 lemma.yank	дергать	yank	тузаць/тузайцеся/патузаць		to jerk, sense 1; stress ту́заць so ня тузайцеся; perfective патузаць	https://starnik.by/pravapis/215669
 lemma.cherished	заветный	cherished	запаветны/запаветнай		dearly held, long awaited, sense 1	https://starnik.by/pravapis/112545
-lemma.shot	выстрел	shot	стрэл/стрэлы		a firearm discharge; not the arrow страла	https://starnik.by/pravapis/72452
+lemma.shot	выстрел	shot	стрэл/стрэлы/стрэлу		a firearm discharge; not the arrow страла; G стрэлу	https://starnik.by/pravapis/72452
 lemma.revive	очнуться	come to	апрытомнець/апрытомнелі		to regain consciousness	https://starnik.by/pravapis/170173
 lemma.whew	уф	whew	Ух		interjection of relief, sense 2	https://starnik.by/pravapis/251376
 lemma.target	цель	target	цэль/цэлі		the thing a shot is aimed at	https://starnik.by/pravapis/83398
@@ -3533,7 +3533,7 @@ lemma.recoil	отшатнуться	to recoil	шарахнуцца/шарахн�
 lemma.suffocating	удушающий	suffocating	удушлівы/удушлівым		a smell that makes breathing hard	https://starnik.by/pravapis/156071
 lemma.filth	гадость	filth	паскудзтва/паскудзтвам		filth, sense 1; hunspell inserts ь; Starnik headword паскудства	https://starnik.by/pravapis/53582
 lemma.doorlet	дверца	a small door	дзьверцы		plural only; a small door; Starnik headword дзверцы; hunspell and the door lemma use ь	https://starnik.by/pravapis/22588
-lemma.paw	лапа	a paw	лапа/лапай		an animal's foot	https://starnik.by/pravapis/38598
+lemma.paw	лапа	a paw	лапа/лапай/лапах/лапу		an animal's foot; L pl лапах; A лапу	https://starnik.by/pravapis/38598
 lemma.barrel	ствол	a gun barrel	ствал/ствалы		the file already uses ствалы; hunspell lacks the nominative and suggests ствол	—
 lemma.wool	шерсть	wool	поўсць/поўсьці		fur; hunspell inserts ь in the genitive; Starnik headword поўсць, G поўсці	https://starnik.by/pravapis/58073
 lemma.stop	упор	a stop	ўпор/ўпору		pressed to the stop, sense 1, genitive -у; not all the way	https://starnik.by/pravapis/78588
@@ -3901,7 +3901,7 @@ lemma.frisk	обыскать	to search a place	абшукаць		to look through
 lemma.obeisance	поклониться	to bow	пакланіцца		to make a bow of respect, sense 1	https://starnik.by/pravapis/196768
 lemma.aim	целиться	to aim	цэліцца/цэлячыся		to point a shot, sense 1; adverbial цэлячыся	https://starnik.by/pravapis/219591
 lemma.serious	серьезный	serious	сур'ёзны/несур'ёзная	сурёзны	important enough to heed, sense 4; the wound was not serious	https://starnik.by/pravapis/152930
-lemma.surface	поверхность	surface	паверхня/паверхні		the outer side, sense 1; L паверхні	https://starnik.by/pravapis/49858
+lemma.surface	поверхность	surface	паверхня/паверхні/паверхню		the outer side, sense 1; L паверхні; A паверхню	https://starnik.by/pravapis/49858
 lemma.record	рекорд	a record	рэкорд/рэкорды		the best result, sense 1; A pl рэкорды	https://starnik.by/pravapis/65882
 lemma.swimming	плавание	swimming	плаваньне/плаваньня	плавання	the act of swimming; G плаваньня; Starnik плаванне; hunspell inserts ь	https://starnik.by/pravapis/56941
 lemma.toothy	зубастый	toothy	зубаты/зубатая		having large teeth; f зубатая	https://starnik.by/pravapis/115066
@@ -3968,3 +3968,14 @@ lemma.meow	мяукать	to meow	мяўкаць/мяўканьне/замяўк
 lemma.cleaver	тесак	a cleaver	цясак/цесаком		a broad double-edged blade; I цесаком, with е in the oblique	https://starnik.by/pravapis/83710
 lemma.beastling	зверюшка	a little beast	зьвярок/зьвяркі	звярок	diminutive of звер; masculine; N pl зьвяркі; Starnik звярок; hunspell inserts ь	https://starnik.by/pravapis/28677
 lemma.backswing	наотмашь	with a swing	наводмаш		with a full swing, forcefully; the dictionary example is a blow to the face	https://starnik.by/pravapis/225814
+lemma.stoop	пригнуться	to duck	прыгнуцца/Прыгнуўшыся		to bend down, sense of a crouch; gerund Прыгнуўшыся	https://starnik.by/pravapis/206770
+lemma.feline	кошка	a cat	котка/котку		feminine; regional headword for кошка; A котку; Talk already uses кошка, so that form is not rejected	https://starnik.by/pravapis/36636
+lemma.perish_beast	издохнуть	to die, of a beast	здохнуць/здохла		sense 1, to die, of an animal; past f здохла	https://starnik.by/pravapis/184302
+lemma.sever	отрубить	to sever	адсекчы	адсячы	to cut off; Starnik lists адсекчы as the same word as адсячы; hunspell wants адсекчы	https://starnik.by/pravapis/168718
+lemma.stores	припас	stores	прыпас/прыпасаў		what has been laid by, sense 1; G pl прыпасаў	https://starnik.by/pravapis/60556
+lemma.impudent	наглый	impudent	нахабны/нахабнаму		brazen, of a person or a beast; D m нахабнаму; the noun is нахабнік	https://starnik.by/pravapis/127538
+lemma.at_random	навскидку	at random	наўздагад	наўскідку	colloquial, at random, as it comes; the dictionary example is unaimed fire; наўскідку is a different word	https://starnik.by/pravapis/226306
+lemma.capable	суметь	to manage	здолець/здолела		to be able to do something, sense 1; past f здолела	https://starnik.by/pravapis/184296
+lemma.potshot	пальнуть	to take a shot	пульнуць/Пульнуць/пульнулі	пальнуць	one shot, perfective of паліць; past pl пульнулі; Starnik пальнуць; hunspell пульнуць	https://starnik.by/pravapis/197120
+lemma.lookover	осмотреть	to look over	агледзець/Агледзеўшы		perfective; gerund Агледзеўшы	https://starnik.by/pravapis/166884
+lemma.trample	затоптать	to trample	затаптаць/затапталі		sense 1, to crush underfoot; past pl затапталі	https://starnik.by/pravapis/182369
