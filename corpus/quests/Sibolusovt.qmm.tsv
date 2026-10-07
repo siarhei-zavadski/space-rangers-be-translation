@@ -1656,8 +1656,15 @@ Just then, to your joy, your nose plowed into the shore and carved out a trench 
 Then you crawled out of the mound of dirt, looked back, and saw a fin hiding under the water.
 After you had taken a look around and calmed down a bit, you noticed that you had resurfaced not far from the path.
 It would only take five minutes to reach it.
-And you also vowed to yourself that you would never again poke your head into a dark cave."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/77/text"	"Заливать в первое отверстие"	"Quest Sibolusovt.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: Fill the first opening"	"Quest,Sibolusovt"	""
+And you also vowed to yourself that you would never again poke your head into a dark cave."	"Quest,Sibolusovt"	"Вы зараўлі не сваім голасам з перапуду і кінуліся плыць прэч з пячоры.
+Ад вашага крыку пачварышча, відаць, прачнулася і нетаропка паплыло за вамі.
+Вы паддалі, пачварышча таксама, вы яшчэ надбавілі, пачварышча паскорылася, вы пабілі галяктычны рэкорд па плаваньні на вольнай вадзе, але пачварышча ўсё не адставала.
+Тут, на ваша шчасьце, вы ўткнуліся носам у бераг і прааралі ў ім невялікую баразну, крокаў гэтак з дзесяць.
+Потым вы вылезьлі з кучы зямлі, паглядзелі назад і ўбачылі плаўнік, які хаваўся пад вадой.
+Азірнуўшыся па баках і паступова супакойваючыся, вы выявілі, што вынырнулі недалёка ад сьцежкі.
+Выбрацца ж на яе было справай пяці хвілінаў.
+А яшчэ вы далі сабе зарок, што ў цёмныя пячоры больш ніколі ня сунецеся..."
+"/quests/Sibolusovt.qmm/jumps/77/text"	"Заливать в первое отверстие"	"Quest Sibolusovt.qmm: jumps.77.text. Preserve every <tag> exactly. English reference: Fill the first opening"	"Quest,Sibolusovt"	"Заліваць у першую адтуліну"
 "/quests/Sibolusovt.qmm/jumps/78/text"	"Продолжить поиски"	"Quest Sibolusovt.qmm: jumps.78.text. Preserve every <tag> exactly. English reference: Continue the search"	"Quest,Sibolusovt"	"Працягнуць пошукі"
 "/quests/Sibolusovt.qmm/jumps/78/description"	"Вы пошли назад, надеясь, что там вам повезет больше, и тут пошел ливень...
 Вы мгновенно вымокли насквозь, будто вас обливали водой из ведер или пожарного крана.
@@ -1667,7 +1674,11 @@ And you also vowed to yourself that you would never again poke your head into a 
 You were instantly soaked through, as if you had been the victim of a bucket of water or a fire hose.
 But this wasn't the worst part. The problem was that the visibility had dropped to zero in a flash, and you couldn't do anything but grope around blindly. 
 You realized that you had found a cliff only when you lost your footing and slipped down its slimy slopes with terrific speed, trying to outpace the currents of water that were coursing downward on both sides of you.
-You sank to the bottom of the mountainside, and the rain stopped just as quickly as it had begun. You lay in a puddle for a while and then got up and looked around. You had landed smack-dab in the meadow where you had started your journey."	"Quest,Sibolusovt"	""
+You sank to the bottom of the mountainside, and the rain stopped just as quickly as it had begun. You lay in a puddle for a while and then got up and looked around. You had landed smack-dab in the meadow where you had started your journey."	"Quest,Sibolusovt"	"Вы пайшлі назад, спадзеючыся, што там вам пашанцуе больш, і тут пайшла залева...
+Вы імгненна вымаклі наскрозь, быццам вас аблівалі вадой з вёдраў ці пажарнага крана.
+Але гэта было яшчэ не самае сумнае. А рэч у тым, што бачнасьць навокал імгненна зьнізілася да нулявой, і вам нічога не заставалася, як рухацца навобмацак. 
+Вы зразумелі, што знайшлі абрыў толькі тады, калі пасьлізнуліся і паехалі ўніз па яго сьлізкіх схілах з дзікай хуткасьцю, спаборнічаючы ў хуткасьці з патокамі вады, якія несьліся паралельнымі з вамі курсамі.
+Вы дакаціліся да канца схілу, і тут дожджык скончыўся, гэтак жа нечакана, як і пачаўся. Вы нейкі час паляжалі ў лужы, а потым падняліся і агледзеліся. Аказваецца, вы зваліліся проста на паляну, зь якой пачалі сваё вандраваньне."
 "/quests/Sibolusovt.qmm/jumps/79/text"	"Продолжить поиски"	"Quest Sibolusovt.qmm: jumps.79.text. Preserve every <tag> exactly. English reference: Continue the search"	"Quest,Sibolusovt"	"Працягнуць пошукі"
 "/quests/Sibolusovt.qmm/jumps/81/text"	"Продолжить поиски"	"Quest Sibolusovt.qmm: jumps.81.text. Preserve every <tag> exactly. English reference: Continue the search"	"Quest,Sibolusovt"	"Працягнуць пошукі"
 "/quests/Sibolusovt.qmm/jumps/81/description"	"Вы пошли вправо,  надеясь, что там вам повезет больше чем слева, и тут пошел ливень...
@@ -1678,21 +1689,25 @@ You sank to the bottom of the mountainside, and the rain stopped just as quickly
 You were instantly soaked through, and when you crawled out onto the shore the water leaked off of you in small streams.
 But this wasn't the worst part. The problem was that the visibility had dropped to zero in a flash, and you couldn't do anything but grope around blindly. 
 You realized that you had found some mountain only when you lost your footing and slipped down its slimy slopes with terrific speed, trying to outpace the currents of water that were coursing downward on both sides of you.
-You sank to the bottom of the mountainside, and the rain stopped just as quickly as it had begun. You lay in a puddle for a while and then got up and looked around. You had landed smack-dab in the meadow where you had started your journey."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/83/text"	"Заливать во второе отверстие"	"Quest Sibolusovt.qmm: jumps.83.text. Preserve every <tag> exactly. English reference: Fill the second opening"	"Quest,Sibolusovt"	""
+You sank to the bottom of the mountainside, and the rain stopped just as quickly as it had begun. You lay in a puddle for a while and then got up and looked around. You had landed smack-dab in the meadow where you had started your journey."	"Quest,Sibolusovt"	"Вы пайшлі ўправа, спадзеючыся, што там вам пашанцуе больш, чым зьлева, і тут пайшла залева...
+Вы імгненна вымаклі наскрозь, быццам вас аблівалі вадой з вёдраў ці пажарнага крана.
+Але гэта было яшчэ не самае сумнае. А рэч у тым, што бачнасьць навокал імгненна зьнізілася да нулявой, і вам нічога не заставалася, як рухацца навобмацак. 
+Вы зразумелі, што знайшлі нейкую гару толькі тады, калі пасьлізнуліся і паехалі ўніз па яе сьлізкіх схілах з дзікай хуткасьцю, спаборнічаючы ў хуткасьці з патокамі вады, якія несьліся паралельнымі з вамі курсамі.
+Вы дакаціліся да канца схілу, і тут дожджык скончыўся, гэтак жа нечакана, як і пачаўся. Вы нейкі час паляжалі ў лужы, а потым падняліся і агледзеліся. Аказваецца, вы зваліліся проста на паляну, зь якой пачалі сваё вандраваньне."
+"/quests/Sibolusovt.qmm/jumps/83/text"	"Заливать во второе отверстие"	"Quest Sibolusovt.qmm: jumps.83.text. Preserve every <tag> exactly. English reference: Fill the second opening"	"Quest,Sibolusovt"	"Заліваць у другую адтуліну"
 "/quests/Sibolusovt.qmm/jumps/84/text"	"Идти на запад"	"Quest Sibolusovt.qmm: jumps.84.text. Preserve every <tag> exactly. English reference: Go west"	"Quest,Sibolusovt"	"Ісьці на захад"
-"/quests/Sibolusovt.qmm/jumps/85/text"	"Заливать в третье отверстие"	"Quest Sibolusovt.qmm: jumps.85.text. Preserve every <tag> exactly. English reference: Fill the third opening"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/86/text"	"Заливать в четвертое отверстие"	"Quest Sibolusovt.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Fill the fourth opening"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/87/text"	"Заливать в пятое отверстие"	"Quest Sibolusovt.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Fill the fifth opening"	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/88/text"	"Остальные отверстия"	"Quest Sibolusovt.qmm: jumps.88.text. Preserve every <tag> exactly. English reference: Remaining openings"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/85/text"	"Заливать в третье отверстие"	"Quest Sibolusovt.qmm: jumps.85.text. Preserve every <tag> exactly. English reference: Fill the third opening"	"Quest,Sibolusovt"	"Заліваць у трэцюю адтуліну"
+"/quests/Sibolusovt.qmm/jumps/86/text"	"Заливать в четвертое отверстие"	"Quest Sibolusovt.qmm: jumps.86.text. Preserve every <tag> exactly. English reference: Fill the fourth opening"	"Quest,Sibolusovt"	"Заліваць у чацьвёртую адтуліну"
+"/quests/Sibolusovt.qmm/jumps/87/text"	"Заливать в пятое отверстие"	"Quest Sibolusovt.qmm: jumps.87.text. Preserve every <tag> exactly. English reference: Fill the fifth opening"	"Quest,Sibolusovt"	"Заліваць у пятую адтуліну"
+"/quests/Sibolusovt.qmm/jumps/88/text"	"Остальные отверстия"	"Quest Sibolusovt.qmm: jumps.88.text. Preserve every <tag> exactly. English reference: Remaining openings"	"Quest,Sibolusovt"	"Астатнія адтуліны"
 "/quests/Sibolusovt.qmm/jumps/89/text"	"Продолжить поиски"	"Quest Sibolusovt.qmm: jumps.89.text. Preserve every <tag> exactly. English reference: Continue the search"	"Quest,Sibolusovt"	"Працягнуць пошукі"
 "/quests/Sibolusovt.qmm/jumps/90/text"	"Идти на запад"	"Quest Sibolusovt.qmm: jumps.90.text. Preserve every <tag> exactly. English reference: Go west"	"Quest,Sibolusovt"	"Ісьці на захад"
-"/quests/Sibolusovt.qmm/jumps/91/text"	"Заливать в шестое отверстие"	"Quest Sibolusovt.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Fill the sixth opening"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/91/text"	"Заливать в шестое отверстие"	"Quest Sibolusovt.qmm: jumps.91.text. Preserve every <tag> exactly. English reference: Fill the sixth opening"	"Quest,Sibolusovt"	"Заліваць у шостую адтуліну"
 "/quests/Sibolusovt.qmm/jumps/93/text"	"Идти на запад"	"Quest Sibolusovt.qmm: jumps.93.text. Preserve every <tag> exactly. English reference: Go west"	"Quest,Sibolusovt"	"Ісьці на захад"
-"/quests/Sibolusovt.qmm/jumps/94/text"	"Начать процедуру взлома"	"Quest Sibolusovt.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Start breaking in"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/94/text"	"Начать процедуру взлома"	"Quest Sibolusovt.qmm: jumps.94.text. Preserve every <tag> exactly. English reference: Start breaking in"	"Quest,Sibolusovt"	"Пачаць працэдуру ўзлому"
 "/quests/Sibolusovt.qmm/jumps/95/text"	"Всплывать"	"Quest Sibolusovt.qmm: jumps.95.text. Preserve every <tag> exactly. English reference: Resurface"	"Quest,Sibolusovt"	"Усплываць"
 "/quests/Sibolusovt.qmm/jumps/96/text"	"Всплывать"	"Quest Sibolusovt.qmm: jumps.96.text. Preserve every <tag> exactly. English reference: Resurface"	"Quest,Sibolusovt"	"Усплываць"
-"/quests/Sibolusovt.qmm/jumps/97/text"	"Плыть на блеск"	"Quest Sibolusovt.qmm: jumps.97.text. Preserve every <tag> exactly. English reference: Swim toward the sparkle"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/97/text"	"Плыть на блеск"	"Quest Sibolusovt.qmm: jumps.97.text. Preserve every <tag> exactly. English reference: Swim toward the sparkle"	"Quest,Sibolusovt"	"Плыць на бляск"
 "/quests/Sibolusovt.qmm/jumps/98/text"	"Всплывать"	"Quest Sibolusovt.qmm: jumps.98.text. Preserve every <tag> exactly. English reference: Resurface"	"Quest,Sibolusovt"	"Усплываць"
 "/quests/Sibolusovt.qmm/jumps/99/text"	"Заливать в седьмое отверстие"	"Quest Sibolusovt.qmm: jumps.99.text. Preserve every <tag> exactly. English reference: Fill the seventh opening"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/100/text"	"Заливать в восьмое отверстие"	"Quest Sibolusovt.qmm: jumps.100.text. Preserve every <tag> exactly. English reference: Fill the eighth opening"	"Quest,Sibolusovt"	""
@@ -1706,7 +1721,7 @@ You sank to the bottom of the mountainside, and the rain stopped just as quickly
 "/quests/Sibolusovt.qmm/jumps/108/text"	"Отправляться на поиски рычага"	"Quest Sibolusovt.qmm: jumps.108.text. Preserve every <tag> exactly. English reference: Go look for a lever"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/109/text"	"Заливать в десятое отверстие"	"Quest Sibolusovt.qmm: jumps.109.text. Preserve every <tag> exactly. English reference: Fill the tenth opening"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/110/text"	"Идти на восток"	"Quest Sibolusovt.qmm: jumps.110.text. Preserve every <tag> exactly. English reference: Go east"	"Quest,Sibolusovt"	"Ісьці на ўсход"
-"/quests/Sibolusovt.qmm/jumps/111/text"	"Остальные отверстия"	"Quest Sibolusovt.qmm: jumps.111.text. Preserve every <tag> exactly. English reference: Remaining openings"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/111/text"	"Остальные отверстия"	"Quest Sibolusovt.qmm: jumps.111.text. Preserve every <tag> exactly. English reference: Remaining openings"	"Quest,Sibolusovt"	"Астатнія адтуліны"
 "/quests/Sibolusovt.qmm/jumps/112/text"	"Развести костерок"	"Quest Sibolusovt.qmm: jumps.112.text. Preserve every <tag> exactly. English reference: Start a small campfire"	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/113/text"	"Идти на восток"	"Quest Sibolusovt.qmm: jumps.113.text. Preserve every <tag> exactly. English reference: Go east"	"Quest,Sibolusovt"	"Ісьці на ўсход"
 "/quests/Sibolusovt.qmm/jumps/114/text"	"Идти на восток"	"Quest Sibolusovt.qmm: jumps.114.text. Preserve every <tag> exactly. English reference: Go east"	"Quest,Sibolusovt"	"Ісьці на ўсход"
