@@ -2102,7 +2102,7 @@ lemma.kitchen_adj	кухонный	kitchen	кухонны			https://starnik.by/p
 lemma.infinite	бесконечный	infinite	бясконцы/бясконцым			https://starnik.by/pravapis/100878
 lemma.transition	переход	transition	пераход/пераходы			https://starnik.by/pravapis/56043
 lemma.kuucha	Кууча	Kuucha	Кууча/Куучы/Куучу/Куучам/Юча/Ючы/Ючу/Ючам		peleng industrialist; G Куучы, D Куучу фон Ючу	Drugs.qmm
-lemma.hat	шляпа	hat	капялюш		the hat; Starnik шляпа is only the insult for a timid person	https://starnik.by/pravapis/33636
+lemma.hat	шляпа	hat	капялюш/капелюшы		the hat; Starnik nominative капялюш, locative капелюшы; шляпа is only the insult	https://starnik.by/pravapis/33636
 lemma.boot	сапог	boot	бот		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
 lemma.uniform	мундир	uniform	мундзір		military or service dress	https://starnik.by/pravapis/44617
 lemma.guard	охранник	guard	ахоўнік		a person who guards	https://starnik.by/pravapis/7927
@@ -3592,3 +3592,32 @@ lemma.tadrun_stammer	замаске	broken briefing	замаске/замыск�
 lemma.bungalow	бунгало	bungalow	бунгала		the hut the ranger starts; hunspell suggests the different word мангала	—
 lemma.random_god	Рэндом	the god Random	Рэндам/Рэндаму		patron of rangers; hunspell suggestions are other words	—
 lemma.nothingdoing	ничегонеделание	doing nothing	нічоганяробленьне/нічоганяробленьнем		coined noun for sitting and doing nothing	—
+lemma.provisions	провизия	provisions	харч/харчу		food supplies, sense 1; genitive харчу	https://starnik.by/pravapis/81587
+lemma.raw	сырой	uncooked	сыры/сырымі		sense 2, not boiled or fried; not сырасьць, which is dampness	https://starnik.by/pravapis/153397
+lemma.chew	жевать	to chew	жаваць		to chew food	https://starnik.by/pravapis/178457
+lemma.rumble	бурчать	to rumble	бурчаць/забурчала/бурчаньне		sense 3, impersonal in the stomach; verbal noun бурчаньне	https://starnik.by/pravapis/171951
+lemma.hinge	шарнир	hinge	шарнір/шарнірах		a joint; locative plural шарнірах	https://starnik.by/pravapis/84809
+lemma.bunker	бункер	bunker	бункер/бункера		sense 2, a shelter; genitive бункера	https://starnik.by/pravapis/11998
+lemma.evolution	эволюция	evolution	эвалюцыя		sense 1, change in living things	https://starnik.by/pravapis/86408
+lemma.petiole	черенок	a leaf stalk	чаранок/чаранком		sense 2, the stalk of a leaf or berry; instrumental чаранком	https://starnik.by/pravapis/83878
+lemma.nook	уголок	a nook	куток		a small corner	https://starnik.by/pravapis/38134
+lemma.end_up	попасть	to end up	трапіць		sense 3, to land in bad circumstances; not патрапіць, which is to hit a target	https://starnik.by/pravapis/215545
+lemma.hunger	голод	hunger	голад/голаду		genitive голаду	https://starnik.by/pravapis/20306
+lemma.suspicious	подозрительно	suspicious	падазроны/падазрона		adverb падазрона	https://starnik.by/pravapis/243210
+lemma.choke	давиться	to choke food down	давіцца		sense 2, to eat what one is sick of	https://starnik.by/pravapis/176245
+lemma.gobble	лопать	to wolf down	жэрці		colloquial, to eat greedily; the shovel рыдлёўка is a different word	https://starnik.by/pravapis/178599
+lemma.taste	отведать	to taste	пакаштаваць		sense 1, to try food	https://starnik.by/pravapis/196710
+lemma.bake	печь	to bake	пячы		to cook by dry heat	https://starnik.by/pravapis/208709
+lemma.spherical	шарообразный	spherical	шарападобны/шарападобнай		genitive feminine шарападобнай	https://starnik.by/pravapis/161713
+lemma.glow	светиться	to glow	сьвяціцца/сьвецяцца		Starnik writes свяціцца; hunspell inserts ь	https://starnik.by/pravapis/212618
+lemma.porridge	каша	porridge	каша		a thick cereal dish	https://starnik.by/pravapis/34803
+lemma.immortalize	увековечить	to immortalize	увекавечыць		sense 1, to keep someone in memory	https://starnik.by/pravapis/216039
+lemma.sunken	затопленный	sunken	затоплены/затопленым		locative masculine затопленым	https://starnik.by/pravapis/238691
+lemma.mushroom_stem	ножка	mushroom stem	ножка/ножкай		sense 3, the stalk of a mushroom; instrumental ножкай	https://starnik.by/pravapis/48854
+lemma.catch_oneself	спохватиться	to catch oneself	схамянуцца/схамянуліся		sense 1, to notice a mistake in time	https://starnik.by/pravapis/214875
+lemma.transport	транспорт	transport	транспарт/транспарце		locative транспарце	https://starnik.by/pravapis/75533
+lemma.stick	застревать	to get stuck	захрасаць		imperfective of захраснуць	https://starnik.by/pravapis/182789
+lemma.fraer_stammer	хлю	broken show-off	хлю		the proverb starts хлюста and breaks off before рэйнджэра	—
+lemma.credits_title	Увольвокскечу	coined title	Увольвокскечу		the fake film title in the empty-location credits	—
+lemma.credits_sign	ШПАКиК	a signature	ШПАКиК		the credits signature; hunspell suggests the different word Шпак	—
+lemma.lenin_hinge	Ленинашарнирах	coined return	Ленінашарнірах		one token, Lenin plus шарнірах; hunspell wants two words	—
