@@ -958,7 +958,7 @@ lemma.baboom	забабахаю	I'll boom it	забабахаю		pun on ба'Б�
 lemma.teodam	Теодам	Teodam	Теодам		Hanna's crunch-name; proper-name lock	Banket.qmm
 lemma.vandall	Ван-Далл	Van-Dall	Ван-Далл/Ван-Дала/Ван-Далу		malok emperor; proper-name lock	Banket.qmm
 lemma.puakhava	пуахава	puakhawa	пуахава		Menzol cloak name	Banket.qmm
-lemma.meal	трапеза	meal	трапэза	трапеза	a sitting meal; hunspell spelling	https://starnik.by/pravapis/75618
+lemma.meal	трапеза	meal	трапэза/трапэзу	трапеза	a sitting meal; hunspell spelling; A трапэзу	https://starnik.by/pravapis/75618
 lemma.piezo_wallpaper	пьезообои	piezo wallpaper	п'езашпалерамі/п'езашпалеры		coined cave-style palace wallpaper	Banket.qmm
 lemma.butler	дворецкий	butler	дварэцкі/дварэцкага		senior household servant	https://starnik.by/pravapis/22377
 lemma.khnyts	Хныц	Khitz	Хныц/Хныца		peleng friend who invents malok greetings	Banket.qmm
@@ -2871,7 +2871,7 @@ lemma.pavement	мостовая	pavement	брук		the stone roadway	https://sta
 lemma.puddle	лужа	puddle	лужа/лужах		L pl лужах	https://starnik.by/pravapis/40046
 lemma.hairstyle	прическа	hairstyle	прычоска/прычоску		A прычоску	https://starnik.by/pravapis/61014
 lemma.peasant	крестьянин	peasant	селянін		a villager	https://starnik.by/pravapis/68598
-lemma.gesture	жест	gesture	жэст/жэстаў		G pl жэстаў	https://starnik.by/pravapis/26076
+lemma.gesture	жест	gesture	жэст/жэстаў/жэсту		G pl жэстаў; G sg жэсту	https://starnik.by/pravapis/26076
 lemma.thanks	благодарность	thanks	падзяка/падзякі		G падзякі	https://starnik.by/pravapis/50541
 lemma.foolishness	глупость	foolishness	глупства/глупстваў		G pl глупстваў	https://starnik.by/pravapis/20068
 lemma.tired	усталый	tired	стомлены		exhausted	https://starnik.by/pravapis/248743
@@ -3721,7 +3721,7 @@ lemma.restorative	регенерирующий	restorative	аднаўленчы	
 lemma.agitation_adj	агитационный	agitation	агітацыйны		the plain adjective; Starnik lists the compound агітацыйна-сатырычны	https://starnik.by/pravapis/92897
 lemma.coconut	кокос	a coconut	какос		the fruit, sense 2	https://starnik.by/pravapis/31913
 lemma.vigor	энергия	energy	энэргія/энэргіі		the capacity to do work, sense 1; Starnik энергія; hunspell э; G энэргіі	https://starnik.by/pravapis/87492
-lemma.open_palm	ладонь	a palm	далонь/далоні		the inner side of the hand; A pl далоні	https://starnik.by/pravapis/21849
+lemma.open_palm	ладонь	a palm	далонь/далоні/далоньню		the inner side of the hand; A pl далоні; I далоньню; Starnik далонню; hunspell inserts ь	https://starnik.by/pravapis/21849
 lemma.scramble	карабкаться	to scramble	карабкацца/карабкаліся		to climb by grabbing with hands and feet; past карабкаліся	https://starnik.by/pravapis/186240
 lemma.refuel	подкрепиться	to take a bite	падмацавацца		to eat or drink in order to get strength back	https://starnik.by/pravapis/194760
 lemma.spit_on	поплевать	to spit	паплявалі		perfective past of пляваць, onto the palms before a climb	https://starnik.by/pravapis/203948
@@ -3752,3 +3752,30 @@ lemma.stomach	желудок	a stomach	страўнік		the organ the gullet jo
 lemma.facet	фасетка	a facet	фасэт/фасэтаў		a unit of a compound eye, sense 3; Starnik фасет; hunspell э	https://starnik.by/pravapis/79704
 lemma.endure	стерпеть	to endure	сьцярпець		to bear something unpleasant; the dictionary example is сцярпець абразу; Starnik сцярпець; hunspell ь	https://starnik.by/pravapis/215067
 lemma.unsure	нерешительно	uncertainly	няўпэўнена		adverb; the adjective sense 2 shows indecision	https://starnik.by/pravapis/242617
+lemma.insert	вставить	to insert	уставіць/ўставілі		sense 1, to put something inside; past ўставілі after a vowel	https://starnik.by/pravapis/218158
+lemma.fright	испугаться	to be frightened	спалохацца/спалохаўся		to feel fear suddenly	https://starnik.by/pravapis/213615
+lemma.press_to	прижаться	to press close	прыціснуцца/прыціснуўся		sense 1, to press oneself against something	https://starnik.by/pravapis/208271
+lemma.assess	оценить	to assess	ацаніць/ацаніў		sense 2, to judge something	https://starnik.by/pravapis/171018
+lemma.ignore	игнорировать	to ignore	ігнараваць/ігнаравалі		to deliberately not notice	https://starnik.by/pravapis/185472
+lemma.poke	тыкать	to poke	тыцкаць/тыцкаў		to poke, the same as тыкаць	https://starnik.by/pravapis/215791
+lemma.sunbeam	зайчик	a sunbeam	зайчык		a bright spot from a reflected ray, sense 2; inanimate accusative зайчык	https://starnik.by/pravapis/26758
+lemma.dally	забавляться	to amuse oneself	бавіцца		to play, sense 2	https://starnik.by/pravapis/171340
+lemma.grow_bored	надоесть	to grow bored	надакучыць/надакучыла		to stop being interesting	https://starnik.by/pravapis/188899
+lemma.spit_act	плюнуть	to spit once	плюнуць/плюнулі		one act of spitting	https://starnik.by/pravapis/203923
+lemma.disgust	омерзение	disgust	агіда/агідай/агідна		a very unpleasant feeling, sense 1; I агідай; adverb агідна	https://starnik.by/pravapis/1585
+lemma.dry_hand	вытереть	to wipe	выцерці/выцер		sense 1, to wipe something clean; masculine past выцер	https://starnik.by/pravapis/174950
+lemma.stare	уставиться	to stare	утаропіцца/ўтаропіўся		to stare without looking away	https://starnik.by/pravapis/218365
+lemma.skyward	кверху	upward	дагары		sense 2, upward	https://starnik.by/pravapis/223386
+lemma.close_up	вплотную	right up close	ушчыльную		sense 2, right up against something	https://starnik.by/pravapis/233166
+lemma.monkey	мартышка	a monkey	малпа/малпу	мартышка	the animal, sense 1; A малпу	https://starnik.by/pravapis/41347
+lemma.scheme	замышлять	to scheme	замышляць/замышляе		imperfective of замысліць, to intend something	https://starnik.by/pravapis/180980
+lemma.envenom	травить	to poison	атручваць		imperfective of атруціць	https://starnik.by/pravapis/170813
+lemma.friendship	дружба	friendship	сяброўства		closeness and mutual goodwill	https://starnik.by/pravapis/74189
+lemma.tradition	традиционный	traditional	традыцыйны		based on a tradition	https://starnik.by/pravapis/154486
+lemma.deed	действие	a deed	дзеяньне/дзеяньні		plural deeds, sense 1; Starnik дзеянні; hunspell ь	https://starnik.by/pravapis/22735
+lemma.recognition	признание	recognition	прызнаньне		the act of acknowledging, sense 1; Starnik прызнанне; hunspell ь	https://starnik.by/pravapis/60245
+lemma.similar	похожий	similar	падобны/падобных		sense 1, resembling something; G pl падобных	https://starnik.by/pravapis/133788
+lemma.handshake	пожать	to shake a hand	паціснуць		sense 1, to press someone's hand	https://starnik.by/pravapis/200719
+lemma.accord	мир	peace	мір/міру		absence of hostility, sense 1; G міру	https://starnik.by/pravapis/90205
+lemma.produce	плод	a fruit	плод/пладоў		the edible part of a plant, sense 1; G pl пладоў	https://starnik.by/pravapis/57320
+lemma.puzzled	недоуменно	puzzled	недаўменна		adverb; the noun недаўменне is puzzlement from not understanding	https://starnik.by/pravapis/47386
