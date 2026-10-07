@@ -2444,7 +2444,7 @@ lemma.katar	Катар	Katar	Катар/Катара/Катарам/Катару
 lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
 lemma.spark	Спарк	Spark	Спарк/Спаркам		regional head of OSEB on Half-axis; I Спаркам	Proprolog.qmm
 lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
-lemma.walker	Крутой Уокер	Cool Walker	Ўокера		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
+lemma.walker	Крутой Уокер	Cool Walker	Ўокера/Ўокеру		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
 lemma.texas	Техас	Texas	Тэхас/Тэхаса/тэхаскіх		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
 lemma.cheer	ура	cheer	УРРРАААА/УРРРААААА		the victory shout, both spellings from the source	Proprolog.qmm
 lemma.trala	тра-ля-ля	tra-la-la	тра		Venus refrain; hunspell splits the hyphen and rejects тра	Proprolog.qmm
@@ -3535,7 +3535,7 @@ lemma.filth	гадость	filth	паскудзтва/паскудзтвам		fi
 lemma.doorlet	дверца	a small door	дзьверцы		plural only; a small door; Starnik headword дзверцы; hunspell and the door lemma use ь	https://starnik.by/pravapis/22588
 lemma.paw	лапа	a paw	лапа/лапай/лапах/лапу		an animal's foot; L pl лапах; A лапу	https://starnik.by/pravapis/38598
 lemma.barrel	ствол	a gun barrel	ствал/ствалы		the file already uses ствалы; hunspell lacks the nominative and suggests ствол	—
-lemma.wool	шерсть	wool	поўсць/поўсьці		fur; hunspell inserts ь in the genitive; Starnik headword поўсць, G поўсці	https://starnik.by/pravapis/58073
+lemma.wool	шерсть	wool	поўсць/поўсьці/Поўсць		fur; hunspell inserts ь in the genitive; Starnik headword поўсць, G поўсці	https://starnik.by/pravapis/58073
 lemma.stop	упор	a stop	ўпор/ўпору		pressed to the stop, sense 1, genitive -у; not all the way	https://starnik.by/pravapis/78588
 lemma.blizzard	буран	a blizzard	буран		a wind that lifts dry snow	https://starnik.by/pravapis/12047
 lemma.flesh	плоть	flesh	плоць		the body of a living being, sense 1	https://starnik.by/pravapis/57355
@@ -4210,6 +4210,19 @@ lemma.hem	хм	hm	Хм		the thoughtful hum; hunspell suggestions are other words
 lemma.stewardess	стюардесса	stewardess	стуардэса		a woman who serves passengers; Starnik сцюардэса; hunspell сту	https://starnik.by/pravapis/73956
 lemma.equip_self	снарядиться	to gear up	экіпіравацца		sense 1, to equip oneself with what is needed; hunspell suggestion is a different word	https://starnik.by/pravapis/220549
 lemma.town_rangers	Рейнджерсвилль	Rangersville	Рэйнджэрсвіль/Рэйнджэрсвілля		the quest city; doubled л of the source stays; hunspell has no form	—
-lemma.iddqd	ай-ди-ди-кью-ди	IDDQD	ай/ди/кью		frozen Doom cheat letter-names; the shout jumps use the same token	—
+lemma.iddqd	ай-ди-ди-кью-ди	IDDQD	ай/ди/кью/АЙ/ДИ/КЬЮ		frozen Doom cheat letter-names; the shout jumps use the same token	—
 lemma.bkz	бкз	bkz	бкз		street abbreviation of буказоіды in the Gypsum price; hunspell suggestions are other words	—
 lemma.bead_strand	ожерелье	a bead necklace	маніста		a string of beads; the page gives the paradigm and lists the dictionaries	https://starnik.by/pravapis/41592
+lemma.barren	пустошь	a barren stretch	пусташ/пусташы		unsettled unworked land; N pl пусташы on the road sign	https://starnik.by/pravapis/61751
+lemma.trackless	дремучий	trackless	дрымучы/Дрымучы		old and impassable, of a forest; the sign capitalizes the place	https://starnik.by/pravapis/109661
+lemma.kilogram	килограмм	kilogram	кіляграм		the SI unit of mass; Starnik кілаграм; hunspell кіляграм	https://starnik.by/pravapis/35326
+lemma.hybrid	помесь	a hybrid	гібрыд/Гібрыд		an organism from crossing different kinds; the Latin gloss is помесь	https://starnik.by/pravapis/19161
+lemma.snarl	урчать	to snarl	вурчачы		the animal growl, sense 1 of вурчаць; gerund вурчачы; hunspell suggestions are other words	https://starnik.by/pravapis/172422
+lemma.withers	загривок	the withers	загрывак/загрыўку		the lower mane, or the back of an animal's neck; L загрыўку	https://starnik.by/pravapis/26553
+lemma.screech_n	клекот	a screech	клёкат/клёкатам		the broken cry of some birds; the verb page names the noun клёкат	https://starnik.by/pravapis/186617
+lemma.road_fork	развилка	a crossroads	раздарожжа		where roads meet and part	https://starnik.by/pravapis/63202
+lemma.saliva	слюна	saliva	сьліна		the fluid in the mouth; Starnik сліна; hunspell inserts ь	https://starnik.by/pravapis/70272
+lemma.jaw	челюсть	a jaw	сківіца/сківіцамі		the bone that holds the teeth; I pl сківіцамі	https://starnik.by/pravapis/69717
+lemma.mustdie_npc	непись	a must-die NPC	Непісі/мастдайныя		gamer slang for a non-player, plus the Doom must-die joke; hunspell suggestions are other words	—
+lemma.ikaya	Икая	Ikaya	Ікая		the shop name, an IKEA joke; hunspell suggestions are other words	—
+lemma.katsap	Кацап	Katsap	Кацап		the peleng's name in this quest	—
