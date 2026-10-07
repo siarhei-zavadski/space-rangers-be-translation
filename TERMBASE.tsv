@@ -4165,7 +4165,7 @@ lemma.packet	пакет	a packet	пакет		a paper or plastic bag for products
 lemma.fishhook	крючок	a fishhook	кручок/кручкоў		a hook for catching, sense 2; the example is a fishing hook; G pl кручкоў	https://starnik.by/pravapis/37111
 lemma.assortment	набор	a set	набор/наборам		a set of items for the same use, sense 2; instrumental наборам	https://starnik.by/pravapis/45146
 lemma.sturdy	прочный	sturdy	трывалы/Трывалы		hard to break or spoil, sense 1; N m трывалы	https://starnik.by/pravapis/155043
-lemma.hand_grenade	граната	a grenade	граната/Граната		a small bursting shell thrown by hand; N граната	https://starnik.by/pravapis/20604
+lemma.hand_grenade	граната	a grenade	граната/Граната/гранату		a small bursting shell thrown by hand; N граната	https://starnik.by/pravapis/20604
 lemma.type_n	тип	a type	тып/Тып		a model a group of things shares, sense 1; N тып	https://starnik.by/pravapis/76694
 lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу/армрэстлінгам		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
@@ -4319,3 +4319,6 @@ lemma.waspsting	жалить	to sting	джаліць/джалячы		to wound wi
 lemma.matyuk	мат	a swear	мацюк/мацюком		a coarse swear-word; I мацюком; hunspell suggestions are other words	https://starnik.by/pravapis/42405
 lemma.fib	приврать	to fib	прыхлусіць/прыхлусіў		to add a lie while telling something, sense of прылгаць; past прыхлусіў	https://starnik.by/pravapis/208227
 lemma.gyrate	кружить	to circle	кружыць/кружачы		to move in circles, sense 2; adverbial кружачы; not the disk name Круг	https://starnik.by/pravapis/186784
+lemma.grenade_pin	чека	a grenade pin	чэка/чэку		the pin that arms a grenade; Starnik чака/чаку, hunspell чэка/чэку; already shipped as чэку	https://starnik.by/pravapis/83764
+lemma.shrapnel	осколок	shrapnel	асколак/асколкамі		a piece broken off, including a grenade splinter; I pl асколкамі; not the crystal аскепак	https://starnik.by/pravapis/6528
+lemma.cloth_roll	рулон	a roll	рулён/рулёнаў/рулёнамі		cloth or paper rolled into a tube; Starnik рулонаў, hunspell рулёнаў; G pl рулёнаў, I pl рулёнамі	https://starnik.by/pravapis/65041
