@@ -883,7 +883,7 @@ lemma.quack_tose	Квак То-Ус	quack-tose	Квак/квак/КВАК/Ус/�
 lemma.haapt	Хаапт	Khahapt	Хаапта/Хаапт		globules named for Haapt	Xenopark.qmm
 lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/Зіркі	зірка	granules; not the star зірка	Xenopark.qmm
 lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша/лаап/шу/Шу		glandular fodder	Xenopark.qmm
-lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/Аэракары/аэракараў/Аэракар		the ranger's car at the park	Xenopark.qmm
+lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/Аэракары/аэракараў/Аэракар/аэракарам		the ranger's car at the park; I аэракарам	Xenopark.qmm
 lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
 lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст/бааністы/бааністамі/бааністаў		gaal scholar of ііке-баан	Xenopark.qmm
 lemma.kabaan	Ка-баан Здоох	Pestupohn Yer	Ка/Здоох		author of the aishaut note	Xenopark.qmm
@@ -2266,7 +2266,7 @@ lemma.kvakto	квакто-усы	cactus-whiskers	квакта-вусы/квак�
 lemma.halotext	галотекст	holotext	галятэкст		a transparent sheet with a speech	Colonization.qmm
 lemma.halopaper	галобумага	holopaper	галяпапера/галяпаперу		a transparent sheet with a 3D interface	Colonization.qmm
 lemma.halosheet	галолист	holosheet	галяліст/галяліста		the builder's transparent list	Colonization.qmm
-lemma.polyconcrete	полибетон	polyconcrete	полібэтон/полібэтонную/полібэтону		the landing pad's concrete	Colonization.qmm
+lemma.polyconcrete	полибетон	polyconcrete	полібэтон/полібэтонную/полібэтону/полібэтонныя		the landing pad's concrete; adj pl полібэтонныя; not пенабэтон	Colonization.qmm
 lemma.cryoconcrete	криобетон	cryoconcrete	крыябэтон/крыябэтонная/Крыябэтонная/крыябэтону/крыябэтоннай/крыябэтонную/крыябэтонам		the wall's concrete; G f крыябэтоннай; f acc крыябэтонную; I noun крыябэтонам	Colonization.qmm
 lemma.mutenok	мутенок	little muten	мутэнак/мутэнка/мутэнку/Мутэнку/мутэнкаў		a small ship in the ranger's dream; D Мутэнку, Gpl мутэнкаў	Colonization.qmm
 lemma.hegemon	эгемон	hegemon	эгемон		a klissan ship in the ranger's dream	Colonization.qmm
@@ -4412,3 +4412,4 @@ lemma.afar	вдали	far off	воддаль		at a distance; воддаль ад
 lemma.popup	всплывающий	popup	усплывальны/усплывальным		a window that floats up; I m усплывальным; hunspell suggestions are other words	https://starnik.by/pravapis/157380
 lemma.tripanya	трипанья	a tripanya	трыпання/трыпаннямі		a coined peleng fish; I pl трыпаннямі; hunspell suggestions are other words	—
 lemma.pirafish	пирашка	a pirate fish	пірашка/пірашкі/пірашак		a coined little pirate-fish; N pl пірашкі; G pl пірашак; hunspell suggestions are other words	—
+lemma.giggle	хы	a snicker	Хы/хы		the ranger's snicker; hunspell suggestions are other words	—
