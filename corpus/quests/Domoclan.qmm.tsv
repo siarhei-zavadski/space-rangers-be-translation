@@ -2,7 +2,7 @@
 "/quests/Domoclan.qmm/parameters/0/name"	"Сила"	"Quest Domoclan.qmm: parameters.0.name. Preserve every <tag> exactly."	"Quest,Domoclan"	"Сіла"
 "/quests/Domoclan.qmm/parameters/0/lines/0/content"	"Вы очень сильны"	"Quest Domoclan.qmm: parameters.0.lines.0.content. Preserve every <tag> exactly."	"Quest,Domoclan"	"Вы вельмі моцныя"
 "/quests/Domoclan.qmm/parameters/0/crit_text"	"Сообщение достижения критического значения параметром 9"	"Quest Domoclan.qmm: parameters.0.crit_text. Preserve every <tag> exactly."	"Quest,Domoclan"	""
-"/quests/Domoclan.qmm/parameters/1/name"	"Интеллект"	"Quest Domoclan.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Domoclan"	""
+"/quests/Domoclan.qmm/parameters/1/name"	"Интеллект"	"Quest Domoclan.qmm: parameters.1.name. Preserve every <tag> exactly."	"Quest,Domoclan"	"Інтэлект"
 "/quests/Domoclan.qmm/parameters/1/lines/0/content"	"Вы гениальный рейнджер"	"Quest Domoclan.qmm: parameters.1.lines.0.content. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/1/crit_text"	"Сообщение достижения критического значения параметром 11"	"Quest Domoclan.qmm: parameters.1.crit_text. Preserve every <tag> exactly."	"Quest,Domoclan"	""
 "/quests/Domoclan.qmm/parameters/2/name"	"Харизма"	"Quest Domoclan.qmm: parameters.2.name. Preserve every <tag> exactly."	"Quest,Domoclan"	"Харызма"
