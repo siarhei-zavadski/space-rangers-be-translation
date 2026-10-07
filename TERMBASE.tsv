@@ -1563,7 +1563,7 @@ lemma.prospaau	проспа-а-а-л	overslept	праспаааў		stretched п�
 lemma.traba	Траба	kaboom	Траба		shotgun boom in the miss joke; Starnik has no entry	Stealth.qmm
 lemma.rosary	четки	rosary	ружанец	пацеркі	Starnik: ружанец = чётки; пацерка is one bead	https://starnik.by/pravapis/54446
 lemma.pip	очко	card pip	вочка/вочкі/вочак	пункт	card-pip sense; G pl вочак	https://starnik.by/pravapis/15266
-lemma.mud_hand	грязь	mud	гразь/гразі/гразяў	бруд	face-in-the-mud hand; бруд is filth	https://starnik.by/pravapis/20544
+lemma.mud_hand	грязь	mud	гразь/гразі/гразяў/гразьзю	бруд	face-in-the-mud hand; бруд is filth; I гразьзю, hunspell inserts ь	https://starnik.by/pravapis/20544
 lemma.spike_rank	шип	spike	шып/шыпа/шыпы/шыпаў/шыпам		protrusion, not the fish	https://starnik.by/pravapis/86226
 lemma.casing	кожух	casing	кажух/кажуха		sense 2, housing of a mechanism	https://starnik.by/pravapis/31755
 lemma.pass_doc	пропуск	pass	пропуск/пропуска	прапуск	document; hunspell rejects прапуск	https://starnik.by/pravapis/59763
@@ -2280,7 +2280,7 @@ lemma.manmade	рукотворный	man-made	рукатворны/рукатв�
 lemma.shower	обсыпать	to shower	абсыпаўшы		gerund of абсыпаць	https://starnik.by/pravapis/166181
 lemma.cknp	ЦКНП	CCUP	ЦКНП		Center for Colonization of Uninhabited Planets	Colonization.qmm
 lemma.raygun	лучемет	raygun	прамянёмёт/прамянёмётаў		a ray gun in the dream	Colonization.qmm
-lemma.polyplastic	полипластик	polyplastic	поліплястык/поліплястыку/поліплястыкавыя		the colony's plastic	Colonization.qmm
+lemma.polyplastic	полипластик	polyplastic	поліплястык/поліплястыку/поліплястыкавыя/поліплястыкаў		the colony's plastic	Colonization.qmm
 lemma.barbarg	Барбарг	Barbarg	Барбарг/Барбарга/Барбаргам		the malok in charge of the army; G Барбарга, I Барбаргам	Colonization.qmm
 lemma.halodoc	галодокумент	holodocument	галядакумэнт		a resignation sheet	Colonization.qmm
 lemma.neuron	нейронный	neural	нэйроннай		a neuron bomb, not a neutron bomb; tarask нэй- as in псеўданэйронныя; Starnik нейрон	https://starnik.by/pravapis/47601
@@ -4445,3 +4445,7 @@ lemma.miserly	жадный	greedy	хцівы		grasping, sense 2	https://starnik.
 lemma.wink_once	подмигнуть	to wink	падміргнуць/падміргнуў		past m падміргнуў	https://starnik.by/pravapis/194785
 lemma.big_bottle	бутыль	a large bottle	бутля/бутлю		a big bottle, not бутэлька; A бутлю	https://starnik.by/pravapis/12180
 lemma.turn_sour	прокиснуть	to go sour	пракіснуць/пракісьне		Starnik future пракісне; hunspell inserts ь	https://starnik.by/pravapis/204888
+lemma.stuffy	душный	stuffy	душны/душным		stuffy air, sense 2; I m душным	https://starnik.by/pravapis/109867
+lemma.greasy	засалиться	to get greasy	засаліцца/засаліліся		greasy sense, stress on са; the salty verb is the same spelling	https://starnik.by/pravapis/181854
+lemma.dirtiest	грязнейший	dirtiest	найбруднейшы/найбруднейшай		hunspell suggests other words; I f найбруднейшай	https://starnik.by/pravapis/126214
+lemma.perk_up	оживиться	to perk up	ажывіцца/ажывіўся		sense 2, to brighten; not апрытомнець	https://starnik.by/pravapis/169276
