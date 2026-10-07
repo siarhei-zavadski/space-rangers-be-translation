@@ -1357,7 +1357,7 @@ lemma.mozalg	Мозалг-Доп-Лагниф	Mozalg-Dop-Lagnif	Мозалг-Д�
 lemma.gdabo	Гдабо-бан	Gdabo-ban	Гдабо/бана/бан		malok writer; N бан, G бана	Feipsycho.qmm
 lemma.texton	Текстон	Texton	Тэкстон/Тэкстона		dominator boss the patient denies	Feipsycho.qmm
 lemma.ragobam	Рагобамская	Ragobam	Рагабамская		coined toad	Feipsycho.qmm
-lemma.flask	колба	flask	колба/Колба	коўба	laboratory vessel, not sausage	https://starnik.by/pravapis/36296
+lemma.flask	колба	flask	колба/Колба/колбаў/колбай	коўба	laboratory vessel, not sausage	https://starnik.by/pravapis/36296
 lemma.sesame	Сим-сим	open sesame	Сэзам/сэзам/сэзамам		elevator password; same words on the jump and in the ward	Feipsycho.qmm
 lemma.bioreactor	биореактор	bioreactor	біярэактар/Біярэактар		hospital disposal tank	https://starnik.by/pravapis/10678
 lemma.adchynisya	откройся	open up	адчыніся		imperative of адчыніцца; hunspell lacks the form	https://starnik.by/pravapis/169075
@@ -2553,7 +2553,7 @@ lemma.humanoid	гуманоид	humanoid	гуманоід/гуманоіды		a 
 lemma.tournament	турнир	tournament	турнір		a sports tournament	https://starnik.by/pravapis/76551
 lemma.hotel	гостиница	hotel	гасьцініца/гасьцініцу	гасцініца	hunspell soft sign; Starnik гасцініца	https://starnik.by/pravapis/18468
 lemma.national_team	сборная	national team	зборная/зборнай		the Olympic squad	https://starnik.by/pravapis/28342
-lemma.uranium_adj	урановый	uranium	уранавы/уранавыя		made of uranium	https://starnik.by/pravapis/157110
+lemma.uranium_adj	урановый	uranium	уранавы/уранавыя/уранавая/уранавай/уранавую		made of uranium	https://starnik.by/pravapis/157110
 lemma.invitation	приглашение	invitation	запрашэньне	запрашэнне	tarask ь; Starnik запрашэнне	https://starnik.by/pravapis/27542
 lemma.duty_free	беспошлинно	duty-free	бяспошлінна	беспашлінна		https://starnik.by/pravapis/222667
 lemma.mokus	Мокус	Mokus	Мокус		a miswritten dalani in one draw; kept as printed	Doomino.qmm
@@ -3388,7 +3388,7 @@ lemma.on_foot	пешком	on foot	пяшком	пешком	on foot, not by tra
 lemma.earleg	ухоногий	ear-legged	вуханогі/вуханогага/вуханогіх/Вуханогі/вуханогаму		coined ear-and-leg sibolusovt; G вуханогага; D вуханогаму; G pl вуханогіх; capital Вуханогі; hunspell lacks the compound	—
 lemma.venom	яд	poison	атрута/атрутай/атруту		a substance that kills, sense 1; I атрутай; A атруту	https://starnik.by/pravapis/7008
 lemma.coffin	гроб	a coffin	труна/труну		the box a body is buried in; A труну; idiom Хоць у труну кладзі	https://starnik.by/pravapis/75930
-lemma.sulfuric	серный	sulfuric	серны/сернай		of sulfur; f серная, I сернай; серная кіслата	https://starnik.by/pravapis/149505
+lemma.sulfuric	серный	sulfuric	серны/сернай/серная/серную		of sulfur; f серная, I сернай; серная кіслата	https://starnik.by/pravapis/149505
 lemma.acid	кислота	acid	кіслата/кіслатой		a sour chemical, sense 1; I кіслатой	https://starnik.by/pravapis/35701
 lemma.rod	прут	a rod	прут		a long thin bar; the iron example is жалезны прут	https://starnik.by/pravapis/90515
 lemma.dart	дротик	a dart	дроцік/дроцікам/дроцікамі/дроцікаў		a small throwing spear, sense 2; I дроцікам	https://starnik.by/pravapis/23487
@@ -4441,7 +4441,7 @@ lemma.reverie	размечтаться	to daydream	размарыцца/разм
 lemma.fortune_n	состояние	a fortune	багацьце	багацце	money piled up, sense 1; not the state стан; Starnik багацце, hunspell inserts ь	https://starnik.by/pravapis/8444
 lemma.little_pail	ведерко	a little pail	вядзерца	вядзерка	diminutive of вядро; G вядзерца	https://starnik.by/pravapis/16936
 lemma.yarn_ball	клубок	a ball of yarn	клубок		a wound ball, here of algae	https://starnik.by/pravapis/36054
-lemma.miserly	жадный	greedy	хцівы		grasping, sense 2	https://starnik.by/pravapis/159775
+lemma.miserly	жадный	greedy	хцівы/хціва		grasping, sense 2	https://starnik.by/pravapis/159775
 lemma.wink_once	подмигнуть	to wink	падміргнуць/падміргнуў		past m падміргнуў	https://starnik.by/pravapis/194785
 lemma.big_bottle	бутыль	a large bottle	бутля/бутлю		a big bottle, not бутэлька; A бутлю	https://starnik.by/pravapis/12180
 lemma.turn_sour	прокиснуть	to go sour	пракіснуць/пракісьне		Starnik future пракісне; hunspell inserts ь	https://starnik.by/pravapis/204888
@@ -4470,3 +4470,18 @@ lemma.shaft_n	шахта	a shaft	шахта/шахту		a vertical cavity in a s
 lemma.exhausted_adj	изнуренный	exhausted	зьняможаны		Starnik зняможаны; hunspell inserts ь	https://starnik.by/pravapis/114903
 lemma.unattractive	неказистый	plain-looking	непрывабны/непрывабную		lacking appeal; A f непрывабную	https://starnik.by/pravapis/130104
 lemma.gravpress	грависжимающий	gravity-pressing	гравісьціскальны/гравісьціскальнай		coined bin that compresses trash; G f гравісьціскальнай	—
+lemma.nitric	азотный	nitric	азотны/азотная/азотнай/азотную		of nitrogen; азотная кіслата	https://starnik.by/pravapis/94638
+lemma.phosphoric	фосфорный	phosphoric	фосфарны/фосфарная/фосфарнай/фосфарную		contains phosphorus; фосфарная кіслата	https://starnik.by/pravapis/158643
+lemma.carboxylic	карбоновый	carboxylic	карбонавы/карбонавая/карбонавай/карбонавую		of carbon; hunspell wants other words; Starnik карбонавы	https://starnik.by/pravapis/117905
+lemma.iziode	изиодный	iziode	ізіёдная/ізіёднай/ізіёдную/Ізіёдная		coined acid; iodine joke; not in Starnik; capital Ізіёдная	—
+lemma.dizodan	дизодановый	dizodan	дызаданавая/дызаданавай/дызаданавую		coined acid; not in Starnik	—
+lemma.slyboots	проныра	a sly one	праныра/праныры		a pushy person who finds things out; G праныры	https://starnik.by/pravapis/59012
+lemma.handbook	справочник	a handbook	даведнік		a book of short facts	https://starnik.by/pravapis/21515
+lemma.chemical	химический	chemical	хімічны		of chemistry, sense 1	https://starnik.by/pravapis/159337
+lemma.shelf	полка	a shelf	паліца/паліцы/паліцах/паліцу		a board for vessels, sense 1; same spelling as the mace	https://starnik.by/pravapis/52121
+lemma.diagonal	диагональ	a diagonal	дыяганаль/дыяганальлю		the line, feminine; I дыяганальлю	https://starnik.by/pravapis/24462
+lemma.dip_pen	ручка	a pen	асадка/асадку		a writing pen; the door handle stays клямка	https://starnik.by/pravapis/6361
+lemma.rumpled	помятый	creased	пакамечаную/пакамечаны		crumpled from use; A f пакамечаную	https://starnik.by/pravapis/243924
+lemma.go_numb	онеметь	to go numb	анямець/анямелую		to lose feeling; A f анямелую	https://starnik.by/pravapis/169867
+lemma.agony	агония	agony	агонія/агоніі		the dying state; G агоніі	https://starnik.by/pravapis/1694
+lemma.last_gasp	предсмертный	deathbed	перадсьмяротнай		just before death; Starnik перадсмяротны; hunspell inserts ь	https://starnik.by/pravapis/138410
