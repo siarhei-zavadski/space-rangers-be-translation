@@ -2103,7 +2103,7 @@ lemma.infinite	бесконечный	infinite	бясконцы/бясконцы
 lemma.transition	переход	transition	пераход/пераходы/пераходу/пераходаў		G пераходу; G pl пераходаў	https://starnik.by/pravapis/56043
 lemma.kuucha	Кууча	Kuucha	Кууча/Куучы/Куучу/Куучам/Юча/Ючы/Ючу/Ючам		peleng industrialist; G Куучы, D Куучу фон Ючу	Drugs.qmm
 lemma.hat	шляпа	hat	капялюш/капелюшы		the hat; Starnik nominative капялюш, locative капелюшы; шляпа is only the insult	https://starnik.by/pravapis/33636
-lemma.boot	сапог	boot	бот		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
+lemma.boot	сапог	boot	бот/боты/ботамі/ботах		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
 lemma.uniform	мундир	uniform	мундзір		military or service dress	https://starnik.by/pravapis/44617
 lemma.guard	охранник	guard	ахоўнік		a person who guards	https://starnik.by/pravapis/7927
 lemma.wound	ранение	wound	раненьне	ранэнне	hunspell inserts ь; related паранены	https://starnik.by/pravapis/53045
@@ -4439,7 +4439,7 @@ lemma.reeking	вонючий	stinking	сьмярдзючы/сьмярдзюча�
 lemma.scoop_up	загрести	to scoop	загрэбці/загрэблі	заграблі	past pl загрэблі	https://starnik.by/pravapis/179533
 lemma.reverie	размечтаться	to daydream	размарыцца/размарыўся		to get lost in a dream; past m размарыўся; the other размарыцца is exhaustion	https://starnik.by/pravapis/209709
 lemma.fortune_n	состояние	a fortune	багацьце	багацце	money piled up, sense 1; not the state стан; Starnik багацце, hunspell inserts ь	https://starnik.by/pravapis/8444
-lemma.little_pail	ведерко	a little pail	вядзерца	вядзерка	diminutive of вядро; G вядзерца	https://starnik.by/pravapis/16936
+lemma.little_pail	ведерко	a little pail	вядзерца/вядзерцы	вядзерка	diminutive of вядро; G вядзерца	https://starnik.by/pravapis/16936
 lemma.yarn_ball	клубок	a ball of yarn	клубок		a wound ball, here of algae	https://starnik.by/pravapis/36054
 lemma.miserly	жадный	greedy	хцівы/хціва		grasping, sense 2	https://starnik.by/pravapis/159775
 lemma.wink_once	подмигнуть	to wink	падміргнуць/падміргнуў		past m падміргнуў	https://starnik.by/pravapis/194785
@@ -4485,3 +4485,12 @@ lemma.rumpled	помятый	creased	пакамечаную/пакамечаны
 lemma.go_numb	онеметь	to go numb	анямець/анямелую		to lose feeling; A f анямелую	https://starnik.by/pravapis/169867
 lemma.agony	агония	agony	агонія/агоніі		the dying state; G агоніі	https://starnik.by/pravapis/1694
 lemma.last_gasp	предсмертный	deathbed	перадсьмяротнай		just before death; Starnik перадсмяротны; hunspell inserts ь	https://starnik.by/pravapis/138410
+lemma.fry_fish	малек	a fry	малёк/малькі		a young fish just out of the egg; N pl малькі	https://starnik.by/pravapis/41287
+lemma.plask	плеск	a splash	пляск		the sound of a hand striking water, sense 1	https://starnik.by/pravapis/57492
+lemma.icy	ледяной	icy	ледзяны/ледзяная/ледзяной		freezing cold, like ice; f ледзяная, G f ледзяной	https://starnik.by/pravapis/121019
+lemma.selfheat	самогреющий	self-heating	самагрэйны/самагрэйнымі/самагрэйныя		coined boot that heats itself; I pl самагрэйнымі	—
+lemma.selfwarm	самообогрев	self-heating	самаабагрэў/самаабагрэвам		coined heating built into the boot; I самаабагрэвам	—
+lemma.pirashka	пирашка	a little biter	пірашка/пірашкі/пірашкам		coined fry that bite; D pl пірашкам	—
+lemma.tuft	клок	a tuft	жмут		a small bundle of grass or algae	https://starnik.by/pravapis/25749
+lemma.aafriika	Аафриика	Aafriika	Аафрыіка		coined gaal planet; not in Starnik	—
+lemma.eeey	Эээй	a yell	Эээй		the sunbather's shout; hunspell's Энэй is another name	—
