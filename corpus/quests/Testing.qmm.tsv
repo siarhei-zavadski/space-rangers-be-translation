@@ -1867,16 +1867,17 @@
 "/quests/Testing.qmm/jumps/297/description"	"- Нет, дружок, неправильно. Недостоин ты носить Орудие Света, а значит, и не видать тебе его как своих ушей."	"Quest Testing.qmm: jumps.297.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Не, дружа, няправільна. Няварты ты насіць Гармату Сьвятла, а значыць, і не відаць табе яе як сваіх вушэй."
 "/quests/Testing.qmm/jumps/298/text"	"Патриотичный художник"	"Quest Testing.qmm: jumps.298.text. Preserve every <tag> exactly."	"Quest,Testing"	"Патрыятычны мастак"
 "/quests/Testing.qmm/jumps/298/description"	"- Нет, дружок, неправильно. Недостоин ты носить Орудие Света, а значит, и не видать тебе его как своих ушей."	"Quest Testing.qmm: jumps.298.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Не, дружа, няправільна. Няварты ты насіць Гармату Сьвятла, а значыць, і не відаць табе яе як сваіх вушэй."
-"/quests/Testing.qmm/jumps/299/text"	"Идти к кратеру"	"Quest Testing.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/300/text"	"Потрогать зеленую землю"	"Quest Testing.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/300/description"	"Вы наклонились над особенно ярко светившимся комком и пощупали его руками. Не самая удачная идея, поскольку вы больно обожглись и тут же отдернули поврежденную конечность. Химия сплошная..."	"Quest Testing.qmm: jumps.300.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/302/text"	"Вылить на землю содержимое банки"	"Quest Testing.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/299/text"	"Идти к кратеру"	"Quest Testing.qmm: jumps.299.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да кратэра"
+"/quests/Testing.qmm/jumps/300/text"	"Потрогать зеленую землю"	"Quest Testing.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Testing"	"Памацаць зялёную зямлю"
+"/quests/Testing.qmm/jumps/300/description"	"Вы наклонились над особенно ярко светившимся комком и пощупали его руками. Не самая удачная идея, поскольку вы больно обожглись и тут же отдернули поврежденную конечность. Химия сплошная..."	"Quest Testing.qmm: jumps.300.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы нахіліліся над камяком, які сьвяціўся асабліва ярка, і памацалі яго рукамі. Ня самая ўдалая думка, бо вы балюча абпякліся і адразу адхапілі пашкоджаную канцавіну. Суцэльная хімія..."
+"/quests/Testing.qmm/jumps/302/text"	"Вылить на землю содержимое банки"	"Quest Testing.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Testing"	"Выліць на зямлю зьмесьціва банкі"
 "/quests/Testing.qmm/jumps/302/description"	"Вы откупорили банку с нарисованным на ней трилистником и осторожно вылили ее содержимое на зеленую землю, предварительно зажмурившись...
-...Когда вы очнулись, то обнаружили, что лежите в нескольких десятках метров от места происшествия. Более того - пролетая сквозь чащу, где она еще уцелела после взрыва, вы поломали собой несколько деревьев, а один толстый ствол лежал у вас на животе. Странно, но, хотя вам это было несколько неприятно, вы чувствовали, что ни одна кость не сломана. Хм... ваши суставы внезапно стали гуттаперчевыми, и гнулись чуть ли не под любым углом, что определенно пошло на пользу <clr>ловкости<clrEnd>. Да вы теперь просто супермен! Вот только как выбраться из-под ствола?"	"Quest Testing.qmm: jumps.302.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/303/text"	"Поднатужиться и сбросить с себя ствол"	"Quest Testing.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/303/description"	"Вы напряглись изо всех сил и благодаря накачанным мышцам немного сдвинули ствол, а затем и сбросили его с себя."	"Quest Testing.qmm: jumps.303.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/304/text"	"Поднатужиться и сбросить с себя ствол"	"Quest Testing.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/304/description"	"Сколько вы не тужились, ствол не сдвинулся ни на миллиметр. Очень плохо."	"Quest Testing.qmm: jumps.304.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+...Когда вы очнулись, то обнаружили, что лежите в нескольких десятках метров от места происшествия. Более того - пролетая сквозь чащу, где она еще уцелела после взрыва, вы поломали собой несколько деревьев, а один толстый ствол лежал у вас на животе. Странно, но, хотя вам это было несколько неприятно, вы чувствовали, что ни одна кость не сломана. Хм... ваши суставы внезапно стали гуттаперчевыми, и гнулись чуть ли не под любым углом, что определенно пошло на пользу <clr>ловкости<clrEnd>. Да вы теперь просто супермен! Вот только как выбраться из-под ствола?"	"Quest Testing.qmm: jumps.302.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы адкаркавалі банку з намаляваным на ёй трылісьнікам і асьцярожна вылілі яе зьмесьціва на зялёную зямлю, папярэдне зажмурыўшыся...
+...Калі вы апрытомнелі, то выявілі, што ляжыце ў некалькіх дзясятках мэтраў ад месца здарэньня. Больш за тое — пралятаючы скрозь гушчар, дзе ён яшчэ ўцалеў пасьля выбуху, вы паламалі сабой некалькі дрэваў, а адно тоўстае бервяно ляжала ў вас на жываце. Дзіўна, але, хоць вам гэта было трохі непрыемна, вы адчувалі, што ніводная костка не зламаная. Хм... вашы суставы раптам сталі гутаперчавымі і гнуліся ледзь не пад любым вуглом, што пэўна пайшло на карысьць <clr>лоўкасьці<clrEnd>. Ды вы цяпер проста супэрмэн! Вось толькі як выбрацца з-пад бервяна?"
+"/quests/Testing.qmm/jumps/303/text"	"Поднатужиться и сбросить с себя ствол"	"Quest Testing.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Testing"	"Натужыцца і скінуць з сябе бервяно"
+"/quests/Testing.qmm/jumps/303/description"	"Вы напряглись изо всех сил и благодаря накачанным мышцам немного сдвинули ствол, а затем и сбросили его с себя."	"Quest Testing.qmm: jumps.303.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы напружыліся з усіх сіл і дзякуючы напампаваным мышцам трохі ссунулі бервяно, а потым і скінулі яго з сябе."
+"/quests/Testing.qmm/jumps/304/text"	"Поднатужиться и сбросить с себя ствол"	"Quest Testing.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Testing"	"Натужыцца і скінуць з сябе бервяно"
+"/quests/Testing.qmm/jumps/304/description"	"Сколько вы не тужились, ствол не сдвинулся ни на миллиметр. Очень плохо."	"Quest Testing.qmm: jumps.304.description. Preserve every <tag> exactly."	"Quest,Testing"	"Колькі вы ні тужыліся, бервяно не зрушылася ні на мілімэтар. Вельмі дрэнна."
 "/quests/Testing.qmm/jumps/306/text"	"Позвать на помощь"	"Quest Testing.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Testing"	"Паклікаць на дапамогу"
 "/quests/Testing.qmm/jumps/306/description"	"- НА ПОМОЩЬ!!! - негромко, чтобы не распугать лесных зверюшек, позвали вы. - ЛЮЮЮДИ!!! МАЛОКИ, ФЭЯНЕ, ПЕЛЕНГИ, ГААЛЬЦЫ!!!..
 Ваш зов возымел действие - вы увидели склонившееся над вами широкое малокское лицо.
@@ -1884,18 +1885,29 @@
 - Бен, ай нид хелп! - попросили вы.
 - Да-с, влип ты, приятель, - оценив ваше положение, сказал Бен. - Но ничего, {500*(1-([p4]*0,06+[p3])*0,03)} бкз, и я тебя вытащу.
 - СКОЛЬКО??? - тактично уточнили вы.
-- {500*(1-([p4]*0,06+[p3])*0,03)}. И не уговаривай меня, я вообще из другой игры, а тут на полставки тружусь."	"Quest Testing.qmm: jumps.306.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/307/text"	"Может, все-таки скинешь немного? Мы ж коллеги, рейнджеры"	"Quest Testing.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+- {500*(1-([p4]*0,06+[p3])*0,03)}. И не уговаривай меня, я вообще из другой игры, а тут на полставки тружусь."	"Quest Testing.qmm: jumps.306.description. Preserve every <tag> exactly."	"Quest,Testing"	"- НА ДАПАМОГУ!!! — нягучна, каб не распужаць лясных зьвяркоў, паклікалі вы. — ЛЮЮЮДЗІ!!! МАЛОКІ, ФЭЯНЕ, ПЕЛЕНГІ, ГААЛЬЦЫ!!!..
+Ваш кліч падзейнічаў — вы ўбачылі схіленае над вамі шырокае малокскае аблічча.
+- Вітаю, вандроўнік, што прывяло цябе пад гэтае бервяно? — дабрадушна спытала аблічча. — Я — Бэн, лясьнік і рэйнджэр.
+- Бен, ай нид хелп! — папрасілі вы.
+- Так, уліп ты, прыяцель, — ацаніўшы ваша становішча, сказаў Бэн. — Але нічога, {500*(1-([p4]*0,06+[p3])*0,03)} бкз, і я цябе выцягну.
+- КОЛЬКІ??? — тактоўна ўдакладнілі вы.
+- {500*(1-([p4]*0,06+[p3])*0,03)}. І не ўгаворвай мяне, я ўвогуле з іншай гульні, а тут напалову стаўкі працую."
+"/quests/Testing.qmm/jumps/307/text"	"Может, все-таки скинешь немного? Мы ж коллеги, рейнджеры"	"Quest Testing.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Testing"	"Можа, ўсё ж скінеш трохі? Мы ж калегі, рэйнджэры"
 "/quests/Testing.qmm/jumps/307/description"	"- Да уж, калеки-рейнджеры, - расхохотался малок. - Не скину, сказал же. И вообще, не действуй на нервы, у меня крит x7 на 12-20.
 - Что на чем? - не поняли вы.
-- Молчи уж, раз не понимаешь..."	"Quest Testing.qmm: jumps.307.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/308/text"	"Держи, для хорошего малока не жалко"	"Quest Testing.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+- Молчи уж, раз не понимаешь..."	"Quest Testing.qmm: jumps.307.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Ну так, калекі-рэйнджэры, — зарагатаў малок. — Не скіну, сказаў жа. І ўвогуле, не дзей мне на нэрвы, ў мяне крыт x7 на 12-20.
+- Што на чым? — не зразумелі вы.
+- Маўчы ўжо, раз не разумееш..."
+"/quests/Testing.qmm/jumps/308/text"	"Держи, для хорошего малока не жалко"	"Quest Testing.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Testing"	"Трымай, для добрага малока не шкада"
 "/quests/Testing.qmm/jumps/308/description"	"- Вот спасибо, - сказал Бен, легким движением руки отшвыривая ствол и помогая вам стать. - А то курс буказоидов по отношению к золоту совсем уж грабительский.
-Поднявшись и отряхнувшись, вы обнаружили, что Бен одет в какие-то лохмотья, и в качестве оружия у него лук и стрелы. Однако!"	"Quest Testing.qmm: jumps.308.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/310/text"	"Но у меня столько нет!"	"Quest Testing.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Поднявшись и отряхнувшись, вы обнаружили, что Бен одет в какие-то лохмотья, и в качестве оружия у него лук и стрелы. Однако!"	"Quest Testing.qmm: jumps.308.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Вось дзякуй, — сказаў Бэн, лёгкім рухам рукі адкідаючы бервяно і дапамагаючы вам устаць. — А то курс буказоідаў у адносінах да золата зусім ужо грабежніцкі.
+Падняўшыся і абтросшыся, вы выявілі, што Бэн апрануты ў нейкія лахмоцьці, і ў якасьці зброі ў яго лук і стрэлы. Аднак!"
+"/quests/Testing.qmm/jumps/310/text"	"Но у меня столько нет!"	"Quest Testing.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Testing"	"Але ў мяне столькі няма!"
 "/quests/Testing.qmm/jumps/310/description"	"Бен горестно вздохнул.
 - Ну что же... - печально сказал он. - Нет так нет, давай что есть, и еще оружие ближнего боя в придачу.
-Уже поднявшись и отряхнувшись, вы обнаружили, что Бен одет в какие-то лохмотья, и в качестве оружия у него лук и стрелы. Однако!"	"Quest Testing.qmm: jumps.310.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+Уже поднявшись и отряхнувшись, вы обнаружили, что Бен одет в какие-то лохмотья, и в качестве оружия у него лук и стрелы. Однако!"	"Quest Testing.qmm: jumps.310.description. Preserve every <tag> exactly."	"Quest,Testing"	"Бэн тужліва ўздыхнуў.
+- Ну што ж... — сумна сказаў ён. — Няма дык няма, давай што ёсьць, і яшчэ зброю блізкага бою ў прыдачу.
+Ужо падняўшыся і абтросшыся, вы выявілі, што Бэн апрануты ў нейкія лахмоцьці, і ў якасьці зброі ў яго лук і стрэлы. Аднак!"
 "/quests/Testing.qmm/jumps/311/text"	"Идти назад в лес"	"Quest Testing.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці назад у лес"
 "/quests/Testing.qmm/jumps/312/text"	"Поговорить с Бинокуляром"	"Quest Testing.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/313/text"	"Ладно, я пойду"	"Quest Testing.qmm: jumps.313.text. Preserve every <tag> exactly."	"Quest,Testing"	""
