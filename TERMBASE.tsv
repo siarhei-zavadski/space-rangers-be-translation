@@ -3569,7 +3569,7 @@ lemma.fluctuation	флюктуально	by fluctuation	флюктуацыйна
 lemma.lyaceskish	Ляцескиш	Lyatseskish	Ляцэскіш		coined bank on the fireproof cheque; hunspell suggests the different word Ляскаціш	—
 lemma.vizdrop	виздропсядзждные	nonsense gate	віздропсядзждныя		coined technobabble in the dimension gates; the syllable string stays	—
 lemma.beastfae	зверофэй	beast fae	Зьверафэй		coined island primate; зьвер plus фэй; hunspell suggests the different word зьверафэрма	—
-lemma.fizgan	физган	physgun	Фізган		coined field-gun; a gravity grabber; hunspell suggests the different word Зганіць	—
+lemma.fizgan	физган	physgun	Фізган/фізган/фізгана/фізганам		coined field-gun; a gravity grabber; hunspell suggests the different word Зганіць; genitive фізгана, instrumental фізганам; also the quest's физпушка	—
 lemma.pantry_code	Грибж	food tag	Грыбж/Грыбб/Грыбк/Яж/Яч/Як		inventory color tags; ж and б stay, and к stays for red so it does not collide with black ч	—
 lemma.bamboo	бамбук	bamboo	бамбук/бамбуку		genitive бамбуку; hunspell rejects бамбука	https://starnik.by/pravapis/8961
 lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сьцёблаў		bamboo culm; Starnik writes сцябло and hunspell inserts ь; the gun barrel stays ствал	https://starnik.by/pravapis/73966
@@ -3695,3 +3695,9 @@ lemma.digestive	пищеварительный	digestive	стрававальн�
 lemma.epaulette	погон	an epaulette	пагон/пагонамі		shoulder insignia, sense 2; instrumental plural пагонамі	https://starnik.by/pravapis/50064
 lemma.chart_case	планшетка	a map case	пляншэтка		diminutive; Starnik планшэт sense 3 is the bag, hunspell spells the diminutive with я	—
 lemma.field_kit	снаряжение	field kit	рыштунак/рыштунку		equipment for a job, sense 1; masculine, genitive рыштунку; not снарад	https://starnik.by/pravapis/65468
+lemma.calamity	бедствие	a calamity	бедзтва		Starnik бедства; hunspell inserts ь	https://starnik.by/pravapis/9600
+lemma.wretch	бедняга	a wretch	бядак/бедаку		colloquial unfortunate; dative бедаку, with е	https://starnik.by/pravapis/12429
+lemma.peaked_cap	фуражка	a peaked cap	фуражка/фуражку		a cap with a peak; not пілотка	https://starnik.by/pravapis/81188
+lemma.pornographic	порнографический	pornographic	парнаграфічны/парнаграфічнага		genitive парнаграфічнага	https://starnik.by/pravapis/136356
+lemma.kersey	кирза	kirza	кірза/кірзы		the cloth a boot is made of, genitive кірзы	https://starnik.by/pravapis/35659
+lemma.lyamboro	Лямборо хэви	broken brand	Лямборо/хэві		joke brand; hunspell wants Лямбард and хэпі, other words	—
