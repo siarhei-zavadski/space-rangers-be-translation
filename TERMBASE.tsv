@@ -3077,7 +3077,7 @@ lemma.slider	ползунок	slider	паўзунок/Паўзунок		a mechan
 lemma.nip	куснуть	nip	куснуў		one bite; past m куснуў	https://starnik.by/pravapis/187031
 lemma.bite	укусить	bite	укусіў		a wounding bite; past m укусіў after a non-vowel	https://starnik.by/pravapis/217147
 lemma.maul	искусать	maul	пакусаў		bit in many places; past m пакусаў	https://starnik.by/pravapis/196932
-lemma.eat	съесть	eat	зьеў	з'еў	hunspell spelling; Starnik writes the apostrophe; past m зьеў	https://starnik.by/pravapis/178611
+lemma.eat	съесть	eat	зьеў/зьесьці	з'еў	hunspell spelling; Starnik writes the apostrophe; past m зьеў; infinitive зьесьці	https://starnik.by/pravapis/178611
 lemma.both	оба	both	абодвух		animate accusative of абодва	https://starnik.by/pravapis/220776
 lemma.row	строка	text line	радок/Радок		a line of text, sense 2	https://starnik.by/pravapis/62458
 lemma.wait	ожидание	waiting	чаканьне/Чаканьне		tarask -ньне; Starnik headword чаканне	https://starnik.by/pravapis/83775
@@ -3891,3 +3891,7 @@ lemma.ship_captain	капитан	a captain	капітан/капітана		the
 lemma.mortimer	Мортимер	Mortimer	Мортымэр/Гросбух		the laboratory doctor's name; hunspell suggestions are other words	—
 lemma.buynoff	Буйнофф	Buynoff	Герр/Буйнофф		the malok security chief; Herr plus the surname; hunspell suggestions are other words	—
 lemma.kyrybnet	кырыбнетика	a garble	кырыбнетыка		the malok's garble of кібернетыка; do not correct it	—
+lemma.puff	раздувать	to blow up	разьдзімаць	раздзімаць	to blow a flame higher, imperfective of раздзьмуць; Starnik раздзімаць; hunspell inserts ь	https://starnik.by/pravapis/209384
+lemma.twig	ветка	a twig	галінка/галінак		a small branch; G pl галінак	https://starnik.by/pravapis/17681
+lemma.quarter	четверть	a quarter	чвэрць		one fourth of a whole, sense 1	https://starnik.by/pravapis/84183
+lemma.moiety	половина	a half	палова/палову		one of two equal parts, sense 1; A палову	https://starnik.by/pravapis/52145
