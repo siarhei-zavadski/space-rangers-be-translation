@@ -2445,7 +2445,7 @@ lemma.insignificance	незначительность	insignificance	нязна�
 lemma.spark	Спарк	Spark	Спарк/Спаркам		regional head of OSEB on Half-axis; I Спаркам	Proprolog.qmm
 lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
 lemma.walker	Крутой Уокер	Cool Walker	Ўокера		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
-lemma.texas	Техас	Texas	Тэхас/Тэхаса		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
+lemma.texas	Техас	Texas	Тэхас/Тэхаса/тэхаскіх		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
 lemma.cheer	ура	cheer	УРРРАААА/УРРРААААА		the victory shout, both spellings from the source	Proprolog.qmm
 lemma.trala	тра-ля-ля	tra-la-la	тра		Venus refrain; hunspell splits the hyphen and rejects тра	Proprolog.qmm
 lemma.pneumodraisine	пневмодрезина	pneumatic trolley	пнэўмадрэзіна/пнэўмадрэзіну/пнэўмадрэзіны		the base rail trolley; coined	Proprolog.qmm
@@ -4130,7 +4130,7 @@ lemma.nonbeing	небытие	nonbeing	нябыт		absence of being; A нябы�
 lemma.armor_vest	бронежилет	armored vest	бронежылет	бронемашын	a vest of armor; hunspell suggests бронемашын, a different word	https://starnik.by/pravapis/11515
 lemma.armorclad	броневой	armored	бранявы		relative adjective	https://starnik.by/pravapis/99943
 lemma.elude	ускользать	to slip away	высьлізгваць/высьлізгвае		imperfective of высьлізнуць; Starnik выслізгваць; hunspell inserts ь; 3sg высьлізгвае	https://starnik.by/pravapis/174406
-lemma.bukazoid	Буказоиды	bukazoids	Буказоіды/буказоідаў	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
+lemma.bukazoid	Буказоиды	bukazoids	Буказоіды/буказоідаў/Буказоідаў	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
 lemma.pseudodeath	псевдосмерть	pseudo-death	псэўдасьмерць/псэўдасьмерці	псэўданароднасьці	coined compound, псэўда- plus сьмерць; G псэўдасьмерці; hunspell suggests a different word	—
 lemma.futile	безуспешно	in vain	марна		adverb of марны, sense 1	https://starnik.by/pravapis/225542
 lemma.distant	дальний	distant	далёкі/Далёкі		at a great distance, sense 1; the opposite of блізкі	https://starnik.by/pravapis/107945
@@ -4209,3 +4209,7 @@ lemma.astroliner	астролайнер	astroliner	астралайнэр/аст
 lemma.hem	хм	hm	Хм		the thoughtful hum; hunspell suggestions are other words	—
 lemma.stewardess	стюардесса	stewardess	стуардэса		a woman who serves passengers; Starnik сцюардэса; hunspell сту	https://starnik.by/pravapis/73956
 lemma.equip_self	снарядиться	to gear up	экіпіравацца		sense 1, to equip oneself with what is needed; hunspell suggestion is a different word	https://starnik.by/pravapis/220549
+lemma.town_rangers	Рейнджерсвилль	Rangersville	Рэйнджэрсвіль/Рэйнджэрсвілля		the quest city; doubled л of the source stays; hunspell has no form	—
+lemma.iddqd	ай-ди-ди-кью-ди	IDDQD	ай/ди/кью		frozen Doom cheat letter-names; the shout jumps use the same token	—
+lemma.bkz	бкз	bkz	бкз		street abbreviation of буказоіды in the Gypsum price; hunspell suggestions are other words	—
+lemma.bead_strand	ожерелье	a bead necklace	маніста		a string of beads; the page gives the paradigm and lists the dictionaries	https://starnik.by/pravapis/41592
