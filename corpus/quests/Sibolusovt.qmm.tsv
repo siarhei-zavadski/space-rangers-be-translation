@@ -2229,52 +2229,65 @@ After this physical effort, the sibolusovtus went limp and let you celebrate in 
 Вы трыюмфавалі, але гэты зьвяруга раптам натужыўся і пачаў перагрызаць сетку. 
 Гэта не ўваходзіла ў вашы пляны, і вы некалькі разоў гвазданулі сібалусаўта па галаве цяжкім каменем, які валяўся непадалёк.
 Пасьля гэтага фізычнага намаганьня сібалусаўт абмяк і дазволіў вам трыюмфаваць спакойна."
-"/quests/Sibolusovt.qmm/jumps/228/text"	"Выстрелить из штурмового бластера"	"Quest Sibolusovt.qmm: jumps.228.text. Preserve every <tag> exactly. English reference: Shoot with your assault blaster"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/228/text"	"Выстрелить из штурмового бластера"	"Quest Sibolusovt.qmm: jumps.228.text. Preserve every <tag> exactly. English reference: Shoot with your assault blaster"	"Quest,Sibolusovt"	"Выстраліць са штурмавога блястэра"
 "/quests/Sibolusovt.qmm/jumps/228/description"	"Вы сняли с плеча штурмовой бластер и выстрелили в невозмутимо спящего сиболусовта. 
 Судя по окровавленным обрывкам шкуры, на залитом кровью пеньке сделали вы это зря..."	"Quest Sibolusovt.qmm: jumps.228.description. Preserve every <tag> exactly. English reference: You took the assault blaster from you shoulder and shot the serenely sleeping sibolusovtus. 
-Judging by the gory scrap of a hide left on the stump swimming in blood, you shouldn't have done that..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/229/text"	"Бросить в чудовище серную кислоту..."	"Quest Sibolusovt.qmm: jumps.229.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the monster..."	"Quest,Sibolusovt"	""
+Judging by the gory scrap of a hide left on the stump swimming in blood, you shouldn't have done that..."	"Quest,Sibolusovt"	"Вы зьнялі з пляча штурмавы блястэр і стрэлілі ў непарушна спячага сібалусаўта. 
+Мяркуючы па акрываўленых абрыўках шкуры, на залітым крывёй пяньку зрабілі вы гэта дарэмна..."
+"/quests/Sibolusovt.qmm/jumps/229/text"	"Бросить в чудовище серную кислоту..."	"Quest Sibolusovt.qmm: jumps.229.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the monster..."	"Quest,Sibolusovt"	"Кінуць у пачварышча серную кіслату..."
 "/quests/Sibolusovt.qmm/jumps/229/description"	"Вы бросили в чудовище склянку с серной кислотой. 
 От этого чудовище начало дымиться и издавать ужасные звуки, вызывающие внезапную дрожь в коленях..."	"Quest Sibolusovt.qmm: jumps.229.description. Preserve every <tag> exactly. English reference: You lobbed a vial of sulfuric acid at the monster. 
-This caused the monster to begin fuming and producing awful sounds that caused a sudden quaking in the knees..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/230/text"	"Бросить в чудовище серную кислоту..."	"Quest Sibolusovt.qmm: jumps.230.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the monster..."	"Quest,Sibolusovt"	""
+This caused the monster to begin fuming and producing awful sounds that caused a sudden quaking in the knees..."	"Quest,Sibolusovt"	"Вы кінулі ў пачварышча шклянку са сернай кіслатой. 
+Ад гэтага пачварышча пачало дыміцца і выдаваць жахлівыя гукі, якія выклікаюць раптоўныя дрыжыкі ў каленях..."
+"/quests/Sibolusovt.qmm/jumps/230/text"	"Бросить в чудовище серную кислоту..."	"Quest Sibolusovt.qmm: jumps.230.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the monster..."	"Quest,Sibolusovt"	"Кінуць у пачварышча серную кіслату..."
 "/quests/Sibolusovt.qmm/jumps/230/description"	"Вы бросили в чудовище склянку с серной кислотой. 
 От этого чудовище начало дымиться и издавать ужасные звуки, вызывающие внезапную дрожь в коленях...
 Однако это не помешало ему стукнуть вас несколько раз об стену..."	"Quest Sibolusovt.qmm: jumps.230.description. Preserve every <tag> exactly. English reference: You lobbed a vial of sulfuric acid at the monster. 
 This caused the monster to begin fuming and producing awful sounds that caused a sudden quaking in the knees...
-But it didn't stop it from slamming you against the wall several times..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/231/text"	"Кинуть в пенек серной кислотой..."	"Quest Sibolusovt.qmm: jumps.231.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the stump..."	"Quest,Sibolusovt"	""
+But it didn't stop it from slamming you against the wall several times..."	"Quest,Sibolusovt"	"Вы кінулі ў пачварышча шклянку са сернай кіслатой. 
+Ад гэтага пачварышча пачало дыміцца і выдаваць жахлівыя гукі, якія выклікаюць раптоўныя дрыжыкі ў каленях...
+Аднак гэта не перашкодзіла яму стукнуць вас некалькі разоў аб сьцяну..."
+"/quests/Sibolusovt.qmm/jumps/231/text"	"Кинуть в пенек серной кислотой..."	"Quest Sibolusovt.qmm: jumps.231.text. Preserve every <tag> exactly. English reference: Throw sulfuric acid at the stump..."	"Quest,Sibolusovt"	"Кінуць у пянёк сернай кіслатой..."
 "/quests/Sibolusovt.qmm/jumps/231/description"	"Вы метнули в пень склянку с серной кислотой, и радостно обнаружили, что она действует на него так же эффективно, как и на пол в лаборатории.
 - Может даже пол и сделан именно из этого дерева. - Подумали вы."	"Quest Sibolusovt.qmm: jumps.231.description. Preserve every <tag> exactly. English reference: You hurled a vial of sulfuric acid at the stump and happily observed that it was just as effective on the stump as it was on the laboratory floor.
-""Perhaps they even made the floor out of this wood,"" you thought to yourself."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/232/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.232.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	""
+""Perhaps they even made the floor out of this wood,"" you thought to yourself."	"Quest,Sibolusovt"	"Вы шпурнулі ў пень шклянку са сернай кіслатой, і радасна выявілі, што яна дзейнічае на яго гэтак жа эфэктыўна, як і на падлогу ў лябараторыі.
+- Можа, нават падлога і зроблена менавіта з гэтага дрэва. — Падумалі вы."
+"/quests/Sibolusovt.qmm/jumps/232/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.232.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	"Выстраліць з пісталета..."
 "/quests/Sibolusovt.qmm/jumps/232/description"	"Вы аккуратно прицелились в зверька, и выстрелили.
 К вашему ужасу вы промахнулись, а сиболусовт, разбуженный громким звуком выстрела, вскочил на ноги, гневно застрекотал, и бросился бежать. 
 Вы попробовали его догнать, но безрезультатно..."	"Quest Sibolusovt.qmm: jumps.232.description. Preserve every <tag> exactly. English reference: You aimed carefully at the little animal and fired.
 To your horror, you missed, but the sibolusovtus, who had been roused from slumber by the loud shot, hopped to its feet, chattered angrily, and took off running. 
-You tried to catch up, but failed..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/233/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.233.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	""
+You tried to catch up, but failed..."	"Quest,Sibolusovt"	"Вы акуратна прыцэліліся ў зьвярка, і стрэлілі.
+Да вашага жаху вы прамахнуліся, а сібалусаўт, абуджаны гучным гукам стрэлу, ускочыў на ногі, гнеўна застракатаў, і кінуўся бегчы. 
+Вы паспрабавалі яго дагнаць, але безвынікова..."
+"/quests/Sibolusovt.qmm/jumps/233/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.233.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	"Выстраліць з пісталета..."
 "/quests/Sibolusovt.qmm/jumps/233/description"	"Вы аккуратно прицелились и выстрелили в сиболусовта дротиком со снотворным.
 Подстреленный зверек дернулся, и тут же обмяк, погрузившись в сон...
 Вы радостно подобрали его, и пошли в лагерь..."	"Quest Sibolusovt.qmm: jumps.233.description. Preserve every <tag> exactly. English reference: You aimed carefully and shot the sibolusovtus with a tranquilizer dart.
 The little animal twitched and instantly went limp as it sank into sleep...
-You happily picked it up and went to the camp..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/234/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.234.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	""
+You happily picked it up and went to the camp..."	"Quest,Sibolusovt"	"Вы акуратна прыцэліліся і стрэлілі ў сібалусаўта дроцікам са снатворным.
+Падстрэлены зьвярок тузануўся, і адразу абмяк, пагрузіўшыся ў сон...
+Вы радасна падабралі яго і пайшлі ў лягер..."
+"/quests/Sibolusovt.qmm/jumps/234/text"	"Выстрелить из пистолета..."	"Quest Sibolusovt.qmm: jumps.234.text. Preserve every <tag> exactly. English reference: Shoot with the tranquilizer gun..."	"Quest,Sibolusovt"	"Выстраліць з пісталета..."
 "/quests/Sibolusovt.qmm/jumps/234/description"	"Вы прицелились в сиболусовта, и выстрелили.
 К вашему ужасу вы не попали, но сиболусовт только почесался во сне, давая вам шанс исправить оплошность, и следующим выстрелом поразить его..."	"Quest Sibolusovt.qmm: jumps.234.description. Preserve every <tag> exactly. English reference: You aimed carefully at the sibolusovtus and fired.
-To your horror, you missed your mark, but the sibolusovtus just scratched itself in its sleep, giving you a chance to correct your blunder by knocking it out with your next shot..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/237/text"	"Выстрелить из непонятного агрегата..."	"Quest Sibolusovt.qmm: jumps.237.text. Preserve every <tag> exactly. English reference: Shoot with the incomprehensible unit..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/238/text"	"Нажать белую кнопку..."	"Quest Sibolusovt.qmm: jumps.238.text. Preserve every <tag> exactly. English reference: Press the white button..."	"Quest,Sibolusovt"	""
+To your horror, you missed your mark, but the sibolusovtus just scratched itself in its sleep, giving you a chance to correct your blunder by knocking it out with your next shot..."	"Quest,Sibolusovt"	"Вы прыцэліліся ў сібалусаўта, і стрэлілі.
+Да вашага жаху вы не патрапілі, але сібалусаўт толькі пачухаўся ў сьне, даючы вам шанец выправіць пралік і наступным стрэлам паразіць яго..."
+"/quests/Sibolusovt.qmm/jumps/237/text"	"Выстрелить из непонятного агрегата..."	"Quest Sibolusovt.qmm: jumps.237.text. Preserve every <tag> exactly. English reference: Shoot with the incomprehensible unit..."	"Quest,Sibolusovt"	"Выстраліць з незразумелага агрэгата..."
+"/quests/Sibolusovt.qmm/jumps/238/text"	"Нажать белую кнопку..."	"Quest Sibolusovt.qmm: jumps.238.text. Preserve every <tag> exactly. English reference: Press the white button..."	"Quest,Sibolusovt"	"Націснуць белую кнопку..."
 "/quests/Sibolusovt.qmm/jumps/238/description"	"Вы нажали на белую кнопку на пушке, и насладились результатом.
 Сиболусовт внезапно вздрогнул, поднял голову, и посмотрел на вас. Вы снова нажали на кнопку. Сиболусовт тихо пискнул и свалился под пень без сознания. 
 Вы бросили пушку, и радостно схватили зверька..."	"Quest Sibolusovt.qmm: jumps.238.description. Preserve every <tag> exactly. English reference: You pressed the white button on the gun and relished the result.
 The sibolusovtus suddenly gave a start, raised its head, and looked at you. You pressed the button again. The sibolusovtus squeaked softly and toppled down unconscious next to the stump. 
-You threw down the gun and happily grabbed the little beast..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/239/text"	"Нажать красную кнопку..."	"Quest Sibolusovt.qmm: jumps.239.text. Preserve every <tag> exactly. English reference: Press the red button..."	"Quest,Sibolusovt"	""
+You threw down the gun and happily grabbed the little beast..."	"Quest,Sibolusovt"	"Вы націснулі на белую кнопку на пушцы і нацешыліся вынікам.
+Сібалусаўт раптам здрыгануўся, падняў галаву і паглядзеў на вас. Вы зноў націснулі на кнопку. Сібалусаўт ціха піскнуў і зваліўся пад пень без сьвядомасьці. 
+Вы кінулі пушку і радасна схапілі зьвярка..."
+"/quests/Sibolusovt.qmm/jumps/239/text"	"Нажать красную кнопку..."	"Quest Sibolusovt.qmm: jumps.239.text. Preserve every <tag> exactly. English reference: Press the red button..."	"Quest,Sibolusovt"	"Націснуць чырвоную кнопку..."
 "/quests/Sibolusovt.qmm/jumps/239/description"	"Вы направили штуковину в сторону мирно спящего сиболусовта и нажали на красную кнопку.
 Что ж, из этой зверушки, судя по запаху, получилось неплохое жаркое. Огнемёт поработал на славу..."	"Quest Sibolusovt.qmm: jumps.239.description. Preserve every <tag> exactly. English reference: You pointed the thingamajig toward the peacefully sleeping sibolusovtus and pressed the red button.
-Well, judging by the smell, you got a nice roast out of the little animal. The flamethrower worked gloriously..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/240/text"	"Нажать синюю кнопку..."	"Quest Sibolusovt.qmm: jumps.240.text. Preserve every <tag> exactly. English reference: Press the blue button..."	"Quest,Sibolusovt"	""
+Well, judging by the smell, you got a nice roast out of the little animal. The flamethrower worked gloriously..."	"Quest,Sibolusovt"	"Вы накіравалі штуковіну ў бок мірна спячага сібалусаўта і націснулі на чырвоную кнопку.
+Што ж, з гэтага зьвярка, мяркуючы па паху, атрымалася неблагая смажаніна. Агнямёт папрацаваў на славу..."
+"/quests/Sibolusovt.qmm/jumps/240/text"	"Нажать синюю кнопку..."	"Quest Sibolusovt.qmm: jumps.240.text. Preserve every <tag> exactly. English reference: Press the blue button..."	"Quest,Sibolusovt"	"Націснуць сінюю кнопку..."
 "/quests/Sibolusovt.qmm/jumps/240/description"	"Вы направили оружие в сторону мирно спящего сиболусовта, и нажали на курок. 
 На полянке сразу стало очень холодно. Вы подышали на замерзшие пальцы, и подошли к пеньку. На его месте возвышался немаленьких размеров сугроб.
 Вы немного порылись в нем, и обнаружили, что сиболусовт превратился в кусок льда. 
@@ -2285,11 +2298,17 @@ The meadow immediately became very cold. You blew on your frozen fingers and wal
 You burrowed into it a little and discovered that the sibolusovtus had turned into a chunk of ice. 
 ""Maybe it'll thaw while I carry it back to the base,"" you thought as you tried to pick it up.
 A faint cracking noise could be heard, and the poor beast's head separated from its torso.
-You looked on this scene darkly and walked away..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/241/text"	"Кинуть в него баночку серной кислоты..."	"Quest Sibolusovt.qmm: jumps.241.text. Preserve every <tag> exactly. English reference: Throw a jar of sulfuric acid into it..."	"Quest,Sibolusovt"	""
+You looked on this scene darkly and walked away..."	"Quest,Sibolusovt"	"Вы накіравалі зброю ў бок мірна спячага сібалусаўта, і націснулі на курок. 
+На палянцы адразу стала вельмі холадна. Вы падыхалі на зьмерзлыя пальцы і падышлі да пяньку. На яго месцы ўзвышаўся сумёт немалых памераў.
+Вы трохі парыліся ў ім і выявілі, што сібалусаўт ператварыўся ў кавалак лёду. 
+- Можа, ён растане, пакуль я яго данясу да базы. — Падумалі вы і паспрабавалі падняць яго.
+У паветры раздаўся слабы хрустальны звон, і галава беднага зьвярка аддзялілася ад тулава.
+Вы змрочна паглядзелі на гэтую карціну і пайшлі прэч..."
+"/quests/Sibolusovt.qmm/jumps/241/text"	"Кинуть в него баночку серной кислоты..."	"Quest Sibolusovt.qmm: jumps.241.text. Preserve every <tag> exactly. English reference: Throw a jar of sulfuric acid into it..."	"Quest,Sibolusovt"	"Кінуць у яго слоік сернай кіслаты..."
 "/quests/Sibolusovt.qmm/jumps/241/description"	"Вы размахнулись, и швырнули в пенёк склянку с серной кислотой. Пенёк радостно задымился и растаял. 
 Непонятно, чего вы хотели добиться, но вместе с пеньком растаял и сиболусовт. Остался только кончик хвоста. Видимо, на память..."	"Quest Sibolusovt.qmm: jumps.241.description. Preserve every <tag> exactly. English reference: You swung your arm and heaved a vial of sulfuric acid at the stump. The stump joyfully smoked and melted away. 
-It's not clear what you wanted to accomplish, but the sibolusovtus melted away along with the stump. Only the tip of its tail remained. Obviously, a memento..."	"Quest,Sibolusovt"	""
+It's not clear what you wanted to accomplish, but the sibolusovtus melted away along with the stump. Only the tip of its tail remained. Obviously, a memento..."	"Quest,Sibolusovt"	"Вы замахнуліся, і шпурнулі ў пянёк шклянку са сернай кіслатой. Пянёк радасна задыміўся і растаў. 
+Незразумела, чаго вы хацелі дамагчыся, але разам з пяньком растаў і сібалусаўт. Застаўся толькі кончык хваста. Відаць, на памяць..."
 "/quests/Sibolusovt.qmm/jumps/242/text"	"Идти дальше"	"Quest Sibolusovt.qmm: jumps.242.text. Preserve every <tag> exactly. English reference: Go farther"	"Quest,Sibolusovt"	"Ісьці далей"
 "/quests/Sibolusovt.qmm/jumps/242/description"	"Зрение вас не подвело, и вы радостно сорвали растение.
 - То-то гаалец порадуется, сердешный. - Заметили вы, убирая травку в карман."	"Quest Sibolusovt.qmm: jumps.242.description. Preserve every <tag> exactly. English reference: You vision didn't let you down, and you joyfully plucked up the plant.
@@ -2377,11 +2396,11 @@ Frustrated, you looked at the lifeless body and headed toward the forest..."	"Qu
 You spit at the stump's eye from a distance, but missed. Then, utterly unglued, you decided to annihilate it to keep it from deceiving any more rangers..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/272/text"	"Атаковать из непонятного агрегата..."	"Quest Sibolusovt.qmm: jumps.272.text. Preserve every <tag> exactly. English reference: Attack using the incomprehensible unit..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/272/description"	"Вы осмотрели агрегат, примерно прикинули, где у него ствол, направили его на пень, и приготовились к атаке..."	"Quest Sibolusovt.qmm: jumps.272.description. Preserve every <tag> exactly. English reference: You examined the unit, figured out approximately where its barrel was, pointed it at the stump, and prepared to attack..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/273/text"	"Нажать белую кнопку..."	"Quest Sibolusovt.qmm: jumps.273.text. Preserve every <tag> exactly. English reference: Press the white button..."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/273/text"	"Нажать белую кнопку..."	"Quest Sibolusovt.qmm: jumps.273.text. Preserve every <tag> exactly. English reference: Press the white button..."	"Quest,Sibolusovt"	"Націснуць белую кнопку..."
 "/quests/Sibolusovt.qmm/jumps/273/description"	"Вы вдавили кнопку, но ничего не произошло. Пенек все так же свирепо моргал на вас, и показывал кривые зубы - сучки..."	"Quest Sibolusovt.qmm: jumps.273.description. Preserve every <tag> exactly. English reference: You pressed the white button, but nothing happened. All the while, the stump continued to savagely bat its eyes at you and bare its crooked teeth..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/274/text"	"Нажать красную кнопку..."	"Quest Sibolusovt.qmm: jumps.274.text. Preserve every <tag> exactly. English reference: Press the red button..."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/274/text"	"Нажать красную кнопку..."	"Quest Sibolusovt.qmm: jumps.274.text. Preserve every <tag> exactly. English reference: Press the red button..."	"Quest,Sibolusovt"	"Націснуць чырвоную кнопку..."
 "/quests/Sibolusovt.qmm/jumps/274/description"	"Вы вдавили кнопку до упора и пожалели, что у вас не было при себе съестного. Получилось бы отличное барбекю у костра..."	"Quest Sibolusovt.qmm: jumps.274.description. Preserve every <tag> exactly. English reference: You pressed the button as far as it would go and began kicking yourself that you didn't have any food with you... You could have had a nice little barbeque by the campfire."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/275/text"	"Нажать синюю кнопку..."	"Quest Sibolusovt.qmm: jumps.275.text. Preserve every <tag> exactly. English reference: Press the blue button..."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/275/text"	"Нажать синюю кнопку..."	"Quest Sibolusovt.qmm: jumps.275.text. Preserve every <tag> exactly. English reference: Press the blue button..."	"Quest,Sibolusovt"	"Націснуць сінюю кнопку..."
 "/quests/Sibolusovt.qmm/jumps/275/description"	"Вы вдавили кнопку, и на пень ринулся снежный буран, вымораживая всё вокруг.
 Впору было привести слегка переделанную цитату классиков ""А что ему будет? Он же пень""
 Просто раньше был обычный пень, а теперь пень, засыпанный снегом..."	"Quest Sibolusovt.qmm: jumps.275.description. Preserve every <tag> exactly. English reference: You pressed the button and a snowstorm pelted the stump, freezing everything around it.
@@ -2522,7 +2541,7 @@ This news actually helped you sober up and, after shaking the gaal's hand again,
 "/quests/Sibolusovt.qmm/jumps/337/text"	"Прекратить читать эту бредятину..."	"Quest Sibolusovt.qmm: jumps.337.text. Preserve every <tag> exactly. English reference: Stop reading this crap..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/338/text"	"Прекратить читать эту бредятину..."	"Quest Sibolusovt.qmm: jumps.338.text. Preserve every <tag> exactly. English reference: Stop reading this crap..."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/jumps/339/text"	"Прекратить читать эту бредятину..."	"Quest Sibolusovt.qmm: jumps.339.text. Preserve every <tag> exactly. English reference: Stop reading this crap..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/jumps/340/text"	"Выстрелить из штурмового бластера"	"Quest Sibolusovt.qmm: jumps.340.text. Preserve every <tag> exactly. English reference: Shoot with your assault blaster"	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/jumps/340/text"	"Выстрелить из штурмового бластера"	"Quest Sibolusovt.qmm: jumps.340.text. Preserve every <tag> exactly. English reference: Shoot with your assault blaster"	"Quest,Sibolusovt"	"Выстраліць са штурмавога блястэра"
 "/quests/Sibolusovt.qmm/jumps/340/description"	"Вы сняли с плеча штурмовой бластер и выстрелили в невозмутимо спящего сиболусовта. 
 Не зря, ой не зря вы охотились в своё время на шестиногих крямбулей. Выстрел прошел над самой холкой спящего животного, и оглушил его. 
 Вы удовлетворенно хмыкнули и повесили бластер на спину."	"Quest Sibolusovt.qmm: jumps.340.description. Preserve every <tag> exactly. English reference: You took the assault blaster from you shoulder and shot the serenely sleeping sibolusovtus. 
