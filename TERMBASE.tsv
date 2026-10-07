@@ -1106,7 +1106,7 @@ lemma.technico	Технико	Technico	Тэхніко		star system name; the com
 lemma.silicone	Силиконовая	Silicone	Сыліконавая	Сіліконавая	hunspell сыліконавы; silicone planet	https://starnik.by/pravapis/149650
 lemma.shpik	Шпик	Shpik	Шпік		planet name; spy sense of шпік	https://starnik.by/pravapis/85599
 lemma.ambush_star	Засадная	Ambush	Засадная		star name, feminine of засада	https://starnik.by/pravapis/27696
-lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту/ГайдНэце	ГайдНет	internal network name	Gaidnet.qmm
+lemma.guidenet	ГайдНет	GuideNet	ГайдНэт/ГайдНэту/ГайдНэце/ГайдНэта	ГайдНет	internal network name; G ГайдНэта	Gaidnet.qmm
 lemma.hacker	хакер	hacker	хакер/хакера/хакераў	гакер	G хакера; Gpl хакераў is a hunspell gap	https://starnik.by/pravapis/81345
 lemma.shocker	шокер	shocker	шокер/шокерам/шокера/шокеры/шокераў/Шокеры	шокэр	stun gun; I шокерам; G шокера	https://starnik.by/pravapis/85477
 lemma.exploit	эксплоит	exploit	эксплёйт/эксплёйты/Эксплёйты/эксплёітамі/эксплёйтаў	эксплянтат	program class on the GaidNet HUD	Gaidnet.qmm
@@ -4409,3 +4409,4 @@ lemma.goaround	обогнуть	to go around	абагнуць/абагнулі		
 lemma.agrarian	аграрный	agrarian	аграрны/аграрныя		farming, of the land	https://starnik.by/pravapis/93013
 lemma.tower	вышка	a tower	вышка/вышак		a special-purpose tower; G pl вышак; not the hayloft	https://starnik.by/pravapis/16814
 lemma.afar	вдали	far off	воддаль		at a distance; воддаль ад	https://starnik.by/pravapis/250391
+lemma.popup	всплывающий	popup	усплывальны/усплывальным		a window that floats up; I m усплывальным; hunspell suggestions are other words	https://starnik.by/pravapis/157380
