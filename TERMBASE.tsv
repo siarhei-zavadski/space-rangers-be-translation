@@ -1202,7 +1202,7 @@ lemma.lottery	лотерея	lottery	лятарэя/лятарэі	латарэ�
 lemma.broadcast	трансляция	broadcast	трансьляцыя/трансьляцыю	трансляцыя	hunspell сь; Starnik lists с	https://starnik.by/pravapis/75521
 lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
 lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр/гіпэры	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
-lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі/Галяктычнага/Галяктыку	галактыка	hunspell аканьне; Starnik lists галактыка; A Галяктыку	https://starnik.by/pravapis/17562
+lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі/Галяктычнага/Галяктыку/галяктычныя	галактыка	hunspell аканьне; Starnik lists галактыка; A Галяктыку; N pl галяктычныя	https://starnik.by/pravapis/17562
 lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
 lemma.maxiphone	максифон	maxiphone	максіфон		stage mic the crowd can sing into	Muzon.qmm
@@ -3497,7 +3497,7 @@ lemma.ridge	гряда	a ridge	града/градзе/грады		a chain of lo
 lemma.armorplast	бронепластиковый	armor-plastic	браняплястыкавы		the collectors' safe; hunspell splits it and suggests бранятанкавы, a different word; плястык is the plastic spelling	—
 lemma.mercilessly	нещадно	mercilessly	бязьлітасна		Starnik бязлітасна; hunspell writes ь	https://starnik.by/pravapis/222603
 lemma.ladder	лестница	ladder	лесьвіца/лесьвіцы		Starnik лесвіца; hunspell writes сь; G лесьвіцы	https://starnik.by/pravapis/39278
-lemma.jungle	джунгли	jungle	джунглі/джунгляў		dense tropical forest; plural only; G джунгляў	https://starnik.by/pravapis/22547
+lemma.jungle	джунгли	jungle	джунглі/джунгляў/джунглях		dense tropical forest; plural only; G джунгляў; L джунглях	https://starnik.by/pravapis/22547
 lemma.hchryk	эйчхрык	hchryk	эйчхрык		coined clumsy beast on the path to the stone; hunspell has no suggestion	—
 lemma.straight_on	напрямик	straight on	наўпрост		the shortest way, not a detour	https://starnik.by/pravapis/226348
 lemma.offshoot	отросток	offshoot	адростак/адростка		a side branch; G адростка	https://starnik.by/pravapis/2746
@@ -3756,7 +3756,7 @@ lemma.insert	вставить	to insert	уставіць/ўставілі		sense
 lemma.fright	испугаться	to be frightened	спалохацца/спалохаўся		to feel fear suddenly	https://starnik.by/pravapis/213615
 lemma.press_to	прижаться	to press close	прыціснуцца/прыціснуўся		sense 1, to press oneself against something	https://starnik.by/pravapis/208271
 lemma.assess	оценить	to assess	ацаніць/ацаніў		sense 2, to judge something	https://starnik.by/pravapis/171018
-lemma.ignore	игнорировать	to ignore	ігнараваць/ігнаравалі		to deliberately not notice	https://starnik.by/pravapis/185472
+lemma.ignore	игнорировать	to ignore	ігнараваць/ігнаравалі/праігнараваць/Праігнараваць		to deliberately not notice; perfective праігнараваць	https://starnik.by/pravapis/185472
 lemma.poke	тыкать	to poke	тыцкаць/тыцкаў		to poke, the same as тыкаць	https://starnik.by/pravapis/215791
 lemma.sunbeam	зайчик	a sunbeam	зайчык		a bright spot from a reflected ray, sense 2; inanimate accusative зайчык	https://starnik.by/pravapis/26758
 lemma.dally	забавляться	to amuse oneself	бавіцца		to play, sense 2	https://starnik.by/pravapis/171340
@@ -3862,7 +3862,7 @@ lemma.conduit	труба	a pipe	труба/трубы		a hollow pipe, G труб
 lemma.shanty	хижина	a hut	хаціна/хаціны/хаціну/хаціне		a small house, same as хата sense 1; G хаціны; A хаціну; L хаціне	https://starnik.by/pravapis/81667
 lemma.small_town	городок	a small town	гарадок/гарадка		a group of service buildings, sense 2; G гарадка	https://starnik.by/pravapis/18075
 lemma.warning	предупреждение	a warning	папярэджаньне/папярэджаньня	папярэджання	a caution, sense 2; G папярэджаньня; Starnik папярэджання; hunspell inserts ь	https://starnik.by/pravapis/52841
-lemma.roam	бродить	to wander	бадзяцца		to wander without a purpose	https://starnik.by/pravapis/171364
+lemma.roam	бродить	to wander	бадзяцца/бадзяліся/Бадзяцца		to wander without a purpose; past бадзяліся	https://starnik.by/pravapis/171364
 lemma.player	игрок	a player	гулец/гульца		someone who plays, G гульца	https://starnik.by/pravapis/21168
 lemma.course	процесс	a process	працэс/працэсу		the course of an activity, sense 1; G працэсу	https://starnik.by/pravapis/59640
 lemma.saw	пила	a saw	піла/пілу		a toothed blade, sense 1; A пілу	https://starnik.by/pravapis/56585
@@ -3895,3 +3895,26 @@ lemma.puff	раздувать	to blow up	разьдзімаць	раздзіма
 lemma.twig	ветка	a twig	галінка/галінак		a small branch; G pl галінак	https://starnik.by/pravapis/17681
 lemma.quarter	четверть	a quarter	чвэрць		one fourth of a whole, sense 1	https://starnik.by/pravapis/84183
 lemma.moiety	половина	a half	палова/палову		one of two equal parts, sense 1; A палову	https://starnik.by/pravapis/52145
+lemma.plunge	купаться	to bathe	выкупацца/купацца/выкупаліся/купаньні		to refresh oneself in water; past pl выкупаліся; L купаньні; imperfective https://starnik.by/pravapis/186982	https://starnik.by/pravapis/173385
+lemma.clutch	вцепиться	to clutch	учапіцца/ўчапілася		to seize and hold on; past f ўчапілася after a vowel	https://starnik.by/pravapis/218643
+lemma.frisk	обыскать	to search a place	абшукаць		to look through a place, sense 2	https://starnik.by/pravapis/166518
+lemma.obeisance	поклониться	to bow	пакланіцца		to make a bow of respect, sense 1	https://starnik.by/pravapis/196768
+lemma.aim	целиться	to aim	цэліцца/цэлячыся		to point a shot, sense 1; adverbial цэлячыся	https://starnik.by/pravapis/219591
+lemma.serious	серьезный	serious	сур'ёзны/несур'ёзная	сурёзны	important enough to heed, sense 4; the wound was not serious	https://starnik.by/pravapis/152930
+lemma.surface	поверхность	surface	паверхня/паверхні		the outer side, sense 1; L паверхні	https://starnik.by/pravapis/49858
+lemma.record	рекорд	a record	рэкорд/рэкорды		the best result, sense 1; A pl рэкорды	https://starnik.by/pravapis/65882
+lemma.swimming	плавание	swimming	плаваньне/плаваньня	плавання	the act of swimming; G плаваньня; Starnik плаванне; hunspell inserts ь	https://starnik.by/pravapis/56941
+lemma.toothy	зубастый	toothy	зубаты/зубатая		having large teeth; f зубатая	https://starnik.by/pravapis/115066
+lemma.mosquito	комар	a mosquito	камар/камара		a small biting fly; G камара	https://starnik.by/pravapis/32389
+lemma.insect	насекомое	an insect	насякомае/насякомыя		a small arthropod; N pl насякомыя	https://starnik.by/pravapis/46404
+lemma.proboscis	хобот	a proboscis	хобат/хобатамі		the extended mouthpart, sense 1; I pl хобатамі	https://starnik.by/pravapis/82167
+lemma.clatter	лязг	a clang	лязгат/Лязгат/лязгату		a metallic clatter; G лязгату; capital Лязгат; hunspell lacks the noun	https://starnik.by/pravapis/40430
+lemma.tread	гусеница	a tread	гусеніца/гусеніцы	гусяніцы	a metal track on a heavy machine; N pl гусеніцы; hunspell е	https://starnik.by/pravapis/21317
+lemma.stance	стойка	a stance	стойка/стойку		a set posture of the body, sense 1; A стойку	https://starnik.by/pravapis/231909
+lemma.pushy	настырный	pushy	настырны/настырнае		persistent and importunate, colloquial; n настырнае	https://starnik.by/pravapis/127340
+lemma.swat	прихлопнуть	to swat	прыпляснуць/прыпляснулі	прыплеснулі	to slap once; past pl прыпляснулі; hunspell writes я	https://starnik.by/pravapis/207578
+lemma.turn_about	обернуться	to turn about	абярнуцца/абярнуўшыся	абвярнуўшыся	to turn the body, sense 2; adverbial абярнуўшыся; hunspell drops в	https://starnik.by/pravapis/166676
+lemma.swish	шелестеть	to rustle	шамацець/шамаценьне		to make a light noise, sense 1; noun шамаценьне	https://starnik.by/pravapis/219959
+lemma.thin_trees	проредить	to thin trees	прарэдзіць/прарэдзіўшы	прарадзіўшы	to cut out part of the trees; adverbial прарэдзіўшы; hunspell writes э	https://starnik.by/pravapis/205592
+lemma.wildbeast	зверь	a beast	зьвер		a wild animal, sense 1; Starnik звер; hunspell inserts ь; older rows already use звер, so that spelling is not rejected	https://starnik.by/pravapis/28454
+lemma.humantrack	гуманотракоид	a humanoid on tracks	Гуманатракаід		coined: гуманоід plus трак; hunspell suggestion is another word	—
