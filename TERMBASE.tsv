@@ -635,7 +635,7 @@ lemma.kalterbruener	Кальтербрунер	Kalterbruener	Кальтэрбр�
 lemma.jab_il_musto	Жаб Ил Мусто	Jab Hick Gusto	Жаб Іл Мусто		famous diver joke; planet Гаргынг	Depth.qmm
 lemma.gargyng	Гаргынг	Gargyng	Гаргынг		planet of Жаб Іл Мусто	Depth.qmm
 lemma.optron	оптронный	optronic	оптронны		sci-fi furnace adj; оптронная печ	Depth.qmm
-lemma.monstrodile_aug	чудище	beast	пачварышча/Пачварышча		augmentative of пачвара; Depth monstrodile; capital for the status name	—
+lemma.monstrodile_aug	чудище	beast	пачварышча/Пачварышча/пачварышчу		augmentative of пачвара; Depth monstrodile; capital for the status name; D пачварышчу; hunspell suggestions are other words	—
 lemma.plateau	плато	plateau	плато/Плато		underwater shelf; keep loan; capital at a sentence start	Depth.qmm
 lemma.min_abbr	мин	min	хв		compact minute unit in gauges (RU мин)	Depth.qmm
 lemma.gaal_adj	гаальский	Gaalian	гаальскі/гаальская/гаальскае/гаальскай/гаальскага/гаальскую/гаальскіх/гаальскаму/Гаальскаму/Гаальскае/Гаальскім		race adj from гаальцы	LOCK
@@ -3507,3 +3507,7 @@ lemma.break_through	прорываться	force through	прарывацца		t
 lemma.swim_beyond	заплыть	swim beyond	заплыць/заплылі		to swim past a mark, sense 1; past заплылі	https://starnik.by/pravapis/181426
 lemma.turn_into	свернуть	turn into	зьвярнуць		to leave the road into a side way; Starnik звярнуць; hunspell writes ь	https://starnik.by/pravapis/183865
 lemma.main	основной	main	асноўны		the principal one	https://starnik.by/pravapis/96976
+lemma.gurgle	журчание	gurgling	журчаньне		the sound of running water; Starnik журчанне; hunspell writes ь	https://starnik.by/pravapis/25862
+lemma.thunderous	громовой	thunderous	грамавы/грамавое		deafening, sense 2; N n грамавое	https://starnik.by/pravapis/106915
+lemma.toilet_bowl	унитаз	toilet bowl	унітаз/унітазе		a flush toilet; L унітазе	https://starnik.by/pravapis/78471
+lemma.shore	берег	shore	бераг/берага		the edge of a body of water, sense 1; G берага	https://starnik.by/pravapis/9970
