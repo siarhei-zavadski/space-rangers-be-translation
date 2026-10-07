@@ -3682,8 +3682,8 @@ lemma.khvatayla	Хватайло	Khvataylo	Хватайла		storeroom name; uns
 lemma.name_frost	Фростов	Frostov	Фростаў		storeroom name; -ов to -аў; hunspell suggestions are other words	—
 lemma.wax_polish	гуталин	shoe polish	гуталін/гуталінам		wax for boots; instrumental гуталінам	https://starnik.by/pravapis/21346
 lemma.bug_nest	клоповник	a bug nest	клапоўнік/клапоўніку		a room full of bedbugs, sense 1; locative клапоўніку	https://starnik.by/pravapis/35842
-lemma.kielbasa	колбаса	sausage	каўбаса/каўбасы		food, genitive каўбасы; not the laboratory flask колба	https://starnik.by/pravapis/34650
-lemma.refrigerator	холодильник	a refrigerator	халадзільнік/халадзільніка		the cupboard, sense 1; genitive халадзільніка	https://starnik.by/pravapis/81361
+lemma.kielbasa	колбаса	sausage	каўбаса/каўбасы/каўбасой		food, genitive каўбасы; instrumental каўбасой; Starnik каўбасай; hunspell каўбасой; not the laboratory flask колба	https://starnik.by/pravapis/34650
+lemma.refrigerator	холодильник	a refrigerator	халадзільнік/халадзільніка/халадзільніку		the cupboard, sense 1; genitive халадзільніка; locative халадзільніку	https://starnik.by/pravapis/81361
 lemma.canned_food	консервы	tinned food	кансэрвы/кансэрваў		Starnik кансервы, genitive plural кансерваў; hunspell writes э	https://starnik.by/pravapis/33076
 lemma.leaf_hinge	петля	a door hinge	завеса/завесе		sense 1, the plate a door hangs on; locative завесе	https://starnik.by/pravapis/26324
 lemma.little_corpse	трупик	a little corpse	трупік		diminutive; hunspell suggestions are other words	https://starnik.by/pravapis/75943
@@ -3991,3 +3991,13 @@ lemma.work_noun	работа	work	праца/працы/працу		a job or a p
 lemma.resume	продолжить	to resume	працягнуць		to take up again after a break, sense 8; the hold-out sense stays lemma.proffer	https://starnik.by/pravapis/206200
 lemma.bil_scrap	бил фрагмент	a scrap	біл		wrecked console fragment of стабілізацыя; do not complete the label	—
 lemma.junction	пересечение	a crossing	скрыжаваньне/скрыжаваньні	скрыжаванне/скрыжаванні	the place where ways cross, sense 2; L скрыжаваньні; Starnik скрыжаванні; hunspell inserts ь	https://starnik.by/pravapis/69965
+lemma.galley	кухня	a kitchen	кухня/кухню/кухні		the room where food is cooked, sense 1; A кухню; G кухні	https://starnik.by/pravapis/38159
+lemma.read_bit	почитать	to read a while	пачытаць		to read for a while and learn the contents, sense 2	https://starnik.by/pravapis/200873
+lemma.rummage	порыться	to rummage	парыцца		perfective, to rummage for a while; the dictionary example is a shelf	https://starnik.by/pravapis/199483
+lemma.put_down	положить	to put down	пакласьці	пакласці	to lay something down; past паклаў is already in the file; Starnik пакласці; hunspell inserts ь	https://starnik.by/pravapis/196773
+lemma.nosh	закусить	to eat with a drink	закусіць		to follow a drink with food, sense 1 of the second homonym	https://starnik.by/pravapis/180488
+lemma.close_lid	закрыть	to shut	зачыніць		to bring a lid or the leaves together, sense 1; the dictionary joke is зачыні халадзільнік	https://starnik.by/pravapis/183079
+lemma.vile	мерзкий	vile	мярзотны/мярзотную		very disgusting, colloquial; A f мярзотную	https://starnik.by/pravapis/125414
+lemma.slop	жратва	grub	жратва/жратву		colloquial word for food; A жратву	https://starnik.by/pravapis/25790
+lemma.survey	осмотр	an inspection	агляд		the act of looking something over, sense 1	https://starnik.by/pravapis/1656
+lemma.inch	поползти	to crawl on	папаўзьці	папаўзці/папоўзці	perfective of паўзці; past папаўзьлі is already in the file; Starnik паўзці; hunspell inserts ь	https://starnik.by/pravapis/200334
