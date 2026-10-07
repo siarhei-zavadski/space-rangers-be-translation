@@ -788,7 +788,7 @@ lemma.lyakusha	лякуша	lyakusha	лякуша/Лякушы/Лякуша/ля
 lemma.gravicar	гравикар	gravicar	гравікар/гравікара/гравікараў/гравікары/гравікарамі/Гравікар/гравікарам		peleng ground craft; Starnik has no entry; I гравікарам	Pachvarash.qmm
 lemma.patch	патч	patch	патч/патчам		software patch; I патчам; hunspell maps it to путчам	https://starnik.by/pravapis/53960
 lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бюракрат; akanie turns О into А	Pachvarash.qmm
-lemma.heldas	хелдас	heldas	хелдас/хелдаса		invented predator in the cyanutik thicket	Pachvarash.qmm
+lemma.heldas	хелдас	heldas	хелдас/хелдаса/хелдасы		invented predator; N pl хелдасы	Pachvarash.qmm
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
 lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры/марадзёраў		one who robs the dead and wounded	https://starnik.by/pravapis/41704
@@ -3482,3 +3482,17 @@ lemma.donkey	осел	donkey	асёл/асла/Асёл		a pack animal, sense 1	
 lemma.bedouin	бедуин	bedouin	бэдуіны		Starnik бедуін; hunspell writes э	https://starnik.by/pravapis/9601
 lemma.verbdyud	вербдюд	verbdyud	вярбдюд		the donkey's nonsense camel; the pun stays	—
 lemma.aaa	Ааа	aah	Ааа		the ranger's panicked shout	—
+lemma.collector	инкассатор	cash collector	інкасатар/інкасатары		a cashier who collects money outside the office; N pl інкасатары	https://starnik.by/pravapis/30833
+lemma.cuttlefish	каракатица	cuttlefish	каракаціца/каракаціцы/Каракаціца		a cephalopod that squirts dye; G каракаціцы	https://starnik.by/pravapis/33717
+lemma.lighter	зажигалка	lighter	запальніца/запальніцу/запальніцай		a flame lighter; A запальніцу; I запальніцай	https://starnik.by/pravapis/27395
+lemma.lilac	сиреневый	lilac	бэзавы/бэзавым/бэзавага		pale lilac, sense 2; L м бэзавым; G н бэзавага	https://starnik.by/pravapis/100563
+lemma.levitation	левитация	levitation	левітацыя/левітацыяй		floating without support; I левітацыяй; hunspell suggests гравітацыя, a different word	https://starnik.by/pravapis/38885
+lemma.codex	кодекс	code of rules	кодэкс/кодэксу		a set of rules, sense 2; D кодэксу	https://starnik.by/pravapis/36243
+lemma.wanderer	скиталец	wanderer	вандроўнік		a person who wanders	https://starnik.by/pravapis/13304
+lemma.lair	логово	lair	логава		an animal's den, sense 1	https://starnik.by/pravapis/39931
+lemma.slurry	жижа	slurry	жыжа/жыжы		bog slime, sense 1; G жыжы	https://starnik.by/pravapis/25945
+lemma.curse_noun	проклятие	a curse	праклён/праклёнамі		a swear, sense 1; I pl праклёнамі	https://starnik.by/pravapis/58736
+lemma.dell	ложбина	a hollow	лагчына/лагчыны		a low place between slopes	https://starnik.by/pravapis/38334
+lemma.ridge	гряда	a ridge	града/градзе/грады		a chain of low hills, sense 2; also a row of stones, sense 3; L градзе	https://starnik.by/pravapis/20501
+lemma.armorplast	бронепластиковый	armor-plastic	браняплястыкавы		the collectors' safe; hunspell splits it and suggests бранятанкавы, a different word; плястык is the plastic spelling	—
+lemma.mercilessly	нещадно	mercilessly	бязьлітасна		Starnik бязлітасна; hunspell writes ь	https://starnik.by/pravapis/222603
