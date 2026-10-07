@@ -103,7 +103,7 @@ lemma.door	дверь	door	дзьверы		2005 tarask; official дзверы	�
 lemma.hole	дыра	hole	дзіра		Starnik: родны мн. дзір, not дзіраў	—
 lemma.pilot	пилот	pilot	пілот/пілота/Пілот/пілотаў/Пілотаў/пілоты/пілотам/пілоту/пілотамі		Starnik: пілот, not пілёт; table label Пілотаў	—
 lemma.autopilot	автопилот	autopilot	аўтапілот/аўтапілоце		locative аўтапілоце; hunspell wants аўтапілёт	—
-lemma.variant	вариант	variant	варыянт		Starnik: родны варыянта	—
+lemma.variant	вариант	variant	варыянт/варыянты		Starnik: родны варыянта; N pl варыянты	—
 lemma.contract	контракт	contract	кантракт/кантракта		Starnik genitive кантракта; hunspell wants кантракту	—
 lemma.hold	трюм	hold	трум		Starnik: у труме, not трюме	—
 lemma.award	награда	award	узнагарода		Starnik: родны мн. узнагарод	—
@@ -667,7 +667,7 @@ lemma.phuphnire	Фуфнир	Phuphnire	Фуфнір		FromStar; и→і	Jumper.qm
 lemma.grasshopper	Кузнечик	Grasshopper	Конік		ranger stub; insect jokes need same lemma	Jumper.qmm
 lemma.aldeeb	Альдиб	Aldeeb	Альдыб		luxury planet; L Альдыбе	Jumper.qmm
 lemma.coin	монета	coin	манэта	манета	metal token; N манэты, Gpl манэтаў; hunspell over Starnik school манет	https://starnik.by/pravapis/41557
-lemma.health	здоровье	health	здароўе		N здароўе, G здароўя	https://starnik.by/pravapis/28851
+lemma.health	здоровье	health	здароўе/здароўя		N здароўе, G здароўя	https://starnik.by/pravapis/28851
 lemma.cube	кубик	cube	кубік		small cube; Park.qmm	hunspell-be-tarask
 lemma.halo	нимб	halo	німб		A німб	https://starnik.by/pravapis/48715
 lemma.insurance	страховка	insurance	страхоўка	застрахоўка	payout; hunspell over Starnik застрахоўка	https://starnik.by/pravapis/27832
@@ -1730,11 +1730,11 @@ lemma.tiny	крохотный	tiny	малюпасенькі/малюпасень
 lemma.raging	бушующий	raging	бушуючае/бушуючы		participle of бушаваць; hunspell truncates it	https://starnik.by/pravapis/171988
 lemma.knowledge	знание	knowledge	веданьне		familiarity with something, sense 1; Starnik веданне, tarask soft sign	https://starnik.by/pravapis/13701
 lemma.concentration	концентрация	concentration	канцэнтрацыя/Канцэнтрацыі		the spell; the stat stays засяроджанасьць	https://starnik.by/pravapis/33353
-lemma.enemy	враг	enemy	вораг/ворага/ворагі		G ворага; N pl ворагі	https://starnik.by/pravapis/15204
+lemma.enemy	враг	enemy	вораг/ворага/ворагі/ворагаў		G ворага; N pl ворагі; G pl ворагаў	https://starnik.by/pravapis/15204
 lemma.virtual_chit	виртуальчик	virtual credit	віртуальчык/віртуальчыкі/віртуальчыкаў		slang diminutive for a virtual credit; Gpl віртуальчыкаў; not in Starnik	—
 lemma.uses_abbr	исп.	uses	вык		abbreviation of выкарыстаньне, parallel to исп.	—
 lemma.dead	мертвый	dead	мёртвы		predicate мёртвы	https://starnik.by/pravapis/123900
-lemma.fatigue	усталость	fatigue	стома/Стома		loss of strength	https://starnik.by/pravapis/72143
+lemma.fatigue	усталость	fatigue	стома/Стома/стомай		loss of strength; I стомай	https://starnik.by/pravapis/72143
 lemma.violet	фиолетовый	violet	фіялетавы/Фіялетавае/фіялетавага		water-element color; N neuter фіялетавае; G masculine фіялетавага	https://starnik.by/pravapis/158497
 lemma.rat	крыса	rat	пацук/пацукоў/Пацукоў	крыса	Starnik has пацук; Gpl пацукоў	https://starnik.by/pravapis/54470
 lemma.stun	оглушение	stun	аглушэньне		Starnik аглушэнне, tarask soft sign	https://starnik.by/pravapis/1649
@@ -2100,7 +2100,7 @@ lemma.correctness	верность	correctness	слушнасьць	слушна
 lemma.ancient	древний	ancient	старажытны			https://starnik.by/pravapis/151816
 lemma.kitchen_adj	кухонный	kitchen	кухонны			https://starnik.by/pravapis/120401
 lemma.infinite	бесконечный	infinite	бясконцы/бясконцым			https://starnik.by/pravapis/100878
-lemma.transition	переход	transition	пераход/пераходы			https://starnik.by/pravapis/56043
+lemma.transition	переход	transition	пераход/пераходы/пераходу/пераходаў		G пераходу; G pl пераходаў	https://starnik.by/pravapis/56043
 lemma.kuucha	Кууча	Kuucha	Кууча/Куучы/Куучу/Куучам/Юча/Ючы/Ючу/Ючам		peleng industrialist; G Куучы, D Куучу фон Ючу	Drugs.qmm
 lemma.hat	шляпа	hat	капялюш/капелюшы		the hat; Starnik nominative капялюш, locative капелюшы; шляпа is only the insult	https://starnik.by/pravapis/33636
 lemma.boot	сапог	boot	бот		footwear singular; Starnik бот 1, not the boat	https://starnik.by/pravapis/11231
@@ -3583,7 +3583,7 @@ lemma.foliage	листья	leaves	лісьце/лісток/лістка/ліс�
 lemma.submission	подача	submission	падача/падачы		the act of sending, sense 1; genitive падачы	https://starnik.by/pravapis/50225
 lemma.parry	блок	a combat block	блёк		a raised guard; hunspell writes блёк; Starnik 10931 is the pulley and the political bloc	—
 lemma.melee	рукопах	melee	Рукапаш		coined clip of рукапашны; hunspell suggests the adjective Рукапашны	—
-lemma.location	локация	a location	лякацыя/лякацый		hunspell has the nominative and lacks the genitive plural; a feminine -цыя noun takes -цый	—
+lemma.location	локация	a location	лякацыя/лякацый/лякацыі		hunspell has the nominative and lacks the genitive plural; L лякацыі; a feminine -цыя noun takes -цый	—
 lemma.tadrun	Тадрун	Tadrun	Тадрун/Тадруну		captain of the landing party; dative Тадруну; hunspell suggests the different word Адрузну	—
 lemma.kundynsky	Кундынский	mangled Kandinsky	Кундынскі/Кундынскага		the prehistoric painter, Kandinsky misremembered	—
 lemma.plasmapushka	плазмопушка	plasma cannon	плязмапушка/плязмапушку		the huge gun in the malok's hand	—
@@ -3857,3 +3857,27 @@ lemma.boredom	скука	boredom	нуда/нуды		unpleasant idleness, sense 1
 lemma.lunge	выпад	a lunge	выпад/выпадам		a sharp move forward, sense 1; I выпадам	https://starnik.by/pravapis/16194
 lemma.breach	пролом	a breach	пралом		a hole broken through something, sense 2	https://starnik.by/pravapis/58844
 lemma.ree_klein	Рее-Кляйн	Ree-Klein	Рээ/Кляйн		the gaal doctor's name; hunspell suggestions are other words	—
+lemma.march	поход	a hike	паход/паходзе/паходу		a trek to a place, sense 1; L паходзе; G паходу	https://starnik.by/pravapis/54414
+lemma.conduit	труба	a pipe	труба/трубы		a hollow pipe, G трубы	https://starnik.by/pravapis/75882
+lemma.shanty	хижина	a hut	хаціна/хаціны/хаціну/хаціне		a small house, same as хата sense 1; G хаціны; A хаціну; L хаціне	https://starnik.by/pravapis/81667
+lemma.small_town	городок	a small town	гарадок/гарадка		a group of service buildings, sense 2; G гарадка	https://starnik.by/pravapis/18075
+lemma.warning	предупреждение	a warning	папярэджаньне/папярэджаньня	папярэджання	a caution, sense 2; G папярэджаньня; Starnik папярэджання; hunspell inserts ь	https://starnik.by/pravapis/52841
+lemma.roam	бродить	to wander	бадзяцца		to wander without a purpose	https://starnik.by/pravapis/171364
+lemma.player	игрок	a player	гулец/гульца		someone who plays, G гульца	https://starnik.by/pravapis/21168
+lemma.course	процесс	a process	працэс/працэсу		the course of an activity, sense 1; G працэсу	https://starnik.by/pravapis/59640
+lemma.saw	пила	a saw	піла/пілу		a toothed blade, sense 1; A пілу	https://starnik.by/pravapis/56585
+lemma.gash	рана	a wound	рана/рану		a cut in the body; A рану	https://starnik.by/pravapis/230944
+lemma.assertion	утверждение	a statement	сьцьверджаньне	сцверджанне	a stated claim; Starnik сцверджанне; hunspell inserts ь	https://starnik.by/pravapis/73866
+lemma.guess	предположение	a guess	здагадка		a likely supposition, sense 1	https://starnik.by/pravapis/28832
+lemma.sequence	порядок	order	парадак/парадку		the arranged sequence of items, sense 1; G парадку	https://starnik.by/pravapis/52910
+lemma.race	раса	a race	раса/расу		a kind of people, sense 1; A расу; not dew and not the clerical robe	https://starnik.by/pravapis/63808
+lemma.newt	амфибия	an amphibian	амфібія		a land-and-water animal, sense 1	https://starnik.by/pravapis/4502
+lemma.imbalance	дисбаланс	an imbalance	дысбалянс	дысбаланс	a lack of balance; Starnik дысбаланс; hunspell writes я	https://starnik.by/pravapis/24218
+lemma.camp	лагер	a camp	лягер/лягеру	лагер	a temporary camp, sense 2; G лягеру; Starnik лагер; hunspell writes э	https://starnik.by/pravapis/38305
+lemma.hurricane	ураган	a hurricane	ураган/урагану		a destructive wind, sense 1; G урагану	https://starnik.by/pravapis/78642
+lemma.foul_weather	непогода	bad weather	непагадзь/непагадзі		prolonged bad weather; G непагадзі	https://starnik.by/pravapis/47825
+lemma.evening	вечер	an evening	вечар/вечарам		the time after day, sense 1; I вечарам	https://starnik.by/pravapis/14173
+lemma.settled	поселение	a habitation	пасяленьне/пасяленьня	пасялення	a settled place, sense 2; G пасяленьня; Starnik пасялення; hunspell inserts ь	https://starnik.by/pravapis/53790
+lemma.rectify	исправить	to correct	выправіць/выпраўлена/Выпраўлена		to remove a fault, sense 2; short participle выпраўлена	https://starnik.by/pravapis/173974
+lemma.abandoned	заброшенный	abandoned	закінуты/закінутае		forgotten and neglected, sense 2; N neuter закінутае	https://starnik.by/pravapis/238180
+lemma.variable	переменная	a variable	пераменная		a quantity that can change; older quests already use зьменная, so that calque is not rejected	https://starnik.by/pravapis/55534
