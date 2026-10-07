@@ -1188,7 +1188,7 @@
 "/quests/Testing.qmm/jumps/47/text"	"Нажать ""3"""	"Quest Testing.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Testing"	"Націснуць ""3"""
 "/quests/Testing.qmm/jumps/49/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўночнай брамы"
 "/quests/Testing.qmm/jumps/50/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на галоўную плошчу"
-"/quests/Testing.qmm/jumps/51/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/51/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Testing"	"Падысьці да стала ""цудоўнай пяцёркі"""
 "/quests/Testing.qmm/jumps/51/description"	"Компания состояла из дюжего малока, покрытого шрамами пеленга, фэянина с нездоровым розоватым цветом кожи, двуглазого гаальца и уголовного вида человека, бывшего, видимо, главарем. Подозрительные типы.
 - Че надо? - поприветствовал вас малок.
 - Да я... это... - растерялись вы, - мимо проходил... дай, думаю, загляну...
@@ -1196,17 +1196,24 @@
 - Базар фильтруй, Лезок, - посоветовал малоку человек и повернулся к вам. - Тебе чего, приятель? Никак, в рейнджеры метишь?
 - Мечу, - с готовностью отозвались вы. - А вы - это они?
 - Ясен пень. Техасскими нас кличут. Я - Крутой Уокер, этот богатырь - Лезок, четырехрукого Кацапом зовут, вон тот розовый - Думер, а гаальский хмырь наречен Бинокуляром.
-- <Ranger>, - представились вы. - Очень приятно."	"Quest Testing.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/52/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+- <Ranger>, - представились вы. - Очень приятно."	"Quest Testing.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Testing"	"Кампанія складалася з дужага малока, пакрытага шнарамі пеленга, фэяніна з нездаровым ружаватым колерам скуры, двухвокага гаальца і злачыннага выгляду чалавека, які, відаць, быў верхаводам. Падазроныя тыпы.
+- Чаго трэба? — павітаў вас малок.
+- Ды я... гэта... — разгубіліся вы, — міма праходзіў... дай, думаю, зазірну...
+- Міма праходзіў — дык валі далей, — адрэагаваў суразмоўца.
+- Базар фільтруй, Лязок, — параіў малоку чалавек і павярнуўся да вас. — Табе чаго, сябрук? Ніяк, у рэйнджэры меціш?
+- Мечу, — з гатоўнасьцю адазваліся вы. — А вы — гэта яны?
+- Ясны пень. Тэхаскімі нас клічуць. Я — Круты Ўокер, гэты волат — Лязок, таго, ў каго чатыры рукі, завуць Кацапам, вон той ружовы — Думер, а гаальца завуць Бінакулярам.
+- <Ranger>, — прадставіліся вы. — Вельмі прыемна."
+"/quests/Testing.qmm/jumps/52/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўднёвай брамы"
 "/quests/Testing.qmm/jumps/53/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на галоўную плошчу"
 "/quests/Testing.qmm/jumps/54/text"	"Отойти от стола"	"Quest Testing.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Testing"	"Адысьці ад стала"
-"/quests/Testing.qmm/jumps/55/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/56/text"	"Поговорить с Уокером"	"Quest Testing.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/58/text"	"Поговорить с Лезоком"	"Quest Testing.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/55/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Testing"	"Падысьці да стала ""цудоўнай пяцёркі"""
+"/quests/Testing.qmm/jumps/56/text"	"Поговорить с Уокером"	"Quest Testing.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Testing"	"Пагаварыць з Уокерам"
+"/quests/Testing.qmm/jumps/58/text"	"Поговорить с Лезоком"	"Quest Testing.qmm: jumps.58.text. Preserve every <tag> exactly."	"Quest,Testing"	"Пагаварыць з Лязокам"
 "/quests/Testing.qmm/jumps/60/text"	"Подойти к пеленгу"	"Quest Testing.qmm: jumps.60.text. Preserve every <tag> exactly."	"Quest,Testing"	"Падысьці да пеленга"
-"/quests/Testing.qmm/jumps/61/text"	"А как насчет перекинуться в картишки?"	"Quest Testing.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/62/text"	"Давай начнем с малого - 15 буказоидов"	"Quest Testing.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/63/text"	"Не хочу серьезно рисковать - 30 буказоидов"	"Quest Testing.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/61/text"	"А как насчет перекинуться в картишки?"	"Quest Testing.qmm: jumps.61.text. Preserve every <tag> exactly."	"Quest,Testing"	"А як наконт перакінуцца ў карты?"
+"/quests/Testing.qmm/jumps/62/text"	"Давай начнем с малого - 15 буказоидов"	"Quest Testing.qmm: jumps.62.text. Preserve every <tag> exactly."	"Quest,Testing"	"Давай пачнём з малога — 15 буказоідаў"
+"/quests/Testing.qmm/jumps/63/text"	"Не хочу серьезно рисковать - 30 буказоидов"	"Quest Testing.qmm: jumps.63.text. Preserve every <tag> exactly."	"Quest,Testing"	"Не хачу сур'ёзна рызыкаваць — 30 буказоідаў"
 "/quests/Testing.qmm/jumps/64/text"	"Кто не рискует, тот не пьет ""Втыкиллы"" - 50 буказоидов"	"Quest Testing.qmm: jumps.64.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/65/text"	"Эх, была не была - 75 буказоидов"	"Quest Testing.qmm: jumps.65.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/66/description"	"Вы использовали все свои навыки для того, чтобы обыграть пеленга. Хотя вы так и не поняли до конца правил игры, несколько конов осталось за вами. Ваш выигрыш составил [p14] бкз, кроме того, ваше мастерство игры слегка возросло."	"Quest Testing.qmm: jumps.66.description. Preserve every <tag> exactly."	"Quest,Testing"	""
@@ -1215,7 +1222,7 @@
 "/quests/Testing.qmm/jumps/69/text"	"Вот {500*(1-([p4]*0,06+[p3])*0,03)} бкз, поворожи-ка мне"	"Quest Testing.qmm: jumps.69.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/70/description"	"Пеленг стал усердно имитировать вхождение в транс, дергать вас за руки и подвывать загробным голосом, объявив, что это заклинания для удлинения вашей линии жизни. Затем он в виде бесплатного приложения разложил для вас пасьянс и объявил, что вам в обозримом будущем встретится червонная дама, но между вами встанет крестовый король, с которым поможет справиться бубновый валет.
 Хиромант чертов! Вы пожалели, что потратили на него столько денег, и обещали себе впредь быть умнее. И действительно - ваш параметр <clr>интеллекта<clrEnd> вырос!"	"Quest Testing.qmm: jumps.70.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/71/text"	"А как насчет перекинуться в картишки?"	"Quest Testing.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/71/text"	"А как насчет перекинуться в картишки?"	"Quest Testing.qmm: jumps.71.text. Preserve every <tag> exactly."	"Quest,Testing"	"А як наконт перакінуцца ў карты?"
 "/quests/Testing.qmm/jumps/71/description"	"- Э, нет, хватит уже, наигрался я, - замахал руками Гипс. - Мне впечатлений теперь на год хватит. Уж больно ты в игре разбираться начал."	"Quest Testing.qmm: jumps.71.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/73/text"	"Покинуть бар"	"Quest Testing.qmm: jumps.73.text. Preserve every <tag> exactly."	"Quest,Testing"	"Пакінуць бар"
 "/quests/Testing.qmm/jumps/74/text"	"Поговорить с Кацапом"	"Quest Testing.qmm: jumps.74.text. Preserve every <tag> exactly."	"Quest,Testing"	""
@@ -1242,7 +1249,7 @@
 "/quests/Testing.qmm/jumps/93/description"	"Подавив в себе желание пометить территорию, вы зашагали по направлению к городским воротам. Кроме того, вы с удивлением обнаружили, что ваш кошелек слегка потяжелел!"	"Quest Testing.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/94/text"	"Идти в бар ""Трехногий Пенчекряк"""	"Quest Testing.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/95/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўночнай брамы"
-"/quests/Testing.qmm/jumps/96/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/96/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўднёвай брамы"
 "/quests/Testing.qmm/jumps/97/text"	"Громко выкрикнуть: ""Ай-ди-ди-кью-ди!"""	"Quest Testing.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/98/text"	"Покинуть поле брани"	"Quest Testing.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/100/text"	"Попытаться взять себя в руки"	"Quest Testing.qmm: jumps.100.text. Preserve every <tag> exactly."	"Quest,Testing"	""
