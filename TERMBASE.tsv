@@ -4048,7 +4048,7 @@ lemma.hefty	здоровый	hefty	здаровы/здаровых		big and soli
 lemma.dashing	лихо	dashingly	хвацка		adverb of хвацкі, brisk and deft	https://starnik.by/pravapis/233312
 lemma.construction	строительство	building work	будаўніцтва		erecting a structure, sense 1	https://starnik.by/pravapis/11795
 lemma.basis	основание	a base	аснова/аснову		what something is set on; accusative аснову, as in у аснову	https://starnik.by/pravapis/6596
-lemma.midst	середина	the middle	сярэдзіна/сярэдзіну		the part between the edges, sense 1; accusative сярэдзіну	https://starnik.by/pravapis/74312
+lemma.midst	середина	the middle	сярэдзіна/сярэдзіну/сярэдзіне		the part between the edges, sense 1; accusative сярэдзіну; locative сярэдзіне	https://starnik.by/pravapis/74312
 lemma.stack_top	верх	the top	верх		the upper part; accusative верх; the peak is вяршыня	https://starnik.by/pravapis/14007
 lemma.summit	вершина	a summit	вяршыня/вяршыню		the highest point, sense 1; accusative вяршыню	https://starnik.by/pravapis/17078
 lemma.stool_dim	табуреточка	a little stool	табурэтачка/табурэтачку		diminutive of табурэтка; accusative табурэтачку	https://starnik.by/pravapis/74382
@@ -4066,3 +4066,15 @@ lemma.reliable	надежный	reliable	надзейны/надзейнай		so
 lemma.hoist	водрузить	to hoist onto	узьнесьці/ўзьнесьлі		having lifted, to set something up on a place, sense 1; Starnik узнесці; hunspell узьнесьці; past plural ўзьнесьлі	https://starnik.by/pravapis/216876
 lemma.stay_up	устоять	to stay up	устаяць/ўстаяла		to keep one's balance and not fall, sense 1; feminine past ўстаяла	https://starnik.by/pravapis/218184
 lemma.atop	наверх	up on top	наверх		one-word adverb, up onto the top; the place на верх stays two words	https://starnik.by/pravapis/225801
+lemma.climb_onto	залезть	to climb onto	залезьці/Залезьці		to get up onto something, sense 1; Starnik залезці; hunspell inserts ь	https://starnik.by/pravapis/180562
+lemma.begin_wobble	зашататься	to start wobbling	захістацца/захісталася		to start swaying, or to lurch several times; feminine past захісталася	https://starnik.by/pravapis/182698
+lemma.tremble	затрястись	to start shaking	затрэсьціся/затрэслася		to start shaking; Starnik затрэсціся; hunspell infinitive затрэсьціся; feminine past затрэслася	https://starnik.by/pravapis/182492
+lemma.bang	грохот	a crash	грукат/грукатам		a very loud rolling noise; instrumental грукатам	https://starnik.by/pravapis/20830
+lemma.collapse	обвалиться	to collapse	абваліцца/абвалілася		to fall down in a heap; feminine past абвалілася	https://starnik.by/pravapis/164681
+lemma.along	вместе	together	разам		jointly with someone, sense 1; разам з вамі	https://starnik.by/pravapis/230864
+lemma.route	путь	a way	шлях/шляху		a journey or a going, sense 5; genitive шляху	https://starnik.by/pravapis/85297
+lemma.help	помощь	help	дапамога/дапамогай		aid in doing something; instrumental дапамогай, as in з дапамогай	https://starnik.by/pravapis/22012
+lemma.toss_aside	отбросить	to toss aside	адкінуць/адкінулі		having thrown, to move something aside, sense 1; past plural адкінулі	https://starnik.by/pravapis/167767
+lemma.hinder	помешать	to get in the way	перашкодзіць/перашкодзіла		to stop something from being done; feminine past перашкодзіла	https://starnik.by/pravapis/203626
+lemma.take_apart	разобрать	to take apart	разабраць/Разабраць/разабралі		to separate something into its parts, sense 1; past plural разабралі	https://starnik.by/pravapis/208799
+lemma.afresh	заново	afresh	нанава		once more, from the start, sense 2; colloquial нанова is the same word	https://starnik.by/pravapis/225999
