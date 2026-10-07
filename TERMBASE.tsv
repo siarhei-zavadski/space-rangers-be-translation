@@ -3908,7 +3908,7 @@ lemma.toothy	зубастый	toothy	зубаты/зубатая		having large t
 lemma.mosquito	комар	a mosquito	камар/камара		a small biting fly; G камара	https://starnik.by/pravapis/32389
 lemma.insect	насекомое	an insect	насякомае/насякомыя		a small arthropod; N pl насякомыя	https://starnik.by/pravapis/46404
 lemma.proboscis	хобот	a proboscis	хобат/хобатамі		the extended mouthpart, sense 1; I pl хобатамі	https://starnik.by/pravapis/82167
-lemma.clatter	лязг	a clang	лязгат/Лязгат/лязгату		a metallic clatter; G лязгату; capital Лязгат; hunspell lacks the noun	https://starnik.by/pravapis/40430
+lemma.clatter	лязг	a clang	лязгат/Лязгат/лязгату/лязгатам		a metallic clatter; G лязгату; I лязгатам; capital Лязгат; hunspell lacks the noun	https://starnik.by/pravapis/40430
 lemma.tread	гусеница	a tread	гусеніца/гусеніцы	гусяніцы	a metal track on a heavy machine; N pl гусеніцы; hunspell е	https://starnik.by/pravapis/21317
 lemma.stance	стойка	a stance	стойка/стойку		a set posture of the body, sense 1; A стойку	https://starnik.by/pravapis/231909
 lemma.pushy	настырный	pushy	настырны/настырнае		persistent and importunate, colloquial; n настырнае	https://starnik.by/pravapis/127340
@@ -4038,3 +4038,7 @@ lemma.fight_on	биться	to keep fighting	біцца/Біцца		to fight, se
 lemma.ready_up	приготовиться	to get ready	прыгатавацца/Прыгатавацца		to become ready for something	https://starnik.by/pravapis/206721
 lemma.unarmed	рукопашный	hand-to-hand	рукапашны/рукапашнай		done with cold arms or none, sense 1; genitive feminine рукапашнай	https://starnik.by/pravapis/146751
 lemma.scuffle	схватка	a fight	схватка/схваткі		a clash in combat, sense 1; genitive схваткі	https://starnik.by/pravapis/73817
+lemma.hoop	кольцо	a hoop	кальцо		a metal hoop, sense 1; the finger ring stays пярсьцёнак	https://starnik.by/pravapis/32294
+lemma.valve	клапан	a valve	кляпан		a gas-flow valve, sense 1; Starnik клапан; hunspell кляпан; the company name stays Клапан	https://starnik.by/pravapis/35835
+lemma.ricochet	рикошет	a ricochet	рыкашэт/рыкашэтам		a rebound after a strike, sense 2; adverb рыкашэтам	https://starnik.by/pravapis/65311
+lemma.seize	клинить	to jam	клінаваць		to drive a wedge so something seizes; colloquial	https://starnik.by/pravapis/186631
