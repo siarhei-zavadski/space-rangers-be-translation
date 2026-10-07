@@ -3202,7 +3202,7 @@ lemma.poison	ядовитый	poisonous	атрутны/атрутна		compound 
 lemma.aah	Аа-а	aah	Аа		realization stutter; hunspell suggestions are other words	—
 lemma.liberman	Либерман	Liberman	Лібэрман/Лібэрмана/Лібэрманам		journalist; G Лібэрмана, I Лібэрманам; hunspell suggestions are other words	—
 lemma.smitters	Смиттерс	Smitters	Сьмітэрс		journalist; hunspell suggests Містэр, a different word	—
-lemma.malok_slur	че	slur	чо/хош		the malok's slur of што and хочаш; hunspell suggestions are other words	—
+lemma.malok_slur	че	slur	чо/хош/ЧО		the malok's slur of што and хочаш; hunspell suggestions are other words	—
 lemma.cut_did	сде	cut-off did	зра		stuttered зрабіў; hunspell suggestions are other words	—
 lemma.zalivayka	Заливайко	Zalivayko	Залівайка		pour-joke name; spell_allow already has Залівайка; hunspell suggests Залівака	—
 lemma.customer	покупатель	customer	пакупнік/пакупнікоў		the person who buys, not the reseller скупшчык; G pl пакупнікоў	https://starnik.by/pravapis/51741
@@ -4086,7 +4086,7 @@ lemma.go_off	пойти	to set off	пайсьці		to set off, with an infinitiv
 lemma.stroll	гулять	to stroll	гуляць		to walk slowly for pleasure, sense 2	https://starnik.by/pravapis/176020
 lemma.share	разделить	to share	падзяліць/Падзяліць		to give someone a part of one's own, sense 3	https://starnik.by/pravapis/194407
 lemma.take_along	забрать	to take along	забраць/Забраць		to take someone or something with you, sense 1	https://starnik.by/pravapis/178867
-lemma.go_back	вернуться	to go back	вярнуцца		to come back to the place one left, sense 1	https://starnik.by/pravapis/175324
+lemma.go_back	вернуться	to go back	вярнуцца/вярнуўшыся		to come back to the place one left, sense 1; gerund вярнуўшыся, hunspell suggests other verbs	https://starnik.by/pravapis/175324
 lemma.lie_down	прилечь	to lie down	прылегчы/Прылегчы		to lie down for a short while, sense 1	https://starnik.by/pravapis/207125
 lemma.repose	отдохнуть	to rest	адпачыць		to recover one's strength, perfective	https://starnik.by/pravapis/168209
 lemma.loll	валяться	to loll	валяцца		colloquial, to lie doing nothing, sense 3; not валіцца	https://starnik.by/pravapis/172141
