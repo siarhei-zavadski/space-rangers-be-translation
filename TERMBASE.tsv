@@ -1709,7 +1709,7 @@ lemma.intuition	интуиция	intuition	інтуіцыя/Інтуіцыі		un
 lemma.fire	огонь	fire	агонь/Агонь/Агню		element; G агню	https://starnik.by/pravapis/1695
 lemma.water	вода	water	вада/Вада/Вады		the liquid, not the dialect flaw ва́да	https://starnik.by/pravapis/12817
 lemma.air	воздух	air	паветра/Паветра/паветры		element	https://starnik.by/pravapis/49864
-lemma.earth	земля	earth	зямля/Зямля/Зямлі		element and ground; G зямлі	https://starnik.by/pravapis/29980
+lemma.earth	земля	earth	зямля/Зямля/Зямлі/зямлю		element and ground; G зямлі; accusative зямлю	https://starnik.by/pravapis/29980
 lemma.spirit	дух	spirit	дух/Дух/Духа		psychic power, not a ghost; G духа	https://starnik.by/pravapis/23816
 lemma.gold	золото	gold	золата/Золата/залацінка		the metal and the coin label; залацінка is the small piece	https://starnik.by/pravapis/29691
 lemma.book	книга	book	кніга/Кніга		spellbook	https://starnik.by/pravapis/36147
@@ -4078,3 +4078,9 @@ lemma.toss_aside	отбросить	to toss aside	адкінуць/адкіну�
 lemma.hinder	помешать	to get in the way	перашкодзіць/перашкодзіла		to stop something from being done; feminine past перашкодзіла	https://starnik.by/pravapis/203626
 lemma.take_apart	разобрать	to take apart	разабраць/Разабраць/разабралі		to separate something into its parts, sense 1; past plural разабралі	https://starnik.by/pravapis/208799
 lemma.afresh	заново	afresh	нанава		once more, from the start, sense 2; colloquial нанова is the same word	https://starnik.by/pravapis/225999
+lemma.head_to	идти	to go	ісьці/Ісьці		to move by walking, sense 1; Starnik ісці; hunspell inserts ь	https://starnik.by/pravapis/185783
+lemma.tree	дерево	a tree	дрэва		a plant with a hard trunk, sense 1; accusative дрэва	https://starnik.by/pravapis/23592
+lemma.go_down	спуститься	to climb down	спусьціцца/Спусьціцца		to go down from above, sense 1; Starnik спусціцца; hunspell inserts ь	https://starnik.by/pravapis/214107
+lemma.keep_climb	лезть	to keep climbing	лезьці/Лезьці		to climb by grabbing, sense 1; Starnik лезці; hunspell inserts ь	https://starnik.by/pravapis/187215
+lemma.go_off	пойти	to set off	пайсьці		to set off, with an infinitive, sense 4; Starnik пайсці; hunspell inserts ь	https://starnik.by/pravapis/196573
+lemma.stroll	гулять	to stroll	гуляць		to walk slowly for pleasure, sense 2	https://starnik.by/pravapis/176020
