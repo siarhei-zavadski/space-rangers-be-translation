@@ -81,7 +81,7 @@ lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйн�
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія/Дамінатарамі/Дамінатараў		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
-lemma.system	система	system	сыстэма		Crowdin glossary; сыстэмы, сыстэме; Starnik родны мн. сыстэм, not сыстэмаў	—
+lemma.system	система	system	сыстэма/сыстэму		Crowdin glossary; сыстэмы, сыстэме; A сыстэму; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
 lemma.save	сохранение	save	захаваньне		Crowdin glossary; захаваньня, захаваньні	—
 lemma.engine	двигатель	engine	рухавік		Crowdin glossary; рухавіка, рухавіку	—
@@ -209,7 +209,7 @@ lemma.sting	резь	sting	рэзь		sharp pain; рэзь у вачах	https://
 lemma.concussion	контузия	concussion	кантузія		G кантузіі	https://starnik.by/pravapis/33236
 lemma.embryo	зародыш	embryo	зародак		G зародка, pl зародкі	https://starnik.by/pravapis/27658
 lemma.stimulant	стимулятор	stimulant	стымулятар		Starnik 2=drug / 3=допінг. G стымулятара	https://starnik.by/pravapis/72599
-lemma.medkit	аптечка	first-aid kit	аптэчка		D/L аптэчцы	https://starnik.by/pravapis/5679
+lemma.medkit	аптечка	first-aid kit	аптэчка/аптэчку		D/L аптэчцы; A аптэчку	https://starnik.by/pravapis/5679
 lemma.nausea	тошнота	nausea	нудота		Starnik 2=pre-vomit. verb: браць нудота	https://starnik.by/pravapis/48945
 lemma.vertigo	головокружение	vertigo	галавакружэньне		G галавакружэньня	https://starnik.by/pravapis/17490
 lemma.delirium	бред	delirium	трызьненьне		Starnik 3=галюцынацыя	https://starnik.by/pravapis/76081
@@ -3597,7 +3597,7 @@ lemma.raw	сырой	uncooked	сыры/сырымі		sense 2, not boiled or frie
 lemma.chew	жевать	to chew	жаваць/жуяце		to chew food, sense 1; вы жуяце	https://starnik.by/pravapis/178457
 lemma.rumble	бурчать	to rumble	бурчаць/забурчала/бурчаньне		sense 3, impersonal in the stomach; verbal noun бурчаньне	https://starnik.by/pravapis/171951
 lemma.hinge	шарнир	hinge	шарнір/шарнірах		a joint; locative plural шарнірах	https://starnik.by/pravapis/84809
-lemma.bunker	бункер	bunker	бункер/бункера		sense 2, a shelter; genitive бункера	https://starnik.by/pravapis/11998
+lemma.bunker	бункер	bunker	бункер/бункера/бункеры		sense 2, a shelter; genitive бункера; L бункеры	https://starnik.by/pravapis/11998
 lemma.evolution	эволюция	evolution	эвалюцыя		sense 1, change in living things	https://starnik.by/pravapis/86408
 lemma.petiole	черенок	a leaf stalk	чаранок/чаранком		sense 2, the stalk of a leaf or berry; instrumental чаранком	https://starnik.by/pravapis/83878
 lemma.nook	уголок	a nook	куток		a small corner	https://starnik.by/pravapis/38134
@@ -3701,7 +3701,7 @@ lemma.peaked_cap	фуражка	a peaked cap	фуражка/фуражку		a ca
 lemma.pornographic	порнографический	pornographic	парнаграфічны/парнаграфічнага		genitive парнаграфічнага	https://starnik.by/pravapis/136356
 lemma.kersey	кирза	kirza	кірза/кірзы		the cloth a boot is made of, genitive кірзы	https://starnik.by/pravapis/35659
 lemma.lyamboro	Лямборо хэви	broken brand	Лямборо/хэві		joke brand; hunspell wants Лямбард and хэпі, other words	—
-lemma.cask	бочка	a barrel	бочка/бочку/бочцы		a large vessel, also of sheet metal, sense 1; A бочку	https://starnik.by/pravapis/11257
+lemma.cask	бочка	a barrel	бочка/бочку/бочцы/бочкі		a large vessel, also of sheet metal, sense 1; A бочку; N pl бочкі	https://starnik.by/pravapis/11257
 lemma.taburet	табуретка	a stool	табурэтка/табурэтку/табурэтцы		A табурэтку; L табурэтцы	https://starnik.by/pravapis/74383
 lemma.tonne	тонна	a tonne	тона/тону		weight unit; A тону	https://starnik.by/pravapis/75229
 lemma.malosus	малососус	malosus	маласосус		coined malok disease; hunspell suggestions are other words	—
@@ -3774,7 +3774,7 @@ lemma.friendship	дружба	friendship	сяброўства		closeness and mut
 lemma.tradition	традиционный	traditional	традыцыйны		based on a tradition	https://starnik.by/pravapis/154486
 lemma.deed	действие	a deed	дзеяньне/дзеяньні		plural deeds, sense 1; Starnik дзеянні; hunspell ь	https://starnik.by/pravapis/22735
 lemma.recognition	признание	recognition	прызнаньне		the act of acknowledging, sense 1; Starnik прызнанне; hunspell ь	https://starnik.by/pravapis/60245
-lemma.similar	похожий	similar	падобны/падобных		sense 1, resembling something; G pl падобных	https://starnik.by/pravapis/133788
+lemma.similar	похожий	similar	падобны/падобных/падобна		sense 1, resembling something; G pl падобных; adverb падобна, it seems	https://starnik.by/pravapis/133788
 lemma.handshake	пожать	to shake a hand	паціснуць		sense 1, to press someone's hand	https://starnik.by/pravapis/200719
 lemma.accord	мир	peace	мір/міру		absence of hostility, sense 1; G міру	https://starnik.by/pravapis/90205
 lemma.produce	плод	a fruit	плод/пладоў		the edible part of a plant, sense 1; G pl пладоў	https://starnik.by/pravapis/57320
@@ -3788,3 +3788,38 @@ lemma.pretend	прикидываться	to pretend	прыкідвацца		to p
 lemma.jest	пошутить	to joke	пажартаваць		to say or do something as a joke, sense 1	https://starnik.by/pravapis/195821
 lemma.bound	ускакать	to bound off	паскакаць/паскакаў		to set off leaping, sense 1; the dictionary example is a hare bounding into the forest	https://starnik.by/pravapis/199633
 lemma.doff	снять	to take off	зьняць/зьняў		sense 2, to take off clothing; Starnik зняў; hunspell ь	https://starnik.by/pravapis/185203
+lemma.heap	громоздиться	to pile up	грувасьціцца/грувасьцяцца	грувасцяцца	to rise in a disorderly heap; 3pl грувасьцяцца; Starnik грувасціцца; hunspell inserts ь	https://starnik.by/pravapis/175911
+lemma.cumbersome	громоздкий	bulky	грувасткі/грувасткія		very large and heavy, sense of the adjective; N pl грувасткія	https://starnik.by/pravapis/107101
+lemma.depot_adj	складской	of a warehouse	складзкі/складзкім	складскі	related to a warehouse; L neuter складзкім; Starnik складскім; hunspell inserts дз	https://starnik.by/pravapis/150184
+lemma.premises	помещение	premises	памяшканьне/памяшканьні	памяшканні	a place where someone or something is; L памяшканьні; Starnik памяшканні; hunspell ь	https://starnik.by/pravapis/52451
+lemma.packing	ящик	a crate	скрыня/скрыню/скрыні/скрынь		a large packing chest, sense 1; A скрыню; G pl скрынь; a desk drawer is шуфляда	https://starnik.by/pravapis/69983
+lemma.emblem	крест	a cross	крыж		a mark of two crossing bars, sense 3; the painted red cross, not the organization	https://starnik.by/pravapis/37200
+lemma.discharge	выстрелить	to fire	выстраліць/выстралілі		to fire a shot; past plural выстралілі	https://starnik.by/pravapis/174523
+lemma.knock_off	сбить	to knock off	зьбіць/зьбілі/зьбіўшы	збіўшы	to knock something off with a blow, sense 1; Starnik збіўшы; hunspell inserts ь	https://starnik.by/pravapis/183487
+lemma.handy	пригодиться	to come in handy	спатрэбіцца		to become necessary	https://starnik.by/pravapis/213750
+lemma.unlatch	открыть	to open	адчыніць/адчынілі/адчыніўшы		to open a closed container, sense 1; past адчынілі; gerund адчыніўшы	https://starnik.by/pravapis/169076
+lemma.take_out	забирать	to take away	забіраць/забіраючы		imperfective of забраць; gerund забіраючы	https://starnik.by/pravapis/178798
+lemma.pullup	подтянуться	to pull up	падцягнуцца		to pull oneself up, sense 1; the dictionary example is a pull-up on a bar	https://starnik.by/pravapis/195635
+lemma.duct	вентиляция	ventilation	вэнтыляцыя/вэнтыляцыі	вентыляцыі	a system that moves air, sense 2; G вэнтыляцыі; Starnik вентыляцыі; hunspell э	https://starnik.by/pravapis/13870
+lemma.linger	задерживаться	to linger	затрымлівацца		imperfective of затрымацца, to stay on	https://starnik.by/pravapis/182483
+lemma.hazard	опасно	dangerous	небясьпечна	небяспечна	predicate, it brings danger; Starnik небяспечна; hunspell ь	https://starnik.by/pravapis/226573
+lemma.drill	упражнение	an exercise	практыкаваньне/практыкаваньняў	практыкаванняў	a physical drill, sense 2; G pl практыкаваньняў; Starnik практыкаванняў; hunspell ь	https://starnik.by/pravapis/58772
+lemma.drown	утонуть	to drown	утапіцца/ўтапіцца		to die in the water, sense 2; not the suicide sense; ў after a vowel	https://starnik.by/pravapis/218354
+lemma.not_long	недолго	soon enough	нядоўга		impersonal predicate, easy to, sense 2; the dictionary example is і патануць нядоўга	https://starnik.by/pravapis/227576
+lemma.hq	штаб	headquarters	штаб		the command body and the building it sits in, sense 1; A штаб	https://starnik.by/pravapis/85697
+lemma.worn_out	измотанный	worn out	выматаны/выматаным		exhausted, sense 2 of выматаць; L masculine выматаным	https://starnik.by/pravapis/173578
+lemma.unwise	неразумно	unwise	неразумна		adverb, not the sensible thing to do	https://starnik.by/pravapis/227145
+lemma.depict	нарисовать	to draw	намаляваць/намаляваны		to make a picture, sense 1; short participle намаляваны	https://starnik.by/pravapis/189865
+lemma.building	здание	a building	будынак/будынка		a building; G будынка	https://starnik.by/pravapis/11829
+lemma.motion	движение	a movement	рух		a movement one can see; masculine, so the verb is прыцягнуў	https://starnik.by/pravapis/65132
+lemma.tire_out	устать	to get tired	стаміцца/стаміліся		to feel fatigue; past plural стаміліся	https://starnik.by/pravapis/214278
+lemma.heed	внимание	attention	увага/увагу		attention one pays, sense 1; A ўвагу after a vowel	https://starnik.by/pravapis/77575
+lemma.attract	привлечь	to draw	прыцягнуць/прыцягнуў		to draw attention; the увага entry points at this verb	https://starnik.by/pravapis/208315
+lemma.barge	соваться	to barge in	сунуцца		to push into something unasked, sense 6	https://starnik.by/pravapis/214686
+lemma.sense_v	чувствовать	to feel	адчуваць		imperfective of адчуць; адчуваць сябе	https://starnik.by/pravapis/169054
+lemma.nearby	неподалеку	nearby	непадалёк/непадалёку		not far off; the dictionary head is непадалёку; this quest uses непадалёк ад, and hunspell accepts both	https://starnik.by/pravapis/226938
+lemma.top_adj	верхний	upper	верхні/верхніх		located above, sense 1; L pl верхніх	https://starnik.by/pravapis/102086
+lemma.thing	предмет	a thing	рэч/рэчы		a separate physical object, sense 1; N pl рэчы	https://starnik.by/pravapis/66346
+lemma.excess	слишком	too	занадта		more than is right	https://starnik.by/pravapis/224125
+lemma.beforehand	сначала	first	спачатку		beforehand, sense 1	https://starnik.by/pravapis/231771
+lemma.moreover	притом	moreover	прытым		a joining conjunction, besides; not прытомнасьць	https://starnik.by/pravapis/234133
