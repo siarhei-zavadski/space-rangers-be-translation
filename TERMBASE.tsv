@@ -2120,7 +2120,7 @@ lemma.riemann	Риман	Riemann	Рымана		the mathematician named in the fe
 lemma.grubb	Грубб	Grubb	Грубб/Грубба		mad peleng mathematician in the lab	Drugs.qmm
 lemma.plengotherm	пленготерм	plengotherm	плэнгатэрм/плэнгатэрма/плэнгатэрмаў		coined distance in the claybelly hunt; not in Starnik	Drugs.qmm
 lemma.superglucose	суперглюковый	superglucose	суперглюковы		coined lab generator; not in Starnik	Drugs.qmm
-lemma.camouflage	маскировка	camouflage	маскіроўка/маскіравальным		Starnik; the adjective is маскіравальны	https://starnik.by/pravapis/42058
+lemma.camouflage	маскировка	camouflage	маскіроўка/маскіравальным/маскіроўкі		Starnik; the adjective is маскіравальны	https://starnik.by/pravapis/42058
 lemma.anteroom	предбанник	anteroom	сенцы		small entrance room of a house	https://starnik.by/pravapis/68728
 lemma.scum	сволочь	scum	сволач		spoken insult, an odious person	https://starnik.by/pravapis/68216
 lemma.freak	урод	freak	вырадак		a person who has lost sound qualities	https://starnik.by/pravapis/16386
@@ -4413,3 +4413,22 @@ lemma.popup	всплывающий	popup	усплывальны/усплывал
 lemma.tripanya	трипанья	a tripanya	трыпання/трыпаннямі		a coined peleng fish; I pl трыпаннямі; hunspell suggestions are other words	—
 lemma.pirafish	пирашка	a pirate fish	пірашка/пірашкі/пірашак		a coined little pirate-fish; N pl пірашкі; G pl пірашак; hunspell suggestions are other words	—
 lemma.giggle	хы	a snicker	Хы/хы		the ranger's snicker; hunspell suggestions are other words	—
+lemma.unhoused	бомж	a homeless man	бяздомак		the adult without a home; the insult already says бамж	https://starnik.by/pravapis/12511
+lemma.quick_wit	сообразительность	quick wit	кемлівасьць/кемлівасьцю	кемлівасць	Starnik кемлівасць; hunspell inserts ь; I кемлівасьцю	https://starnik.by/pravapis/35142
+lemma.heady	горячительный	intoxicating	хмельны/хмельнага	гарачыцельны/хмяльны	a drink that makes you drunk, sense 2; not the hot-drink calque	https://starnik.by/pravapis/159505
+lemma.tousled	взлохмаченный	tousled	ускудлачаны/ўскудлачаныя		hair standing up; N pl ўскудлачаныя	https://starnik.by/pravapis/249700
+lemma.unshaven	небритый	unshaven	непаголены		a face that has not been shaved	https://starnik.by/pravapis/241904
+lemma.proportion	пропорция	a proportion	прапорцыя/прапорцыях		L pl прапорцыях	https://starnik.by/pravapis/59088
+lemma.cocktail_mix	коктейль	a cocktail	кактэйль/кактэйлю		G кактэйлю	https://starnik.by/pravapis/31926
+lemma.cohort	поколение	a generation	пакаленьне/пакаленьня	пакалення	Starnik пакаленне; hunspell inserts ь; G пакаленьня	https://starnik.by/pravapis/51614
+lemma.century	век	a century	стагодзьдзе/стагодзьдзі	стагоддзе/стагоддзі	Starnik стагоддзе; hunspell inserts ь; L стагодзьдзі	https://starnik.by/pravapis/71745
+lemma.guest_n	гость	a guest	госьць/госьці	госць/госці	Starnik госць; hunspell inserts ь; N pl госьці	https://starnik.by/pravapis/20428
+lemma.stemwood	стволовой	of a trunk	ствалавы/ствалавога	стваловы	the tree's trunk, sense 1; G m ствалавога	https://starnik.by/pravapis/72105
+lemma.treat_n	угощение	a treat	пачастунак/пачастунку		food and drink offered to a guest; G пачастунку	https://starnik.by/pravapis/54516
+lemma.adding	добавление	adding	дадаваньне/дадаваньні	дадаванне/даданьне	Starnik дадаванне; hunspell inserts ь; L дадаваньні	https://starnik.by/pravapis/21610
+lemma.above_given	вышеуказанный	above-mentioned	вышэйпададзены/вышэйпададзеныя	вышэйпазначаны	stated earlier; N pl вышэйпададзеныя	https://starnik.by/pravapis/104473
+lemma.galagoogle	ГалаГугл	Galagoogle	ГалаГугл	Галагут	the galaxy search joke; hunspell's Галагут is another word	—
+lemma.pressed_juice	сок	juice	сок/соку		the liquid pressed from a plant; G соку	https://starnik.by/pravapis/70730
+lemma.body_mass	масса	mass	маса/масы		how much matter a body holds, sense 1; G масы	https://starnik.by/pravapis/42022
+lemma.sourish	кисловатый	sourish	кіславаты/кіславата		a little sour, sense 1	https://starnik.by/pravapis/118919
+lemma.datum	данные	data	зьвесткі/зьвестак	звесткі	Starnik звесткі; hunspell inserts ь; G pl зьвестак	https://starnik.by/pravapis/28492
