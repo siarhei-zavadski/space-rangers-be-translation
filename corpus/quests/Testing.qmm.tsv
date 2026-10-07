@@ -1397,7 +1397,15 @@
 Пеленг отвечает:
 - Да ну вас... меня вообще завялят - и под пиво!""
 
-Вы напряглись, ожидая атаки тухлыми яйцами, но вместо этого вас встретил дружный хохот и шум аплодисментов! Все, пора идти в артисты разговорного жанра. Конферансье незаметно от публики дал вам мешочек с {165*(1+([p4]*0,05+[p3])*0,02)} бкз в качестве вознаграждения."	"Quest Testing.qmm: jumps.179.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+Вы напряглись, ожидая атаки тухлыми яйцами, но вместо этого вас встретил дружный хохот и шум аплодисментов! Все, пора идти в артисты разговорного жанра. Конферансье незаметно от публики дал вам мешочек с {165*(1+([p4]*0,05+[p3])*0,02)} бкз в качестве вознаграждения."	"Quest Testing.qmm: jumps.179.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы хутка парыліся ў памяці ў пошуках прыдатных анэкдотаў і выдалі наступнае:
+""Трапілі неяк у палон да малокаў-канібалаў фэянін, чалавек і пеленг. Фэянін кажа:
+- Эх, і чаму я ўсё жыцьцё еў адну гародніну? Цяпер мяне самога першым зьядуць, замест салаты.
+Чалавек кажа:
+- Я чуў, што ў нас, людзей, мяса самае сакавітае. Мяне напэўна пусьцяць на смажаніну... а ты чаго маўчыш, пеленг?
+Пеленг адказвае:
+- Ды ну вас... мяне ўвогуле завяляць — і пад піва!""
+
+Вы напружыліся, чакаючы атакі тухлымі яйкамі, але замест гэтага вас сустрэў дружны рогат і шум воплескаў! Усё, пара ісьці ў артысты гутарковага жанру. Канфэрансье неўзаметку ад публікі даў вам мяшэчак з {165*(1+([p4]*0,05+[p3])*0,02)} бкз у якасьці ўзнагароды."
 "/quests/Testing.qmm/jumps/180/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.180.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/180/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
 ""В малокскую дивизию назначили командира-гаальца. Он построил солдат на плацу, прохаживается вдоль шеренги и говорит:
@@ -1410,29 +1418,40 @@
 - Разумеется, вы не должны забывать о личном досуге. В свободное время вы будете делать все, что хотите. Рядовой, какое у вас любимое занятие?
 - Есть, сэр!""
 
-Вы ожидали пусть не хохота, но смеха, пусть не смеха, но улыбок... вместо этого в вас полетели традиционные гнилые помидоры и яйца, предметы домашнего обихода и разнообразная посуда. Похоже, публика по-настоящему разъярилась!"	"Quest Testing.qmm: jumps.180.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/182/text"	"Заслониться руками"	"Quest Testing.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/182/description"	"Вы закрыли голову руками и так хорошо сгруппировались, что даже не почувствовали удара."	"Quest Testing.qmm: jumps.182.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+Вы ожидали пусть не хохота, но смеха, пусть не смеха, но улыбок... вместо этого в вас полетели традиционные гнилые помидоры и яйца, предметы домашнего обихода и разнообразная посуда. Похоже, публика по-настоящему разъярилась!"	"Quest Testing.qmm: jumps.180.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы хутка парыліся ў памяці ў пошуках прыдатных анэкдотаў і выдалі наступнае:
+""У малокскую дывізію прызначылі камандзіра-гаальца. Ён пастроіў салдатаў на пляцы, праходжваецца ўздоўж шэрагу і кажа:
+- Я зраблю гэтую дывізію найлепшай у дасьледаваных сэктарах. Вы ўсе мне ў гэтым дапаможаце, так, радавы?
+Малок, да якога зьвярталіся, аддае гонар:
+- Ёсьць, сэр!
+Гаалец ідзе далей:
+- Вы будзеце выдатна экіпіяваныя і падрыхтаваныя, ў баявой моцы з вамі не параўняецца ніхто. Вось вы, радавы, гатовыя адкінуць расавыя забабоны і служыць пад маім пачаткам?
+- Ёсьць, сэр!
+- Вядома, вы не павінны забываць пра асабісты вольны час. У вольны час вы будзеце рабіць усё, што хочаце. Радавы, якое ў вас любімае заняцьце?
+- Ёсьць, сэр!""
+
+Вы чакалі хай не рогату, але сьмеху, хай не сьмеху, але ўсьмешак... замест гэтага ў вас паляцелі традыцыйныя гнілыя памідоры і яйкі, рэчы хатняга ўжытку і разнастайны посуд. Здаецца, публіка сапраўды разьюшылася!"
+"/quests/Testing.qmm/jumps/182/text"	"Заслониться руками"	"Quest Testing.qmm: jumps.182.text. Preserve every <tag> exactly."	"Quest,Testing"	"Засланіцца рукамі"
+"/quests/Testing.qmm/jumps/182/description"	"Вы закрыли голову руками и так хорошо сгруппировались, что даже не почувствовали удара."	"Quest Testing.qmm: jumps.182.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы зачынілі галаву рукамі і так добра згрупаваліся, што нават не адчулі ўдару."
 "/quests/Testing.qmm/jumps/184/param_changes/0/crit_text"	"Помидоры врезались в ваше тело один за другим, но вы этого уже не чувствовали...
 
 Виртуальность перед вашими глазами вдруг стала расплываться, превращаться в хаотичное мельтешение красок и ощущений. Вы начали проваливаться в небытие.
 Усилием воли приоткрыв глаза, вы обнаружили себя в ""дантистском кресле"", вокруг сновали фэяне в халатах, сотрудники фирмы. Затем тьма поглотила вас навсегда.
 Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: jumps.184.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/184/text"	"Заслониться руками"	"Quest Testing.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/184/description"	"Вы не смогли успешно защититься, и помидор больно стукнул вас по голове, что изрядно повеселило зрителей."	"Quest Testing.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/185/text"	"Отбить ""снаряд"""	"Quest Testing.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/185/description"	"Продемонстрировав великолепное мастерство, вы отфутболили помидор обратно в зрительский зал, кажется, попав в кого-то."	"Quest Testing.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/186/text"	"Отбить ""снаряд"""	"Quest Testing.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/186/description"	"Вы не успели среагировать, и помидор достиг своей цели, растекшись пятном на вашей одежде и репутации."	"Quest Testing.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/187/text"	"Попытаться поймать помидор"	"Quest Testing.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/188/text"	"Попытаться поймать помидор"	"Quest Testing.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/188/description"	"Вам не удалось схватить овощ на лету, и он лопнул, встретившись с вашим торсом."	"Quest Testing.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/189/text"	"Швырнуть в толпу"	"Quest Testing.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/189/description"	"Помидор исчез среди публики, кажется, сбив кого-то с ног."	"Quest Testing.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/184/text"	"Заслониться руками"	"Quest Testing.qmm: jumps.184.text. Preserve every <tag> exactly."	"Quest,Testing"	"Засланіцца рукамі"
+"/quests/Testing.qmm/jumps/184/description"	"Вы не смогли успешно защититься, и помидор больно стукнул вас по голове, что изрядно повеселило зрителей."	"Quest Testing.qmm: jumps.184.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы не змаглі пасьпяхова абараніцца, і памідор балюча стукнуў вас па галаве, што нямала павесяліла гледачоў."
+"/quests/Testing.qmm/jumps/185/text"	"Отбить ""снаряд"""	"Quest Testing.qmm: jumps.185.text. Preserve every <tag> exactly."	"Quest,Testing"	"Адбіць ""снарад"""
+"/quests/Testing.qmm/jumps/185/description"	"Продемонстрировав великолепное мастерство, вы отфутболили помидор обратно в зрительский зал, кажется, попав в кого-то."	"Quest Testing.qmm: jumps.185.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы паказалі цудоўнае майстэрства і адфутболілі памідор назад у залю, здаецца, трапіўшы ў кагосьці."
+"/quests/Testing.qmm/jumps/186/text"	"Отбить ""снаряд"""	"Quest Testing.qmm: jumps.186.text. Preserve every <tag> exactly."	"Quest,Testing"	"Адбіць ""снарад"""
+"/quests/Testing.qmm/jumps/186/description"	"Вы не успели среагировать, и помидор достиг своей цели, растекшись пятном на вашей одежде и репутации."	"Quest Testing.qmm: jumps.186.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы не пасьпелі адрэагаваць, і памідор дасягнуў сваёй мэты і расьцёкся плямай на вашай адзежы і рэпутацыі."
+"/quests/Testing.qmm/jumps/187/text"	"Попытаться поймать помидор"	"Quest Testing.qmm: jumps.187.text. Preserve every <tag> exactly."	"Quest,Testing"	"Паспрабаваць злавіць памідор"
+"/quests/Testing.qmm/jumps/188/text"	"Попытаться поймать помидор"	"Quest Testing.qmm: jumps.188.text. Preserve every <tag> exactly."	"Quest,Testing"	"Паспрабаваць злавіць памідор"
+"/quests/Testing.qmm/jumps/188/description"	"Вам не удалось схватить овощ на лету, и он лопнул, встретившись с вашим торсом."	"Quest Testing.qmm: jumps.188.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вам не ўдалося схапіць гародніну на ляту, і ён лопнуў, сутыкнуўшыся з вашым торсам."
+"/quests/Testing.qmm/jumps/189/text"	"Швырнуть в толпу"	"Quest Testing.qmm: jumps.189.text. Preserve every <tag> exactly."	"Quest,Testing"	"Шпурнуць у натоўп"
+"/quests/Testing.qmm/jumps/189/description"	"Помидор исчез среди публики, кажется, сбив кого-то с ног."	"Quest Testing.qmm: jumps.189.description. Preserve every <tag> exactly."	"Quest,Testing"	"Памідор зьнік сярод публікі, здаецца, зьбіўшы кагосьці з ног."
 "/quests/Testing.qmm/jumps/190/text"	"Съесть"	"Quest Testing.qmm: jumps.190.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/190/description"	"Превозмогая отвращение, вы проглотили гнилой помидор. Похоже, вашему здоровью это пошло на пользу."	"Quest Testing.qmm: jumps.190.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/192/text"	"Швырнуть в толпу"	"Quest Testing.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/192/description"	"Помидор исчез среди публики, кажется, сбив кого-то с ног."	"Quest Testing.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/192/text"	"Швырнуть в толпу"	"Quest Testing.qmm: jumps.192.text. Preserve every <tag> exactly."	"Quest,Testing"	"Шпурнуць у натоўп"
+"/quests/Testing.qmm/jumps/192/description"	"Помидор исчез среди публики, кажется, сбив кого-то с ног."	"Quest Testing.qmm: jumps.192.description. Preserve every <tag> exactly."	"Quest,Testing"	"Памідор зьнік сярод публікі, здаецца, зьбіўшы кагосьці з ног."
 "/quests/Testing.qmm/jumps/194/text"	"Срочно покинуть сцену"	"Quest Testing.qmm: jumps.194.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/195/text"	"Рассказать анекдот"	"Quest Testing.qmm: jumps.195.text. Preserve every <tag> exactly."	"Quest,Testing"	"Расказаць анэкдот"
 "/quests/Testing.qmm/jumps/195/description"	"Вы быстро порылись в памяти на предмет пригодных к использованию анекдотов и выдали следующее:
