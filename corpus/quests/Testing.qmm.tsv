@@ -1568,37 +1568,49 @@
 Затым выскачылі з кабіны няшчаснага ""Ўбоінга"" і кінуліся ў лес, адчайна перабіраючы нагамі. Нешта грымнула так, што з дрэў на вас пасыпаліся шышкі. Гэта быў выбух карабля, ці вы проста пераадолелі гукавы бар'ер?"
 "/quests/Testing.qmm/jumps/221/text"	"Идти назад в лес"	"Quest Testing.qmm: jumps.221.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці назад у лес"
 "/quests/Testing.qmm/jumps/222/text"	"Идти назад в лес"	"Quest Testing.qmm: jumps.222.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці назад у лес"
-"/quests/Testing.qmm/jumps/223/text"	"Идти в магазин ""Икая"""	"Quest Testing.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/224/text"	"Покинуть магазин"	"Quest Testing.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/225/text"	"Купить винтовку"	"Quest Testing.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/223/text"	"Идти в магазин ""Икая"""	"Quest Testing.qmm: jumps.223.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці ў краму ""Ікая"""
+"/quests/Testing.qmm/jumps/224/text"	"Покинуть магазин"	"Quest Testing.qmm: jumps.224.text. Preserve every <tag> exactly."	"Quest,Testing"	"Пакінуць краму"
+"/quests/Testing.qmm/jumps/225/text"	"Купить винтовку"	"Quest Testing.qmm: jumps.225.text. Preserve every <tag> exactly."	"Quest,Testing"	"Купіць вінтоўку"
 "/quests/Testing.qmm/jumps/225/description"	"- Винтовочку мне бы, - попросили вы, и тут же получили в руки сей агрегат.
-- Согласно действующим скидкам, с вас {500*(1-([p4]*0,05+[p3])*0,02)} бкз, - пролязгал робот. - Поздравляю с удачной покупкой."	"Quest Testing.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/227/text"	"Купить гранату"	"Quest Testing.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+- Согласно действующим скидкам, с вас {500*(1-([p4]*0,05+[p3])*0,02)} бкз, - пролязгал робот. - Поздравляю с удачной покупкой."	"Quest Testing.qmm: jumps.225.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Вінтоўку мне б, — папрасілі вы, і адразу атрымалі ў рукі гэты агрэгат.
+- Паводле дзейных зьніжак, з вас {500*(1-([p4]*0,05+[p3])*0,02)} бкз, — лязгаў робат. — Віншую з удалай пакупкай."
+"/quests/Testing.qmm/jumps/227/text"	"Купить гранату"	"Quest Testing.qmm: jumps.227.text. Preserve every <tag> exactly."	"Quest,Testing"	"Купіць гранату"
 "/quests/Testing.qmm/jumps/227/description"	"- Вон ту гранатку, пожалуйста, - указали вы.
 - С удовольствием, сэр.
 Вы осмотрели полученную гранату. На боку у нее была приклеена какая-то бумажка.
 - О, - сказал робот, - вам сказочно повезло. По этому лотерейному билету вы выигрываете {150-150*(1-([p4]*0,05+[p3])*0,02)} бкз.
-И впрямь повезло..."	"Quest Testing.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/228/text"	"Купить шокер"	"Quest Testing.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+И впрямь повезло..."	"Quest Testing.qmm: jumps.227.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Вон тую гранату, калі ласка, — паказалі вы.
+- З задавальненьнем, сэр.
+Вы агледзелі атрыманую гранату. На баку ў яе была прылепленая нейкая паперка.
+- О, — сказаў робат, — вам казачна пашанцавала. Па гэтым лятарэйным білеце вы выйграеце {150-150*(1-([p4]*0,05+[p3])*0,02)} бкз.
+І сапраўды пашанцавала..."
+"/quests/Testing.qmm/jumps/228/text"	"Купить шокер"	"Quest Testing.qmm: jumps.228.text. Preserve every <tag> exactly."	"Quest,Testing"	"Купіць шокер"
 "/quests/Testing.qmm/jumps/228/description"	"- Скажите, какое напряжение у этого шокера? - деловито осведомились вы.
 - Десять в шестой степени вольт, - ответил робот.
 - Беру, - решили вы.
 Внезапно внутри робота заиграла какая-то музыка:
 - Вы - миллионный покупатель нашего высоковольтнейшего из шокеров! - объявил он. - Поэтому покупка обходится вам всего в {450*(1-([p4]*0,05+[p3])*0,02)} бкз! Покупайте шокеры ""Шухер""! Шокеры ""Шухер"" - это гарантия безопасности для вас и ваших детей!
-У вас не было детей, а гарантией безопасности служила обычно припрятанная в трюме на черный день кварковая бомба, но скидке вы обрадовались."	"Quest Testing.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/229/text"	"Купить бронекостюм"	"Quest Testing.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+У вас не было детей, а гарантией безопасности служила обычно припрятанная в трюме на черный день кварковая бомба, но скидке вы обрадовались."	"Quest Testing.qmm: jumps.228.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Скажыце, якое напружаньне ў гэтага шокера? — дзелавіта пацікавіліся вы.
+- Дзесяць у шостай ступені вольт, — адказаў робат.
+- Бяру, — вырашылі вы.
+Раптам унутры робата загучала нейкая музыка:
+- Вы — мільённы пакупнік нашага самага высакавольтнага з шокераў! — абвясьціў ён. — Таму пакупка абыходзіцца вам усяго ў {450*(1-([p4]*0,05+[p3])*0,02)} бкз! Купляйце шокеры ""Шухер""! Шокеры ""Шухер"" — гэта гарантыя бясьпекі для вас і вашых дзяцей!
+У вас ня было дзяцей, а гарантыяй бясьпекі звычайна служыла схаваная ў труме на чорны дзень кваркавая бомба, але з тае зьніжкі вы ўзрадаваліся."
+"/quests/Testing.qmm/jumps/229/text"	"Купить бронекостюм"	"Quest Testing.qmm: jumps.229.text. Preserve every <tag> exactly."	"Quest,Testing"	"Купіць бранявы касьцюм"
 "/quests/Testing.qmm/jumps/229/description"	"- Заверните этот бронекостюм, пожалуйста, - попросили вы робота.
 - К сожалению, это последний бронекостюм на складе, - ответил робот, - и он уценен из-за брака: по ошибке вместо лейбла фирмы ""Пьер Кардамон"" была приклеена метка ""Валокордин Юдашкин"". Мы очень сожалеем, теперь бронекостюм стоит {600*(1-([p4]*0,05+[p3])*0,02)} бкз.
-- Ничего, - обрадованно успокоили вы робота. - Нам и такой сойдет."	"Quest Testing.qmm: jumps.229.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+- Ничего, - обрадованно успокоили вы робота. - Нам и такой сойдет."	"Quest Testing.qmm: jumps.229.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Загарніце гэты бранявы касьцюм, калі ласка, — папрасілі вы робата.
+- На жаль, гэта апошні бранявы касьцюм на складзе, — адказаў робат, — і ён зьніжаны ў цане праз брак: памылкова замест этыкеткі фірмы ""П'ер Кардамон"" была прылепленая пазнака ""Валакардзін Юдашкін"". Мы вельмі шкадуем, цяпер бранявы касьцюм каштуе {600*(1-([p4]*0,05+[p3])*0,02)} бкз.
+- Нічога, — ўзрадавана супакоілі вы робата. — Нам і такі падыдзе."
 "/quests/Testing.qmm/jumps/230/text"	"Залезть внутрь"	"Quest Testing.qmm: jumps.230.text. Preserve every <tag> exactly."	"Quest,Testing"	"Залезьці ў сярэдзіну"
-"/quests/Testing.qmm/jumps/231/text"	"Вылезти наружу"	"Quest Testing.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/232/text"	"Громко выкрикнуть ""ай-ди-ди-кью-ди"""	"Quest Testing.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/233/text"	"Взять удочку"	"Quest Testing.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/233/description"	"Вы стремительно сложили удочку, благо она была довольно компактной, и спрятали, чтобы ее не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.233.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/234/text"	"Взять сушеных термитов"	"Quest Testing.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/234/description"	"Вы порылись за прилавком и нашли целую коробку с сушеными термитами! Вот это удача! Вы быстро спрятали термитов, чтобы их не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.234.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/235/text"	"Взять вибронож"	"Quest Testing.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/235/description"	"Вы схватили сиротливо лежавший на прилавке вибронож и спрятали, чтобы его не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.235.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/231/text"	"Вылезти наружу"	"Quest Testing.qmm: jumps.231.text. Preserve every <tag> exactly."	"Quest,Testing"	"Вылезьці вонкі"
+"/quests/Testing.qmm/jumps/232/text"	"Громко выкрикнуть ""ай-ди-ди-кью-ди"""	"Quest Testing.qmm: jumps.232.text. Preserve every <tag> exactly."	"Quest,Testing"	"Гучна выкрыкнуць ""ай-ди-ди-кью-ди"""
+"/quests/Testing.qmm/jumps/233/text"	"Взять удочку"	"Quest Testing.qmm: jumps.233.text. Preserve every <tag> exactly."	"Quest,Testing"	"Узяць вудку"
+"/quests/Testing.qmm/jumps/233/description"	"Вы стремительно сложили удочку, благо она была довольно компактной, и спрятали, чтобы ее не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.233.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы імкліва склалі вудку, на шчасьце яна была даволі кампактнай, і схавалі, каб яе не ўбачыў зьявіўшыся Шагрот."
+"/quests/Testing.qmm/jumps/234/text"	"Взять сушеных термитов"	"Quest Testing.qmm: jumps.234.text. Preserve every <tag> exactly."	"Quest,Testing"	"Узяць сушаных тэрмітаў"
+"/quests/Testing.qmm/jumps/234/description"	"Вы порылись за прилавком и нашли целую коробку с сушеными термитами! Вот это удача! Вы быстро спрятали термитов, чтобы их не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.234.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы парыліся за прылаўкам і знайшлі цэлую скрынку з сушанымі тэрмітамі! Вось гэта ўдача! Вы хутка схавалі тэрмітаў, каб іх не ўбачыў зьявіўшыся Шагрот."
+"/quests/Testing.qmm/jumps/235/text"	"Взять вибронож"	"Quest Testing.qmm: jumps.235.text. Preserve every <tag> exactly."	"Quest,Testing"	"Узяць вібранож"
+"/quests/Testing.qmm/jumps/235/description"	"Вы схватили сиротливо лежавший на прилавке вибронож и спрятали, чтобы его не увидел появившийся Шагрот."	"Quest Testing.qmm: jumps.235.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы схапілі вібранож, які сіратліва ляжаў на прылаўку, і схавалі, каб яго не ўбачыў зьявіўшыся Шагрот."
 "/quests/Testing.qmm/jumps/236/text"	"Взять выручку Шагрота"	"Quest Testing.qmm: jumps.236.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/236/description"	"Вы быстро сгребли себе в карманы деньги из кассы, и появившийся вновь Шагрот ничего не заметил."	"Quest Testing.qmm: jumps.236.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/237/text"	"Пожонглировать предметами"	"Quest Testing.qmm: jumps.237.text. Preserve every <tag> exactly."	"Quest,Testing"	""
