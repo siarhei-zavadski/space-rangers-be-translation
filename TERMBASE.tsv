@@ -4169,7 +4169,7 @@ lemma.hand_grenade	граната	a grenade	граната/Граната		a sma
 lemma.type_n	тип	a type	тып/Тып		a model a group of things shares, sense 1; N тып	https://starnik.by/pravapis/76694
 lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу/армрэстлінгам		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
-lemma.ben_npc	Бен	Ben	Бэн		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
+lemma.ben_npc	Бен	Ben	Бэн/Бэна		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
 lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса/Добрысам		the elder who fights for the good; hunspell suggestions are other words	—
 lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер/Кааттера/Айроона/Айроону		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
 lemma.three_legged	трехногий	three-legged	трохногі/трохногага		on three legs; G m animate трохногага	https://starnik.by/pravapis/154863
@@ -4316,3 +4316,6 @@ lemma.pickaxe	кирка	a pick	кірка/кірку/кіркай		the mining t
 lemma.nugget	самородок	a nugget	самародак/самародка/самародкам		a native lump of metal, sense 1; G самародка, I самародкам; the metal stays inanimate самародак	https://starnik.by/pravapis/67285
 lemma.khrustki	хрустящий	crispy	хрумсткі/хрумсткія		that crunches; N pl хрумсткія	https://starnik.by/pravapis/159616
 lemma.waspsting	жалить	to sting	джаліць/джалячы		to wound with a sting, sense 1; adverbial джалячы; hunspell rejects жалячы	https://starnik.by/pravapis/177552
+lemma.matyuk	мат	a swear	мацюк/мацюком		a coarse swear-word; I мацюком; hunspell suggestions are other words	https://starnik.by/pravapis/42405
+lemma.fib	приврать	to fib	прыхлусіць/прыхлусіў		to add a lie while telling something, sense of прылгаць; past прыхлусіў	https://starnik.by/pravapis/208227
+lemma.gyrate	кружить	to circle	кружыць/кружачы		to move in circles, sense 2; adverbial кружачы; not the disk name Круг	https://starnik.by/pravapis/186784
