@@ -3306,7 +3306,7 @@ lemma.correction	поправка	a correction	папраўка/папраўку
 lemma.division	деление	a scale mark	дзяленьне/дзяленьні	дзяленне	sense 3, a mark on a measuring scale; hunspell -ньне	https://starnik.by/pravapis/22934
 lemma.indicator	индикатор	an indicator	індыкатар/індыкатара		G індыкатара	https://starnik.by/pravapis/30750
 lemma.district	район	a district	раён/раёне		L раёне, sense 2	https://starnik.by/pravapis/62868
-lemma.corner	угол	a corner	кут/куце		L куце	https://starnik.by/pravapis/38129
+lemma.corner	угол	a corner	кут/куце/кута		L куце; G кута	https://starnik.by/pravapis/38129
 lemma.screen	экран	a screen	экран/экрана		G экрана, sense 2	https://starnik.by/pravapis/86639
 lemma.conserve	беречь	to spare	берагчы/беражы		imperative беражы, sense 1	https://starnik.by/pravapis/171593
 lemma.shut	закрытый	shut	зачынены/зачыненыя		plural зачыненыя	https://starnik.by/pravapis/113371
@@ -3452,3 +3452,7 @@ lemma.ammunition	боеприпасы	ammunition	боепрыпасы/боепр
 lemma.keycard	ключ-карта	a key card	ключ-картка		the card that opens a lock; картка is the card, sense 3; not карта, a reject would match G pl картак	https://starnik.by/pravapis/34115
 lemma.pedestal	постамент	a pedestal	пастамэнт/пастамэнце	пастамент	a base a thing stands on, sense 2; Starnik пастамент, hunspell пастамэнт; L пастамэнце	https://starnik.by/pravapis/53665
 lemma.buur	Буур	Bouhours	Буур		the company named on the plastic card; English Bouhours	—
+lemma.bale	тюк	a bale	цюк/цюкі		a large tied pack of goods, sense 1; not the knock	https://starnik.by/pravapis/83539
+lemma.sack	куль	a large sack	куль/кулі		a large bast sack, sense 2; not a bullet	https://starnik.by/pravapis/37759
+lemma.abominable	богомерзкий	abominable	богамярзотны/богамярзотных		loathsome; G pl богамярзотных; hunspell lacks the compound	https://starnik.by/pravapis/99794
+lemma.hydro_bandage	гидробинт	a hydro-bandage	гідрабінг/гідрабінтамі		sci-fi bandage; бінт is Starnik 10450; hunspell splits the compound	—
