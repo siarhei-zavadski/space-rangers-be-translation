@@ -3020,7 +3020,7 @@ lemma.squiggle	загогулин	squiggle	загагулін	загагулін
 lemma.prankster	проказницах	prankster women	свавольніцах		locative plural; not the leprosy праказа	https://starnik.by/pravapis/68018
 lemma.lodger	постояльцев	hotel guest	пастаяльцаў		genitive plural	https://starnik.by/pravapis/53689
 lemma.pestering	надоедливый	pestering	надакучлівы		the annoying administrator	https://starnik.by/pravapis/125863
-lemma.bucket	ведрами	by the bucket	вёдрамі		instrumental plural	https://starnik.by/pravapis/16946
+lemma.bucket	ведрами	by the bucket	вёдрамі/вядро		instrumental plural; N вядро	https://starnik.by/pravapis/16946
 lemma.delay	задержек	delay	спазьненьняў	спазненняў	hunspell spelling; Starnik спазненне	https://starnik.by/pravapis/70995
 lemma.storey	этажам	storey	паверхах		locative plural of the floor	https://starnik.by/pravapis/250599
 lemma.monumental	монументальные	monumental	манумэнтальныя	манументальныя	huge people, Starnik sense 1; hunspell э	https://starnik.by/pravapis/123104
@@ -3649,7 +3649,7 @@ lemma.latitude	широта	latitude	шырата/шыраты		genitive шыр�
 lemma.longitude	долгота	longitude	даўгата/даўгаты		genitive даўгаты	https://starnik.by/pravapis/22266
 lemma.timely_aid	подмога	aid	падмога/падмогу		accusative падмогу	https://starnik.by/pravapis/50786
 lemma.armpit	подмышка	an armpit	паха/пахай		instrumental пахай; Starnik locative is пасе	https://starnik.by/pravapis/54351
-lemma.sand_n	песок	sand	пясок		a grainy ground	https://starnik.by/pravapis/62142
+lemma.sand_n	песок	sand	пясок/пяску		a grainy ground; partitive пяску	https://starnik.by/pravapis/62142
 lemma.peel	шкурка	a peel	лупіна/лупіну		fruit peel, sense 1; accusative лупіну	https://starnik.by/pravapis/40095
 lemma.smirk	ухмылка	a smirk	ухмылка/ухмылкай		instrumental ухмылкай	https://starnik.by/pravapis/79133
 lemma.clothes	одежда	clothes	адзежа/адзежы/адзежу		genitive адзежы, accusative адзежу	https://starnik.by/pravapis/2142
@@ -4345,3 +4345,9 @@ lemma.rob_verb	грабить	to rob	грабіць/грабілі		to take good
 lemma.bargain	торг	a bargaining	торг		haggling over a price, sense 1; stressed о stays; hunspell rejects akanie тарг	https://starnik.by/pravapis/75293
 lemma.ship_hull	корабль	a ship	карабель		a large vessel; not the basket кораб	https://starnik.by/pravapis/33658
 lemma.mini_porter	телепортер	a teleporter	тэлепартэр		a floor teleporter; RobotsMap already; hunspell suggestions are other words	—
+lemma.duckweed	ряска	duckweed	раска/раскі/раску		the floating water plant, and the cocktail named for it; G раскі; A раску	https://starnik.by/pravapis/63830
+lemma.algae	водоросль	an alga	водарасьць/водарасьці/водарасьцяў		Starnik водарасць; hunspell inserts ь; N pl водарасьці; G pl водарасьцяў	https://starnik.by/pravapis/15059
+lemma.ethanol	спирт	spirit	сьпірт/сьпірту		Starnik спірт; hunspell inserts ь; G сьпірту	https://starnik.by/pravapis/71430
+lemma.recipe	рецепт	a recipe	рэцэпт/рэцэпта		a way of preparing something, sense 2; G рэцэпта	https://starnik.by/pravapis/66338
+lemma.clearance	допуск	a clearance	допуск/допуску		permission to enter, sense 1; stressed о stays; G допуску	https://starnik.by/pravapis/23241
+lemma.component	компонент	a component	кампанэнт/кампанэнтаў		a constituent part; Starnik кампанент; hunspell кампанэнт; G pl кампанэнтаў	https://starnik.by/pravapis/32620
