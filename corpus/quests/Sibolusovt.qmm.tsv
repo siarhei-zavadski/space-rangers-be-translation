@@ -811,7 +811,11 @@ The native tapped you on the shoulder, clearly bewildered..."	"Quest,Sibolusovt"
 ""Excuse me,"" you said, full of embarrassment. ""I didn't know you were immortal.""
 ""I obtained immortality on this planet! Boo-go-ga!""
 The man had already fallen sound asleep. In fact, he was sawing logs like a lumberjack.
-This inspired you..."	"Quest,Sibolusovt"	""
+This inspired you..."	"Quest,Sibolusovt"	"- Што?! — Люта перапытаў тубылец. — Ды як ты сьмееш такое пытаць у неўміручага?
+- Прабачце, — Зьбянтэжыліся вы. — Я ня ведаў, што вы неўміручы.
+- Я атрымаў на гэтай плянэце бясьсьмертнасьць! Бу-го-га!
+Чалавек ужо зусім засынаў. Можна нават сказаць, амаль дрыхнуў без задніх ног.
+Гэта вас натхніла..."
 "/quests/Sibolusovt.qmm/locations/111/texts/1/text"	"- Хм. - Задумался тарантул. - Думаю, победили бы клисане.
 - Почему? - Спросили вы.
 - Я не знаю, кто такие доминаторы.
@@ -822,7 +826,12 @@ This inspired you..."	"Quest,Sibolusovt"	""
 ""I don't know who the dominators are.""
 ""That makes sense,"" you agreed.
 The man had already fallen sound asleep. In fact, he was sawing logs like a lumberjack.
-This inspired you."	"Quest,Sibolusovt"	""
+This inspired you."	"Quest,Sibolusovt"	"- Гм. — Задумаўся тарантул. — Думаю, перамаглі б клісаны.
+- Чаму? — Спыталі вы.
+- Я ня ведаю, хто такія дамінатары.
+- Лягічна. — Пагадзіліся вы.
+Чалавек ужо зусім засынаў. Можна нават сказаць, амаль дрыхнуў без задніх ног.
+Гэта вас натхніла."
 "/quests/Sibolusovt.qmm/locations/111/texts/2/text"	"- А что это такое? - Не понял абориген.
 - Это игра такая. - Пояснили вы. - Её по SV показывают...
 - Что такое SV? - Снова не понял абориген.
@@ -833,23 +842,34 @@ This inspired you."	"Quest,Sibolusovt"	""
 ""What's stereovision?"" asked the native again.
 ""It's this three dimensional doohickey that shows pictures,"" you explained, starting to become irritated. ""You don't hear much about the wonders of civilization here, do you? My grandfather was in the Klissan war, and he won the Hatchball Championship. He grew to be quite old, but died recently. They used to give out awesome missions. But now there's just these absurd missions to go and save gaalian expeditions.""
 The man had already fallen sound asleep. In fact, he was sawing logs like a lumberjack.
-This inspired you..."	"Quest,Sibolusovt"	""
+This inspired you..."	"Quest,Sibolusovt"	"- А што гэта такое? — Не зразумеў тубылец.
+- Гэта такая гульня. — Патлумачылі вы. — Яе па SV паказваюць...
+- Што такое SV? — Зноў не зразумеў тубылец.
+- Гэта такая трохмерная штуковіна, якая паказвае малюнкі. — Ужо пачалі злавацца вы. — Нешта зусім тут у вас глуха з цудамі цывілізацыі. А бо мой дзед, ён яшчэ ў Клісанскай вайне ўдзельнічаў, выйграваў чэмпіянат па хэтчболе. Ён у мяне яшчэ за доўгажыхара лічыўся, нядаўна вось памёр. Раней файныя заданьні выдавалі. А цяпер трапляюцца толькі нейкія вар'яцкія заданьні па выратаваньні гаальскіх экспэдыцыяў.
+Чалавек ужо зусім засынаў. Можна нават сказаць, амаль дрыхнуў без задніх ног.
+Гэта вас натхніла..."
 "/quests/Sibolusovt.qmm/locations/112/texts/0/text"	"Человек смутился и обнажил свои зеленые зубы в неком подобии улыбки, а вас внезапно обуяли рвотные позывы. 
 А ещё вы приметили, что абориген засыпает, и продолжили разговор с ещё большим воодушевлением."	"Quest Sibolusovt.qmm: locations.112.texts.0.text. Preserve every <tag> exactly. English reference: The man was embarrassed and showed his green teeth in something like a smile, and you suddenly felt the need to vomit. 
-You noticed that the native was sleeping, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	""
+You noticed that the native was sleeping, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	"Чалавек зьбянтэжыўся і агаліў свае зялёныя зубы ў нейкім падабенстве ўсьмешкі, а вас раптам апанавала нудота.
+А яшчэ вы заўважылі, што тубылец засынае, і працягнулі размову з яшчэ большым натхненьнем."
 "/quests/Sibolusovt.qmm/locations/112/texts/1/text"	"Человек оглянулся себе на спину, и угрожающе клацнул своими клыками.
 - Как ты смеешь обзывать мою еду липкой гадостью! Я сегодня два часа её готовил!
 Вы приметили, что абориген утомился и начинает засыпать, и продолжили разговор с ещё большим воодушевлением."	"Quest Sibolusovt.qmm: locations.112.texts.1.text. Preserve every <tag> exactly. English reference: The man looked over his shoulder and gnashed his teeth menacingly.
 ""How dare you call my food sticky gunk?! I spent two hours making it today!""
-You noticed that the native was growing weary and starting to nod off, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	""
+You noticed that the native was growing weary and starting to nod off, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	"Чалавек азірнуўся сабе на сьпіну і пагрозьліва кляцнуў сваімі ікламі.
+- Як ты сьмееш абзываць маю ежу ліпкім паскудзтвам! Я сёньня дзьве гадзіны яе гатаваў!
+Вы заўважылі, што тубылец стаміўся і пачынае засынаць, і працягнулі размову з яшчэ большым натхненьнем."
 "/quests/Sibolusovt.qmm/locations/112/texts/2/text"	"- А ничего, - Флегматично ответил абориген. - Подумаешь, пустили бы всех на протоплазму.
 Вы приметили, что человек утомился и начинает засыпать, и продолжили разговор с ещё большим воодушевлением."	"Quest Sibolusovt.qmm: locations.112.texts.2.text. Preserve every <tag> exactly. English reference: ""Don't worry about it,"" replied the native impassively. ""Who cares? They're all just protoplasm.""
-You noticed that the man was growing weary and starting to nod off, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	""
+You noticed that the man was growing weary and starting to nod off, but you continued your conversation with even more enthusiasm."	"Quest,Sibolusovt"	"- А нічога, — Флегматычна адказаў тубылец. — Падумаеш, пусьцілі б усіх на пратаплязму.
+Вы заўважылі, што чалавек стаміўся і пачынае засынаць, і працягнулі размову з яшчэ большым натхненьнем."
 "/quests/Sibolusovt.qmm/locations/113/texts/0/text"	"- Что?! - Абориген аж подскочил. - Как ты смеешь в моём присутствии говорить о злейших врагах моей религии! Да как тебя громом небесным не поразило за такое богохульство! Куры - это зло!
 И наконец-то он совершенно отключившись упал на землю и захрапел.
 Вы чуть не завопили от восторга, но вовремя спохватились, что таким образом разбудите нежданного собеседника..."	"Quest Sibolusovt.qmm: locations.113.texts.0.text. Preserve every <tag> exactly. English reference: ""What?!"" exclaimed the native, jumping slightly. ""How dare you speak of the most wicked enemies of my religion in my presence! You should be struck down by a bolt from the heavens for such blasphemy. Chickens are evil!""
 Then, finally, he completely blacked out, fell to the earth, and began to snore.
-You nearly screamed in delight, but thought the better of it just in time as it occurred to you that this might wake up your unexpected companion..."	"Quest,Sibolusovt"	""
+You nearly screamed in delight, but thought the better of it just in time as it occurred to you that this might wake up your unexpected companion..."	"Quest,Sibolusovt"	"- Што?! — Тубылец аж падскочыў. — Як ты сьмееш у маёй прысутнасьці гаварыць пра лютых ворагаў маёй рэлігіі! Ды як цябе нябесны гром не пабіў за такое блюзьнерства! Куры — гэта зло!
+І нарэшце ён, зусім адключыўшыся, упаў на зямлю і захроп.
+Вы ледзь не загарланілі ад захапленьня, але своечасова схамянуліся, што такім чынам разбудзіце нечаканага суразмоўцу..."
 "/quests/Sibolusovt.qmm/locations/113/texts/1/text"	"Вы с надеждой посмотрели на аборигена, и поняли, что сморозили глупость.
 - Ещё один. - Мрачно произнес тот, и сделал шаг в вашу сторону. - Когда вы, наконец, перестанете охотиться на этот бедный вымирающий вид редчайшего подкласса ухоногих?
 - Ээээ... - Вы срочно начали думать, как оправдаться. - Я не охотился за ним. Я хотел с ним познакомиться!
@@ -860,12 +880,18 @@ You nearly screamed in delight, but thought the better of it just in time as it 
 ""Uh..."" You quickly began to think of how to justify yourself. ""I wasn't hunting him. I wanted to get to know him!""
 ""Right, of course..."" said the man, obviously not buying your story.
 Then, finally, he completely blacked out, fell to the earth, and began to snore.
-You nearly screamed in delight, but thought the better of it just in time as it occurred to you that this might wake up your unexpected companion..."	"Quest,Sibolusovt"	""
+You nearly screamed in delight, but thought the better of it just in time as it occurred to you that this might wake up your unexpected companion..."	"Quest,Sibolusovt"	"Вы з надзеяй паглядзелі на тубыльца і зразумелі, што ляпнулі глупства.
+- Яшчэ адзін. — Змрочна прамовіў той і зрабіў крок у ваш бок. — Калі вы, нарэшце, перастанеце паляваць на гэты бедны выміраючы від рэдкаснага падкляса вуханогіх?
+- Ээээ... — Вы тэрмінова пачалі думаць, як апраўдацца. — Я не паляваў на яго. Я хацеў з ім пазнаёміцца!
+- Ну вядома... — З недаверам прамовіў чалавек.
+І нарэшце ён, зусім адключыўшыся, упаў на зямлю і захроп.
+Вы ледзь не загарланілі ад захапленьня, але своечасова схамянуліся, што такім чынам разбудзіце нечаканага суразмоўцу..."
 "/quests/Sibolusovt.qmm/locations/114/texts/0/text"	"Вы бросились бежать, но, видимо абориген был так зол на вас, что лишь притворялся спящим. 
 Когда он внезапно свалился на вас с дерева и разнес череп дубиной, вы пожалели, что дерзили ему."	"Quest Sibolusovt.qmm: locations.114.texts.0.text. Preserve every <tag> exactly. English reference: You began to run, but the native was apparently so angry with you that he was only pretending to be asleep. 
-When he suddenly fell on you from the tree and smashed your skull with his club you wished that you hadn't been so impudent to him."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/115/texts/0/text"	"Вы достали из кармана свою рейнджерскую плавательную маску с небольшим запасом кислорода, и нырнули под воду. Блеска нигде не наблюдалось. Вероятно не то место, или солнце под другим углом падает."	"Quest Sibolusovt.qmm: locations.115.texts.0.text. Preserve every <tag> exactly. English reference: You retrieved from your pocket your ranger diver's mask with a small supply of oxygen, and plunged underneath the water. There was nothing shiny anywhere. This must not be the right place, or maybe the sun is coming in from a different angle."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/116/texts/0/text"	"Вы зацепились за водоросль и огляделись по сторонам. Прямо перед вами был небольшой, странной круглой формы, холм, тускло поблескивающий темными боками, вокруг него кружились небольшие рыбы, а справа от холма тоже что-то блестело."	"Quest Sibolusovt.qmm: locations.116.texts.0.text. Preserve every <tag> exactly. English reference: You grabbed the water plants and took a look around. Directly in front of you there was a small, oddly round shape - a hill - gleaming dimly with dark sides. Small fish whirled around it, while to the right of the hill something else was sparkling."	"Quest,Sibolusovt"	""
+When he suddenly fell on you from the tree and smashed your skull with his club you wished that you hadn't been so impudent to him."	"Quest,Sibolusovt"	"Вы кінуліся бегчы, але, відаць, тубылец быў на вас такі злы, што толькі прыкідваўся, што сьпіць.
+Калі ён раптам зваліўся на вас з дрэва і разьбіў чэрап дубінай, вы пашкадавалі, што нахабнічалі з ім."
+"/quests/Sibolusovt.qmm/locations/115/texts/0/text"	"Вы достали из кармана свою рейнджерскую плавательную маску с небольшим запасом кислорода, и нырнули под воду. Блеска нигде не наблюдалось. Вероятно не то место, или солнце под другим углом падает."	"Quest Sibolusovt.qmm: locations.115.texts.0.text. Preserve every <tag> exactly. English reference: You retrieved from your pocket your ranger diver's mask with a small supply of oxygen, and plunged underneath the water. There was nothing shiny anywhere. This must not be the right place, or maybe the sun is coming in from a different angle."	"Quest,Sibolusovt"	"Вы дасталі з кішэні сваю рэйнджэрскую плавальную маску з невялікім запасам кіслароду і нырнулі пад ваду. Бляску нідзе не назіралася. Мусіць, не тое месца, або сонца падае пад іншым кутом."
+"/quests/Sibolusovt.qmm/locations/116/texts/0/text"	"Вы зацепились за водоросль и огляделись по сторонам. Прямо перед вами был небольшой, странной круглой формы, холм, тускло поблескивающий темными боками, вокруг него кружились небольшие рыбы, а справа от холма тоже что-то блестело."	"Quest Sibolusovt.qmm: locations.116.texts.0.text. Preserve every <tag> exactly. English reference: You grabbed the water plants and took a look around. Directly in front of you there was a small, oddly round shape - a hill - gleaming dimly with dark sides. Small fish whirled around it, while to the right of the hill something else was sparkling."	"Quest,Sibolusovt"	"Вы зачапіліся за водарасьць і агледзеліся наўкола. Проста перад вамі быў невялікі, дзіўнай круглай формы, узгорак, што цьмяна пабліскваў цёмнымі бакамі, вакол яго кружыліся невялікія рыбы, а справа ад узгорка таксама нешта блішчала."
 "/quests/Sibolusovt.qmm/locations/117/texts/0/text"	"Вы выпустили несколько пузырей изо рта и осмотрелись. Прямо перед вами были два темных овала сводов пещер. И в обоих из них что-то сверкало и тускло отсвечивало. Вы огляделись по сторонам, но больше ничего интересного не заметили, кроме странных фиолетовых водорослей, растущих у вас по правую руку, или других водорослей - желтых, по левую руку."	"Quest Sibolusovt.qmm: locations.117.texts.0.text. Preserve every <tag> exactly. English reference: You released several bubbles from your mouth and got your bearings. The dark arches of two caves stood directly in front of you. Both of them contained something that sparkled and dimly reflected the light. You looked around but didn't see anything else interesting, except some strange, purple water plants growing to your right, and other water plants - yellow - to your left."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/locations/118/texts/0/text"	"Вы решили проверить, каково тут на дне, и поплыли вниз мощными гребками. Однако вы скоро обнаружили один неприятный факт. Вода тут была куда более плотная, чем на вашей родной планете, где вы и учились плавать, и потому она просто выталкивает вас наверх."	"Quest Sibolusovt.qmm: locations.118.texts.0.text. Preserve every <tag> exactly. English reference: You decided to see what the bottom was like, so you swam downward with powerful strokes. However, you soon discovered an unpleasant fact. The water here was much more dense than on your home planet where you learned how to swim. As a result, it simply pushed you upward."	"Quest,Sibolusovt"	""
 "/quests/Sibolusovt.qmm/locations/119/texts/0/text"	"- Банзай! - Вскричали вы, и бросились в пасть к чудовищу.
