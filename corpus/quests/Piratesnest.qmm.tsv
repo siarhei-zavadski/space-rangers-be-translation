@@ -1085,10 +1085,18 @@ ____________________ ст. 1826___________________<clrEnd>
 В связи со скорой профилактикой сервера некоторые композиции нельзя прослушивать более раза.
 Учтите это, слушатели.<clrEnd>
 
-Какой тон зададим музыкантам?"	"Quest Piratesnest.qmm: locations.132.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/locations/133/texts/0/text"	"Заиграла мелодия струн гитары и кваканья рахишианских лягушек. Вы недолюбливали классическую пеленгскую музыку, и Кацап, скорее всего, тоже. Когда до него донеслась эта мелодия, его отношение не изменилось нисколько."	"Quest Piratesnest.qmm: locations.133.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/locations/133/texts/1/text"	"Заиграл современный пеленгский жабсон, который вы могли слышать на большинстве пиратских баз. Кваканье рагобамских жаб, струны гитары и новомодные звуковые спецэффекты сделали свое дело - доверие Кацапа поднялось, когда до него донеслась эта мелодия."	"Quest Piratesnest.qmm: locations.133.texts.1.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/locations/133/texts/2/text"	"Заиграла настолько тяжелая музыка, что завибрировало огнеустойчивое стекло. Пеленги не натурально, а скорее комично играли на своих традиционных инструментах, что вызвало у вас приступ хохота... который мгновенно потонул в рое громких звуков."	"Quest Piratesnest.qmm: locations.133.texts.2.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Какой тон зададим музыкантам?"	"Quest Piratesnest.qmm: locations.132.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы хутка прадыктавалі кампутару патрэбны адрас, і неўзабаве галяктычная сетка выдала вам віртуальны пакой з некалькімі пеленгамі-андроідамі. Кожны пеленг трымае ў руках традыцыйны музычны інструмэнт. Трэба наладзіць іх на пэўную ігру. 
+
+<clr>Сэктар Хіша, сыстэма Пхэдок, плянэта Рахіш, сэрвэр М-2-Ц. Адрас: gns://music.peleng/sound.wrpa
+
+!!! УВАГА !!!
+У сувязі з хуткай прафіляктыкай сэрвэру некаторыя кампазыцыі нельга праслухваць больш за раз.
+Улічыце гэта, слухачы.<clrEnd>
+
+Які тон зададзім музыкам?"
+"/quests/Piratesnest.qmm/locations/133/texts/0/text"	"Заиграла мелодия струн гитары и кваканья рахишианских лягушек. Вы недолюбливали классическую пеленгскую музыку, и Кацап, скорее всего, тоже. Когда до него донеслась эта мелодия, его отношение не изменилось нисколько."	"Quest Piratesnest.qmm: locations.133.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Зайграла мэлёдыя струн гітары і кваканьня рахіскіх жабаў. Вы недалюблівалі клясычную пеленгскую музыку, і Кацап, хутчэй за ўсё, таксама. Калі да яго даляцела гэтая мэлёдыя, яго стаўленьне не зьмянілася ніколькі."
+"/quests/Piratesnest.qmm/locations/133/texts/1/text"	"Заиграл современный пеленгский жабсон, который вы могли слышать на большинстве пиратских баз. Кваканье рагобамских жаб, струны гитары и новомодные звуковые спецэффекты сделали свое дело - доверие Кацапа поднялось, когда до него донеслась эта мелодия."	"Quest Piratesnest.qmm: locations.133.texts.1.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Зайграў сучасны пеленгскі жабсон, які вы маглі чуць на большасьці пірацкіх базаў. Кваканьне рагабамскіх жабаў, струны гітары і навамодныя гукавыя спэцэфэкты зрабілі сваю справу — давер Кацапа падняўся, калі да яго даляцела гэтая мэлёдыя."
+"/quests/Piratesnest.qmm/locations/133/texts/2/text"	"Заиграла настолько тяжелая музыка, что завибрировало огнеустойчивое стекло. Пеленги не натурально, а скорее комично играли на своих традиционных инструментах, что вызвало у вас приступ хохота... который мгновенно потонул в рое громких звуков."	"Quest Piratesnest.qmm: locations.133.texts.2.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Зайграла настолькі цяжкая музыка, што завібравала вогнетрывалае шкло. Пеленгі не натуральна, а хутчэй камічна гралі на сваіх традыцыйных інструмэнтах, што выклікала ў вас прыступ рогату... які імгненна патануў у раі гучных гукаў."
 "/quests/Piratesnest.qmm/locations/134/texts/0/text"	"Вы быстро продиктовали компьютеру адрес, и вскоре галактическая сеть выдала вам трехмерную комнату с виртуальными красотками-пеленгессами.
 
 <clr>Сектор Хиша, система Пхедок, планета Рахиш, сервер П-1-С. Адрес: gns://pelengessa.peleng/main.wrp
@@ -1102,7 +1110,20 @@ ____________________ ст. 1826___________________<clrEnd>
 Вы принялись бродить по виртуальной комнате, пожирая глазами пеленгесс, как вдруг в дальнем конце зала материализовался... Кацап.
 - <Ranger>! А ты что здесь делаешь?
 - Пеленгессами наслаждаюсь, - ответили вы.
-Кацап похвалил вас, но тут же попросил выйти с сайта в связи с объявлением. По тону его голоса вы поняли, что относится к вам он теперь гораздо лучше. ""Скопирую-ка я девчонок себе..."" - хитро подумали вы."	"Quest Piratesnest.qmm: locations.134.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Кацап похвалил вас, но тут же попросил выйти с сайта в связи с объявлением. По тону его голоса вы поняли, что относится к вам он теперь гораздо лучше. ""Скопирую-ка я девчонок себе..."" - хитро подумали вы."	"Quest Piratesnest.qmm: locations.134.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы хутка прадыктавалі кампутару адрас, і неўзабаве галяктычная сетка выдала вам трохмерны пакой з віртуальнымі прыгажунямі-пеленгшамі.
+
+<clr>Сэктар Хіша, сыстэма Пхэдок, плянэта Рахіш, сэрвэр П-1-С. Адрас: gns://pelengessa.peleng/main.wrp
+
+СУПЭР МЭГА САЙТ З ПЕЛЕНГШАМІ
+
+                                             !!! УВАГА !!!
+У сувязі з вялікай загружанасьцю сэрвэру зайсьці на яго можна ня больш за раз.
+Улічыце гэта, дарагія наведнікі.<clrEnd>
+
+Вы пачалі бадзяцца па віртуальным пакоі, пажыраючы вачыма пеленгшаў, як раптам у далёкім канцы залі матар'ялізаваўся... Кацап.
+- <Ranger>! А ты што тут робіш?
+- Пеленгшамі цешуся, — адказалі вы.
+Кацап пахваліў вас, але тут жа папрасіў выйсьці з сайту ў сувязі з аб'явай. Па тоне яго голасу вы зразумелі, што ставіцца да вас ён цяпер значна лепей. ""Скапіюю-ка я дзяўчат сабе..."" — хітра падумалі вы."
 "/quests/Piratesnest.qmm/locations/134/texts/1/text"	"Вы быстро ввели адрес, и галактическая сеть выдала вам бордовую страницу с неудобочитаемым красным текстом. Никакого намека на современную пространственную графику, имитаторы запахов и объемных звуков. Малокская страница.
 
 <clr>Сектор Гурт, система Тарон, планета Рамгатру, сервер С-5-Б. Адрес: gns://bombinhome.maloc/createbomb.gnp
@@ -1112,12 +1133,25 @@ ____________________ ст. 1826___________________<clrEnd>
 
 Бамбахчик. Эксперт по взрывчатым веществам.<clrEnd>
 
-Ниже следовало подробное описание всего нехитрого процесса создания бомбы. Вы попытались запомнить все до мелочей."	"Quest Piratesnest.qmm: locations.134.texts.1.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Ниже следовало подробное описание всего нехитрого процесса создания бомбы. Вы попытались запомнить все до мелочей."	"Quest Piratesnest.qmm: locations.134.texts.1.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы хутка ўвялі адрас, і галяктычная сетка выдала вам бардовую старонку з нечытэльным чырвоным тэкстам. Ніякага намёку на сучасную прасторавую графіку, імітатары пахаў і аб'ёмных гукаў. Малокская старонка.
+
+<clr>Сэктар Гурт, сыстэма Тарон, плянэта Рамгатру, сэрвэр С-5-Б. Адрас: gns://bombinhome.maloc/createbomb.gnp
+
+""Як зрабіць звышсупермагутную бомбу ў сябе дома""
+Для стварэньня бомбы і поўнага зьнішчэньня нікчэмных войскаў ворагаў трэба ўсяго тры рэчы: таймэр, дэтанатар і выбухоўка. Зьбірай усё разам і ўзрывай варожыя баракі з заводамі. За вялікую малокскую расу!
+
+Бамбахчык. Экспэрт па выбуховых рэчывах.<clrEnd>
+
+Ніжэй ішло падрабязнае апісаньне ўсяго няхітрага працэсу стварэньня бомбы. Вы паспрабавалі запомніць усё да драбніц."
 "/quests/Piratesnest.qmm/locations/134/texts/2/text"	"Вы быстро ввели необходимый адрес, и вскоре галактическая сеть выдала вам красивую трехмерную страницу пеленгской хижины пятых-шестых веков. Для большего эффекта вы надели шлем виртуальной реальности, и атмосфера древности окутала вас. Мягкий огонь в полукруглом камине, подвешенные к потолку связки сушеных лягушек, скрученный в трубочку свиток на столе.
 
 <clr>Сектор Хиша, система Пхедок, планета Рахиш, сервер Р-35-Р. Адрес: gns://riaskaportal.peleng/home.wrp<clrEnd>
 
-Высветилось и погасло у вас перед глазами."	"Quest Piratesnest.qmm: locations.134.texts.2.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Высветилось и погасло у вас перед глазами."	"Quest Piratesnest.qmm: locations.134.texts.2.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы хутка ўвялі патрэбны адрас, і неўзабаве галяктычная сетка выдала вам прыгожую трохмерную старонку пеленгскай хаціны пятых-шостых стагодзьдзяў. Для большага эфэкту вы надзелі шалом віртуальнай рэальнасьці, і атмасфэра старажытнасьці ахінула вас. Мяккі агонь у паўкруглым каміне, падвешаныя да столі зьвязкі сушаных жабаў, скручаны ў трубачку скрутак на стале.
+
+<clr>Сэктар Хіша, сыстэма Пхэдок, плянэта Рахіш, сэрвэр Р-35-Р. Адрас: gns://riaskaportal.peleng/home.wrp<clrEnd>
+
+Высьветлілася і пагасла ў вас перад вачыма."
 "/quests/Piratesnest.qmm/locations/137/texts/0/text"	"Вы ""открутили"" увеличение до биологического уровня и поняли, кому принадлежали молекулы. В микроскоп виднелась прозрачная амеба с семью ложноножками. Амеба словно почувствовала, что на нее смотрят, и угрожающе замахала ""конечностями""."	"Quest Piratesnest.qmm: locations.137.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/locations/138/texts/0/text"	"Вы нашли на столе тонкий (1 Х 1 Х 100 мм) стержень и, представив амебу боссом, засунули под микроскоп...
 Судя по редким останкам амебы, вы уже больше никогда ее не увидите..."	"Quest Piratesnest.qmm: locations.138.texts.0.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
@@ -1711,19 +1745,19 @@ ____________________ ст. 1826___________________<clrEnd>
 "/quests/Piratesnest.qmm/jumps/300/text"	"Постой, давай все мирно уладим. 150 рублей хватит?"	"Quest Piratesnest.qmm: jumps.300.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/301/text"	"Нарвать водорослей"	"Quest Piratesnest.qmm: jumps.301.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/301/description"	"Вы жадно нарвали толстый ком красно-оранжевых водорослей и, скрутив его в клубок, решили уйти от этого негостеприимного места."	"Quest Piratesnest.qmm: jumps.301.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/302/text"	"gns://bombinhome.maloc/"	"Quest Piratesnest.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/303/text"	"gns://riaskaportal.peleng/"	"Quest Piratesnest.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/302/text"	"gns://bombinhome.maloc/"	"Quest Piratesnest.qmm: jumps.302.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"gns://bombinhome.maloc/"
+"/quests/Piratesnest.qmm/jumps/303/text"	"gns://riaskaportal.peleng/"	"Quest Piratesnest.qmm: jumps.303.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"gns://riaskaportal.peleng/"
 "/quests/Piratesnest.qmm/jumps/304/text"	"Развернуть свиток"	"Quest Piratesnest.qmm: jumps.304.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/305/text"	"Выйти из хижины"	"Quest Piratesnest.qmm: jumps.305.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Выйсьці з хаціны"
 "/quests/Piratesnest.qmm/jumps/306/text"	"Взломать систему"	"Quest Piratesnest.qmm: jumps.306.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/307/text"	"Взять свиток с собой"	"Quest Piratesnest.qmm: jumps.307.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/308/text"	"Скопировать информацию со свитка"	"Quest Piratesnest.qmm: jumps.308.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/309/text"	"gns://music.peleng/"	"Quest Piratesnest.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/309/text"	"gns://music.peleng/"	"Quest Piratesnest.qmm: jumps.309.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"gns://music.peleng/"
 "/quests/Piratesnest.qmm/jumps/310/text"	"Тяжелый рок"	"Quest Piratesnest.qmm: jumps.310.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/311/text"	"Традиционную пеленгскую музыку"	"Quest Piratesnest.qmm: jumps.311.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/312/text"	"Блатную пеленгскую музыку"	"Quest Piratesnest.qmm: jumps.312.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/313/text"	"Закончить слушать музыку"	"Quest Piratesnest.qmm: jumps.313.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/314/text"	"gns://pelengessa.peleng/"	"Quest Piratesnest.qmm: jumps.314.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/314/text"	"gns://pelengessa.peleng/"	"Quest Piratesnest.qmm: jumps.314.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"gns://pelengessa.peleng/"
 "/quests/Piratesnest.qmm/jumps/315/text"	"Скопировать все на диск"	"Quest Piratesnest.qmm: jumps.315.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/316/text"	"Давай поговорим о жизни"	"Quest Piratesnest.qmm: jumps.316.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/316/description"	"- А че? Давай... Вот у меня... невеста есть... такая прекрасная, как все четыре... луны Рахиша... Такая самка... красивая, как комочек болотной... это... тины... я вот... после этой... этого... запуска планирую... свадьбу на родном болоте... устроить, в общем... пусть будут все... надо б друзей на Рахиш собрать... а то так давно родного дома не видели..."	"Quest Piratesnest.qmm: jumps.316.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
