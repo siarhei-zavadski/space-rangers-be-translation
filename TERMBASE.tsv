@@ -650,7 +650,7 @@ lemma.pryhun	Прыгун	Jumper (patent)	Прыгун		quoted patent name in su
 lemma.runner_dev	Бегун	Runner	Бягун		quoted sequel device in success_text	Jumper.qmm
 lemma.iiii	ИИИИ	IIII	ІІІІ		Institute acronym; и→і	Jumper.qmm
 lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
-lemma.teleporter_dev	телепортатор	teleport	тэлепартатар/тэлепартатара/тэлепартатарам/ТЭЛЕПАРТАТАРАМ		portable one-shot return; G тэлепартатара I тэлепартатарам; the rules poster is in caps	Jumper.qmm; RobotsMap already
+lemma.teleporter_dev	телепортатор	teleport	тэлепартатар/тэлепартатара/тэлепартатарам/ТЭЛЕПАРТАТАРАМ/Тэлепартатар		portable one-shot return; G тэлепартатара I тэлепартатарам; the rules poster is in caps; sentence-initial Тэлепартатар	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга/квангі		invented fruit; A квангу	Jumper.qmm
 lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў/мэнзола/мэнзолам/мэнзоламі/мэнзолу/мэнзолы/мэнзольскі		invented folk; G мэнзола	Jumper.qmm
@@ -2975,7 +2975,7 @@ lemma.shave	брить	shave	галіць		to cut hair with a razor	https://star
 lemma.alien	инопланетянин	alien	іншаплянэтнік/іншаплянэтнікі/іншаплянэтнікаў/Іншаплянэтнікі		the being; spelling follows іншаплянэтны	https://starnik.by/pravapis/116113
 lemma.pinball	пинбол	pinball	пінбол		the arcade game; not in Starnik	—
 lemma.fake_art	фун-ху / дзю-дэ	fake martial arts	фунху/дзюдэ		coined styles in the club brawl	—
-lemma.teleport	телепортировать	teleport	тэлепартаваць		to teleport; not in Starnik	—
+lemma.teleport	телепортировать	teleport	тэлепартаваць/тэлепартавацца		to teleport; not in Starnik; reflexive infinitive тэлепартавацца	—
 lemma.puziland_beasts	Хоботорылы / Жабодроны / Шушкешаны	zoo beasts	Хобатарылы/Жабадроны/Шушкешаны		coined zoo animals; the trunk is хобат	—
 lemma.column_insults	жидоглистоны / перистопады / мозжеложцы	column insults	жыдаглістоны/перыстапады/мазгажэрцы		coined insults in the Anan-Us column; not terms to reuse	—
 lemma.ken_mun_dak	Кен-Мун-Дак	Ken-Mun-Dak	Кен-Мун-Дак		the mosaic maker in Dun-Duk	—
@@ -3756,7 +3756,7 @@ lemma.insert	вставить	to insert	уставіць/ўставілі		sense
 lemma.fright	испугаться	to be frightened	спалохацца/спалохаўся		to feel fear suddenly	https://starnik.by/pravapis/213615
 lemma.press_to	прижаться	to press close	прыціснуцца/прыціснуўся		sense 1, to press oneself against something	https://starnik.by/pravapis/208271
 lemma.assess	оценить	to assess	ацаніць/ацаніў		sense 2, to judge something	https://starnik.by/pravapis/171018
-lemma.ignore	игнорировать	to ignore	ігнараваць/ігнаравалі/праігнараваць/Праігнараваць		to deliberately not notice; perfective праігнараваць	https://starnik.by/pravapis/185472
+lemma.ignore	игнорировать	to ignore	ігнараваць/ігнаравалі/праігнараваць/Праігнараваць/ігнараваўшы		to deliberately not notice; perfective праігнараваць; past gerund ігнараваўшы	https://starnik.by/pravapis/185472
 lemma.poke	тыкать	to poke	тыцкаць/тыцкаў		to poke, the same as тыкаць	https://starnik.by/pravapis/215791
 lemma.sunbeam	зайчик	a sunbeam	зайчык		a bright spot from a reflected ray, sense 2; inanimate accusative зайчык	https://starnik.by/pravapis/26758
 lemma.dally	забавляться	to amuse oneself	бавіцца		to play, sense 2	https://starnik.by/pravapis/171340
@@ -4531,3 +4531,5 @@ lemma.guffaw	гоготать	to guffaw	рагатаць/парагатаўшы	
 lemma.drooler	слюнтяй	a drooler	сьлюнцяй		someone who slobbers; Starnik слюнцяй; hunspell inserts ь	https://starnik.by/pravapis/70391
 lemma.car_seat	сиденье	a seat	сядзеньне		a place one sits, sense 2; Starnik сядзенне; hunspell inserts ь; the body part stays on lemma.seat	https://starnik.by/pravapis/74208
 lemma.bum_word	бомж	a bum	бамж/бамжаў		the insult; hunspell suggestions are other words; the adult without a home stays бяздомак	—
+lemma.far_cast	телепортация	a teleportation	тэлепартацыя/тэлепартацыі		the act of teleporting; hunspell suggestions are other words; G тэлепартацыі	—
+lemma.sneaky	подлый	mean	подлы		morally low, sense of подлы; not the carrion падла	https://starnik.by/pravapis/140141
