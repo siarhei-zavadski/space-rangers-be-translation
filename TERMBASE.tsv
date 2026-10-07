@@ -883,7 +883,7 @@ lemma.quack_tose	Квак То-Ус	quack-tose	Квак/квак/КВАК/Ус/�
 lemma.haapt	Хаапт	Khahapt	Хаапта/Хаапт		globules named for Haapt	Xenopark.qmm
 lemma.zirk	зирка	sparkling	зірак/зіркі/зірку/зіркамі/Зіркі	зірка	granules; not the star зірка	Xenopark.qmm
 lemma.laap	Лаап-Ша	Noohoo-Dle	Лаап/Ша/Шы/шы/Шой/ша/лаап/шу/Шу		glandular fodder	Xenopark.qmm
-lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/Аэракары/аэракараў		the ranger's car at the park	Xenopark.qmm
+lemma.aerocar	аэрокар	aerocar	аэракар/аэракара/аэракары/Аэракары/аэракараў/Аэракар		the ranger's car at the park	Xenopark.qmm
 lemma.lapizuk	Лапицук	Lapizze	Лапіцук		quest planet	Xenopark.qmm
 lemma.baanist	иикэ-баанист	ihike-bahanist	бааніст/бааністы/бааністамі/бааністаў		gaal scholar of ііке-баан	Xenopark.qmm
 lemma.kabaan	Ка-баан Здоох	Pestupohn Yer	Ка/Здоох		author of the aishaut note	Xenopark.qmm
@@ -1751,7 +1751,7 @@ lemma.universe	вселенная	universe	сусьвет/сусьветах/с�
 lemma.undead	мертвяк	walking corpse	мярцвяк/мярцвякі/мярцвякоў/мярцвячыны/мярцвяка/мярцвяку/мярцвячынай		a walking corpse; hunspell gap; keep Starnik мярцвяк, not мярцьвяк	https://starnik.by/pravapis/45012
 lemma.elf_adj	эльфийский	elven	эльфійскі/эльфійская/эльфійскай		of an elf; hunspell suggestion is a different word	https://starnik.by/pravapis/163591
 lemma.fantasy	фэнтези	fantasy	фэнтэзі		the genre; hunspell gap	https://starnik.by/pravapis/81266
-lemma.gamer	геймер	gamer	геймер		a person who plays games; hunspell suggestions are other words	https://starnik.by/pravapis/18684
+lemma.gamer	геймер	gamer	геймер/геймеры		a person who plays games; hunspell suggestions are other words	https://starnik.by/pravapis/18684
 lemma.gameplay	геймплей	gameplay	геймплэй/геймплэя		how a game plays; not in Starnik	—
 lemma.simulator	симулятор	simulator	сымулятар/сымулятары		Starnik сімулятар; hunspell ы	https://starnik.by/pravapis/69133
 lemma.effect	эффект	effect	эфэкт/эфэктны/эфэктная/эфэктнай/эфэкту		Starnik эфект; hunspell э; the book type that sounds flashy	https://starnik.by/pravapis/87999
@@ -3621,7 +3621,7 @@ lemma.fraer_stammer	хлю	broken show-off	хлю		the proverb starts хлюст
 lemma.credits_title	Увольвокскечу	coined title	Увольвокскечу		the fake film title in the empty-location credits	—
 lemma.credits_sign	ШПАКиК	a signature	ШПАКиК		the credits signature; hunspell suggests the different word Шпак	—
 lemma.lenin_hinge	Ленинашарнирах	coined return	Ленінашарнірах		one token, Lenin plus шарнірах; hunspell wants two words	—
-lemma.limb	конечность	a limb	канцавіна/канцавінах/канцавінамі		locative plural канцавінах; I pl канцавінамі; hunspell suggestions are other words	https://starnik.by/pravapis/33327
+lemma.limb	конечность	a limb	канцавіна/канцавінах/канцавінамі/канцавіну		locative plural канцавінах; I pl канцавінамі; hunspell suggestions are other words	https://starnik.by/pravapis/33327
 lemma.sunken_verb	затонуть	to sink	затануць/затанулы		Starnik затануць; hunspell rejects затонулы	https://starnik.by/pravapis/182358
 lemma.eightpaw	восьмилап	eight-paw	васьмілап		the coined eight-legged beast; hunspell splits it	—
 lemma.barrack_style	баракко	barracks-baroque	баракко		the settlement's style, барак blended with барока; hunspell suggestions are other words	—
@@ -4130,7 +4130,7 @@ lemma.nonbeing	небытие	nonbeing	нябыт		absence of being; A нябы�
 lemma.armor_vest	бронежилет	armored vest	бронежылет	бронемашын	a vest of armor; hunspell suggests бронемашын, a different word	https://starnik.by/pravapis/11515
 lemma.armorclad	броневой	armored	бранявы		relative adjective	https://starnik.by/pravapis/99943
 lemma.elude	ускользать	to slip away	высьлізгваць/высьлізгвае		imperfective of высьлізнуць; Starnik выслізгваць; hunspell inserts ь; 3sg высьлізгвае	https://starnik.by/pravapis/174406
-lemma.bukazoid	Буказоиды	bukazoids	Буказоіды	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
+lemma.bukazoid	Буказоиды	bukazoids	Буказоіды/буказоідаў	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
 lemma.pseudodeath	псевдосмерть	pseudo-death	псэўдасьмерць/псэўдасьмерці	псэўданароднасьці	coined compound, псэўда- plus сьмерць; G псэўдасьмерці; hunspell suggests a different word	—
 lemma.futile	безуспешно	in vain	марна		adverb of марны, sense 1	https://starnik.by/pravapis/225542
 lemma.distant	дальний	distant	далёкі/Далёкі		at a great distance, sense 1; the opposite of блізкі	https://starnik.by/pravapis/107945
@@ -4195,3 +4195,12 @@ lemma.end_credits	титры	the credits	тытры/тытрах		film credits; 
 lemma.splendid	великолепный	splendid	велялепны/велялепна		qualitative adjective; the page gives the paradigm and lists the dictionaries, no gloss line; adverb велялепна; hunspell suggestions are other words	https://starnik.by/pravapis/101909
 lemma.release	выпуск	a release	выпуск		the act of releasing something, sense 1	https://starnik.by/pravapis/16344
 lemma.hesitation	эээ	uh	эээ		the spoken hesitation in the success text; hunspell has no form	—
+lemma.irration	Иррацион	Irration	Іррацыён/Іррацыёнам/Іррацыёна		the faeyan from Elementar Games; doubled р stays	—
+lemma.biil	Биил	Biil	Бііл/Бііла		Bill Gates joke; the doubled і stays	—
+lemma.gaets	Гээтс	Gaets	Гээтс/Гээтса		Gates joke; the doubled э stays	—
+lemma.mind_adj	ментальный	mental	ментальны/ментальнай		relative adjective; G f ментальнай; hunspell suggestions are other words; not the unit мэнтал	https://starnik.by/pravapis/123865
+lemma.zhe_name	же	the letter zhe	жэ		name of the letter ж, quoted as the g-load unit; hunspell suggestions are other words	—
+lemma.colossal	колоссальный	colossal	калясальны/калясальным		unusually large; Starnik каласальны; hunspell and this corpus use калясальны	https://starnik.by/pravapis/116612
+lemma.bur_drill	бормашина	dental drill	бормашына/бормашыны		the dental apparatus that drives the bur	https://starnik.by/pravapis/11202
+lemma.many_hued	разноцветный	many-colored	рознакаляровы/рознакаляровых		having different colors; G pl рознакаляровых	https://starnik.by/pravapis/146486
+lemma.rectified	устранить	to remove a flaw	устаранёны/ўстаранёная		sense 1, to remove a flaw, as in устранить недостатки; participle ўстаранёная	https://starnik.by/pravapis/218175
