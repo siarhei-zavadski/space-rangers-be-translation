@@ -3569,3 +3569,15 @@ lemma.fluctuation	флюктуально	by fluctuation	флюктуацыйна
 lemma.lyaceskish	Ляцескиш	Lyatseskish	Ляцэскіш		coined bank on the fireproof cheque; hunspell suggests the different word Ляскаціш	—
 lemma.vizdrop	виздропсядзждные	nonsense gate	віздропсядзждныя		coined technobabble in the dimension gates; the syllable string stays	—
 lemma.beastfae	зверофэй	beast fae	Зьверафэй		coined island primate; зьвер plus фэй; hunspell suggests the different word зьверафэрма	—
+lemma.fizgan	физган	physgun	Фізган		coined field-gun; a gravity grabber; hunspell suggests the different word Зганіць	—
+lemma.pantry_code	Грибж	food tag	Грыбж/Грыбб/Грыбк/Яж/Яч/Як		inventory color tags; ж and б stay, and к stays for red so it does not collide with black ч	—
+lemma.bamboo	бамбук	bamboo	бамбук/бамбуку		genitive бамбуку; hunspell rejects бамбука	https://starnik.by/pravapis/8961
+lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сьцёблаў		bamboo culm; Starnik writes сцябло and hunspell inserts ь; the gun barrel stays ствал	https://starnik.by/pravapis/73966
+lemma.optical_focus	фокус	optical focus	фокус/фокусе/Фокус		monocle sharpness, sense 2; the concentration lemma is separate	https://starnik.by/pravapis/80592
+lemma.signal	сигнал	a signal	сыгнал/сыгналу/Сыгнал		hunspell ы; Starnik writes сігнал	https://starnik.by/pravapis/68956
+lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага		Starnik пілоцкі; hunspell lacks it and suggests пілёцкага	https://starnik.by/pravapis/139588
+lemma.primate	примат	animal primate	Прымат/прымат		the island animal; Starnik 60405 is primacy, a different sense	—
+lemma.mushroom	гриб	a mushroom	грыб/грыбоў		genitive plural грыбоў	https://starnik.by/pravapis/20888
+lemma.berry	ягода	a berry	ягада/ягад		genitive plural ягад	https://starnik.by/pravapis/88172
+lemma.foliage	листья	leaves	лісьце/лісток/лістка/лістоў		collective лісьце, Starnik лісце; diminutive лісток, genitive лістка; countable genitive plural лістоў	https://starnik.by/pravapis/39713
+lemma.submission	подача	submission	падача/падачы		the act of sending, sense 1; genitive падачы	https://starnik.by/pravapis/50225
