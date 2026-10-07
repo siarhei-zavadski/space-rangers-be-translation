@@ -180,7 +180,7 @@ lemma.mister	мистер	mister	містэр	місэр	title before surname	hu
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
 lemma.equantor	Эквентор	Equantor	Эквэнтар		dominator class; already FormRuins -эквэнтара	—
-lemma.shtip	Штип	Shtip	Штып		dominator class; already FormRuins -штыпа	—
+lemma.shtip	Штип	Shtip	Штып/штып		dominator class; already FormRuins -штыпа	—
 lemma.bertor	Бертор	Bertor	Бэртар		dominator class; already FormRuins -бэртара	—
 lemma.klig	Клиг	Klig	Кліг		dominator class; already FormRuins -кліга	—
 lemma.liner	лайнер	liner	лайнэр		passenger ship class; already FormRuins	hunspell-be-tarask
@@ -307,7 +307,7 @@ lemma.pension	пенсия	pension	пэнсія		2005/hunspell пэнсія (har
 lemma.gaalmedok	гаалмедок	gaalhoney	гаальмэдок		maloq joke food; keep race stem гааль-	—
 lemma.narkopis	наркопись	narcossism	наркопісь		art movement on anarchic planets; ShipGreetings/138	—
 lemma.rachehan	Рачехан	Rachehan	Рачэхан/Рачэханаўны/Рачэхана		pirate overlord; G Рачэхана; patronymic Рачэханаўна	—
-lemma.tranclucator	транклюкатор	tranclucator	транклюкатар		player-owned combat robot; G транклюкатара	—
+lemma.tranclucator	транклюкатор	tranclucator	транклюкатар/Транклюкатар		player-owned combat robot; G транклюкатара	—
 lemma.yanvelb	янвелб	ekup	янвэлб/янвэлба		gaal drink; I янвэлбам; with втыкіла	—
 lemma.scrap	ошметки	scraps	ашмёткі		dominator loot debris; G ашмёткаў; not абломкі (generic wreckage)	—
 lemma.partner	напарник	partner	напарнік		hired wingman; NOT спадарожнік (hangar Satellite only)	—
@@ -1077,7 +1077,7 @@ lemma.neo	Нео	Neo	Нэа	Нэп	Matrix joke; hunspell suggestions are other n
 lemma.hyperlift	гиперлифт	hyperlift	гіпэрліфт	гіпэртрафія	stadium lift; coined	Rally.qmm
 lemma.graalgar	Граалгар	Graalgar	Граалгар/Граалгара	Гарал	district the missing driver ran to; coined	Rally.qmm
 lemma.looeb	Лоо-эб	Loho-Eb	Лоо/эб	Лео	name left behind on the track; hyphen splits the tokens	Rally.qmm
-lemma.vertix	вертикс	vertix	Вэртыкс/вэртыкс/вэртыксамі	вэртыкал	dominator weapon; Items already spells Вэртыкс	Rally.qmm
+lemma.vertix	вертикс	vertix	Вэртыкс/вэртыкс/вэртыксамі/вэртыксаў/вэртыксам	вэртыкал	dominator weapon; Items already spells Вэртыкс	Rally.qmm
 lemma.bumper	бампер	bumper	бампэр/бампэрам/бампэры	бампер	hunspell writes э; Starnik spells бампер	https://starnik.by/pravapis/8970
 lemma.lambo	Ламбо-Джинни	Lambo Genie	Ламбо/Джынні	ламбада	hospital car; hyphen splits the tokens	Rally.qmm
 lemma.burum	Бурум	Burum	Бурум		origin planet	Tourists.qmm
@@ -4287,3 +4287,4 @@ lemma.aiboo_liit	Айбоо-Лиит	Aiboo-Liit	Айбоо/Лііт		coined medk
 lemma.bonfire	костер	bonfire	вогнішча		a burning pile of brushwood, sense 1	https://starnik.by/pravapis/14966
 lemma.cannibal	каннибал	cannibal	канібал/канібалам		a person who eats people, sense 1; D pl канібалам	https://starnik.by/pravapis/32996
 lemma.sotnia	сотня	a hundred	сотня/сотні		a hundred, sense 1; D сотні	https://starnik.by/pravapis/70837
+lemma.shahmandu	Шахманду	Shakhmandu	Шахманду		the host they squeeze stimulants from; hunspell suggests a different word	—
