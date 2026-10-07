@@ -1160,7 +1160,7 @@
 "/quests/Testing.qmm/jumps/37/text"	"Открыть шлюз"	"Quest Testing.qmm: jumps.37.text. Preserve every <tag> exactly."	"Quest,Testing"	"Адчыніць шлюз"
 "/quests/Testing.qmm/jumps/38/text"	"Снять скафандр"	"Quest Testing.qmm: jumps.38.text. Preserve every <tag> exactly."	"Quest,Testing"	"Зьняць скафандр"
 "/quests/Testing.qmm/jumps/38/description"	"Вы выбрались из скафандра, решив, что этот путь спасения вам не подходит."	"Quest Testing.qmm: jumps.38.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы выбраліся са скафандра, вырашыўшы, што гэты шлях выратаваньня вам не пасуе."
-"/quests/Testing.qmm/jumps/39/text"	"Залезть в капсулу"	"Quest Testing.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/39/text"	"Залезть в капсулу"	"Quest Testing.qmm: jumps.39.text. Preserve every <tag> exactly."	"Quest,Testing"	"Залезьці ў капсулу"
 "/quests/Testing.qmm/jumps/40/description"	"- Нажмите ""1"", чтобы получить дозу успокоительного, ""2"" - если вы желаете написать завещание, ""3"" - чтобы загадать последнее желание, ""4"" - чтобы катапультироваться с борта корабля.
 Вы решили не тратить время зря и сразу нажали четвертую кнопку.
 - Экипаж астролайнера ""Убоинг-747"" желает вам приятного полета и прощается с вами.
@@ -1169,16 +1169,25 @@
 Как предусмотрительно было пристегнуть ремни. Капсулу крутило и бросало из стороны в сторону, а ваш желудок был готов оросить своим содержимым ее стенки. В конце концов она врезалась в землю и, пропахав длинную борозду, остановилась.
 Вы вывалились из спасательного средства как раз вовремя для того, чтобы увидеть прочертившую небосклон огненную линию - то был злополучный ""Убоинг"". Он упал где-то далеко, в дремучем лесу на горизонте. Ну и черт с ним, решили вы, приводя себя в порядок.
 Итак, вы стоите возле покореженной капсулы астролайнера ""Убоинг-747"". Вам очень хочется убедить себя в том, что все это - просто виртуальная игра, но ваши многочисленные синяки и шишки, полученные при падении, упорно утверждают обратное.
-Вы провели быструю рекогносцировку. Местность вокруг очень напоминала степь, на горизонте возвышался горный хребет, смыкавшийся кольцом вокруг города, находившегося к северу от вашего местоположения. Перед тем как уходить, вы решили внимательно осмотреть капсулу на предмет ценных в игре вещей."	"Quest Testing.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/41/text"	"Идти к городу"	"Quest Testing.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+Вы провели быструю рекогносцировку. Местность вокруг очень напоминала степь, на горизонте возвышался горный хребет, смыкавшийся кольцом вокруг города, находившегося к северу от вашего местоположения. Перед тем как уходить, вы решили внимательно осмотреть капсулу на предмет ценных в игре вещей."	"Quest Testing.qmm: jumps.40.description. Preserve every <tag> exactly."	"Quest,Testing"	"- Націсьніце ""1"", каб атрымаць дозу супакойлівага, ""2"" — калі вы хочаце напісаць завяшчаньне, ""3"" — каб загадаць апошняе жаданьне, ""4"" — каб катапультавацца з борта карабля.
+Вы вырашылі не марнаваць час дарэмна і адразу націснулі чацьвёртую кнопку.
+- Экіпаж астралайнэра ""Ўбоінг-747"" жадае вам прыемнага палёту і разьвітваецца з вамі.
+Створкі шлюза расчыніліся, выпускаючы капсулу ў атмасфэру.
+
+Як прадбачліва было прышпіліць рамяні. Капсулу круціла і кідала з боку ў бок, а ваш страўнік быў гатовы апырскаць яе сьценкі сваім зьмесьцівам. Урэшце яна ўрэзалася ў зямлю і, праараўшы доўгую баразну, спынілася.
+Вы вываліліся з ратавальнага сродку якраз своечасова, каб убачыць агністую лінію, што пракрэсьліла небасхіл, — то быў няшчасны ""Ўбоінг"". Ён упаў дзесьці далёка, ў дрымучым лесе на гарызонце. Ну і чорт з ім, вырашылі вы, прыводзячы сябе ў парадак.
+Такім чынам, вы стаіце каля пагнутай капсулы астралайнэра ""Ўбоінг-747"". Вам вельмі хочацца пераканаць сябе ў тым, што ўсё гэта — проста віртуальная гульня, але вашы шматлікія сінякі і гузы, атрыманыя пры падзеньні, ўпарта сьцьвярджаюць адваротнае.
+Вы правялі хуткую рэкагнасцыроўку. Мясцовасьць вакол вельмі нагадвала стэп, на гарызонце ўзвышаўся горны хрыбет, які замыкаўся кальцом вакол горада, што быў на поўнач ад вашага месцазнаходжаньня. Перад тым як сыходзіць, вы вырашылі ўважліва агледзець капсулу ў пошуках каштоўных у гульні рэчаў."
+"/quests/Testing.qmm/jumps/41/text"	"Идти к городу"	"Quest Testing.qmm: jumps.41.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да горада"
 "/quests/Testing.qmm/jumps/41/description"	"Вы шли и шли, шли и шли, шли, шли и еще раз шли. Вы шли долго, очень долго. Вы успели спеть все известные вам песни и рассказать самому себе море анекдотов, надеясь, что время пролетит незаметно. Вы ошибались в своих надеждах.
-Наконец, спустя многие часы, вы оказались у ворот города, над которыми была криво прибита вывеска ""Рейнджерсвилль"". Видимо, где-то здесь и размещен заветный пункт приема в рейнджеры."	"Quest Testing.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+Наконец, спустя многие часы, вы оказались у ворот города, над которыми была криво прибита вывеска ""Рейнджерсвилль"". Видимо, где-то здесь и размещен заветный пункт приема в рейнджеры."	"Quest Testing.qmm: jumps.41.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы ішлі і ішлі, ішлі і ішлі, ішлі, ішлі і яшчэ раз ішлі. Вы ішлі доўга, вельмі доўга. Вы пасьпелі прасьпяваць усе вядомыя вам песьні і расказаць самому сабе мора анэкдотаў, спадзеючыся, што час праляціць непрыкметна. Вы памыляліся ў сваіх надзеях.
+Нарэшце, праз шмат гадзінаў, вы апынуліся ля брамы горада, над якой была крыва прыбітая шыльда ""Рэйнджэрсвіль"". Відаць, дзесьці тут і месьціцца запаветны пункт прыёму ў рэйнджэры."
 "/quests/Testing.qmm/jumps/42/text"	"Нажать ""1"""	"Quest Testing.qmm: jumps.42.text. Preserve every <tag> exactly."	"Quest,Testing"	"Націснуць ""1"""
 "/quests/Testing.qmm/jumps/44/text"	"Нажать ""2"""	"Quest Testing.qmm: jumps.44.text. Preserve every <tag> exactly."	"Quest,Testing"	"Націснуць ""2"""
 "/quests/Testing.qmm/jumps/46/text"	"Нажать ""4"""	"Quest Testing.qmm: jumps.46.text. Preserve every <tag> exactly."	"Quest,Testing"	"Націснуць ""4"""
 "/quests/Testing.qmm/jumps/47/text"	"Нажать ""3"""	"Quest Testing.qmm: jumps.47.text. Preserve every <tag> exactly."	"Quest,Testing"	"Націснуць ""3"""
-"/quests/Testing.qmm/jumps/49/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/50/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/49/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.49.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўночнай брамы"
+"/quests/Testing.qmm/jumps/50/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.50.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на галоўную плошчу"
 "/quests/Testing.qmm/jumps/51/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.51.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/51/description"	"Компания состояла из дюжего малока, покрытого шрамами пеленга, фэянина с нездоровым розоватым цветом кожи, двуглазого гаальца и уголовного вида человека, бывшего, видимо, главарем. Подозрительные типы.
 - Че надо? - поприветствовал вас малок.
@@ -1189,7 +1198,7 @@
 - Ясен пень. Техасскими нас кличут. Я - Крутой Уокер, этот богатырь - Лезок, четырехрукого Кацапом зовут, вон тот розовый - Думер, а гаальский хмырь наречен Бинокуляром.
 - <Ranger>, - представились вы. - Очень приятно."	"Quest Testing.qmm: jumps.51.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/52/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.52.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/53/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/53/text"	"Идти на главную площадь"	"Quest Testing.qmm: jumps.53.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на галоўную плошчу"
 "/quests/Testing.qmm/jumps/54/text"	"Отойти от стола"	"Quest Testing.qmm: jumps.54.text. Preserve every <tag> exactly."	"Quest,Testing"	"Адысьці ад стала"
 "/quests/Testing.qmm/jumps/55/text"	"Подойти к столу ""великолепной пятерки"""	"Quest Testing.qmm: jumps.55.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/56/text"	"Поговорить с Уокером"	"Quest Testing.qmm: jumps.56.text. Preserve every <tag> exactly."	"Quest,Testing"	""
@@ -1232,7 +1241,7 @@
 "/quests/Testing.qmm/jumps/93/text"	"Пнуть напоследок ногой труп и гордо уйти"	"Quest Testing.qmm: jumps.93.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/93/description"	"Подавив в себе желание пометить территорию, вы зашагали по направлению к городским воротам. Кроме того, вы с удивлением обнаружили, что ваш кошелек слегка потяжелел!"	"Quest Testing.qmm: jumps.93.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/94/text"	"Идти в бар ""Трехногий Пенчекряк"""	"Quest Testing.qmm: jumps.94.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/95/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/95/text"	"Идти к северным воротам"	"Quest Testing.qmm: jumps.95.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да паўночнай брамы"
 "/quests/Testing.qmm/jumps/96/text"	"Идти к южным воротам"	"Quest Testing.qmm: jumps.96.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/97/text"	"Громко выкрикнуть: ""Ай-ди-ди-кью-ди!"""	"Quest Testing.qmm: jumps.97.text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/98/text"	"Покинуть поле брани"	"Quest Testing.qmm: jumps.98.text. Preserve every <tag> exactly."	"Quest,Testing"	""
@@ -1520,9 +1529,10 @@
 - Общество анонимных рейнджеров обратилось к производителю аптечек, компании ""Айбоо-Лиит"", - сказал робот. - Компания пошла на уступки рейнджерам, как группе травматического риска, и снизила цены на эти аптечки в нашем городе до {100*(1-([p4]*0,05+[p3])*0,02)} бкз, но новые ценники еще не напечатаны.
 - Здорово, - возрадовались вы, рассовывая по карманам сдачу."	"Quest Testing.qmm: jumps.245.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/246/text"	"Обшарить скафандр"	"Quest Testing.qmm: jumps.246.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/247/text"	"Идти к городу"	"Quest Testing.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/247/text"	"Идти к городу"	"Quest Testing.qmm: jumps.247.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці да горада"
 "/quests/Testing.qmm/jumps/247/description"	"Вы шли и шли, шли и шли, шли, шли и еще раз шли. Вы шли долго, очень долго. Вы успели спеть все известные вам песни и рассказать самому себе море анекдотов, надеясь, что время пролетит незаметно. Вы ошибались в своих надеждах.
-Наконец, спустя многие часы, вы оказались у ворот города, над которыми была криво прибита вывеска ""Рейнджерсвилль"". Видимо, где-то здесь и размещен заветный пункт приема в рейнджеры."	"Quest Testing.qmm: jumps.247.description. Preserve every <tag> exactly."	"Quest,Testing"	""
+Наконец, спустя многие часы, вы оказались у ворот города, над которыми была криво прибита вывеска ""Рейнджерсвилль"". Видимо, где-то здесь и размещен заветный пункт приема в рейнджеры."	"Quest Testing.qmm: jumps.247.description. Preserve every <tag> exactly."	"Quest,Testing"	"Вы ішлі і ішлі, ішлі і ішлі, ішлі, ішлі і яшчэ раз ішлі. Вы ішлі доўга, вельмі доўга. Вы пасьпелі прасьпяваць усе вядомыя вам песьні і расказаць самому сабе мора анэкдотаў, спадзеючыся, што час праляціць непрыкметна. Вы памыляліся ў сваіх надзеях.
+Нарэшце, праз шмат гадзінаў, вы апынуліся ля брамы горада, над якой была крыва прыбітая шыльда ""Рэйнджэрсвіль"". Відаць, дзесьці тут і месьціцца запаветны пункт прыёму ў рэйнджэры."
 "/quests/Testing.qmm/jumps/248/text"	"Использовать аптечку"	"Quest Testing.qmm: jumps.248.text. Preserve every <tag> exactly."	"Quest,Testing"	"Выкарыстаць аптэчку"
 "/quests/Testing.qmm/jumps/248/description"	"Игра милостиво дала вам время на то, чтобы перебинтоваться и облиться йодом с ног до головы, а затем ждавший окончания медицинских процедур зверь с рыком рванулся вперед и... <clr>больно укусил вас<clrEnd>!"	"Quest Testing.qmm: jumps.248.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/250/text"	"Использовать аптечку"	"Quest Testing.qmm: jumps.250.text. Preserve every <tag> exactly."	"Quest,Testing"	"Выкарыстаць аптэчку"
