@@ -970,8 +970,8 @@
 Усилием воли приоткрыв глаза, вы обнаружили себя в ""дантистском кресле"", вокруг сновали фэяне в халатах, сотрудники фирмы. Затем тьма поглотила вас навсегда.
 Зато теперь вы знаете, что такое ""эффект псевдосмерти"", подумали вы, безуспешно ловя ускользающее сознание."	"Quest Testing.qmm: jumps.155.param_changes.0.crit_text. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/155/text"	"Использовать удочку"	"Quest Testing.qmm: jumps.155.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/156/text"	"Идти на запад"	"Quest Testing.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Testing"	""
-"/quests/Testing.qmm/jumps/157/text"	"Идти на запад"	"Quest Testing.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Testing"	""
+"/quests/Testing.qmm/jumps/156/text"	"Идти на запад"	"Quest Testing.qmm: jumps.156.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на захад"
+"/quests/Testing.qmm/jumps/157/text"	"Идти на запад"	"Quest Testing.qmm: jumps.157.text. Preserve every <tag> exactly."	"Quest,Testing"	"Ісьці на захад"
 "/quests/Testing.qmm/jumps/157/description"	"Вы услышали за спиной утробное рычание и пришли к выводу, что кое-кто, кроме вас, сегодня тоже не обедал. Делать нечего, придется обороняться."	"Quest Testing.qmm: jumps.157.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/158/description"	"Вы дали деру и, чуть не превысив световую скорость, сумели спастись от опасности."	"Quest Testing.qmm: jumps.158.description. Preserve every <tag> exactly."	"Quest,Testing"	""
 "/quests/Testing.qmm/jumps/159/text"	"Пнуть напоследок ногой труп и гордо уйти"	"Quest Testing.qmm: jumps.159.text. Preserve every <tag> exactly."	"Quest,Testing"	""
