@@ -2479,7 +2479,7 @@ lemma.demining	разминирование	mine clearing	размінірава
 lemma.sapper	сапер	sapper	сапэр/сапэраў		Starnik сапёр; hunspell drops ё; G pl сапэраў	https://starnik.by/pravapis/67602
 lemma.mavrikus	Маврикус	Mavrikus	Маўрыкус/Маўрыкуса		the agent named in the bar gossip; G Маўрыкуса	Proprolog.qmm
 lemma.pshlberg	Пшльберг	Pshlberg	Пшльбэрг/Пшльбэрга		doctor who wrote the black-hole notes; G Пшльбэрга	Proprolog.qmm
-lemma.hastalavista	асталависта	hasta la vista	Асталавіста		the shout before the laser; kept from the source	Proprolog.qmm
+lemma.hastalavista	асталависта	hasta la vista	Асталавіста/асталавіста		the shout before the laser; kept from the source	Proprolog.qmm
 lemma.millivolt	мВ	millivolt	мВ		the signal-puzzle unit; the abbreviation stays	Proprolog.qmm
 lemma.rrraz	ррраз	engine roar	ррраз		the still's roar in the veteran's story	Proprolog.qmm
 lemma.rowdy	буйный	rowdy	буйны		unruly, sense 1, not the size sense	https://starnik.by/pravapis/100280
@@ -4276,3 +4276,7 @@ lemma.bohoz_gaal	Бооз	Bohoz	Бооз/Бооза		a gaal planet; G Бооза
 lemma.doolki_name	Доолки	Doolki	Доолкі		a coined ranger name; hunspell suggestions are another word	—
 lemma.laenni_ga	Лаенни	Laenni	Лаенні		a coined ranger name in Лаенні-Га; hunspell suggestions are another word	—
 lemma.pekhi	Пехи	Pekhi	Пехі		a peleng name token, as in Пехі Дан; hunspell suggestions are other words	—
+lemma.scotty	Скотти	Scotty	Скоці		the engineer in the android's mutter; hunspell suggestions are other words	—
+lemma.trek_warp	варп	warp	варп		the drive speed in the android's mutter; hunspell suggestions are other words	—
+lemma.baby_loan	бэйби	baby	бэйбі		the loan in hasta la vista, baby; hunspell suggestions are other words	—
+lemma.robot_chatter	трр	a chatter	трр/крр/дрр		the android's broken noises; hunspell suggestions are other words	—
