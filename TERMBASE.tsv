@@ -742,7 +742,7 @@ lemma.hilt	гарда	hilt	эфэс	гарда	hilt of a cold weapon; hunspell �
 lemma.spear	копье	spear	дзіда		G дзіды; tail simile uses the same word	https://starnik.by/pravapis/22770
 lemma.mace	палица	mace	паліца		weapon; the shelf is the same spelling	https://starnik.by/pravapis/52120
 lemma.crossbow	арбалет	crossbow	арбалет		G арбалета; tactic label	https://starnik.by/pravapis/5833
-lemma.arrow	стрела	arrow	страла/стрэламі		I pl стрэламі	https://starnik.by/pravapis/72217
+lemma.arrow	стрела	arrow	страла/стрэламі/стралой		I pl стрэламі; I sg стралой	https://starnik.by/pravapis/72217
 lemma.flamethrower	огнемет	flamethrower	агнямёт		hydrogen-sulfide weapon	https://starnik.by/pravapis/1686
 lemma.hydrogen	сероводородный	hydrogen-sulfide	серавадародны		adj; smell of rotten eggs	https://starnik.by/pravapis/149461
 lemma.shooting	стреляющий	shooting	страляльны/страляльнай		tactic label inside clr	https://starnik.by/pravapis/152047
@@ -3464,3 +3464,5 @@ lemma.growl	Аггрррххх	a roar	Аггрррххх		the native's roar; cop
 lemma.protoplasm	протоплазма	protoplasm	пратаплязма/пратаплязму	пратаплазму	the living matter of a cell; Starnik пратаплазма, hunspell writes я	https://starnik.by/pravapis/59360
 lemma.stammer	Ээээ	a stammer	Ээээ		the ranger's stammer; copied from the Russian line	—
 lemma.banzai	Банзай	banzai	Банзай		battle cry; copied from the Russian shout	—
+lemma.golysh	булыжник	cobble	галыш/галышом	булыжнік	a round smooth stone, sense 3; I галышом	https://starnik.by/pravapis/17766
+lemma.fly_in	влететь	fly into	уляцелі/ўляцелі		past pl; ў after a vowel; hunspell splits the prefix	https://starnik.by/pravapis/217255
