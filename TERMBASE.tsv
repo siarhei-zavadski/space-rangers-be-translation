@@ -414,7 +414,7 @@ lemma.great_thinker	Великий мыслитель	Great Thinker	Вялікі
 lemma.pirate_clans_ds	Сорвиклювы / Смачные парни / Дерзкие зыри	clans	Сарвіклювы / Смачныя хлопцы / Дзёрзкія зыры		quoted pirate clans DefSystem/52	—
 lemma.ga_principles	принципы Га	Ga principles	прынцыпы Га		gaal pirate philosophy; тры правы	—
 lemma.razrab_finger	Палец Раазраба	Dev's Finger	Палец Раазраба		quoted artefact; Геймдэвэлепэры зары already	—
-lemma.ragobam_frogs	рогобамские жабы	Ragobam frogs	рагобамскія жабы/рагобамская		KillShip venom trade; RobotsMap already	—
+lemma.ragobam_frogs	рогобамские жабы	Ragobam frogs	рагобамскія жабы/рагобамская/рагобамскай		KillShip venom trade; RobotsMap already	—
 lemma.hire_a_friend	Закажи другу друга	Hire a Pal a Pal	Замоў сябру сябра		malok hitman agency; keep quotes inside <clr>	—
 lemma.vovik_zhyry	Вовик Жирый	Vovik Zhyry	Вовік Жырый		keep in <clr>; malok diplomat insult quest	—
 lemma.guanta	гуанта-бартабаны	guanta-bartabans	гуанта-бартабаны		malok origin parody fauna	—
@@ -2693,7 +2693,7 @@ lemma.flowerbed	клумба	flowerbed	кветнік/кветніку		a flower
 lemma.kizut	Кизут	Kizut	Кізут/Кізута/Кізутам		akabos brother; hunspell lacks the name; G Кізута; I Кізутам	Xenolog.qmm
 lemma.xenologist	ксенолог	xenologist	ксеналаг/Ксеналаг/ксеналага/ксеналагам/ксеналагаў/ксеналагі		formed like ксенафоб + тэхнолаг; hunspell lacks it; G ксеналага, I ксеналагам, G pl ксеналагаў, N pl ксеналагі	https://starnik.by/pravapis/77515
 lemma.xenostation	ксеностанция	xenostation	ксенастанцыя/ксенастанцыі/Ксенастанцыя/ксенастанцыяй/ксенастанцыю		the planetary base; coined on ксеналаг; I ксенастанцыяй, A ксенастанцыю	Xenolog.qmm
-lemma.rulez	Рулез	Rulez	Рулез/Рулеза/Рулезам		the faeyan xenologist; hunspell lacks the name; G Рулеза, I Рулезам	Xenolog.qmm
+lemma.rulez	Рулез	Rulez	Рулез/Рулеза/Рулезам/рулез		the faeyan xenologist; hunspell lacks the name; G Рулеза, I Рулезам	Xenolog.qmm
 lemma.zeon	Зеон	Zeon	Зэон		default destination planet; hunspell lacks the name	Xenolog.qmm
 lemma.detonator	детонатор	detonator	дэтанатар/дэтанатара		a blasting cap, sense as Starnik; G дэтанатара	https://starnik.by/pravapis/25123
 lemma.timer	таймер	timer	таймэр/таймэра	таймер	Starnik таймер; hunspell таймэр, already Filial	https://starnik.by/pravapis/74467
@@ -4139,7 +4139,7 @@ lemma.cutter	резак	a cutter	разак	рэзак	a cutting tool, sense 1; 
 lemma.hairline	надломленный	cracked	надламаны		participle sense 1, cracked without breaking through; sense 2 is spiritual exhaustion	https://starnik.by/pravapis/240463
 lemma.knife	нож	a knife	нож		a cutting tool of blade and handle, sense 1	https://starnik.by/pravapis/48851
 lemma.smallsword	шпага	a smallsword	шпага		a straight thrusting sword	https://starnik.by/pravapis/85543
-lemma.gauss_gun	гаусс-ган	gauss gun	гаўсган/гаўсганам	саўгану	coined loan; one word so the token is not the name Ган; hunspell suggests саўгану, a different word	—
+lemma.gauss_gun	гаусс-ган	gauss gun	гаўсган/гаўсганам/гаўсгана	саўгану	coined loan; one word so the token is not the name Ган; hunspell suggests саўгану, a different word	—
 lemma.flux_thrower	плазмомет	plasma thrower	плязмамёт	плязматрон	coined plasma thrower; hunspell suggests плязматрон, a different device	—
 lemma.overspeed	вразнос	runaway	разнос	уразнос	engine overspeed, sense 3; A разнос; the adverb уразнос is door-to-door peddling	https://starnik.by/pravapis/63481
 lemma.quietude	тишина	silence	цішыня		absence of noise, sense 1	https://starnik.by/pravapis/82899
@@ -4255,3 +4255,7 @@ lemma.whatsup	вотс ап	what's up	Вотс/ап		Dobrys's English greeting i
 lemma.royal_flush	роял флеш	a royal flush	роял/флеш		the poker hand; hunspell suggestions are other words	—
 lemma.okei	окей	okay	окей		the gaal's okay; hunspell suggestions are other words	—
 lemma.dew_shout	дью	a gaal do	дью		the gaal's unexplained shout зрабі дью; hunspell suggestions are other words	—
+lemma.school_box	параллелепипедик	a little box	паралелепіпедыкі		the school-word diminutive of паралелепіпед; hunspell suggestions are other words	—
+lemma.drawl_worm	червяк	a drawn-out worm	чарррвяк		the stretched insult; hunspell suggestions are other words	—
+lemma.lawful_good	лоуфулгудовый	lawful good	лоўфулгудавыя		the smashed D&D alignment; hunspell suggestions are other words	—
+lemma.must_die	мастдайный	must-die	мастдайны		the faeyan's gamer adjective; hunspell suggestions are other words	—
