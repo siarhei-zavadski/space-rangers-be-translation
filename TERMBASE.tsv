@@ -3430,7 +3430,7 @@ lemma.numb	окоченеть	to go numb	акачанелым/акачанець
 lemma.cosmolet	космолет	spaceship cabin	касмалёт/касмалёта		a spacecraft, G касмалёта	https://starnik.by/pravapis/34375
 lemma.dictaphone	диктофон	dictaphone	дыктафон/дыктафона		a voice recorder, G дыктафона	https://starnik.by/pravapis/24037
 lemma.brick	кирпич	a brick	цэгла/цэглы/цэглу/цагляны/цагляных		a clay block; A цэглу; adjective цагляны	https://starnik.by/pravapis/83351
-lemma.hedgehog	ёж	a hedgehog	вожык/вожыка		the animal, sense 1; A animate вожыка	https://starnik.by/pravapis/15113
+lemma.hedgehog	ёж	a hedgehog	вожык/вожыка/Вожыкаў		the animal, sense 1; A animate вожыка; possessive Вожыкаў	https://starnik.by/pravapis/15113
 lemma.termite	термит	a termite	тэрміт/тэрмітнік		the insect, sense 2, not the incendiary mixture; the mound тэрмітнік is https://starnik.by/pravapis/77365	https://starnik.by/pravapis/77363
 lemma.skeleton	скелет	a skeleton	шкілет/шкілета		the bones of a body, sense 1	https://starnik.by/pravapis/85071
 lemma.pillar	столб	a pillar	слуп/слупа		a post set upright, sense 1; not слупок, a column of figures	https://starnik.by/pravapis/70366
@@ -3916,7 +3916,7 @@ lemma.swat	прихлопнуть	to swat	прыпляснуць/прыпляс�
 lemma.turn_about	обернуться	to turn about	абярнуцца/абярнуўшыся	абвярнуўшыся	to turn the body, sense 2; adverbial абярнуўшыся; hunspell drops в	https://starnik.by/pravapis/166676
 lemma.swish	шелестеть	to rustle	шамацець/шамаценьне		to make a light noise, sense 1; noun шамаценьне	https://starnik.by/pravapis/219959
 lemma.thin_trees	проредить	to thin trees	прарэдзіць/прарэдзіўшы	прарадзіўшы	to cut out part of the trees; adverbial прарэдзіўшы; hunspell writes э	https://starnik.by/pravapis/205592
-lemma.wildbeast	зверь	a beast	зьвер		a wild animal, sense 1; Starnik звер; hunspell inserts ь; older rows already use звер, so that spelling is not rejected	https://starnik.by/pravapis/28454
+lemma.wildbeast	зверь	a beast	зьвер/зьвяры		a wild animal, sense 1; N pl зьвяры; Starnik звер; hunspell inserts ь; older rows already use звер, so that spelling is not rejected	https://starnik.by/pravapis/28454
 lemma.humantrack	гуманотракоид	a humanoid on tracks	Гуманатракаід		coined: гуманоід plus трак; hunspell suggestion is another word	—
 lemma.joint	сустав	a joint	сустаў/суставаў		a movable bone joint; G pl суставаў	https://starnik.by/pravapis/73595
 lemma.wedge_beard	бородка	a small beard	бародка/бародкай		diminutive of барада, sense 1; I бародкай	https://starnik.by/pravapis/9266
@@ -3928,3 +3928,7 @@ lemma.slash	рубануть	to slash	секануць/секанулі		to stri
 lemma.riposte	контратаковать	to counterattack	контратакаваць	кантратакаваць	to make a counterattack; Starnik and hunspell write о	https://starnik.by/pravapis/186701
 lemma.discourtesy	нелюбезность	rudeness	няветлівасьць	няветлівасць	the noun of няветліва; hunspell inserts ь	https://starnik.by/pravapis/227530
 lemma.wide_miss	молоко	a shot gone wide	молоко		the quoted complete-miss idiom; hunspell suggestion is another word; not the drink and not the maloc	—
+lemma.rasp	хрипнуть	to rasp	хрыпнуць/хрыпнуў		semelfactive of хрыпець, sense 1; past m хрыпнуў; hunspell suggestions are other words	https://starnik.by/pravapis/219333
+lemma.spent_out	выдохнуться	to be spent	выдыхнуцца/выдыхнуўся		to spend all one's strength; past m выдыхнуўся	https://starnik.by/pravapis/172993
+lemma.conscience	совесть	conscience	сумленьне	сумленне	moral judgement of one's acts; Starnik сумленне; hunspell inserts ь	https://starnik.by/pravapis/73192
+lemma.scratch	царапина	a scratch	драпіна/драпіны		a shallow cut, sense 1; G драпіны	https://starnik.by/pravapis/23409
