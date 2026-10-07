@@ -121,6 +121,11 @@ width as the Russian line.
 and confirm it with a jump. Translate the sentence; the code characters
 on both sides stay the same. `Disk.qmm` is filled. `Evidence.qmm` is filled;
 `[p30]`, `[p31]`, `[p32]`, `[p1]`, `[p46]`, and the star masks stayed.
+`Sibolusovt.qmm` is filled. The code characters stayed on the teaching line
+and on the jump. The digit jumps stayed `Набраць 5`, `Набраць 10`,
+`Набраць 20`, `Набраць 50`, `Набраць 100`, and `Набраць 200`. The lock
+buttons stayed `0`–`5`. The cards kept `<clr>код - 504<clrEnd>` and
+`<clr>код-325<clrEnd>`.
 
 The same width trap, without being a puzzle, sits in `Election.qmm`,
 `Rvk.qmm`, `Ski.qmm`, `Amnesia.qmm`, `SpaceLines.qmm`, `Olympiada.qmm`,
@@ -146,7 +151,7 @@ one file at a time, until its `--batch` prints nothing:
 2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
    on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
 3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork` (filled), `Sibolusovt`,
+   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork` (filled), `Sibolusovt` (filled),
    `Losthero`, `Testing`, `Piratesnest`, `Domoclan`. `--batch` prints the
    puzzle's table row to stderr; read its whole section above first, and
    edit every copy of a name (diary, statue, jump) in the same batch.
