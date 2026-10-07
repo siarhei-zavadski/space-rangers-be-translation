@@ -3396,7 +3396,7 @@ lemma.net_gear	сеть	a capture net	сетка/сеткі		a net for catching;
 lemma.gear_wheel	шестерня	a gear	шасьцярня/шасьцярэнька/шасьцерневы	шасцярня/шасцярэнька/шасьцярневы	a toothed wheel, sense 1; Starnik шасцярня, diminutive шасцярэнька 84884; adjective шасцерневы 161762; hunspell inserts ь	https://starnik.by/pravapis/84882
 lemma.nerve	нерв	a nerve	нэрвы/нэрвуецца/Нэрвы	нервы/нервуецца	fibers that govern the body, sense 2 pl; Starnik нерв, hunspell writes э; verb form нэрвуецца	https://starnik.by/pravapis/48216
 lemma.clip	обойма	a clip	абойма/абоймай		a frame of cartridges, sense 1; I абоймай	https://starnik.by/pravapis/767
-lemma.native	абориген	a native	тубылец/тубыльца		a local inhabitant; G тубыльца	https://starnik.by/pravapis/76360
+lemma.native	абориген	a native	тубылец/тубыльца/тубыльцу		a local inhabitant; G тубыльца; D тубыльцу	https://starnik.by/pravapis/76360
 lemma.tarantula	тарантул	a tarantula	Тарантул/тарантул		a venomous spider	https://starnik.by/pravapis/74840
 lemma.stump	пень	a stump	пень/пянёк/пяньку/пянька		the base of a cut tree, sense 1; diminutive пянёк; L пяньку; G пянька	https://starnik.by/pravapis/54884
 lemma.dose	доза	a dose	доза/доз		a portion taken at one time; G pl доз, not дозаў	https://starnik.by/pravapis/23156
@@ -3462,7 +3462,7 @@ lemma.not_weakly	неслабо	pretty hard	няслаба		not weakly; hunspell
 lemma.dreamily	мечтательно	dreamily	мройліва/Мройліва		adverb of мроіць; hunspell suggests мроіва, a different form	https://starnik.by/pravapis/187977
 lemma.growl	Аггрррххх	a roar	Аггрррххх		the native's roar; copied from the Russian line	—
 lemma.protoplasm	протоплазма	protoplasm	пратаплязма/пратаплязму	пратаплазму	the living matter of a cell; Starnik пратаплазма, hunspell writes я	https://starnik.by/pravapis/59360
-lemma.stammer	Ээээ	a stammer	Ээээ		the ranger's stammer; copied from the Russian line	—
+lemma.stammer	Ээээ	a stammer	Ээээ/Эээ		the ranger's stammer; four letters and three letters, copied from the Russian lines	—
 lemma.banzai	Банзай	banzai	Банзай		battle cry; copied from the Russian shout	—
 lemma.golysh	булыжник	cobble	галыш/галышом	булыжнік	a round smooth stone, sense 3; I галышом	https://starnik.by/pravapis/17766
 lemma.fly_in	влететь	fly into	уляцелі/ўляцелі		past pl; ў after a vowel; hunspell splits the prefix	https://starnik.by/pravapis/217255
@@ -3564,3 +3564,4 @@ lemma.reed	камыш	reeds	чарот		a tall sedge in river water, sense 1; т
 lemma.notskats	Йа-Ноцкац	Aye-Notskats	Я-Ноцкац/Ноцкац		coined river in the documentary cut; English Aye-Notskats	—
 lemma.pouch	мешочек	a little sack	мяшэчак/мяшэчка		diminutive of мяшок; Starnik also lists мяшочак	https://starnik.by/pravapis/45100
 lemma.inquisitor	инквизитор	an inquisitor	інквізытар	інквізітар	a cruel tormentor, sense 2; Starnik інквізітар, hunspell writes ы	https://starnik.by/pravapis/30838
+lemma.crambule	крямбуль	a six-legged beast	крамбуль/крамбуляў		coined; the name echoes крэм-бруле; hunspell suggests the different word крамзоляў	—
