@@ -3614,7 +3614,7 @@ lemma.porridge	каша	porridge	каша		a thick cereal dish	https://starnik.b
 lemma.immortalize	увековечить	to immortalize	увекавечыць		sense 1, to keep someone in memory	https://starnik.by/pravapis/216039
 lemma.sunken	затопленный	sunken	затоплены/затопленым		locative masculine затопленым	https://starnik.by/pravapis/238691
 lemma.mushroom_stem	ножка	mushroom stem	ножка/ножкай		sense 3, the stalk of a mushroom; instrumental ножкай	https://starnik.by/pravapis/48854
-lemma.catch_oneself	спохватиться	to catch oneself	схамянуцца/схамянуліся		sense 1, to notice a mistake in time	https://starnik.by/pravapis/214875
+lemma.catch_oneself	спохватиться	to catch oneself	схамянуцца/схамянуліся/схамянуўся		sense 1, to notice a mistake in time	https://starnik.by/pravapis/214875
 lemma.transport	транспорт	transport	транспарт/транспарце		locative транспарце	https://starnik.by/pravapis/75533
 lemma.stick	застревать	to get stuck	захрасаць		imperfective of захраснуць	https://starnik.by/pravapis/182789
 lemma.fraer_stammer	хлю	broken show-off	хлю		the proverb starts хлюста and breaks off before рэйнджэра	—
@@ -4432,3 +4432,15 @@ lemma.pressed_juice	сок	juice	сок/соку		the liquid pressed from a plan
 lemma.body_mass	масса	mass	маса/масы		how much matter a body holds, sense 1; G масы	https://starnik.by/pravapis/42022
 lemma.sourish	кисловатый	sourish	кіславаты/кіславата		a little sour, sense 1	https://starnik.by/pravapis/118919
 lemma.datum	данные	data	зьвесткі/зьвестак	звесткі	Starnik звесткі; hunspell inserts ь; G pl зьвестак	https://starnik.by/pravapis/28492
+lemma.green_belly	зеленобрюхий	green-belly	зялёнабрухі/зялёнабрухага		a peleng insult; hunspell splits it and жалабабрухія is another word	—
+lemma.overfamiliar	панибратски	over-familiarly	па-панібрацку/панібрацку		the adverb; hunspell lacks the token панібрацку	https://starnik.by/pravapis/229222
+lemma.komer_san	Комер	Komer San	Комер	Колер	peleng name; hunspell's Колер is a color	—
+lemma.reeking	вонючий	stinking	сьмярдзючы/сьмярдзючай	смярдзючы	Starnik смярдзючы; hunspell inserts ь; I f сьмярдзючай	https://starnik.by/pravapis/150800
+lemma.scoop_up	загрести	to scoop	загрэбці/загрэблі	заграблі	past pl загрэблі	https://starnik.by/pravapis/179533
+lemma.reverie	размечтаться	to daydream	размарыцца/размарыўся		to get lost in a dream; past m размарыўся; the other размарыцца is exhaustion	https://starnik.by/pravapis/209709
+lemma.fortune_n	состояние	a fortune	багацьце	багацце	money piled up, sense 1; not the state стан; Starnik багацце, hunspell inserts ь	https://starnik.by/pravapis/8444
+lemma.little_pail	ведерко	a little pail	вядзерца	вядзерка	diminutive of вядро; G вядзерца	https://starnik.by/pravapis/16936
+lemma.yarn_ball	клубок	a ball of yarn	клубок		a wound ball, here of algae	https://starnik.by/pravapis/36054
+lemma.miserly	жадный	greedy	хцівы		grasping, sense 2	https://starnik.by/pravapis/159775
+lemma.wink_once	подмигнуть	to wink	падміргнуць/падміргнуў		past m падміргнуў	https://starnik.by/pravapis/194785
+lemma.big_bottle	бутыль	a large bottle	бутля/бутлю		a big bottle, not бутэлька; A бутлю	https://starnik.by/pravapis/12180
