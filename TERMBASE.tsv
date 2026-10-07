@@ -3745,7 +3745,7 @@ lemma.abomination	мерзота	disgust	мярзота		something that disgusts
 lemma.skedaddle	удрать	to scram	драпануць		to run off in a hurry, sense 2	https://starnik.by/pravapis/177771
 lemma.improvised	импровизированный	improvised	імправізаваны/імправізаваную		made in a hurry, sense 3; A feminine імправізаваную	https://starnik.by/pravapis/115578
 lemma.hellish	адский	hellish	пякельны/пякельнага	адскі	masculine genitive пякельнага	https://starnik.by/pravapis/144139
-lemma.fury	ярость	fury	лютасьць		a furious state, sense 2; Starnik лютасць; hunspell ь	https://starnik.by/pravapis/40354
+lemma.fury	ярость	fury	лютасьць/лютасьці		a furious state, sense 2; Starnik лютасць; hunspell ь; L лютасьці	https://starnik.by/pravapis/40354
 lemma.insult	оскорбление	an insult	абраза/абразу		the offense; the icon is абраз	https://starnik.by/pravapis/817
 lemma.bone	кость	a bone	костка/костак		same as косць, sense 1; G pl костак	https://starnik.by/pravapis/36628
 lemma.stomach	желудок	a stomach	страўнік		the organ the gullet joins	https://starnik.by/pravapis/72264
@@ -4526,3 +4526,8 @@ lemma.uncultured	варвар	a barbarian	варвар		an uncultured cruel pers
 lemma.ankle_boot	ботинок	a shoe	чаравік/чаравіка/чаравікам		footwear thrown by the pirate; I чаравікам	https://starnik.by/pravapis/83864
 lemma.diary	дневник	a diary	дзёньнік		a personal record, sense 2; hunspell inserts ь; Starnik дзённік	https://starnik.by/pravapis/22652
 lemma.stand_cupboard	тумба	a desk cupboard	тумба/тумбы		the lower cabinet of a desk, sense 2; G тумбы	https://starnik.by/pravapis/76429
+lemma.vexation	досада	vexation	прыкрасьць/прыкрасьці		annoyance, sense 2; G прыкрасьці; Starnik прыкрасць; hunspell inserts ь	https://starnik.by/pravapis/60321
+lemma.guffaw	гоготать	to guffaw	рагатаць/парагатаўшы		to laugh loudly, sense 1; past gerund парагатаўшы	https://starnik.by/pravapis/208731
+lemma.drooler	слюнтяй	a drooler	сьлюнцяй		someone who slobbers; Starnik слюнцяй; hunspell inserts ь	https://starnik.by/pravapis/70391
+lemma.car_seat	сиденье	a seat	сядзеньне		a place one sits, sense 2; Starnik сядзенне; hunspell inserts ь; the body part stays on lemma.seat	https://starnik.by/pravapis/74208
+lemma.bum_word	бомж	a bum	бамж/бамжаў		the insult; hunspell suggestions are other words; the adult without a home stays бяздомак	—
