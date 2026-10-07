@@ -2970,7 +2970,7 @@ lemma.rector	ректор	rector	рэктар/рэктара		head of a universi
 lemma.boa	удав	boa	удаў/удава		the snake; A удава	https://starnik.by/pravapis/77726
 lemma.rabbit	кролик	rabbit	трус/трусоў		the animal; A pl трусоў	https://starnik.by/pravapis/75949
 lemma.nostril	ноздря	nostril	ноздра/ноздраў		G pl ноздраў	https://starnik.by/pravapis/48861
-lemma.fruit	фрукт	fruit	фрукт/фрукта		one piece of fruit	https://starnik.by/pravapis/81019
+lemma.fruit	фрукт	fruit	фрукт/фрукта/фрукты		one piece of fruit; A pl фрукты	https://starnik.by/pravapis/81019
 lemma.shave	брить	shave	галіць		to cut hair with a razor	https://starnik.by/pravapis/175420
 lemma.alien	инопланетянин	alien	іншаплянэтнік/іншаплянэтнікі/іншаплянэтнікаў/Іншаплянэтнікі		the being; spelling follows іншаплянэтны	https://starnik.by/pravapis/116113
 lemma.pinball	пинбол	pinball	пінбол		the arcade game; not in Starnik	—
@@ -3877,7 +3877,7 @@ lemma.camp	лагер	a camp	лягер/лягеру	лагер	a temporary camp
 lemma.hurricane	ураган	a hurricane	ураган/урагану		a destructive wind, sense 1; G урагану	https://starnik.by/pravapis/78642
 lemma.foul_weather	непогода	bad weather	непагадзь/непагадзі		prolonged bad weather; G непагадзі	https://starnik.by/pravapis/47825
 lemma.evening	вечер	an evening	вечар/вечарам		the time after day, sense 1; I вечарам	https://starnik.by/pravapis/14173
-lemma.settled	поселение	a habitation	пасяленьне/пасяленьня	пасялення	a settled place, sense 2; G пасяленьня; Starnik пасялення; hunspell inserts ь	https://starnik.by/pravapis/53790
+lemma.settled	поселение	a habitation	пасяленьне/пасяленьня/пасяленьні	пасялення	a settled place, sense 2; G пасяленьня; L пасяленьні; Starnik пасялення; hunspell inserts ь	https://starnik.by/pravapis/53790
 lemma.rectify	исправить	to correct	выправіць/выпраўлена/Выпраўлена		to remove a fault, sense 2; short participle выпраўлена	https://starnik.by/pravapis/173974
 lemma.abandoned	заброшенный	abandoned	закінуты/закінутае		forgotten and neglected, sense 2; N neuter закінутае	https://starnik.by/pravapis/238180
 lemma.variable	переменная	a variable	пераменная		a quantity that can change; older quests already use зьменная, so that calque is not rejected	https://starnik.by/pravapis/55534
@@ -4110,3 +4110,13 @@ lemma.brazen_act	наглеть	to act brazenly	нахабнічаць		colloqui
 lemma.dare_not	неповадно	lest one dare	непавадна		predicative in каб непавадна было; Starnik NONE; hunspell suggestions are other words	—
 lemma.hand_over	отдать	to hand over	аддаць/Аддаць		to give something to someone, sense 2	https://starnik.by/pravapis/167485
 lemma.give_to	дать	to give	даць/Даць		to let someone have something	https://starnik.by/pravapis/177465
+lemma.decline	отказаться	to refuse	адмовіцца/Адмовіцца		to decline something offered, sense 1; Адмовіцца ад ежы	https://starnik.by/pravapis/168063
+lemma.victuals	еда	food	ежа/ежы		what one eats, sense of the headword; G ежы	https://starnik.by/pravapis/25276
+lemma.macaque	макака	a macaque	макака		a small monkey; the file's мартышка stays малпа	https://starnik.by/pravapis/40892
+lemma.toxin_pf	отравить	to poison	атруціць		perfective, to cause death with poison, sense 1	https://starnik.by/pravapis/170810
+lemma.dumbfound	остолбенеть	to freeze	аслупянець/аслупянелі		to go rigid with shock; past plural аслупянелі	https://starnik.by/pravapis/170560
+lemma.promenade	пройтись	to walk about	прайсьціся/Прайсьціся		to take a few steps, sense 1; Starnik прайсціся; hunspell inserts ь	https://starnik.by/pravapis/204783
+lemma.wander_bit	побродили	to wander a while	пабрадзіць/пабрадзілі	пабродзілі	perfective of брадзіць; past plural пабрадзілі, future 3sg пабродзіць; hunspell rejects the past with о	https://starnik.by/pravapis/192771
+lemma.wheel_about	развернуться	to wheel about	разьвярнуцца/разьвярнуліся		to turn so as to face another way, sense 2; Starnik развярнуцца; hunspell inserts ь	https://starnik.by/pravapis/209158
+lemma.onslaught	атака	an attack	атака/атакі		a swift assault; G атакі	https://starnik.by/pravapis/6892
+lemma.huddle	забиться	to cower	забіцца/забіўся		to hide by squeezing in, sense 2; past masculine забіўся	https://starnik.by/pravapis/178800
