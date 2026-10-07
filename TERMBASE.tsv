@@ -3672,7 +3672,7 @@ lemma.console	пульт	a console	пульт/пульце/пульта		locativ
 lemma.plaque	табличка	a plaque	таблічка		a small sign	https://starnik.by/pravapis/74361
 lemma.reactor	реактор	a reactor	рэактар		the bunker reactor	https://starnik.by/pravapis/65494
 lemma.qm_store	каптерка	a quartermaster store	капцёрка/капцёрку		a company storeroom for kit; accusative капцёрку	https://starnik.by/pravapis/33616
-lemma.washroom	душевая	a shower room	душавая/душавой		the room, locative душавой	https://starnik.by/pravapis/23846
+lemma.washroom	душевая	a shower room	душавая/душавой/душавую		the room, locative душавой; accusative душавую	https://starnik.by/pravapis/23846
 lemma.vent_grate	решетка	a grate	рашотка/рашотку/рашоткі		accusative рашотку, plural рашоткі	https://starnik.by/pravapis/64640
 lemma.nailgun	гвоздемет	a nail gun	цьвікамёт/цьвікамёта		a construction nail gun; hunspell wants to split it or suggests цьвікадзёра, a different word	—
 lemma.coastal	прибрежный	coastal	прыбярэжны/прыбярэжнае		neuter прыбярэжнае	https://starnik.by/pravapis/142439
@@ -3800,7 +3800,7 @@ lemma.handy	пригодиться	to come in handy	спатрэбіцца		to b
 lemma.unlatch	открыть	to open	адчыніць/адчынілі/адчыніўшы		to open a closed container, sense 1; past адчынілі; gerund адчыніўшы	https://starnik.by/pravapis/169076
 lemma.take_out	забирать	to take away	забіраць/забіраючы		imperfective of забраць; gerund забіраючы	https://starnik.by/pravapis/178798
 lemma.pullup	подтянуться	to pull up	падцягнуцца		to pull oneself up, sense 1; the dictionary example is a pull-up on a bar	https://starnik.by/pravapis/195635
-lemma.duct	вентиляция	ventilation	вэнтыляцыя/вэнтыляцыі	вентыляцыі	a system that moves air, sense 2; G вэнтыляцыі; Starnik вентыляцыі; hunspell э	https://starnik.by/pravapis/13870
+lemma.duct	вентиляция	ventilation	вэнтыляцыя/вэнтыляцыі/вэнтыляцыю	вентыляцыі/вентыляцыю	a system that moves air, sense 2; G вэнтыляцыі; A вэнтыляцыю; Starnik вентыляцыі; hunspell э	https://starnik.by/pravapis/13870
 lemma.linger	задерживаться	to linger	затрымлівацца		imperfective of затрымацца, to stay on	https://starnik.by/pravapis/182483
 lemma.hazard	опасно	dangerous	небясьпечна	небяспечна	predicate, it brings danger; Starnik небяспечна; hunspell ь	https://starnik.by/pravapis/226573
 lemma.drill	упражнение	an exercise	практыкаваньне/практыкаваньняў	практыкаванняў	a physical drill, sense 2; G pl практыкаваньняў; Starnik практыкаванняў; hunspell ь	https://starnik.by/pravapis/58772
@@ -3990,3 +3990,4 @@ lemma.study	изучать	to study	вывучаць		imperfective of вывуч
 lemma.work_noun	работа	work	праца/працы/працу		a job or a piece of work, senses 1–2 and 4; G працы; A працу	https://starnik.by/pravapis/59577
 lemma.resume	продолжить	to resume	працягнуць		to take up again after a break, sense 8; the hold-out sense stays lemma.proffer	https://starnik.by/pravapis/206200
 lemma.bil_scrap	бил фрагмент	a scrap	біл		wrecked console fragment of стабілізацыя; do not complete the label	—
+lemma.junction	пересечение	a crossing	скрыжаваньне/скрыжаваньні	скрыжаванне/скрыжаванні	the place where ways cross, sense 2; L скрыжаваньні; Starnik скрыжаванні; hunspell inserts ь	https://starnik.by/pravapis/69965
