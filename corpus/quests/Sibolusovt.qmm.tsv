@@ -1335,14 +1335,16 @@ You had already opened your mouth when the gaal stopped you with a wave of his h
 - Бачу я, цябе пытаньні цьмяныя мучаць, юны пад... гэта значыць, вандроўнік, — сказаў ён замест прывітаньня. — Пытай.
 Вы ўжо адкрылі былі рот, але гаалец спыніў вас узмахам далоні.
 - Удакладніць зусім забыўся я, — зноў загаварыў ён. — Гонару кодэксу згодна, табе толькі на <clr>тры<clrEnd> пытаньні адказаць я магу."
-"/quests/Sibolusovt.qmm/locations/169/texts/1/text"	"- Спрашивай еще, не стесняйся."	"Quest Sibolusovt.qmm: locations.169.texts.1.text. Preserve every <tag> exactly. English reference: ""Ask another one. Don't be shy."""	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/169/texts/2/text"	"- Я утолю твое любопытство."	"Quest Sibolusovt.qmm: locations.169.texts.2.text. Preserve every <tag> exactly. English reference: ""I will satisfy your curiosity."""	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/169/texts/3/text"	"- Извини, больше ничем не могу тебе помочь. - Устало вздохнул гаалец. - Ты сам выбирал вопросы. Иди своей дорогой, и, может, тебе повезет больше, чем нам."	"Quest Sibolusovt.qmm: locations.169.texts.3.text. Preserve every <tag> exactly. English reference: ""Sorry, I can't help you with anything else,"" the gaal said, sighing wearily. ""You're the one who picked the questions. Carry on your way, and may you have more luck than us."""	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/locations/169/texts/1/text"	"- Спрашивай еще, не стесняйся."	"Quest Sibolusovt.qmm: locations.169.texts.1.text. Preserve every <tag> exactly. English reference: ""Ask another one. Don't be shy."""	"Quest,Sibolusovt"	"- Пытай яшчэ, не саромейся."
+"/quests/Sibolusovt.qmm/locations/169/texts/2/text"	"- Я утолю твое любопытство."	"Quest Sibolusovt.qmm: locations.169.texts.2.text. Preserve every <tag> exactly. English reference: ""I will satisfy your curiosity."""	"Quest,Sibolusovt"	"- Я задаволю тваю цікаўнасьць."
+"/quests/Sibolusovt.qmm/locations/169/texts/3/text"	"- Извини, больше ничем не могу тебе помочь. - Устало вздохнул гаалец. - Ты сам выбирал вопросы. Иди своей дорогой, и, может, тебе повезет больше, чем нам."	"Quest Sibolusovt.qmm: locations.169.texts.3.text. Preserve every <tag> exactly. English reference: ""Sorry, I can't help you with anything else,"" the gaal said, sighing wearily. ""You're the one who picked the questions. Carry on your way, and may you have more luck than us."""	"Quest,Sibolusovt"	"- Выбачай, болей нічым не магу табе дапамагчы. — Стомлена ўздыхнуў гаалец. — Ты сам выбіраў пытаньні. Ідзі сваёй дарогай, і, можа, табе пашанцуе больш, чым нам."
 "/quests/Sibolusovt.qmm/locations/170/texts/0/text"	"Вы подошли к огромному коробу, который представлял из себя склад. Гаалец не обратил на вас внимания, продолжая пялиться куда-то за территорию склада. Как он поднялся наверх было неясно, поскольку никакой лестницы вы, обойдя склад по кругу, не обнаружили.
 Попытки привлечь внимание гаальца так же не возымели успеха. Он только отмахнулся от вас рукой, когда вы стали особенно шумным.
 Из-за забора, авно аккомпанируя вам, донесся жуткий рев. Нужно было придумать, как забраться наверх. Впрочем, нужно ли это вам?"	"Quest Sibolusovt.qmm: locations.170.texts.0.text. Preserve every <tag> exactly. English reference: You approached the huge box that was the warehouse. The gaal didn't pay any attention to you - he just kept staring off somewhere beyond the warehouse. It wasn't clear how he got up there, because, in passing around the warehouse, you were unable to discover any kind of ladder.
 You efforts to attract the gaal's attention also failed. He only waved you away with his hand when you became especially loud.
-Strange braying, clearly accompanying your bellowing, could be heard from behind the fence. You'll have to think up a way to get up there. But do you really need to?"	"Quest,Sibolusovt"	""
+Strange braying, clearly accompanying your bellowing, could be heard from behind the fence. You'll have to think up a way to get up there. But do you really need to?"	"Quest,Sibolusovt"	"Вы падышлі да вялізнай скрыні, якая была складам. Гаалец не зьвярнуў на вас увагі, працягваючы вылуплівацца кудысьці за тэрыторыю складу. Як ён падняўся наверх, было няясна, бо ніякай лесьвіцы вы, абышоўшы склад па коле, не выявілі.
+Спробы прыцягнуць увагу гаальца таксама не мелі посьпеху. Ён толькі адмахнуўся ад вас рукой, калі вы сталі асабліва шумным.
+З-за плота, яўна акампануючы вам, данёсься жудасны рык. Трэба было прыдумаць, як забрацца наверх. Зрэшты, ці трэба гэта вам?"
 "/quests/Sibolusovt.qmm/locations/171/texts/0/text"	"- Что-то ищете? - участливо поинтересовались вы.
 - Жизни смысл, юный скиталец, - усталым голосом ответил гаалец.
 - Зачем? - удивились вы.
@@ -1353,16 +1355,24 @@ Strange braying, clearly accompanying your bellowing, could be heard from behind
 ""Why?"" you asked in surprise.
 ""Don't ask me. Ask the blockhead sitting by the expedition leader's office, and stop fouling up my inner peace!""
 
-You couldn't get anything else out of him. In any event, now it was clear who you needed to talk to here."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/172/texts/0/text"	"С тем же успехом вы могли бы высморкаться. Гаалец остался безучастным."	"Quest Sibolusovt.qmm: locations.172.texts.0.text. Preserve every <tag> exactly. English reference: It would be just as easy to blow your nose. The gaal remained disinterested."	"Quest,Sibolusovt"	""
+You couldn't get anything else out of him. In any event, now it was clear who you needed to talk to here."	"Quest,Sibolusovt"	"- Нешта шукаеце? — спагадліва пацікавіліся вы.
+- Жыцьця сэнс, юны вандроўнік, — стомленым голасам адказаў гаалец.
+- Навошта? — зьдзівіліся вы.
+- Пытай не мяне, а ёлупа таго, што каля кабінэта начальніка экспэдыцыі сядзіць, і мір гармоніі ўнутраны мой не руйнуй!
+
+Болей вам нічога ад яго дамагчыся не ўдалося. Прынамсі, цяпер вам ясна, да каго тут можна зьвярнуцца."
+"/quests/Sibolusovt.qmm/locations/172/texts/0/text"	"С тем же успехом вы могли бы высморкаться. Гаалец остался безучастным."	"Quest Sibolusovt.qmm: locations.172.texts.0.text. Preserve every <tag> exactly. English reference: It would be just as easy to blow your nose. The gaal remained disinterested."	"Quest,Sibolusovt"	"З тым жа посьпехам вы маглі б высякацца. Гаалец застаўся абыякавым."
 "/quests/Sibolusovt.qmm/locations/174/texts/0/text"	"Вы добрались до морозильной камеры и зашли внутрь. Сразу же, не размениваясь на пустяки, вы прошли к стоящему в углу холодильнику для препаратов и открыли его. Внутри оказалось два ряда пузырьков с ядом сиболусовта. При внимательном рассмотрении верхний ряд оказался ядом сиболусовтов мужского пола, а нижний ряд - женского .
 Какой же нужен вам?"	"Quest Sibolusovt.qmm: locations.174.texts.0.text. Preserve every <tag> exactly. English reference: You reached the chilling chamber and went inside. Without frittering away your strength on silly nonsense, you walked straight to the specimen refrigerator, which was standing in the corner. Inside, there were two rows of vials with sibolusovtus poison. Close inspection of the upper row revealed that it was poison from male sibolusovtuses, while the lower row was from female sibolusovtuses.
-Which did you need?"	"Quest,Sibolusovt"	""
+Which did you need?"	"Quest,Sibolusovt"	"Вы дабраліся да маразільнай камэры і зайшлі ўнутр. Адразу ж, не разьменьваючыся на дробязі, вы прайшлі да халадзільніка для прэпаратаў, што стаяў у куце, і адчынілі яго. Усярэдзіне аказалася два рады флякончыкаў з атрутай сібалусаўта. Пры ўважлівым разглядзе верхні рад аказаўся атрутай самцоў сібалусаўта, а ніжні рад — самак.
+Які ж патрэбны вам?"
 "/quests/Sibolusovt.qmm/locations/175/texts/0/text"	"Вы подошли к зданию склада и посмотрели наверх. Гаалец, стоя на крыше, все так же пялился куда-то в девственные джунгли.
 Обойдя здание по кругу, вы лестницы не обнаружили. Вероятно, ее присыпало на совесть. Вы начали копать.
 Через пару часов, взмокший и излохмаченный, покусанный странными червяками, вы все же откопали искомое и прислонили ее к стене."	"Quest Sibolusovt.qmm: locations.175.texts.0.text. Preserve every <tag> exactly. English reference: You approached the warehouse building and looked up. The gaal standing on the roof was still staring out at the pristine jungle.
 Making a pass around the building, you didn't find a ladder. It must have been covered really well. You began to dig.
-After a couple of hours of being bitten by strange worms, sweaty and highly irritated, you did manage to dig up what you were looking for and prop it against the wall."	"Quest,Sibolusovt"	""
+After a couple of hours of being bitten by strange worms, sweaty and highly irritated, you did manage to dig up what you were looking for and prop it against the wall."	"Quest,Sibolusovt"	"Вы падышлі да будынка складу і паглядзелі ўверх. Гаалец, стоячы на даху, усё гэтак жа вылупіўся кудысьці ў некранутыя джунглі.
+Абышоўшы будынак па коле, вы лесьвіцы не выявілі. Мусіць, яе прысыпала на сумленьне. Вы пачалі капаць.
+Праз пару гадзінаў, узмакрэлы і ўскудлачаны, пакусаны дзіўнымі чарвякамі, вы ўсё ж адкапалі шуканае і прысланілі яе да сьцяны."
 "/quests/Sibolusovt.qmm/locations/176/texts/0/text"	"- Ээ... привет? - сказали вы осторожно гаальцу.
 - Привет, - ответил тот бодро, - только не заставляй меня отводить взгляд. Это наш единственный шанс на возвращение в нормальный мир.
 - Окей, окей, - ответили вы и осторожно отошли к краю крыши, - я, собственно, по этому вопросу и пришел.
@@ -1381,10 +1391,20 @@ After a couple of hours of being bitten by strange worms, sweaty and highly irri
 You looked closely and did indeed see something like a large, black rock in the thick of the jungle.
 ""I'm not taking my eyes off of it, because it's no bother - and if I did the rock would disappear for a couple of weeks. It's all been proven in practice,"" the gaal reported. ""Those two other guys below don't want to help me; they think I've gone mad, but they're the ones who are really crazy.
 You keep to yourself your opinion that all three of them had gone mad.
-""Anyway, I would have gotten away a long time ago, but if I break my stare then the rock will vanish and some creatures will devour me. If you manage to avoid lunch with them and can find your way to the real world, please tell people about our plight."""	"Quest,Sibolusovt"	""
+""Anyway, I would have gotten away a long time ago, but if I break my stare then the rock will vanish and some creatures will devour me. If you manage to avoid lunch with them and can find your way to the real world, please tell people about our plight."""	"Quest,Sibolusovt"	"- Э-э... прывітаньне? — сказалі вы асьцярожна гаальцу.
+- Прывітаньне, — адказаў той бадзёра, — толькі не змушай мяне адводзіць позірк. Гэта наш адзіны шанец вярнуцца ў нармальны сьвет.
+- О'кей, о'кей, — адказалі вы і асьцярожна адышлі да краю даху, — я, уласна, па гэтым пытаньні і прыйшоў.
+- Падазраю, ты рэйнджэр, — заўважыў гаалец.
+- Дзякуй, капітане Відавочна... — ўжо хацелі вы былі зьедліва адказаць, але стрымаліся, успомніўшы, што ад гэтага гаальца залежыць ваш далейшы лёс. — Так, гэта так.
+- Глядзі туды, — паказаў рукой гаалец, — бачыш вялікі камень?
+Вы прыгледзеліся і сапраўды выявілі нешта падобнае на вялікі чорны камень у гушчы джунгляў.
+- Я не адводжу ад яго позірку, бо варта мне гэта зрабіць, і ён зьнікне на пару тыдняў. Праверана на практыцы, — паведаміў гаалец. — Два гэтыя тыпы, ўнізе, не хочуць мне дапамагаць, думаюць, што я звар'яцеў, але гэта яны звар'яцелі, на самой справе.
+Вы пакінулі пры сабе меркаваньне, што яны ўсе трое звар'яцелі.
+- Увогуле, я б ужо даўно выбраўся, але калі я адвяду позірк — камень зьнікне, і мяне зжарэ якая-небудзь пачвара. Калі зможаш пазьбегнуць абеду з імі і прабярэсься ў нармальны сьвет — паведамі, калі ласка, пра наша няшчасьце."
 "/quests/Sibolusovt.qmm/locations/177/texts/0/text"	"- Хороший вопрос, - кивнул гаалец. - У нас тут в хранилище есть несколько колб с ядом ухоногих, думаю, одна из них окажется тебе нужной.
 - Это радует, - кивнули вы на прощанье гаальцу, и спустились с крыши."	"Quest Sibolusovt.qmm: locations.177.texts.0.text. Preserve every <tag> exactly. English reference: ""Good question,"" said the gaal, nodding. ""We have several bottles of long-eared poison here in the warehouse. You'll need one of them.""
-""That's wonderful news!"" you said, nodding goodbye to the gaal, and you descended from the roof."	"Quest,Sibolusovt"	""
+""That's wonderful news!"" you said, nodding goodbye to the gaal, and you descended from the roof."	"Quest,Sibolusovt"	"- Добрае пытаньне, — кіўнуў гаалец. — У нас тут у сховішчы ёсьць некалькі колбаў з атрутай вуханогіх, думаю, адна зь іх акажацца табе патрэбнай.
+- Гэта радуе, — кіўнулі вы на разьвітаньне гаальцу і спусьціліся з даху."
 "/quests/Sibolusovt.qmm/locations/178/texts/0/text"	"Вы окинули базу взглядом, на прощание, и побежали к выходу.
 За воротам туман оказался немного менее густым, и вы могли рассмотреть происходящее вокруг. Происходящее тоже вас рассмотрело, и принялось непринужденно подтягиваться поближе, жадно истекая слюной. Это послужило для вас дополнительным стимулом скорее добраться до цели.
 Вы резво набрали крейсерскую скорость и продолжили ваш бег к камню, который уже был отчетливо виден. Чтобы добраться до него, вам нужно было всего-то преодолеть небольшую круглую поляну, поросшую короткой травой. Страшного и большого зверя нигде не было видно. Вы уже обрадовались, было, но тут жуткий рев за вашей спиной растер в пыль ваши надежды на то, что все чудовища округи сегодня взяли выходной и уехали погостить к родственникам.
@@ -1399,14 +1419,24 @@ You accelerated to your maximum speed and tore across the meadow, drawing closer
 You ran sharply around the rock in a circle, secretly hoping that at least you would find a way back - but it was in vain. And while you were running around in circles, the monster noticed you and leapt right onto the rock, brandishing its horns, which were more like battering rams.
 Diving backward into protective shadows, you knew you were doomed. The monster charged the rock and smashed it with its horns. There was a roar, then a loud clap, and then everything went quiet.
 Puzzled, you listened carefully, expecting another trick from the diabolical creature - but all was quiet.
-Then you went back around the rock and observed that the monster had vanished without a trace. The rock had been split in two and, inside of it, some sort of mysterious gray substance  was fluttering in the wind. You had a bad feeling about it, but just then somebody's hand darted out of the substance and started dragging you inside the rock."	"Quest,Sibolusovt"	""
+Then you went back around the rock and observed that the monster had vanished without a trace. The rock had been split in two and, inside of it, some sort of mysterious gray substance  was fluttering in the wind. You had a bad feeling about it, but just then somebody's hand darted out of the substance and started dragging you inside the rock."	"Quest,Sibolusovt"	"Вы акінулі базу позіркам на разьвітаньне і пабеглі да выхаду.
+За брамай туман аказаўся трохі менш густым, і вы маглі разгледзець, што адбываецца наўкола. Тое, што адбываецца, таксама вас разгледзела і ўзялося ня змушана падцягвацца бліжэй, прагна сьцякаючы сьлінай. Гэта паслужыла вам дадатковым штуршком хутчэй дабрацца да мэты.
+Вы жвава набралі крэйсэрскую хуткасьць і працягнулі бег да каменя, які ўжо быў выразна бачны. Каб дабрацца да яго, вам трэба было ўсяго толькі пераадолець невялікую круглую паляну, парослую кароткай травой. Страшнага і вялікага зьвера нідзе не было відаць. Вы ўжо ўзрадаваліся былі, але тут жудасны рык за вашай сьпінай сьцёр у пыл вашы надзеі на тое, што ўсе пачвары навакольля сёньня ўзялі выходны і паехалі ў госьці да сваякоў.
+Вы паскорыліся да мяжы і панесьліся па паляне, набліжаючыся да мэты. Грук за вашай сьпінай не даваў вам засумнявацца ў тым, што вас пакінулі ў спакоі. І вось вы былі ўжо ў пары крокаў ад каменя... калі ў вашу галаву закралася думка: ""Нешта гэты роўны плоскі камень не вельмі падобны на ўваход у іншыя вымярэньні..."".
+Вы шпарка аббеглі камень па коле, употай спадзеючыся, што хоць там знойдзецца шлях назад, але дарэмна. А тым часам, пакуль вы бегалі коламі, пачварышча вас заўважыла і кінулася проста на камень, выставіўшы наперад рогі, больш падобныя на таран.
+Шмыгнуўшы назад, у ратавальную цень, вы зразумелі, што асуджаныя. Пачварышча дабегла да каменя, ударыла яго рагамі, раздаўся грук, потым гучны ляск, і ўсё сьціхла.
+Вы зьдзіўлена прыслухаліся, чакаючы чарговай хітрасьці ад пякельнай пачвары, але ўсё сьціхла.
+Тады вы абышлі камень назад і выявілі, што пачварышча бясьсьледна зьнікла, а камень расколаты, і ўсярэдзіне яго калышацца ад ветру нейкая загадкавая шэрая субстанцыя. Нядобрае прадчуваньне асьвяціла вас, але ў гэты самы момант з субстанцыі вылецела чыясьці рука і зацягнула вас унутр каменя."
 "/quests/Sibolusovt.qmm/locations/179/texts/0/text"	"Вы решительным движением выхватили пузырек из холодильника, выдернули пробку, зажмурились и вылили содержимое себе в рот.
 Спустя пару мгновений, вы почувствовали... ничего.
 Еще минута ожидания дала тот же результат.
 Через десять минут вы поняли, что вы не узнаете, подействовал ли на вас яд, покуда в самом деле не умрете. Посему, вы поставили пузырек на пол, развернулись, и вышли на улицу."	"Quest Sibolusovt.qmm: locations.179.texts.0.text. Preserve every <tag> exactly. English reference: In a decisive move, you grabbed the bottle from the refrigerator, yanked off the stopper, closed your eyes tight, and emptied its contents into your mouth.
 After a few moments you felt...nothing.
 Another minute of waiting produced the same result.
-After ten minutes you realized that you wouldn't know if the poison had worked on you unless you actually died. So you set the bottle on the floor, turned around, and went outside."	"Quest,Sibolusovt"	""
+After ten minutes you realized that you wouldn't know if the poison had worked on you unless you actually died. So you set the bottle on the floor, turned around, and went outside."	"Quest,Sibolusovt"	"Вы рашучым рухам выхапілі флякончык з халадзільніка, вырвалі корак, заплюшчыліся і вылілі зьмест сабе ў рот.
+Праз пару імгненьняў вы адчулі... нічога.
+Яшчэ хвіліна чаканьня дала той самы вынік.
+Праз дзесяць хвілінаў вы зразумелі, што не даведаецеся, ці падзейнічала на вас атрута, пакуль на самой справе не памраце. Таму вы паставілі флякончык на падлогу, разьвярнуліся і выйшлі на вуліцу."
 "/quests/Sibolusovt.qmm/locations/179/texts/1/text"	"Вы решительным движением выхватили пузырек из холодильника, выдернули пробку, зажмурились и вылили содержимое себе в рот.
 Спустя пару мгновений, вы почувствовали... ничего.
 Еще минута ожидания дала тот же результат.
