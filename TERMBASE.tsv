@@ -2871,7 +2871,7 @@ lemma.pavement	мостовая	pavement	брук		the stone roadway	https://sta
 lemma.puddle	лужа	puddle	лужа/лужах		L pl лужах	https://starnik.by/pravapis/40046
 lemma.hairstyle	прическа	hairstyle	прычоска/прычоску		A прычоску	https://starnik.by/pravapis/61014
 lemma.peasant	крестьянин	peasant	селянін		a villager	https://starnik.by/pravapis/68598
-lemma.gesture	жест	gesture	жэст/жэстаў/жэсту		G pl жэстаў; G sg жэсту	https://starnik.by/pravapis/26076
+lemma.gesture	жест	gesture	жэст/жэстаў/жэсту/жэсты		G pl жэстаў; G sg жэсту; N pl жэсты	https://starnik.by/pravapis/26076
 lemma.thanks	благодарность	thanks	падзяка/падзякі		G падзякі	https://starnik.by/pravapis/50541
 lemma.foolishness	глупость	foolishness	глупства/глупстваў		G pl глупстваў	https://starnik.by/pravapis/20068
 lemma.tired	усталый	tired	стомлены/стомлена		exhausted; adverb стомлена	https://starnik.by/pravapis/248743
@@ -3576,7 +3576,7 @@ lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сь�
 lemma.optical_focus	фокус	optical focus	фокус/фокусе/Фокус		monocle sharpness, sense 2; the concentration lemma is separate	https://starnik.by/pravapis/80592
 lemma.signal	сигнал	a signal	сыгнал/сыгналу/Сыгнал		hunspell ы; Starnik writes сігнал	https://starnik.by/pravapis/68956
 lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага/пілоцкім/пілоцкай		Starnik пілоцкі; hunspell lacks it and suggests пілёцкім; feminine пілоцкай	https://starnik.by/pravapis/139588
-lemma.primate	примат	animal primate	Прымат/прымат/прымата/прымату		the island animal; genitive прымата; dative прымату; Starnik 60405 is primacy, a different sense	—
+lemma.primate	примат	animal primate	Прымат/прымат/прымата/прымату/прыматам		the island animal; genitive прымата; dative прымату; instrumental прыматам; Starnik 60405 is primacy, a different sense	—
 lemma.mushroom	гриб	a mushroom	грыб/грыбоў		genitive plural грыбоў	https://starnik.by/pravapis/20888
 lemma.berry	ягода	a berry	ягада/ягад		genitive plural ягад	https://starnik.by/pravapis/88172
 lemma.foliage	листья	leaves	лісьце/лісток/лістка/лістоў		collective лісьце, Starnik лісце; diminutive лісток, genitive лістка; countable genitive plural лістоў	https://starnik.by/pravapis/39713
@@ -3973,7 +3973,7 @@ lemma.feline	кошка	a cat	котка/котку		feminine; regional headword
 lemma.perish_beast	издохнуть	to die, of a beast	здохнуць/здохла		sense 1, to die, of an animal; past f здохла	https://starnik.by/pravapis/184302
 lemma.sever	отрубить	to sever	адсекчы	адсячы	to cut off; Starnik lists адсекчы as the same word as адсячы; hunspell wants адсекчы	https://starnik.by/pravapis/168718
 lemma.stores	припас	stores	прыпас/прыпасаў		what has been laid by, sense 1; G pl прыпасаў	https://starnik.by/pravapis/60556
-lemma.impudent	наглый	impudent	нахабны/нахабнаму		brazen, of a person or a beast; D m нахабнаму; the noun is нахабнік	https://starnik.by/pravapis/127538
+lemma.impudent	наглый	impudent	нахабны/нахабнаму/нахабнага/нахабныя		brazen, of a person or a beast; D m нахабнаму; A m нахабнага; N pl нахабныя; the noun is нахабнік	https://starnik.by/pravapis/127538
 lemma.at_random	навскидку	at random	наўздагад	наўскідку	colloquial, at random, as it comes; the dictionary example is unaimed fire; наўскідку is a different word	https://starnik.by/pravapis/226306
 lemma.capable	суметь	to manage	здолець/здолела		to be able to do something, sense 1; past f здолела	https://starnik.by/pravapis/184296
 lemma.potshot	пальнуть	to take a shot	пульнуць/Пульнуць/пульнулі	пальнуць	one shot, perfective of паліць; past pl пульнулі; Starnik пальнуць; hunspell пульнуць	https://starnik.by/pravapis/197120
@@ -4101,3 +4101,12 @@ lemma.finger_hook	спуск	a trigger	спуск		the finger hook of a firearm,
 lemma.put_away	убрать	to put away	прыбраць/Прыбраць		to take something away from where it was, sense 3	https://starnik.by/pravapis/206548
 lemma.weapon	оружие	a weapon	зброя/зброю		a thing for attack or defense, sense 1; accusative зброю	https://starnik.by/pravapis/28366
 lemma.ones_own	свой	one's own	свой/сваім		instrumental masculine сваім	https://starnik.by/pravapis/234010
+lemma.recall	вспомнить	to recall	узгадаць/Узгадаўшы		to bring back to mind; gerund Узгадаўшы; hunspell suggestions are other words	https://starnik.by/pravapis/216648
+lemma.whip_out	выхватить	to whip out	выхапіць/Выхапіць/выхапілі		to draw something out in an instant, sense 1; past plural выхапілі	https://starnik.by/pravapis/174846
+lemma.slit_kill	прирезать	to cut down	прырэзаць/Прырэзаць		to finish by cutting the throat, sense 1	https://starnik.by/pravapis/207716
+lemma.identical	идентичный	identical	ідэнтычны		the very same, bookish	https://starnik.by/pravapis/115313
+lemma.burst_laugh	рассмеяться	to burst out laughing	расьсьмяяцца		to start laughing out loud; Starnik рассмяяцца; hunspell inserts ь	https://starnik.by/pravapis/210902
+lemma.brazen_act	наглеть	to act brazenly	нахабнічаць		colloquial, to behave brazenly	https://starnik.by/pravapis/191234
+lemma.dare_not	неповадно	lest one dare	непавадна		predicative in каб непавадна было; Starnik NONE; hunspell suggestions are other words	—
+lemma.hand_over	отдать	to hand over	аддаць/Аддаць		to give something to someone, sense 2	https://starnik.by/pravapis/167485
+lemma.give_to	дать	to give	даць/Даць		to let someone have something	https://starnik.by/pravapis/177465
