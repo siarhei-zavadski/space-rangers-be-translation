@@ -2581,7 +2581,7 @@ lemma.panic_noun	паника	panic	паніка/панікі/паніцы		N п
 lemma.destruction	разрушение	destruction	разбурэньне/разбурэньня/разбурэньняў	разбурэнне	hunspell ь; Starnik разбурэнне; G pl разбурэньняў	https://starnik.by/pravapis/62988
 lemma.mortality	смертность	mortality	сьмяротнасьць/сьмяротнасьці	смяротнасць	hunspell сь/ь; Starnik смяротнасць	https://starnik.by/pravapis/70592
 lemma.direction	направление	direction	кірунак/кірунку		same as напрамак, sense 1; G кірунку	https://starnik.by/pravapis/35682
-lemma.south	юг	south	поўдзень/поўдня		cardinal, sense 1; G поўдня	https://starnik.by/pravapis/58055
+lemma.south	юг	south	поўдзень/поўдня/поўдні		cardinal, sense 1; G поўдня; locative поўдні	https://starnik.by/pravapis/58055
 lemma.north	север	north	поўнач/поўначы		cardinal, sense 1	https://starnik.by/pravapis/58067
 lemma.east	восток	east	усход/усходу/усходзе		cardinal, sense 2; G усходу, L усходзе	https://starnik.by/pravapis/78974
 lemma.south_adj	южный	southern	паўднёвы/паўднёвага		of the south	https://starnik.by/pravapis/137200
@@ -3621,3 +3621,7 @@ lemma.fraer_stammer	хлю	broken show-off	хлю		the proverb starts хлюст
 lemma.credits_title	Увольвокскечу	coined title	Увольвокскечу		the fake film title in the empty-location credits	—
 lemma.credits_sign	ШПАКиК	a signature	ШПАКиК		the credits signature; hunspell suggests the different word Шпак	—
 lemma.lenin_hinge	Ленинашарнирах	coined return	Ленінашарнірах		one token, Lenin plus шарнірах; hunspell wants two words	—
+lemma.limb	конечность	a limb	канцавіна/канцавінах		locative plural канцавінах; hunspell suggestions are other words	https://starnik.by/pravapis/33327
+lemma.sunken_verb	затонуть	to sink	затануць/затанулы		Starnik затануць; hunspell rejects затонулы	https://starnik.by/pravapis/182358
+lemma.eightpaw	восьмилап	eight-paw	васьмілап		the coined eight-legged beast; hunspell splits it	—
+lemma.barrack_style	баракко	barracks-baroque	баракко		the settlement's style, барак blended with барока; hunspell suggestions are other words	—
