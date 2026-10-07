@@ -758,40 +758,51 @@ Unfortunately, there was nothing else interesting in the room..."	"Quest,Sibolus
 "/quests/Sibolusovt.qmm/locations/97/texts/0/text"	"Итак, первая цифра набрана, какая следующая?"	"Quest Sibolusovt.qmm: locations.97.texts.0.text. Preserve every <tag> exactly. English reference: So, the first number has been entered. What's next?"	"Quest,Sibolusovt"	"Такім чынам, першая лічба набраная, якая наступная?"
 "/quests/Sibolusovt.qmm/locations/99/texts/0/text"	"Вторая цифра набрана, осталась третья..."	"Quest Sibolusovt.qmm: locations.99.texts.0.text. Preserve every <tag> exactly. English reference: That's the second number. Just one more..."	"Quest,Sibolusovt"	"Другая лічба набраная, засталася трэцяя..."
 "/quests/Sibolusovt.qmm/locations/100/texts/0/text"	"Шифр был набран, осталось проверить, правильно ли он набран..."	"Quest Sibolusovt.qmm: locations.100.texts.0.text. Preserve every <tag> exactly. English reference: The code has been entered. Now you just need to verify that it is the correct code..."	"Quest,Sibolusovt"	"Шыфр быў набраны, засталося праверыць, ці правільна ён набраны..."
-"/quests/Sibolusovt.qmm/locations/102/texts/0/text"	"Вы, мгновенно приняв решение, бросились бежать, однако человек оказался быстрее, и, обогнав вас, снова перегородил путь, бурча что-то под нос..."	"Quest Sibolusovt.qmm: locations.102.texts.0.text. Preserve every <tag> exactly. English reference: In an instant you had made up your mind - you began running, but the somebody turned out to be faster. He ran in front of you and again blocked your path, muttering something under his breath..."	"Quest,Sibolusovt"	""
+"/quests/Sibolusovt.qmm/locations/102/texts/0/text"	"Вы, мгновенно приняв решение, бросились бежать, однако человек оказался быстрее, и, обогнав вас, снова перегородил путь, бурча что-то под нос..."	"Quest Sibolusovt.qmm: locations.102.texts.0.text. Preserve every <tag> exactly. English reference: In an instant you had made up your mind - you began running, but the somebody turned out to be faster. He ran in front of you and again blocked your path, muttering something under his breath..."	"Quest,Sibolusovt"	"Вы, імгненна вырашыўшы, кінуліся бегчы, аднак чалавек аказаўся хутчэйшы і, абагнаўшы вас, зноў перагарадзіў шлях і забурчаў нешта сабе пад нос..."
 "/quests/Sibolusovt.qmm/locations/103/texts/0/text"	"Вы прошли в дальний угол и вытащили на свет божий бензопилу.
 Грохот мотора разнесся по окрестностям, когда пила заработала.
 Вы воинственно потрясли ей над головой, и подошли к столу..."	"Quest Sibolusovt.qmm: locations.103.texts.0.text. Preserve every <tag> exactly. English reference: You went into the far corner and dragged out a chainsaw.
 The roar of the motor spread through the vicinity as you started it up.
-You shook it over your head menacingly and approached the table..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/104/texts/0/text"	"Вы вынесли тушку зверька в хранилище, чтобы доброе не пропадало, и снова направились в лес..."	"Quest Sibolusovt.qmm: locations.104.texts.0.text. Preserve every <tag> exactly. English reference: You carried the animal's carcass into the storehouse so it wouldn't go bad, and headed back into the forest..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/105/texts/0/text"	"- Операция проходит успешно. - Успокоили вы сам себя, оглядывая заляпанный кровью халат..."	"Quest Sibolusovt.qmm: locations.105.texts.0.text. Preserve every <tag> exactly. English reference: ""The operation was a success,"" you said, reassuring yourself as you looked over your blood-stained operating coat..."	"Quest,Sibolusovt"	""
+You shook it over your head menacingly and approached the table..."	"Quest,Sibolusovt"	"Вы прайшлі ў дальні кут і выцягнулі на божы сьвет бэнзапілу.
+Грукат матора разьнёсься па ваколіцах, калі піла запрацавала.
+Вы ваяўніча патрэсьлі ёю над галавой і падышлі да стала..."
+"/quests/Sibolusovt.qmm/locations/104/texts/0/text"	"Вы вынесли тушку зверька в хранилище, чтобы доброе не пропадало, и снова направились в лес..."	"Quest Sibolusovt.qmm: locations.104.texts.0.text. Preserve every <tag> exactly. English reference: You carried the animal's carcass into the storehouse so it wouldn't go bad, and headed back into the forest..."	"Quest,Sibolusovt"	"Вы вынесьлі тушку зьвярка ў сховішча, каб дабро не прападала, і зноў накіраваліся ў лес..."
+"/quests/Sibolusovt.qmm/locations/105/texts/0/text"	"- Операция проходит успешно. - Успокоили вы сам себя, оглядывая заляпанный кровью халат..."	"Quest Sibolusovt.qmm: locations.105.texts.0.text. Preserve every <tag> exactly. English reference: ""The operation was a success,"" you said, reassuring yourself as you looked over your blood-stained operating coat..."	"Quest,Sibolusovt"	"- Апэрацыя праходзіць пасьпяхова. — Супакоілі вы самі сябе, аглядаючы заляпаны крывёю халат..."
 "/quests/Sibolusovt.qmm/locations/106/texts/0/text"	"Вы быстро приготовили противоядие по схеме, которую нашли в ящике операционного стола, и через двадцать минут вашей жизни ничего не угрожало.
 А ещё через пять минут вы почувствовали, что это противоядие неслабо вставляет, так как вы внезапно почувствовали себя так, будто выпили десять стаканов втыкиллы без закуски.
 Тут снаружи послышались шаги. Это был гаалец биолог..."	"Quest Sibolusovt.qmm: locations.106.texts.0.text. Preserve every <tag> exactly. English reference: You quickly prepared the antidote according to the instructions you found in the operating table drawer, and twenty minutes later your life was no longer in danger.
 Five minutes after that you could tell the antidote was powerful stuff, because you suddenly felt as if you had downed ten shots of vtequila without any snacks.
-Just then you heard steps outside. It was the gaalian biologist..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/108/texts/0/text"	"Вы решили не забивать себе голову и сделать всё самостоятельно..."	"Quest Sibolusovt.qmm: locations.108.texts.0.text. Preserve every <tag> exactly. English reference: You decided to not give it another thought, opting instead to work alone..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/109/texts/0/text"	"- Хорошо, - Согласился абориген, пряча дубину. - Можно и как цивилизованные..."	"Quest Sibolusovt.qmm: locations.109.texts.0.text. Preserve every <tag> exactly. English reference: ""Okay,"" agreed the native, hiding his club. ""Let's do this like civilized..."	"Quest,Sibolusovt"	""
+Just then you heard steps outside. It was the gaalian biologist..."	"Quest,Sibolusovt"	"Вы хутка прыгатавалі супрацьядзьдзе па схеме, якую знайшлі ў скрыні апэрацыйнага стала, і праз дваццаць хвілін вашаму жыцьцю нічога не пагражала.
+А яшчэ праз пяць хвілін вы адчулі, што гэтае супрацьядзьдзе няслаба б'е ў галаву, бо вы раптам адчулі сябе так, быццам выпілі дзесяць шклянак втыкілы без закускі.
+Тут звонку пачуліся крокі. Гэта быў гаалец-біёляг..."
+"/quests/Sibolusovt.qmm/locations/108/texts/0/text"	"Вы решили не забивать себе голову и сделать всё самостоятельно..."	"Quest Sibolusovt.qmm: locations.108.texts.0.text. Preserve every <tag> exactly. English reference: You decided to not give it another thought, opting instead to work alone..."	"Quest,Sibolusovt"	"Вы вырашылі не ламаць сабе галаву і зрабіць усё самі..."
+"/quests/Sibolusovt.qmm/locations/109/texts/0/text"	"- Хорошо, - Согласился абориген, пряча дубину. - Можно и как цивилизованные..."	"Quest Sibolusovt.qmm: locations.109.texts.0.text. Preserve every <tag> exactly. English reference: ""Okay,"" agreed the native, hiding his club. ""Let's do this like civilized..."	"Quest,Sibolusovt"	"- Добра, — Пагадзіўся тубылец, хаваючы дубіну. — Можна і як цывілізаваныя..."
 "/quests/Sibolusovt.qmm/locations/109/texts/1/text"	"Вы суеверно осенили себя крестным знамением...
 Что? - Прохрипел абориген. - Это кого ты тут нечистым назвал? Аггрррххх! Мои предки потерпели крушение на этой планете, и с тех пор наш род живет здесь!"	"Quest Sibolusovt.qmm: locations.109.texts.1.text. Preserve every <tag> exactly. English reference: You crossed yourself superstitiously...
-""What?"" croaked the native. ""Who are you callin' evil? Arrrrgghhh! My ancestors suffered ruin on this planet, but our family is still kicking!"""	"Quest,Sibolusovt"	""
+""What?"" croaked the native. ""Who are you callin' evil? Arrrrgghhh! My ancestors suffered ruin on this planet, but our family is still kicking!"""	"Quest,Sibolusovt"	"Вы забабонна перахрысьціліся...
+- Што? — Прахрыпеў тубылец. — Гэта каго ты тут нячыстым назваў? Аггрррххх! Мае продкі пацярпелі крушэньне на гэтай плянэце, і з таго часу наш род жыве тут!"
 "/quests/Sibolusovt.qmm/locations/109/texts/2/text"	"Вы бросились на шею аборигена, и принялись орошать его слезами радости.
 В слёзах недостатка у вас не было, так как трусили вы изрядно.
 Абориген похлопал вас по плечу, явно ничего не понимая..."	"Quest Sibolusovt.qmm: locations.109.texts.2.text. Preserve every <tag> exactly. English reference: You threw yourself onto the native's neck and began to spray him with tears of joy.
 And you had no shortage of tears, since crying came so naturally to you.
-The native tapped you on the shoulder, clearly bewildered..."	"Quest,Sibolusovt"	""
+The native tapped you on the shoulder, clearly bewildered..."	"Quest,Sibolusovt"	"Вы кінуліся на шыю тубыльца і пачалі абліваць яго сьлязьмі радасьці.
+У сьлёз вам не бракавала, бо трусілі вы нямала.
+Тубылец паляпаў вас па плячы, яўна нічога не разумеючы..."
 "/quests/Sibolusovt.qmm/locations/110/texts/0/text"	"- Что? - Переспросил абориген.
 - Урод ты, я говорю. - Повторили вы.
 - Да ты, я вижу, совсем сбрендил. - Рассердился человек..."	"Quest Sibolusovt.qmm: locations.110.texts.0.text. Preserve every <tag> exactly. English reference: ""What?"" the native asked again.
 ""I said you're a freak,"" you repeated.
-""And I can see you're completely off your rocker,"" responded the man angrily..."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/110/texts/1/text"	"- Я не понял, ты ещё и заставляешь меня придумывать тему для разговора? - Рассердился абориген."	"Quest Sibolusovt.qmm: locations.110.texts.1.text. Preserve every <tag> exactly. English reference: ""I don't get it. Are you still waiting for me to come up with something to talk about?"" said the native angrily."	"Quest,Sibolusovt"	""
+""And I can see you're completely off your rocker,"" responded the man angrily..."	"Quest,Sibolusovt"	"- Што? — Перапытаў тубылец.
+- Вырадак ты, я кажу. — Паўтарылі вы.
+- Ды ты, я бачу, зусім з глузду зьехаў. — Раззлаваўся чалавек..."
+"/quests/Sibolusovt.qmm/locations/110/texts/1/text"	"- Я не понял, ты ещё и заставляешь меня придумывать тему для разговора? - Рассердился абориген."	"Quest Sibolusovt.qmm: locations.110.texts.1.text. Preserve every <tag> exactly. English reference: ""I don't get it. Are you still waiting for me to come up with something to talk about?"" said the native angrily."	"Quest,Sibolusovt"	"- Я не зразумеў, ты яшчэ і прымушаеш мяне прыдумляць тэму для размовы? — Раззлаваўся тубылец."
 "/quests/Sibolusovt.qmm/locations/110/texts/2/text"	"- А что о ней говорить? - Удивился человек. - Погода как погода. У нас всегда так.
 - А у нас нет. - Мечтательно ответили вы. - У нас бывают зимы, проливные дожди, засухи, и прочие катаклизмы...
 - Какие ещё клизмы? - Не понял абориген."	"Quest Sibolusovt.qmm: locations.110.texts.2.text. Preserve every <tag> exactly. English reference: ""What is there to say about it?"" wondered the man. ""Weather is weather. It's always like this here.""
 ""Well, not where I come from,"" you replied with a distant look in your eyes. ""We have winters, pouring rain, droughts, and other cataclysms...""
-""Cata-whatsyms?"" asked the native."	"Quest,Sibolusovt"	""
+""Cata-whatsyms?"" asked the native."	"Quest,Sibolusovt"	"- А што пра яе казаць? — Зьдзівіўся чалавек. — Надвор'е як надвор'е. У нас заўсёды так.
+- А ў нас няма. — Мройліва адказалі вы. — У нас бываюць зімы, праліўныя дажджы, засухі і іншыя катаклізмы...
+- Якія яшчэ клізмы? — Не зразумеў тубылец."
 "/quests/Sibolusovt.qmm/locations/111/texts/0/text"	"- Что?! - Свирепо переспросил абориген. - Да как ты смеешь такое спрашивать у бессмертного?
 - Извините, - Смутились вы. - Я не знал, что вы бессмертен.
 - Я получил на этой планете бессмертие! Бу-го-га!
