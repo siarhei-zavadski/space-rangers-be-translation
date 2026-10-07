@@ -1154,7 +1154,7 @@ lemma.mongoose	мангуст	mongoose	Мангуст/мангуст/Мангу�
 lemma.sequoia	секвойя	sequoia	секвоя/секвоі	секвойі	bedpost wood; Starnik spelling, hunspell suggestions are unrelated	https://starnik.by/pravapis/68453
 lemma.chrombyte	хробайтовый	chrombyte	хробайтавыя		coined hull alloy	Evilgenius.qmm
 lemma.pseudoneuron	псевдонейронный	pseudoneural	псеўданэйронныя/Псеўданэйронныя		coined control boards	Evilgenius.qmm
-lemma.granek	гранэкский	Granek	гранэкскай		fictional wood	Evilgenius.qmm
+lemma.granek	гранэкский	Granek	гранэкскай/гранэкскія		fictional wood	Evilgenius.qmm
 lemma.ramgatr	рамгатрский	Ramgatr	рамгатрскага		fictional wood	Evilgenius.qmm
 lemma.mumble	Фто-то	mumbled	Нефта/зафтрала/вубоў		mouth full of the transmitter; the garble stays	Evilgenius.qmm
 lemma.evil_places	Эйслэнд	place names	Эйслэнд/Гелітаўн/Леасанія/Пяткінск/Дрэйкбург/Лайт/Брынг/Сіці		city buttons in Evilgenius	Evilgenius.qmm
@@ -2467,7 +2467,7 @@ lemma.terrorism	терроризм	terrorism	тэрарызм/тэрарызьм
 lemma.dossier	досье	dossier	дасье		a file of papers; indeclinable	https://starnik.by/pravapis/22218
 lemma.antiterror	антитеррористический	antiterrorist	антытэрарыстычную		A f; hunspell lacks the adjective	https://starnik.by/pravapis/95949
 lemma.helfer	Хелфер	Helfer	Хелфер		the Venus hospital	Proprolog.qmm
-lemma.hmm	хмм	hmm	Хмм		Raphael's hum, kept from the source	Proprolog.qmm
+lemma.hmm	хмм	hmm	Хмм/Хммм		Raphael's hum, kept from the source	Proprolog.qmm
 lemma.konnichi	коннити	konnichi	Конніці		the greeting Конніці-ва; hunspell splits the hyphen	Proprolog.qmm
 lemma.rabble	шваль	rabble	зброд/зброду		dangerous riffraff; G зброду	https://starnik.by/pravapis/28357
 lemma.incorrigible	отъявленный	hardened	адпеты/адпетым		incorrigible; D pl адпетым	https://starnik.by/pravapis/235136
@@ -4130,7 +4130,7 @@ lemma.nonbeing	небытие	nonbeing	нябыт		absence of being; A нябы�
 lemma.armor_vest	бронежилет	armored vest	бронежылет/бронежылеце	бронемашын	a vest of armor; hunspell suggests бронемашын, a different word	https://starnik.by/pravapis/11515
 lemma.armorclad	броневой	armored	бранявы		relative adjective	https://starnik.by/pravapis/99943
 lemma.elude	ускользать	to slip away	высьлізгваць/высьлізгвае		imperfective of высьлізнуць; Starnik выслізгваць; hunspell inserts ь; 3sg высьлізгвае	https://starnik.by/pravapis/174406
-lemma.bukazoid	Буказоиды	bukazoids	Буказоіды/буказоідаў/Буказоідаў/буказоіды	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
+lemma.bukazoid	Буказоиды	bukazoids	Буказоіды/буказоідаў/Буказоідаў/буказоіды/буказоід	Буракаводы; бяка	the quest currency; coined; hunspell suggests Буракаводы, a different word	—
 lemma.pseudodeath	псевдосмерть	pseudo-death	псэўдасьмерць/псэўдасьмерці	псэўданароднасьці	coined compound, псэўда- plus сьмерць; G псэўдасьмерці; hunspell suggests a different word	—
 lemma.futile	безуспешно	in vain	марна		adverb of марны, sense 1	https://starnik.by/pravapis/225542
 lemma.distant	дальний	distant	далёкі/Далёкі		at a great distance, sense 1; the opposite of блізкі	https://starnik.by/pravapis/107945
@@ -4171,7 +4171,7 @@ lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/А�
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
 lemma.ben_npc	Бен	Ben	Бэн		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
 lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса		the elder who fights for the good; hunspell suggestions are other words	—
-lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
+lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер/Кааттера		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
 lemma.three_legged	трехногий	three-legged	трохногі/трохногага		on three legs; G m animate трохногага	https://starnik.by/pravapis/154863
 lemma.fever	лихорадка	a fever	ліхаманка/Ліхаманка		feverish hurried activity, sense 3; the example is біржавая ліхаманка	https://starnik.by/pravapis/39835
 lemma.gilt	золотой	golden	залаты/залатая/Залатая		made of gold, sense 1; N f залатая	https://starnik.by/pravapis/112214
@@ -4260,3 +4260,4 @@ lemma.drawl_worm	червяк	a drawn-out worm	чарррвяк		the stretched i
 lemma.lawful_good	лоуфулгудовый	lawful good	лоўфулгудавыя		the smashed D&D alignment; hunspell suggestions are other words	—
 lemma.must_die	мастдайный	must-die	мастдайны		the faeyan's gamer adjective; hunspell suggestions are other words	—
 lemma.redpeace	Редпис	Redpeace	Рэдпіс		the Greenpeace joke; hunspell suggests Подпіс, another word	—
+lemma.sprite	спрайтовый	sprite	спрайтавай		the game-dev grass; hunspell suggestions are other words	—
