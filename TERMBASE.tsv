@@ -653,7 +653,7 @@ lemma.hab	Хаб	Hab	Хаб		faeyan professor; keep	Jumper.qmm
 lemma.teleporter_dev	телепортатор	teleport	тэлепартатар/тэлепартатара/тэлепартатарам/ТЭЛЕПАРТАТАРАМ		portable one-shot return; G тэлепартатара I тэлепартатарам; the rules poster is in caps	Jumper.qmm; RobotsMap already
 lemma.aerotaxi	аэротакси	aerocab	аэратаксі		loan; Jumper.qmm	—
 lemma.quanga	кванга	quanga	кванга/квангі		invented fruit; A квангу	Jumper.qmm
-lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў/мэнзола		invented folk; G мэнзола	Jumper.qmm
+lemma.menzol	мензол	Menzol	мэнзол/мэнзольскай/мэнзолаў/мэнзола/мэнзолам/мэнзоламі/мэнзолу/мэнзолы/мэнзольскі		invented folk; G мэнзола	Jumper.qmm
 lemma.bellypotamus	брюхопотам	bellypotamus	брухапатам		joke hippo; G брухапатама	Jumper.qmm
 lemma.jumpling	попрыгаец	jumpling	папрыгайка		Venerian jumpling; A папрыгайку	Jumper.qmm
 lemma.jumpawaian	прыгавайцы	jumpawaiians	скакавайцы		invented jump-insect	Jumper.qmm
@@ -1642,7 +1642,7 @@ lemma.vobred	Вобред	Vobred	Вобрэд		gaal poet surname	Complex.qmm
 lemma.trubidze	Трубидзе	Trubidze	Трубідзэ		joke academician	Complex.qmm
 lemma.ravoy	Равой	Ravoy	Равой		joke almanac author	Complex.qmm
 lemma.poirot	Эркюль Пуаро	Hercule Poirot	Эркюль/Эркюлем/Пуаро		literary detective; hunspell gap	Complex.qmm
-lemma.mccallister	маккалистер	McCallister	маккалистер/Маккалистера		frozen terminal password	Complex.qmm
+lemma.mccallister	маккалистер	McCallister	маккалистер/Маккалистера/Маккалистер		frozen terminal password	Complex.qmm
 lemma.fullvalue	Полноценность	full value	Паўнацэннасьць		mining complex; Starnik паўнацэнны sense 2	https://starnik.by/pravapis/137381
 lemma.shukheo	Шухэо	Shukheo	Шухэо		peleng planet; already PlanetName	PlanetName.tsv
 lemma.pentis	Пентис	Pentis	Пентис		paleolithic terminal game, Tetris parody	Complex.qmm
@@ -4270,3 +4270,9 @@ lemma.gravcomp	гравикомпенсация	gravity compensation	граві�
 lemma.card_kon	кон	a round of a game	кон/кону/конаў		one round or the stake, sense 2; G pl конаў	https://starnik.by/pravapis/36378
 lemma.card_heart	черви	hearts	чырва/чырвы/чырваў		the hearts suit; G pl чырваў; see чырвы	https://starnik.by/pravapis/84393
 lemma.card_bell	бубны	diamonds	звонкі/звонка/званковы		the diamonds suit; Starnik звонкі, adjective званковая масць	https://starnik.by/pravapis/28524
+lemma.schooling	образование	schooling	адукацыя/адукацый		higher learning, sense 2; G pl адукацый; hunspell lacks the plural	https://starnik.by/pravapis/2885
+lemma.star_atlan	Атлан	Atlan	Атлан		a star name; hunspell suggestions are other words	—
+lemma.bohoz_gaal	Бооз	Bohoz	Бооз/Бооза		a gaal planet; G Бооза; hunspell suggestions are other words	—
+lemma.doolki_name	Доолки	Doolki	Доолкі		a coined ranger name; hunspell suggestions are another word	—
+lemma.laenni_ga	Лаенни	Laenni	Лаенні		a coined ranger name in Лаенні-Га; hunspell suggestions are another word	—
+lemma.pekhi	Пехи	Pekhi	Пехі		a peleng name token, as in Пехі Дан; hunspell suggestions are other words	—
