@@ -526,7 +526,7 @@ lemma.overtone	обертон	overtone	абэртон		tuner puzzle type; Player
 lemma.bungalo	Бунгало	Bungalo	Бунгало		maloq thug; Disk.qmm	—
 lemma.galdolbon	Галдолбон	Galdolbon	Галдолбон		gaal trigger word; Disk.qmm	—
 lemma.perepelenok	Жареный перепеленок	Fried quail-chick	Смажаны перапялёнак		Disk.qmm password; keep joke	—
-lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра/лязэрнай/лязэрнага		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
+lemma.laser	лазер	laser	лязэр/лязэра/лязэрам/лязэры/Лязэр/Лязэра/лязэрнай/лязэрнага/лязэрную/ЛЯЗЭРНУЮ		equipment lock; I лязэрам; G Лязэра; L лязэры; robots.dat / QMM turrets	—
 lemma.turret	турель	turret	турэль		defense gun; pl турэлі, турэляў	—
 lemma.machinegun	пулемёт	machinegun	кулямёт		weapon lock	—
 lemma.cyborg	киборг	cyborg	кіборг/кіборга/кіборгі/кіборгаў/кіборгамі/Кіборг/кіборгу		QMM combat unit; hunspell gap; D кіборгу	—
@@ -1155,7 +1155,7 @@ lemma.sequoia	секвойя	sequoia	секвоя/секвоі	секвойі	be
 lemma.chrombyte	хробайтовый	chrombyte	хробайтавыя		coined hull alloy	Evilgenius.qmm
 lemma.pseudoneuron	псевдонейронный	pseudoneural	псеўданэйронныя/Псеўданэйронныя		coined control boards	Evilgenius.qmm
 lemma.granek	гранэкский	Granek	гранэкскай/гранэкскія		fictional wood	Evilgenius.qmm
-lemma.ramgatr	рамгатрский	Ramgatr	рамгатрскага		fictional wood	Evilgenius.qmm
+lemma.ramgatr	рамгатрский	Ramgatr	рамгатрскага/рамгатрскія		fictional wood	Evilgenius.qmm
 lemma.mumble	Фто-то	mumbled	Нефта/зафтрала/вубоў		mouth full of the transmitter; the garble stays	Evilgenius.qmm
 lemma.evil_places	Эйслэнд	place names	Эйслэнд/Гелітаўн/Леасанія/Пяткінск/Дрэйкбург/Лайт/Брынг/Сіці		city buttons in Evilgenius	Evilgenius.qmm
 lemma.hell_machine	Адская Машина	Hell Machine	Пякельная/Пякельнай/Пякельную	Адская	doomsday device; the HUD abbreviation АМ stays	https://starnik.by/pravapis/144139
@@ -4322,3 +4322,8 @@ lemma.gyrate	кружить	to circle	кружыць/кружачы		to move in 
 lemma.grenade_pin	чека	a grenade pin	чэка/чэку		the pin that arms a grenade; Starnik чака/чаку, hunspell чэка/чэку; already shipped as чэку	https://starnik.by/pravapis/83764
 lemma.shrapnel	осколок	shrapnel	асколак/асколкамі		a piece broken off, including a grenade splinter; I pl асколкамі; not the crystal аскепак	https://starnik.by/pravapis/6528
 lemma.cloth_roll	рулон	a roll	рулён/рулёнаў/рулёнамі		cloth or paper rolled into a tube; Starnik рулонаў, hunspell рулёнаў; G pl рулёнаў, I pl рулёнамі	https://starnik.by/pravapis/65041
+lemma.stripling	детина	a strapping lad	дзяцюк/дзецюка/дзецюку/дзецюком		a lad, colloquial; A and G дзецюка, D дзецюку, I дзецюком	https://starnik.by/pravapis/23094
+lemma.leghook	подножка	a trip	падножка/падножку/падножкі		a foot swept under someone's leg to throw him, sense 2; A падножку; not the base падножжа	https://starnik.by/pravapis/50842
+lemma.cudgel	дубина	a cudgel	дубіна/дубіну/дубінай		a thick club, sense 1; also a dull person, sense 2; A дубіну, I дубінай	https://starnik.by/pravapis/23655
+lemma.cobra	кобра	a cobra	кобра/кобры		the venomous snake; N pl кобры	https://starnik.by/pravapis/36225
+lemma.flak	зенитный	anti-aircraft	зэнітны/зэнітную		made to fire at aircraft, sense 2; Starnik зенітны, hunspell зэнітны; A f зэнітную	https://starnik.by/pravapis/114378
