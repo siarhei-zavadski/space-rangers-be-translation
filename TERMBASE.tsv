@@ -2048,7 +2048,7 @@ lemma.stretch_you	тыыы	stretched you	Тыыы		the ranger stretches ты	—
 lemma.pad_gee	джи	landing pad gee	джы		pad джы-сем; сем is seven	—
 lemma.attacker	нападник	attacker	Нападнікі/нападнікаў		Starnik N pl нападнікі; hunspell wants another word	https://starnik.by/pravapis/45921
 lemma.armorglass	бронестекло	armor glass	браняшкла		Starnik браняшкло, G браняшкла; hunspell splits it	https://starnik.by/pravapis/11394
-lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты/Сібалусаўт/сіба/сібалусаўту		coined beast; N pl сібалусаўты, G pl сібалусаўтаў; D сібалусаўту; capital singular is a hunspell gap	—
+lemma.sibolusovt	сиболусовт	sibolusovtus	сібалусаўт/сібалусаўта/сібалусаўты/сібалусаўтаў/Сібалусаўты/Сібалусаўт/сіба/сібалусаўту/сібалусаўтам		coined beast; N pl сібалусаўты, G pl сібалусаўтаў; D сібалусаўту; I сібалусаўтам; capital singular is a hunspell gap	—
 lemma.verpenchekrak	верпенчекряк	verpenchecrak	вэрпэнчэкрак		coined night-park beast; пэнчэкрак already	—
 lemma.haapt_balls	Шарики Хаапта	Haapt balls	Шарыкі/Хаапта/Хаапт		street-mugger password; Хаапт is the name	—
 lemma.windows	Виндовс	Windows	Віндоўс		shelf title; the letter is on Усталяваньне	—
@@ -3290,7 +3290,7 @@ lemma.brisk	бодро	briskly	бадзёра		lively, energetic	https://starnik
 lemma.altar	алтарь	altar	алтар		the stone of a rite	https://starnik.by/pravapis/4066
 lemma.throne	трон	throne	трон		a monarch's seat	https://starnik.by/pravapis/75803
 lemma.honor	честь	honor	гонар		dignity and glory, senses 1–2	https://starnik.by/pravapis/20368
-lemma.yank	дергать	yank	тузаць/тузайцеся		to jerk, sense 1; stress ту́заць so ня тузайцеся	https://starnik.by/pravapis/215669
+lemma.yank	дергать	yank	тузаць/тузайцеся/патузаць		to jerk, sense 1; stress ту́заць so ня тузайцеся; perfective патузаць	https://starnik.by/pravapis/215669
 lemma.cherished	заветный	cherished	запаветны/запаветнай		dearly held, long awaited, sense 1	https://starnik.by/pravapis/112545
 lemma.shot	выстрел	shot	стрэл/стрэлы		a firearm discharge; not the arrow страла	https://starnik.by/pravapis/72452
 lemma.revive	очнуться	come to	апрытомнець/апрытомнелі		to regain consciousness	https://starnik.by/pravapis/170173
@@ -3562,3 +3562,5 @@ lemma.lifeless	бездыханный	lifeless	бяздыханную		not breat
 lemma.whirlpool	омут	a whirl	вір/вірах		a deep whirl in a river, sense 1; locative plural вірах	https://starnik.by/pravapis/14738
 lemma.reed	камыш	reeds	чарот		a tall sedge in river water, sense 1; трыснёг is also a reed	https://starnik.by/pravapis/83990
 lemma.notskats	Йа-Ноцкац	Aye-Notskats	Я-Ноцкац/Ноцкац		coined river in the documentary cut; English Aye-Notskats	—
+lemma.pouch	мешочек	a little sack	мяшэчак/мяшэчка		diminutive of мяшок; Starnik also lists мяшочак	https://starnik.by/pravapis/45100
+lemma.inquisitor	инквизитор	an inquisitor	інквізытар	інквізітар	a cruel tormentor, sense 2; Starnik інквізітар, hunspell writes ы	https://starnik.by/pravapis/30838
