@@ -3621,7 +3621,7 @@ lemma.fraer_stammer	хлю	broken show-off	хлю		the proverb starts хлюст
 lemma.credits_title	Увольвокскечу	coined title	Увольвокскечу		the fake film title in the empty-location credits	—
 lemma.credits_sign	ШПАКиК	a signature	ШПАКиК		the credits signature; hunspell suggests the different word Шпак	—
 lemma.lenin_hinge	Ленинашарнирах	coined return	Ленінашарнірах		one token, Lenin plus шарнірах; hunspell wants two words	—
-lemma.limb	конечность	a limb	канцавіна/канцавінах		locative plural канцавінах; hunspell suggestions are other words	https://starnik.by/pravapis/33327
+lemma.limb	конечность	a limb	канцавіна/канцавінах/канцавінамі		locative plural канцавінах; I pl канцавінамі; hunspell suggestions are other words	https://starnik.by/pravapis/33327
 lemma.sunken_verb	затонуть	to sink	затануць/затанулы		Starnik затануць; hunspell rejects затонулы	https://starnik.by/pravapis/182358
 lemma.eightpaw	восьмилап	eight-paw	васьмілап		the coined eight-legged beast; hunspell splits it	—
 lemma.barrack_style	баракко	barracks-baroque	баракко		the settlement's style, барак blended with барока; hunspell suggestions are other words	—
@@ -3918,3 +3918,13 @@ lemma.swish	шелестеть	to rustle	шамацець/шамаценьне		
 lemma.thin_trees	проредить	to thin trees	прарэдзіць/прарэдзіўшы	прарадзіўшы	to cut out part of the trees; adverbial прарэдзіўшы; hunspell writes э	https://starnik.by/pravapis/205592
 lemma.wildbeast	зверь	a beast	зьвер		a wild animal, sense 1; Starnik звер; hunspell inserts ь; older rows already use звер, so that spelling is not rejected	https://starnik.by/pravapis/28454
 lemma.humantrack	гуманотракоид	a humanoid on tracks	Гуманатракаід		coined: гуманоід plus трак; hunspell suggestion is another word	—
+lemma.joint	сустав	a joint	сустаў/суставаў		a movable bone joint; G pl суставаў	https://starnik.by/pravapis/73595
+lemma.wedge_beard	бородка	a small beard	бародка/бародкай		diminutive of барада, sense 1; I бародкай	https://starnik.by/pravapis/9266
+lemma.politician	политик	a politician	палітык/палітыка		a political figure, sense 1; G палітыка	https://starnik.by/pravapis/52091
+lemma.pelt	шкура	an animal hide	шкура		hide with the fur on, sense 1	https://starnik.by/pravapis/85174
+lemma.encyclopedia	энциклопедия	an encyclopedia	энцыкляпэдыя/энцыкляпэдыі	энцыклапедыі	a reference book, sense 1; L энцыкляпэдыі; Starnik энцыклапедыя; hunspell writes я	https://starnik.by/pravapis/87550
+lemma.sanguinary	кровожадный	bloodthirsty	крыважэрны/крыважэрным		inclined to killing; I крыважэрным	https://starnik.by/pravapis/119804
+lemma.slash	рубануть	to slash	секануць/секанулі		to strike once with a blade, sense 1; past pl секанулі	https://starnik.by/pravapis/212628
+lemma.riposte	контратаковать	to counterattack	контратакаваць	кантратакаваць	to make a counterattack; Starnik and hunspell write о	https://starnik.by/pravapis/186701
+lemma.discourtesy	нелюбезность	rudeness	няветлівасьць	няветлівасць	the noun of няветліва; hunspell inserts ь	https://starnik.by/pravapis/227530
+lemma.wide_miss	молоко	a shot gone wide	молоко		the quoted complete-miss idiom; hunspell suggestion is another word; not the drink and not the maloc	—
