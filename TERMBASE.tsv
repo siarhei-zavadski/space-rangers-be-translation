@@ -837,7 +837,7 @@ lemma.notiksov	Эндрю Нотиксов	Andrew Notiksov	Эндру/Ноцік
 lemma.pacifist	Боб Пацифист	Bob Pacifist	Боб/Пацыфіст/Пацыфістам		Citadel player with a mohawk	Photorobot.qmm
 lemma.citadel	Цитадель	Citadel	Цытадэль		game the pacifist plays	Photorobot.qmm
 lemma.paganets	поганец	scoundrel	паганец/паганца		Starnik sense 1, a vile person	https://starnik.by/pravapis/49996
-lemma.thrice_cursed	треклятый	thrice-cursed	трыкляты/трыклятым	пракляты	emphatic cursed case; hunspell only splits the word	https://starnik.by/pravapis/155071
+lemma.thrice_cursed	треклятый	thrice-cursed	трыкляты/трыклятым/трыклятыя	пракляты	emphatic cursed case; hunspell only splits the word	https://starnik.by/pravapis/155071
 lemma.brain_shake	сотрясение	concussion	страсеньне		organ sense мозга; hunspell soft sign	https://starnik.by/pravapis/72231
 lemma.sleeping	снотворное	sleeping draught	снатворнае		Starnik noun sense	https://starnik.by/pravapis/150824
 lemma.voila	вуаля	voilà	Вуаля/вуаля		French interjection on the returned case	Photorobot.qmm
@@ -3477,3 +3477,8 @@ lemma.oilcan	масленка	oil can	масьлёнка		Starnik маслёнк
 lemma.bolt	засов	bolt	засаўка/засаўцы		the sliding plate that locks a door; L засаўцы	https://starnik.by/pravapis/27798
 lemma.yellowbelly	Зелтопузик	yellow-belly	Жаўтапузік		the lock-manual nickname; hunspell compound	—
 lemma.ioneey	Йонийооо	Ioneeyooo	Ёнійооо		the lock-manual author; the extra о stay	—
+lemma.camel	верблюд	camel	вярблюд/вярблюда		a desert animal	https://starnik.by/pravapis/17018
+lemma.donkey	осел	donkey	асёл/асла/Асёл		a pack animal, sense 1	https://starnik.by/pravapis/6438
+lemma.bedouin	бедуин	bedouin	бэдуіны		Starnik бедуін; hunspell writes э	https://starnik.by/pravapis/9601
+lemma.verbdyud	вербдюд	verbdyud	вярбдюд		the donkey's nonsense camel; the pun stays	—
+lemma.aaa	Ааа	aah	Ааа		the ranger's panicked shout	—
