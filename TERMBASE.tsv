@@ -791,7 +791,7 @@ lemma.byur_akrat	Бюр О'Крат	Byur O'Krat	Бюр/А'Крат		pun on бю�
 lemma.heldas	хелдас	heldas	хелдас/хелдаса/хелдасы		invented predator; N pl хелдасы	Pachvarash.qmm
 lemma.cyanutik	цианютик	cyanutik	цыянюцік/цыянюціка		invented poisonous bush	Pachvarash.qmm
 lemma.pachvarash_noise	ууубль	beast noise	Ууубльблокхгхабрагкхххбльбыкххх/Аггррхххакхоглогкхыррррррваххх/Дабльхльбыльбульбыкхыгррыкзлбльбныхх/Почмувымнянепрдупрдильчтоянесмогугвритьедаблатвратитьльнааа/Штозафгняблнямнячртбваспбраллл		mashed speech the player still has to recognize as noise	Pachvarash.qmm
-lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры/марадзёраў		one who robs the dead and wounded	https://starnik.by/pravapis/41704
+lemma.marauder	мародер	marauder	марадзёр/марадзёра/марадзёры/марадзёраў/марадзёрства/марадзёрствам		one who robs the dead and wounded; verbal noun марадзёрства; hunspell wants марадэрства	https://starnik.by/pravapis/41704
 lemma.faeyan	феянин	faeyan	фэянін/фэяніна/Фэянін/фэяне/фэянаў/фэянскаму/фэянскага/фэянскім/фэянінам/фэянскай/фэяшкі/фэяніну/фэянская/Фэянская/фэянскіх/фэянскія/фэянскі/Фэянскі/фэянамі/нефэянскую/Фэяніна/фэянішка/фэянішкі/Фэянаў/фэянам/Фэяне/Фэянам/фэянка/фэяначкі/фэянску/Фэянскае		Coalition race; diminutive фэяшкі; song фэянка/фэяначкі; feminine salad	Photorobot.qmm
 lemma.eisa_gan	Эйса-Ган	Eisa-Gan	Эйса/Ган/Гана/Гану/Ганам		faeyan in the photofit quest; hyphen splits the name	Photorobot.qmm
 lemma.zina	Зина	Zina	Зіна/Зін		photofit label; и to і; G pl Зін	Photorobot.qmm
@@ -1730,7 +1730,7 @@ lemma.tiny	крохотный	tiny	малюпасенькі/малюпасень
 lemma.raging	бушующий	raging	бушуючае/бушуючы		participle of бушаваць; hunspell truncates it	https://starnik.by/pravapis/171988
 lemma.knowledge	знание	knowledge	веданьне		familiarity with something, sense 1; Starnik веданне, tarask soft sign	https://starnik.by/pravapis/13701
 lemma.concentration	концентрация	concentration	канцэнтрацыя/Канцэнтрацыі		the spell; the stat stays засяроджанасьць	https://starnik.by/pravapis/33353
-lemma.enemy	враг	enemy	вораг/ворага		G ворага	https://starnik.by/pravapis/15204
+lemma.enemy	враг	enemy	вораг/ворага/ворагі		G ворага; N pl ворагі	https://starnik.by/pravapis/15204
 lemma.virtual_chit	виртуальчик	virtual credit	віртуальчык/віртуальчыкі/віртуальчыкаў		slang diminutive for a virtual credit; Gpl віртуальчыкаў; not in Starnik	—
 lemma.uses_abbr	исп.	uses	вык		abbreviation of выкарыстаньне, parallel to исп.	—
 lemma.dead	мертвый	dead	мёртвы		predicate мёртвы	https://starnik.by/pravapis/123900
@@ -3194,7 +3194,7 @@ lemma.closing	закрытие	closing	зачыненьне/зачыненьня
 lemma.klakser	Кляксэр	Klakser	Кляксэр		ink-pen brand; клякса is the blot	—
 lemma.outcry	окрик	shout	вокрык	акрык	a sharp shout of warning; акрык is a different word	https://starnik.by/pravapis/15149
 lemma.turn_back	обернуться	turn around	абярнуцца/абярнуліся		to turn one's head or body; not абвярнуць 'to wrap'	https://starnik.by/pravapis/166676
-lemma.lastly	напоследок	lastly	напрыканцы	напрыканец	tarask adverb; Starnik напрыканец; hunspell lacks both and suggests other words	https://starnik.by/pravapis/250525
+lemma.lastly	напоследок	lastly	напрыканцы/Напрыканцы	напрыканец	tarask adverb; Starnik напрыканец; hunspell lacks both and suggests other words; sentence-initial Напрыканцы	https://starnik.by/pravapis/250525
 lemma.supersonic	сверхзвук	supersonic	звышгук/звышгуку	зьверху	speed above sound; not the adverb зьверху	https://starnik.by/pravapis/28560
 lemma.renaissance	ренессанс	Renaissance	Рэнэсанс/Рэнэсансу	рэнесанс	architectural style; Starnik рэнесанс; hunspell only has the capital tarask form	https://starnik.by/pravapis/65994
 lemma.postmodern	постмодернизм	postmodernism	постмадэрнізм/постмадэрнізму		Starnik; hunspell suggestions are other words	https://starnik.by/pravapis/58011
@@ -3575,7 +3575,7 @@ lemma.bamboo	бамбук	bamboo	бамбук/бамбуку		genitive бамб�
 lemma.plant_stem	стебель	a plant stem	сьцябло/сьцёблы/сьцёблаў		bamboo culm; Starnik writes сцябло and hunspell inserts ь; the gun barrel stays ствал	https://starnik.by/pravapis/73966
 lemma.optical_focus	фокус	optical focus	фокус/фокусе/Фокус		monocle sharpness, sense 2; the concentration lemma is separate	https://starnik.by/pravapis/80592
 lemma.signal	сигнал	a signal	сыгнал/сыгналу/Сыгнал		hunspell ы; Starnik writes сігнал	https://starnik.by/pravapis/68956
-lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага/пілоцкім		Starnik пілоцкі; hunspell lacks it and suggests пілёцкім	https://starnik.by/pravapis/139588
+lemma.pilot_adj	пилотский	pilot's	пілоцкі/пілоцкага/пілоцкім/пілоцкай		Starnik пілоцкі; hunspell lacks it and suggests пілёцкім; feminine пілоцкай	https://starnik.by/pravapis/139588
 lemma.primate	примат	animal primate	Прымат/прымат/прымата		the island animal; genitive прымата; Starnik 60405 is primacy, a different sense	—
 lemma.mushroom	гриб	a mushroom	грыб/грыбоў		genitive plural грыбоў	https://starnik.by/pravapis/20888
 lemma.berry	ягода	a berry	ягада/ягад		genitive plural ягад	https://starnik.by/pravapis/88172
@@ -3635,3 +3635,6 @@ lemma.at_ready	наизготовку	at the ready	напагатове		weapon 
 lemma.mauser	маузер	Mauser	маўзэр/маўзэрамі		Starnik маўзер/маўзерамі; hunspell writes э; instrumental plural маўзэрамі	https://starnik.by/pravapis/42305
 lemma.beastie	зверюшка	a cute beast	зьвярушка/Зьвярушка		affectionate diminutive; hunspell suggests the different diminutive зьвярка, which is зверёк	—
 lemma.little_pistol	пистолетики	little pistols	пісталетыкі		affectionate diminutive; hunspell suggestions are other words	—
+lemma.nasty_trick	пакость	a dirty trick	каверза		colloquial intrigue; hunspell suggestions are other words	https://starnik.by/pravapis/31650
+lemma.u_adverb	внутрь	inwards	унутр		direction into something; hunspell suggests унутры, which is location	https://starnik.by/pravapis/250761
+lemma.beach	пляж	a beach	пляж/пляжу		Starnik genitive пляжа; hunspell genitive пляжу	https://starnik.by/pravapis/57472
