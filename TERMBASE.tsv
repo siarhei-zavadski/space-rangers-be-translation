@@ -84,7 +84,7 @@ lemma.planet	планета	planet	плянэта/Плянэта/плянэты/
 lemma.system	система	system	сыстэма/сыстэму		Crowdin glossary; сыстэмы, сыстэме; A сыстэму; Starnik родны мн. сыстэм, not сыстэмаў	—
 lemma.settings	настройки	settings	налады		Crowdin glossary	—
 lemma.save	сохранение	save	захаваньне		Crowdin glossary; захаваньня, захаваньні	—
-lemma.engine	двигатель	engine	рухавік		Crowdin glossary; рухавіка, рухавіку	—
+lemma.engine	двигатель	engine	рухавік/рухавіка		Crowdin glossary; рухавіка, рухавіку; G рухавіка	—
 lemma.gripper	захват	gripper	захоп		Crowdin glossary; not seizure	—
 lemma.merchant	торговец	merchant	гандляр	гандлёвец	Crowdin glossary; гандляра, гандляру	—
 lemma.coalition	коалиция	Coalition	Кааліцыя		Crowdin glossary; Кааліцыі, Кааліцыяй	—
@@ -155,7 +155,7 @@ lemma.commodore	командор	commander	камандор	камандзір	y
 lemma.opponent	противник	opponent	праціўнік/праціўніка	супернік	Starnik 3=armed enemy. супернік=contest rival only (соперник). Migrated combat UI.	https://starnik.by/pravapis/59618
 lemma.under_cmd	под началом	under the command of	пад кіраўніцтвам	пад пачаткам	Skarnik: быть под началом → пад кіраўніцтвам / у падначаленні. пачатак=beginning	https://www.skarnik.by/rusbel/45371
 lemma.alone	в одиночку	single-handed	у адзіночку	у адзінку	адзінка=unit/one item, not 'alone'	—
-lemma.offend	обидеть	offend	пакрыўдзіць		perfective for 'могут и обидеть'; imperfective крыўдзіць=ongoing	—
+lemma.offend	обидеть	offend	пакрыўдзіць/пакрыўдзіўся/пакрыўджана		perfective for 'могут и обидеть'; imperfective крыўдзіць=ongoing; reflexive пакрыўдзіўся; adverb пакрыўджана	—
 lemma.aviator	летчик	aviator	лётчык		aircraft driver (Starnik). пілот=player/generic lock; use лётчык when RU says летчик	https://starnik.by/pravapis/39333
 lemma.military_adj	военный	military	вайсковы	ваенны	вайсковая база (Svaboda + tarask lexicon). ваенны=official/narkama	—
 lemma.score_point	очко	point	ачко		score unit (Starnik 2); G ачка, pl ачкі, Gpl ачкоў. ачкі воіна	https://starnik.by/pravapis/8051
@@ -951,7 +951,7 @@ lemma.repusator	репузатор	repusator	рэпузатар/рэпузата
 lemma.absorbal	абсорбуль	absorbal	абсорбуль/абсорбуля		coined banquet cube	Banket.qmm
 lemma.hanna	Ханна	Hanna	Ханна/Ханне/Ханнай/Ханны/Ханну		malok princess	Banket.qmm
 lemma.super_rifle	супервинтовка	super rifle	супервінтоўку/супервінтоўка		gift matching the він code; вінтоўка is the rifle	https://starnik.by/pravapis/14724
-lemma.shells	ракушки	shells	ракавінкі/ракавінак	ракушкі	gift matching the рак code; diminutive of ракавіна	https://starnik.by/pravapis/63628
+lemma.shells	ракушки	shells	ракавінкі/ракавінак/ракавінку	ракушкі	gift matching the рак code; diminutive of ракавіна; A ракавінку	https://starnik.by/pravapis/63628
 lemma.satchel	ранец	satchel	ранец/ранца		gift matching the ран code; pack worn on the back	https://starnik.by/pravapis/63768
 lemma.gypsy	цыганка	gypsy	Цыганка/цыганка		fortune-teller; woman, not the apple cultivar	https://starnik.by/pravapis/83056
 lemma.baboom	забабахаю	I'll boom it	забабахаю		pun on ба'Бах in the kinza button	Banket.qmm
@@ -3892,7 +3892,7 @@ lemma.mortimer	Мортимер	Mortimer	Мортымэр/Гросбух		the la
 lemma.buynoff	Буйнофф	Buynoff	Герр/Буйнофф		the malok security chief; Herr plus the surname; hunspell suggestions are other words	—
 lemma.kyrybnet	кырыбнетика	a garble	кырыбнетыка		the malok's garble of кібернетыка; do not correct it	—
 lemma.puff	раздувать	to blow up	разьдзімаць	раздзімаць	to blow a flame higher, imperfective of раздзьмуць; Starnik раздзімаць; hunspell inserts ь	https://starnik.by/pravapis/209384
-lemma.twig	ветка	a twig	галінка/галінак		a small branch; G pl галінак	https://starnik.by/pravapis/17681
+lemma.twig	ветка	a twig	галінка/галінак/галінку		a small branch; G pl галінак; A галінку	https://starnik.by/pravapis/17681
 lemma.quarter	четверть	a quarter	чвэрць		one fourth of a whole, sense 1	https://starnik.by/pravapis/84183
 lemma.moiety	половина	a half	палова/палову		one of two equal parts, sense 1; A палову	https://starnik.by/pravapis/52145
 lemma.plunge	купаться	to bathe	выкупацца/купацца/выкупаліся/купаньні		to refresh oneself in water; past pl выкупаліся; L купаньні; imperfective https://starnik.by/pravapis/186982	https://starnik.by/pravapis/173385
@@ -3932,3 +3932,26 @@ lemma.rasp	хрипнуть	to rasp	хрыпнуць/хрыпнуў		semelfactiv
 lemma.spent_out	выдохнуться	to be spent	выдыхнуцца/выдыхнуўся		to spend all one's strength; past m выдыхнуўся	https://starnik.by/pravapis/172993
 lemma.conscience	совесть	conscience	сумленьне	сумленне	moral judgement of one's acts; Starnik сумленне; hunspell inserts ь	https://starnik.by/pravapis/73192
 lemma.scratch	царапина	a scratch	драпіна/драпіны		a shallow cut, sense 1; G драпіны	https://starnik.by/pravapis/23409
+lemma.swear	выругаться	to swear	вылаяцца/Вылаяцца		to say a coarse word, perfective; infinitive вылаяцца	https://starnik.by/pravapis/173421
+lemma.nosedive	нырнуть	to dive	нырнуць/Нырнуць		one plunge under the water, semelfactive of ныраць	https://starnik.by/pravapis/192023
+lemma.lake	озеро	a lake	возера		a natural body of water, sense 1; A возера	https://starnik.by/pravapis/15119
+lemma.polite	вежливо	politely	ветліва/Ветліва/ветлівы		adverb of ветлівы, kind and courteous	https://starnik.by/pravapis/102148
+lemma.wintry	холодно	cold	холадна	халадна	impersonal: a person feels the cold, sense 3; hunspell accepts холадна and rejects халадна	https://starnik.by/pravapis/233346
+lemma.ask	попросить	to ask	папрасіць/папрасілі/Папрасіць		perfective of прасіць, to make a request	https://starnik.by/pravapis/198682
+lemma.cast_off	скинуть	to slip off	скінуць/скінуў		to take clothing off, sense 4; past m скінуў	https://starnik.by/pravapis/213068
+lemma.threaten	пригрозить	to threaten	прыгразіць/Прыгразіць		to warn with a threat, or to make a threatening gesture	https://starnik.by/pravapis/206792
+lemma.brandish	трясти	to brandish	трэсьці	трэсці	to shake something one is holding; Starnik трэсці; hunspell inserts ь	https://starnik.by/pravapis/215657
+lemma.rend	содрать	to rip off	зьдзёр	здзёр	to tear something off a surface; Starnik здзёр (same as садраць); hunspell inserts ь	https://starnik.by/pravapis/184220
+lemma.hook_on	зацепиться	to catch on	зачапіцца/зачапіўся		to snag and stay caught, sense 1; past m зачапіўся	https://starnik.by/pravapis/183006
+lemma.proud	гордо	proudly	горда/горды		adverb of горды, with a sense of one's own dignity, sense 1	https://starnik.by/pravapis/106764
+lemma.pull_on	натянуть	to pull on	нацягнуць/нацягнулі		to put clothing on, sense 2; past pl нацягнулі	https://starnik.by/pravapis/191406
+lemma.reasoned	разумный	rational	разумны/разумная		endowed with reason, sense 1; the dictionary example is Разумная істота	https://starnik.by/pravapis/145345
+lemma.livingthing	существо	a creature	істота		a living being, a person or an animal	https://starnik.by/pravapis/31439
+lemma.barter	обмен	an exchange	абмен		the act of exchanging, sense 1	https://starnik.by/pravapis/668
+lemma.proffer	протянуть	to hold out	працягнуць/працягнулі		to offer something with an outstretched hand, sense 2	https://starnik.by/pravapis/206200
+lemma.snatch	схватить	to snatch	схапіць/схапіў		to seize quickly, sense 1; past m схапіў	https://starnik.by/pravapis/214878
+lemma.relief	облегчение	relief	палёгка/палёгкай	палегкай	the feeling of being freed from worry, sense 2; I палёгкай; hunspell keeps ё	https://starnik.by/pravapis/51901
+lemma.garb	облачение	garb	адзеньне	адзенне	clothing one puts on, sense 1; Starnik адзенне; hunspell inserts ь	https://starnik.by/pravapis/2146
+lemma.residential	жилой	residential	жылы/жылыя		set aside for people to live in, sense 1; A pl жылыя	https://starnik.by/pravapis/111237
+lemma.prevail	превосходить	to surpass	пераважаць/пераважае		to have the advantage over someone	https://starnik.by/pravapis/201422
+lemma.principal	главный	chief	галоўны	галаўны	the most important one, sense 1; not галаўны, which is of the head	https://starnik.by/pravapis/105033
