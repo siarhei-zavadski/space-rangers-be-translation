@@ -77,7 +77,7 @@ FormGameSet2.Common.HelpItem6	Захват	Gripper	Захоп		equipment lock	Sk
 FormScore.LPlace	Место	Location	Месца		ranking place, not map location	records table
 FormLoadQuest.Caption	Квесты: Быстрый запуск	Quests: Quick Launch	Заданьні: хуткі запуск	квэсты	quests→заданьні	—
 lemma.game	игра	game	гульня		Crowdin glossary; гульні, гульняў	—
-lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску/рэйнджэрава		Crowdin glossary; capital in the proverb; рэйнджэрава is the barman's кесарево pun	—
+lemma.ranger	рейнджер	ranger	рэйнджэр/Рэйнджэр/рэйнджэраў/рэйнджэры/рэйнджэрскі/Рэйнджэрскі/Рэйнджэраў/рэйнджэрскага/рэйнджэра/рэйнджэрскай/рэйнджэрскую/рэйнджэрскім/Рэйнджэрская/рэйнджэру/рэйнджэрах/рэйнджэрам/Рэйнджэрам/рэйнджэрамі/рэйнджэрскіх/рэйнджэрскія/рэйнджэрскаму/рэйнджэрску/рэйнджэрава/рэйнджэрская		Crowdin glossary; capital in the proverb; рэйнджэрава is the barman's кесарево pun	—
 lemma.quest	квест	quest	заданьне	квэст	Crowdin glossary; never квэст; pl заданьні	—
 lemma.dominator	доминатор	dominator	дамінатар/дамінатары/дамінатараў/дамінатара/дамінатарамі/Дамінатары/дамінатарам/Дамінатара/дамінатарскага/дамінатарскіх/Дамінатар/дамінатарскі/дамінатарскія/Дамінатарамі/Дамінатараў		Crowdin glossary	—
 lemma.planet	планета	planet	плянэта/Плянэта/плянэты/плянэтаў		Crowdin glossary; плянэты, плянэце; pl плянэт	—
@@ -1244,7 +1244,7 @@ lemma.borjomi	Боржоми	Borjomi	Баржомі		mineral-water brand in the 
 lemma.ginosol	гиносол	ginosol	гінасол/Гінасол/гінаправод		coined car fluid and its hose	Taxist.qmm
 lemma.explosive	взрывчатка	explosive	выбухоўка/выбухоўкі/выбухоўку/выбухоўкай/выбухоўцы/Выбухоўка		substance; hunspell only suggests the adjective; bill capital Выбухоўка	https://starnik.by/pravapis/15603
 lemma.narcotic	наркотик	narcotic	наркотык/наркотыку/наркотыкі/наркотыкаў/наркотыкамі	наркатык	substance, genitive -у; addict sense takes -а	https://starnik.by/pravapis/46135
-lemma.vial	флакон	vial	флякон/флякончык	флакон/флакончык	hunspell wins	https://starnik.by/pravapis/80420
+lemma.vial	флакон	vial	флякон/флякончык/флякончыкаў	флакон/флакончык	hunspell wins; G pl флякончыкаў	https://starnik.by/pravapis/80420
 lemma.porter	портье	hotel porter	парцье/Парцье	порцье	indeclinable hotel porter	https://starnik.by/pravapis/53429
 lemma.nolo	Нолоо	Noloo	Нолоо/нолоо		city and its currency	Deadoralive.qmm
 lemma.roktornak	Рокторнак	Roktornak	Рокторнак/Рокторнака/Рокторнаку/Рокторнакам		malok agent on trial	Deadoralive.qmm
@@ -3472,3 +3472,8 @@ lemma.right_hand	десница	right hand	правіца/правіцы	дзя�
 lemma.pincer	клешня	pincer	клюшня/клюшнямі	кляшня	a crab's grasping claw; I pl клюшнямі	https://starnik.by/pravapis/36091
 lemma.hippo	бегемот	hippopotamus	гіпапатам		Starnik: the same as бегемот	https://starnik.by/pravapis/19616
 lemma.nicht	Нихт	Nicht	Ніхт/сібалусаўтс		the fake-German sign; coined	—
+lemma.gate	ворота	gate	брама/браму/брамы		a covered main gate	https://starnik.by/pravapis/11328
+lemma.oilcan	масленка	oil can	масьлёнка		Starnik маслёнка, sense 2 a greaser; hunspell writes сь	https://starnik.by/pravapis/42096
+lemma.bolt	засов	bolt	засаўка/засаўцы		the sliding plate that locks a door; L засаўцы	https://starnik.by/pravapis/27798
+lemma.yellowbelly	Зелтопузик	yellow-belly	Жаўтапузік		the lock-manual nickname; hunspell compound	—
+lemma.ioneey	Йонийооо	Ioneeyooo	Ёнійооо		the lock-manual author; the extra о stay	—

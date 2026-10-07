@@ -1077,10 +1077,25 @@ Procedure author: Ioneeyooo, aka Yellow-bellied Striped One.
 
 You read the literary creation and became thoughtful. Apparently, opening the lock isn't so simple.
 Just then a stream of inspiration hit you sharply like a bout of diarrhea. It dawned on you that you could fill the lock with sulfuric acid instead of grease. Then it would corrode the cogs and the lock would open. 
-You only needed ten vials of sulfuric acid..."	"Quest,Sibolusovt"	""
+You only needed ten vials of sulfuric acid..."	"Quest,Sibolusovt"	"Вы пахадзілі нейкі час вакол мэханізму, які зачыняе браму, і зразумелі, што калі вы яго не адчыніце, то абыдзеце бокам прынамсі адну Вялікую Страшную Таямніцу. Відаць, гэтая старажытная брама стаяла тут яшчэ да Клісанскай вайны.
+Гэтага ваша рэйнджэрская натура сьцярпець не змагла, і вы ўзяліся за вывучэньне замка.
+Адзінае, што вам удалося выявіць, дык гэта інструкцыя па тактыцы змазваньня агрэгата, на рабры замка.
+""Першым чынам трэба прадуць усе адтуліны, каб не здарылася алейнага затору ў засаўцы, ад чаго яна перастане адчыняцца/зачыняцца (патрэбнае падкрэсьліць), пасьля таго пералічыць усе адтуліны, якіх мусіць налічвацца дзесяць адзінак. Калі адзінак не хапае, належыць наноў пералічыць адзінкі адтулінаў. Калі лік адтулінаў стане задавальняць дзесяці адзінкам — належыць пачаць працэдуру змазкі.
+Працэдура ж змазкі праводзіцца ніжэйпададзеным спосабам:
+1. Першым чынам бярэцца масьлёнка.
+2. Другім чынам масьлёнка ўстаўляецца ў паз, які маецца ў верхняй частцы запору.
+3. Трэцім чынам зачыняецца кажух з адтулінамі, каб не праліць змазку з замка.
+4. Далей учыняецца ў дзесяцікратным памеры ўпырскваньне ў замок праз паз змазкі, ў кожную з адтулінаў.
+5. Ну і да купы паз зачыняецца, і правяраецца працаздольнасьць запору.
+Адказны за працэдуру. Ёнійооо, ён жа Жаўтапузік паласаты""
+
+Вы прачыталі гэты літаратурны твор і задумаліся. Відаць, замок адчыніць не так проста.
+І тут вас азарыў рэзкі, як прыступ паносу, паток азарэньня. А што, калі замест змазкі наліць у замок сернай кіслаты. Яна разьесьць зубцы, і замок адчыніцца.
+Усяго трэба з дзясятак флякончыкаў з сернай кіслатой..."
 "/quests/Sibolusovt.qmm/locations/131/texts/0/text"	"Единственное, что вам нужно было сейчас - это колбы с серной кислотой.
 - Ну да ничего, если их даже у меня нет, - приободрили вы себя. - На базе ещё можно наготовить."	"Quest Sibolusovt.qmm: locations.131.texts.0.text. Preserve every <tag> exactly. English reference: The only thing you needed now was bottles of sulfuric acid.
-""It doesn't matter even I don't have any,"" you said to yourself encouragingly. ""I can cook something else up at the base."""	"Quest,Sibolusovt"	""
+""It doesn't matter even I don't have any,"" you said to yourself encouragingly. ""I can cook something else up at the base."""	"Quest,Sibolusovt"	"Адзінае, што вам цяпер было патрэбна, — гэта колбы з сернай кіслатой.
+- Ну ды нічога, нават калі іх у мяне няма, — падбадзёрылі вы сябе. — На базе яшчэ можна нарыхтаваць."
 "/quests/Sibolusovt.qmm/locations/132/texts/0/text"	"Вашему отчаянию не было предела. Утонуть так далеко от Родины. И Галактика не узнает, какой у рейнджера с именем <Ranger> был конец. 
 Но ваше расстройство было преждевременным. У ручейка, протекающего теперь у ваших ног, появилось течение и по нему к вам стремительно несло пластиковую табличку, видимо откуда-то смытую.
 На ней было написано:
@@ -1091,7 +1106,12 @@ But you distress was premature. The swift current in the brook flowing at your f
 It read:
 ""Attentio... to stop the flow you mus... switch off the four levers ...cated ..."" 
 To your great disappointment, the rest of the writing was entirely gone. Well, that clears things up. You've got to find four levers, most likely somewhere nearby, and turn them off. Then you will be saved.
-You quickly fished your ranger mini-compass out of your pocket and prepared for the search. Then you visually estimated the height of the cave's ceiling and figured it was about one and a half times your height."	"Quest,Sibolusovt"	""
+You quickly fished your ranger mini-compass out of your pocket and prepared for the search. Then you visually estimated the height of the cave's ceiling and figured it was about one and a half times your height."	"Quest,Sibolusovt"	"Вашаму адчаю не было межаў. Патонуць так далёка ад Радзімы. І Галяктыка не даведаецца, які быў канец у рэйнджэра зь імем <Ranger>.
+Але ваша засмучэньне было заўчасным. У ручайка, які цяпер працякаў ля вашых ног, зьявілася плынь, і па ёй да вас імкліва несла плястыкавую таблічку, відаць аднекуль змытую.
+На ёй было напісана:
+""Увага... каб перакрыць сьцёк, неабходна... выключыць чатыры рычагі, якія знаходзяцца ...""
+Далей, на вялікі ваш жаль, надпіс зусім абрываўся. Такім чынам, пытаньне яснае. Трэба знайсьці чатыры рычагі, хутчэй за ўсё дзе-небудзь непадалёк, і выключыць іх. Тады вы ўратаваныя.
+Вы хуценька вывудзілі з кішэні свой рэйнджэрскі міні-компас і прыгатаваліся да пошукаў. Потым на вока прыкінулі вышыню столі ў пячоры і зразумелі, што яна прыкладна роўная паўтары вашым ростам."
 "/quests/Sibolusovt.qmm/locations/133/texts/0/text"	"Вы поплыли дальше в пещеру, и через некоторое время, к собственному удивлению, вынырнули на поверхность. Перед вами вдаль уходил темный тоннель, без всяких признаков воды.
 - Забавно. - Произнесли вы, выбираясь на сушу. - Что бы это ни было, это довольно интересно, обследовать подводные пещеры. Практически мечта всей жизни.
 Вы прошли немного по тоннелю, и, внезапно, остановились перед круглым закрытым люком, вмонтированным в стену.
@@ -1102,21 +1122,31 @@ You quickly fished your ranger mini-compass out of your pocket and prepared for 
 You moved along the tunnel and stopped abruptly in front of a round, sealed hatch built into the wall.
 The hatch resounded with a metallic clank when you knocked.
 You gave it a good look and saw happened upon a rusty lever that was overgrown with slimy, green moss.
-Suddenly you had a wild itch in your nose and left heel. This was clearly curiosity devouring you from within. You've got to think of something to do before somebody gets hurt. Curiosity must not be trifled with..."	"Quest,Sibolusovt"	""
+Suddenly you had a wild itch in your nose and left heel. This was clearly curiosity devouring you from within. You've got to think of something to do before somebody gets hurt. Curiosity must not be trifled with..."	"Quest,Sibolusovt"	"Вы паплылі далей у пячору і праз нейкі час, на ўласнае зьдзіўленьне, вынырнулі на паверхню. Перад вамі ўдалеч ішоў цёмны тунэль, без аніякіх прыкметаў вады.
+- Забаўна. — Прамовілі вы, выбіраючыся на сушу. — Што б гэта ні было, дасьледаваць падводныя пячоры даволі цікава. Практычна мара ўсяго жыцьця.
+Вы прайшлі крыху па тунэлі і раптам спыніліся перад круглым зачыненым люкам, умантаваным у сьцяну.
+На стук люк адгукнуўся характэрным мэталічным гулам.
+Вы агледзелі яго як сьлед і наткнуліся на невялікі праржавелы рычаг, зарослы сьлізкім зялёным мохам.
+Раптам у вас дзіка засьвярбеў нос і левая пятка. Відаць, гэта была цікаўнасьць, якая вас пажырала. Вам трэба тэрмінова нешта зрабіць, пакуль справа не дайшла да пусканьня крыві. З цікаўнасьцю жарты кепскія..."
 "/quests/Sibolusovt.qmm/locations/134/texts/0/text"	"Развилка тоннеля недвусмысленно говорила о том, что идти вам либо на запад, либо на восток...
 А ваш нюх говорил о близости одного из рычагов. Вот только в какой стороне он не уточнял."	"Quest Sibolusovt.qmm: locations.134.texts.0.text. Preserve every <tag> exactly. English reference: The fork in the tunnel in no uncertain terms indicated that you had to either go to the west or to the east...
-And your intuition told you that one of the levers was nearby. It just didn't to you which way to go."	"Quest,Sibolusovt"	""
+And your intuition told you that one of the levers was nearby. It just didn't to you which way to go."	"Quest,Sibolusovt"	"Разьвілка тунэлю недвухсэнсоўна казала пра тое, што ісьці вам альбо на захад, альбо на ўсход...
+А ваш нюх казаў пра блізкасьць аднаго з рычагоў. Вось толькі ў якім баку ён не ўдакладняў."
 "/quests/Sibolusovt.qmm/locations/135/texts/0/text"	"Вы забрались в какой-то темный угол, который, судя по всему, был углом пещеры, и тут так вам захотелось домой, ну просто сил нет.
 Но тогда великий рейнджер <Ranger>, в вашем лице, титаническим усилием воли отогнал зловредные мысли, снял с одежды прибившуюся течением банановую кожуру, неизвестно откуда взявшуюся, и попер как танк дальше. 
 Благо, что у вас было всего два пути, либо на юг, либо на восток."	"Quest Sibolusovt.qmm: locations.135.texts.0.text. Preserve every <tag> exactly. English reference: You piled onto some dark corner, which, considering everything, must be a corner of the cave; you felt an intense desire to go back home, but you were pooped.
 But then in a heroic display of willpower, you, the great ranger <Ranger>, banished those wicked thoughts, removed the banana peel that the current had washed onto your clothing from who knows where, and moved onward like a tank. 
-Fortunately, you only had two options: to go south, or to go east."	"Quest,Sibolusovt"	""
-"/quests/Sibolusovt.qmm/locations/136/texts/0/text"	"- Ох и неуютное же место - эти пещеры. - Думали вы, мрачно бредя по тоннелю в холодной воде. - Так и простудиться недолго, заболеть, умереть."	"Quest Sibolusovt.qmm: locations.136.texts.0.text. Preserve every <tag> exactly. English reference: ""How uncomfortable these caves are!"" you thought as you plodded gloomily along the tunnel in cold water. ""Not long before I'll catch a cold, fall ill, and then die."""	"Quest,Sibolusovt"	""
+Fortunately, you only had two options: to go south, or to go east."	"Quest,Sibolusovt"	"Вы забраліся ў нейкі цёмны кут, які, мяркуючы па ўсім, быў кутом пячоры, і тут вам так захацелася дахаты, ну проста сілаў няма.
+Але тады вялікі рэйнджэр <Ranger>, у вашай асобе, тытанічным высілкам волі адагнаў шкодныя думкі, зьняў з адзеньня бананавую лупіну, якую прыбіла плыньню і якая невядома адкуль узялася, і папёр як танк далей.
+Добра, што ў вас было ўсяго два шляхі: альбо на поўдзень, альбо на ўсход."
+"/quests/Sibolusovt.qmm/locations/136/texts/0/text"	"- Ох и неуютное же место - эти пещеры. - Думали вы, мрачно бредя по тоннелю в холодной воде. - Так и простудиться недолго, заболеть, умереть."	"Quest Sibolusovt.qmm: locations.136.texts.0.text. Preserve every <tag> exactly. English reference: ""How uncomfortable these caves are!"" you thought as you plodded gloomily along the tunnel in cold water. ""Not long before I'll catch a cold, fall ill, and then die."""	"Quest,Sibolusovt"	"- Ох і няўтульнае ж месца — гэтыя пячоры. — Думалі вы, змрочна брыдучы па тунэлі ў халоднай вадзе. — Так і прастудзіцца нядоўга, захварэць, памерці."
 "/quests/Sibolusovt.qmm/locations/137/texts/0/text"	"Вы поскользнулись на слизи темно-зеленого цвета и с головой ушли под воду. Купание определенно не пошло вам на пользу. 
 - Как бы не заболеть. - Озабочено подумали вы. - Хотя какое к черту заболеть! Я утонуть могу через десять минут! 
 И вы героически погребли вперед, как атомный ледокол..."	"Quest Sibolusovt.qmm: locations.137.texts.0.text. Preserve every <tag> exactly. English reference: You lost your footing on the dark-green slime and plunged into the water. The bath didn't help. 
 ""I really hope I don't get sick,"" you thought anxiously. ""On the other hand, to hell with getting sick! I might drown in ten minutes!"" 
-And you heroically scuttled forward like a nuclear icebreaker."	"Quest,Sibolusovt"	""
+And you heroically scuttled forward like a nuclear icebreaker."	"Quest,Sibolusovt"	"Вы пасьлізнуліся на сьлізі цёмна-зялёнага колеру і з галавой пайшлі пад ваду. Купаньне відавочна не пайшло вам на карысьць.
+- Як бы не захварэць. — Занепакоена падумалі вы. — Хоць якое да чорта захварэць! Я патануць магу праз дзесяць хвілінаў!
+І вы гераічна пагрэблі наперад, як атамны ледакол..."
 "/quests/Sibolusovt.qmm/locations/138/texts/0/text"	"В темном северо-восточном углу тоннеля вы наконец-то обнаружили один из рычагов.
 По этому поводу хорошо бы было открыть шампанское... но, не судьба."	"Quest Sibolusovt.qmm: locations.138.texts.0.text. Preserve every <tag> exactly. English reference: In the dark northeast corner of the tunnel, you finally discovered one of the levers.
 This would have been a good reason to pop a bottle of champagne, but it wasn't in the cards."	"Quest,Sibolusovt"	""
