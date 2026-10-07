@@ -351,7 +351,7 @@ lemma.rakushka	Ракушка	Shell	Ракушка		oil company; G Ракушк�
 lemma.john_ryan	Джон Энсон Раян	John Enson Ryan	Джон Энсан Раян		terminator; Орленон hometown	—
 lemma.longnose	долгоносик	longnose droid	доўганосік		heavy assault droid class; pl доўганосікі	—
 lemma.sphere_anomaly	Сфера	Sphere	Сфэра		quoted anti-grav meteor; RobotsMap/68	—
-lemma.svarakok	сварокок	swarokok	сваракок/сваракокам		invented critter; already Talk/map 43	—
+lemma.svarakok	сварокок	swarokok	сваракок/сваракокам/сваракокі		invented critter; already Talk/map 43	—
 lemma.red_hatchets	Красные топоры	Red Hatchets	Чырвоныя тапары		maloq squad; G Чырвоных тапароў; map 54 already	—
 lemma.glukwein	глюквейн	mulled wine	глюквэйн		gaal drink; G глюквэйна; with янвэлб	—
 lemma.chahara	чахара	chakhara	чахара		intoxicant in gamma-bar; G чахары	—
@@ -1856,7 +1856,7 @@ lemma.shrek	Шрэк	Shrek	Шрэк/Шрэка		the ogre on a galactic tour	—
 lemma.shaitan_epitaph	Шайтан	epitaph demon	Шайтан/Шайтана		the fear named on the epitaph; not the bookie Шайтан-бабай	—
 lemma.supercruiser	Суперкрейсер	supercruiser	Супэркрэйсер/Супэркрэйсера		the ship the hero wants instead of the castle	—
 lemma.tapek	Тапек	Tapek	Тапек		the name on the funeral wreath, before the ranger's	—
-lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра/Габзаўр		a beast mosquitoes do not bother; coined	—
+lemma.gobzavr	гобзавр	gobzavr	габзаўр/габзаўру/габзаўра/Габзаўр/габзаўры		a beast mosquitoes do not bother; coined	—
 lemma.warrior_old	воин	warrior	ваяр/ваяры/ваярамі/ваярам/ваяроў/ваяра		a hereditary fighter; Starnik; hunspell suggestions are other words; I pl ваярамі; I sg ваярам; G pl ваяроў	https://starnik.by/pravapis/13675
 lemma.discount	скидка	discount	зьніжка/зьніжкі/зьніжкай/зьніжак		a price cut; Starnik зніжка, tarask soft sign; I зьніжкай is a hunspell gap	https://starnik.by/pravapis/29578
 lemma.rattrap	крысоловка	rat trap	пацукалоўка/пацукалоўку		a trap for rats; Starnik, hunspell gap	https://starnik.by/pravapis/54472
@@ -2444,7 +2444,7 @@ lemma.katar	Катар	Katar	Катар/Катара/Катарам/Катару
 lemma.insignificance	незначительность	insignificance	нязначнасьць/нязначнасьці		АН, the apparatus of insignificance; G нязначнасьці	Proprolog.qmm
 lemma.spark	Спарк	Spark	Спарк/Спаркам		regional head of OSEB on Half-axis; I Спаркам	Proprolog.qmm
 lemma.shuhe	Шухе	Shukhe	Шухе		peleng driver at Chen's institute; Шухе Ро	Proprolog.qmm
-lemma.walker	Крутой Уокер	Cool Walker	Ўокера/Ўокеру		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
+lemma.walker	Крутой Уокер	Cool Walker	Ўокера/Ўокеру/Ўокер		fairy-tale ranger; G after a vowel, Ў	Proprolog.qmm
 lemma.texas	Техас	Texas	Тэхас/Тэхаса/тэхаскіх		the ancient Texas of the ranger myth; G Тэхаса	Proprolog.qmm
 lemma.cheer	ура	cheer	УРРРАААА/УРРРААААА		the victory shout, both spellings from the source	Proprolog.qmm
 lemma.trala	тра-ля-ля	tra-la-la	тра		Venus refrain; hunspell splits the hyphen and rejects тра	Proprolog.qmm
@@ -4167,11 +4167,11 @@ lemma.assortment	набор	a set	набор/наборам		a set of items for 
 lemma.sturdy	прочный	sturdy	трывалы/Трывалы		hard to break or spoil, sense 1; N m трывалы	https://starnik.by/pravapis/155043
 lemma.hand_grenade	граната	a grenade	граната/Граната		a small bursting shell thrown by hand; N граната	https://starnik.by/pravapis/20604
 lemma.type_n	тип	a type	тып/Тып		a model a group of things shares, sense 1; N тып	https://starnik.by/pravapis/76694
-lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
+lemma.armwrestle	армрестлинг	arm wrestling	армрэстлінг/Армрэстлінг/армрэстлінгу		arm wrestling; the page gives the paradigm and lists the explanatory dictionary; hunspell suggestions are other words	https://starnik.by/pravapis/5998
 lemma.binocular_gaal	Бинокуляр	Binocular	Бінакуляр/Бінакулярам		the Gaal card sharp's name; not the field glasses бінокль; hunspell wants the adjective бінакулярны	—
 lemma.ben_npc	Бен	Ben	Бэн		a Testing quest character; hunspell writes Бэн, the same spelling as the hatchball Бэн	—
 lemma.dobrys	Добрис	Dobris	Добрыс/Добрыса		the elder who fights for the good; hunspell suggestions are other words	—
-lemma.wood_gaal	Айроон	Airoon	Айроон		Gaal woodcutter; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
+lemma.wood_gaal	Айроон	Airoon	Айроон/Вууд/Кааттер		Gaal woodcutter; Вууд and Кааттер stay doubled; doubled vowels stay so the arm-wrestling bar keeps its width; hunspell wants Айрот, another word	—
 lemma.three_legged	трехногий	three-legged	трохногі/трохногага		on three legs; G m animate трохногага	https://starnik.by/pravapis/154863
 lemma.fever	лихорадка	a fever	ліхаманка/Ліхаманка		feverish hurried activity, sense 3; the example is біржавая ліхаманка	https://starnik.by/pravapis/39835
 lemma.gilt	золотой	golden	залаты/залатая/Залатая		made of gold, sense 1; N f залатая	https://starnik.by/pravapis/112214
@@ -4259,3 +4259,4 @@ lemma.school_box	параллелепипедик	a little box	паралеле�
 lemma.drawl_worm	червяк	a drawn-out worm	чарррвяк		the stretched insult; hunspell suggestions are other words	—
 lemma.lawful_good	лоуфулгудовый	lawful good	лоўфулгудавыя		the smashed D&D alignment; hunspell suggestions are other words	—
 lemma.must_die	мастдайный	must-die	мастдайны		the faeyan's gamer adjective; hunspell suggestions are other words	—
+lemma.redpeace	Редпис	Redpeace	Рэдпіс		the Greenpeace joke; hunspell suggests Подпіс, another word	—
