@@ -547,7 +547,7 @@ lemma.moykhrenes	Мойхренес	Moykhrenes	Мойхрэнэс		first letter 
 lemma.tomb	гробница	tomb	грабніца		PlanetQuest 23 / Pharaon.qmm	—
 lemma.archeologist	археолог	archaeologist	археоляг		Pharaon.qmm	—
 
-lemma.barabum	Барабум	Barabum	Барабум		malok logic game; G Барабума L Барабуме; not Бабабум statue	—
+lemma.barabum	Барабум	Barabum	Барабум/БАРАБУМ		malok logic game; G Барабума L Барабуме; the shout is БАРАБУМ; not Бабабум statue	—
 lemma.homarjob	Гомарджоб	Homarjob	Гомарджоб		championship organizer; gamarjoba joke; G Гомарджоба I Гомарджобам	—
 lemma.uralban	Уралбан	Uralban	Уралбан		malok champion; G Уралбана D Уралбану I Уралбанам	—
 lemma.ubaran	Убаран	Ubaran	Убаран		player mishear of Уралбан; keep RU key in jumps	—
@@ -1172,7 +1172,7 @@ lemma.garik	Гарик	Garik	Гарык/Гарыка/Гарыкам		Citadels en
 lemma.nalivaiko	Наливайко	Nalivaiko	Налівайка/Налівайку/Налівайкі		surname of the Citadels envoy	https://starnik.by/pravapis/90264
 lemma.shmyak	Шмяк	Shmyak	Шмяк/Шмякоўка		Citadels planet and system	Citadels.qmm
 lemma.bumburovka	Бумбуровка	Bumburovka	Бумбуроўка		home system of the Citadels	Citadels.qmm
-lemma.ragnar	Рагнар	Ragnar	Рагнар		default ranger name in the briefing	Citadels.qmm
+lemma.ragnar	Рагнар	Ragnar	Рагнар/Рагнару		default ranger name in the briefing; D Рагнару, hunspell splits it	Citadels.qmm
 lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны/ховерлета		coined tracked gunship; hunspell has no entry; G ховерлета	Citadels.qmm
 lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус/землятрусу	струс зямлі	Starnik lemma; hunspell rejects the word; G землятрусу	https://starnik.by/pravapis/29049
 lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў/шахцёрскі/Шахцёрскія/шахцёрскія/шахцёру/шахцёрскую	шахтар	mine worker; Starnik spelling, hunspell rejects the forms; lowercase N pl шахцёрскія	https://starnik.by/pravapis/84972
@@ -1515,7 +1515,7 @@ lemma.necril	некрил	necril	некрыл/некрылу/некрылавы/
 lemma.gravplatform	гравиплатформа	grav platform	гравіплятформа/гравіплятформу		platform that carries the new engine	Kidnapped.qmm
 lemma.varnish	лак	varnish	лак	ляк	Starnik varnish; hunspell ляк means fear	https://starnik.by/pravapis/38429
 lemma.spray	спрей	spray	Спрэй/спрэй		canister label; hunspell suggestions are unrelated	https://starnik.by/pravapis/71642
-lemma.laser_adj	лазерный	laser	лазерны/лазерныя/лазернай/лазерных/лазерная		Starnik лазер; hunspell rejects the adjective; N f лазерная; L f лазернай; G pl лазерных	https://starnik.by/pravapis/38378
+lemma.laser_adj	лазерный	laser	лазерны/лазерныя/лазернай/лазерных/лазерная/лазернага/лазернымі/Лазернымі		Starnik лазер; hunspell rejects the adjective; N f лазерная; L f лазернай; G pl лазерных; G m лазернага; I pl лазернымі	https://starnik.by/pravapis/38378
 lemma.geshy	Гешши	Geshy	Гешші		peleng planet	PlanetName.tsv
 lemma.valuykh	Валуйх	Valuykh	Валуйх/Валуйха		peleng planet; G Валуйха	PlanetName.tsv
 lemma.norhberch	Норхберч	Norhberch	Норхберч		peleng vandal	Kidnapped.qmm
@@ -4654,7 +4654,7 @@ lemma.tiik_faan	Тиик-Фаан	gaal escort	Ціік-Фаан/Ціік-Фаа�
 lemma.anatol	Курагин	the doctor	Курагін/Курагіным		Anatol Kuragin; I Курагіным	—
 lemma.jumper_npc	Джумпер	the one they help	Джумпэр/Джумпэра/Джумпэру		the character, not the jump pack Джампэр; G Джумпэра; D Джумпэру	—
 lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару/Наргарам		G Наргара; D Наргару; I Наргарам	—
-lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона		puzzle token; do not transliterate	TRANSLATION.md
+lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона/Аакси-Тоонам		puzzle token; do not transliterate; I Тоонам	TRANSLATION.md
 lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
 lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
 lemma.veiego	Веиего	sect head	Веіега/Веіегі		transliteration of the sect head; и to і, final о to а; G Веіегі	—
@@ -4721,7 +4721,7 @@ lemma.eqgen	эквенторов	equantors	эквэнтараў		G pl of Экв�
 lemma.urggen	ургантов	urgants	ургантаў		G pl of Ургант	—
 lemma.vxplural	вертиксы	vertixes	вэртыксы		N pl of вэртыкс	—
 lemma.nodau	нодов	nodes	нодаў/ноды		G pl of нод	—
-lemma.stengen	Стена	Sten's	Стена		genitive of the name Стен, not сьцяна	—
+lemma.stengen	Стена	Sten's	Стена/Сте		genitive of the name Стен, not сьцяна; Сте is the stuttered start of that name	—
 lemma.overdat	Рачехану	to Rachehan	Рачэхану		dative of the overlord	—
 lemma.modulg	микромодулей	micromodules	мікрамодуляў		G pl	—
 lemma.capsmyer	СМЕРТЬ	DEATH	СЬМЕРЦЬ		all-caps shout	—
@@ -4741,3 +4741,19 @@ lemma.unitmeas	единица	a unit	адзінка/адзінак		a quantity u
 lemma.hadesbe	ад	hell	пекла/пекле		the place of the damned, sense 1; L пекле	https://starnik.by/pravapis/54749
 lemma.blankpop	осечка	a misfire	асечка/асечку		no shot when the hammer falls	https://starnik.by/pravapis/6458
 lemma.mythtale	миф	a myth	міт/мітаў		G pl мітаў; Starnik writes міфаў, hunspell мітаў	https://starnik.by/pravapis/43982
+lemma.psychobe	психопат	a psychopath	псыхапат/псыхапата/ПСЫХАПАТ	псіхапат	Starnik псіхапат; hunspell псыхапат; the shout is ПСЫХАПАТ	https://starnik.by/pravapis/61424
+lemma.katybe	Кэти	Katie	Кэці		the gobzavr's name; hunspell wants Каці	—
+lemma.gobkin	гобзаврик	a little gobzavr	габзаўрык/габзаўрыку		diminutive of габзаўр; coined	—
+lemma.infusorbe	инфузория	an infusorian	інфузорыя/інфузорыі/інфузорыю		a protozoan, here a fake disease	https://starnik.by/pravapis/31251
+lemma.terrorbe	террорист	a terrorist	тэрарыст/тэрарыста		one who takes part in terror	https://starnik.by/pravapis/77235
+lemma.canopybe	парашют	a parachute	парашут		a canopy for a descent from the air	https://starnik.by/pravapis/53163
+lemma.homingbe	самонаводящийся	homing	саманаводны/саманаводнай		that guides itself onto a target; G f саманаводнай	https://starnik.by/pravapis/148151
+lemma.dialectbe	диалект	a dialect	дыялект/дыялекце		a local variety of a language; L дыялекце	https://starnik.by/pravapis/24484
+lemma.lawyerbe	адвокат	a lawyer	адвакат/адваката		one who defends the accused	https://starnik.by/pravapis/1972
+lemma.warheadbe	боеголовка	a warhead	боегалоўка/боегалоўку		the explosive head of a missile; A боегалоўку	https://starnik.by/pravapis/11103
+lemma.muabe	муа	a cackle	Муа		Frini-Ix's laugh; not a word	—
+lemma.domfaith	доминаторопоклонник	a dominator worshipper	дамінатарапаклоннікаў/дамінатарапаклоннік		coined name of the sect	—
+lemma.gawkerbe	зевака	a gawker	зявака/зявакі		one who stares from curiosity; N pl зявакі	https://starnik.by/pravapis/29953
+lemma.kilometbe	километр	a kilometer	кілямэтар	кіламетр	Starnik кіламетр; hunspell кілямэтар, as with кіляграм	https://starnik.by/pravapis/35335
+lemma.cinemabe	кинематограф	cinema	кінамастацтва		the art of film; Starnik equates кінематаграфія with кінамастацтва	https://starnik.by/pravapis/35492
+lemma.concordbe	содружество	a commonwealth	Садружнасьць/Садружнасьцю	садружнасць	an alliance; Starnik садружнасць; hunspell and this corpus use сь; I Садружнасьцю	https://starnik.by/pravapis/66516
