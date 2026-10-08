@@ -74,8 +74,8 @@ original jump.
   says two: a horse and a human. The choice is the digit `2`. The riddle
   has to keep exactly those two, and the choice has to stay `2`.
 
-**`Piratesnest.qmm`** (empty). The wardrobe password is not typed. The NPC
-says a URL and the jump text is the same URL. Keep both copies identical:
+**`Piratesnest.qmm`** (filled). The wardrobe password is not typed. The NPC
+says a URL and the jump text is the same URL. Both copies stayed identical:
 `gns://pelengessa.peleng/`, `gns://bombinhome.maloc/`,
 `gns://riaskaportal.peleng/`, and the same host tokens
 `createbomb`, `hammerthor`.
