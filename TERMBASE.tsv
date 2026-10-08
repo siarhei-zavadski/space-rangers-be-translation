@@ -837,7 +837,7 @@ lemma.notiksov	Эндрю Нотиксов	Andrew Notiksov	Эндру/Ноцік
 lemma.pacifist	Боб Пацифист	Bob Pacifist	Боб/Пацыфіст/Пацыфістам		Citadel player with a mohawk	Photorobot.qmm
 lemma.citadel	Цитадель	Citadel	Цытадэль		game the pacifist plays	Photorobot.qmm
 lemma.paganets	поганец	scoundrel	паганец/паганца		Starnik sense 1, a vile person	https://starnik.by/pravapis/49996
-lemma.thrice_cursed	треклятый	thrice-cursed	трыкляты/трыклятым/трыклятыя	пракляты	emphatic cursed case; hunspell only splits the word	https://starnik.by/pravapis/155071
+lemma.thrice_cursed	треклятый	thrice-cursed	трыкляты/трыклятым/трыклятыя/трыклятага	пракляты	emphatic cursed case; hunspell only splits the word; G трыклятага	https://starnik.by/pravapis/155071
 lemma.brain_shake	сотрясение	concussion	страсеньне		organ sense мозга; hunspell soft sign	https://starnik.by/pravapis/72231
 lemma.sleeping	снотворное	sleeping draught	снатворнае		Starnik noun sense	https://starnik.by/pravapis/150824
 lemma.voila	вуаля	voilà	Вуаля/вуаля		French interjection on the returned case	Photorobot.qmm
@@ -3008,7 +3008,7 @@ lemma.favorable	благосклонное	favorable	прыхільны		with н
 lemma.practice	Потренируйтесь	practice	Патрэнуйцеся	Патрэніруйцеся	hunspell spelling; Starnik has трэніравацца	https://starnik.by/pravapis/215642
 lemma.urinate	пИсать (stress)	to piss	мачыцца		Starnik sense 2; beside пісаць	https://starnik.by/pravapis/187765
 lemma.wallet	кошелька	wallet	кашалёк/кашалька		G кашалька	https://starnik.by/pravapis/34808
-lemma.insolent	наглецу	insolent man	нахабнік/нахабніку		dative нахабніку	https://starnik.by/pravapis/46575
+lemma.insolent	наглецу	insolent man	нахабнік/нахабніку/нахабнікаў		dative нахабніку; G pl нахабнікаў	https://starnik.by/pravapis/46575
 lemma.smack	Отвесить	smack	уляпіць		ear-smack, Starnik sense 2	https://starnik.by/pravapis/217252
 lemma.loaf	шастать	loaf about	швэндаць		wander with nothing to do	https://starnik.by/pravapis/220092
 lemma.imperishable	неувядаемой	unfading	нятленнай	няўвядальнай	eternal glory; hunspell lacks няўвядальны	https://starnik.by/pravapis/132159
@@ -3419,7 +3419,7 @@ lemma.mark	отметка	a mark	адзнака/адзнакі		a mark you judge
 lemma.vain	тщетно	in vain	дарэмна		useless, as a predicate	https://starnik.by/pravapis/223471
 lemma.yanxex	Янхех	Yanxex	Янхэх		the search engine the scene spells Yanxex; coined	—
 lemma.refract	преломлять	to refract	пераламляе		of a ray changing direction; hunspell has пераламляць	https://starnik.by/pravapis/202283
-lemma.question	вопрос	a question	пытаньне/пытаньні/пытаньняў/Пытаньні	пытанне/пытанні	a request for an answer, sense 1; Starnik пытанне, tarask -ньне; G pl пытаньняў	https://starnik.by/pravapis/61960
+lemma.question	вопрос	a question	пытаньне/пытаньні/пытаньняў/Пытаньні/пытаньню	пытанне/пытанні	a request for an answer, sense 1; Starnik пытанне, tarask -ньне; G pl пытаньняў; D пытаньню	https://starnik.by/pravapis/61960
 lemma.dreadful	жуткий	dreadful	жудасны/жудаснай/Жудасна		frightening, sense 1; I f жудаснай	https://starnik.by/pravapis/111124
 lemma.frost	иней	frost	іней		ice crystals from cold breath	https://starnik.by/pravapis/30784
 lemma.veil	пелена	a veil	завеса		that which covers the sight, sense 2	https://starnik.by/pravapis/26324
@@ -3745,7 +3745,7 @@ lemma.abomination	мерзота	disgust	мярзота		something that disgusts
 lemma.skedaddle	удрать	to scram	драпануць		to run off in a hurry, sense 2	https://starnik.by/pravapis/177771
 lemma.improvised	импровизированный	improvised	імправізаваны/імправізаваную		made in a hurry, sense 3; A feminine імправізаваную	https://starnik.by/pravapis/115578
 lemma.hellish	адский	hellish	пякельны/пякельнага	адскі	masculine genitive пякельнага	https://starnik.by/pravapis/144139
-lemma.fury	ярость	fury	лютасьць/лютасьці		a furious state, sense 2; Starnik лютасць; hunspell ь; L лютасьці	https://starnik.by/pravapis/40354
+lemma.fury	ярость	fury	лютасьць/лютасьці/лютасьцю		a furious state, sense 2; Starnik лютасць; hunspell ь; L лютасьці; I лютасьцю	https://starnik.by/pravapis/40354
 lemma.insult	оскорбление	an insult	абраза/абразу		the offense; the icon is абраз	https://starnik.by/pravapis/817
 lemma.bone	кость	a bone	костка/костак		same as косць, sense 1; G pl костак	https://starnik.by/pravapis/36628
 lemma.stomach	желудок	a stomach	страўнік		the organ the gullet joins	https://starnik.by/pravapis/72264
@@ -4094,7 +4094,7 @@ lemma.get_up	вставать	to get up	уставаць/устаём/ўстаё
 lemma.lie_awhile	полежать	to lie a while	паляжаць/паляжым		to lie for some time; 1pl future паляжым	https://starnik.by/pravapis/197144
 lemma.enough	хватит	enough	хопіць/Хопіць		predicative, that's enough; not the verb хапіць	https://starnik.by/pravapis/251573
 lemma.still	еще	still	яшчэ/Яшчэ		some more, or again, sense 1	https://starnik.by/pravapis/250940
-lemma.shoot_dead	пристрелить	to shoot dead	прыстрэліць/Прыстрэліць		to kill with a shot	https://starnik.by/pravapis/207917
+lemma.shoot_dead	пристрелить	to shoot dead	прыстрэліць/Прыстрэліць/прыстрэліў		to kill with a shot; past m прыстрэліў	https://starnik.by/pravapis/207917
 lemma.take_aim	прицелиться	to take aim	прыцэліцца/прыцэліліся		to point a weapon at a target, sense 1; past plural прыцэліліся	https://starnik.by/pravapis/208300
 lemma.press_on	нажать	to press	націснуць		to press on something, sense 1	https://starnik.by/pravapis/191352
 lemma.finger_hook	спуск	a trigger	спуск		the finger hook of a firearm, sense 3; genitive спуска	https://starnik.by/pravapis/71654
@@ -4602,3 +4602,11 @@ lemma.marrinian	Марринианский	a ridge	Маррыніянскага	
 lemma.cigbrand	Пеленгейтор	a cigarette	Пеленгейтар		peleng cigarette brand	—
 lemma.ofrahish	рахишианский	of Rahish	рахішыянскіх		the adjective of this planet; G pl рахішыянскіх	—
 lemma.kinfolk	родня	kin	радня/раднёй		relatives as one group, sense 1; I раднёй	https://starnik.by/pravapis/62456
+lemma.topcloth	пальто	an overcoat	паліто	пальто	upper garment, indeclinable	https://starnik.by/pravapis/52057
+lemma.slurred_no	неет	a slurred no	неет		drunk drawl of не; hunspell suggests нетры	—
+lemma.return_we	вернемся	let us return	вернемся	вярнемся	future 1pl of вярнуцца; the stem is верн-	https://starnik.by/pravapis/175323
+lemma.stupefy	оторопел	to be stunned	ачмурэць/ачмурэў		lose a clear grasp of what is happening; past m ачмурэў	https://starnik.by/pravapis/171141
+lemma.rouse_up	очнулся	to come round	ачомацца/ачомаўся		get one's bearings; past m ачомаўся; the faint is апрытомнець	https://starnik.by/pravapis/171149
+lemma.shroud	окутал	to envelop	атуліць/атуліў		wrap on every side; past m атуліў	https://starnik.by/pravapis/170835
+lemma.annoy	достала	to wear someone out	надакучыць/надакучыла		become tiresome; past f надакучыла	https://starnik.by/pravapis/188899
+lemma.shrug	плечами	to shrug	паціснуць/паціснуў		shrug the shoulders; past m паціснуў	https://starnik.by/pravapis/200719

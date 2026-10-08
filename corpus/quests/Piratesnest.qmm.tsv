@@ -1994,44 +1994,55 @@ ____________________ ст. 1826___________________<clrEnd>
 "/quests/Piratesnest.qmm/jumps/382/text"	"Привести Кацапа в чувство"	"Quest Piratesnest.qmm: jumps.382.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Прывесьці Кацапа ў пачуцьцё"
 "/quests/Piratesnest.qmm/jumps/383/text"	"Проснуться"	"Quest Piratesnest.qmm: jumps.383.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Прачнуцца"
 "/quests/Piratesnest.qmm/jumps/384/text"	"Выключить ГайдНет"	"Quest Piratesnest.qmm: jumps.384.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Выключыць ГайдНэт"
-"/quests/Piratesnest.qmm/jumps/385/text"	"О! Хорошая тема! Давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.385.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/385/text"	"О! Хорошая тема! Давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.385.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"О! Добрая тэма! Давай пагаворым пра жыцьцё"
 "/quests/Piratesnest.qmm/jumps/385/description"	"- А че? Давай... Вот у меня... невеста есть... такая прекрасная, как все четыре... луны Рахиша... Такая самка... красивая, как комочек болотной... это... тины... я вот... после этой... этого... запуска планирую... свадьбу на родном болоте... устроить, в общем... пусть будут все... надо б друзей на Рахиш собрать... а то так давно родного дома не видели..."	"Quest Piratesnest.qmm: jumps.385.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"- А што? Давай... Вось у мяне... нявеста ёсьць... такая цудоўная, як усе чатыры... сатэліты Рахіша... Такая самка... прыгожая, як камячок балотнай... гэта... ціны... я вось... пасьля гэтай... гэтага... запуску пляную... вясельле на родным балоце... справіць, адным словам... хай будуць усе... трэба б сяброў на Рахіш сабраць... бо так даўно роднага дому не бачылі..."
-"/quests/Piratesnest.qmm/jumps/386/text"	"Ну... давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.386.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/386/text"	"Ну... давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.386.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Ну... давай пагаворым пра жыцьцё"
 "/quests/Piratesnest.qmm/jumps/386/description"	"- А че? Давай... Вот у меня... невеста есть... такая прекрасная, как все четыре... луны Рахиша... Такая самка... красивая, как комочек болотной... это... тины... я вот... после этой... этого... запуска планирую... свадьбу на родном болоте... устроить, в общем... пусть будут все... надо б друзей на Рахиш собрать... а то так давно родного дома не видели..."	"Quest Piratesnest.qmm: jumps.386.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"- А што? Давай... Вось у мяне... нявеста ёсьць... такая цудоўная, як усе чатыры... сатэліты Рахіша... Такая самка... прыгожая, як камячок балотнай... гэта... ціны... я вось... пасьля гэтай... гэтага... запуску пляную... вясельле на родным балоце... справіць, адным словам... хай будуць усе... трэба б сяброў на Рахіш сабраць... бо так даўно роднага дому не бачылі..."
-"/quests/Piratesnest.qmm/jumps/387/text"	"Нет, не хочу"	"Quest Piratesnest.qmm: jumps.387.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/387/text"	"Нет, не хочу"	"Quest Piratesnest.qmm: jumps.387.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Не, не хачу"
 "/quests/Piratesnest.qmm/jumps/387/description"	"Кацап пожал плечами.
 - Не хочешь, как хочешь... ладно... ой... неет...
-Пеленг окончательно потерял ориентацию в пространстве, и смотрел куда-то влево вверх."	"Quest Piratesnest.qmm: jumps.387.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/388/text"	"А что за корабль?"	"Quest Piratesnest.qmm: jumps.388.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Пеленг окончательно потерял ориентацию в пространстве, и смотрел куда-то влево вверх."	"Quest Piratesnest.qmm: jumps.387.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Кацап паціснуў плячыма.
+- Ня хочаш, як хочаш... добра... ой... неет...
+Пеленг канчаткова згубіў арыентацыю ў прасторы, і глядзеў кудысьці ўлева ўверх."
+"/quests/Piratesnest.qmm/jumps/388/text"	"А что за корабль?"	"Quest Piratesnest.qmm: jumps.388.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"А што за карабель?"
 "/quests/Piratesnest.qmm/jumps/388/description"	"Кацап нисколько не удивился вашему вопросу.
 - Такая машина боевая... ясно? Ай, давай о другом. Достала... меня... эта тема.
 
-Похоже, вы на верной волне, только вряд ли Кацапу понравится слушать дальше ваши вопросы."	"Quest Piratesnest.qmm: jumps.388.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/389/text"	"Хорошо, давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.389.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+Похоже, вы на верной волне, только вряд ли Кацапу понравится слушать дальше ваши вопросы."	"Quest Piratesnest.qmm: jumps.388.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Кацап ніколькі не зьдзівіўся вашаму пытаньню.
+- Такая машына баявая... ясна? Ай, давай пра іншае. Надакучыла... мне... гэтая тэма.
+
+Падобна, вы на слушнай хвалі, толькі наўрад ці Кацапу спадабаецца слухаць далей вашы пытаньні."
+"/quests/Piratesnest.qmm/jumps/389/text"	"Хорошо, давай о жизни поговорим"	"Quest Piratesnest.qmm: jumps.389.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Добра, давай пагаворым пра жыцьцё"
 "/quests/Piratesnest.qmm/jumps/389/description"	"- А че? Давай... Вот у меня... невеста есть... такая прекрасная, как все четыре... луны Рахиша... Такая самка... красивая, как комочек болотной... это... тины... я вот... после этой... этого... запуска планирую... свадьбу на родном болоте... устроить, в общем... пусть будут все... надо б друзей на Рахиш собрать... а то так давно родного дома не видели..."	"Quest Piratesnest.qmm: jumps.389.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"- А што? Давай... Вось у мяне... нявеста ёсьць... такая цудоўная, як усе чатыры... сатэліты Рахіша... Такая самка... прыгожая, як камячок балотнай... гэта... ціны... я вось... пасьля гэтай... гэтага... запуску пляную... вясельле на родным балоце... справіць, адным словам... хай будуць усе... трэба б сяброў на Рахіш сабраць... бо так даўно роднага дому не бачылі..."
-"/quests/Piratesnest.qmm/jumps/390/text"	"Корабль совмещает в себе завод и боевую машину?"	"Quest Piratesnest.qmm: jumps.390.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/390/text"	"Корабль совмещает в себе завод и боевую машину?"	"Quest Piratesnest.qmm: jumps.390.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Карабель сумяшчае ў сабе завод і баявую машыну?"
 "/quests/Piratesnest.qmm/jumps/390/description"	"Вы решили не отступать и продолжали терзать Кацапа вопросами.
-- Да нет, что ты! - крикнул он на весь бар. - Это... там корабль обычный... про ""завод"" и ""машину"" слышу впервые... кто тебе сказал?"	"Quest Piratesnest.qmm: jumps.390.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/391/text"	"Давай о корабле поговорим"	"Quest Piratesnest.qmm: jumps.391.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- Да нет, что ты! - крикнул он на весь бар. - Это... там корабль обычный... про ""завод"" и ""машину"" слышу впервые... кто тебе сказал?"	"Quest Piratesnest.qmm: jumps.390.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы вырашылі не адступаць і працягвалі катаваць Кацапа пытаньнямі.
+- Ды не, што ты! — крыкнуў ён на ўвесь бар. — Гэта... там карабель звычайны... пра ""завод"" і ""машыну"" чую ўпершыню... хто табе сказаў?"
+"/quests/Piratesnest.qmm/jumps/391/text"	"Давай о корабле поговорим"	"Quest Piratesnest.qmm: jumps.391.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Давай пагаворым пра карабель"
 "/quests/Piratesnest.qmm/jumps/391/description"	"Кацап приуныл.
-- Жду тут запуска корабля треклятого... никакой личной жизни с ним нету... вот..."	"Quest Piratesnest.qmm: jumps.391.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/392/text"	"Никто, вот стаканчик"	"Quest Piratesnest.qmm: jumps.392.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- Жду тут запуска корабля треклятого... никакой личной жизни с ним нету... вот..."	"Quest Piratesnest.qmm: jumps.391.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Кацап панурыўся.
+- Чакаю тут запуску трыклятага карабля... ніякага асабістага жыцьця зь ім няма... вось..."
+"/quests/Piratesnest.qmm/jumps/392/text"	"Никто, вот стаканчик"	"Quest Piratesnest.qmm: jumps.392.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Ніхто, вось кубачак"
 "/quests/Piratesnest.qmm/jumps/392/description"	"Пеленг взял протянутый стакан и опустошил его.
-- А... ну понятно..."	"Quest Piratesnest.qmm: jumps.392.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/393/text"	"Агент планеты <FromPlanet> - Русман"	"Quest Piratesnest.qmm: jumps.393.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- А... ну понятно..."	"Quest Piratesnest.qmm: jumps.392.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Пеленг узяў працягнутую шклянку і апаражніў яе.
+- А... ну зразумела..."
+"/quests/Piratesnest.qmm/jumps/393/text"	"Агент планеты <FromPlanet> - Русман"	"Quest Piratesnest.qmm: jumps.393.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Агент плянэты <FromPlanet> - Русман"
 "/quests/Piratesnest.qmm/jumps/393/description"	"Вы уже прикусили себе язык за эти слова, но было поздно. Кацап словно очнулся ото сна, видимо, он был не настолько пьян.
-- Кто-кто? - с тихой яростью в голосе переспросил он."	"Quest Piratesnest.qmm: jumps.393.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/394/text"	"Давай вернемся к нашему разговору"	"Quest Piratesnest.qmm: jumps.394.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- Кто-кто? - с тихой яростью в голосе переспросил он."	"Quest Piratesnest.qmm: jumps.393.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы ўжо прыкусілі сабе язык за гэтыя словы, але было позна. Кацап быццам ачомаўся ад сну, відаць, ён быў не настолькі п'яны.
+- Хто-хто? — з ціхай лютасьцю ў голасе перапытаў ён."
+"/quests/Piratesnest.qmm/jumps/394/text"	"Давай вернемся к нашему разговору"	"Quest Piratesnest.qmm: jumps.394.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Давай вернемся да нашай размовы"
 "/quests/Piratesnest.qmm/jumps/394/description"	"Кацап словно очнулся ото сна.
 - А... да... что тебе интересно узнать? Я... отвечу... если смогу..."	"Quest Piratesnest.qmm: jumps.394.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Кацап быццам прачнуўся са сну.
 - А... так... што табе цікава даведацца? Я... адкажу... калі змагу..."
-"/quests/Piratesnest.qmm/jumps/395/text"	"Агент планеты <FromPlanet> - Русман"	"Quest Piratesnest.qmm: jumps.395.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/395/text"	"Агент планеты <FromPlanet> - Русман"	"Quest Piratesnest.qmm: jumps.395.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Агент плянэты <FromPlanet> - Русман"
 "/quests/Piratesnest.qmm/jumps/395/description"	"Вы уже прикусили себе язык за эти слова, но, к счастью, Кацап был так пьян, что ничего не понял.
-- А... - весело сказал он, - ну передай ему... это... привет от меня... хе-хе... ненавижу этого агента..."	"Quest Piratesnest.qmm: jumps.395.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/396/text"	"Пенчекряк в пальто"	"Quest Piratesnest.qmm: jumps.396.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- А... - весело сказал он, - ну передай ему... это... привет от меня... хе-хе... ненавижу этого агента..."	"Quest Piratesnest.qmm: jumps.395.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Вы ўжо прыкусілі сабе язык за гэтыя словы, але, на шчасьце, Кацап быў так п'яны, што нічога не зразумеў.
+- А... — вясёла сказаў ён, — ну перадай яму... гэта... прывітаньне ад мяне... хе-хе... ненавіджу гэтага агента..."
+"/quests/Piratesnest.qmm/jumps/396/text"	"Пенчекряк в пальто"	"Quest Piratesnest.qmm: jumps.396.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Пэнчэкряк у паліто"
 "/quests/Piratesnest.qmm/jumps/396/description"	"Кацап на несколько секунд оторопел от такой наглости. А затем вытащил бластер и пристрелил вас на месте.
-- Прости, парень, я не люблю наглецов... - слышали вы его последние слова перед тем, как мрак окутал вас навсегда."	"Quest Piratesnest.qmm: jumps.396.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/397/text"	"Никто, даю слово"	"Quest Piratesnest.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+- Прости, парень, я не люблю наглецов... - слышали вы его последние слова перед тем, как мрак окутал вас навсегда."	"Quest Piratesnest.qmm: jumps.396.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Кацап на некалькі сэкундаў ачмурэў ад такой нахабнасьці. А затым выхапіў блястэр і прыстрэліў вас на месцы.
+- Прабач, хлопец, я не люблю нахабнікаў... — чулі вы яго апошнія словы перад тым, як мрок атуліў вас назаўжды."
+"/quests/Piratesnest.qmm/jumps/397/text"	"Никто, даю слово"	"Quest Piratesnest.qmm: jumps.397.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Ніхто, даю слова"
 "/quests/Piratesnest.qmm/jumps/397/description"	"Кацап был неумолим. Он уже сунул руку в карман, нащупывая бластер. Нужно что-то делать. И побыстрее!"	"Quest Piratesnest.qmm: jumps.397.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/398/text"	"Я клянусь тебе, тебе послышалось"	"Quest Piratesnest.qmm: jumps.398.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/398/description"	"Пеленг продолжал искать бластер. И когда вы уже умоляли его сжалиться, думая о своей кончине, пеленг рассмеялся.
@@ -2040,7 +2051,7 @@ ____________________ ст. 1826___________________<clrEnd>
 "/quests/Piratesnest.qmm/jumps/399/text"	"Я клянусь тебе, тебе послышалось"	"Quest Piratesnest.qmm: jumps.399.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/399/description"	"Пеленг продолжал искать бластер. И когда вы уже умоляли его сжалиться, думая о своей кончине, пеленг спокойно выстрелил в вас.
 - Прости, парень, я не люблю шпионов... - слышали вы его последние слова перед тем, как мрак окутал вас навсегда."	"Quest Piratesnest.qmm: jumps.399.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
-"/quests/Piratesnest.qmm/jumps/400/text"	"Давай вернемся к нашему разговору"	"Quest Piratesnest.qmm: jumps.400.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
+"/quests/Piratesnest.qmm/jumps/400/text"	"Давай вернемся к нашему разговору"	"Quest Piratesnest.qmm: jumps.400.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Давай вернемся да нашай размовы"
 "/quests/Piratesnest.qmm/jumps/400/description"	"- А... да... что тебе интересно узнать? Я... отвечу... если смогу..."	"Quest Piratesnest.qmm: jumps.400.description. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
 "/quests/Piratesnest.qmm/jumps/401/text"	"Проснуться"	"Quest Piratesnest.qmm: jumps.401.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	"Прачнуцца"
 "/quests/Piratesnest.qmm/jumps/402/text"	"Высказать положительное мнение о фильме"	"Quest Piratesnest.qmm: jumps.402.text. Preserve every <tag> exactly."	"Quest,Piratesnest"	""
