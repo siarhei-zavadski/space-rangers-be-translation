@@ -1021,7 +1021,7 @@ lemma.jumpmeter	Джамперметр	Jumpmeter	Джампэрмэтар/Джа
 lemma.grabitization	прихватизация	expropriation	прыхватызацыі	прыватызацыі	joke blend of grabbing and privatization; hunspell drops the pun	STQ_Baron2.qmm
 lemma.san_holo	Сан Холо	San Holo	Сан/Сана/Хола		the name shouted at the suppressor; hunspell maps Сана elsewhere	STQ_Baron2.qmm
 lemma.nevits_gnik	Невитс и Гник	Nevits & Gnik	Нэвіц/Гнік		horror-park company; hunspell maps the names to nicknames	Badday.qmm
-lemma.videophone	видеофон	videophone	відэафон/відэафона/відэафонам	відэадамафон	wall screen-phone; hunspell invents a ladies' phone	Badday.qmm
+lemma.videophone	видеофон	videophone	відэафон/відэафона/відэафонам/відэафоне	відэадамафон	wall screen-phone; hunspell invents a ladies' phone; L відэафоне	Badday.qmm
 lemma.cesska	Цесска	Cesska	Цэска/Цэскай/Цэскі/Цэску		album name; hunspell has no such name	Badday.qmm
 lemma.ritz	Риц	Ritz	Рыц/Рыцам/Рыца		album surname; hunspell has no such name	Badday.qmm
 lemma.shitzka	Шицка	Shitzka	Шыцка/Шыцку		album name; hunspell has no such name	Badday.qmm
@@ -1175,7 +1175,7 @@ lemma.bumburovka	Бумбуровка	Bumburovka	Бумбуроўка		home syst
 lemma.ragnar	Рагнар	Ragnar	Рагнар		default ranger name in the briefing	Citadels.qmm
 lemma.hoverlet	ховерлет	hoverlet	ховерлет/ховерлетаў/ховерлетны/Ховерлетны/ховерлета		coined tracked gunship; hunspell has no entry; G ховерлета	Citadels.qmm
 lemma.earthquake	землетрясение	earthquake	землятрус/Землятрус/землятрусу	струс зямлі	Starnik lemma; hunspell rejects the word; G землятрусу	https://starnik.by/pravapis/29049
-lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў/шахцёрскі/Шахцёрскія	шахтар	mine worker; Starnik spelling, hunspell rejects the forms	https://starnik.by/pravapis/84972
+lemma.miner	шахтёр	miner	шахцёр/шахцёры/шахцёра/шахцёраў/шахцёрскі/Шахцёрскія/шахцёрскія	шахтар	mine worker; Starnik spelling, hunspell rejects the forms; lowercase N pl шахцёрскія	https://starnik.by/pravapis/84972
 lemma.adore	обожать	adore	абажаю/Абажаю/абажае/абажаць		1sg of абажаць; hunspell suggestions are unrelated; infinitive абажаць; hunspell suggestions are other words	https://starnik.by/pravapis/164532
 lemma.citadel_abbr	Эн	En	Эн/Ме		Citadels stock abbreviations for energy and metal; the help line quotes them	Citadels.qmm
 lemma.morf	МОРФ	MORF	МОРФ/МОРФа		cube editor; trademark (TM) stays	Citadels.qmm
@@ -1356,7 +1356,7 @@ lemma.pylevzbuchivy	Пылевзбучивый	Dust-rouser	Пылеўзбучы�
 lemma.mozalg	Мозалг-Доп-Лагниф	Mozalg-Dop-Lagnif	Мозалг-Доп-Лагніф		faeyan patient	Feipsycho.qmm
 lemma.gdabo	Гдабо-бан	Gdabo-ban	Гдабо/бана/бан		malok writer; N бан, G бана	Feipsycho.qmm
 lemma.texton	Текстон	Texton	Тэкстон/Тэкстона		dominator boss the patient denies	Feipsycho.qmm
-lemma.ragobam	Рагобамская	Ragobam	Рагабамская/рагабамскіх		coined toad	Feipsycho.qmm
+lemma.ragobam	Рагобамская	Ragobam	Рагабамская/рагабамскіх/рагабамская		coined toad; lowercase рагабамская	Feipsycho.qmm
 lemma.flask	колба	flask	колба/Колба/колбаў/колбай	коўба	laboratory vessel, not sausage	https://starnik.by/pravapis/36296
 lemma.sesame	Сим-сим	open sesame	Сэзам/сэзам/сэзамам		elevator password; same words on the jump and in the ward	Feipsycho.qmm
 lemma.bioreactor	биореактор	bioreactor	біярэактар/Біярэактар		hospital disposal tank	https://starnik.by/pravapis/10678
@@ -4509,7 +4509,7 @@ lemma.bacterium	бактерия	a bacterium	бактэрыя/бактэрый		
 lemma.leftovers	объедки	leftovers	аб'едкі/аб'едках		uneaten scraps; L pl аб'едках	https://starnik.by/pravapis/16
 lemma.soup	суп	soup	суп/супу		a liquid dish; G супу	https://starnik.by/pravapis/73244
 lemma.maw	пасть	a maw	пашча/пашчу		an animal's mouth; A пашчу	https://starnik.by/pravapis/54610
-lemma.porous	пористый	porous	порыстай		full of pores, sense 2; hunspell keeps о	https://starnik.by/pravapis/140387
+lemma.porous	пористый	porous	порыстай/порысты		full of pores, sense 2; hunspell keeps о; masculine порысты	https://starnik.by/pravapis/140387
 lemma.biological	биологический	biological	біялягічнага		hunspell ля; Starnik біялагічны	https://starnik.by/pravapis/99530
 lemma.drek	дрянь	worthless stuff	дрэнь/дрэньню		useless stuff, sense 1; I дрэньню	https://starnik.by/pravapis/23623
 lemma.oath	клятва	an oath	клятву		a solemn promise; A клятву	https://starnik.by/pravapis/36122
@@ -4519,7 +4519,7 @@ lemma.magnification	увеличение	magnification	павелічэньне/
 lemma.transparent	прозрачный	transparent	празрыстая		letting light through	https://starnik.by/pravapis/141094
 lemma.disappearance	пропажа	a disappearance	прапажы		the act of vanishing, sense 1; L прапажы	https://starnik.by/pravapis/59029
 lemma.humanity	гуманность	humanity	гуманнасьць		hunspell inserts ь; Starnik гуманнасць	https://starnik.by/pravapis/21225
-lemma.lepras	лепрасовый	lepras	лепрасавага		coined peleng beast; hunspell suggestions are other words	—
+lemma.lepras	лепрасовый	lepras	лепрасавага/лепрас		coined peleng beast; hunspell suggestions are other words; N лепрас	—
 lemma.apprehension	опасение	apprehension	боязьзю		a feeling of danger; hunspell inserts ь in I; Starnik бояззю	https://starnik.by/pravapis/11264
 lemma.nom_noise	ням	yum	Ням		a tasting noise; hunspell accepts it	—
 lemma.uncultured	варвар	a barbarian	варвар		an uncultured cruel person, sense 2; hunspell suggestions are other words	https://starnik.by/pravapis/13378
