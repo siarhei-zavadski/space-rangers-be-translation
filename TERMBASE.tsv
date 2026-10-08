@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі/блястэрная/блястэрнай		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі; N f блястэрная; G f блястэрнай	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -4653,7 +4653,7 @@ lemma.nope	Неа	a shrug no	Няа		coined shrug paired with Ага	—
 lemma.tiik_faan	Тиик-Фаан	gaal escort	Ціік-Фаан/Ціік-Фаана/Ціік-Фаанам		gaal who meets the ranger; G Ціік-Фаана; I Ціік-Фаанам	—
 lemma.anatol	Курагин	the doctor	Курагін/Курагіным		Anatol Kuragin; I Курагіным	—
 lemma.jumper_npc	Джумпер	the one they help	Джумпэр/Джумпэра/Джумпэру		the character, not the jump pack Джампэр; G Джумпэра; D Джумпэру	—
-lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару		G Наргара; D Наргару	—
+lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару/Наргарам		G Наргара; D Наргару; I Наргарам	—
 lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона		puzzle token; do not transliterate	TRANSLATION.md
 lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
 lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
@@ -4678,3 +4678,9 @@ lemma.molizon	Молизон	a joke illness	Новы Малізон/Малізо
 lemma.luatanat	Луатанация	a joke illness	Луатанацыя/Луатанацыю		accusative Луатанацыю; not in Starnik	—
 lemma.lasselab	Лас-Селябинск	a city	Лас-Селябінск/Лас-Селябінска		keep Лас-; и to і; not Чалябінск	—
 lemma.domcast	Дом-ТВ	a channel	Дом-ТБ		sect television; ТБ is the abbreviation	—
+lemma.arachmodel	Киберпаук	a vehicle model	Кіберпавук		coined malok model; кібер + павук; hunspell suggestion is another word	https://starnik.by/pravapis/35243
+lemma.tvaanoom	Тваан-Оомсок	a sect name	Тваан-Оомсок/Тваан/Оомсок		likes pi; hunspell has no such name	—
+lemma.urgant	Ургант	Terron's creature	Ургант/Ургантамі		instrumental plural in the peleng prayer; not a common noun	—
+lemma.playcut	игра	a cut-off verb	гуля		broken гуляць, mirroring игра...; not a full word	—
+lemma.signinbe	логин	an OS login	лагін/лагіна/лагінаў		the account name Nondows loads; not in Starnik	—
+lemma.hitech	хай-тек	hi-tech	хай-тэк		building style; hyphen splits хай and тэк	—
