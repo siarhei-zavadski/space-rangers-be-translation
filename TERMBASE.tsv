@@ -138,7 +138,7 @@ lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not 
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
 lemma.blazer	Блазер	Blazer	Блазер/Блазера/Блазераў/Блазеру		proper name lock; G Блазера; D Блазеру; series блазероід	—
 lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам/келероід/келероіды/Келероід/келероідным/келероіднай/келероідамі		proper name lock; G Келлера; series келероід; adj келероіднай; I pl келероідамі	—
-lemma.terron	Террон	Terron	Террон/Терронскага/Террона		proper name lock; series тераноід; G Террона	—
+lemma.terron	Террон	Terron	Террон/Терронскага/Террона/Террону		proper name lock; series тераноід; G Террона; D Террону	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
 lemma.energotron	Энерготрон	Energotron	Энэргатрон		module name in <clr>	—
 lemma.relations	отношение	attitude/relations	адносіны		Starnik: pluralia tantum; diplomatic/race standing. дачыненне = 'bearing on', not this UI. Types: Варожыя/Дрэнныя/Нармальныя/Добрыя/Выдатныя	Starnik
@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі/блястэрная/блястэрнай		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі; N f блястэрная; G f блястэрнай	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі/блястэрная/блястэрнай/блястэрных		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі; N f блястэрная; G f блястэрнай	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -4728,3 +4728,16 @@ lemma.capsmyer	СМЕРТЬ	DEATH	СЬМЕРЦЬ		all-caps shout	—
 lemma.auntgas	Тетя Гасит	Aunt Puts-Out	Цётка/Гасіць		laundry-powder brand	—
 lemma.kryakins	пенчекряком	instrumental	пэнчэкрякам		I of пэнчэкряк; hunspell suggests another word	—
 lemma.obshukbe	обыск	a search	вобыск/вобыску		official search of a room; the verb is абшукваць	https://starnik.by/pravapis/14942
+lemma.accomplice	сообщник	an accomplice	саўдзельнік/саўдзельніка		one who takes part in a deed with someone	https://starnik.by/pravapis/67853
+lemma.gachette	гашетка	a trigger	гашэтка/гашэтку		the lever that releases a cocked hammer	https://starnik.by/pravapis/18544
+lemma.skimnap	бреющий	nap-of-the-earth	брыючы/брыючым		брыючы палёт, the low flight	https://starnik.by/pravapis/100145
+lemma.underside	днище	the underside	днішча/днішчам		the bottom of a hull; I днішчам	https://starnik.by/pravapis/23106
+lemma.vapourbe	шлейф	a trail	шлейф/шлейфа		a streak left in the air, sense 1 figurative	https://starnik.by/pravapis/85224
+lemma.foremanbe	бригадир	a foreman	брыгадзір/брыгадзіра		the leader of a work crew, sense 2	https://starnik.by/pravapis/11628
+lemma.recogbe	опознание	an identification	апазнаньне/апазнаньня		telling who a body is; Starnik апазнанне, hunspell ь	https://starnik.by/pravapis/5276
+lemma.rotorwing	винтокрылый	rotorcraft	вінтакрыл/вінтакрылыя		a craft borne by a rotor; N pl adjective вінтакрылыя	https://starnik.by/pravapis/14722
+lemma.loadhand	грузчик	a stevedore	грузчык/грузчыкаў/грузчыкам		a worker who loads cargo, not the machine пагрузчык	https://starnik.by/pravapis/20825
+lemma.unitmeas	единица	a unit	адзінка/адзінак		a quantity used to measure, sense 3; G pl адзінак	https://starnik.by/pravapis/2182
+lemma.hadesbe	ад	hell	пекла/пекле		the place of the damned, sense 1; L пекле	https://starnik.by/pravapis/54749
+lemma.blankpop	осечка	a misfire	асечка/асечку		no shot when the hammer falls	https://starnik.by/pravapis/6458
+lemma.mythtale	миф	a myth	міт/мітаў		G pl мітаў; Starnik writes міфаў, hunspell мітаў	https://starnik.by/pravapis/43982
