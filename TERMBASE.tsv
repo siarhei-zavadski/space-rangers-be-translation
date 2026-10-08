@@ -175,7 +175,7 @@ lemma.military_base	военная база	military base	вайсковая б�
 lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
 lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
 lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
-lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў/манеўру/манеўрам		Starnik stem (hunspell wants манэўр). G манеўру; I манеўрам; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў/манеўру/манеўрам/Манеўраваць		Starnik stem (hunspell wants манэўр). G манеўру; I манеўрам; infinitive Манеўраваць	https://starnik.by/pravapis/41566
 lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
@@ -4787,3 +4787,7 @@ lemma.magnanbe	великодушие	generosity	велікадушнасьць	
 lemma.ikbe	Ик	a hiccup	Ік		the hiccup interjection; hunspell suggestions are other words	—
 lemma.psycholg	психолог	a psychologist	псыхоляг	псіхолаг	Starnik псіхолаг; hunspell псыхоляг	https://starnik.by/pravapis/61467
 lemma.katyell	КЭ-Э-Э-ТИ	Katie's scream	КЭ		stretched shout of Кэці; hunspell maps the piece to other words	—
+lemma.fayrhoul	Файр ин зе хоул	fire in the hole	Файр/ін/зэ/хоўл		the ranger's broken shout; hunspell maps the pieces to other words	—
+lemma.temcut	тем	darkness cut off	цём		he faints before цёмна; hunspell maps цём to other words	—
+lemma.pasobstva	пособничество	abetting	пасобніцтва/пасобніцтве		L пасобніцтве; hunspell maps the word to other lemmas	https://starnik.by/pravapis/53636
+lemma.pranjne	пранне	laundry	праньне/праньня		Starnik пранне; tarask soft sign; G праньня; hunspell maps both to other words	https://starnik.by/pravapis/59001
