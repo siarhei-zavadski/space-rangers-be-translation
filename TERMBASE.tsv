@@ -3873,7 +3873,7 @@ lemma.sequence	порядок	order	парадак/парадку		the arranged 
 lemma.race	раса	a race	раса/расу		a kind of people, sense 1; A расу; not dew and not the clerical robe	https://starnik.by/pravapis/63808
 lemma.newt	амфибия	an amphibian	амфібія		a land-and-water animal, sense 1	https://starnik.by/pravapis/4502
 lemma.imbalance	дисбаланс	an imbalance	дысбалянс	дысбаланс	a lack of balance; Starnik дысбаланс; hunspell writes я	https://starnik.by/pravapis/24218
-lemma.camp	лагер	a camp	лягер/лягеру	лагер	a temporary camp, sense 2; G лягеру; Starnik лагер; hunspell writes э	https://starnik.by/pravapis/38305
+lemma.camp	лагер	a camp	лягер/лягеру/лягеры	лагер	a temporary camp, sense 2; G лягеру; L лягеры; Starnik лагер; hunspell writes э	https://starnik.by/pravapis/38305
 lemma.hurricane	ураган	a hurricane	ураган/урагану		a destructive wind, sense 1; G урагану	https://starnik.by/pravapis/78642
 lemma.foul_weather	непогода	bad weather	непагадзь/непагадзі		prolonged bad weather; G непагадзі	https://starnik.by/pravapis/47825
 lemma.evening	вечер	an evening	вечар/вечарам		the time after day, sense 1; I вечарам	https://starnik.by/pravapis/14173
@@ -4633,3 +4633,6 @@ lemma.expanse	пространство	a space	прастора/прастору
 lemma.simulant	виртуальное	virtual	віртуальны/віртуальную/віртуальнае		the adjective; the place-noun віртуал stays lemma.virtual_place	https://starnik.by/pravapis/102439
 lemma.oddity	особенностей	a peculiarity	асаблівасьць/асаблівасьцяў	асаблівасць/асаблівасцяў	a distinctive trait; Starnik асаблівасць; hunspell inserts ь; genitive plural асаблівасьцяў	https://starnik.by/pravapis/6349
 lemma.geography	географического	geographic	геаграфічны/геаграфічнага		of geography; genitive neuter геаграфічнага	https://starnik.by/pravapis/105564
+lemma.rachykhas	Рачихас	Rachikhas	Рачыхас/Рачыхаса		the peleng lieutenant, not the overlord Рачэхан; hunspell has no such name	—
+lemma.carcer	карцер	a lockup	карцар/карцара/карцары	карцэр	a dark cell for solitary confinement; Starnik lists both spellings; hunspell writes карцар; G карцара; L карцары	https://starnik.by/pravapis/34166
+lemma.erase_off	стерли	to erase	сьцерці/Сьцерлі	сцерлі	to rub something off a surface, sense 1; Starnik сцерці; hunspell inserts ь; past plural Сьцерлі	https://starnik.by/pravapis/214992
