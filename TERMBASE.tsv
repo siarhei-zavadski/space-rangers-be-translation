@@ -1506,7 +1506,7 @@ lemma.jogan	джоган	jogan	джоганы/галатамайскія/джо�
 lemma.aabis	Аабисс	Aabis	Аабіс		Gaaldok statue; the local word means самаадданы	Kidnapped.qmm
 lemma.gambit_break	га-ам'бит	gambit stutter	амбіт		spoken break of гамбіт; the hyphen splits the token	Kidnapped.qmm
 lemma.kortzin	кортзин	kortzin	кортзін/кортзіну/Кортзін		coined mineral left in the ground	Kidnapped.qmm
-lemma.clan	клан	clan	клан/Клан/Клану/Кланам/кланы	клян	pirate Clan; Starnik clan, not the maple клян	https://starnik.by/pravapis/35824
+lemma.clan	клан	clan	клан/Клан/Клану/Кланам/кланы/кланаў	клян	pirate Clan; Starnik clan, not the maple клян; G pl кланаў	https://starnik.by/pravapis/35824
 lemma.dread	Дред Неумолимый	Dread the Relentless	Дрэд/Дрэда/Неўмалімы/Неўмалімага		Versl's teacher; G Дрэда; epithet Неўмалімы	Kidnapped.qmm
 lemma.apchkhan	Апч'хан Ядохвост	Apch'khan	Апч'хан/Ядахвост		hunter; compound like Starnik вастрахвосты, tail is хвост	Kidnapped.qmm
 lemma.flenky	Флэнки Тим	Flenky Tim	Флэнкі		dead pirate named by Lioni; Тым passes hunspell	Kidnapped.qmm
@@ -4657,3 +4657,19 @@ lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару
 lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона		puzzle token; do not transliterate	TRANSLATION.md
 lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
 lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
+lemma.veiego	Веиего	sect head	Веіега		transliteration of the sect head; и to і, final о to а	—
+lemma.casablanca	Касабланка	a planet	Касабланка		quest planet; hunspell suggests Касаблянка, a different word	—
+lemma.randnick	Рандомка	a random slot	Выпадкоўка		nickname of a random variable, not the god Рэндам	—
+lemma.torpwar	торпеда	a torpedo	тарпэда/тарпэды/тарпэд/Тарпэды	тарпеда	a self-propelled charge; Starnik тарпеда, hunspell э; G pl тарпэд	https://starnik.by/pravapis/74909
+lemma.workcloth	роба	work clothes	роба/робы/Робы		coarse work clothes, the sect uniform; N pl робы	https://starnik.by/pravapis/64684
+lemma.sectfaith	секта	a sect	сэкта/сэкты/сэкце/Сэкты		a breakaway religious group, sense 1; hunspell э; Starnik секта; L сэкце	https://starnik.by/pravapis/68496
+lemma.hierarchy	иерархия	a hierarchy	герархія/герархіі	іерархія	order of rank; Starnik іерархія, hunspell герархія; L герархіі	https://starnik.by/pravapis/30147
+lemma.votarygrp	община	a community	абшчына/Абшчына		a voluntary fellowship, sense 2; the sect's own name	https://starnik.by/pravapis/1161
+lemma.witness_n	свидетель	a witness	сьведка/Сьведка/Сьведкаў		one who was present, sense 1; Starnik сведка, hunspell soft sign; G pl Сьведкаў	https://starnik.by/pravapis/68060
+lemma.underling	пешка	a pawn	пешка/пешкай		an insignificant person, sense 2; I пешкай	https://starnik.by/pravapis/56490
+lemma.swornmate	побратим	a sworn brother	пабрацім/пабраціме		a named brother; L пабраціме	https://starnik.by/pravapis/49777
+lemma.chapel_n	часовня	a chapel	капліца/капліцы		a small church building; G капліцы	https://starnik.by/pravapis/33549
+lemma.suburbhouse	коттедж	a cottage	катэдж/катэджаў		a small suburban house; G pl катэджаў	https://starnik.by/pravapis/34630
+lemma.helm_yoke	штурвал	a helm	штурвал		the wheel that steers a craft	https://starnik.by/pravapis/85818
+lemma.rinsespout	душ	a shower	душ		a water spray, sense 1; also the torpedo-barrage nickname	https://starnik.by/pravapis/23844
+lemma.vehicle_armor	броня	vehicle armor	браня/Браня		armor of a vehicle, sense 2; N браня	https://starnik.by/pravapis/11379
