@@ -136,7 +136,7 @@ lemma.trade_center	торговый центр	trade center	гандлёвы ц�
 lemma.appear	появиться	appear	з'явіцца/з'явілася/з'явіўся/з'явіліся		user lock: apostrophe, not зьявіцца	—
 lemma.money	деньги	money	грошы		pluralia tantum; G грошай (not грошаў — that is G of грош/coin); D грашам; I грашыма/грашамі; L грашах	Starnik
 lemma.galactic_council	Галактический Совет	Galactic Council	Галяктычны савет		already FormRuinsSB; родны савета	—
-lemma.blazer	Блазер	Blazer	Блазер/Блазера/Блазераў		proper name lock; G Блазера; series блазероід	—
+lemma.blazer	Блазер	Blazer	Блазер/Блазера/Блазераў/Блазеру		proper name lock; G Блазера; D Блазеру; series блазероід	—
 lemma.keller	Келлер	Keller	Келлер/Келлеру/келероідаў/келероіда/келероідам/келероід/келероіды/Келероід/келероідным/келероіднай/келероідамі		proper name lock; G Келлера; series келероід; adj келероіднай; I pl келероідамі	—
 lemma.terron	Террон	Terron	Террон/Терронскага/Террона		proper name lock; series тераноід; G Террона	—
 lemma.dematerializer	Дематериализатор	Dematerializer	Дэматэрыялізатар		module name in <clr>	—
@@ -4657,7 +4657,7 @@ lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару
 lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона		puzzle token; do not transliterate	TRANSLATION.md
 lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
 lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
-lemma.veiego	Веиего	sect head	Веіега		transliteration of the sect head; и to і, final о to а	—
+lemma.veiego	Веиего	sect head	Веіега/Веіегі		transliteration of the sect head; и to і, final о to а; G Веіегі	—
 lemma.casablanca	Касабланка	a planet	Касабланка		quest planet; hunspell suggests Касаблянка, a different word	—
 lemma.randnick	Рандомка	a random slot	Выпадкоўка		nickname of a random variable, not the god Рэндам	—
 lemma.torpwar	торпеда	a torpedo	тарпэда/тарпэды/тарпэд/Тарпэды	тарпеда	a self-propelled charge; Starnik тарпеда, hunspell э; G pl тарпэд	https://starnik.by/pravapis/74909
@@ -4673,3 +4673,8 @@ lemma.suburbhouse	коттедж	a cottage	катэдж/катэджаў		a smal
 lemma.helm_yoke	штурвал	a helm	штурвал		the wheel that steers a craft	https://starnik.by/pravapis/85818
 lemma.rinsespout	душ	a shower	душ		a water spray, sense 1; also the torpedo-barrage nickname	https://starnik.by/pravapis/23844
 lemma.vehicle_armor	броня	vehicle armor	браня/Браня		armor of a vehicle, sense 2; N браня	https://starnik.by/pravapis/11379
+lemma.akasec	Сециянка	faeyan illness	Ака Сэцыянка/Сэцыянку/Сэцыянка		accusative Сэцыянку; the Illness name	—
+lemma.molizon	Молизон	a joke illness	Новы Малізон/Малізон		Kuragin's cure; not in Starnik	—
+lemma.luatanat	Луатанация	a joke illness	Луатанацыя/Луатанацыю		accusative Луатанацыю; not in Starnik	—
+lemma.lasselab	Лас-Селябинск	a city	Лас-Селябінск/Лас-Селябінска		keep Лас-; и to і; not Чалябінск	—
+lemma.domcast	Дом-ТВ	a channel	Дом-ТБ		sect television; ТБ is the abbreviation	—
