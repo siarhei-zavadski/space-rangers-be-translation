@@ -2801,7 +2801,7 @@ lemma.lyakusha_initial	Ф	lyakusha initial	Ф		Cyrillic initial left in the GLAV
 lemma.rt_marker	РТ	dev abbreviation	РТ		left in the temporary GLAVRED value; not a word	—
 lemma.price	цена	price	цана/Цана		what something costs	https://starnik.by/pravapis/82539
 lemma.periodical	журнал	magazine	часопіс/часопіса/часопісаў		a periodical, not the firearm magazine	https://starnik.by/pravapis/84062
-lemma.temporary	временный	temporary	часовы/Часовы		lasting for a while; часавы means related to time, not a rejected form	https://starnik.by/pravapis/161009
+lemma.temporary	временный	temporary	часовы/Часовы/Часовая		lasting for a while; часавы means related to time, not a rejected form; N f Часовая	https://starnik.by/pravapis/161009
 lemma.description	описание	description	апісаньне/апісаньняў	апісанне	a verbal account; hunspell ь	https://starnik.by/pravapis/5481
 lemma.telegram	телеграмма	telegram	тэлеграма/тэлеграму		a message sent by telegraph	https://starnik.by/pravapis/76974
 lemma.editorship	редакция	editorship	рэдакцыя/рэдакцыю		the editor's office	https://starnik.by/pravapis/65664
@@ -4636,3 +4636,24 @@ lemma.geography	географического	geographic	геаграфічны
 lemma.rachykhas	Рачихас	Rachikhas	Рачыхас/Рачыхаса		the peleng lieutenant, not the overlord Рачэхан; hunspell has no such name	—
 lemma.carcer	карцер	a lockup	карцар/карцара/карцары	карцэр	a dark cell for solitary confinement; Starnik lists both spellings; hunspell writes карцар; G карцара; L карцары	https://starnik.by/pravapis/34166
 lemma.erase_off	стерли	to erase	сьцерці/Сьцерлі	сцерлі	to rub something off a surface, sense 1; Starnik сцерці; hunspell inserts ь; past plural Сьцерлі	https://starnik.by/pravapis/214992
+lemma.respect	уважение	respect	павага/Павага/павагі		feeling of regard; the status counter; G павагі	https://starnik.by/pravapis/49806
+lemma.phone_ring	звонок	a phone call	званок/Званок		sense 3, a short telephone conversation	https://starnik.by/pravapis/28430
+lemma.pay_sum	плате	a payment	плата/плату		money paid for something, sense 1; A плату	https://starnik.by/pravapis/57133
+lemma.starve_v	голодаем	we are starving	галадаем/Галадаем		1st person plural of галадаць, sense 1	https://starnik.by/pravapis/175399
+lemma.pencil	карандаш	a pencil	аловак/Аловак/алоўка		the writing stick; G алоўка	https://starnik.by/pravapis/4058
+lemma.desk_pc	компьютер	a computer	кампутар		the machine; N кампутар	https://starnik.by/pravapis/32717
+lemma.data_field	поле	a data field	поле		the labeled slot in this status line, not a meadow	https://starnik.by/pravapis/57691
+lemma.timing	темп	tempo	тэмп		the rate of a process; N тэмп	https://starnik.by/pravapis/77175
+lemma.code_adj	кодовый	of a code	кодавы/Кодавы		related to a code; N m кодавы	https://starnik.by/pravapis/119263
+lemma.access_card	доступа	an access card	картка/Картка/доступу		the pass, sense 3 of картка, not a map; G доступу	https://starnik.by/pravapis/34115
+lemma.baklazhan	баклажан	eggplant	бакляжан		the fruit; Starnik баклажан, hunspell бакляжан	https://starnik.by/pravapis/8652
+lemma.illit_why	Почаму	broken why	Пачаму/нізя/выхадзіт/іс		illiterate Temp flag; the same kind of misspelling as the Russian line	—
+lemma.illit_cuz	Патамучта	smashed because	Татамучта		because-eggplant joke, smashed into one word	—
+lemma.nope	Неа	a shrug no	Няа		coined shrug paired with Ага	—
+lemma.tiik_faan	Тиик-Фаан	gaal escort	Ціік-Фаан/Ціік-Фаана/Ціік-Фаанам		gaal who meets the ranger; G Ціік-Фаана; I Ціік-Фаанам	—
+lemma.anatol	Курагин	the doctor	Курагін/Курагіным		Anatol Kuragin; I Курагіным	—
+lemma.jumper_npc	Джумпер	the one they help	Джумпэр/Джумпэра/Джумпэру		the character, not the jump pack Джампэр; G Джумпэра; D Джумпэру	—
+lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару		G Наргара; D Наргару	—
+lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона		puzzle token; do not transliterate	TRANSLATION.md
+lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
+lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
