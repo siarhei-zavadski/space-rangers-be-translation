@@ -4737,7 +4737,7 @@ lemma.foremanbe	бригадир	a foreman	брыгадзір/брыгадзір
 lemma.recogbe	опознание	an identification	апазнаньне/апазнаньня		telling who a body is; Starnik апазнанне, hunspell ь	https://starnik.by/pravapis/5276
 lemma.rotorwing	винтокрылый	rotorcraft	вінтакрыл/вінтакрылыя		a craft borne by a rotor; N pl adjective вінтакрылыя	https://starnik.by/pravapis/14722
 lemma.loadhand	грузчик	a stevedore	грузчык/грузчыкаў/грузчыкам		a worker who loads cargo, not the machine пагрузчык	https://starnik.by/pravapis/20825
-lemma.unitmeas	единица	a unit	адзінка/адзінак		a quantity used to measure, sense 3; G pl адзінак	https://starnik.by/pravapis/2182
+lemma.unitmeas	единица	a unit	адзінка/адзінак/адз		a quantity used to measure, sense 3; G pl адзінак; stat abbreviation адз.	https://starnik.by/pravapis/2182
 lemma.hadesbe	ад	hell	пекла/пекле		the place of the damned, sense 1; L пекле	https://starnik.by/pravapis/54749
 lemma.blankpop	осечка	a misfire	асечка/асечку		no shot when the hammer falls	https://starnik.by/pravapis/6458
 lemma.mythtale	миф	a myth	міт/мітаў		G pl мітаў; Starnik writes міфаў, hunspell мітаў	https://starnik.by/pravapis/43982
@@ -4791,6 +4791,6 @@ lemma.fayrhoul	Файр ин зе хоул	fire in the hole	Файр/ін/зэ/�
 lemma.temcut	тем	darkness cut off	цём		he faints before цёмна; hunspell maps цём to other words	—
 lemma.pasobstva	пособничество	abetting	пасобніцтва/пасобніцтве		L пасобніцтве; hunspell maps the word to other lemmas	https://starnik.by/pravapis/53636
 lemma.pranjne	пранне	laundry	праньне/праньня		Starnik пранне; tarask soft sign; G праньня; hunspell maps both to other words	https://starnik.by/pravapis/59001
-lemma.insure_verb	застраховать	to insure	застрахаваць/застрахуй		perfective sense 1; imperative застрахуй; кораша is the pal	https://starnik.by/pravapis/182208
-lemma.comeon	давай, давай	go-go-go	ану		cheer only, Starnik sense 1; longer давай lines stay	https://starnik.by/pravapis/250807
-lemma.sothen	то	then, after раз	дык		correlative; Starnik also allows то with раз	https://starnik.by/pravapis/250854
+lemma.insure_verb	застраховать	to insure	застрахаваць/застрахуй		perfective sense 1; imperative застрахуй; the slogan takes брата, Starnik брат sense 3	https://starnik.by/pravapis/182208
+lemma.comeon	давай, давай	go-go-go	наперад		race command, Starnik sense of the interjection; not the rude ану	https://starnik.by/pravapis/250512
+lemma.fun_awhile	погулять	to have some fun	пагуляць/пагуляем		for a while, including a party; not the board-game згуляць	https://starnik.by/pravapis/193736
