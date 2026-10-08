@@ -175,7 +175,7 @@ lemma.military_base	военная база	military base	вайсковая б�
 lemma.energy_abbr	эн.	en.	эн.		bridge UI energy units; дз.=дні, нд.=ноды	—
 lemma.treasure	клад	treasure	скарб	схаванка	buried valuables (Starnik 1). схаванка=hideout, not the loot. G скарбу, pl скарбы, Gpl скарбаў	https://www.skarnik.by/rusbel/31711
 lemma.test_subject	испытуемый	test subject	падыспытны	доследны	person under test (SabCrack brain). доследны=for experiments (station/sample)	https://russko-belorusskij-slovar.slovaronline.com/29234-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D1%83%D0%B5%D0%BC%D1%8B%D0%B9
-lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў/манеўру		Starnik stem (hunspell wants манэўр). G манеўру; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
+lemma.maneuver	маневр	maneuver	манеўр/манеўруючы/манеўраў/манеўру/манеўрам		Starnik stem (hunspell wants манэўр). G манеўру; I манеўрам; манеўранасьць, манеўраны	https://starnik.by/pravapis/41566
 lemma.mister	мистер	mister	містэр	місэр	title before surname	hunspell-be-tarask
 lemma.medical_center	медицинский центр	medical center	мэдычны цэнтр		planet MC; цэнтр not цэнтар	—
 lemma.hypermap	гипер-карта	AB map	гіпэрмапа		cheat AB map picker	—
@@ -4651,7 +4651,7 @@ lemma.illit_why	Почаму	broken why	Пачаму/нізя/выхадзіт/�
 lemma.illit_cuz	Патамучта	smashed because	Татамучта		because-eggplant joke, smashed into one word	—
 lemma.nope	Неа	a shrug no	Няа		coined shrug paired with Ага	—
 lemma.tiik_faan	Тиик-Фаан	gaal escort	Ціік-Фаан/Ціік-Фаана/Ціік-Фаанам		gaal who meets the ranger; G Ціік-Фаана; I Ціік-Фаанам	—
-lemma.anatol	Курагин	the doctor	Курагін/Курагіным		Anatol Kuragin; I Курагіным	—
+lemma.anatol	Курагин	the doctor	Курагін/Курагіным/Курагіна		Anatol Kuragin; I Курагіным; G Курагіна	—
 lemma.jumper_npc	Джумпер	the one they help	Джумпэр/Джумпэра/Джумпэру		the character, not the jump pack Джампэр; G Джумпэра; D Джумпэру	—
 lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару/Наргарам		G Наргара; D Наргару; I Наргарам	—
 lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона/Аакси-Тоонам		puzzle token; do not transliterate; I Тоонам	TRANSLATION.md
@@ -4783,3 +4783,5 @@ lemma.tricepsbe	трицепс	triceps	трыцэпс/трыцэпсамі		I pl
 lemma.beckonbe	окликнуть	to call out to	аклікнуць/аклікнуў	акрыкнуў	to hail someone who is leaving	https://starnik.by/pravapis/169515
 lemma.dispbe	дисплей	a display	дысплэй/дысплэі	дысплеі	L дысплэі; hunspell wants э	https://starnik.by/pravapis/24328
 lemma.marlbe	Мальборо	Marlboro cowboy	Мальбара		the cigarette-ad cowboy; hunspell suggestions are other words	—
+lemma.magnanbe	великодушие	generosity	велікадушнасьць	вялікадушнасьць	Starnik вялікадушнасць; hunspell writes е and ь	https://starnik.by/pravapis/16991
+lemma.ikbe	Ик	a hiccup	Ік		the hiccup interjection; hunspell suggestions are other words	—
