@@ -3310,7 +3310,7 @@ lemma.corner	угол	a corner	кут/куце/кута		L куце; G кута	
 lemma.screen	экран	a screen	экран/экрана		G экрана, sense 2	https://starnik.by/pravapis/86639
 lemma.conserve	беречь	to spare	берагчы/беражы		imperative беражы, sense 1	https://starnik.by/pravapis/171593
 lemma.shut	закрытый	shut	зачынены/зачыненыя		plural зачыненыя	https://starnik.by/pravapis/113371
-lemma.takeoff	взлетать	to take off	узьлятаць/ўзьляталі	узляталі	hunspell inserts ь; Starnik узлятаць	https://starnik.by/pravapis/216814
+lemma.takeoff	взлетать	to take off	узьлятаць/ўзьляталі/ўзьляціць/узьляціць	узляталі	hunspell inserts ь; Starnik узлятаць; future 3sg узьляціць	https://starnik.by/pravapis/216814
 lemma.cheek	щека	cheek	шчака/шчокі		N pl шчокі, sense 1	https://starnik.by/pravapis/86011
 lemma.aroma	аромат	aroma	водар/водарам	арамат	pleasant smell, sense as written; I водарам	https://starnik.by/pravapis/15049
 lemma.tart	терпкий	tart	церпкі/церпкім	тэрпкі	hunspell keeps е; I церпкім; Starnik церпкі	https://starnik.by/pravapis/160070
@@ -4068,7 +4068,7 @@ lemma.stay_up	устоять	to stay up	устаяць/ўстаяла		to keep o
 lemma.atop	наверх	up on top	наверх		one-word adverb, up onto the top; the place на верх stays two words	https://starnik.by/pravapis/225801
 lemma.climb_onto	залезть	to climb onto	залезьці/Залезьці		to get up onto something, sense 1; Starnik залезці; hunspell inserts ь	https://starnik.by/pravapis/180562
 lemma.begin_wobble	зашататься	to start wobbling	захістацца/захісталася		to start swaying, or to lurch several times; feminine past захісталася	https://starnik.by/pravapis/182698
-lemma.tremble	затрястись	to start shaking	затрэсьціся/затрэслася		to start shaking; Starnik затрэсціся; hunspell infinitive затрэсьціся; feminine past затрэслася	https://starnik.by/pravapis/182492
+lemma.tremble	затрястись	to start shaking	затрэсьціся/затрэслася/затросся		to start shaking; Starnik затрэсціся; hunspell infinitive затрэсьціся; feminine past затрэслася; masculine past затросся, hunspell lacks it	https://starnik.by/pravapis/182492
 lemma.bang	грохот	a crash	грукат/грукатам		a very loud rolling noise; instrumental грукатам	https://starnik.by/pravapis/20830
 lemma.collapse	обвалиться	to collapse	абваліцца/абвалілася		to fall down in a heap; feminine past абвалілася	https://starnik.by/pravapis/164681
 lemma.along	вместе	together	разам		jointly with someone, sense 1; разам з вамі	https://starnik.by/pravapis/230864
@@ -4585,3 +4585,10 @@ lemma.stellage	стеллаж	a rack	стэляжа	стэлажа	hunspell ст
 lemma.drunk_aah	Ааааааа	a shout	Ааааааа		drunk shout; hunspell has no such word	—
 lemma.slur_nothing	Ниччегоо	slurred no	Нічооога		drunk nothing; the plain form is Нічога	—
 lemma.stutter_prik	прик	a broken cover	прык		drunk break of прыкрыты; not a word alone	—
+lemma.culinary	кулинарный	culinary	кулінарны/кулінарную		of cooking; A f кулінарную	https://starnik.by/pravapis/120150
+lemma.microscope	микроскоп	a microscope	мікраскоп/мікраскопам		an optical instrument; I мікраскопам	https://starnik.by/pravapis/43508
+lemma.graft	взяточник	a bribe-taker	хабарнік/хабарніка		a person who takes bribes; A хабарніка	https://starnik.by/pravapis/81286
+lemma.traitor	предатель	a traitor	здраднік/здрадніка		one who betrays; A здрадніка	https://starnik.by/pravapis/28931
+lemma.passage	коридор	a corridor	калідор/калідоры		a passage between rooms; L калідоры	https://starnik.by/pravapis/32151
+lemma.kindness	доброта	kindness	дабрыня/дабрыню		colloquial for дабрата, sense 1; A дабрыню	https://starnik.by/pravapis/21495
+lemma.grabber	жлоб	a greedy lout	хцівец	жлоб	a grasping person; жлоб is not a Starnik headword	https://starnik.by/pravapis/82495
