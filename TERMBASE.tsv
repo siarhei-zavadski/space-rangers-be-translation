@@ -1446,7 +1446,7 @@ lemma.cryon	крион	cryon	крыён/крыёнавымі		coined energy-scul
 lemma.guava	гуанава	guava	гуаява/гуаявы		quiz fruit; hunspell has no entry	https://starnik.by/pravapis/21031
 lemma.marathon	марафон	marathon	маратон/Маратон/маратону	марафон	hunspell spelling; Starnik марафон	https://starnik.by/pravapis/41747
 lemma.megapolis	мегаполис	megapolis	мегаполіс/мегаполіса		hunspell has no entry	https://starnik.by/pravapis/42532
-lemma.layman	обыватель	layman	абывацель/абывацелю	абываталь	Starnik sense; hunspell suggests an unrelated word	https://starnik.by/pravapis/1178
+lemma.layman	обыватель	layman	абывацель/абывацелю/абывацеляў	абываталь	Starnik G pl абывацеляў; hunspell wants абываталяў	https://starnik.by/pravapis/1178
 lemma.prism_paradise	Призмовый рай	Prism paradise	Прызмавы		hotel name	Olympiada.qmm
 lemma.rartan	Рартан	Rartan	Рартан/рартанскай/рартанская		malok wrestling hero	Olympiada.qmm
 lemma.chvaher	Чвахер	Chvakher	Чвахер/Чвахеру		monument; not the guide Цвачак	Olympiada.qmm
@@ -4654,7 +4654,7 @@ lemma.tiik_faan	Тиик-Фаан	gaal escort	Ціік-Фаан/Ціік-Фаа�
 lemma.anatol	Курагин	the doctor	Курагін/Курагіным/Курагіна		Anatol Kuragin; I Курагіным; G Курагіна	—
 lemma.jumper_npc	Джумпер	the one they help	Джумпэр/Джумпэра/Джумпэру		the character, not the jump pack Джампэр; G Джумпэра; D Джумпэру	—
 lemma.nargar	Наргар	sect leader	Наргар/Наргара/Наргару/Наргарам		G Наргара; D Наргару; I Наргарам	—
-lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона/Аакси-Тоонам		puzzle token; do not transliterate; I Тоонам	TRANSLATION.md
+lemma.aaksi_toon	Аакси-Тоон	frozen card name	Аакси-Тоон/Аакси-Тоона/Аакси-Тоонам/Аакси-Тоону		puzzle token; do not transliterate; I Тоонам; D Тоону	TRANSLATION.md
 lemma.assisted	помогли	helped	дапамаглі/Дапамаглі		past plural of дапамагчы, sense 1	https://starnik.by/pravapis/176895
 lemma.glance_v	смотрели	looked	глядзелі		past plural of глядзець	https://starnik.by/pravapis/175763
 lemma.veiego	Веиего	sect head	Веіега/Веіегі		transliteration of the sect head; и to і, final о to а; G Веіегі	—
@@ -4785,3 +4785,5 @@ lemma.dispbe	дисплей	a display	дысплэй/дысплэі	дыспле
 lemma.marlbe	Мальборо	Marlboro cowboy	Мальбара		the cigarette-ad cowboy; hunspell suggestions are other words	—
 lemma.magnanbe	великодушие	generosity	велікадушнасьць	вялікадушнасьць	Starnik вялікадушнасць; hunspell writes е and ь	https://starnik.by/pravapis/16991
 lemma.ikbe	Ик	a hiccup	Ік		the hiccup interjection; hunspell suggestions are other words	—
+lemma.psycholg	психолог	a psychologist	псыхоляг	псіхолаг	Starnik псіхолаг; hunspell псыхоляг	https://starnik.by/pravapis/61467
+lemma.katyell	КЭ-Э-Э-ТИ	Katie's scream	КЭ		stretched shout of Кэці; hunspell maps the piece to other words	—
