@@ -256,6 +256,7 @@ lemma.container	контейнер	container	кантэйнэр/кантэйне
 lemma.artifact	артефакт	artefact	артэфакт		G артэфакта L артэфакце	https://starnik.by/pravapis/6139
 lemma.generator	генератор	generator	генэратар/генэратара	генератар	already FormRuins CB; hunspell э; G генэратара	https://starnik.by/pravapis/18947
 lemma.shield_gen	генератор защиты	shield generator	генэратар абароны		already FormRuins CB AddDefGenerator	https://starnik.by/pravapis/18947
+lemma.shield_abbr	Г.З.П.	shield abbr	Г.А.П.	Г.З.П.	short label: генэратар ахоўнага поля; same width; the full item name stays генэратар абароны	https://starnik.by/pravapis/97624
 lemma.repair	ремонт	repair	рамонт		G рамонту L рамонце	https://starnik.by/pravapis/63736
 lemma.parsec	парсек	parsec	парсэк	парсек	already FormRuins WB; hunspell парсэк	—
 lemma.instructor	инструктор	instructor	інструктар		tutorial Script MS_Begin; G інструктара	hunspell-be-tarask
@@ -4737,7 +4738,7 @@ lemma.foremanbe	бригадир	a foreman	брыгадзір/брыгадзір
 lemma.recogbe	опознание	an identification	апазнаньне/апазнаньня		telling who a body is; Starnik апазнанне, hunspell ь	https://starnik.by/pravapis/5276
 lemma.rotorwing	винтокрылый	rotorcraft	вінтакрыл/вінтакрылыя		a craft borne by a rotor; N pl adjective вінтакрылыя	https://starnik.by/pravapis/14722
 lemma.loadhand	грузчик	a stevedore	грузчык/грузчыкаў/грузчыкам		a worker who loads cargo, not the machine пагрузчык	https://starnik.by/pravapis/20825
-lemma.unitmeas	единица	a unit	адзінка/адзінак/адз		a quantity used to measure, sense 3; G pl адзінак; stat abbreviation адз.	https://starnik.by/pravapis/2182
+lemma.unitmeas	единица	a unit	адзінка/адзінак/адз		a quantity used to measure, sense 3; G pl адзінак; the stat token is адз. everywhere ед. stood	https://starnik.by/pravapis/2182
 lemma.hadesbe	ад	hell	пекла/пекле		the place of the damned, sense 1; L пекле	https://starnik.by/pravapis/54749
 lemma.blankpop	осечка	a misfire	асечка/асечку		no shot when the hammer falls	https://starnik.by/pravapis/6458
 lemma.mythtale	миф	a myth	міт/мітаў		G pl мітаў; Starnik writes міфаў, hunspell мітаў	https://starnik.by/pravapis/43982
