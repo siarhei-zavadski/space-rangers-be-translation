@@ -620,7 +620,7 @@ lemma.bell_chime	Звон бубенцов	Chime of bells	Звон бубонц�
 lemma.knockdown	Стопудовый нокдаун	Superweight knockdown	Стопудовы накдаўн		named malok punch	—
 lemma.command_bridge	командная рубка	command room	камандная рубка		quest location; hunspell misses adj камандны	—
 lemma.notepad	блокнот	notepad	блякнот	блёкнот	inspection prop; hunspell блякнот. L блякноце	hunspell-be-tarask
-lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі/блястэрная/блястэрнай/блястэрных		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі; N f блястэрная; G f блястэрнай	—
+lemma.blaster_baron	бластер	blaster	блястэр/блястэрам/блястэры/блястэра/Блястэра/блястэраў/блястэру/Блястэр/Блястэры/блястэрамі/блястэрныя/блястэрнымі/блястэрная/блястэрнай/блястэрных/блястэрную		already Baron4; G блястэра; N pl adj блястэрныя; I pl adj блястэрнымі; N f блястэрная; G f блястэрнай; A f блястэрную	—
 lemma.akhgg	Ахггггглммвбл	Akhggggglmmvbl	Ахггггглммвбл		nonsense notepad scribble; keep	—
 lemma.bathyscaph	батискаф	bathyscaph	батыскаф		deep-dive submersible; G батыскафа I батыскафам L батыскафе pl батыскафы	hunspell-be-tarask
 lemma.hydrolocator	гидролокатор	sonar	гідралякатар		onboard sonar; G гідралякатара L гідралякатары	hunspell-be-tarask
@@ -4771,3 +4771,7 @@ lemma.intellectbe	интеллект	intellect	інтэлект/інтэлект
 lemma.absurdbe	абсурдный	absurd	абсурдны/абсурдна/абсурднае		adverb абсурдна; N n абсурднае	https://starnik.by/pravapis/220995
 lemma.unbridlebe	несдержанность	a lack of restraint	нястрыманасьць	нястрыманасць	Starnik нястрыманасць; hunspell inserts ь	https://starnik.by/pravapis/49375
 lemma.vanishbe	исчезающий	vanishing	зьнікаючы	знікаючы	Starnik знікаючы; hunspell inserts ь	https://starnik.by/pravapis/239328
+lemma.knobbe	ручка	a door handle	клямка		the fitting that opens a door	https://starnik.by/pravapis/36105
+lemma.paganadj	языческий	pagan	язычніцкі		of pagan belief	https://starnik.by/pravapis/164238
+lemma.hostbe	гостеприимство	hospitality	гасьціннасьць	гасціннасць	ready welcome of a guest; Starnik гасціннасць; hunspell inserts ь	https://starnik.by/pravapis/18469
+lemma.boldbe	удалец	a bold fellow	адважнік	падважнік	a daring person; hunspell splits it into another phrase	https://starnik.by/pravapis/1969
