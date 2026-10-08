@@ -114,7 +114,7 @@ width as the Russian line.
 | `Xenolog.qmm` | Tiny map with `o` inside `<fix>` | filled; the `o` map is unchanged |
 | `Elus.qmm` | Attribute grid. Widths are the Russian words: `<format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format>`, and the same for `Малый`, `Желтый`, `Ромб` | empty; a longer word smashes the columns and the logic puzzle cannot be read |
 | `Shashki.qmm` | Checker cells `Б` and `Ч` (white / black) | filled; those two letters stayed, keep them |
-| `Domoclan.qmm` | Machine line `ACCESS CARD; ID = 2111; OBJECT = LAB; … NAME = Аакси-Тоон` | empty; keep the tokens and the id |
+| `Domoclan.qmm` | Machine line `ACCESS CARD; ID = 2111; OBJECT = LAB; … NAME = Аакси-Тоон` | filled; the tokens and the id stayed identical |
 
 `Losthero.qmm` is filled. The cabin code stayed `195449`.
 `Testing.qmm` is filled. The magic-square digits `1`–`9` summing to 15 stayed, and the square buttons stayed `5-9` and `1-4`.
