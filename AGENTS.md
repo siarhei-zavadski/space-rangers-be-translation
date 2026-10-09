@@ -129,9 +129,11 @@ The button package must contain paths rooted at `Data/` only (never a sibling `D
 Data/FormMain2/2ButNewN.gi
 ```
 
-Patched AFT fonts go in a second package rooted at vanilla `DATA/FONT`. One archive cannot hold both `Data/` and `DATA/` — the engine keys folders by the uppercase name and the main-menu buttons vanish.
+Patched AFT fonts go in a second package rooted at vanilla `DATA/FONT`. One archive cannot hold both `Data/` and `DATA/` — the engine keys folders by the uppercase name and the main-menu buttons vanish. The engine reads that mod package (confirmed on game build `2.1.2500`, Proton Experimental `11.0-100`); the build does not patch the game's own `forms.pkg`.
 
 Both install manifests must mount them. Fonts PKG uses same-size AFT files (unused Latin slots retargeted to `і`/`ў`/`’`; `ў` gets a painted breve); do not append glyphs.
+
+`robots.dat` lives at `CFG/Eng/robots.dat` and `CFG/Rus/robots.dat` (not `CFG/robots.dat`). The two language files share property keys but not indices; the build applies Belarusian by key to each.
 
 ```text
 Packages {
@@ -170,7 +172,7 @@ Menu images use `tools/fonts/RussoOne-Regular.ttf`:
 - licensed under SIL OFL 1.1;
 - rasterized into GI images, not embedded in the package.
 
-Runtime `Lang.dat` is UTF-16. Vanilla AFT has `'`, `i`, `у`, but not `і`/`ў`/`’`. The DAT writer folds typographic apostrophes to `'`. A mod PKG of `DATA/FONT` is ignored (AFont/ResEditor workflow edits `forms.pkg`). The build writes a same-size remap into `DATA/forms.pkg` from `forms.pkg.vanilla`: `і`←`i`, `ў` = `у` plus a painted breve. Do not append glyphs or bump sizes. Steam verify restores vanilla.
+Runtime `Lang.dat` is UTF-16. Vanilla AFT has `'`, `i`, `у`, but not `і`/`ў`/`’`. The DAT writer folds typographic apostrophes to `'`. The mod's `belarusian_fonts.pkg` supplies a same-size remap (`і`←`i`, `ў` = `у` plus a painted breve). Do not append glyphs or bump sizes. A partial mod `Lang.dat` (translated keys only) merges with the vanilla file; menus stay Belarusian and excluded fields (maps, hull art, etc.) still appear.
 
 ## Before claiming completion
 

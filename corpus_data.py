@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Check the corpus against the installed game, and feed it to the build."""
 
-from collections import Counter
+from collections import Counter, defaultdict
 import argparse
 import csv
 import io
@@ -345,28 +345,53 @@ def write_translated_quests(destination: Path) -> int:
     return len(targets)
 
 
-def write_translated_robots(destination: Path) -> int:
+def write_translated_robots(cfg_dir: Path) -> int:
+    """Write CFG/{Eng,Rus}/robots.dat. Corpus ids use Russian indices; Eng indices differ."""
     targets = {
         (parts[1], int(parts[2])): target
         for identifier, target in load(ROBOTS_DIR / "robots.json").items()
         if (parts := unpointer(identifier))
     }
-    source = (GAME / "CFG/Rus/robots.dat").read_bytes()
-    if not targets:
-        destination.write_bytes(source)
-        return 0
-    _, records = parse_robots(source)
-    by_name = {record.name: record for record in records}
-    for (record_name, index), target in targets.items():
-        item = next(item for item in by_name[record_name].items if item.name == "1")
-        replace_array(item, index, target)
-    encoded = encode_robots(records)
-    _, reparsed = parse_robots(encoded)
-    values = {
-        (record, index): value for record, index, _, value in robot_properties(reparsed)
-    }
-    assert all(values[key] == target for key, target in targets.items())
-    destination.write_bytes(encoded)
+    _, russian = parse_robots((GAME / "CFG/Rus/robots.dat").read_bytes())
+    _, english = parse_robots((GAME / "CFG/Eng/robots.dat").read_bytes())
+    key_of = {(record, index): key for record, index, key, _ in robot_properties(russian)}
+    ru_order, en_order = defaultdict(list), defaultdict(list)
+    for record, index, key, _ in robot_properties(russian):
+        ru_order[(record, key)].append(index)
+    for record, index, key, _ in robot_properties(english):
+        en_order[(record, key)].append(index)
+    eng_targets = {}
+    for (record, index), target in targets.items():
+        key = key_of[(record, index)]
+        order = ru_order[(record, key)].index(index)
+        if order < len(en_order[(record, key)]):
+            eng_targets[(record, en_order[(record, key)][order])] = target
+
+    def write(language: str, by_index: dict[tuple[str, int], str]) -> None:
+        source = (GAME / f"CFG/{language}/robots.dat").read_bytes()
+        destination = cfg_dir / language / "robots.dat"
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        if not by_index:
+            destination.write_bytes(source)
+            return
+        _, records = parse_robots(source)
+        by_name = {record.name: record for record in records}
+        for (record_name, index), target in by_index.items():
+            item = next(item for item in by_name[record_name].items if item.name == "1")
+            replace_array(item, index, target)
+        encoded = encode_robots(records)
+        _, reparsed = parse_robots(encoded)
+        values = {
+            (record, index): value for record, index, _, value in robot_properties(reparsed)
+        }
+        assert all(values[pair] == target for pair, target in by_index.items())
+        destination.write_bytes(encoded)
+
+    write("Rus", targets)
+    write("Eng", eng_targets)
+    leftover = cfg_dir / "robots.dat"
+    if leftover.exists():
+        leftover.unlink()
     return len(targets)
 
 
