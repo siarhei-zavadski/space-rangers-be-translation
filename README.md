@@ -14,7 +14,7 @@ strings, and known baked labels. The line procedure is in
 ## Translation tools
 
 Daily lookup order is in [`STYLE.md`](STYLE.md); spelling lock is in
-[`ORTHO.md`](ORTHO.md). Spelling check is `hunspell -d be_BY@tarask`
+[`STYLE.md`](STYLE.md). Spelling check is `hunspell -d be_BY@tarask`
 from the `hunspell-be-tarask-alt` 0.65 package.
 
 | Tool | Website | Use |
@@ -44,4 +44,4 @@ the repository and uses no secrets.
 Original project code is MIT-licensed. Game content remains subject to its
 rights holders; see [`THIRD_PARTY.md`](THIRD_PARTY.md).
 
-For future agent work, start with [`AGENTS.md`](AGENTS.md). Language policy lives in [`ORTHO.md`](ORTHO.md), [`STYLE.md`](STYLE.md), and [`TERMBASE.tsv`](TERMBASE.tsv).
+For future agent work, start with [`AGENTS.md`](AGENTS.md). Language policy lives in [`STYLE.md`](STYLE.md) and [`TERMBASE.tsv`](TERMBASE.tsv).

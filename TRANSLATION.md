@@ -25,7 +25,7 @@ Reuse a locked term. Do not invent a second pipeline.
    round-trip. Needs the game.
 7. `build_test_mod.py` — only when the line is on a screen the build already ships.
 
-`STYLE.md` and `ORTHO.md` are the language rules. Edit the values in
+`STYLE.md` is the language rules (including the orthography lock). Edit the values in
 `corpus/`; that tree is the source of truth. Formulas are not in the corpus
 (`formula`, `expression`, `formula_to_pass` in `corpus_data.py`). Leave them
 alone.
@@ -111,11 +111,11 @@ width as the Russian line.
 | `Bomber.qmm` | Grid rows `A`–`E` in `<format=center, 40>` | filled; the Latin letters stayed, and the Cyrillic `А` stayed where the Russian cell used it |
 | `Pilot.qmm` | Track `I . . o I`; the ticket price table in `<fix>` keeps its Russian column headers | filled |
 | `Player.qmm` | 3×3 cells `1`–`9` | filled, grid intact |
-| `Doomino.qmm` | Domino faces `[p40]<clr>=<clrEnd>[p41]` | empty; do not edit inside the brackets |
-| `Edelweiss.qmm` | Badge number, one digit per cell, from `[p20]` | empty |
+| `Doomino.qmm` | Domino faces `[p40]<clr>=<clrEnd>[p41]` | filled; do not edit inside the brackets |
+| `Edelweiss.qmm` | Badge number, one digit per cell, from `[p20]` | filled |
 | `Testing.qmm` | Magic square `1`–`9` summing to 15 | filled; the digits stayed, and the square buttons stayed `5-9` and `1-4` |
 | `Xenolog.qmm` | Tiny map with `o` inside `<fix>` | filled; the `o` map is unchanged |
-| `Elus.qmm` | Attribute grid. Widths are the Russian words: `<format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format>`, and the same for `Малый`, `Желтый`, `Ромб` | empty; a longer word smashes the columns and the logic puzzle cannot be read |
+| `Elus.qmm` | Attribute grid. Widths are the Russian words: `<format=left,8>Большой</format><format=left,7>Синий</format><format=left,5>Круг</format>`, and the same for `Малый`, `Желтый`, `Ромб` | filled; a longer word smashes the columns and the logic puzzle cannot be read |
 | `Shashki.qmm` | Checker cells `Б` and `Ч` (white / black) | filled; those two letters stayed, keep them |
 | `Domoclan.qmm` | Machine line `ACCESS CARD; ID = 2111; OBJECT = LAB; … NAME = Аакси-Тоон` | filled; the tokens and the id stayed identical |
 
@@ -241,8 +241,8 @@ Each one happened in this corpus. `qa_translation.py` catches the ones marked
    must match the rows you meant to touch, and
    `git diff --word-diff=porcelain --word-diff-regex='[^[:space:]]+'` must
    show only the intended tokens.
-10. **Do not trust a first-pass "unused" or "empty" label.** `TRANSLATION.md`
-    called Feipsycho, Kidnapped and Pilot "empty" while they were 100%
-    translated. `validate_corpus.py` rejects an empty value, so no file is
-    partly translated; update the puzzle table in the same commit that
+10. **Keep the puzzle table honest.** An old "empty" label once hid finished
+    files (`Feipsycho`, `Kidnapped`, `Pilot`, and later `Doomino` /
+    `Edelweiss` / `Elus`). `validate_corpus.py` rejects an empty value, so no
+    file is partly translated; update the table in the same commit that
     finishes a file.
