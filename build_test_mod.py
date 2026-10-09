@@ -101,10 +101,10 @@ def uninstall(game: Path) -> None:
         print(f"no mod at {mod}")
 
 
-def build(game: Path) -> None:
+def build(game: Path, *, compare_tag: bool = True) -> None:
     mod = game / "Mods/Tweaks/BelTranslate"
     assert FONT.exists(), FONT
-    check_corpus()
+    check_corpus(compare_tag=compare_tag)
     source_pkg = game / "DATA/russian.pkg"
     assert source_pkg.exists(), source_pkg
 
@@ -242,12 +242,17 @@ def main() -> None:
         action="store_true",
         help="restore patched game CFG/DATA files and remove Mods/Tweaks/BelTranslate",
     )
+    parser.add_argument(
+        "--no-tag-check",
+        action="store_true",
+        help="skip the v1-first-pass Russian-tag check (zip/player installs without git history)",
+    )
     args = parser.parse_args()
     game = configure_game(args.game)
     if args.uninstall:
         uninstall(game)
         return
-    build(game)
+    build(game, compare_tag=not args.no_tag_check)
 
 
 if __name__ == "__main__":

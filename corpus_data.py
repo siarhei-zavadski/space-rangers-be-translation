@@ -436,7 +436,7 @@ def validate_tags(source: str, target: str, location: str) -> None:
         raise ValueError(f"{location}: placeholders or control syntax differ")
 
 
-def check() -> None:
+def check(*, compare_tag: bool = True) -> None:
     files = corpus()
     if not files:
         raise FileNotFoundError("No corpus files")
@@ -458,11 +458,27 @@ def check() -> None:
         for row in r:
             validate_tags(row["source_phrase"], row["be"], f"{path.name}:{row['identifier']}")
 
-    tagged = tag_sources()
-    stale = [row["identifier"] for r in rows.values() for row in r if tagged.get(row["identifier"]) != row["source_phrase"]]
-    if stale:
-        raise ValueError(f"{len(stale)} game Russian lines differ from the Russian at {TAG}, e.g. {stale[:5]}")
-    print(f"Valid: {len(translations)} translated strings in {len(files)} corpus files; game Russian matches {TAG}")
+    if compare_tag:
+        tagged = tag_sources()
+        stale = [
+            row["identifier"]
+            for r in rows.values()
+            for row in r
+            if tagged.get(row["identifier"]) != row["source_phrase"]
+        ]
+        if stale:
+            raise ValueError(
+                f"{len(stale)} game Russian lines differ from the Russian at {TAG}, e.g. {stale[:5]}"
+            )
+        print(
+            f"Valid: {len(translations)} translated strings in {len(files)} corpus files; "
+            f"game Russian matches {TAG}"
+        )
+    else:
+        print(
+            f"Valid: {len(translations)} translated strings in {len(files)} corpus files "
+            f"(skipped {TAG} Russian check)"
+        )
 
 
 def main() -> None:
