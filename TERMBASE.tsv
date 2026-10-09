@@ -1,26 +1,26 @@
 id	ru	en	be_tarask	rejected_calque	notes	source
-FormMain.New	Новая игра	New Game	Новая гульня		smoke test; same string in Eng+Rus Lang.dat	skarnik: игра→гульня
-FormMain.Load	Загрузить	Load	Загрузіць		baked .gi + Lang.dat	Kamputerm/Skarnik
-FormMain.Exit	Выход	Exit	Выйсьці		baked .gi + Lang.dat	spell-be-tarask
-FormMain.Options	Настройки	Settings	Налады		GI: НАЛАДЫ	Kamputerm
-FormMain.Score	Рекорды	Records	Рэкорды		GI: РЭКОРДЫ	Skarnik
-FormMain.About	Об авторах	About	Пра аўтараў		GI: ПРА АЎТАРАЎ; пра not аб	Skarnik
+FormMain.New	Новая игра	New Game	Новая гульня		sense: гульня #2 game with rules; F новая	https://starnik.by/pravapis/21178
+FormMain.Load	Загрузить	Load	Загрузіць		UI Load button (pf); Liza load=загружаць; Starnik literal is cargo	https://starnik.by/lizabeta/2562 https://starnik.by/pravapis/179507
+FormMain.Exit	Выход	Exit	Выйсьці		menu verb; Starnik pf выйсці (impf выходзіць); tarask soft ь	https://starnik.by/pravapis/174894 hunspell-be-tarask
+FormMain.Options	Настройки	Settings	Налады	наладкі; настройка	Liza setting=налада not наладка; Starnik налада colloquial=наладка	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
+FormMain.Score	Рекорды	Records	Рэкорды		N pl of рэкорд	https://starnik.by/pravapis/65882
+FormMain.About	Об авторах	About	Пра аўтараў	аб аўтарах	пра + G pl аўтараў	https://starnik.by/pravapis/7530
 FormMain.MsgExit	Выйти из программы?	Exit the program?	Выйсьці з праграмы?			spell-be-tarask
 FormMain.LMods	Модификации	Modifications	Мадыфікацыі			spell-be-tarask
 FormMain.LQuest	Текстовые квесты	Text Quests	Тэкставыя заданьні	квэсты	loanword avoided	Skarnik
 FormMain.LRobot	Планетарные бои	Planetary Battles	Плянэтарныя баі			classical пля-/кля-
 FormMain.LAB	Аркадные бои	Arcade Battles	Аркадныя баі		intentional loan; hunspell miss	game term
 FormMain.Demo	Демонстрация	Demonstration	Дэманстрацыя			spell-be-tarask
-FormMain.Help	Достижения	Achievements	Дасягненьні		GI FormMain3 Ach	Skarnik
+FormMain.Help	Достижения	Achievements	Дасягненьні		Starnik дасягненне sense 2; tarask -ньні	https://starnik.by/pravapis/22223 hunspell-be-tarask
 FormMain.SubName	Доминаторы: Перезагрузка	Dominators: Reload	Дамінатары: Перазагрузка		race name lock pending polish	—
-FormGameMenu.Resume	Продолжить (Esc)	Continue (Esc)	Працягнуць (Esc)			Skarnik
-FormGameMenu.Save	Сохранить (F2)	Save (F2)	Захаваць (F2)			Skarnik
-FormGameMenu.Load	Загрузить (F3)	Load (F3)	Загрузіць (F3)			Kamputerm/Skarnik
-FormGameMenu.Settings	Настройки (C)	Settings (C)	Налады (C)			Kamputerm
-FormGameMenu.Help	Справка (H)	Help (H)	Даведка (H)			Skarnik
-FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)			Skarnik
-FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?			Skarnik
-FormCfgSettings.Caption	Настройки	Settings	Налады			Kamputerm
+FormGameMenu.Resume	Продолжить (Esc)	Continue (Esc)	Працягнуць (Esc)		Starnik sense 8 resume after pause; Liza continue	https://starnik.by/pravapis/206200 https://starnik.by/lizabeta/977
+FormGameMenu.Save	Сохранить (F2)	Save (F2)	Захаваць (F2)		UI Save; Liza save-file family	https://starnik.by/lizabeta/3970
+FormGameMenu.Load	Загрузить (F3)	Load (F3)	Загрузіць (F3)		same as FormMain.Load	https://starnik.by/lizabeta/2562 https://starnik.by/pravapis/179507
+FormGameMenu.Settings	Настройки (C)	Settings (C)	Налады (C)	наладкі; настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
+FormGameMenu.Help	Справка (H)	Help (H)	Даведка (H)		Liza help=даведка; Starnik даведка	https://starnik.by/lizabeta/2061 https://starnik.by/pravapis/21514
+FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)		noun Exit; contrast verb Выйсьці	https://starnik.by/pravapis/16712 https://starnik.by/lizabeta/1545
+FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?		гульня G гульні → гульню A	https://starnik.by/pravapis/21178
+FormCfgSettings.Caption	Настройки	Settings	Налады	наладкі; настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
 FormCfgSettings.Ok	Применить	Apply	Ужыць			Kamputerm
 FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.Yes	Да	Yes	Так			Skarnik

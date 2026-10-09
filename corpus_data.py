@@ -450,8 +450,14 @@ def write_translated_robots(cfg_dir: Path) -> int:
     return len(targets)
 
 
+_PARAM_CMP = re.compile(r"\(p\d+[<>]=?\d+\)")
+
+
 def validate_tags(source: str, target: str, location: str) -> None:
-    if Counter(CONTROL.findall(source)) != Counter(CONTROL.findall(target)):
+    # Mask (p11<50)/(p11>=50) so CONTROL's <...> does not swallow the prose between them.
+    src = _PARAM_CMP.sub("(pN)", source)
+    dst = _PARAM_CMP.sub("(pN)", target)
+    if Counter(CONTROL.findall(src)) != Counter(CONTROL.findall(dst)):
         raise ValueError(f"{location}: placeholders or control syntax differ")
 
 
