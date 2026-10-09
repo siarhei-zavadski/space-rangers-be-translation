@@ -7,10 +7,11 @@ This project builds a Belarusian localization mod for **Space Rangers HD: A War 
 Authoritative project files:
 
 - `build_test_mod.py` — proven DAT/GI/PKG build and structural checks.
-- `corpus/{lang_dat,quests,robots,assets}/*.tsv` — game-structured translation
-  source and build input. The repository is the source of truth.
-- `corpus/coverage.json` — exhaustive translatable/excluded source manifest.
-- `corpus_data.py` — regenerate and validate the corpus.
+- `corpus/{lang_dat,quests,robots,assets}/*.json` — the Belarusian translation
+  (one identifier-to-text object per file) and build input. The repository is
+  the source of truth. Russian and English are read from the game.
+- `corpus_data.py` — check the corpus against the game and the Russian at the
+  `v1-first-pass` tag; feed it to the build.
 - `TERMBASE.tsv` — canonical terminology. Reuse exact terms.
 - `STYLE.md` — language and presentation rules.
 - `ORTHO.md` — classical Belarusian (`be-tarask`) spelling policy.
@@ -155,7 +156,7 @@ Packages {
 PYTHONPATH=. .venv/bin/python corpus_data.py check
 PYTHONPATH=. .venv/bin/python spell_check.py
 PYTHONPATH=. .venv/bin/python spell_check.py --file Ski.qmm --gate
-python3 qa_translation.py --fix && python3 qa_translation.py
+python3 qa_translation.py --fix && .venv/bin/python qa_translation.py
 ```
 
 - Do not translate placeholders, identifiers, markup, or shortcut keys.

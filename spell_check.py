@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Spell-check every filled corpus `be` cell with local be_BY@tarask hunspell.
+"""Spell-check every corpus value with local be_BY@tarask hunspell.
 
 One hunspell process on unique tokens. Tags, formulas, and Latin are stripped.
 """
