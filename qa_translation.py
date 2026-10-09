@@ -1,34 +1,25 @@
 #!/usr/bin/env python3
-"""Both ends of an LLM translation batch, stdlib only (CI runs it).
+"""Check the Belarusian against the game's Russian.
 
-  --batch FILE [-n N]  the next N untranslated *unique* sources of FILE, with
-                       English reference and the termbase rows they mention
-  --fix                after the batch: repair tarask slips, then copy a
-                       translation to every empty row with the same source
+  --fix                repair tarask slips in place (needs no game)
   (default)            hard checks, exit 1: a digit swapped for another digit,
                        a `<format=..,N>` cell that overflows, a tarask slip, a
-                       rejected termbase form in a row not in qa_baseline.txt,
-                       a TERMBASE.tsv row with no be_tarask or source
+                       rejected termbase form in a row not in qa_baseline.txt
   --baseline           accept every rejected-form row that exists today
 
 Reports (never fail): sources translated more than one way, and rows where
 `be` is the Russian source copied unchanged (names stay Cyrillic on purpose).
+The default run reads the Russian from the game, so it needs the game and `.venv`.
 """
 
 import argparse
 import csv
 from collections import Counter, defaultdict
 import re
-import sys
 
-from validate_corpus import CONTROL, CORPUS, CORPUS_DIRS, FIELDS, ROOT, read_rows
+from validate_corpus import CONTROL, ROOT, SLIPS, corpus_files, load, save
 
 CELL = re.compile(r"<format=(?:left|center|right),(\d+)>(.*?)</format>", re.S)
-SLIPS = (  # always wrong in be-tarask (hunspell rejects them; the prefix softens)
-    (re.compile(r"(?<![А-Яа-яЁёІіЎў'])([зЗ])'(?=[яеёюі])"), r"\1ь"),
-    (re.compile(r"\b([Вв])ашая\b"), r"\1аша"),
-    (re.compile(r"\b([Вв])ашую\b"), r"\1ашу"),
-)
 LETTERS = "а-яёіўА-ЯЁІЎ'’"
 BASELINE = ROOT / "qa_baseline.txt"
 NAMES = ("/ShipName/", "/PlanetName/", "/Star/", "/RuinName/", "/Constellations/")
@@ -85,78 +76,35 @@ def termbase() -> list[tuple[re.Pattern, dict[str, str], list[re.Pattern]]]:
     return result
 
 
-def save(path, rows) -> None:
-    eol = "\r\n" if path.read_bytes().split(b"\n", 1)[0].endswith(b"\r") else "\n"
-    with path.open("w", encoding="utf-8", newline="") as stream:
-        writer = csv.DictWriter(stream, FIELDS, dialect="excel-tab", lineterminator=eol, quoting=csv.QUOTE_ALL)
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def batch(files, needle: str, n: int) -> None:
-    terms = termbase()
-    guide = (ROOT / "TRANSLATION.md").read_text(encoding="utf-8").splitlines()
-    for path in files:
-        stem = path.name.removesuffix(".tsv")
-        if needle.lower() in path.name.lower():
-            for line in (l for l in guide if f"`{stem}`" in l):
-                print(f"PUZZLE (read its section in TRANSLATION.md): {line.strip()[:160]}", file=sys.stderr)
-    seen: dict[str, list[str]] = {}
-    for path, rs in files.items():
-        if needle.lower() in path.name.lower():
-            for r in rs:
-                if not r["be"]:
-                    seen.setdefault(r["source_phrase"], []).append(r)
-    for source, rs in list(seen.items())[:n]:
-        english = rs[0]["context"].partition("English reference: ")[2]
-        hints = [
-            f"{t['ru']}={t['be_tarask']}" + (f" (not {t['rejected_calque']})" if t["rejected_calque"] else "")
-            for ru, t, _ in terms
-            if ru.search(source)
-        ]
-        print("\t".join([rs[0]["identifier"], str(len(rs)), source, english, "; ".join(hints)]))
+def fix(text: str) -> str:
+    for pattern, repl in SLIPS:
+        text = pattern.sub(repl, text)
+    return text
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument("--batch", metavar="FILE", help="substring of a TSV name, e.g. Moi.qmm")
-    parser.add_argument("-n", type=int, default=50, help="sources per batch")
     parser.add_argument("--fix", action="store_true")
     parser.add_argument("--baseline", action="store_true")
     parser.add_argument("--limit", type=int, default=10, help="examples per report")
     args = parser.parse_args()
 
-    files = {p: read_rows(p) for d in CORPUS_DIRS for p in sorted((CORPUS / d).glob("*.tsv"))}
-    if args.batch:
-        batch(files, args.batch, args.n)
+    if args.fix:
+        slips = 0
+        for path in corpus_files():
+            data = load(path)
+            fixed = {identifier: fix(be) for identifier, be in data.items()}
+            changed = sum(fixed[identifier] != be for identifier, be in data.items())
+            if changed:
+                save(path, fixed)
+                slips += changed
+        print(f"fixed {slips} spelling slips")
         return 0
 
-    if args.fix:
-        variants = defaultdict(set)
-        for rs in files.values():
-            for r in rs:
-                if r["be"]:
-                    variants[r["source_phrase"]].add(r["be"])
-        slips = filled = 0
-        for path, rs in files.items():
-            dirty = False
-            for r in rs:
-                fixed = r["be"]
-                for pattern, repl in SLIPS:
-                    fixed = pattern.sub(repl, fixed)
-                if fixed != r["be"]:
-                    slips += 1
-                if not fixed and len(variants[r["source_phrase"]]) == 1:
-                    (fixed,) = variants[r["source_phrase"]]
-                    filled += 1
-                if fixed != r["be"]:
-                    r["be"], dirty = fixed, True
-            if dirty:
-                save(path, rs)
-        print(f"fixed {slips} spelling slips, filled {filled} empty rows from identical sources")
+    # Imported here: CI imports this module for check() and has no game or rangers.
+    from corpus_data import corpus, game_rows, translations_by_id
 
-    rows = [r for rs in files.values() for r in rs]
-    done = [r for r in rows if r["be"]]
+    done = [r for rs in game_rows(translations_by_id(corpus())).values() for r in rs if r["be"]]
     failures = [(r["identifier"], e) for r in done for e in check(r)]
 
     rejected: dict[str, str] = {}
@@ -169,12 +117,6 @@ def main() -> int:
         BASELINE.write_text("".join(f"{i}\n" for i in sorted(rejected)), encoding="utf-8")
         print(f"baseline: {len(rejected)} rows")
         return 0
-    with (ROOT / "TERMBASE.tsv").open(encoding="utf-8", newline="") as stream:
-        failures += [
-            (t["id"], "termbase row without be_tarask or source (lemma not locked)")
-            for t in csv.DictReader(stream, dialect="excel-tab")
-            if not t["be_tarask"].strip() or not t["source"].strip()
-        ]
     known = set(BASELINE.read_text(encoding="utf-8").split()) if BASELINE.exists() else set()
     failures += [(i, f"rejected form: {label}") for i, label in rejected.items() if i not in known]
 
@@ -197,8 +139,6 @@ def main() -> int:
     print(f"report: {len(copied)} rows are the Russian source copied unchanged")
     for r in copied[: args.limit]:
         print(f"  {r['identifier']}: {r['be'][:60]!r}")
-    empty = {r["source_phrase"] for r in rows if not r["be"]}
-    print(f"report: {len(empty)} unique sources remain untranslated")
     return 1 if failures else 0
 
 

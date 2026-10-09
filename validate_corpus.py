@@ -10,55 +10,71 @@ import re
 
 ROOT = Path(__file__).parent
 CORPUS = ROOT / "corpus"
-FIELDS = ("identifier", "source_phrase", "context", "labels", "be")
 CONTROL = re.compile(r"<[^<>]+>|\{[^{}]*\}|\[p\d+\]|\r\n|\r|\n")
 CORPUS_DIRS = ("lang_dat", "quests", "robots", "assets")
+SLIPS = (  # always wrong in be-tarask (hunspell rejects them; the prefix softens)
+    (re.compile(r"(?<![А-Яа-яЁёІіЎў'])([зЗ])'(?=[яеёюі])"), r"\1ь"),
+    (re.compile(r"\b([Вв])ашая\b"), r"\1аша"),
+    (re.compile(r"\b([Вв])ашую\b"), r"\1ашу"),
+)
 
 
-def read_rows(path: Path) -> list[dict[str, str]]:
-    with path.open(encoding="utf-8", newline="") as stream:
-        reader = csv.DictReader(stream, dialect="excel-tab")
-        if tuple(reader.fieldnames or ()) != FIELDS:
-            raise ValueError(f"{path}: expected {FIELDS}")
-        return list(reader)
+def corpus_files() -> list[Path]:
+    return sorted(path for directory in CORPUS_DIRS for path in (CORPUS / directory).glob("*.json"))
+
+
+def _unique(pairs: list[tuple[str, str]]) -> dict[str, str]:
+    result = dict(pairs)
+    if len(result) != len(pairs):
+        repeated = [key for key, count in Counter(key for key, _ in pairs).items() if count > 1]
+        raise ValueError(f"duplicate keys {repeated[:5]}")
+    return result
+
+
+def load(path: Path) -> dict[str, str]:
+    try:
+        return json.loads(path.read_text(encoding="utf-8"), object_pairs_hook=_unique)
+    except ValueError as error:
+        raise ValueError(f"{path}: {error}") from error
+
+
+def save(path: Path, data: dict[str, str]) -> None:
+    path.write_text(json.dumps(data, ensure_ascii=False, indent=0) + "\n", encoding="utf-8", newline="\n")
+
+
+def head(path: Path) -> list[str]:
+    stem = path.name.removesuffix(".json")
+    return {"lang_dat": [stem], "quests": ["quests", stem], "robots": ["robots"], "assets": ["assets", stem]}[path.parent.name]
 
 
 def main() -> None:
-    files = sorted(path for directory in CORPUS_DIRS for path in (CORPUS / directory).glob("*.tsv"))
+    files = corpus_files()
     if not files:
         raise ValueError("No corpus files")
 
-    rows = [(path, row) for path in files for row in read_rows(path)]
-    ids = [row["identifier"] for _, row in rows]
-    duplicates = [key for key, count in Counter(ids).items() if count > 1]
-    if duplicates:
-        raise ValueError(f"Duplicate identifiers: {duplicates[:10]}")
+    seen: set[str] = set()
+    for path in files:
+        prefix = head(path)
+        for identifier, be in load(path).items():
+            if identifier in seen:
+                raise ValueError(f"{path}: duplicate identifier {identifier}")
+            seen.add(identifier)
+            parts = identifier[1:].split("/")
+            if not identifier.startswith("/") or parts[:len(prefix)] != prefix or len(parts) == len(prefix):
+                raise ValueError(f"{path}: identifier {identifier!r} does not belong in this file")
+            if not isinstance(be, str) or not be.strip():
+                raise ValueError(f"{path}: empty translation {identifier}")
+            for pattern, _ in SLIPS:
+                if slip := pattern.search(be):
+                    raise ValueError(f"{path}: tarask slip {slip.group(0)!r} in {identifier}; run qa_translation.py --fix")
 
-    for path, row in rows:
-        identifier = row["identifier"]
-        if not identifier.startswith("/") or not row["source_phrase"] or not row["context"]:
-            raise ValueError(f"{path}: incomplete row {identifier!r}")
-        if row["be"] and Counter(CONTROL.findall(row["source_phrase"])) != Counter(CONTROL.findall(row["be"])):
-            raise ValueError(f"{path}: control syntax differs in {identifier}")
-
-    coverage = json.loads((CORPUS / "coverage.json").read_text(encoding="utf-8"))
-    entries = coverage["entries"]
-    coverage_ids = [entry["identifier"] for entry in entries]
-    if len(coverage_ids) != len(set(coverage_ids)):
-        raise ValueError("Duplicate coverage identifiers")
-    expected = {
-        entry["identifier"] for entry in entries if entry["status"] == "translatable"
-    }
-    if set(ids) != expected:
-        missing = sorted(expected - set(ids))
-        extra = sorted(set(ids) - expected)
-        raise ValueError(f"Corpus/coverage mismatch; missing={missing[:5]}, extra={extra[:5]}")
-    if any(entry["status"] not in {"translatable", "excluded", "deferred"} for entry in entries):
-        raise ValueError("Unknown coverage status")
-
-    report = (ROOT / "TRANSLATION-SCOPE.md").read_text(encoding="utf-8")
-    if f"**{len(rows):,}**" not in report or f"**{len(files)}**" not in report:
-        raise ValueError("TRANSLATION-SCOPE.md is stale")
+    with (ROOT / "TERMBASE.tsv").open(encoding="utf-8", newline="") as stream:
+        unlocked = [
+            row["id"] for row in csv.DictReader(stream, dialect="excel-tab")
+            if not row["be_tarask"].strip() or not row["source"].strip()
+        ]
+    if unlocked:
+        raise ValueError(f"TERMBASE.tsv rows without be_tarask or source (lemma not locked): {unlocked[:10]}")
 
     sensitive = re.compile(
         r"CROWDIN_PERSONAL_TOKEN\s*[:=]\s*['\"][A-Za-z0-9_-]{20,}"
@@ -73,27 +89,7 @@ def main() -> None:
         if sensitive.search(path.read_text(encoding="utf-8")):
             raise ValueError(f"Possible committed token in {path}")
 
-    filled = sum(bool(row["be"]) for _, row in rows)
-    by_file: dict[str, list[int]] = {}
-    for path, row in rows:
-        stats = by_file.setdefault(path.name, [0, 0])
-        stats[1] += 1
-        if row["be"]:
-            stats[0] += 1
-    incomplete = sorted(
-        ((name, done, total) for name, (done, total) in by_file.items() if done < total),
-        key=lambda item: item[2] - item[1],
-        reverse=True,
-    )
-    print(
-        f"Valid repository corpus: {len(rows)} rows in {len(files)} files; "
-        f"{filled} translated, {len(rows) - filled} empty be"
-    )
-    print(f"Incomplete files: {len(incomplete)}")
-    for name, done, total in incomplete[:25]:
-        print(f"  {done}/{total} {name}")
-    if len(incomplete) > 25:
-        print(f"  ... {len(incomplete) - 25} more")
+    print(f"Valid repository corpus: {len(seen)} translations in {len(files)} files")
 
 
 if __name__ == "__main__":

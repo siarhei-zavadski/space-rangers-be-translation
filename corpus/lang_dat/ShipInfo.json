@@ -1,0 +1,19 @@
+{
+"/ShipInfo/AddInfo/Chameleon/Charge": "У бартавы кампутар загружаныя праграмы для актывацыі камуфляжу:",
+"/ShipInfo/AddInfo/Chameleon/Count": "<Count> шт.",
+"/ShipInfo/AddInfo/Chameleon/Detect": "Увага! Ворагі здагадаліся, што вы ня сапраўдны дамінатар!<br>Камуфляж іх цяпер ня можа ашукаць.",
+"/ShipInfo/AddInfo/Chameleon/Disable": "Адключыць камуфляж",
+"/ShipInfo/AddInfo/Chameleon/Name": "Камуфляж",
+"/ShipInfo/AddInfo/Chameleon/Series": "Камуфляж сэрыі",
+"/ShipInfo/AddInfo/Chameleon/Text": "Працуе модуль камуфляжу. Галяграфічная мадэль: <Series>-<Type>-<Count>",
+"/ShipInfo/AddInfo/DebtInfo/Name": "Крэдыт",
+"/ShipInfo/AddInfo/DebtInfo/Text": "Не пазьней за <Date> трэба пагасіць крэдыт з улікам адсоткаў у памеры <Money> cr.",
+"/ShipInfo/AddInfo/DepositInfo/Name": "Дэпазыт",
+"/ShipInfo/AddInfo/DepositInfo/Text": "<Date><br>Адкрыты дэпазытны рахунак на суму <Money> cr. пад <Percent>% гадавых.<br>Даступны балянс: <Sum> cr.",
+"/ShipInfo/AddInfo/MedPolicy/Name": "Страхавы поліс",
+"/ShipInfo/AddInfo/MedPolicy/Text": "Дакумэнт дае права на атрыманьне падвоенай пажыцьцёвай кампэнсацыі. Уладальніку даюцца зьніжкі пры выбары стандартнага набору паслуг сеткі мэдычных цэнтраў. Сапраўдны да <Date>.",
+"/ShipInfo/AddInfo/PirateLicenseInfo/Name": "Пірацкая ліцэнзія",
+"/ShipInfo/AddInfo/PirateLicenseInfo/Text": "Павялічвае шанец пасьпяховага рабунку і дае дадатковы досьвед замест 10%-га адлічэньня з пабораў у агульны кацёл. Сапраўдная да <Date>.",
+"/ShipInfo/Forsage/Name": "Фарсаж",
+"/ShipInfo/Forsage/Text": "Пераключае рухавік у экстрэмальны рэжым, пры гэтым хуткасьць павялічваецца ў <clr>2<clrEnd> разы. Рухавік хутка зношваецца."
+}

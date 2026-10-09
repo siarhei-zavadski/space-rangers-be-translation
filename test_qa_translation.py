@@ -1,6 +1,10 @@
-"""Smallest check that qa_translation.check() still fails on what it must fail on."""
+"""Smallest check that qa_translation.check() and the corpus loader still fail on what they must fail on."""
+
+from pathlib import Path
+from tempfile import TemporaryDirectory
 
 from qa_translation import SLIPS, check
+from validate_corpus import load
 
 row = lambda src, be: {"source_phrase": src, "be": be}  # noqa: E731
 
@@ -13,4 +17,13 @@ text = "Вашая з'ява, вашую"
 for pattern, repl in SLIPS:
     text = pattern.sub(repl, text)
 assert text == "Ваша зьява, вашу", text
+with TemporaryDirectory() as temporary:
+    duplicated = Path(temporary) / "Talk.json"
+    duplicated.write_text('{\n"/Talk/a": "1",\n"/Talk/a": "2"\n}\n', encoding="utf-8")
+    try:
+        load(duplicated)
+    except ValueError:
+        pass
+    else:
+        raise AssertionError("a duplicated key was silently dropped")
 print("ok")

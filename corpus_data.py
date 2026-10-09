@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
-"""Generate, validate, and consume the checked-in translation corpus."""
+"""Check the corpus against the installed game, and feed it to the build."""
 
 from collections import Counter
 import argparse
 import csv
-import json
+import io
 from pathlib import Path
 import re
+import subprocess
 from tempfile import TemporaryDirectory
 
 from rangers.dat import DAT
@@ -18,21 +19,17 @@ from robots_storage import encode as encode_robots
 from robots_storage import encode_raw as encode_robots_raw
 from robots_storage import parse as parse_robots
 from robots_storage import replace_array
+from validate_corpus import CONTROL, CORPUS, ROOT as PROJECT, corpus_files, load
 
 
-PROJECT = Path(__file__).parent
 GAME = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
 SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
 ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
-MOD_DAT = GAME / "Mods/Tweaks/BelTranslate/CFG/Rus/Lang.dat"
-CORPUS = PROJECT / "corpus"
 LANG_DIR = CORPUS / "lang_dat"
 QUEST_DIR = CORPUS / "quests"
 ASSET_DIR = CORPUS / "assets"
 ROBOTS_DIR = CORPUS / "robots"
-COVERAGE = CORPUS / "coverage.json"
-FIELDS = ("identifier", "source_phrase", "context", "labels", "be")
-CONTROL = re.compile(r"<[^<>]+>|\{[^{}]*\}|\[p\d+\]|\r\n|\r|\n")
+TAG = "v1-first-pass"
 RUSSIAN = re.compile(r"[А-Яа-яЁё]")
 RESOURCE = re.compile(
     r"(?i)^[^<>\r\n]+\.(?:aft|dat|gi|jpg|map|mp3|ogg|pkg|png|qmm|scr|tga|txt|wav)$"
@@ -54,41 +51,25 @@ QUEST_LITERAL_KEYS = {
     "ranger": "<Ranger>",
 }
 
-# The corpus stores the words; build metadata maps those words back to GI assets.
+# Baked GI labels in the corpus, and how the build renders each one.
 ASSETS = {
-    ("FormMain2", "New"): ("НОВАЯ ИГРА", "НОВАЯ ГУЛЬНЯ", "button"),
-    ("FormMain2", "Load"): ("ЗАГРУЗИТЬ", "ЗАГРУЗІЦЬ", "button"),
-    ("FormMain2", "Exit"): ("ВЫХОД", "ВЫЙСЬЦІ", "button"),
-    ("FormMain2", "Settings"): ("НАСТРОЙКИ", "НАЛАДЫ", "button"),
-    ("FormMain2", "Records"): ("РЕКОРДЫ", "РЭКОРДЫ", "button"),
-    ("FormMain2", "About"): ("ОБ АВТОРАХ", "ПРА АЎТАРАЎ", "button"),
-    ("FormMain3", "Ach"): ("ДОСТИЖЕНИЯ", "ДАСЯГНЕНЬНІ", "button"),
-    ("FormMain3", "2Caption"): ("КОСМИЧЕСКИЕ РЕЙНДЖЕРЫ HD", "", "deferred"),
-    ("FormMain3", "CaptionLarge"): ("КОСМИЧЕСКИЕ РЕЙНДЖЕРЫ HD", "", "deferred"),
-    ("FormMain3", "CaptionBlur"): ("КОСМИЧЕСКИЕ РЕЙНДЖЕРЫ HD", "", "deferred"),
-    ("FormMain3", "2CaptionLine"): ("КОСМИЧЕСКИЕ РЕЙНДЖЕРЫ HD", "", "deferred"),
-    ("FormMain3", "Sub"): (
-        "ДОМИНАТОРЫ: ПЕРЕЗАГРУЗКА",
-        "ДАМІНАТАРЫ: ПЕРАЗАГРУЗКА",
-        "deferred",
-    ),
-    ("FormMain3", "SubLarge"): (
-        "ДОМИНАТОРЫ: ПЕРЕЗАГРУЗКА",
-        "ДАМІНАТАРЫ: ПЕРАЗАГРУЗКА",
-        "deferred",
-    ),
-    ("FormMain3", "2SubLarge"): (
-        "ДОМИНАТОРЫ: ПЕРЕЗАГРУЗКА",
-        "ДАМІНАТАРЫ: ПЕРАЗАГРУЗКА",
-        "deferred",
-    ),
-    ("FormMenu2", "Achievements"): ("ДОСТИЖЕНИЯ", "ДАСЯГНЕНЬНІ", "deferred"),
-    ("FormLoad3", "LoadAnim"): ("ЗАГРУЗКА", "ЗАГРУЗКА", "deferred"),
-    ("FormAbout2", "SubName"): (
-        "ДОМИНАТОРЫ: ПЕРЕЗАГРУЗКА",
-        "ДАМІНАТАРЫ: ПЕРАЗАГРУЗКА",
-        "deferred",
-    ),
+    ("FormMain2", "New"): "button",
+    ("FormMain2", "Load"): "button",
+    ("FormMain2", "Exit"): "button",
+    ("FormMain2", "Settings"): "button",
+    ("FormMain2", "Records"): "button",
+    ("FormMain2", "About"): "button",
+    ("FormMain3", "Ach"): "button",
+    ("FormMain3", "2Caption"): "deferred",
+    ("FormMain3", "CaptionLarge"): "deferred",
+    ("FormMain3", "CaptionBlur"): "deferred",
+    ("FormMain3", "2CaptionLine"): "deferred",
+    ("FormMain3", "Sub"): "deferred",
+    ("FormMain3", "SubLarge"): "deferred",
+    ("FormMain3", "2SubLarge"): "deferred",
+    ("FormMenu2", "Achievements"): "deferred",
+    ("FormLoad3", "LoadAnim"): "deferred",
+    ("FormAbout2", "SubName"): "deferred",
 }
 
 
@@ -129,67 +110,18 @@ def set_value(value, path: tuple[str, ...], replacement: str) -> None:
     value[key] = replacement
 
 
-def read_rows(path: Path) -> list[dict[str, str]]:
-    with path.open(encoding="utf-8", newline="") as stream:
-        reader = csv.DictReader(stream, dialect="excel-tab")
-        if tuple(reader.fieldnames or ()) != FIELDS:
-            raise ValueError(f"{path}: expected TSV columns {FIELDS}")
-        return list(reader)
+def corpus() -> dict[Path, dict[str, str]]:
+    return {path: load(path) for path in corpus_files()}
 
 
-def write_rows(path: Path, rows: list[dict[str, str]]) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8", newline="") as stream:
-        writer = csv.DictWriter(
-            stream,
-            FIELDS,
-            dialect="excel-tab",
-            lineterminator="\n",
-            quoting=csv.QUOTE_ALL,
-        )
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def corpus_files() -> list[Path]:
-    return sorted((
-        *LANG_DIR.glob("*.tsv"),
-        *QUEST_DIR.glob("*.tsv"),
-        *ASSET_DIR.glob("*.tsv"),
-        *ROBOTS_DIR.glob("*.tsv"),
-    ))
-
-
-def existing_translations() -> dict[str, str]:
-    paths = corpus_files()
+def translations_by_id(files: dict[Path, dict[str, str]]) -> dict[str, str]:
     result = {}
-    for path in paths:
-        for row in read_rows(path):
-            target = row["be"]
-            if not target:
-                continue
-            old = result.setdefault(row["identifier"], target)
-            if old != target:
-                raise ValueError(f"Conflicting translations for {row['identifier']}")
+    for path, values in files.items():
+        for identifier, target in values.items():
+            if identifier in result:
+                raise ValueError(f"{path}: duplicate identifier {identifier}")
+            result[identifier] = target
     return result
-
-
-def termbase_translations() -> dict[str, str]:
-    path = PROJECT / "TERMBASE.tsv"
-    if not path.exists():
-        return {}
-    with path.open(encoding="utf-8", newline="") as stream:
-        return {
-            pointer(tuple(row["id"].split("."))): row["be_tarask"]
-            for row in csv.DictReader(stream, dialect="excel-tab")
-            if row["id"] and row["be_tarask"]
-        }
-
-
-def clean_generated(directory: Path) -> None:
-    directory.mkdir(parents=True, exist_ok=True)
-    for path in directory.glob("*.tsv"):
-        path.unlink()
 
 
 def exclusion_reason(
@@ -219,34 +151,20 @@ def exclusion_reason(
 def dat_rows(
     russian: dict,
     english: dict,
-    translations_by_id: dict[str, str],
-) -> tuple[dict[str, list[dict[str, str]]], list[dict[str, str]]]:
+    translations: dict[str, str],
+) -> dict[str, list[dict[str, str]]]:
     english_values = dict(iter_strings(english))
     by_section: dict[str, list[dict[str, str]]] = {}
-    coverage = []
     for path, source in iter_strings(russian):
-        identifier = pointer(path)
-        reference = english_values.get(path)
-        reason = exclusion_reason(path, source, reference, translations_by_id.keys())
-        coverage.append({
-            "kind": "lang_dat",
-            "identifier": identifier,
-            "status": "excluded" if reason else "translatable",
-            "reason": reason,
-        })
-        if reason:
+        if exclusion_reason(path, source, english_values.get(path), translations.keys()):
             continue
-        context = f"Lang.dat: {'.'.join(path)}. Preserve every <tag> exactly."
-        if reference is not None and reference != source:
-            context += f" English reference: {reference}"
+        identifier = pointer(path)
         by_section.setdefault(path[0], []).append({
             "identifier": identifier,
             "source_phrase": source,
-            "context": context,
-            "labels": path[0],
-            "be": translations_by_id.get(identifier, ""),
+            "be": translations.get(identifier, ""),
         })
-    return by_section, coverage
+    return by_section
 
 
 def parse_quest(raw: bytes) -> dict:
@@ -278,18 +196,11 @@ def unpack_quests(package: Path, destination: Path) -> dict[str, Path]:
     return {path.name: path for path in destination.rglob("*.qmm")}
 
 
-def quest_rows(
-    translations_by_id: dict[str, str],
-) -> tuple[dict[str, list[dict[str, str]]], list[dict[str, str]]]:
+def quest_rows(translations: dict[str, str]) -> dict[str, list[dict[str, str]]]:
     by_quest = {}
-    coverage = []
     writer_checked = False
-    with TemporaryDirectory() as rus_tmp, TemporaryDirectory() as eng_tmp:
+    with TemporaryDirectory() as rus_tmp:
         russian = unpack_quests(GAME / "DATA/questsRus.pkg", Path(rus_tmp))
-        english = {
-            name.removesuffix("_eng.qmm") + ".qmm": path
-            for name, path in unpack_quests(GAME / "DATA/questsEng.pkg", Path(eng_tmp)).items()
-        }
         for name, path in sorted(russian.items()):
             raw = path.read_bytes()
             data = parse_quest(raw)
@@ -305,55 +216,18 @@ def quest_rows(
                 reparsed = parse_quest(encode_quest(changed))
                 assert value_at(reparsed, first_path) == first_value + " "
                 writer_checked = True
-            english_data = parse_quest(english[name].read_bytes()) if name in english else None
-            english_values = dict(iter_quest_text(english_data)) if english_data else {}
             rows = []
             for field_path, source in iter_quest_text(data):
-                identifier = pointer(("quests", name, *field_path))
-                reason = None if source else "empty text field"
-                coverage.append({
-                    "kind": "quest",
-                    "identifier": identifier,
-                    "status": "excluded" if reason else "translatable",
-                    "reason": reason,
-                })
-                if reason:
+                if not source:
                     continue
-                reference = english_values.get(field_path)
-                context = f"Quest {name}: {'.'.join(field_path)}. Preserve every <tag> exactly."
-                if reference is not None and reference != source:
-                    context += f" English reference: {reference}"
+                identifier = pointer(("quests", name, *field_path))
                 rows.append({
                     "identifier": identifier,
                     "source_phrase": source,
-                    "context": context,
-                    "labels": f"quest,{Path(name).stem}",
-                    "be": translations_by_id.get(identifier, ""),
+                    "be": translations.get(identifier, ""),
                 })
             by_quest[name] = rows
-    return by_quest, coverage
-
-
-def asset_rows(translations_by_id: dict[str, str]) -> tuple[dict[str, list[dict[str, str]]], list[dict[str, str]]]:
-    by_form = {}
-    coverage = []
-    for (form, stem), (source, seed, renderer) in ASSETS.items():
-        identifier = pointer(("assets", form, stem))
-        by_form.setdefault(form, []).append({
-            "identifier": identifier,
-            "source_phrase": source,
-            "context": f"Baked GI label: Data/{form}/{stem}. Renderer: {renderer}.",
-            "labels": f"asset,{form}",
-            "be": translations_by_id.get(identifier, seed),
-        })
-        coverage.append({
-            "kind": "asset",
-            "identifier": identifier,
-            "status": "translatable",
-            "reason": None,
-            "renderer": renderer,
-        })
-    return by_form, coverage
+    return by_quest
 
 
 def robot_properties(records):
@@ -369,7 +243,7 @@ def robot_properties(records):
             yield record.name, index, key, value
 
 
-def robot_rows(translations_by_id: dict[str, str]) -> tuple[list[dict[str, str]], list[dict[str, str]]]:
+def robot_rows(translations: dict[str, str]) -> list[dict[str, str]]:
     source_data = (GAME / "CFG/Rus/robots.dat").read_bytes()
     russian_raw, russian = parse_robots(source_data)
     assert encode_robots_raw(russian) == russian_raw, "robots.dat raw no-op round-trip differs"
@@ -389,121 +263,68 @@ def robot_rows(translations_by_id: dict[str, str]) -> tuple[list[dict[str, str]]
         (record, index): value for record, index, _, value in robot_properties(english)
     }
     rows = []
-    coverage = []
     for record, index, key, source in robot_properties(russian):
         identifier = pointer(("robots", record, str(index)))
         reference = english_values.get((record, index))
-        reason = exclusion_reason(("robots", record, key), source, reference, translations_by_id.keys())
-        coverage.append({
-            "kind": "robots_dat",
-            "identifier": identifier,
-            "status": "excluded" if reason else "translatable",
-            "reason": reason,
-        })
-        if reason:
+        if exclusion_reason(("robots", record, key), source, reference, translations.keys()):
             continue
-        context = f"robots.dat record {record}, property {key}. Preserve every <tag> exactly."
-        if reference is not None and reference != source:
-            context += f" English reference: {reference}"
         rows.append({
             "identifier": identifier,
             "source_phrase": source,
-            "context": context,
-            "labels": "robots.dat",
-            "be": translations_by_id.get(identifier, ""),
+            "be": translations.get(identifier, ""),
         })
-    return rows, coverage
+    return rows
 
 
-def refresh() -> None:
-    existing = existing_translations()
-    existing.update({key: value for key, value in termbase_translations().items() if key not in existing})
-    if MOD_DAT.exists():
-        source = DAT.from_dat(SOURCE_DAT).to_dict()
-        patched = DAT.from_dat(MOD_DAT).to_dict()
-        for path, value in iter_strings(patched):
-            original = value_at(source, path)
-            if value != original:
-                existing.setdefault(pointer(path), value)
-
+def game_rows(translations: dict[str, str]) -> dict[Path, list[dict[str, str]]]:
+    """Rows of every corpus file that has game Russian, keyed by the file's path."""
     russian = DAT.from_dat(SOURCE_DAT).to_dict()
     english = DAT.from_dat(ENGLISH_DAT).to_dict()
-    dat, dat_coverage = dat_rows(russian, english, existing)
-    quests, quest_coverage = quest_rows(existing)
-    assets, asset_coverage = asset_rows(existing)
-    robots, robots_coverage = robot_rows(existing)
-
-    for directory in (LANG_DIR, QUEST_DIR, ASSET_DIR, ROBOTS_DIR):
-        clean_generated(directory)
-    for section, rows in dat.items():
-        write_rows(LANG_DIR / f"{section}.tsv", rows)
-    for name, rows in quests.items():
-        write_rows(QUEST_DIR / f"{name}.tsv", rows)
-    for form, rows in assets.items():
-        write_rows(ASSET_DIR / f"{form}.tsv", rows)
-    write_rows(ROBOTS_DIR / "robots.tsv", robots)
-
-    coverage = {
-        "version": 1,
-        "sources": {
-            "lang_dat": "CFG/Rus/Lang.dat",
-            "quests": "DATA/questsRus.pkg",
-            "robots_dat": "CFG/Rus/robots.dat",
-        },
-        "summary": {
-            "lang_dat_values": len(dat_coverage),
-            "lang_dat_translatable": sum(row["status"] == "translatable" for row in dat_coverage),
-            "quest_text_fields": len(quest_coverage),
-            "quest_translatable": sum(row["status"] == "translatable" for row in quest_coverage),
-            "asset_labels": len(asset_coverage),
-            "robots_values": len(robots_coverage),
-            "robots_translatable": sum(row["status"] == "translatable" for row in robots_coverage),
-        },
-        "entries": [*dat_coverage, *quest_coverage, *asset_coverage, *robots_coverage],
-    }
-    COVERAGE.write_text(json.dumps(coverage, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(
-        f"Wrote {sum(map(len, dat.values()))} DAT strings in {len(dat)} files, "
-        f"{sum(map(len, quests.values()))} quest strings in {len(quests)} files, "
-        f"{sum(map(len, assets.values()))} asset labels in {len(assets)} files, "
-        f"and {len(robots)} robots.dat strings"
-    )
-    check()
+    rows = {LANG_DIR / f"{section}.json": r for section, r in dat_rows(russian, english, translations).items()}
+    rows |= {QUEST_DIR / f"{name}.json": r for name, r in quest_rows(translations).items()}
+    rows[ROBOTS_DIR / "robots.json"] = robot_rows(translations)
+    return rows
 
 
-def all_rows() -> list[tuple[Path, dict[str, str]]]:
-    return [(path, row) for path in corpus_files() for row in read_rows(path)]
+def tag_sources() -> dict[str, str]:
+    """The Russian each line was translated from, kept in the TSV corpus at TAG."""
+    git = ["git", "-C", str(PROJECT)]
+    if subprocess.run([*git, "rev-parse", "-q", "--verify", f"{TAG}^{{commit}}"], capture_output=True).returncode:
+        raise SystemExit(f"Tag {TAG} is missing; run git fetch --tags")
+    names = subprocess.run(
+        [*git, "ls-tree", "-r", "--name-only", TAG, "corpus"], capture_output=True, text=True, check=True,
+    ).stdout.splitlines()
+    sources = {}
+    for name in names:
+        if name.endswith(".tsv"):
+            raw = subprocess.run([*git, "show", f"{TAG}:{name}"], capture_output=True, check=True).stdout
+            for row in csv.DictReader(io.StringIO(raw.decode("utf-8"), newline=""), dialect="excel-tab"):
+                sources[row["identifier"]] = row["source_phrase"]
+    return sources
 
 
 def translations() -> dict[tuple[str, ...], str]:
-    result = {}
-    for path in LANG_DIR.glob("*.tsv"):
-        for row in read_rows(path):
-            if row["be"]:
-                key = unpointer(row["identifier"])
-                if key in result:
-                    raise ValueError(f"Duplicate identifier {row['identifier']}")
-                result[key] = row["be"]
-    return result
+    return {
+        unpointer(identifier): target
+        for path in sorted(LANG_DIR.glob("*.json"))
+        for identifier, target in load(path).items()
+    }
 
 
 def asset_translations() -> dict[tuple[str, str], str]:
-    result = {}
-    for path in ASSET_DIR.glob("*.tsv"):
-        for row in read_rows(path):
-            if row["be"]:
-                parts = unpointer(row["identifier"])
-                result[(parts[1], parts[2])] = row["be"]
-    return result
+    return {
+        unpointer(identifier)[1:3]: target
+        for path in sorted(ASSET_DIR.glob("*.json"))
+        for identifier, target in load(path).items()
+    }
 
 
 def write_translated_quests(destination: Path) -> int:
     targets = {}
-    for path in QUEST_DIR.glob("*.tsv"):
-        for row in read_rows(path):
-            if row["be"]:
-                parts = unpointer(row["identifier"])
-                targets.setdefault(parts[1], {})[parts[2:]] = row["be"]
+    for path in sorted(QUEST_DIR.glob("*.json")):
+        for identifier, target in load(path).items():
+            parts = unpointer(identifier)
+            targets.setdefault(parts[1], {})[parts[2:]] = target
     if not targets:
         return 0
 
@@ -525,11 +346,10 @@ def write_translated_quests(destination: Path) -> int:
 
 
 def write_translated_robots(destination: Path) -> int:
-    rows = read_rows(ROBOTS_DIR / "robots.tsv")
     targets = {
-        (parts[1], int(parts[2])): row["be"]
-        for row in rows
-        if row["be"] and (parts := unpointer(row["identifier"]))
+        (parts[1], int(parts[2])): target
+        for identifier, target in load(ROBOTS_DIR / "robots.json").items()
+        if (parts := unpointer(identifier))
     }
     source = (GAME / "CFG/Rus/robots.dat").read_bytes()
     if not targets:
@@ -556,104 +376,39 @@ def validate_tags(source: str, target: str, location: str) -> None:
 
 
 def check() -> None:
-    files = corpus_files()
+    files = corpus()
     if not files:
-        raise FileNotFoundError("No corpus files; run refresh")
-    russian = DAT.from_dat(SOURCE_DAT).to_dict()
-    english = DAT.from_dat(ENGLISH_DAT).to_dict()
-    expected_dat, _ = dat_rows(russian, english, existing_translations())
-    expected_dat_ids = {row["identifier"] for rows in expected_dat.values() for row in rows}
-    expected_assets = {pointer(("assets", form, stem)) for form, stem in ASSETS}
+        raise FileNotFoundError("No corpus files")
+    translations = translations_by_id(files)
+    rows = game_rows(translations)
 
-    seen = set()
-    actual_dat_ids = set()
-    actual_quest_ids = set()
-    actual_asset_ids = set()
-    actual_robot_ids = set()
-    translated = 0
-    for file, row in all_rows():
-        identifier = row["identifier"]
-        if identifier in seen:
-            raise ValueError(f"{file}: duplicate identifier {identifier}")
-        seen.add(identifier)
-        parts = unpointer(identifier)
-        target = row["be"]
-        if parts[0] == "quests":
-            actual_quest_ids.add(identifier)
-        elif parts[0] == "assets":
-            actual_asset_ids.add(identifier)
-            source = ASSETS[(parts[1], parts[2])][0]
-            if source != row["source_phrase"]:
-                raise ValueError(f"{file}: stale asset source {identifier}")
-        elif parts[0] == "robots":
-            actual_robot_ids.add(identifier)
-        else:
-            actual_dat_ids.add(identifier)
-            try:
-                source = value_at(russian, parts)
-            except (IndexError, KeyError, TypeError) as error:
-                raise ValueError(f"{file}: unknown DAT identifier {identifier}") from error
-            if source != row["source_phrase"]:
-                raise ValueError(f"{file}: stale Russian source {identifier}")
-        if target:
-            translated += 1
-            validate_tags(row["source_phrase"], target, f"{file}:{identifier}")
+    expected = {path: {row["identifier"] for row in r} for path, r in rows.items()}
+    for form, stem in ASSETS:
+        expected.setdefault(ASSET_DIR / f"{form}.json", set()).add(pointer(("assets", form, stem)))
+    for path in sorted(expected.keys() | files.keys()):
+        want, have = expected.get(path, set()), set(files.get(path, ()))
+        if want != have:
+            raise ValueError(
+                f"{path.relative_to(PROJECT)} does not match the game's text: "
+                f"missing {sorted(want - have)[:5]}, extra {sorted(have - want)[:5]}"
+            )
 
-    if actual_dat_ids != expected_dat_ids:
-        raise ValueError("Split DAT corpus does not match classified source paths; run refresh")
-    if actual_asset_ids != expected_assets:
-        raise ValueError("Asset corpus does not match known labels; run refresh")
+    for path, r in rows.items():
+        for row in r:
+            validate_tags(row["source_phrase"], row["be"], f"{path.name}:{row['identifier']}")
 
-    _, quest_coverage = quest_rows(existing_translations())
-    expected_quest_ids = {
-        row["identifier"] for row in quest_coverage if row["status"] == "translatable"
-    }
-    if actual_quest_ids != expected_quest_ids:
-        raise ValueError("Quest corpus does not match QMM text fields; run refresh")
-
-    expected_robots, _ = robot_rows(existing_translations())
-    expected_robot_ids = {row["identifier"] for row in expected_robots}
-    if actual_robot_ids != expected_robot_ids:
-        raise ValueError("robots.dat corpus does not match Storage values; run refresh")
-    robot_source = {
-        pointer(("robots", record, str(index))): value
-        for record, index, _, value in robot_properties(
-            parse_robots((GAME / "CFG/Rus/robots.dat").read_bytes())[1]
-        )
-    }
-    for file in ROBOTS_DIR.glob("*.tsv"):
-        for row in read_rows(file):
-            if robot_source[row["identifier"]] != row["source_phrase"]:
-                raise ValueError(f"{file}: stale robots.dat source {row['identifier']}")
-
-    coverage = json.loads(COVERAGE.read_text(encoding="utf-8"))
-    coverage_ids = {
-        kind: {
-            row["identifier"] for row in coverage["entries"] if row["kind"] == kind
-        }
-        for kind in ("lang_dat", "quest", "asset", "robots_dat")
-    }
-    all_dat_ids = {pointer(path) for path, _ in iter_strings(russian)}
-    if coverage_ids["lang_dat"] != all_dat_ids:
-        raise ValueError("coverage.json does not account for every Lang.dat value")
-    if coverage_ids["quest"] != {
-        row["identifier"] for row in quest_coverage
-    }:
-        raise ValueError("coverage.json does not account for every QMM text field")
-    if coverage_ids["asset"] != expected_assets:
-        raise ValueError("coverage.json does not account for every known asset label")
-    if coverage_ids["robots_dat"] != {
-        row["identifier"] for row in robot_rows(existing_translations())[1]
-    }:
-        raise ValueError("coverage.json does not account for every robots.dat property")
-    print(f"Valid: {translated}/{len(seen)} translated strings in {len(files)} corpus files")
+    tagged = tag_sources()
+    stale = [row["identifier"] for r in rows.values() for row in r if tagged.get(row["identifier"]) != row["source_phrase"]]
+    if stale:
+        raise ValueError(f"{len(stale)} game Russian lines differ from the Russian at {TAG}, e.g. {stale[:5]}")
+    print(f"Valid: {len(translations)} translated strings in {len(files)} corpus files; game Russian matches {TAG}")
 
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("command", choices=("refresh", "check"))
-    args = parser.parse_args()
-    refresh() if args.command == "refresh" else check()
+    parser.add_argument("command", choices=("check",))
+    parser.parse_args()
+    check()
 
 
 if __name__ == "__main__":
