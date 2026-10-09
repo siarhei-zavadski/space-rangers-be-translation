@@ -90,7 +90,7 @@ def main() -> None:
     buttons = {
         key: value
         for key, value in asset_translations().items()
-        if ASSETS[key][2] == "button"
+        if ASSETS[key] == "button"
     }
 
     with TemporaryDirectory() as temporary:

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Spell-check every filled corpus `be` cell with local be_BY@tarask hunspell.
+"""Spell-check every corpus value with local be_BY@tarask hunspell.
 
 One hunspell process on unique tokens. Tags, formulas, and Latin are stripped.
 """
@@ -13,7 +13,7 @@ import subprocess
 from collections import Counter
 from pathlib import Path
 
-from corpus_data import CONTROL, PROJECT, all_rows
+from validate_corpus import CONTROL, ROOT as PROJECT, corpus_files, load
 
 DICT = "be_BY@tarask"
 WORD = re.compile(r"[А-Яа-яЁёІіЎўҐґ']+", re.UNICODE)
@@ -52,7 +52,7 @@ def hunspell_miss(words: list[str]) -> set[str]:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--file", help="substring of TSV path (e.g. Ski, Quest.tsv)")
+    parser.add_argument("--file", help="substring of a corpus path (e.g. Ski, Quest.json)")
     parser.add_argument("--top", type=int, default=80, help="leftover rows to print")
     parser.add_argument(
         "--keep-termbase",
@@ -75,17 +75,15 @@ def main() -> None:
     counts: Counter[str] = Counter()
     sample: dict[str, str] = {}
     strings = 0
-    for path, row in all_rows():
-        be = (row.get("be") or "").strip()
-        if not be:
-            continue
+    for path in corpus_files():
         if needle and needle not in str(path).lower():
             continue
-        strings += 1
-        loc = f"{path.name}:{row['identifier']}"
-        for word in tokenize(be):
-            counts[word] += 1
-            sample.setdefault(word, loc)
+        for identifier, be in load(path).items():
+            strings += 1
+            loc = f"{path.name}:{identifier}"
+            for word in tokenize(be):
+                counts[word] += 1
+                sample.setdefault(word, loc)
 
     unique = sorted(counts)
     bad = hunspell_miss(unique)

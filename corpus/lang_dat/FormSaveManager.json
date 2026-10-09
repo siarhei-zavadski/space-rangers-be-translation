@@ -1,0 +1,22 @@
+{
+"/FormSaveManager/AutoSave": "Аўтаматычнае захаваньне",
+"/FormSaveManager/Cancel": "Скасаваць",
+"/FormSaveManager/CaptionLoad": "Загрузіць гульню",
+"/FormSaveManager/CaptionSave": "Захаваць гульню",
+"/FormSaveManager/Delete": "Выдаліць",
+"/FormSaveManager/Load": "Загрузіць",
+"/FormSaveManager/LoadDumpConfirm": "Для гэтага захаваньня існуе тэкставы дамп. Хочаце яго загрузіць (захаваньне стане непрыдатным для адпраўкі ў ТР і атрыманьня дасягненьняў)?",
+"/FormSaveManager/LoadError": "Памылка загрузкі гульні",
+"/FormSaveManager/Loading": "З А Г Р У З К А",
+"/FormSaveManager/New": "Новае захаваньне",
+"/FormSaveManager/QueryDelete": "Выдаліць захаваную гульню?",
+"/FormSaveManager/QueryQuick": "Загрузіць хуткае захаваньне?",
+"/FormSaveManager/QueryQuickN": "Загрузіць хуткае захаваньне N<Num>?",
+"/FormSaveManager/QueryReloadMods": "Памылка загрузкі гульні, найбольш верагодная прычына — неадпаведнасьць модаў. Паўтарыць спробу, скапіяваўшы набор модаў з файла захаваньня?",
+"/FormSaveManager/QuickNotExist": "Хуткае захаваньне адсутнічае",
+"/FormSaveManager/QuickNotExistN": "Хуткае захаваньне N<Num> адсутнічае",
+"/FormSaveManager/Save": "Захаваць",
+"/FormSaveManager/SaveError": "Памылка захаваньня гульні",
+"/FormSaveManager/SaveInPlanet": "Плянэта <Planet>",
+"/FormSaveManager/SaveInSpace": "Сыстэма <Star>"
+}

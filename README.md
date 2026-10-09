@@ -5,11 +5,10 @@ This is an unofficial, non-commercial fan project.
 
 ## Translate
 
-Edit the `be` column in `corpus/`. The repository is the source of truth.
-Russian `source_phrase` is the sense; English `context` is the cross-check.
+Edit the Belarusian values in `corpus/`. The repository is the source of truth.
+The Russian line in the game is the sense; the English line is the cross-check.
 The corpus covers core DAT text, all 80 text quests, planetary-battle
-strings, and known baked labels. Counts are in
-[`TRANSLATION-SCOPE.md`](TRANSLATION-SCOPE.md). The line procedure is in
+strings, and known baked labels. The line procedure is in
 [`TRANSLATION.md`](TRANSLATION.md).
 
 ## Translation tools
