@@ -22,7 +22,7 @@ FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)			Skarnik
 FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?			Skarnik
 FormCfgSettings.Caption	Настройки	Settings	Налады			Kamputerm
 FormCfgSettings.Ok	Применить	Apply	Ужыць			Kamputerm
-FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.Yes	Да	Yes	Так			Skarnik
 FormCfgSettings.No	Нет	No	Не			Skarnik
 FormCfgSettings.GGraph	Графика	Graphics	Графіка			Skarnik
@@ -30,7 +30,7 @@ FormCfgSettings.GMain	Общее	General	Агульнае			Skarnik
 FormCfgSettings.GMod	Моды	Mods	Моды			loan OK
 FormCfgSettings.GSound	Музыка	Music	Музыка			—
 FormCfgSettings.HelpButOk	Принять	Accept	Прыняць			Skarnik
-FormCfgSettings.HelpButCancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.HelpButCancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.HelpButAuto	Автоматически	Automatically	Аўтаматычна			Skarnik
 FormCfgSettings.HelpAuto	Авто	Auto	Аўта			—
 FormCfgSettings.HelpButMax	Высокое качество	High quality	Высокая якасьць			classical -сьць
@@ -43,7 +43,7 @@ FormCfgSettings.Sound	Звуки:	Sounds:	Гукі:			Skarnik
 FormCfgSettings.ModePlanet	Планетарные бои	Planetary Battles	Плянэтарныя баі			—
 FormCfgSettings.ModeSpace	Космос	Space	Космас			—
 FormSaveManager.AutoSave	Автоматическое сохранение	Autosave	Аўтаматычнае захаваньне			—
-FormSaveManager.Cancel	Отменить	Cancel	Скасаваць			—
+FormSaveManager.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormSaveManager.CaptionLoad	Загрузить игру	Load Game	Загрузіць гульню			—
 FormSaveManager.CaptionSave	Сохранить игру	Save Game	Захаваць гульню			—
 FormSaveManager.Delete	Удалить	Delete	Выдаліць			Skarnik
@@ -4795,3 +4795,4 @@ lemma.pranjne	пранне	laundry	праньне/праньня		Starnik пра
 lemma.insure_verb	застраховать	to insure	застрахаваць/застрахуй		perfective sense 1; imperative застрахуй; the slogan takes брата, Starnik брат sense 3	https://starnik.by/pravapis/182208
 lemma.comeon	давай, давай	go-go-go	наперад		race command, Starnik sense of the interjection; not the rude ану	https://starnik.by/pravapis/250512
 lemma.fun_awhile	погулять	to have some fun	пагуляць/пагуляем		for a while, including a party; not the board-game згуляць	https://starnik.by/pravapis/193736
+UI.Cancel.Отмена	Отмена	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
