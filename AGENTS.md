@@ -13,8 +13,7 @@ Authoritative project files:
 - `corpus_data.py` — check the corpus against the game and the Russian at the
   `v1-first-pass` tag; feed it to the build.
 - `TERMBASE.tsv` — canonical terminology. Reuse exact terms.
-- `STYLE.md` — language and presentation rules.
-- `ORTHO.md` — classical Belarusian (`be-tarask`) spelling policy.
+- `STYLE.md` — language, classical Belarusian (`be-tarask`) spelling, and presentation rules.
 - `TRANSLATION.md` — per-line procedure and quest puzzles that break if rewritten.
 - `FONT.md` — menu-image font and license.
 
@@ -34,7 +33,7 @@ Python environment:
 .venv/bin/python
 ```
 
-The venv contains Pillow and the vendored `denballakh/ranger-tools` package from `tools/ranger-tools/`. This library reads and writes the current `HDMain` DAT format and handles PKG/GI files natively on Linux.
+The venv contains Pillow and `ranger-tools` from the pin in `requirements-local.txt` (`denballakh/ranger-tools`). That library reads and writes the current `HDMain` DAT format and handles PKG/GI files natively on Linux. Do not vendor a copy under `tools/`.
 
 BlockParEditor, SRResEditor, and TGE are not required for the current UI flow. They remain optional Windows/Wine tools for later work.
 

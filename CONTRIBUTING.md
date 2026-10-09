@@ -3,7 +3,7 @@
 ## Translation changes
 
 Edit the Belarusian values in `corpus/`. The repository is the source of truth.
-Follow `ORTHO.md`, `STYLE.md`, and `TERMBASE.tsv`. Preserve placeholders,
+Follow `STYLE.md` and `TERMBASE.tsv`. Preserve placeholders,
 formulas, parameter references, and line breaks exactly.
 
 Do not edit the identifiers (the keys) by hand.
