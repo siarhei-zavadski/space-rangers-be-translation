@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Check the Belarusian against the game's Russian.
 
-  --review FILE [-n N] [--mark]
-                       next N unique Russian sources of FILE after review.tsv
-                       cursor (needs the game and .venv). Prints id, row count,
-                       Russian, English, current be, termbase hints, and other
-                       be variants for the same source. --mark advances the cursor.
+  --review FILE [-n N] [--after ID]
+                       next N unique Russian sources of FILE (needs the game
+                       and .venv). Prints id, row count, Russian, English,
+                       current be, termbase hints, and other be variants for
+                       the same source. --after resumes after that id.
   --fix                repair tarask slips in place (needs no game)
   (default)            hard checks, exit 1: a digit swapped for another digit,
                        a `<format=..,N>` cell that overflows, a tarask slip, a
@@ -29,7 +29,6 @@ from validate_corpus import CONTROL, ROOT, SLIPS, corpus_files, load, save
 CELL = re.compile(r"<format=(?:left|center|right),(\d+)>(.*?)</format>", re.S)
 LETTERS = "а-яёіўА-ЯЁІЎ'’"
 BASELINE = ROOT / "qa_baseline.txt"
-REVIEW = ROOT / "review.tsv"
 NAMES = ("/ShipName/", "/PlanetName/", "/Star/", "/RuinName/", "/Constellations/")
 
 
@@ -142,30 +141,11 @@ def resolve_corpus_file(needle: str) -> Path:
     raise SystemExit(f"need exactly one corpus file matching {needle!r}, got {names}")
 
 
-def review_key(path: Path) -> str:
-    return path.relative_to(ROOT / "corpus").as_posix()
-
-
-def load_review() -> dict[str, str]:
-    if not REVIEW.exists():
-        return {}
-    with REVIEW.open(encoding="utf-8", newline="") as stream:
-        return {row["file"]: row["last_id"] for row in csv.DictReader(stream, dialect="excel-tab")}
-
-
-def save_review(cursors: dict[str, str]) -> None:
-    with REVIEW.open("w", encoding="utf-8", newline="\n") as stream:
-        writer = csv.DictWriter(stream, ("file", "last_id"), dialect="excel-tab", lineterminator="\n")
-        writer.writeheader()
-        for key in sorted(cursors):
-            writer.writerow({"file": key, "last_id": cursors[key]})
-
-
-def review(needle: str, n: int, *, mark: bool) -> int:
+def review(needle: str, n: int, *, after: str = "") -> int:
     from corpus_data import corpus, game_rows, quest_english, translations_by_id, unpointer
 
     path = resolve_corpus_file(needle)
-    key = review_key(path)
+    key = path.relative_to(ROOT / "corpus").as_posix()
     rows_by_path = game_rows(translations_by_id(corpus()))
     rows = rows_by_path.get(path)
     if rows is None:
@@ -194,12 +174,14 @@ def review(needle: str, n: int, *, mark: bool) -> int:
             order.append(source)
         by_source[source].append(row)
 
-    cursor = load_review().get(key, "")
-    if cursor:
+    if after:
         try:
-            start = next(i for i, source in enumerate(order) if any(r["identifier"] == cursor for r in by_source[source])) + 1
+            start = next(
+                i for i, source in enumerate(order)
+                if any(r["identifier"] == after for r in by_source[source])
+            ) + 1
         except StopIteration:
-            raise SystemExit(f"{key}: review cursor id not in file: {cursor}") from None
+            raise SystemExit(f"{key}: --after id not in file: {after}") from None
     else:
         start = 0
 
@@ -210,7 +192,7 @@ def review(needle: str, n: int, *, mark: bool) -> int:
         return 0
 
     print(f"PUZZLE: see TRANSLATION.md for {path.name}", file=sys.stderr)
-    last_id = cursor
+    last_id = after
     for source in batch:
         group = by_source[source]
         first = group[0]
@@ -233,16 +215,10 @@ def review(needle: str, n: int, *, mark: bool) -> int:
             ])
         )
 
-    if mark:
-        cursors = load_review()
-        cursors[key] = last_id
-        save_review(cursors)
-        print(f"marked {key} -> {last_id}", file=sys.stderr)
-    else:
-        print(
-            f"next cursor would be {last_id!r} ({start + len(batch)}/{len(order)}); re-run with --mark to save",
-            file=sys.stderr,
-        )
+    print(
+        f"next: --after {last_id!r} ({start + len(batch)}/{len(order)} unique sources)",
+        file=sys.stderr,
+    )
     return 0
 
 
@@ -250,13 +226,13 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--review", metavar="FILE", help="substring of a corpus file name, e.g. Moi.qmm")
     parser.add_argument("-n", type=int, default=50, help="unique sources per --review batch")
-    parser.add_argument("--mark", action="store_true", help="with --review: write the batch end id into review.tsv")
+    parser.add_argument("--after", metavar="ID", default="", help="with --review: start after this identifier")
     parser.add_argument("--fix", action="store_true")
     parser.add_argument("--limit", type=int, default=10, help="examples per report")
     args = parser.parse_args()
 
     if args.review:
-        return review(args.review, args.n, mark=args.mark)
+        return review(args.review, args.n, after=args.after)
 
     if args.fix:
         slips = 0

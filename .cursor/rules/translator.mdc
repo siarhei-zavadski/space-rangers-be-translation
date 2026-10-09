@@ -15,8 +15,8 @@ Follow `TRANSLATION.md`. Reuse `TERMBASE.tsv`, Starnik, and
 Quest puzzles are listed in that file. The engine checks the jump id, not
 the sentence. A letter puzzle, a cipher token, or a `<img>` diagram breaks
 when the wording no longer points at the same jump or the picture stops
-lining up. Freeze those tokens (`puzzles.tsv` + the puzzle sections), or
-redesign the whole puzzle so the same jump is still the unique solution.
+lining up. Freeze those tokens, or redesign the whole puzzle so the same
+jump is still the unique solution.
 
 Before the first batch of a session, read "Known LLM mistakes" in
 `TRANSLATION.md`: ten errors that already happened in this corpus.
@@ -25,10 +25,11 @@ Before the first batch of a session, read "Known LLM mistakes" in
 
 File order and commit rhythm are in "Order of work" in `TRANSLATION.md`.
 
-1. `.venv/bin/python qa_translation.py --review <File> -n 50` — the input.
-   One line per unique source: id, row count, Russian, English, current `be`,
-   termbase hints, other `be` variants. Needs the game. Read the `PUZZLE`
-   line on stderr and the puzzle's section before translating.
+1. `.venv/bin/python qa_translation.py --review <File> -n 50` — the input
+   (add `--after <id>` to resume). One line per unique source: id, row count,
+   Russian, English, current `be`, termbase hints, other `be` variants. Needs
+   the game. Read the `PUZZLE` line on stderr and the puzzle's section before
+   translating.
 2. Every common word the hints do not cover and `TERMBASE.tsv` lacks: open
    Starnik first, then add the `TERMBASE.tsv` row (sense, endings, rejected
    calque, Starnik URL in `source`). Never invent a lemma.
@@ -40,5 +41,4 @@ File order and commit rhythm are in "Order of work" in `TRANSLATION.md`.
    correct forms), so check the form in Starnik and the sense in the Russian
    line before replacing anything. Only a word you checked in Starnik may go in with
    `--accept --file <File>`; read the `spell_allow.txt` diff before you commit.
-6. `.venv/bin/python qa_translation.py --review <File> -n 50 --mark`, then
-   `python3 validate_corpus.py`, then commit and push the batch.
+6. `python3 validate_corpus.py`, then commit and push the batch.

@@ -157,12 +157,12 @@ first, then files:
    from the file; never add rows.
 3. `TERMBASE.tsv` debt (duplicate `ru` keys, weak `source` values).
 4. UI (`corpus/lang_dat/`), then narrative sections, then quests. Puzzle
-   files last. Read a puzzle's section above before editing; frozen tokens
-   are also listed in `puzzles.tsv` (CI checks they stay in the file).
+   files last. Read a puzzle's section above before editing; keep the frozen
+   tokens named there in place.
 
-Rhythm: one batch (~50 unique sources) is one commit. `review.tsv` holds the
-last reviewed id per file; bump it with `--mark` in that commit. Delete
-`review.tsv` when the recheck pass ends. Branch `cursor/<file>-<suffix>`.
+Rhythm: one batch (~50 unique sources) is one commit. Resume with
+`--after <last id>` from the previous batch's stderr. Branch
+`cursor/<file>-<suffix>`.
 
 ## LLM batches
 
@@ -174,7 +174,7 @@ One batch is one file, about 50 unique sources (owner's machine; needs the game)
 python3 qa_translation.py --fix                            # tarask slips
 .venv/bin/python qa_translation.py                         # hard checks, must print 0 failures
 PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
-.venv/bin/python qa_translation.py --review Moi.qmm -n 50 --mark   # advance review.tsv
+# next batch: --review Moi.qmm -n 50 --after '<last id from stderr>'
 ```
 
 - Translate a repeated label once (`Отмена` was `Скасаваць` in 20 rows and
