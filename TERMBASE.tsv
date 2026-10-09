@@ -2,7 +2,7 @@ id	ru	en	be_tarask	rejected_calque	notes	source
 FormMain.New	Новая игра	New Game	Новая гульня		sense: гульня #2 game with rules; F новая	https://starnik.by/pravapis/21178
 FormMain.Load	Загрузить	Load	Загрузіць		UI Load button (pf); Liza load=загружаць; Starnik literal is cargo	https://starnik.by/lizabeta/2562 https://starnik.by/pravapis/179507
 FormMain.Exit	Выход	Exit	Выйсьці		menu verb; Starnik pf выйсці (impf выходзіць); tarask soft ь	https://starnik.by/pravapis/174894 hunspell-be-tarask
-FormMain.Options	Настройки	Settings	Налады	наладкі; настройка	Liza setting=налада not наладка; Starnik налада colloquial=наладка	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
+FormMain.Options	Настройки	Settings	Налады	настройка	Liza UI setting=налада/налады; Starnik colloquial наладка stays for technical tuning (Player/Provoda)	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
 FormMain.Score	Рекорды	Records	Рэкорды		N pl of рэкорд	https://starnik.by/pravapis/65882
 FormMain.About	Об авторах	About	Пра аўтараў	аб аўтарах	пра + G pl аўтараў	https://starnik.by/pravapis/7530
 FormMain.MsgExit	Выйти из программы?	Exit the program?	Выйсьці з праграмы?			spell-be-tarask
@@ -16,11 +16,11 @@ FormMain.SubName	Доминаторы: Перезагрузка	Dominators: Relo
 FormGameMenu.Resume	Продолжить (Esc)	Continue (Esc)	Працягнуць (Esc)		Starnik sense 8 resume after pause; Liza continue	https://starnik.by/pravapis/206200 https://starnik.by/lizabeta/977
 FormGameMenu.Save	Сохранить (F2)	Save (F2)	Захаваць (F2)		UI Save; Liza save-file family	https://starnik.by/lizabeta/3970
 FormGameMenu.Load	Загрузить (F3)	Load (F3)	Загрузіць (F3)		same as FormMain.Load	https://starnik.by/lizabeta/2562 https://starnik.by/pravapis/179507
-FormGameMenu.Settings	Настройки (C)	Settings (C)	Налады (C)	наладкі; настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
+FormGameMenu.Settings	Настройки (C)	Settings (C)	Налады (C)	настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
 FormGameMenu.Help	Справка (H)	Help (H)	Даведка (H)		Liza help=даведка; Starnik даведка	https://starnik.by/lizabeta/2061 https://starnik.by/pravapis/21514
 FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)		noun Exit; contrast verb Выйсьці	https://starnik.by/pravapis/16712 https://starnik.by/lizabeta/1545
 FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?		гульня G гульні → гульню A	https://starnik.by/pravapis/21178
-FormCfgSettings.Caption	Настройки	Settings	Налады	наладкі; настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
+FormCfgSettings.Caption	Настройки	Settings	Налады	настройка	same as FormMain.Options	https://starnik.by/lizabeta/4091 https://starnik.by/pravapis/45737
 FormCfgSettings.Ok	Применить	Apply	Ужыць			Kamputerm
 FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.Yes	Да	Yes	Так			Skarnik
@@ -268,7 +268,7 @@ lemma.memory_module	модуль памяти	memory module	модуль пам�
 lemma.memory_block	блок памяти	memory block	блёк памяці		same item, pirate slang блок; hunspell блёк	—
 lemma.mentoprobe	ментозонд	pigprobe	мэнтазонд		invented pirate gadget; tarask э	—
 lemma.penchecrak	пенчекряк	penchecrakus	пэнчэкрак/пэнчэкрака/пэнчэкракаў/Пэнчэкрак/пэнчэ/пэнчэкракам		pirate slur for goody ranger; invented; clipped пенче is пэнчэ	—
-lemma.snitch	стукач	snitch	даносчык/даносчыцтва	стукач	pirate plot; keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
+lemma.snitch	стукач	snitch	даносчык/даносчыцтва		prefer даносчык in pirate prose; Prison stoolie status stays стукач (lemma.stoolie); keep verb стукаць as slang in PC_part2/144; даносчыцтва is the crime	hunspell-be-tarask
 lemma.domies	Домики	Domers	Домікі		pirate nickname for dominators; keep quotes	—
 lemma.skipper	шкипер	skipper	шкіпэр		already listed; pirate rank in PC_part3	hunspell-be-tarask
 lemma.acrynic	акриновый	acrynic	акрынавы		game tech adj; already MicroModuls	—
@@ -1204,7 +1204,7 @@ lemma.broadcast	трансляция	broadcast	трансьляцыя/транс
 lemma.rocknroll	рокенролл	rock and roll	рокнрол/Рокнрол/рокнролер/рокнролераў/рокнролеры	рок-н-рол	one word, so н is not its own token; Starnik hyphen form is рок-н-рол	https://starnik.by/pravapis/64803
 lemma.hyper_prefix	гипер	hyper	гіпэр/Гіпэр/гіпэры	гіпер	prefix in гіпэр-рок; hunspell suggestions are unrelated	Muzon.qmm
 lemma.galaxy	галактика	galaxy	галяктыка/галяктыкі/Галяктыкі/Галяктычнага/Галяктыку/галяктычныя/Галяктыцы/Галяктычнай	галактыка	hunspell аканьне; Starnik lists галактыка; A Галяктыку; N pl галяктычныя; L Галяктыцы; f G Галяктычнай	https://starnik.by/pravapis/17562
-lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	music band; genitive гурту, plural гуртоў	https://starnik.by/pravapis/21291
+lemma.band	группа	band	гурт/гурту/гуртоў/Гурт	група	Starnik sense 1: crowd / group of people (also music band in modern use); G гурту, N pl гурты, G pl гуртоў; adj/verb agree as masculine	https://starnik.by/pravapis/21291
 lemma.fest	фестиваль	festival	фэст/Фэст/фэстываль/фэстывалю	фест	Starnik фэст	https://starnik.by/pravapis/81268
 lemma.maxiphone	максифон	maxiphone	максіфон		stage mic the crowd can sing into	Muzon.qmm
 lemma.laamer	Лаамер	Laamer	Лаамер		ranger name	Muzon.qmm
@@ -1682,7 +1682,11 @@ lemma.janissary	янычар	janissary	Янычар/Янычара		cockroach ra
 lemma.rysak	рысак	trotter	Рысак/Рысака		cockroach racer; track letter Р	https://starnik.by/pravapis/65377
 lemma.tamerlane	Тамерлан	Tamerlane	Тамерлан/Тамерлана		cockroach racer; track letter Т	—
 lemma.inmate	заключенный	inmate	Вязень/вязьня/вязьняў/вязьні/Вязні/вязьнем/вязьню		prisoner; G вязьня, N pl вязьні; capital Вязні is a hunspell gap	https://starnik.by/pravapis/16964
-lemma.stoolie	стукач	stoolie	стукач/Стукач/стукача/стукачом		prison informer; hunspell gap, Starnik spelling	https://starnik.by/pravapis/72532
+lemma.stoolie	стукач	stoolie	стукач/Стукач/стукача/стукачом		prison informer; hunspell gap, Starnik spelling; not rejected by lemma.snitch	https://starnik.by/pravapis/72532
+lemma.touching	трогательный	touching	зварушлівы/зварушлівую		emotionally moving; Starnik; hunspell gap	https://starnik.by/pravapis/113693
+lemma.vindictive	злопамятный	vindictive	злапамятны/злапамятныя	памятлівы	holds a grudge; not памятлівы (good memory)	https://starnik.by/pravapis/114477
+lemma.bloodhound	ищейка	bloodhound	знайда/знайды/знайд	шукальнік	tracker dog / figurative sleuth; G pl знайд	https://starnik.by/pravapis/29510
+lemma.meekly	покорно	meekly	пакорліва/пакорна		prefer пакорліва (Starnik); пакорна also listed	https://starnik.by/pravapis/228838
 lemma.zek	зэк	convict	зэк/зэка/зэкаў/зэкі		prison slang; hunspell gap, Starnik spelling	https://starnik.by/pravapis/29927
 lemma.seal	пломба	seal	пломба/пломбы/пломбу		wagon seal; hunspell gap, Starnik spelling	https://starnik.by/pravapis/57344
 lemma.pakhan	пахан	Don	Пахан/пахана/пахану/пахан/паханам		cell boss; Starnik has no entry; I паханам is a hunspell gap	—
