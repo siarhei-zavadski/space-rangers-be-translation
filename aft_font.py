@@ -12,17 +12,16 @@ European slots (ĄąĆć…) and unused ů/Ů — same glyph count, same file si
 painted into a larger unused Latin slot. A full Linux face in place of
 the AFT would grow the file (FillAlphaClip) and mix typefaces.
 
-Same-size AFTs are written into GAME/DATA/forms.pkg from forms.pkg.vanilla.
+Same-size AFTs go in the mod's belarusian_fonts.pkg (DATA/FONT/...).
 Do not append glyphs or bump AFT sizes.
 """
 
 from __future__ import annotations
 
-import shutil
 import struct
 from pathlib import Path
 
-from rangers.pkg import PKG, PKG_COMP, PKG_RAW
+from rangers.pkg import PKG, PKG_COMP
 
 RECORD = 64
 HEADER = 32
@@ -270,46 +269,6 @@ def write_patched_fonts(source_pkg: Path, destination: Path) -> int:
         written += 1
 
     walk(pkg)
-    return written
-
-
-def _patch_tree(pkg: PKG) -> int:
-    written = 0
-
-    def walk(node: PKG, prefix: str = "") -> None:
-        nonlocal written
-        if node.type == 3:
-            name = "" if node.name == "<root>" else node.name + "/"
-            for child in node.data:
-                walk(child, prefix + name)
-            return
-        if not node.name.lower().endswith(".aft"):
-            return
-        raw = bytes(node.data)
-        if node.type == PKG_COMP:
-            raw = PKG._decompress(raw)
-        path = prefix + node.name
-        patched = patch_aft(raw, bold=_is_bold_name(path))
-        assert len(patched) == len(raw)
-        codes = set(glyph_codes(patched))
-        assert 0x0456 in codes and 0x045E in codes
-        node.data = patched
-        node.type = PKG_RAW
-        written += 1
-
-    walk(pkg)
-    return written
-
-
-def patch_game_forms(forms_pkg: Path) -> int:
-    """Same-size remap inside the game forms.pkg. Overlay via a mod PKG is ignored."""
-    backup = forms_pkg.with_name(forms_pkg.name + ".vanilla")
-    if not backup.exists():
-        shutil.copy2(forms_pkg, backup)
-    pkg = PKG.from_file(backup)
-    written = _patch_tree(pkg)
-    pkg.compress(9)
-    pkg.to_file(forms_pkg)
     return written
 
 

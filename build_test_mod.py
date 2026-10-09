@@ -10,7 +10,7 @@ from rangers.dat import DAT
 from rangers.graphics.gi import GI
 from rangers.pkg import PKG
 
-from aft_font import glyph_codes, patch_game_forms, write_patched_fonts
+from aft_font import glyph_codes, write_patched_fonts
 from corpus_data import (
     ASSETS,
     asset_translations,
@@ -111,14 +111,12 @@ def main() -> None:
     # Fonts stay in their own package. Vanilla forms.pkg uses DATA/FONT;
     # buttons use Data/ from russian.pkg. One archive cannot hold both
     # DATA and Data — the engine keys folders by the uppercase name.
+    # A mod PKG of DATA/FONT is read (game build 2.1.2500 / Proton 11.0-100).
     forms_pkg = GAME / "DATA/forms.pkg"
     vanilla_forms = forms_pkg.with_name(forms_pkg.name + ".vanilla")
-    # Overlay of DATA/FONT is ignored. Community tools edit forms.pkg.
-    # Same-size CE-slot remap only — do not append glyphs or bump sizes.
-    font_src = vanilla_forms if vanilla_forms.exists() else forms_pkg
-    font_count = write_patched_fonts(font_src, work / "fonts")
-    game_font_count = patch_game_forms(forms_pkg)
-    assert game_font_count == font_count
+    if vanilla_forms.exists():
+        shutil.copy2(vanilla_forms, forms_pkg)
+    font_count = write_patched_fonts(forms_pkg, work / "fonts")
 
     (MOD / "DATA").mkdir(parents=True, exist_ok=True)
     package = PKG.from_folder(work / "pkg")
@@ -144,7 +142,7 @@ def main() -> None:
         parsed = DAT.from_dat(destination).to_dict()
         assert parsed["FormGameMenu"]["Resume"] == "Працягнуць (Esc)"
         assert parsed["FormMain"]["Options"] == "Налады"
-    robot_count = write_translated_robots(MOD / "CFG/robots.dat")
+    robot_count = write_translated_robots(MOD / "CFG")
 
     packages = [
         "    Package=Mods\\Tweaks\\BelTranslate\\data\\belarusian.pkg",
