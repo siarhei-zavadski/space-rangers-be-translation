@@ -1,7 +1,8 @@
 # Repository restructure plan
 
-Status: draft for review; nothing is implemented. Numbers were measured on
-`main` at `28aaae6`, before PR #37.
+Status: phase 3's tests ran on 9 Oct 2026, and phase 0's checks passed on
+PR #37's head (`162d0ba`). Next: merge PR #37 and tag it. Other numbers were
+measured on `main` at `28aaae6`, before PR #37.
 
 ## 1. Goal and owner decisions
 
@@ -142,14 +143,23 @@ hashed through their unpacked inputs, because `PKG.from_folder` packs in
 
 - Merge PR #37.
 - On the owner's machine, at the merge commit, `corpus_data.py check` must pass.
-- Run `corpus_data.py refresh` once; `git diff --ignore-cr-at-eol --stat` must
-  print nothing. (`write_rows` turns the CRLF row ends of `Bomber` and `Ski`
-  into LF.) Then run `git checkout -- corpus`. This proves the tag's Russian
-  and English equal the game's, including the 44,138 quest rows that
-  `check()` never compares.
+- Run `corpus_data.py refresh` once and compare every cell with the committed
+  file, then run `git checkout -- corpus`. Only `labels` may differ: the
+  committed quest rows say `Quest,<Name>`, and `quest_rows()` writes
+  `quest,<Name>`, so `git diff --stat` lists all 80 quest files. Read the old
+  file as bytes; text mode turns the cells' `\r\n` into `\n`. This proves the
+  tag's Russian and English equal the game's, including the 44,138 quest rows
+  that `check()` never compares.
 - Build twice and save both hash lists; they must be identical, or the proof
   in later phases means nothing. Keep one as `build-0.sha256`, tag the commit
   `v1-first-pass`, and push the tag.
+
+Done on 9 Oct 2026 at `162d0ba`, PR #37's head: `check` passed, `refresh`
+changed only `labels`, and the two builds were identical. The hashes are in
+`~/.cache/space-rangers-be-translation/build-0.sha256` on the owner's
+machine. `main` is an ancestor of `162d0ba`, so a merge of the unchanged PR
+has the same tree and these results hold for it. Left: merge PR #37, tag the
+merge commit, push the tag.
 
 ### Phase 1: Belarusian-only tree (three commits)
 
@@ -196,47 +206,44 @@ to `build-0.sha256`.
 
 Proof: the same as in phase 1.
 
-### Phase 3: three in-game tests, then the fonts cleanup
+### Phase 3: three in-game tests, then the fonts and robots fixes
 
-Nobody knows these three engine behaviors yet. Each test is one game start on
-the owner's machine, and each answer changes phase 5. The tests do not depend
-on phases 0–2 and can run now. Start from a clean install with a fresh build;
-the commands are in the appendix. Record the answers in `AGENTS.md` under
-"Important format facts", with the game build and Proton or Windows.
+The tests ran on 9 Oct 2026 with the appendix steps: game build `2.1.2500`
+(Steam build `20648864`), Proton Experimental `11.0-100`, Steam game language
+English. The game then reads only the `Eng` files, so the `Rus` halves were
+not exercised. Record the answers in `AGENTS.md` under "Important format
+facts", and fix the font sections of `AGENTS.md` and `FONT.md`, which say a
+mod font package is ignored.
 
-1. **Is a mod font package read?** `AGENTS.md` contradicts itself. "PKG and
-   manifests" says both manifests must mount `belarusian_fonts.pkg`. "Font",
-   like `FONT.md`, says a mod package of `DATA/FONT` is ignored, so the build
-   also patches the game's own `DATA/forms.pkg`. The build does both, and its
-   self-check inspects only the package.
-   - Steps: build, then copy `DATA/forms.pkg.vanilla` back over
-     `DATA/forms.pkg` and keep the package mounted. Check `Загрузіць (F3)` in
-     the Esc menu, `Гукі ў космасе:` in Settings, and the one quest line that
-     has `’` (quest text is not apostrophe-folded).
-   - Letters render: the package works. Delete the in-place `forms.pkg`
-     patch, which is the worst part of installation.
-   - Letters are missing: the package is ignored. Rebuild, then delete the
-     package, `write_patched_fonts()`, and the unused `bold` parameter, and
-     point the self-check at `forms.pkg`.
-   - Repeat on Windows if one is available; `FONT.md` records Proton only.
-2. **Is the mod's `robots.dat` read?** The game keeps `CFG/Rus/robots.dat` and
-   `CFG/Eng/robots.dat`, but the build writes `CFG/robots.dat`.
-   - Steps: main menu, `Плянэтарныя баі`, open the robot builder. It should
-     say `канструктар робатаў` and `Пабудаваць`.
-   - Russian appears: none of the 931 robot strings reach players, and the
-     output path is a bug to fix.
-3. **Does the engine merge a partial `Lang.dat`?**
-   - Steps: back up both of the mod's `Lang.dat` files. Rewrite them with the
-     appendix script, which keeps only the translated keys, then play a few
-     minutes.
-   - Belarusian text appears and no ship image, map, or other excluded field
-     is missing: CI could build both `Lang.dat` files from the JSON without
-     game text.
-   - Text or images vanish, or the game crashes: the full file stays. Restore
-     the backup.
+1. **A mod font package is read.** `DATA/forms.pkg` was vanilla, and none of
+   its 51 AFT fonts has `і` or `ў`. With `belarusian_fonts.pkg` mounted,
+   `Гукі ў космасе:` in Settings and `Загрузіць (F3)` in the Esc menu
+   rendered correctly.
+   - Delete the in-place `forms.pkg` patch: `patch_game_forms()` and the
+     assertion that ties it to the package. The build stops creating
+     `forms.pkg.vanilla` but still reads fonts from one left by an old build,
+     so they are not patched twice. A Steam verify restores vanilla
+     `forms.pkg` on old installs.
+   - Not yet checked: the one quest line with `’`, and Windows.
+2. **The mod's `robots.dat` is not read.** The robot builder showed the
+   vanilla English text. The game keeps `CFG/Eng/robots.dat` and
+   `CFG/Rus/robots.dat` (the installed SR2LoadingScreen mod uses the same
+   layout), but the build writes `CFG/robots.dat`. None of the 931 robot
+   strings reach players.
+   - Fix: write `CFG/Eng/robots.dat` and `CFG/Rus/robots.dat`, then repeat
+     the test. The vanilla files differ (73,363 and 77,184 bytes), so compare
+     their records before reusing the Russian-based output for English.
+3. **A partial `Lang.dat` merges.** The appendix script dropped 10,482 of
+   24,215 values, among them hull types, micromodules, robot maps, weapon
+   data, and the planetary-battle maps. Menus and dialogs were Belarusian;
+   the planet screen, galaxy map, ship screen, and item pictures were
+   complete; nothing crashed.
+   - CI can build the `Lang.dat` files from the JSON without game text.
+     Repeat the test once with the game in Russian before relying on it for
+     `CFG/Rus`.
 
-Proof for the fonts cleanup: hashes are equal except the removed part and
-the manifests, plus an in-game screenshot.
+Proof for the fixes: hashes are equal except `forms.pkg`, which stays
+vanilla, and the robots files; then the robot builder shows Belarusian.
 
 ### Phase 4: one home per rule
 
@@ -244,7 +251,6 @@ the manifests, plus an in-game screenshot.
   - The puzzle table still calls `Doomino`, `Edelweiss`, and `Elus` "empty".
   - `AGENTS.md` says ranger-tools is vendored in `tools/ranger-tools/`, but it
     is pip-installed from the pin in `requirements-local.txt`.
-  - The font sections need to match phase 3.
 - Rewrite "Known LLM mistakes" #9 for JSON.
 - Merge `ORTHO.md` into `STYLE.md`. The Starnik rule lives only in `STYLE.md`
   and `starnik.mdc`; other files link to it.
@@ -269,30 +275,29 @@ Four things block players:
   into a release or an executable. The project uses five of its modules:
   `rangers.dat`, `rangers.pkg`, `rangers.qm`, `rangers.std.buffer`, and
   `rangers.graphics.gi`.
-- The `forms.pkg` patch survives disabling the mod, and nothing undoes it. Per
-  `AGENTS.md`, a Steam "verify files" removes it. Test 1 in phase 3 may
-  remove this patch entirely.
+- The `forms.pkg` patch survives disabling the mod, and nothing undoes it.
+  Phase 3 deletes it.
 - On Windows, `write_utf16` would write `\r\r\n` line ends (reproduced with
   `newline="\r\n"`).
 
-The outputs are game files with Belarusian swapped in. `Lang.dat` keeps
-10,879 excluded values and `robots.dat` keeps 7,129. The quests keep their
-logic, the buttons keep the game's art, and the fonts are the game's bitmaps.
-`THIRD_PARTY.md` says the game is not redistributed.
+The outputs are game files with Belarusian swapped in. The full `Lang.dat`
+keeps 10,879 excluded values; a partial one (phase 3) drops them.
+`robots.dat` keeps 7,129. The quests keep their logic, the buttons keep the
+game's art, and the fonts are the game's bitmaps. `THIRD_PARTY.md` says the
+game is not redistributed.
 
 - **Option A, a prebuilt download.** The owner attaches the built mod to a
   release; the player unzips it and enables it. Ceiling: it redistributes the
-  game content above, a zip cannot patch `forms.pkg`, and every release needs
-  the owner's machine.
+  game content above, and every release needs the owner's machine.
 - **Option B, a patcher the player runs.** CI zips the scripts, `corpus/`, and
   the Russo One font, with no game files. The player runs one command on their
-  game folder, which builds the mod, patches `forms.pkg` with a backup, and
-  can uninstall. The player then enables the mod on the Mods screen, because
-  writing `ModCFG.txt` would replace their mod choice. Only Belarusian text,
-  MIT code, and an OFL font are distributed. ranger-tools is installed by the
-  player from GitHub, not shipped. Ceiling: players need Python and one
-  `pip install`. If the `forms.pkg` patch stays, the patcher must rerun after
-  a Steam verify.
+  game folder, which builds the mod inside `Mods/Tweaks/BelTranslate/` only;
+  uninstalling is deleting that folder. The player then enables the mod on the
+  Mods screen, because writing `ModCFG.txt` would replace their mod choice.
+  Only Belarusian text, MIT code, and an OFL font are distributed. ranger-tools
+  is installed by the player from GitHub, not shipped. Ceiling: players need
+  Python and one `pip install`. A Steam verify resets `Mods/ModCFG.txt` to
+  `CurrentMod=`, so the player enables the mod again afterwards.
 
 If reusing ranger-tools stops working, there are two fallbacks:
 
@@ -310,12 +315,11 @@ If reusing ranger-tools stops working, there are two fallbacks:
   truly wanted.
 
 Recommendation: B. The first PRs are a game-path argument with the newline
-fix, an uninstall that restores `forms.pkg.vanilla` (if test 1 keeps the
-patch), and a release workflow. The phase 3 answers decide the rest:
+fix, and a release workflow. The phase 3 answers settle the rest:
 
-- If a mod font package works, the patcher writes only inside
+- A mod font package works, so the patcher writes only inside
   `Mods/Tweaks/BelTranslate/`.
-- If a partial `Lang.dat` merges, CI can build both `Lang.dat` files from the
+- A partial `Lang.dat` merges, so CI can build both `Lang.dat` files from the
   JSON with no game text; the DAT writer needs no game file and is
   deterministic (measured).
 
@@ -392,7 +396,18 @@ Files → Verify integrity of game files**. From a shell, the same is
 `steam steam://validate/214730`.
 
 Verification restores `DATA/forms.pkg` and any other edited game file. It
-does not delete files Steam did not install, which is why step 3 exists.
+does not delete files Steam did not install, which is why step 3 exists. It
+also resets `Mods/ModCFG.txt` to `CurrentMod=`, which disables every mod.
+
+Check that it ran before step 3 deletes the backup:
+
+```bash
+cmp "$GAME/DATA/forms.pkg" "$GAME/DATA/forms.pkg.vanilla" && echo vanilla
+```
+
+On 9 Oct 2026 the first verify from the Library logged nothing in
+`~/.local/share/Steam/logs/content_log.txt`, and `forms.pkg` stayed patched;
+`steam steam://validate/214730` then worked.
 
 ### Step 3: delete the old files
 
@@ -418,7 +433,7 @@ git checkout main && git pull
 python3 -m venv .venv && .venv/bin/pip install -r requirements-local.txt
 .venv/bin/python corpus_data.py check
 .venv/bin/python build_test_mod.py
-ls -l "$MOD/DATA" "$MOD/CFG" "$MOD/CFG/Rus" "$GAME/DATA/forms.pkg.vanilla"
+ls -l "$MOD/DATA" "$MOD/CFG" "$MOD/CFG/Rus" "$MOD/CFG/Eng" "$GAME/DATA/forms.pkg.vanilla"
 ```
 
 Every listed file must carry today's time. Then enable the mod on the in-game
@@ -428,6 +443,9 @@ this replaces any other enabled mod. Start the game and check the main-menu
 buttons listed in `AGENTS.md` (`НОВАЯ ГУЛЬНЯ`, `ЗАГРУЗІЦЬ`, …).
 
 ### Step 5: the three tests
+
+The game reads only the files of its language (Steam: Properties → General →
+Language), so each run tests either the `Eng` or the `Rus` files.
 
 **Test 1: is the mod font package read?** With the game closed:
 
