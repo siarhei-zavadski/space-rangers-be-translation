@@ -88,6 +88,11 @@ says a URL and the jump text is the same URL. Both copies stayed identical:
 stayed. The order tables lower in the same file are ordinary fixed-width
 bills; they were translated.
 
+**`Prison.qmm`** / **`PirateClanPrison.qmm`** (filled). Cockroach-race
+status lines are letter tracks: `Я` (`Янычар`), `Р` (`Рысак`), `П`
+(`Пэнчэкрак`), `Т` (`Тамерлан`). Keep those four initials and the grid
+cells; renaming a racer so it starts with another letter breaks the track.
+
 **`Kidnapped.qmm`**, location `210` (filled; the three tokens kept). Not a gate. The coin at the
 end of the quest is a Vigenère easter egg. Leave these three tokens
 unchanged: `VIGENERE`, `kiiltgjtfjph kqxwzr`, `virsle`. With key `virsle`
