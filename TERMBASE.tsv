@@ -397,7 +397,7 @@ lemma.feyterrier	фэйтерьер	fey-terrier	фэйтэр'ер		faeyan cyborg
 lemma.rangers_watch	Рейнджеры на страже	Rangers on Guard	Рэйнджэры на варце		quoted patrol campaign in <clr>	—
 lemma.ioshu_buyaro	театр Иосшу Буяро	Ioshu Buyaro Theater	тэатар Іосшу Буяро		keep in <clr>; gaal mental-projection troupe	—
 lemma.riolka_sympha	Риолки и Симфы	Riolka and Sympha	Ріолкі і Сымфы		Star Wars parody; planet Ріолкі already	—
-lemma.vindabros	Выньдабрось	Throwaway	Выньдабрось		uninhabited planet; PlanetName already	—
+lemma.vindabros	Выньдабрось	Throwaway	Вымідыкінь	Выньдабрось	same joke as lemma.dropdead / Robots.qmm; EN Comegetsome	Robots.qmm
 lemma.titanichik	Титанчик	Little Titanic	Тытанчык		quoted film; magazine “Плэйгуманоід” curly quotes	—
 lemma.cool_guys	Крутые парни	Tough Guys	Крутыя хлопцы		pirate reality show; antipode па пыску	—
 lemma.galaforecast	Галапрогнозцентр	Galaforecast	Галяпрагнозцэнтр		malok weather-war bureau	—
@@ -4796,3 +4796,4 @@ lemma.insure_verb	застраховать	to insure	застрахаваць/з
 lemma.comeon	давай, давай	go-go-go	наперад		race command, Starnik sense of the interjection; not the rude ану	https://starnik.by/pravapis/250512
 lemma.fun_awhile	погулять	to have some fun	пагуляць/пагуляем		for a while, including a party; not the board-game згуляць	https://starnik.by/pravapis/193736
 UI.Cancel.Отмена	Отмена	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
+lemma.atol	атолл	atoll	атол	атоль; атолл	Starnik coral island	https://starnik.by/pravapis/6978
