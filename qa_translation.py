@@ -5,7 +5,6 @@
   (default)            hard checks, exit 1: a digit swapped for another digit,
                        a `<format=..,N>` cell that overflows, a tarask slip, a
                        rejected termbase form in a row not in qa_baseline.txt
-  --baseline           accept every rejected-form row that exists today
 
 Reports (never fail): sources translated more than one way, and rows where
 `be` is the Russian source copied unchanged (names stay Cyrillic on purpose).
@@ -52,8 +51,8 @@ def check(row: dict[str, str]) -> list[str]:
     return errors
 
 
-def termbase() -> list[tuple[re.Pattern, dict[str, str], list[re.Pattern]]]:
-    """(Russian-stem pattern, row, rejected-form patterns) per single-word lemma."""
+def termbase_rejects() -> list[tuple[str, str, list[re.Pattern]]]:
+    """(Russian stem, failure label, rejected-form patterns) per lemma with rejects."""
     result = []
     with (ROOT / "TERMBASE.tsv").open(encoding="utf-8", newline="") as stream:
         for t in csv.DictReader(stream, dialect="excel-tab"):
@@ -67,13 +66,33 @@ def termbase() -> list[tuple[re.Pattern, dict[str, str], list[re.Pattern]]]:
                 if len(x.strip()) >= 4 and " " not in x.strip()
                 and not any(x.strip().lower() in a or a in x.strip().lower() for a in accepted)
             ]
+            if not bad:
+                continue
             stem = ru[:-1] if len(ru) > 5 else ru
             result.append((
-                re.compile(rf"(?<![{LETTERS}]){re.escape(stem)}", re.I),
-                t,
+                stem,
+                f"{t['ru']} -> {t['be_tarask'][:20]} (not {t['rejected_calque']})",
                 [re.compile(rf"(?<![{LETTERS}]){re.escape(b)}[{LETTERS}]{{0,2}}(?![{LETTERS}])", re.I) for b in bad],
             ))
     return result
+
+
+def rejected_forms(rows: list[dict[str, str]]) -> dict[str, str]:
+    """One pass per row: skip stems absent as substrings, then the same regex as before."""
+    entries = termbase_rejects()
+    rejected: dict[str, str] = {}
+    for row in rows:
+        src = row["source_phrase"]
+        src_fold = src.casefold()
+        be = row["be"]
+        for stem, label, bad in entries:
+            if stem not in src_fold:
+                continue
+            if not re.search(rf"(?<![{LETTERS}]){re.escape(stem)}", src, re.I):
+                continue
+            if any(pattern.search(be) for pattern in bad):
+                rejected.setdefault(row["identifier"], label)
+    return rejected
 
 
 def fix(text: str) -> str:
@@ -85,7 +104,6 @@ def fix(text: str) -> str:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--fix", action="store_true")
-    parser.add_argument("--baseline", action="store_true")
     parser.add_argument("--limit", type=int, default=10, help="examples per report")
     args = parser.parse_args()
 
@@ -107,16 +125,7 @@ def main() -> int:
     done = [r for rs in game_rows(translations_by_id(corpus())).values() for r in rs if r["be"]]
     failures = [(r["identifier"], e) for r in done for e in check(r)]
 
-    rejected: dict[str, str] = {}
-    for ru, t, bad in termbase():
-        if bad:
-            for r in done:
-                if ru.search(r["source_phrase"]) and any(b.search(r["be"]) for b in bad):
-                    rejected.setdefault(r["identifier"], f"{t['ru']} -> {t['be_tarask'][:20]} (not {t['rejected_calque']})")
-    if args.baseline:
-        BASELINE.write_text("".join(f"{i}\n" for i in sorted(rejected)), encoding="utf-8")
-        print(f"baseline: {len(rejected)} rows")
-        return 0
+    rejected = rejected_forms(done)
     known = set(BASELINE.read_text(encoding="utf-8").split()) if BASELINE.exists() else set()
     failures += [(i, f"rejected form: {label}") for i, label in rejected.items() if i not in known]
 
