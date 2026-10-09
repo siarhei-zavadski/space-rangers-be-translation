@@ -17,6 +17,12 @@ Decided by the owner:
 3. Russian and English leave the tree, because the build does not need them
    (section 2.2). No private source repository, source pack, or CI secret.
 4. The next step after the restructure is simpler installation (phase 5).
+5. Every check that needs Russian or English, and the recheck itself, runs
+   only on the owner's machine, which has the game installed. Those tools
+   read Russian and English from the game files. Public CI and Cloud Agents
+   see only Belarusian.
+6. When a game update changes a Russian line, the owner updates the
+   Belarusian line. New Russian text entering history then is fine.
 
 ## 2. Target layout
 
@@ -65,44 +71,55 @@ checks and `validate_tags`.
 
 Where the checks run afterwards:
 
-| Check | Russian from | Public CI | Game machine |
+| Check | Needs | Public CI | Owner's machine |
 |---|---|---|---|
-| JSON parses, no duplicate key, no empty `be`, tarask slips, termbase rows locked | not needed | yes | yes |
-| Ids unchanged, tag parity, digits, `<format>` widths, rejected forms, reports | tag (2.3) | yes | yes |
+| JSON parses, no duplicate key, no empty `be`, identifier shape, tarask slips, termbase rows locked, puzzle tokens (phase 6) | Belarusian only | yes | yes |
+| Tag parity, digits, `<format>` widths, rejected forms, reports | Russian from the game | no | yes |
 | Ids match the game's classification (replaces `coverage.json`) | game | no | yes |
-| Tag parity against the game; game Russian equals tag Russian (replaces stale-source check) | game, tag | no | yes |
+| Game Russian still equals the Russian at the tag (replaces the stale-source check) | game, tag (2.3) | no | yes |
+| Spelling (`spell_check.py`, needs hunspell) | Belarusian only | no | yes |
 | QMM and `robots.dat` round trips, build, in-game look | game | no | yes |
 
-Without the tag, public CI keeps only the first row. `spell_check.py` reads
-only `be` and stays local, because it needs hunspell. `--fix` keeps the tarask
-slips but no longer copies translations into empty rows, since none are empty.
+Two checks cannot move to CI by dropping their Russian half. Without the
+Russian cell, the width check would flag 7 cells where the Russian line
+already overflows, instead of 0 today. The rejected-form check would flag
+3,584 rows instead of 398, because it could no longer require the Russian
+term in the source. Both were measured on the current corpus.
 
-### 2.3 The Russian reference is a tag, not a copy
+Russian and English come from the game through the row builders that
+`check()` already uses: `dat_rows`, `quest_rows`, and `robot_rows`. `--fix`
+keeps the tarask slips but no longer copies translations into empty rows,
+since none are empty.
 
-Tag the merge commit of PR #37 as `v1-first-pass`. Tools read Russian and
-English with `git show v1-first-pass:corpus/<dir>/<file>.tsv` and join by id.
-A prototype read the 159 TSVs of the current commit this way in 0.7 s. The ids
-matched the JSON tree, and tag parity, digit, and width checks passed for all
-61,571 rows. This reuses history the owner already keeps, and Cloud Agents get
-it with a normal clone.
+### 2.3 A tag remembers which Russian was translated
 
-The trade-off: tools depend on one history object, frozen at game build
-`2.1.2500` (open questions 1 and 2).
+Without Russian in the tree, nothing would notice a game update that rewords
+a Russian line while keeping its id. The build would ship the old Belarusian.
+Tag the merge commit of PR #37 as `v1-first-pass`. On the owner's machine,
+`corpus_data.py check` reads that Russian with
+`git show v1-first-pass:corpus/<dir>/<file>.tsv`, which took 0.7 s for all 159
+files in a prototype. It then lists every id whose game Russian differs. The
+owner updates those Belarusian lines and moves the tag to the new commit.
+Only this check reads the tag; CI and the recheck do not.
 
 ### 2.4 `coverage.json` is deleted
 
 `coverage.json` (12.3 MB, 79,579 entries of id, kind, status, and reason, with
-no game text) has two jobs. In CI, it proves that the corpus ids equal its
-61,571 `translatable` entries; the tag's ids take over. On the game machine,
-`check()` compares it with the game's string ids. That is redundant, because
-`check()` already recomputes the translatable ids from the game, so a string
-that an update adds or removes still fails. The 18,008 excluded entries are
-documentation only.
+no game text) has two jobs, and neither needs it anymore:
+
+- In CI, it proves that the corpus ids equal its 61,571 `translatable`
+  entries. After the change, a deleted or invented key shows up in the diff,
+  and `check()` on the owner's machine fails on it.
+- On the owner's machine, `check()` compares it with the game's string ids.
+  That is redundant, because `check()` already recomputes the translatable
+  ids from the game, so a string that an update adds or removes still fails.
+
+The 18,008 excluded entries are documentation only.
 
 ## 3. Phases
 
 Each phase is one PR. Phases 1, 2, and 4 must not change the built mod. The
-build proof runs on the game machine after `build_test_mod.py`:
+build proof runs on the owner's machine after `build_test_mod.py`:
 
 ```bash
 GAME="$HOME/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
@@ -121,7 +138,7 @@ hashed through their unpacked inputs, because `PKG.from_folder` packs in
 ### Phase 0: freeze (no PR)
 
 - Merge PR #37.
-- On the game machine, at the merge commit, `corpus_data.py check` must pass.
+- On the owner's machine, at the merge commit, `corpus_data.py check` must pass.
 - Run `corpus_data.py refresh` once; `git diff --ignore-cr-at-eol --stat` must
   print nothing. (`write_rows` turns the CRLF row ends of `Bomber` and `Ski`
   into LF.) Then run `git checkout -- corpus`. This proves the tag's Russian
@@ -133,15 +150,17 @@ hashed through their unpacked inputs, because `PKG.from_folder` packs in
 
 ### Phase 1: Belarusian-only tree (three commits)
 
-1. Add one stdlib loader and saver to `validate_corpus.py`, plus `source()`,
-   which reads `{id: (ru, en)}` from the tag. The other scripts import them.
-   The second `read_rows` and both TSV writers go; the writers disagreed on
-   line endings.
+1. Add one stdlib loader and saver to `validate_corpus.py`. The other scripts
+   import them. The second `read_rows` and both TSV writers go; the writers
+   disagreed on line endings. Russian and English for `qa_translation.py`
+   come from `corpus_data`'s row builders, so the full QA run needs the game
+   and `.venv`.
 2. A one-off converter, not committed, writes `corpus/**/*.json`, deletes the
    TSVs and `coverage.json`, and asserts the `id → be` map equals the tag's.
 3. Checks and deletions:
-   - `validate_corpus.py` runs the first two rows of the table in 2.2, and
-     `corpus_data.py check` runs rows three and four.
+   - `validate_corpus.py` runs the first row of the table in 2.2.
+     `qa_translation.py` and `corpus_data.py check` run the rest on the
+     owner's machine.
    - From `corpus_data.py`, delete `refresh()`, `termbase_translations()`, the
      installed-mod `Lang.dat` harvest, the coverage code, `write_rows`, and
      `clean_generated`. The row builders stay for `check()`, and `ASSETS`
@@ -150,13 +169,15 @@ hashed through their unpacked inputs, because `PKG.from_folder` packs in
      nothing today.
    - Delete `audit_translation_scope.py` and `TRANSLATION-SCOPE.md`, which is
      stale (it says 44,625 translated).
-   - `.gitattributes` treats `*.tsv` as normal text. CI checks out with
-     `fetch-depth: 0`, which fetches tags; the pack is 17 MB, measured
-     locally. In the docs, update only lines that name a changed path or
-     command.
+   - `.gitattributes` treats `*.tsv` as normal text. CI keeps
+     `py_compile`, the binary-file guard, `validate_corpus.py`,
+     `test_qa_translation.py`, and actionlint. It drops the
+     `qa_translation.py` run, which now needs the game. In the docs, update
+     only lines that name a changed path or command.
 
-Proof: the converter assertion, the same `qa_translation.py` counts as on the
-tag, and `build-1.sha256` equal to `build-0.sha256`.
+Proof, on the owner's machine: the converter assertion, the same
+`qa_translation.py` counts as before the change, and `build-1.sha256` equal
+to `build-0.sha256`.
 
 ### Phase 2: speed and dead weight
 
@@ -172,22 +193,46 @@ tag, and `build-1.sha256` equal to `build-0.sha256`.
 
 Proof: the same as in phase 1.
 
-### Phase 3: the fonts package (changes the build on purpose)
+### Phase 3: three in-game tests, then the fonts cleanup
 
-`AGENTS.md` contradicts itself. "PKG and manifests" says both manifests must
-mount `belarusian_fonts.pkg`. "Font", like `FONT.md`, says a mod PKG of
-`DATA/FONT` is ignored, so the build patches the game's `DATA/forms.pkg` in
-place. Both came in commit `d5d3052`, and the build does both. Its self-check
-inspects the package, not the `forms.pkg` the game reads.
+Nobody knows these three engine behaviors yet. Each test is one game start on
+the owner's machine, and each answer changes phase 5. Record the answers in
+`AGENTS.md` under "Important format facts", with the game build and Proton or
+Windows.
 
-Test by building without the package. Check `і` and `ў` on a text screen, plus
-the one quest line with `’` (quest text is not apostrophe-folded). If they
-render, delete the package, `write_patched_fonts()`, and the unused `bold`
-parameter, and point the self-check at `forms.pkg`. Otherwise, document why
-the package stays.
+1. **Is a mod font package read?** `AGENTS.md` contradicts itself. "PKG and
+   manifests" says both manifests must mount `belarusian_fonts.pkg`. "Font",
+   like `FONT.md`, says a mod package of `DATA/FONT` is ignored, so the build
+   also patches the game's own `DATA/forms.pkg`. The build does both, and its
+   self-check inspects only the package.
+   - Steps: build, then copy `DATA/forms.pkg.vanilla` back over
+     `DATA/forms.pkg` and keep the package mounted. Check `Загрузіць (F3)` in
+     the Esc menu, `Гукі ў космасе:` in Settings, and the one quest line that
+     has `’` (quest text is not apostrophe-folded).
+   - Letters render: the package works. Delete the in-place `forms.pkg`
+     patch, which is the worst part of installation.
+   - Letters are missing: the package is ignored. Rebuild, then delete the
+     package, `write_patched_fonts()`, and the unused `bold` parameter, and
+     point the self-check at `forms.pkg`.
+   - Repeat on Windows if one is available; `FONT.md` records Proton only.
+2. **Is the mod's `robots.dat` read?** The game keeps `CFG/Rus/robots.dat` and
+   `CFG/Eng/robots.dat`, but the build writes `CFG/robots.dat`.
+   - Steps: main menu, `Плянэтарныя баі`, open the robot builder. It should
+     say `канструктар робатаў` and `Пабудаваць`.
+   - Russian appears: none of the 931 robot strings reach players, and the
+     output path is a bug to fix.
+3. **Does the engine merge a partial `Lang.dat`?**
+   - Steps: back up the mod's `CFG/Rus/Lang.dat`. Replace it with one built
+     by a throwaway script from the translated keys only, then play a few
+     minutes.
+   - Belarusian text appears and no ship image, map, or other excluded field
+     is missing: CI could build both `Lang.dat` files from the JSON without
+     game text.
+   - Text or images vanish, or the game crashes: the full file stays. Restore
+     the backup.
 
-Proof: hashes are equal except `build/fonts` and the manifests, plus an
-in-game screenshot.
+Proof for the fonts cleanup: hashes are equal except the removed part and
+the manifests, plus an in-game screenshot.
 
 ### Phase 4: one home per rule
 
@@ -202,7 +247,7 @@ in-game screenshot.
 
 ### Phase 5: simpler installation (next step, outline)
 
-Today `build_test_mod.py` runs on the game machine. It writes three packages
+Today `build_test_mod.py` runs on the owner's machine. It writes three packages
 (buttons, fonts, quests) into `<game>/Mods/Tweaks/BelTranslate/`, along with
 full patched `CFG/{Eng,Rus}/Lang.dat`, `CFG/robots.dat`, two manifests, and
 `ModuleInfo.txt`. It also rewrites the game's own `forms.pkg`. The player
@@ -211,10 +256,16 @@ enables the mod on the Mods screen.
 Four things block players:
 
 - The Linux Steam path is hard-coded in three modules.
-- The build needs Python 3.10+, Pillow, and ranger-tools. ranger-tools has no
-  license (none on GitHub or in its README), so the project cannot bundle it.
-- The `forms.pkg` patch survives disabling the mod and nothing undoes it. Per
-  `AGENTS.md`, a Steam "verify files" removes it.
+- The build needs Python 3.10+, Pillow, and ranger-tools.
+- ranger-tools is not this project's code. It belongs to `denballakh`, who
+  made 234 of its 260 commits; `volchonokilli` made the other 26. It has no
+  license file, `setup.py` declares none, and the README names none. Without a
+  license the author keeps all rights. A player can install it from GitHub
+  the way `requirements-local.txt` does now, but the project cannot bundle it
+  into a release or an executable without the author's permission.
+- The `forms.pkg` patch survives disabling the mod, and nothing undoes it. Per
+  `AGENTS.md`, a Steam "verify files" removes it. Test 1 in phase 3 may
+  remove this patch entirely.
 - On Windows, `write_utf16` would write `\r\r\n` line ends (reproduced with
   `newline="\r\n"`).
 
@@ -226,30 +277,36 @@ logic, the buttons keep the game's art, and the fonts are the game's bitmaps.
 - **Option A, a prebuilt download.** The owner attaches the built mod to a
   release; the player unzips it and enables it. Ceiling: it redistributes the
   game content above, a zip cannot patch `forms.pkg`, and every release needs
-  the game machine.
+  the owner's machine.
 - **Option B, a patcher the player runs.** CI zips the scripts, `corpus/`, and
   the Russo One font, with no game files. The player runs one command on their
   game folder, which builds the mod, patches `forms.pkg` with a backup, and
   can uninstall. The player then enables the mod on the Mods screen, because
   writing `ModCFG.txt` would replace their mod choice. Only Belarusian text,
-  MIT code, and an OFL font are distributed. Ceiling: players need Python
-  until a single executable exists, which needs a ranger-tools license. It
-  must also rerun after a Steam verify.
+  MIT code, and an OFL font are distributed. ranger-tools is installed by the
+  player from GitHub, not shipped. Ceiling: players need Python and one
+  `pip install`; a single executable needs a ranger-tools license. If the
+  `forms.pkg` patch stays, the patcher must rerun after a Steam verify.
 
 Recommendation: B. The first PRs are a game-path argument with the newline
-fix, an uninstall that restores `forms.pkg.vanilla`, and a release workflow.
-Before designing more, test one thing in the game: does the engine merge a mod
-`Lang.dat` that holds only the translated keys? If it does, CI can build both
-`Lang.dat` files from the JSON without any game text. The DAT writer needs no
-game file and is deterministic (measured). Quests, `robots.dat`, buttons, and
-fonts always start from game files.
+fix, an uninstall that restores `forms.pkg.vanilla` (if test 1 keeps the
+patch), and a release workflow. The phase 3 answers decide the rest:
+
+- If a mod font package works, the patcher writes only inside
+  `Mods/Tweaks/BelTranslate/`.
+- If a partial `Lang.dat` merges, CI can build both `Lang.dat` files from the
+  JSON with no game text; the DAT writer needs no game file and is
+  deterministic (measured).
+
+Quests, `robots.dat`, and buttons always start from game files.
 
 ### Phase 6: the recheck (later; can run alongside phase 5)
 
 - `qa_translation.py --review FILE -n 50` prints the next 50 unique Russian
   sources after the file's cursor. Each line shows the id, the row count, the
-  Russian and English from the tag, the current `be`, termbase hints, and the
-  other translations. Cloud Agents can run it without the game.
+  Russian and English from the game, the current `be`, termbase hints, and
+  the other translations. It runs on the owner's machine, which can also host
+  a local Cursor agent; Cloud Agents have no game and cannot recheck meaning.
 - `review.tsv` holds one row per file with the last reviewed id. It is bumped
   in each batch commit and deleted when the pass ends. It replaces the first
   pass's cursor, the empty `be` cell.
@@ -275,24 +332,14 @@ Order, machine-found problems first:
 |---|---|
 | Lossy conversion of multi-line or quoted cells | Converter assertion; build hashes |
 | Broken JSON or a duplicated key from an edit | CI parses every file; the loader rejects duplicate keys |
-| Tag missing (fork, shallow clone) or moved | Tools say "fetch the tag"; CI fetches history; the game-machine check catches a moved tag |
-| A game update changes Russian strings | `check()` lists ids whose game Russian differs from the tag |
+| Tag missing on the owner's machine | `check()` stops and says to run `git fetch --tags` |
+| A game update changes Russian strings | `check()` lists ids whose game Russian differs from the tag; the owner updates them and moves the tag |
+| A Belarusian-only CI misses a broken `<tag>`, a digit, or a width | Those checks run on the owner's machine before every build and before merging a recheck PR |
 
 ## 5. Open questions for the owner
 
-1. May tools read Russian and English from the `v1-first-pass` tag? The plan
-   assumes yes. If not, public CI runs only the first row of the table in 2.2.
-   The recheck then runs only on the game machine, from a gitignored view that
-   the row builders write. Cloud Agents could not recheck.
-2. If a game update changes the Russian, should a new tag record it? That adds
-   the new text to history; the alternative is to review those ids only on the
-   game machine.
-3. Three engine behaviors need testing:
-   - Does native Windows also ignore a mod `DATA/FONT` package? `FONT.md`
-     records Proton only.
-   - Does the engine read the mod's `CFG/robots.dat`, given the game keeps
-     `Rus/` and `Eng/` copies?
-   - Does the engine merge a partial mod `Lang.dat`?
-4. Will you ask ranger-tools' author (denballakh) for a license? A bundled
-   patcher depends on it.
-5. Is option A acceptable even as a stopgap? The plan recommends against it.
+1. Will you ask ranger-tools' author (`denballakh`) for a license, for
+   example by opening an issue on his repository? Only a single-file
+   installer depends on it; option B works without one.
+2. Is option A, a prebuilt download, acceptable even as a stopgap? The plan
+   recommends against it.
