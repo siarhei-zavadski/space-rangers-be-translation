@@ -277,7 +277,9 @@ def _art(rows: list[list[bool]]) -> str:
 
 
 def _selfcheck() -> None:
-    game = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+    from corpus_data import DEFAULT_GAME
+
+    game = DEFAULT_GAME
     src = game / "DATA/forms.pkg.vanilla"
     if not src.exists():
         src = game / "DATA/forms.pkg"
