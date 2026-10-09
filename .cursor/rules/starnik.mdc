@@ -1,14 +1,50 @@
 ---
-description: Look up lemmas on Starnik.by before locking translations
+description: Look up lemmas on Starnik.by / Drukarnik before locking translations
 alwaysApply: true
 ---
 
-# Starnik first
+# Starnik first (then Drukarnik / hunspell)
 
-Before locking a common Belarusian lemma, open `https://starnik.by` (search or `/pravapis/`). Read the **sense** that matches this UI, then the endings.
+Never lock a common lemma from memory, from the Russian shape, or by
+blind string replace. Open the page and read it.
 
-Do not keep the Russian shape because it "looks close" (`корсар` is `карсар`). Do not skip Starnik for Skarnik or hunspell.
+## What each tool is for
+
+| Tool | Use for | Do not use for |
+|------|---------|----------------|
+| **Starnik** `https://starnik.by/pravapis` | **Sense** (numbered glosses + examples) and the **case/conjugation table** | Final tarask spelling when it clashes with hunspell |
+| **Liza** `https://starnik.by/lizabeta` (UI/IT EN→BE) | UI verbs like Cancel→Скасаваць; “як не перакладаць” | General prose synonyms |
+| **Drukarnik** `https://drukarnik.app/` | Second pass: word forms, IT glossary (Liza moved here), catch Russian `и` / bad endings in a phrase | Replacing `hunspell -d be_BY@tarask` (project gate stays tarask) |
+| **Skarnik** | Only if RU→BE mapping is still unclear after Starnik | Skipping Starnik |
+| **hunspell** `be_BY@tarask` | Spelling gate in this repo | Meaning / which synonym |
 
 - Meaning: Starnik wins.
-- Spelling clash with `hunspell -d be_BY@tarask`: hunspell wins (`шкіпэр`, `дэпазыт`).
-- TERMBASE `source` column: the Starnik URL when the word is there.
+- Spelling clash with tarask hunspell: hunspell wins (`шкіпэр`, `дэпазыт`).
+- UI/IT English labels: Liza / Drukarnik IT glossary.
+- TERMBASE `source`: Starnik `/pravapis/<id>` URL when the word is there.
+
+## Starnik workflow (every new or changed lemma)
+
+1. Name the **Russian sense in this UI line** (not “first gloss in the dict”).
+2. Open `https://starnik.by/pravapis?q=<lemma>` (search), or a known
+   `/pravapis/<id>` link. Homographs: pick the sense that matches the UI.
+3. Read the **definition and examples**, then the **declension /
+   conjugation table**. Copy the ending you need (N/G/D/A/I/L), not a
+   look-alike from Russian (`клан`: G **клана**, D **клану** — do not
+   keep Russian `-у` genitive).
+4. Belarusian has **і**, not Russian **и**. If a BE cell has `и` outside
+   a proper name or an intentional broken-RU joke, it is wrong.
+5. Do not keep the Russian shape because it “looks close”
+   (`корсар` → `карсар`).
+6. Run `hunspell -d be_BY@tarask` on the form. Spelling clash → hunspell.
+7. Optional: paste the phrase into Drukarnik and check forms / IT terms;
+   still verify sense on Starnik before changing the corpus.
+8. Write/update `TERMBASE.tsv`: sense, endings actually used, rejected
+   calque, Starnik URL.
+
+## Anti-patterns (already burned us)
+
+- Global `клян`→`клан` without re-checking the **case** in each line.
+- Treating a rejected-form hit as “replace the substring” without reading
+  Starnik sense (e.g. fish `плаўнік` ≠ diving `ласты`).
+- Using Drukarnik/Skarnik/hunspell alone and skipping the Starnik sense.

@@ -22,7 +22,7 @@ FormGameMenu.Exit	Выход (E)	Exit (E)	Выхад (E)			Skarnik
 FormGameMenu.QExit	Хотите завершить игру?	Do you want to quit the game?	Хочаце завяршыць гульню?			Skarnik
 FormCfgSettings.Caption	Настройки	Settings	Налады			Kamputerm
 FormCfgSettings.Ok	Применить	Apply	Ужыць			Kamputerm
-FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.Yes	Да	Yes	Так			Skarnik
 FormCfgSettings.No	Нет	No	Не			Skarnik
 FormCfgSettings.GGraph	Графика	Graphics	Графіка			Skarnik
@@ -30,7 +30,7 @@ FormCfgSettings.GMain	Общее	General	Агульнае			Skarnik
 FormCfgSettings.GMod	Моды	Mods	Моды			loan OK
 FormCfgSettings.GSound	Музыка	Music	Музыка			—
 FormCfgSettings.HelpButOk	Принять	Accept	Прыняць			Skarnik
-FormCfgSettings.HelpButCancel	Отменить	Cancel	Скасаваць			Skarnik
+FormCfgSettings.HelpButCancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormCfgSettings.HelpButAuto	Автоматически	Automatically	Аўтаматычна			Skarnik
 FormCfgSettings.HelpAuto	Авто	Auto	Аўта			—
 FormCfgSettings.HelpButMax	Высокое качество	High quality	Высокая якасьць			classical -сьць
@@ -43,7 +43,7 @@ FormCfgSettings.Sound	Звуки:	Sounds:	Гукі:			Skarnik
 FormCfgSettings.ModePlanet	Планетарные бои	Planetary Battles	Плянэтарныя баі			—
 FormCfgSettings.ModeSpace	Космос	Space	Космас			—
 FormSaveManager.AutoSave	Автоматическое сохранение	Autosave	Аўтаматычнае захаваньне			—
-FormSaveManager.Cancel	Отменить	Cancel	Скасаваць			—
+FormSaveManager.Cancel	Отменить	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
 FormSaveManager.CaptionLoad	Загрузить игру	Load Game	Загрузіць гульню			—
 FormSaveManager.CaptionSave	Сохранить игру	Save Game	Захаваць гульню			—
 FormSaveManager.Delete	Удалить	Delete	Выдаліць			Skarnik
@@ -397,7 +397,7 @@ lemma.feyterrier	фэйтерьер	fey-terrier	фэйтэр'ер		faeyan cyborg
 lemma.rangers_watch	Рейнджеры на страже	Rangers on Guard	Рэйнджэры на варце		quoted patrol campaign in <clr>	—
 lemma.ioshu_buyaro	театр Иосшу Буяро	Ioshu Buyaro Theater	тэатар Іосшу Буяро		keep in <clr>; gaal mental-projection troupe	—
 lemma.riolka_sympha	Риолки и Симфы	Riolka and Sympha	Ріолкі і Сымфы		Star Wars parody; planet Ріолкі already	—
-lemma.vindabros	Выньдабрось	Throwaway	Выньдабрось		uninhabited planet; PlanetName already	—
+lemma.vindabros	Выньдабрось	Throwaway	Вымідыкінь	Выньдабрось	same joke as lemma.dropdead / Robots.qmm; EN Comegetsome	Robots.qmm
 lemma.titanichik	Титанчик	Little Titanic	Тытанчык		quoted film; magazine “Плэйгуманоід” curly quotes	—
 lemma.cool_guys	Крутые парни	Tough Guys	Крутыя хлопцы		pirate reality show; antipode па пыску	—
 lemma.galaforecast	Галапрогнозцентр	Galaforecast	Галяпрагнозцэнтр		malok weather-war bureau	—
@@ -1384,7 +1384,7 @@ lemma.anita	Анита	Anita	Аніт/Аніта/Аніту/Анітам		practi
 lemma.verstache	Верстаче	Verstache	Вэрстачэ		jacket brand	Pilot.qmm
 lemma.sentecium	сентеций	sentecium	сэнтэцый/сэнтэцыю		tooth gem; G сэнтэцыю	Pilot.qmm
 lemma.grichacha	Гри-ча-ча	Gri-cha-cha	Грычача		gaal youth dance	Pilot.qmm
-lemma.bigbuba_note	записка Бигбубы	Bigbuba note	Жду/тибя/чериз/полчиса/пьэзотринажора/тирминале/оддыха/Бигбуба/Прихади/вечирам/тирминал/Если/встречу/исчо/пиняй/сибя/нидаделок		garbled note kept byte-identical	Pilot.qmm
+lemma.bigbuba_note	записка Бигбубы	Bigbuba note	Жду/цябя/чараз/паўчыса/п'езатрэнажора/тырмінале/аддыха/Бігбуба/Прыхадзі/вечырам/тырмінал/Есьлі/сустрэну/ішчо/піняй/сябя/нідалёка		garbled note in broken BE (same joke); not left in Russian; no Russian и	Pilot.qmm
 lemma.loo_hen	Лоо-Хэн	Loo-Hen	Лоо/Хэн/Хэна/Хэну		contact at the exam; G Хэна, D Хэну	Pilot.qmm
 lemma.hvostagreb	хвостогреб	tail-heater	хвастагрэб/хвастагрэба/хвастагрэбаў/хвастагрэбы		coined baked creature on the exam menu	Pilot.qmm
 lemma.syrup	сироп	syrup	сыроп	сіроп	Starnik сіроп; hunspell spelling wins	https://starnik.by/pravapis/69346
@@ -1507,7 +1507,7 @@ lemma.jogan	джоган	jogan	джоганы/галатамайскія/джо�
 lemma.aabis	Аабисс	Aabis	Аабіс		Gaaldok statue; the local word means самаадданы	Kidnapped.qmm
 lemma.gambit_break	га-ам'бит	gambit stutter	амбіт		spoken break of гамбіт; the hyphen splits the token	Kidnapped.qmm
 lemma.kortzin	кортзин	kortzin	кортзін/кортзіну/Кортзін		coined mineral left in the ground	Kidnapped.qmm
-lemma.clan	клан	clan	клан/Клан/Клану/Кланам/кланы/кланаў	клян	pirate Clan; Starnik clan, not the maple клян; G pl кланаў	https://starnik.by/pravapis/35824
+lemma.clan	клан	clan	клан/клана/Клан/Клану/Кланам/кланы/кланаў	клян	pirate Clan; Starnik clan, not the maple клян; G pl кланаў; G sg клана (not Russian -у genitive)	https://starnik.by/pravapis/35824
 lemma.dread	Дред Неумолимый	Dread the Relentless	Дрэд/Дрэда/Неўмалімы/Неўмалімага		Versl's teacher; G Дрэда; epithet Неўмалімы	Kidnapped.qmm
 lemma.apchkhan	Апч'хан Ядохвост	Apch'khan	Апч'хан/Ядахвост		hunter; compound like Starnik вастрахвосты, tail is хвост	Kidnapped.qmm
 lemma.flenky	Флэнки Тим	Flenky Tim	Флэнкі		dead pirate named by Lioni; Тым passes hunspell	Kidnapped.qmm
@@ -4795,3 +4795,8 @@ lemma.pranjne	пранне	laundry	праньне/праньня		Starnik пра
 lemma.insure_verb	застраховать	to insure	застрахаваць/застрахуй		perfective sense 1; imperative застрахуй; the slogan takes брата, Starnik брат sense 3	https://starnik.by/pravapis/182208
 lemma.comeon	давай, давай	go-go-go	наперад		race command, Starnik sense of the interjection; not the rude ану	https://starnik.by/pravapis/250512
 lemma.fun_awhile	погулять	to have some fun	пагуляць/пагуляем		for a while, including a party; not the board-game згуляць	https://starnik.by/pravapis/193736
+UI.Cancel.Отмена	Отмена	Cancel	Скасаваць		UI Cancel button only; Liza: cancel→скасаваць not адмяніць	https://starnik.by/pravapis/212996 https://starnik.by/lizabeta/679
+lemma.atol	атолл	atoll	атол	атоль; атолл	Starnik coral island	https://starnik.by/pravapis/6978
+lemma.flipper	ласты	diving fins	ласты/ластаў		sense 2 swim fins; fish limb stays плаўнік	https://starnik.by/pravapis/38708
+lemma.evil_adj	злой	evil	ліхі/ліхая/ліхое/ліхія		sense 1 harmful; злы also OK; gang line uses ліхая	https://starnik.by/pravapis/121667
+lemma.mother	мама	mother	маці/мама		primer Маці мыла раму; colloquial мама stays	https://starnik.by/pravapis/42389

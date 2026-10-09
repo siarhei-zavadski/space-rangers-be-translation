@@ -33,5 +33,19 @@ jobs:
       - name: Check translated rows
         run: python test_qa_translation.py
 
+      # Binary from GitHub Releases — docker://rhysd/actionlint hits Docker Hub rate limits.
       - name: Validate GitHub workflows
-        uses: docker://rhysd/actionlint:1.7.12
+        shell: bash
+        run: |
+          set -euo pipefail
+          ver=1.7.12
+          archive="actionlint_${ver}_linux_amd64.tar.gz"
+          curl -fsSL --proto '=https' --tlsv1.2 \
+            -o "$archive" \
+            "https://github.com/rhysd/actionlint/releases/download/v${ver}/${archive}"
+          curl -fsSL --proto '=https' --tlsv1.2 \
+            -o checksums.txt \
+            "https://github.com/rhysd/actionlint/releases/download/v${ver}/actionlint_${ver}_checksums.txt"
+          grep -F "$archive" checksums.txt | sha256sum -c -
+          tar -xzf "$archive" actionlint
+          ./actionlint -color
