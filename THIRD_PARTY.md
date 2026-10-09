@@ -17,8 +17,6 @@ contributor-authored Belarusian translations.
   that history public.
 - `tools/fonts/RussoOne-Regular.ttf` is licensed under the SIL Open Font
   License 1.1; see `tools/fonts/OFL-RussoOne.txt`.
-- `tools/fonts/Jura-Regular.ttf` is licensed under the SIL Open Font License
-  1.1; see `tools/fonts/OFL-Jura.txt`.
 - The local build uses
   [ranger-tools](https://github.com/denballakh/ranger-tools), installed from
   the pinned revision in `requirements-local.txt`. Review its upstream license

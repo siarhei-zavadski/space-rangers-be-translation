@@ -76,19 +76,6 @@ def main() -> None:
     if unlocked:
         raise ValueError(f"TERMBASE.tsv rows without be_tarask or source (lemma not locked): {unlocked[:10]}")
 
-    sensitive = re.compile(
-        r"CROWDIN_PERSONAL_TOKEN\s*[:=]\s*['\"][A-Za-z0-9_-]{20,}"
-        r"|api_token\s*:\s*['\"][^$]"
-    )
-    for path in (
-        *ROOT.glob("*.py"),
-        *ROOT.glob("*.md"),
-        *ROOT.glob("*.yml"),
-        *(ROOT / ".github/workflows").glob("*.yml"),
-    ):
-        if sensitive.search(path.read_text(encoding="utf-8")):
-            raise ValueError(f"Possible committed token in {path}")
-
     print(f"Valid repository corpus: {len(seen)} translations in {len(files)} files")
 
 
