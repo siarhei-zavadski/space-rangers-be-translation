@@ -133,7 +133,7 @@ Patched AFT fonts go in a second package rooted at vanilla `DATA/FONT`. One arch
 
 Both install manifests must mount them. Fonts PKG uses same-size AFT files (unused Latin slots retargeted to `і`/`ў`/`’`; `ў` gets a painted breve); do not append glyphs.
 
-`robots.dat` lives at `CFG/Eng/robots.dat` and `CFG/Rus/robots.dat` (not `CFG/robots.dat`). The two language files share property keys but not indices; the build applies Belarusian by key to each.
+`robots.dat`: MatrixGame opens the install's `CFG/Eng/robots.dat` and `CFG/Rus/robots.dat` on disk; a mod-folder copy is ignored (unlike `Lang.dat`). The build patches those game files from `*.vanilla` backups and also writes the mod copies (`CFG/robots.dat` plus `CFG/{Eng,Rus}/`). Steam verify restores vanilla.
 
 ```text
 Packages {

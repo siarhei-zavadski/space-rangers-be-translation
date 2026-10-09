@@ -7,6 +7,7 @@ import csv
 import io
 from pathlib import Path
 import re
+import shutil
 import subprocess
 from tempfile import TemporaryDirectory
 
@@ -346,14 +347,28 @@ def write_translated_quests(destination: Path) -> int:
 
 
 def write_translated_robots(cfg_dir: Path) -> int:
-    """Write CFG/{Eng,Rus}/robots.dat. Corpus ids use Russian indices; Eng indices differ."""
+    """Write translated robots.dat into the mod and the game CFG folders.
+
+    MatrixGame opens the game install's CFG/{Eng,Rus}/robots.dat directly; a mod
+    overlay is ignored (unlike Lang.dat). Keep .vanilla backups beside them.
+    Mod copies match German/Spanish (CFG/robots.dat) plus CFG/{Eng,Rus}/.
+    """
     targets = {
         (parts[1], int(parts[2])): target
         for identifier, target in load(ROBOTS_DIR / "robots.json").items()
         if (parts := unpointer(identifier))
     }
-    _, russian = parse_robots((GAME / "CFG/Rus/robots.dat").read_bytes())
-    _, english = parse_robots((GAME / "CFG/Eng/robots.dat").read_bytes())
+    eng_vanilla = GAME / "CFG/Eng/robots.dat.vanilla"
+    rus_vanilla = GAME / "CFG/Rus/robots.dat.vanilla"
+    eng_path = GAME / "CFG/Eng/robots.dat"
+    rus_path = GAME / "CFG/Rus/robots.dat"
+    if not eng_vanilla.exists():
+        shutil.copy2(eng_path, eng_vanilla)
+    if not rus_vanilla.exists():
+        shutil.copy2(rus_path, rus_vanilla)
+
+    _, russian = parse_robots(rus_vanilla.read_bytes())
+    _, english = parse_robots(eng_vanilla.read_bytes())
     key_of = {(record, index): key for record, index, key, _ in robot_properties(russian)}
     ru_order, en_order = defaultdict(list), defaultdict(list)
     for record, index, key, _ in robot_properties(russian):
@@ -367,13 +382,9 @@ def write_translated_robots(cfg_dir: Path) -> int:
         if order < len(en_order[(record, key)]):
             eng_targets[(record, en_order[(record, key)][order])] = target
 
-    def write(language: str, by_index: dict[tuple[str, int], str]) -> None:
-        source = (GAME / f"CFG/{language}/robots.dat").read_bytes()
-        destination = cfg_dir / language / "robots.dat"
-        destination.parent.mkdir(parents=True, exist_ok=True)
+    def encode(source: bytes, by_index: dict[tuple[str, int], str]) -> bytes:
         if not by_index:
-            destination.write_bytes(source)
-            return
+            return source
         _, records = parse_robots(source)
         by_name = {record.name: record for record in records}
         for (record_name, index), target in by_index.items():
@@ -385,13 +396,20 @@ def write_translated_robots(cfg_dir: Path) -> int:
             (record, index): value for record, index, _, value in robot_properties(reparsed)
         }
         assert all(values[pair] == target for pair, target in by_index.items())
-        destination.write_bytes(encoded)
+        return encoded
 
-    write("Rus", targets)
-    write("Eng", eng_targets)
-    leftover = cfg_dir / "robots.dat"
-    if leftover.exists():
-        leftover.unlink()
+    eng_bytes = encode(eng_vanilla.read_bytes(), eng_targets)
+    rus_bytes = encode(rus_vanilla.read_bytes(), targets)
+    # Game files MatrixGame actually opens:
+    eng_path.write_bytes(eng_bytes)
+    rus_path.write_bytes(rus_bytes)
+    # Mod tree (same bytes; CFG/robots.dat = Eng layout, like German/Spanish)
+    for destination in (cfg_dir / "robots.dat", cfg_dir / "Eng/robots.dat"):
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        destination.write_bytes(eng_bytes)
+    rus_mod = cfg_dir / "Rus/robots.dat"
+    rus_mod.parent.mkdir(parents=True, exist_ok=True)
+    rus_mod.write_bytes(rus_bytes)
     return len(targets)
 
 
