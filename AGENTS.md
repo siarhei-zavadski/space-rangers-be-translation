@@ -51,7 +51,11 @@ To restore patched install files (`CFG/*/robots.dat` from `*.vanilla`, optional 
 
 ```bash
 .venv/bin/python build_test_mod.py --uninstall
+# same: .venv/bin/python install.py --uninstall
 ```
+
+Player zip (no game files): `python3 pack_release.py` → `dist/beltranslate-patcher-*.zip`.
+CI workflow `Release patcher` builds that zip on `workflow_dispatch` and attaches it when a GitHub Release is published. Player steps are in `INSTALL.md`.
 
 The build:
 

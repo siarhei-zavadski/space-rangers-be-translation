@@ -25,7 +25,17 @@ from the `hunspell-be-tarask-alt` 0.65 package.
 | Kamputerm | https://github.com/quendimax/kamputerm | IT/UI terms; classical `be=` column |
 | Беларускі клясычны правапіс (2005) | https://knihi.com/storage/pravapis2005.html | Orthography rules |
 
-## Rebuild test mod
+## Install the mod (players)
+
+Download the **beltranslate-patcher** zip from a
+[GitHub Release](https://github.com/siarhei-zavadski/space-rangers-be-translation/releases)
+(or build one with `python3 pack_release.py`). Follow [`INSTALL.md`](INSTALL.md):
+venv, `pip install -r requirements-local.txt`, then `install.py --game …`.
+
+The zip ships Belarusian text, MIT scripts, and the OFL font only — not the
+game. ranger-tools is installed from GitHub by the player.
+
+## Rebuild test mod (developers)
 
 ```bash
 python3 -m venv .venv
@@ -34,7 +44,7 @@ python3 -m venv .venv
 .venv/bin/python build_test_mod.py
 ```
 
-The script writes `BelTranslate` directly into the installed game, builds Belarusian `.gi` menu assets and patched Eng/Rus `Lang.dat` files, then validates DAT/PKG/GI structure.
+The script writes `BelTranslate` directly into the installed game, builds Belarusian `.gi` menu assets and patched Eng/Rus `Lang.dat` files, then validates DAT/PKG/GI structure. Player-facing installs use `install.py` (same build, skips the git tag Russian check).
 
 ## Checks
 
