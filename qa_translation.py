@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """Check the Belarusian against the game's Russian.
 
+  --review FILE [-n N] [--mark]
+                       next N unique Russian sources of FILE after review.tsv
+                       cursor (needs the game and .venv). Prints id, row count,
+                       Russian, English, current be, termbase hints, and other
+                       be variants for the same source. --mark advances the cursor.
   --fix                repair tarask slips in place (needs no game)
   (default)            hard checks, exit 1: a digit swapped for another digit,
                        a `<format=..,N>` cell that overflows, a tarask slip, a
@@ -8,19 +13,23 @@
 
 Reports (never fail): sources translated more than one way, and rows where
 `be` is the Russian source copied unchanged (names stay Cyrillic on purpose).
-The default run reads the Russian from the game, so it needs the game and `.venv`.
+The default run and --review read the Russian from the game, so they need the
+game and `.venv`.
 """
 
 import argparse
 import csv
 from collections import Counter, defaultdict
+from pathlib import Path
 import re
+import sys
 
 from validate_corpus import CONTROL, ROOT, SLIPS, corpus_files, load, save
 
 CELL = re.compile(r"<format=(?:left|center|right),(\d+)>(.*?)</format>", re.S)
 LETTERS = "а-яёіўА-ЯЁІЎ'’"
 BASELINE = ROOT / "qa_baseline.txt"
+REVIEW = ROOT / "review.tsv"
 NAMES = ("/ShipName/", "/PlanetName/", "/Star/", "/RuinName/", "/Constellations/")
 
 
@@ -77,6 +86,22 @@ def termbase_rejects() -> list[tuple[str, str, list[re.Pattern]]]:
     return result
 
 
+def termbase_hint_rows() -> list[tuple[re.Pattern, str]]:
+    """(Russian-stem regex, hint text) for --review."""
+    result = []
+    with (ROOT / "TERMBASE.tsv").open(encoding="utf-8", newline="") as stream:
+        for t in csv.DictReader(stream, dialect="excel-tab"):
+            ru = t["ru"].strip().lower()
+            if len(ru) < 4 or " " in ru:
+                continue
+            stem = ru[:-1] if len(ru) > 5 else ru
+            label = f"{t['ru']}={t['be_tarask']}"
+            if t["rejected_calque"].strip():
+                label += f" (not {t['rejected_calque']})"
+            result.append((re.compile(rf"(?<![{LETTERS}]){re.escape(stem)}", re.I), label))
+    return result
+
+
 def rejected_forms(rows: list[dict[str, str]]) -> dict[str, str]:
     """One pass per row: skip stems absent as substrings, then the same regex as before."""
     entries = termbase_rejects()
@@ -101,11 +126,137 @@ def fix(text: str) -> str:
     return text
 
 
+def resolve_corpus_file(needle: str) -> Path:
+    needle_l = needle.lower().removesuffix(".json")
+    matches = [path for path in corpus_files() if needle_l in path.name.lower()]
+    exact = [
+        path for path in matches
+        if path.name.lower() in {needle_l, f"{needle_l}.json"}
+        or path.stem.lower() == needle_l
+    ]
+    if len(exact) == 1:
+        return exact[0]
+    if len(matches) == 1:
+        return matches[0]
+    names = [path.relative_to(ROOT / "corpus").as_posix() for path in matches]
+    raise SystemExit(f"need exactly one corpus file matching {needle!r}, got {names}")
+
+
+def review_key(path: Path) -> str:
+    return path.relative_to(ROOT / "corpus").as_posix()
+
+
+def load_review() -> dict[str, str]:
+    if not REVIEW.exists():
+        return {}
+    with REVIEW.open(encoding="utf-8", newline="") as stream:
+        return {row["file"]: row["last_id"] for row in csv.DictReader(stream, dialect="excel-tab")}
+
+
+def save_review(cursors: dict[str, str]) -> None:
+    with REVIEW.open("w", encoding="utf-8", newline="\n") as stream:
+        writer = csv.DictWriter(stream, ("file", "last_id"), dialect="excel-tab", lineterminator="\n")
+        writer.writeheader()
+        for key in sorted(cursors):
+            writer.writerow({"file": key, "last_id": cursors[key]})
+
+
+def review(needle: str, n: int, *, mark: bool) -> int:
+    from corpus_data import corpus, game_rows, quest_english, translations_by_id, unpointer
+
+    path = resolve_corpus_file(needle)
+    key = review_key(path)
+    rows_by_path = game_rows(translations_by_id(corpus()))
+    rows = rows_by_path.get(path)
+    if rows is None:
+        raise SystemExit(f"{key}: no game rows (ids do not match the game?)")
+
+    if path.parent.name == "quests":
+        english = quest_english(path.name.removesuffix(".json"))
+        for row in rows:
+            parts = unpointer(row["identifier"])
+            # /quests/Name.qmm/...
+            field = tuple(parts[2:])
+            row["english"] = english.get(field) or row.get("english") or ""
+
+    all_be = defaultdict(Counter)
+    for rs in rows_by_path.values():
+        for row in rs:
+            if row["be"]:
+                all_be[row["source_phrase"]][row["be"]] += 1
+
+    by_source: dict[str, list[dict[str, str]]] = {}
+    order: list[str] = []
+    for row in rows:
+        source = row["source_phrase"]
+        if source not in by_source:
+            by_source[source] = []
+            order.append(source)
+        by_source[source].append(row)
+
+    cursor = load_review().get(key, "")
+    if cursor:
+        try:
+            start = next(i for i, source in enumerate(order) if any(r["identifier"] == cursor for r in by_source[source])) + 1
+        except StopIteration:
+            raise SystemExit(f"{key}: review cursor id not in file: {cursor}") from None
+    else:
+        start = 0
+
+    hints = termbase_hint_rows()
+    batch = order[start : start + n]
+    if not batch:
+        print(f"{key}: review complete ({len(order)} unique sources)", file=sys.stderr)
+        return 0
+
+    print(f"PUZZLE: see TRANSLATION.md for {path.name}", file=sys.stderr)
+    last_id = cursor
+    for source in batch:
+        group = by_source[source]
+        first = group[0]
+        last_id = first["identifier"]
+        hint = "; ".join(label for pattern, label in hints if pattern.search(source))
+        others = [
+            f"{be!r}×{count}"
+            for be, count in all_be[source].most_common()
+            if be != first["be"]
+        ]
+        print(
+            "\t".join([
+                first["identifier"],
+                str(len(group)),
+                source.replace("\t", " ").replace("\n", "\\n").replace("\r", "\\r"),
+                (first.get("english") or "").replace("\t", " ").replace("\n", "\\n").replace("\r", "\\r"),
+                first["be"].replace("\t", " ").replace("\n", "\\n").replace("\r", "\\r"),
+                hint,
+                "; ".join(others),
+            ])
+        )
+
+    if mark:
+        cursors = load_review()
+        cursors[key] = last_id
+        save_review(cursors)
+        print(f"marked {key} -> {last_id}", file=sys.stderr)
+    else:
+        print(
+            f"next cursor would be {last_id!r} ({start + len(batch)}/{len(order)}); re-run with --mark to save",
+            file=sys.stderr,
+        )
+    return 0
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument("--review", metavar="FILE", help="substring of a corpus file name, e.g. Moi.qmm")
+    parser.add_argument("-n", type=int, default=50, help="unique sources per --review batch")
+    parser.add_argument("--mark", action="store_true", help="with --review: write the batch end id into review.tsv")
     parser.add_argument("--fix", action="store_true")
     parser.add_argument("--limit", type=int, default=10, help="examples per report")
     args = parser.parse_args()
+
+    if args.review:
+        return review(args.review, args.n, mark=args.mark)
 
     if args.fix:
         slips = 0

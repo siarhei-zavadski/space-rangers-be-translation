@@ -3,7 +3,7 @@
 from pathlib import Path
 from tempfile import TemporaryDirectory
 
-from qa_translation import SLIPS, check
+from qa_translation import SLIPS, check, resolve_corpus_file, review_key
 from validate_corpus import load
 
 row = lambda src, be: {"source_phrase": src, "be": be}  # noqa: E731
@@ -26,4 +26,6 @@ with TemporaryDirectory() as temporary:
         pass
     else:
         raise AssertionError("a duplicated key was silently dropped")
+
+assert review_key(resolve_corpus_file("FormMain.json")) == "lang_dat/FormMain.json"
 print("ok")

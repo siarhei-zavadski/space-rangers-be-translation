@@ -148,34 +148,33 @@ such as Mafia’s `Пассворд` / `Parol`) are ordinary prose.
 
 ## Order of work
 
-The first pass took the files in this order, one file at a time:
+The first pass is done. The recheck (phase 6) goes machine-found problems
+first, then files:
 
-1. Ordinary quests: `Prison`, `PirateClanPrison`, `Moi`, `Mafia` (filled), `Drugs` (filled).
-2. Width-sensitive quests (`<format=..,N>` cells; `qa_translation.py` fails
-   on overflow): `Amnesia` (filled), `Colonization` (filled), `Rvk` (filled), `Proprolog` (filled), `Kiberrazum` (filled).
-3. Puzzle files, smallest first: `Elus` (filled), `Edelweiss` (filled), `Doomino` (filled), `Bomber` (filled),
-   `Xenolog` (filled), `Evidence` (filled), `GLAVRED` (filled), `Maze` (filled), `Easywork` (filled), `Sibolusovt` (filled),
-   `Losthero` (filled), `Testing` (filled), `Piratesnest`, `Domoclan`. Read a
-   puzzle's whole section above first, and edit every copy of a name (diary,
-   statue, jump) in the same batch.
+1. Sources translated more than one way, and rows equal to the Russian
+   (minus proper-name paths). `qa_translation.py` reports both.
+2. `qa_baseline.txt` rejected-form rows: fix the Belarusian and delete the id
+   from the file; never add rows.
+3. `TERMBASE.tsv` debt (duplicate `ru` keys, weak `source` values).
+4. UI (`corpus/lang_dat/`), then narrative sections, then quests. Puzzle
+   files last. Read a puzzle's section above before editing; frozen tokens
+   are also listed in `puzzles.tsv` (CI checks they stay in the file).
 
-Rhythm: one batch (default 50 unique sources, at most 150) is one commit,
-pushed straight away. Open a draft PR after the first commit of a file and
-keep adding to it until the file is done. Branch `cursor/<file>-<suffix>`.
-
-Before a puzzle file is called done: tags still match
-(`validate_corpus.py`), and every `<fix>` line is the same width as the
-Russian line.
+Rhythm: one batch (~50 unique sources) is one commit. `review.tsv` holds the
+last reviewed id per file; bump it with `--mark` in that commit. Delete
+`review.tsv` when the recheck pass ends. Branch `cursor/<file>-<suffix>`.
 
 ## LLM batches
 
-One batch is one file, about 50 unique sources:
+One batch is one file, about 50 unique sources (owner's machine; needs the game):
 
 ```bash
+.venv/bin/python qa_translation.py --review Moi.qmm -n 50   # input
 # model edits the values in corpus/quests/Moi.qmm.json
-python3 qa_translation.py --fix                   # tarask slips
-.venv/bin/python qa_translation.py                # hard checks against the game, must print 0 failures
+python3 qa_translation.py --fix                            # tarask slips
+.venv/bin/python qa_translation.py                         # hard checks, must print 0 failures
 PYTHONPATH=. .venv/bin/python spell_check.py --file Moi --gate
+.venv/bin/python qa_translation.py --review Moi.qmm -n 50 --mark   # advance review.tsv
 ```
 
 - Translate a repeated label once (`Отмена` was `Скасаваць` in 20 rows and

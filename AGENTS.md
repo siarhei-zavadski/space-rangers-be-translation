@@ -15,6 +15,8 @@ Authoritative project files:
 - `TERMBASE.tsv` — canonical terminology. Reuse exact terms.
 - `STYLE.md` — language, classical Belarusian (`be-tarask`) spelling, and presentation rules.
 - `TRANSLATION.md` — per-line procedure and quest puzzles that break if rewritten.
+- `puzzles.tsv` — frozen puzzle tokens; `validate_corpus.py` checks they stay present.
+- `review.tsv` — recheck cursor (`file` → last reviewed id); bump with `qa_translation.py --review … --mark`.
 - `FONT.md` — menu-image font and license.
 
 Do not infer the current workflow from old forum guides. Use the build script and this file.

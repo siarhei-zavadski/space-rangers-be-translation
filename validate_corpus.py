@@ -76,6 +76,18 @@ def main() -> None:
     if unlocked:
         raise ValueError(f"TERMBASE.tsv rows without be_tarask or source (lemma not locked): {unlocked[:10]}")
 
+    puzzles = ROOT / "puzzles.tsv"
+    if puzzles.exists():
+        by_file = {path.name: path for path in files}
+        with puzzles.open(encoding="utf-8", newline="") as stream:
+            for row in csv.DictReader(stream, dialect="excel-tab"):
+                name, token = row["file"].strip(), row["token"]
+                path = by_file.get(name)
+                if path is None:
+                    raise ValueError(f"puzzles.tsv: unknown file {name!r}")
+                if token not in "\n".join(load(path).values()):
+                    raise ValueError(f"puzzles.tsv: {name} is missing frozen token {token!r}")
+
     print(f"Valid repository corpus: {len(seen)} translations in {len(files)} files")
 
 

@@ -173,6 +173,7 @@ def dat_rows(
         by_section.setdefault(path[0], []).append({
             "identifier": identifier,
             "source_phrase": source,
+            "english": english_values.get(path) or "",
             "be": translations.get(identifier, ""),
         })
     return by_section
@@ -235,10 +236,27 @@ def quest_rows(translations: dict[str, str]) -> dict[str, list[dict[str, str]]]:
                 rows.append({
                     "identifier": identifier,
                     "source_phrase": source,
+                    "english": "",
                     "be": translations.get(identifier, ""),
                 })
             by_quest[name] = rows
     return by_quest
+
+
+def quest_english(name: str) -> dict[tuple[str, ...], str]:
+    """English quest strings for one .qmm (review only; check() does not need them)."""
+    # Eng package names files Name_eng.qmm; Rus keeps Name.qmm.
+    eng_name = name if name.endswith("_eng.qmm") else name.replace(".qmm", "_eng.qmm")
+    with TemporaryDirectory() as temporary:
+        paths = unpack_quests(GAME / "DATA/questsEng.pkg", Path(temporary))
+        path = paths.get(eng_name) or paths.get(name)
+        if path is None:
+            return {}
+        return {
+            tuple(str(part) for part in field_path): value
+            for field_path, value in iter_quest_text(parse_quest(path.read_bytes()))
+            if value
+        }
 
 
 def robot_properties(records):
@@ -290,6 +308,7 @@ def robot_rows(translations: dict[str, str]) -> list[dict[str, str]]:
         rows.append({
             "identifier": identifier,
             "source_phrase": source,
+            "english": reference or "",
             "be": translations.get(identifier, ""),
         })
     return rows
