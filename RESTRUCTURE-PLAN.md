@@ -23,6 +23,9 @@ Decided by the owner:
    see only Belarusian.
 6. When a game update changes a Russian line, the owner updates the
    Belarusian line. New Russian text entering history then is fine.
+7. No license request to ranger-tools' author. Keep using it as a dependency
+   installed from GitHub; never copy it into this repository or a release.
+   If that stops being possible, replace it (phase 5).
 
 ## 2. Target layout
 
@@ -196,9 +199,10 @@ Proof: the same as in phase 1.
 ### Phase 3: three in-game tests, then the fonts cleanup
 
 Nobody knows these three engine behaviors yet. Each test is one game start on
-the owner's machine, and each answer changes phase 5. Record the answers in
-`AGENTS.md` under "Important format facts", with the game build and Proton or
-Windows.
+the owner's machine, and each answer changes phase 5. The tests do not depend
+on phases 0–2 and can run now. Start from a clean install with a fresh build;
+the commands are in the appendix. Record the answers in `AGENTS.md` under
+"Important format facts", with the game build and Proton or Windows.
 
 1. **Is a mod font package read?** `AGENTS.md` contradicts itself. "PKG and
    manifests" says both manifests must mount `belarusian_fonts.pkg`. "Font",
@@ -222,8 +226,8 @@ Windows.
    - Russian appears: none of the 931 robot strings reach players, and the
      output path is a bug to fix.
 3. **Does the engine merge a partial `Lang.dat`?**
-   - Steps: back up the mod's `CFG/Rus/Lang.dat`. Replace it with one built
-     by a throwaway script from the translated keys only, then play a few
+   - Steps: back up both of the mod's `Lang.dat` files. Rewrite them with the
+     appendix script, which keeps only the translated keys, then play a few
      minutes.
    - Belarusian text appears and no ship image, map, or other excluded field
      is missing: CI could build both `Lang.dat` files from the JSON without
@@ -262,7 +266,9 @@ Four things block players:
   license file, `setup.py` declares none, and the README names none. Without a
   license the author keeps all rights. A player can install it from GitHub
   the way `requirements-local.txt` does now, but the project cannot bundle it
-  into a release or an executable without the author's permission.
+  into a release or an executable. The project uses five of its modules:
+  `rangers.dat`, `rangers.pkg`, `rangers.qm`, `rangers.std.buffer`, and
+  `rangers.graphics.gi`.
 - The `forms.pkg` patch survives disabling the mod, and nothing undoes it. Per
   `AGENTS.md`, a Steam "verify files" removes it. Test 1 in phase 3 may
   remove this patch entirely.
@@ -285,8 +291,23 @@ logic, the buttons keep the game's art, and the fonts are the game's bitmaps.
   writing `ModCFG.txt` would replace their mod choice. Only Belarusian text,
   MIT code, and an OFL font are distributed. ranger-tools is installed by the
   player from GitHub, not shipped. Ceiling: players need Python and one
-  `pip install`; a single executable needs a ranger-tools license. If the
-  `forms.pkg` patch stays, the patcher must rerun after a Steam verify.
+  `pip install`. If the `forms.pkg` patch stays, the patcher must rerun after
+  a Steam verify.
+
+If reusing ranger-tools stops working, there are two fallbacks:
+
+- **The repository disappears:** fork it on GitHub, which GitHub's terms allow
+  for any public repository, and pin the same commit in the fork.
+- **A single executable is wanted:** write the project's own readers and
+  writers for the formats it touches:
+  - signed `HDMain` DAT;
+  - PKG;
+  - QMM;
+  - GI, for the 21 button images.
+
+  `robots_storage.py` already does this for `robots.dat`. This is the only
+  large piece of new code in the plan, so do it only if a single executable is
+  truly wanted.
 
 Recommendation: B. The first PRs are a game-path argument with the newline
 fix, an uninstall that restores `forms.pkg.vanilla` (if test 1 keeps the
@@ -338,8 +359,136 @@ Order, machine-found problems first:
 
 ## 5. Open questions for the owner
 
-1. Will you ask ranger-tools' author (`denballakh`) for a license, for
-   example by opening an issue on his repository? Only a single-file
-   installer depends on it; option B works without one.
-2. Is option A, a prebuilt download, acceptable even as a stopgap? The plan
+1. Is option A, a prebuilt download, acceptable even as a stopgap? The plan
    recommends against it.
+
+## Appendix: clean test run on the owner's machine
+
+Run these on the Linux PC with Steam, from the repository folder, with the
+game closed. They remove every earlier build, restore vanilla game files, and
+make a fresh build before the phase 3 tests.
+
+```bash
+GAME="$HOME/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+MOD="$GAME/Mods/Tweaks/BelTranslate"
+```
+
+### Step 1: see what is left from earlier work
+
+```bash
+ls "$GAME/Mods/Tweaks"
+ls -l "$GAME/DATA" | grep -v '\.pkg$'
+git status --ignored --short
+```
+
+The first command lists installed mods. The second shows anything that is not
+a game package, such as `forms.pkg.vanilla` or an old backup. The third lists
+local files that git ignores: `build/`, `.venv/`, and old tool downloads.
+
+### Step 2: restore vanilla game files
+
+In Steam, right-click the game in the Library, then **Properties → Installed
+Files → Verify integrity of game files**. From a shell, the same is
+`steam steam://validate/214730`.
+
+Verification restores `DATA/forms.pkg` and any other edited game file. It
+does not delete files Steam did not install, which is why step 3 exists.
+
+### Step 3: delete the old files
+
+```bash
+rm -rf "$MOD"
+rm -f "$GAME/DATA/forms.pkg.vanilla"
+rm -rf build .venv
+```
+
+- `$MOD` is the old mod.
+- The font backup may predate the verified file, so the next build makes a
+  fresh one.
+- `build/` holds the old previews, and `.venv/` is the old Python environment.
+
+Delete anything else from step 1 by hand, keeping your save games. Old tool
+folders (`tools/BlockParEditor/`, `tools/SRResEditor/`, `tools/TGE/`,
+`tools/ranger-tools/`) are no longer used.
+
+### Step 4: fresh build
+
+```bash
+git checkout main && git pull
+python3 -m venv .venv && .venv/bin/pip install -r requirements-local.txt
+.venv/bin/python corpus_data.py check
+.venv/bin/python build_test_mod.py
+ls -l "$MOD/DATA" "$MOD/CFG" "$MOD/CFG/Rus" "$GAME/DATA/forms.pkg.vanilla"
+```
+
+Every listed file must carry today's time. Then enable the mod on the in-game
+Mods screen. Alternatively, with the game closed, run
+`printf 'CurrentMod=Tweaks\\BelTranslate\r\n' > "$GAME/Mods/ModCFG.txt"`;
+this replaces any other enabled mod. Start the game and check the main-menu
+buttons listed in `AGENTS.md` (`НОВАЯ ГУЛЬНЯ`, `ЗАГРУЗІЦЬ`, …).
+
+### Step 5: the three tests
+
+**Test 1: is the mod font package read?** With the game closed:
+
+```bash
+cp "$GAME/DATA/forms.pkg.vanilla" "$GAME/DATA/forms.pkg"
+```
+
+Start the game and check `Загрузіць (F3)` in the Esc menu and `Гукі ў космасе:`
+in Settings. Vanilla fonts have no `і` or `ў`, so if those letters show, they
+came from `belarusian_fonts.pkg`. Afterwards, run `build_test_mod.py` again to
+put the patched `forms.pkg` back.
+
+**Test 2: is the mod's `robots.dat` read?** With the normal build, start any
+planetary battle: `Плянэтарныя баі` from the main menu, or one in a campaign.
+Then open the robot builder. Belarusian (`канструктар робатаў`, `Пабудаваць`) means the file is
+read; Russian means it is not.
+
+**Test 3: does the engine merge a partial `Lang.dat`?** With the game closed:
+
+```bash
+cp "$MOD/CFG/Rus/Lang.dat" /tmp/Lang.Rus.dat
+cp "$MOD/CFG/Eng/Lang.dat" /tmp/Lang.Eng.dat
+PYTHONPATH=. .venv/bin/python - "$MOD/CFG/Rus/Lang.dat" "$MOD/CFG/Eng/Lang.dat" <<'EOF'
+import sys
+from pathlib import Path
+from rangers.dat import DAT
+from corpus_data import translations
+
+def partial(full, paths):
+    part = {}
+    for path in paths:
+        src, dst = full, part
+        for key in path[:-1]:
+            value = src.get(key)
+            if isinstance(value, list):
+                dst[key] = value
+                break
+            if not isinstance(value, dict):
+                break
+            src, dst = value, dst.setdefault(key, {})
+        else:
+            if path[-1] in src:
+                dst[path[-1]] = src[path[-1]]
+    return part
+
+for name in sys.argv[1:]:
+    file = Path(name)
+    DAT.from_dict(partial(DAT.from_dat(file).to_dict(), translations())).to_dat(file, fmt="HDMain", sign=True)
+    print(file, file.stat().st_size, "bytes")
+EOF
+```
+
+The script keeps only the translated keys (16,485 in the Russian file).
+Repeated keys are lists in the DAT, so a list is copied whole. Start the game, then open a dialog, a
+planet screen, the galaxy map, and the ship screen. The merge works if the
+text is Belarusian and no picture, map, or other text is missing. Afterwards,
+restore the full files:
+
+```bash
+cp /tmp/Lang.Rus.dat "$MOD/CFG/Rus/Lang.dat"
+cp /tmp/Lang.Eng.dat "$MOD/CFG/Eng/Lang.dat"
+```
+
+The script was tested on a synthetic signed DAT here, without the game.
