@@ -23,7 +23,8 @@ from robots_storage import replace_array
 from validate_corpus import CONTROL, CORPUS, ROOT as PROJECT, corpus_files, load
 
 
-GAME = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+DEFAULT_GAME = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+GAME = DEFAULT_GAME
 SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
 ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
 LANG_DIR = CORPUS / "lang_dat"
@@ -31,6 +32,15 @@ QUEST_DIR = CORPUS / "quests"
 ASSET_DIR = CORPUS / "assets"
 ROBOTS_DIR = CORPUS / "robots"
 TAG = "v1-first-pass"
+
+
+def configure_game(path: Path | str | None = None) -> Path:
+    """Point GAME (and the Lang.dat paths) at an installed copy of the game."""
+    global GAME, SOURCE_DAT, ENGLISH_DAT
+    GAME = Path(path).expanduser().resolve() if path else DEFAULT_GAME
+    SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
+    ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
+    return GAME
 RUSSIAN = re.compile(r"[А-Яа-яЁё]")
 RESOURCE = re.compile(
     r"(?i)^[^<>\r\n]+\.(?:aft|dat|gi|jpg|map|mp3|ogg|pkg|png|qmm|scr|tga|txt|wav)$"
@@ -244,8 +254,16 @@ def robot_properties(records):
             yield record.name, index, key, value
 
 
+def robots_dat(lang: str) -> Path:
+    """Vanilla robots.dat for lang (Eng/Rus). Prefer *.vanilla after the build patches CFG."""
+    vanilla = GAME / f"CFG/{lang}/robots.dat.vanilla"
+    if vanilla.exists():
+        return vanilla
+    return GAME / f"CFG/{lang}/robots.dat"
+
+
 def robot_rows(translations: dict[str, str]) -> list[dict[str, str]]:
-    source_data = (GAME / "CFG/Rus/robots.dat").read_bytes()
+    source_data = robots_dat("Rus").read_bytes()
     russian_raw, russian = parse_robots(source_data)
     assert encode_robots_raw(russian) == russian_raw, "robots.dat raw no-op round-trip differs"
     _, changed = parse_robots(source_data)
@@ -259,7 +277,7 @@ def robot_rows(translations: dict[str, str]) -> list[dict[str, str]]:
         value for record, index, _, value in robot_properties(reparsed)
         if (record, index) == (first_record, first_index)
     ) == first_value + " "
-    _, english = parse_robots((GAME / "CFG/Eng/robots.dat").read_bytes())
+    _, english = parse_robots(robots_dat("Eng").read_bytes())
     english_values = {
         (record, index): value for record, index, _, value in robot_properties(english)
     }
@@ -450,7 +468,13 @@ def check() -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("command", choices=("check",))
-    parser.parse_args()
+    parser.add_argument(
+        "--game",
+        type=Path,
+        help=f"game install folder (default: {DEFAULT_GAME})",
+    )
+    args = parser.parse_args()
+    configure_game(args.game)
     check()
 
 

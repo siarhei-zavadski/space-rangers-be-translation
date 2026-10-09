@@ -21,7 +21,7 @@ Do not infer the current workflow from old forum guides. Use the build script an
 
 ## Environment
 
-Expected game path:
+Default game path (override with `--game`):
 
 ```text
 ~/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart
@@ -39,11 +39,18 @@ BlockParEditor, SRResEditor, and TGE are not required for the current UI flow. T
 
 ## Build
 
-Run from project root:
+Run from project root (game closed):
 
 ```bash
 .venv/bin/python corpus_data.py check
 .venv/bin/python build_test_mod.py
+# optional: .venv/bin/python build_test_mod.py --game /path/to/Space\ Rangers\ HD\ A\ War\ Apart
+```
+
+To restore patched install files (`CFG/*/robots.dat` from `*.vanilla`, optional old `forms.pkg.vanilla`) and remove the mod folder:
+
+```bash
+.venv/bin/python build_test_mod.py --uninstall
 ```
 
 The build:
@@ -141,7 +148,7 @@ Packages {
 }
 ```
 
-`ModuleInfo.txt` must be UTF-16 little-endian with BOM and CRLF. Display the mod as **Belarusian**, not “Belarusian Classical”. `German` and `Spanish` are conflicts.
+`ModuleInfo.txt` must be UTF-16 little-endian with BOM and CRLF. `write_utf16` opens with `newline=""` so Windows does not turn `\r\n` into `\r\r\n`. Display the mod as **Belarusian**, not “Belarusian Classical”. `German` and `Spanish` are conflicts.
 
 ## Language rules
 
