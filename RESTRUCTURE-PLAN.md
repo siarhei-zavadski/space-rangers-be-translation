@@ -1,219 +1,298 @@
-# Repository restructure plan (draft)
+# Repository restructure plan
 
-Status: **draft for review, nothing implemented.** Numbers were measured on
-`main` at `28aaae6` (after the Domoclan merge).
+Status: draft for review; nothing is implemented. Numbers were measured on
+`main` at `28aaae6`, before PR #37.
 
-Goal: the public repository holds the Belarusian translation and the tools,
-not the game's Russian and English text. A second review pass ("recheck")
-can then start from a small, line-diffable tree with a clear cursor.
+## 1. Goal and owner decisions
 
-## 1. What is hard today
+Goal: the public tree holds the Belarusian text, the tools, and the language
+rules. The mod is built from that tree plus a locally installed game. Then
+installing the mod gets simpler for players.
 
-| Problem | Evidence |
-|---|---|
-| Size is mostly not Belarusian | `corpus/` is 56 MB. `be` is 16.3 MB; `source_phrase` 16.3 MB; `context` 9.5 MB; `labels` 0.7 MB; `identifier` 2.2 MB; `coverage.json` 12.3 MB (79,579 entries) |
-| `context` is half boilerplate | Each cell repeats the file, the path, and "Preserve every <tag> exactly." Only the English reference (4.6 MB, 32,202 rows) carries information. `labels` is derivable from the path |
-| Line endings in cells | 8,303 cells hold CRLF inside a quoted TSV cell; `Bomber` and `Ski` use CRLF row ends. One row can span several physical lines, and a wrong rewrite produced a 454-line diff ("Known LLM mistakes" #9) |
-| Game text is public | The repository is public. `THIRD_PARTY.md` says written permission should be obtained before the extracted source corpus is made public |
-| QA is slow | `qa_translation.py` takes 84 s; 83.7 s of it is one loop: 553 rejected-form terms regex-scanned against all 61,571 rows |
-| Duplicated I/O | `read_rows` exists in `corpus_data.py` and `validate_corpus.py`; `write_rows` (always LF) and `qa_translation.save` (keeps CRLF) disagree on line endings |
-| Stale files | `TRANSLATION-SCOPE.md` says 44,625 translated (all 61,571 are). The puzzle table in `TRANSLATION.md` still says Doomino, Edelweiss and Elus are "empty" |
-| Dead files | `.env.example` and the token regex in `validate_corpus.py` are for Crowdin, which no tool uses. `tools/fonts/Jura-VariableFont_wght.ttf` is unused, and `THIRD_PARTY.md` lists it under another name |
-| Legacy seeding | `corpus_data.refresh` seeds translations from `TERMBASE.tsv` ids and from an installed mod's `Lang.dat`; both were bootstrap paths for the first pass |
-| Rules repeated | "Starnik first" appears in `AGENTS.md`, `STYLE.md`, `TRANSLATION.md`, `README.md`, and both `.cursor/rules/*.mdc` |
-| No recheck cursor | `--batch` selects rows with an empty `be`. All rows are filled, so it prints nothing; there is no record of what was reviewed |
+Decided by the owner:
+
+1. Old git history keeps the Russian and English text. No history rewrite.
+2. PR #37 (`cursor/adapt-copied-russian-8f02`) is merged before any
+   restructuring starts.
+3. Russian and English leave the tree, because the build does not need them
+   (section 2.2). No private source repository, source pack, or CI secret.
+4. The next step after the restructure is simpler installation (phase 5).
 
 ## 2. Target layout
 
-Public repository:
+### 2.1 Files and format
 
 ```text
-translations/
-  lang_dat/<Section>.json     73 files
-  quests/<Quest>.qmm.json     80 files
-  robots.json                 931 strings
-  assets.json                 17 labels (was 5 files)
-TERMBASE.tsv  spell_allow.txt  qa_baseline.txt  review.tsv  puzzles.tsv
-build_test_mod.py  corpus_data.py  validate_corpus.py  qa_translation.py
-spell_check.py  aft_font.py  robots_storage.py  test_qa_translation.py
-README.md  AGENTS.md  STYLE.md  TRANSLATION.md  PUZZLES.md  FONT.md
-THIRD_PARTY.md  CONTRIBUTING.md  SECURITY.md  LICENSE
-tools/fonts/RussoOne-Regular.ttf  tools/fonts/OFL-RussoOne.txt
+corpus/lang_dat/<Section>.json   73 files
+corpus/quests/<Quest>.qmm.json   80 files
+corpus/robots/robots.json        931 strings
+corpus/assets/<Form>.json        5 files, 17 labels
 ```
 
-One translation file is a flat JSON object, one string per line, in game order:
+Each TSV becomes a JSON file at the same path. Each file is a flat object
+keyed by today's full identifier, with one string per line in game order:
 
 ```json
 {
 "/quests/Ski.qmm/parameters/0/name": "Папулярнасьць",
-"/quests/Ski.qmm/parameters/0/lines/0/content": "Курорт ненавідзяць",
-"/quests/Ski.qmm/parameters/0/lines/1/content": "Папулярнасьць курорту <> %"
+"/quests/Ski.qmm/parameters/0/lines/0/content": "Курорт ненавідзяць"
 }
 ```
 
-- Keys stay the current full identifiers, so `qa_baseline.txt`, failure
-  messages and every tool keep working without an id mapping layer.
-- CRLF is stored as the JSON escape `\r\n`, so a string is always one physical
-  line. `git diff` is line-based and the EOL trap disappears.
-- Written only by `json.dumps(data, ensure_ascii=False, indent=0)` plus a
-  trailing newline. The stdlib handles quoting and escaping.
-- Measured on a prototype: the whole tree is **19 MB** (from 56 MB), and the
-  `be` maps round-trip identically.
+I re-evaluated the format and kept JSON:
 
-Source pack, outside the public tree (see decision D1), checked out as
-`source/` and listed in `.gitignore`:
+- The stdlib escapes the CRLF in 8,303 cells as `\r\n`. Every string is one
+  physical line, so the line-ending trap ("Known LLM mistakes" #9) is gone.
+- A two-column `id<TAB>be` TSV is only 2% smaller (18.75 MB against 19.13 MB),
+  and it needs a homemade escape scheme. With csv quoting, the multi-line rows
+  come back.
+- Files are written only by `json.dumps(data, ensure_ascii=False, indent=0)`.
+  They are read with an `object_pairs_hook` that rejects duplicate keys;
+  plain `json.load` would silently keep only the last one.
 
-```text
-source/lang_dat/<Section>.json   {"<id>": {"ru": "...", "en": "..."}}
-source/quests/<Quest>.qmm.json
-source/robots.json  source/assets.json
-source/coverage.json             excluded ids and reasons
+A prototype shrank the tree from 56 MB to 19.13 MB, and the `id → be` maps
+round-tripped identically.
+
+### 2.2 The build needs only `identifier → be` and the game
+
+`build_test_mod.py` gets its text through four functions:
+`translations()`, `asset_translations()`, `write_translated_quests()`, and
+`write_translated_robots()`. They read only `identifier` and `be`. Every
+binary input comes from the game folder, and `ASSETS` is used only for its
+renderer field. The build never reads `context` or `labels`. `source_phrase`
+is read only in `check()`, which the build calls first, for the stale-source
+checks and `validate_tags`.
+
+Where the checks run afterwards:
+
+| Check | Russian from | Public CI | Game machine |
+|---|---|---|---|
+| JSON parses, no duplicate key, no empty `be`, tarask slips, termbase rows locked | not needed | yes | yes |
+| Ids unchanged, tag parity, digits, `<format>` widths, rejected forms, reports | tag (2.3) | yes | yes |
+| Ids match the game's classification (replaces `coverage.json`) | game | no | yes |
+| Tag parity against the game; game Russian equals tag Russian (replaces stale-source check) | game, tag | no | yes |
+| QMM and `robots.dat` round trips, build, in-game look | game | no | yes |
+
+Without the tag, public CI keeps only the first row. `spell_check.py` reads
+only `be` and stays local, because it needs hunspell. `--fix` keeps the tarask
+slips but no longer copies translations into empty rows, since none are empty.
+
+### 2.3 The Russian reference is a tag, not a copy
+
+Tag the merge commit of PR #37 as `v1-first-pass`. Tools read Russian and
+English with `git show v1-first-pass:corpus/<dir>/<file>.tsv` and join by id.
+A prototype read the 159 TSVs of the current commit this way in 0.7 s. The ids
+matched the JSON tree, and tag parity, digit, and width checks passed for all
+61,571 rows. This reuses history the owner already keeps, and Cloud Agents get
+it with a normal clone.
+
+The trade-off: tools depend on one history object, frozen at game build
+`2.1.2500` (open questions 1 and 2).
+
+### 2.4 `coverage.json` is deleted
+
+`coverage.json` (12.3 MB, 79,579 entries of id, kind, status, and reason, with
+no game text) has two jobs. In CI, it proves that the corpus ids equal its
+61,571 `translatable` entries; the tag's ids take over. On the game machine,
+`check()` compares it with the game's string ids. That is redundant, because
+`check()` already recomputes the translatable ids from the game, so a string
+that an update adds or removes still fails. The 18,008 excluded entries are
+documentation only.
+
+## 3. Phases
+
+Each phase is one PR. Phases 1, 2, and 4 must not change the built mod. The
+build proof runs on the game machine after `build_test_mod.py`:
+
+```bash
+GAME="$HOME/.local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+MOD="$GAME/Mods/Tweaks/BelTranslate"
+{ (cd build && find preview quests fonts -type f | sort | xargs -d '\n' sha256sum)
+  (cd "$MOD" && sha256sum CFG/*/Lang.dat CFG/robots.dat INSTALL_*.TXT ModuleInfo.txt)
+  sha256sum "$GAME/DATA/forms.pkg"; } > build-<phase>.sha256
 ```
 
-Measured: 25 MB of `ru`/`en` plus the 12 MB coverage manifest. It is
-regenerated by `corpus_data.py refresh` from a legitimate game install, never
-hand-edited.
+Do not hash `belarusian.pkg`. `rangers` stamps each generated GI with
+`[timestamp: <unix time>]` (confirmed by encoding one image twice). The
+previews are the exact images the GIs are made from. The other packages are
+hashed through their unpacked inputs, because `PKG.from_folder` packs in
+`os.listdir` order.
 
-## 3. Decisions needed before work starts
+### Phase 0: freeze (no PR)
 
-| # | Question | Options | Recommendation |
-|---|---|---|---|
-| D1 | Where do Russian and English live? | (a) private companion repo `space-rangers-be-source`; (b) a `source/` folder in this repo; (c) local only, regenerated from the game | (a). It removes game text from the public tree and still lets Cloud Agents recheck: add the private repo to the agent environment. (b) is simplest but keeps the rights problem. With (c), Cloud Agents cannot recheck at all |
-| D2 | Public git history still contains the source text | (a) keep history; (b) publish a fresh public repo from the new tree and make this one private; (c) rewrite history with `git filter-repo` and force-push | (a) if size is the only goal. (b) if the rights note in `THIRD_PARTY.md` matters. (c) breaks the 996-commit history and the PR links, so do it only with an explicit go |
-| D3 | CI without source | (a) CI checks out the private source with a read-only token secret and runs every check; (b) public CI runs structural checks only, full checks run locally and in agent runs | (a): six lines of workflow YAML and no new code. Pull requests from forks only get (b), which is acceptable for a solo project |
-| D4 | File format | (a) flat JSON as in section 2; (b) two-column TSV `id<TAB>be` | (a). TSV still needs quoting and custom escaping for 8,303 multi-line cells |
-| D5 | Review state | (a) per-file cursor in `review.tsv`; (b) a list of reviewed ids | (a). One row per file; upgrade to (b) only if file order starts changing mid-pass |
+- Merge PR #37.
+- On the game machine, at the merge commit, `corpus_data.py check` must pass.
+- Run `corpus_data.py refresh` once; `git diff --ignore-cr-at-eol --stat` must
+  print nothing. (`write_rows` turns the CRLF row ends of `Bomber` and `Ski`
+  into LF.) Then run `git checkout -- corpus`. This proves the tag's Russian
+  and English equal the game's, including the 44,138 quest rows that
+  `check()` never compares.
+- Build twice and save both hash lists; they must be identical, or the proof
+  in later phases means nothing. Keep one as `build-0.sha256`, tag the commit
+  `v1-first-pass`, and push the tag.
 
-Rejected alternatives:
+### Phase 1: Belarusian-only tree (three commits)
 
-- **gettext PO:** the tooling and `fuzzy` flags would fit a recheck, but every
-  entry carries `msgid`, the Russian text, so the files cannot be
-  Belarusian-only.
-- **Keying by Russian text** (a translation memory): this would collapse
-  18,193 repeated rows, but it loses per-context wording such as `Выхад`
-  versus `Выйсьці`, and the files would need the source text to resolve.
-- **Only trimming `context` and `labels`:** saves about 6 MB, but keeps the
-  CRLF trap and the Russian text in the public tree.
+1. Add one stdlib loader and saver to `validate_corpus.py`, plus `source()`,
+   which reads `{id: (ru, en)}` from the tag. The other scripts import them.
+   The second `read_rows` and both TSV writers go; the writers disagreed on
+   line endings.
+2. A one-off converter, not committed, writes `corpus/**/*.json`, deletes the
+   TSVs and `coverage.json`, and asserts the `id → be` map equals the tag's.
+3. Checks and deletions:
+   - `validate_corpus.py` runs the first two rows of the table in 2.2, and
+     `corpus_data.py check` runs rows three and four.
+   - From `corpus_data.py`, delete `refresh()`, `termbase_translations()`, the
+     installed-mod `Lang.dat` harvest, the coverage code, `write_rows`, and
+     `clean_generated`. The row builders stay for `check()`, and `ASSETS`
+     keeps only the renderer.
+   - Drop `qa_translation.py --batch`. It picks empty rows, so it prints
+     nothing today.
+   - Delete `audit_translation_scope.py` and `TRANSLATION-SCOPE.md`, which is
+     stale (it says 44,625 translated).
+   - `.gitattributes` treats `*.tsv` as normal text. CI checks out with
+     `fetch-depth: 0`, which fetches tags; the pack is 17 MB, measured
+     locally. In the docs, update only lines that name a changed path or
+     command.
 
-## 4. Phases
+Proof: the converter assertion, the same `qa_translation.py` counts as on the
+tag, and `build-1.sha256` equal to `build-0.sha256`.
 
-Each phase is one pull request. Phases 1–3 change no `be` text.
+### Phase 2: speed and dead weight
 
-### Phase 0: freeze
+- Index the rejected forms and Russian stems, and scan each row once instead
+  of 553 regex passes. In my run that loop took about 82 s of the script's
+  83 s. A prototype took 2.2 s and found the same 398 rows.
+- Delete `--baseline`. It rewrites `qa_baseline.txt` from scratch, against the
+  rule "never add rows".
+- Delete the Crowdin leftovers: `.env.example` and the token regex.
+- Delete the unused Jura font and `OFL-Jura.txt`. Also delete the
+  `THIRD_PARTY.md` line, which names a nonexistent `Jura-Regular.ttf`.
+- Give `CONTROL` one home, so `spell_check.py` stops needing `rangers`.
 
-- Merge or close draft PR #37 ("Adapt Russian leftovers"). It rewrites 518
-  lines of `MicroModuls.tsv` and would conflict with the migration.
-- Tag `main` as `v1-first-pass` so the TSV era is one checkout away.
-- On the machine with the game: run `build_test_mod.py` and save SHA-256
-  hashes of both `Lang.dat` files, `belarusian_quests.pkg` and `robots.dat`.
-  These hashes are the equivalence target for phase 1.
-- Answer D1–D5.
+Proof: the same as in phase 1.
 
-### Phase 1: split the corpus (mechanical, one commit)
+### Phase 3: the fonts package (changes the build on purpose)
 
-- A one-shot converter, run once and not kept, writes `translations/**.json`
-  from `be` and the source pack from `source_phrase`, the English part of
-  `context`, and `coverage.json`.
-- Delete `corpus/`. Drop `*.tsv -text` from `.gitattributes`; add `source/`
-  to `.gitignore`.
-- Proof:
-  1. the `id → be` map is identical before and after, for all 61,571 rows;
-  2. the `id → (ru, en)` map is identical;
-  3. on the game machine, build output hashes equal the phase 0 hashes.
+`AGENTS.md` contradicts itself. "PKG and manifests" says both manifests must
+mount `belarusian_fonts.pkg`. "Font", like `FONT.md`, says a mod PKG of
+`DATA/FONT` is ignored, so the build patches the game's `DATA/forms.pkg` in
+place. Both came in commit `d5d3052`, and the build does both. Its self-check
+inspects the package, not the `forms.pkg` the game reads.
 
-### Phase 2: tools on the new layout
+Test by building without the package. Check `і` and `ў` on a text screen, plus
+the one quest line with `’` (quest text is not apostrophe-folded). If they
+render, delete the package, `write_patched_fonts()`, and the unused `bold`
+parameter, and point the self-check at `forms.pkg`. Otherwise, document why
+the package stays.
 
-- **One loader and saver**, stdlib only, in `validate_corpus.py`. It reads
-  translations and, when present, source, then joins them by id. It rejects
-  duplicate keys with `object_pairs_hook`, because `json.load` silently keeps
-  the last one. Every other script imports it, which removes the second
-  `read_rows` and the two writers that disagree on line endings.
-- **`validate_corpus.py`:** valid JSON, no duplicate ids, no empty `be`,
-  identifier shape, and every `puzzles.tsv` token still present in its quest.
-  When `source/` is present, it adds tag parity and checks the id set against
-  `coverage.json`. The `TRANSLATION-SCOPE.md` check and the Crowdin token
-  regex go away.
-- **`qa_translation.py`:**
-  - Index the rejected forms by word prefix and scan each `be` cell once,
-    instead of 553 full passes. Target: seconds, not 84 s.
-  - Replace `--batch` with `--review FILE -n 50`. It prints the next 50
-    unique sources after the `review.tsv` cursor: id, row count, `ru`, `en`,
-    current `be`, termbase hints, and other translations of the same source.
-  - Keep `--fix` as it is.
-- **`corpus_data.py`:**
-  - `refresh` writes the source pack and adds empty entries for new ids. It
-    reports ids that no longer exist instead of dropping them silently.
-  - `check` reads both trees.
-  - Delete `termbase_translations()` and the installed-mod `Lang.dat`
-    harvesting.
-- **`build_test_mod.py`:** no change. It goes through `corpus_data`
-  (`translations`, `asset_translations`, `write_translated_*`).
-- **`spell_check.py`:** reads through the loader. Optionally add `--prune` to
-  drop `spell_allow.txt` tokens that no longer occur.
-- **Delete:**
-  - `audit_translation_scope.py` and `TRANSLATION-SCOPE.md`;
-    `validate_corpus.py` already prints the counts;
-  - `.env.example`;
-  - the unused Jura font, `OFL-Jura.txt`, and the Jura line in
-    `THIRD_PARTY.md`.
-- **CI:** add the private checkout (D3) and keep the binary-file guard.
+Proof: hashes are equal except `build/fonts` and the manifests, plus an
+in-game screenshot.
 
-### Phase 3: one home per rule
+### Phase 4: one home per rule
 
-- **`STYLE.md`** absorbs `ORTHO.md` and "Tools, in this order". Delete
-  `ORTHO.md`.
-- **`PUZZLES.md`** takes the puzzle sections out of `TRANSLATION.md`, without
-  the "filled"/"empty" status words. Those words went stale; the validator
-  reports state. The frozen tokens (`Арес`, `16, 13, 18, 1, 17, 30`,
-  `VIGENERE`, `195449`, the `<fix>` widths, and so on) also go into
-  `puzzles.tsv` (`file`, `token`, `why`) so CI catches a "correction".
-- **`TRANSLATION.md`** keeps the line procedure, "Known LLM mistakes" (#9
-  rewritten for JSON), and the recheck order from phase 4. `--review` prints
-  the `PUZZLES.md` line for the file instead of grepping `TRANSLATION.md`.
-- **`AGENTS.md`, `README.md`, `CONTRIBUTING.md`** get the new paths and
-  commands. The language rules stay in `STYLE.md` and are linked, not
-  repeated.
-- **`.cursor/rules/translator.mdc` and `starnik.mdc`:** new commands, and one
-  short Starnik rule instead of six copies.
-- **`TERMBASE.tsv`:**
-  - drop the 77 UI-string rows (`FormMain.New`, …); the translation files are
-    the source of truth for those;
-  - merge the 114 duplicated Russian keys;
-  - list the 1,011 rows whose `source` is a quest or TSV name instead of a
-    Starnik URL, for phase 4.
+- Fix stale text:
+  - The puzzle table still calls `Doomino`, `Edelweiss`, and `Elus` "empty".
+  - `AGENTS.md` says ranger-tools is vendored in `tools/ranger-tools/`, but it
+    is pip-installed from the pin in `requirements-local.txt`.
+  - The font sections need to match phase 3.
+- Rewrite "Known LLM mistakes" #9 for JSON.
+- Merge `ORTHO.md` into `STYLE.md`. The Starnik rule lives only in `STYLE.md`
+  and `starnik.mdc`; other files link to it.
 
-### Phase 4: the recheck pass
+### Phase 5: simpler installation (next step, outline)
 
-The order puts machine-found problems first and puzzle files last:
+Today `build_test_mod.py` runs on the game machine. It writes three packages
+(buttons, fonts, quests) into `<game>/Mods/Tweaks/BelTranslate/`, along with
+full patched `CFG/{Eng,Rus}/Lang.dat`, `CFG/robots.dat`, two manifests, and
+`ModuleInfo.txt`. It also rewrites the game's own `forms.pkg`. The player
+enables the mod on the Mods screen.
 
-1. **Consistency:** 168 Russian sources translated more than one way (3,134
-   rows), for example `Отмена` as `Скасаваць` 21 times and `Адмена` 7 times.
-   Decide each one, and record the deliberate splits (`Выхад` versus
-   `Выйсьці`) in `TERMBASE.tsv`.
-2. **Leftovers:** the 67 rows that still equal the Russian source, minus what
-   PR #37 already fixed.
-3. **Rejected forms:** the 435 rows in `qa_baseline.txt`. Fix them and delete
-   the file when it is empty.
-4. **Termbase:** give the 1,011 rows without a Starnik source a real
-   `source`.
-5. **UI sections of `Lang.dat`:** `Form*`, `Items`, `MicroModuls`,
-   `Achievements`, and the other short labels seen on every screen.
-6. **Narrative `Lang.dat`:** `Talk`, `Quest`, `Script`, `GalaxyNews`,
-   `ShipGreetings`, `GovGreetings`, `FormRuins`.
-7. **Quests:** ordinary quests, then the width-sensitive ones, then the
-   puzzle files with `PUZZLES.md` open.
+Four things block players:
 
-Rhythm: one batch (`--review FILE -n 50`) per commit, with the cursor bump in
-the same commit, and one PR per file, as in the first pass. Each file group
-ends with an in-game spot check on the machine with the game.
+- The Linux Steam path is hard-coded in three modules.
+- The build needs Python 3.10+, Pillow, and ranger-tools. ranger-tools has no
+  license (none on GitHub or in its README), so the project cannot bundle it.
+- The `forms.pkg` patch survives disabling the mod and nothing undoes it. Per
+  `AGENTS.md`, a Steam "verify files" removes it.
+- On Windows, `write_utf16` would write `\r\r\n` line ends (reproduced with
+  `newline="\r\n"`).
 
-## 5. Risks
+The outputs are game files with Belarusian swapped in. `Lang.dat` keeps
+10,879 excluded values and `robots.dat` keeps 7,129. The quests keep their
+logic, the buttons keep the game's art, and the fonts are the game's bitmaps.
+`THIRD_PARTY.md` says the game is not redistributed.
+
+- **Option A, a prebuilt download.** The owner attaches the built mod to a
+  release; the player unzips it and enables it. Ceiling: it redistributes the
+  game content above, a zip cannot patch `forms.pkg`, and every release needs
+  the game machine.
+- **Option B, a patcher the player runs.** CI zips the scripts, `corpus/`, and
+  the Russo One font, with no game files. The player runs one command on their
+  game folder, which builds the mod, patches `forms.pkg` with a backup, and
+  can uninstall. The player then enables the mod on the Mods screen, because
+  writing `ModCFG.txt` would replace their mod choice. Only Belarusian text,
+  MIT code, and an OFL font are distributed. Ceiling: players need Python
+  until a single executable exists, which needs a ranger-tools license. It
+  must also rerun after a Steam verify.
+
+Recommendation: B. The first PRs are a game-path argument with the newline
+fix, an uninstall that restores `forms.pkg.vanilla`, and a release workflow.
+Before designing more, test one thing in the game: does the engine merge a mod
+`Lang.dat` that holds only the translated keys? If it does, CI can build both
+`Lang.dat` files from the JSON without any game text. The DAT writer needs no
+game file and is deterministic (measured). Quests, `robots.dat`, buttons, and
+fonts always start from game files.
+
+### Phase 6: the recheck (later; can run alongside phase 5)
+
+- `qa_translation.py --review FILE -n 50` prints the next 50 unique Russian
+  sources after the file's cursor. Each line shows the id, the row count, the
+  Russian and English from the tag, the current `be`, termbase hints, and the
+  other translations. Cloud Agents can run it without the game.
+- `review.tsv` holds one row per file with the last reviewed id. It is bumped
+  in each batch commit and deleted when the pass ends. It replaces the first
+  pass's cursor, the empty `be` cell.
+- `puzzles.tsv` (`file`, `token`) lists frozen tokens such as `Арес`,
+  `16, 13, 18, 1, 17, 30`, `VIGENERE`, and `195449`, and CI checks they are
+  still present. This is the first pass that edits filled puzzle lines.
+
+Order, machine-found problems first:
+
+1. The 168 sources translated more than one way (3,134 rows) and the 67 rows
+   equal to the Russian, minus PR #37's fixes.
+2. `qa_baseline.txt`: 37 of 435 rows no longer trigger and go now; fix the
+   other 398.
+3. `TERMBASE.tsv`: the 114 duplicated `ru` keys, and Starnik URLs for the 1,011
+   rows sourced from a quest or TSV name. Also the 77 UI-string rows, which
+   nothing reads once `refresh()` is gone.
+4. UI sections, narrative sections, then quests, with puzzle files last. One
+   batch per commit, one PR per file.
+
+## 4. Risks
 
 | Risk | Guard |
 |---|---|
-| Lossy conversion of multi-line or quoted cells | Phase 1 map equality and build hash equality |
-| `json.load` drops a duplicated key | The loader's `object_pairs_hook` raises |
-| An agent writes broken JSON, or an unescaped `"` or `\` | The validator parses every file; a broken file fails CI before review |
-| Public translations and private source drift apart | `refresh` writes both; the validator compares the id sets when `source/` is present |
-| Cloud Agents cannot see the private source | Add the source repo to the Cloud Agent environment. Without it, `--review` stops with a clear message instead of printing `be` alone |
-| Old commits still expose the source | Decision D2 |
+| Lossy conversion of multi-line or quoted cells | Converter assertion; build hashes |
+| Broken JSON or a duplicated key from an edit | CI parses every file; the loader rejects duplicate keys |
+| Tag missing (fork, shallow clone) or moved | Tools say "fetch the tag"; CI fetches history; the game-machine check catches a moved tag |
+| A game update changes Russian strings | `check()` lists ids whose game Russian differs from the tag |
+
+## 5. Open questions for the owner
+
+1. May tools read Russian and English from the `v1-first-pass` tag? The plan
+   assumes yes. If not, public CI runs only the first row of the table in 2.2.
+   The recheck then runs only on the game machine, from a gitignored view that
+   the row builders write. Cloud Agents could not recheck.
+2. If a game update changes the Russian, should a new tag record it? That adds
+   the new text to history; the alternative is to review those ids only on the
+   game machine.
+3. Three engine behaviors need testing:
+   - Does native Windows also ignore a mod `DATA/FONT` package? `FONT.md`
+     records Proton only.
+   - Does the engine read the mod's `CFG/robots.dat`, given the game keeps
+     `Rus/` and `Eng/` copies?
+   - Does the engine merge a partial mod `Lang.dat`?
+4. Will you ask ranger-tools' author (denballakh) for a license? A bundled
+   patcher depends on it.
+5. Is option A acceptable even as a stopgap? The plan recommends against it.
