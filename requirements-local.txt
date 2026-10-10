@@ -1,2 +1,3 @@
 # Full extraction/build tooling; CI corpus validation uses only the stdlib.
-git+https://github.com/denballakh/ranger-tools.git@b3c0ce20d1cf61b030f3c33482d09b91500b75c6
+# Zip archive (not git+) so Windows players do not need Git installed.
+https://github.com/denballakh/ranger-tools/archive/b3c0ce20d1cf61b030f3c33482d09b91500b75c6.zip

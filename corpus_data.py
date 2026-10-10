@@ -5,10 +5,12 @@ from collections import Counter, defaultdict
 import argparse
 import csv
 import io
+import os
 from pathlib import Path
 import re
 import shutil
 import subprocess
+import sys
 from tempfile import TemporaryDirectory
 
 from rangers.dat import DAT
@@ -23,7 +25,17 @@ from robots_storage import replace_array
 from validate_corpus import CONTROL, CORPUS, ROOT as PROJECT, corpus_files, load
 
 
-DEFAULT_GAME = Path.home() / ".local/share/Steam/steamapps/common/Space Rangers HD A War Apart"
+_GAME_NAME = "Space Rangers HD A War Apart"
+if sys.platform == "win32":
+    DEFAULT_GAME = (
+        Path(os.environ.get("ProgramFiles(x86)", r"C:\Program Files (x86)"))
+        / "Steam"
+        / "steamapps"
+        / "common"
+        / _GAME_NAME
+    )
+else:
+    DEFAULT_GAME = Path.home() / ".local/share/Steam/steamapps/common" / _GAME_NAME
 GAME = DEFAULT_GAME
 SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
 ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
@@ -32,15 +44,35 @@ QUEST_DIR = CORPUS / "quests"
 ASSET_DIR = CORPUS / "assets"
 ROBOTS_DIR = CORPUS / "robots"
 TAG = "v1-first-pass"
+LANGS: tuple[str, ...] | None = None
+
+
+def detect_langs(game: Path) -> tuple[str, ...]:
+    """Rus files are required: corpus ids and robots.dat indices are Rus. Eng is optional."""
+    for rel in ("CFG/Rus/Lang.dat", "CFG/Rus/robots.dat", "DATA/russian.pkg", "DATA/questsRus.pkg"):
+        if not (game / rel).is_file():
+            raise FileNotFoundError(f"Missing {game / rel}")
+    return ("Rus", "Eng") if (game / "CFG/Eng/Lang.dat").is_file() else ("Rus",)
 
 
 def configure_game(path: Path | str | None = None) -> Path:
     """Point GAME (and the Lang.dat paths) at an installed copy of the game."""
-    global GAME, SOURCE_DAT, ENGLISH_DAT
+    global GAME, SOURCE_DAT, ENGLISH_DAT, LANGS
     GAME = Path(path).expanduser().resolve() if path else DEFAULT_GAME
     SOURCE_DAT = GAME / "CFG/Rus/Lang.dat"
     ENGLISH_DAT = GAME / "CFG/Eng/Lang.dat"
+    LANGS = None
     return GAME
+
+
+def game_langs() -> tuple[str, ...]:
+    """Cached detect_langs(GAME); call after configure_game."""
+    global LANGS
+    if LANGS is None:
+        LANGS = detect_langs(GAME)
+    return LANGS
+
+
 RUSSIAN = re.compile(r"[А-Яа-яЁё]")
 RESOURCE = re.compile(
     r"(?i)^[^<>\r\n]+\.(?:aft|dat|gi|jpg|map|mp3|ogg|pkg|png|qmm|scr|tga|txt|wav)$"
@@ -62,7 +94,7 @@ QUEST_LITERAL_KEYS = {
     "ranger": "<Ranger>",
 }
 
-# Baked GI labels in the corpus, and how the build renders each one.
+# The corpus stores the words; build metadata maps those words back to GI assets.
 ASSETS = {
     ("FormMain2", "New"): "button",
     ("FormMain2", "Load"): "button",
@@ -375,7 +407,7 @@ def write_translated_quests(destination: Path) -> int:
                 set_value(data, path, target)
             encoded = encode_quest(data)
             parse_quest(encoded)
-            for language in ("Rus", "Eng"):
+            for language in game_langs():
                 output_name = name if language == "Rus" else f"{Path(name).stem}_eng.qmm"
                 output = destination / f"Data/Quest/{language}/{output_name}"
                 output.parent.mkdir(parents=True, exist_ok=True)
@@ -388,36 +420,15 @@ def write_translated_robots(cfg_dir: Path) -> int:
 
     MatrixGame opens the game install's CFG/{Eng,Rus}/robots.dat directly; a mod
     overlay is ignored (unlike Lang.dat). Keep .vanilla backups beside them.
-    Mod copies match German/Spanish (CFG/robots.dat) plus CFG/{Eng,Rus}/.
+    Mod copies match German/Spanish (CFG/robots.dat) plus CFG/{lang}/ for each
+    installed language.
     """
+    langs = game_langs()
     targets = {
         (parts[1], int(parts[2])): target
         for identifier, target in load(ROBOTS_DIR / "robots.json").items()
         if (parts := unpointer(identifier))
     }
-    eng_vanilla = GAME / "CFG/Eng/robots.dat.vanilla"
-    rus_vanilla = GAME / "CFG/Rus/robots.dat.vanilla"
-    eng_path = GAME / "CFG/Eng/robots.dat"
-    rus_path = GAME / "CFG/Rus/robots.dat"
-    if not eng_vanilla.exists():
-        shutil.copy2(eng_path, eng_vanilla)
-    if not rus_vanilla.exists():
-        shutil.copy2(rus_path, rus_vanilla)
-
-    _, russian = parse_robots(rus_vanilla.read_bytes())
-    _, english = parse_robots(eng_vanilla.read_bytes())
-    key_of = {(record, index): key for record, index, key, _ in robot_properties(russian)}
-    ru_order, en_order = defaultdict(list), defaultdict(list)
-    for record, index, key, _ in robot_properties(russian):
-        ru_order[(record, key)].append(index)
-    for record, index, key, _ in robot_properties(english):
-        en_order[(record, key)].append(index)
-    eng_targets = {}
-    for (record, index), target in targets.items():
-        key = key_of[(record, index)]
-        order = ru_order[(record, key)].index(index)
-        if order < len(en_order[(record, key)]):
-            eng_targets[(record, en_order[(record, key)][order])] = target
 
     def encode(source: bytes, by_index: dict[tuple[str, int], str]) -> bytes:
         if not by_index:
@@ -435,18 +446,42 @@ def write_translated_robots(cfg_dir: Path) -> int:
         assert all(values[pair] == target for pair, target in by_index.items())
         return encoded
 
-    eng_bytes = encode(eng_vanilla.read_bytes(), eng_targets)
-    rus_bytes = encode(rus_vanilla.read_bytes(), targets)
-    # Game files MatrixGame actually opens:
-    eng_path.write_bytes(eng_bytes)
-    rus_path.write_bytes(rus_bytes)
-    # Mod tree (same bytes; CFG/robots.dat = Eng layout, like German/Spanish)
-    for destination in (cfg_dir / "robots.dat", cfg_dir / "Eng/robots.dat"):
-        destination.parent.mkdir(parents=True, exist_ok=True)
-        destination.write_bytes(eng_bytes)
-    rus_mod = cfg_dir / "Rus/robots.dat"
-    rus_mod.parent.mkdir(parents=True, exist_ok=True)
-    rus_mod.write_bytes(rus_bytes)
+    for lang in langs:
+        vanilla = GAME / f"CFG/{lang}/robots.dat.vanilla"
+        if not vanilla.exists():
+            shutil.copy2(GAME / f"CFG/{lang}/robots.dat", vanilla)
+    rus_vanilla = GAME / "CFG/Rus/robots.dat.vanilla"
+    # Corpus indices are Rus indices; Eng orders some properties differently.
+    patched = {"Rus": encode(rus_vanilla.read_bytes(), targets)}
+    if "Eng" in langs:
+        eng_vanilla = GAME / "CFG/Eng/robots.dat.vanilla"
+        _, russian = parse_robots(rus_vanilla.read_bytes())
+        _, english = parse_robots(eng_vanilla.read_bytes())
+        key_of = {(record, index): key for record, index, key, _ in robot_properties(russian)}
+        ru_order, en_order = defaultdict(list), defaultdict(list)
+        for record, index, key, _ in robot_properties(russian):
+            ru_order[(record, key)].append(index)
+        for record, index, key, _ in robot_properties(english):
+            en_order[(record, key)].append(index)
+        eng_targets = {}
+        for (record, index), target in targets.items():
+            key = key_of[(record, index)]
+            order = ru_order[(record, key)].index(index)
+            if order < len(en_order[(record, key)]):
+                eng_targets[(record, en_order[(record, key)][order])] = target
+        patched["Eng"] = encode(eng_vanilla.read_bytes(), eng_targets)
+
+    for lang, data in patched.items():
+        path = GAME / f"CFG/{lang}/robots.dat"
+        path.write_bytes(data)
+        mod_path = cfg_dir / lang / "robots.dat"
+        mod_path.parent.mkdir(parents=True, exist_ok=True)
+        mod_path.write_bytes(data)
+
+    # CFG/robots.dat = Eng layout when Eng exists (like German/Spanish), else Rus.
+    root = cfg_dir / "robots.dat"
+    root.parent.mkdir(parents=True, exist_ok=True)
+    root.write_bytes(patched.get("Eng", patched["Rus"]))
     return len(targets)
 
 
@@ -461,7 +496,61 @@ def validate_tags(source: str, target: str, location: str) -> None:
         raise ValueError(f"{location}: placeholders or control syntax differ")
 
 
+def _value_or_none(root, parts: tuple[str, ...]):
+    try:
+        return value_at(root, parts)
+    except (KeyError, IndexError, TypeError, ValueError):
+        return None
+
+
+def check_player() -> None:
+    """Player install: every corpus id exists in the Rus game files, with matching tags."""
+    files = corpus()
+    if not files:
+        raise FileNotFoundError("No corpus files")
+    translations = translations_by_id(files)
+    russian = DAT.from_dat(SOURCE_DAT).to_dict()
+    _, robot_records = parse_robots(robots_dat("Rus").read_bytes())
+    robots = {
+        pointer(("robots", record, str(index))): value
+        for record, index, _, value in robot_properties(robot_records)
+    }
+    missing = []
+    with TemporaryDirectory() as temporary:
+        quest_files = unpack_quests(GAME / "DATA/questsRus.pkg", Path(temporary))
+        quests = {}
+        for identifier, target in translations.items():
+            parts = unpointer(identifier)
+            if parts[0] == "assets":
+                continue
+            if parts[0] == "robots":
+                source = robots.get(identifier)
+            elif parts[0] == "quests":
+                if parts[1] not in quests:
+                    path = quest_files.get(parts[1])
+                    quests[parts[1]] = parse_quest(path.read_bytes()) if path else None
+                source = _value_or_none(quests[parts[1]], parts[2:])
+            else:
+                source = _value_or_none(russian, parts)
+            if isinstance(source, str):
+                validate_tags(source, target, identifier)
+            else:
+                missing.append(identifier)
+    if missing:
+        raise ValueError(f"{len(missing)} corpus ids missing from the Rus game files, e.g. {missing[:5]}")
+    print(f"Valid: {len(translations)} corpus ids present in the Rus game files (player check)")
+
+
 def check(*, compare_tag: bool = True) -> None:
+    if not compare_tag:
+        check_player()
+        return
+    if "Eng" not in game_langs():
+        raise SystemExit(
+            "Developer check needs both CFG/Eng and CFG/Rus game files. "
+            "On a Rus-only install use install.py or build_test_mod.py --no-tag-check."
+        )
+
     files = corpus()
     if not files:
         raise FileNotFoundError("No corpus files")
@@ -483,27 +572,21 @@ def check(*, compare_tag: bool = True) -> None:
         for row in r:
             validate_tags(row["source_phrase"], row["be"], f"{path.name}:{row['identifier']}")
 
-    if compare_tag:
-        tagged = tag_sources()
-        stale = [
-            row["identifier"]
-            for r in rows.values()
-            for row in r
-            if tagged.get(row["identifier"]) != row["source_phrase"]
-        ]
-        if stale:
-            raise ValueError(
-                f"{len(stale)} game Russian lines differ from the Russian at {TAG}, e.g. {stale[:5]}"
-            )
-        print(
-            f"Valid: {len(translations)} translated strings in {len(files)} corpus files; "
-            f"game Russian matches {TAG}"
+    tagged = tag_sources()
+    stale = [
+        row["identifier"]
+        for r in rows.values()
+        for row in r
+        if tagged.get(row["identifier"]) != row["source_phrase"]
+    ]
+    if stale:
+        raise ValueError(
+            f"{len(stale)} game Russian lines differ from the Russian at {TAG}, e.g. {stale[:5]}"
         )
-    else:
-        print(
-            f"Valid: {len(translations)} translated strings in {len(files)} corpus files "
-            f"(skipped {TAG} Russian check)"
-        )
+    print(
+        f"Valid: {len(translations)} translated strings in {len(files)} corpus files; "
+        f"game Russian matches {TAG}"
+    )
 
 
 def main() -> None:

@@ -33,6 +33,9 @@ jobs:
       - name: Check translated rows
         run: python test_qa_translation.py
 
+      - name: Check installer mod list
+        run: python test_install.py
+
       # Binary from GitHub Releases — docker://rhysd/actionlint hits Docker Hub rate limits.
       - name: Validate GitHub workflows
         shell: bash
