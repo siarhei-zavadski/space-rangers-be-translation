@@ -2,6 +2,7 @@
 """Build the Belarusian UI translation mod (Lang.dat + menu button GI)."""
 
 import argparse
+import os
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import shutil
@@ -18,6 +19,7 @@ from corpus_data import (
     asset_translations,
     check as check_corpus,
     configure_game,
+    game_langs,
     set_value,
     translations,
     write_translated_quests,
@@ -82,8 +84,8 @@ def write_utf16(path: Path, text: str) -> None:
 
 def uninstall(game: Path) -> None:
     """Restore patched game files and remove Mods/Tweaks/BelTranslate."""
-    for rel in ("CFG/Eng/robots.dat", "CFG/Rus/robots.dat"):
-        path = game / rel
+    for lang in ("Eng", "Rus"):
+        path = game / f"CFG/{lang}/robots.dat"
         backup = path.with_name(path.name + ".vanilla")
         if backup.exists():
             shutil.copy2(backup, path)
@@ -104,6 +106,8 @@ def uninstall(game: Path) -> None:
 def build(game: Path, *, compare_tag: bool = True) -> None:
     mod = game / "Mods/Tweaks/BelTranslate"
     assert FONT.exists(), FONT
+    langs = game_langs()
+    print(f"Game languages: {','.join(langs)}")
     check_corpus(compare_tag=compare_tag)
     source_pkg = game / "DATA/russian.pkg"
     assert source_pkg.exists(), source_pkg
@@ -161,7 +165,7 @@ def build(game: Path, *, compare_tag: bool = True) -> None:
     elif quest_package.exists():
         quest_package.unlink()
 
-    for language in ("Eng", "Rus"):
+    for language in langs:
         destination = mod / f"CFG/{language}/Lang.dat"
         destination.parent.mkdir(parents=True, exist_ok=True)
         patch_dat(game / f"CFG/{language}/Lang.dat", destination)
@@ -180,14 +184,15 @@ def build(game: Path, *, compare_tag: bool = True) -> None:
     (mod / "INSTALL_ENGLISH.TXT").write_text(manifest, encoding="ascii", newline="\r\n")
     (mod / "INSTALL_RUSSIAN.TXT").write_text(manifest, encoding="ascii", newline="\r\n")
 
-    info = """Name=Belarusian
+    languages = ",".join(langs)
+    info = f"""Name=Belarusian
 Author=siarhei
 Conflict=German,Spanish
 Dependence=
 Priority=6
 Section=Твики
 SectionEng=Tweaks
-Languages=Rus,Eng
+Languages={languages}
 SmallDescription=Беларускі пераклад
 SmallDescriptionEng=Belarusian translation
 FullDescription=Беларускі пераклад Space Rangers HD.
@@ -196,17 +201,23 @@ FullDescriptionEng=Belarusian translation for Space Rangers HD.
     write_utf16(mod / "ModuleInfo.txt", info)
 
     # Structural self-check: package can unpack and every generated GI decodes.
+    # Use listdir names (not Path.exists) so Windows case-folding does not treat
+    # Data/ and DATA/ as the same folder.
     with TemporaryDirectory() as temporary:
-        extracted = Path(temporary)
+        extracted = Path(temporary) / "buttons"
+        extracted.mkdir()
         PKG.from_file(mod / "DATA/belarusian.pkg").to_folder(extracted)
         for (folder, button) in buttons:
             for state in "NAD":
                 gi = GI.from_gi(extracted / f"Data/{folder}/2But{button}{state}.gi")
                 assert gi.to_image().size == (316, 45)
-        assert not (extracted / "DATA").exists()
+        button_roots = set(os.listdir(extracted))
+        assert button_roots == {"Data"}, button_roots
         fonts_extracted = Path(temporary) / "fonts"
         fonts_extracted.mkdir()
         PKG.from_file(mod / "DATA/belarusian_fonts.pkg").to_folder(fonts_extracted)
+        font_roots = set(os.listdir(fonts_extracted))
+        assert font_roots == {"DATA"}, font_roots
         fonts = list((fonts_extracted / "DATA/FONT").glob("*.aft"))
         assert len(fonts) == font_count
         patched = fonts[0].read_bytes()
@@ -245,7 +256,8 @@ def main() -> None:
     parser.add_argument(
         "--no-tag-check",
         action="store_true",
-        help="skip the v1-first-pass Russian-tag check (zip/player installs without git history)",
+        help="player check only: corpus ids and tags against the Rus game files, "
+        "without the v1-first-pass git tag (zip installs, Rus-only installs)",
     )
     args = parser.parse_args()
     game = configure_game(args.game)

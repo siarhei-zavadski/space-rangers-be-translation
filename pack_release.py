@@ -22,6 +22,7 @@ ROOT_FILES = (
     "requirements-local.txt",
     "TERMBASE.tsv",
     "install.py",
+    "install.bat",
     "build_test_mod.py",
     "corpus_data.py",
     "aft_font.py",
@@ -76,6 +77,7 @@ def pack(destination: Path | None = None) -> Path:
             archive.write(path, arcname=arc)
         names = set(archive.namelist())
     assert f"{PREFIX}/install.py" in names
+    assert f"{PREFIX}/install.bat" in names
     assert f"{PREFIX}/corpus/robots/robots.json" in names
     assert f"{PREFIX}/tools/fonts/RussoOne-Regular.ttf" in names
     assert not any(FORBIDDEN.search(name) for name in names)
